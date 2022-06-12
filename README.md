@@ -10,6 +10,9 @@
 - Service Backend Developer
 - Static Analysis Developer
 
+## 📘My Resume
+- [Click](https://damho1104.notion.site/8af3191b9815406d95708d9a0cea5a9e)  
+
 ## 💪 Technical Skills
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
