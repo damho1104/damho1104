@@ -7,12 +7,12 @@
 [![Instagram](https://img.shields.io/badge/Instargram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/damho1104/)
 [![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=flat&logo=Tistory&logoColor=white)](https://dmomo.co.kr/)
 
-## 📃My Jobs
+## 📃 My Jobs
 - Web Backend Developer
 - Web Infra DevOps Developer
 - Static Analysis Developer
 
-## 📘My Resume
+## 📘 My Resume
 - [Click](https://damho1104.notion.site/8af3191b9815406d95708d9a0cea5a9e)  
 
 ## 💪 Technical Skills
@@ -50,6 +50,6 @@
 ![Cent OS](https://img.shields.io/badge/Cent%20OS-002260?style=flat&logo=centos&logoColor=F0F0F0)
 
 
-## Others
+## :computer: Stats
 ![damho1104 Stats](https://github-readme-stats.vercel.app/api?username=damho1104&hide=issues&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damho1104&layout=compact&theme=dark)
