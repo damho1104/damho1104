@@ -8,7 +8,8 @@
 [![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=flat&logo=Tistory&logoColor=white)](https://dmomo.co.kr/)
 
 ## 📃My Jobs
-- Service Backend Developer
+- Web Backend Developer
+- Web Infra DevOps Developer
 - Static Analysis Developer
 
 ## 📘My Resume
