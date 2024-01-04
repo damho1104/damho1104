@@ -1,4 +1,5 @@
 import feedparser, time
+from datetime import datetime, timedelta
 
 URL = "http://dmomo.co.kr/rss"
 RSS_FEED = feedparser.parse(URL)
@@ -72,8 +73,9 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     if idx > MAX_POST:
         break
     else:
-        feed_date = feed['published_parsed']
-        markdown_text += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+        # feed_date = feed['published_parsed']
+        feed_date = datetime.fromtimestamp(time.mktime(feed['published_parsed'])) + timedelta(hours=9)
+        markdown_text += f"[{feed_date.strftime('%Y/%m/%d')} - {feed['title']}]({feed['link']}) <br/>\n"
 
 f = open("README.md",mode="w", encoding="utf-8")
 f.write(markdown_text)
