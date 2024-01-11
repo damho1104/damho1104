@@ -59,9 +59,9 @@
 
 ## ✅ Latest Blog Post
 
+[2024/01/10 - [인프라 / Docker] Docker Container 통합 로그 뷰어 Dozzle](https://dmomo.co.kr/42) <br/>
 [2024/01/09 - [Python] Python MongoDB 라이브러리 비교 (PyMongo VS MongoEngine)](https://dmomo.co.kr/40) <br/>
 [2024/01/08 - [인프라 / Docker] MongoDB (with Replica-Set)](https://dmomo.co.kr/38) <br/>
 [2024/01/06 - [내돈내산 / 리뷰] 아모란나 Thunderbolt & USB4 NVMe SSD Enclosure 리뷰](https://dmomo.co.kr/39) <br/>
 [2024/01/04 - [인프라 / Docker] 나만의 전자 도서관 Calibre-Web](https://dmomo.co.kr/36) <br/>
 [2024/01/03 - [인프라 / VPN] Tailscale 유사 Site-to-Site 설정(Subnet Router)](https://dmomo.co.kr/35) <br/>
-[2024/01/02 - [IT 회사에서 기술 면접 시 왜 이런 질문을 주로 할까?] 1. 프로세스와 쓰레드](https://dmomo.co.kr/31) <br/>
