@@ -64,6 +64,10 @@ markdown_text = """
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damho1104&layout=compact&theme=dark)
 
 
+## 📣 My Service
+- [로또 예측, 당첨 결과 챗봇](http://t.me/lottoPredict_bot)  
+
+
 ## ✅ Latest Blog Post
 
 """  # list of blog posts will be appended here
