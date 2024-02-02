@@ -65,7 +65,7 @@ markdown_text = """
 
 
 ## 📣 My Service
-- [로또 예측, 당첨 결과 챗봇](http://t.me/lottoPredict_bot)  
+- [로또 번호 추천 및 당첨 알림 서비스](https://lotto.dmomo.co.kr/)  
 
 
 ## ✅ Latest Blog Post
