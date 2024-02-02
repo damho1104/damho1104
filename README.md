@@ -63,9 +63,9 @@
 
 ## ✅ Latest Blog Post
 
+[2024/02/01 - 로또 4등 당첨 리뷰](https://dmomo.co.kr/47) <br/>
 [2024/01/23 - [내돈내산 / 리뷰] 휴대용 공유기 GL-iNet GL-AXT1800](https://dmomo.co.kr/45) <br/>
 [2024/01/17 - [Python] 텔레그램 봇 기능 사용해보기 part 2](https://dmomo.co.kr/46) <br/>
 [2024/01/14 - [Python] 텔레그램 봇 기능 사용해보기](https://dmomo.co.kr/44) <br/>
 [2024/01/11 - [내돈내산 / 리뷰] 1More 컴포버즈 미니 리뷰](https://dmomo.co.kr/43) <br/>
 [2024/01/10 - [인프라 / Docker] Docker Container 통합 로그 뷰어 Dozzle](https://dmomo.co.kr/42) <br/>
-[2024/01/09 - [Python] Python MongoDB 라이브러리 비교 (PyMongo VS MongoEngine)](https://dmomo.co.kr/40) <br/>
