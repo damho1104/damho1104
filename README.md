@@ -9,9 +9,9 @@
 [![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=flat&logo=Tistory&logoColor=white)](https://dmomo.co.kr/)
 
 ## 📃 My Jobs
+- Static Analysis Developer
 - Web Backend Developer
 - Web Infra DevOps Developer
-- Static Analysis Developer
 
 ## 📘 My Resume
 - [Click](https://damho1104.notion.site/8af3191b9815406d95708d9a0cea5a9e)  
