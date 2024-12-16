@@ -20,7 +20,10 @@ markdown_text = """
 - Web Backend Developer
 - Web Infra DevOps Developer
 
-## 📘 My Resume
+## 📰 CV
+- [Click](https://resume.dmomo.net/damho.lee/resume)  
+
+## 📘 Resume
 - [Click](https://damho1104.notion.site/8af3191b9815406d95708d9a0cea5a9e)  
 
 ## 💪 Technical Skills
