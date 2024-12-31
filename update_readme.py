@@ -87,11 +87,10 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         feed_date = datetime.fromtimestamp(time.mktime(feed['published_parsed'])) + timedelta(hours=9)
         markdown_text += f"[{feed_date.strftime('%Y/%m/%d')} - {feed['title']}]({feed['link']}) <br/>\n"
 
+markdown_text += """
 ## ✅ Latest AI Blog Post
-
-"""  # list of blog posts will be appended here
-
-
+"""
+# list of blog posts will be appended here
 for idx, feed in enumerate(RSS_FEED2['entries']):
     if idx > MAX_POST:
         break
