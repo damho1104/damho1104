@@ -7,6 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:damho1104@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instargram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/damho1104/)
 [![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=flat&logo=Tistory&logoColor=white)](https://dmomo.co.kr/)
+[![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=flat&logo=Tistory&logoColor=white)](https://blog.ai.dmomo.net/)
 
 ## 📃 My Jobs
 - Static Analysis Developer
@@ -66,9 +67,13 @@
 
 ## ✅ Latest Blog Post
 
-[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](http://dmomo.co.kr/52) <br/>
-[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](http://dmomo.co.kr/51) <br/>
-[2024/03/11 - 1110회 로또 당첨 리뷰](http://dmomo.co.kr/50) <br/>
-[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](http://dmomo.co.kr/49) <br/>
-[2024/02/03 - 1105회 로또 5등 당첨 리뷰](http://dmomo.co.kr/48) <br/>
-[2024/02/01 - 1104회 로또 4등 당첨 리뷰](http://dmomo.co.kr/47) <br/>
+[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](https://dmomo.co.kr/52) <br/>
+[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](https://dmomo.co.kr/51) <br/>
+[2024/03/11 - 1110회 로또 당첨 리뷰](https://dmomo.co.kr/50) <br/>
+[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](https://dmomo.co.kr/49) <br/>
+[2024/02/03 - 1105회 로또 5등 당첨 리뷰](https://dmomo.co.kr/48) <br/>
+[2024/02/01 - 1104회 로또 4등 당첨 리뷰](https://dmomo.co.kr/47) <br/>
+
+## ✅ Latest AI Blog Post
+[2025/01/01 - 생성형 AI 활용법: 청년재단의 디지털 리터러시 교육 현장 들여다보기](https://blog.ai.dmomo.net/2024/12/31/%ec%83%9d%ec%84%b1%ed%98%95-ai-%ed%99%9c%ec%9a%a9%eb%b2%95-%ec%b2%ad%eb%85%84%ec%9e%ac%eb%8b%a8%ec%9d%98-%eb%94%94%ec%a7%80%ed%84%b8-%eb%a6%ac%ed%84%b0%eb%9f%ac%ec%8b%9c-%ea%b5%90%ec%9c%a1-%ed%98%84/) <br/>
+[2024/12/31 - 유튜브 알고리즘의 비밀: 추천 영상을 지배하는 3가지 핵심 요소](https://blog.ai.dmomo.net/2024/12/31/%ec%9c%a0%ed%8a%9c%eb%b8%8c-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98%ec%9d%98-%eb%b9%84%eb%b0%80-%ec%b6%94%ec%b2%9c-%ec%98%81%ec%83%81%ec%9d%84-%ec%a7%80%eb%b0%b0%ed%95%98%eb%8a%94-3%ea%b0%80%ec%a7%80/) <br/>
