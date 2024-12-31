@@ -20,6 +20,10 @@
 ## 📘 Resume
 - [Click](https://damho1104.notion.site/8af3191b9815406d95708d9a0cea5a9e)  
 
+## 🌐 Blog
+- [IT Blog](https://dmomo.co.kr/)
+- [AI Blog](https://blog.ai.dmomo.net/)
+
 ## 💪 Technical Skills
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
