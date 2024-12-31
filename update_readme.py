@@ -2,8 +2,10 @@ import feedparser, time
 from datetime import datetime, timedelta
 
 URL = "http://dmomo.co.kr/rss"
+URL2 = "https://blog.ai.dmomo.net/feed"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
+RSS_FEED2 = feedparser.parse(URL2)
 
 markdown_text = """
 # 💻 Damho Lee
@@ -14,6 +16,7 @@ markdown_text = """
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:damho1104@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instargram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/damho1104/)
 [![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=flat&logo=Tistory&logoColor=white)](https://dmomo.co.kr/)
+[![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=flat&logo=Tistory&logoColor=white)](https://blog.ai.dmomo.net/)
 
 ## 📃 My Jobs
 - Static Analysis Developer
@@ -77,6 +80,19 @@ markdown_text = """
 
 
 for idx, feed in enumerate(RSS_FEED['entries']):
+    if idx > MAX_POST:
+        break
+    else:
+        # feed_date = feed['published_parsed']
+        feed_date = datetime.fromtimestamp(time.mktime(feed['published_parsed'])) + timedelta(hours=9)
+        markdown_text += f"[{feed_date.strftime('%Y/%m/%d')} - {feed['title']}]({feed['link']}) <br/>\n"
+
+## ✅ Latest AI Blog Post
+
+"""  # list of blog posts will be appended here
+
+
+for idx, feed in enumerate(RSS_FEED2['entries']):
     if idx > MAX_POST:
         break
     else:
