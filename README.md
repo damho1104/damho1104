@@ -79,9 +79,9 @@
 [2024/02/01 - 1104회 로또 4등 당첨 리뷰](https://dmomo.co.kr/47) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/01/02 - 테슬라 사이버트럭 폭발 미스터리: 트럼프 호텔 앞 테러인가, 사고인가?](https://blog.ai.dmomo.net/2025/01/02/%ed%85%8c%ec%8a%ac%eb%9d%bc-%ec%82%ac%ec%9d%b4%eb%b2%84%ed%8a%b8%eb%9f%ad-%ed%8f%ad%eb%b0%9c-%eb%af%b8%ec%8a%a4%ed%84%b0%eb%a6%ac-%ed%8a%b8%eb%9f%bc%ed%94%84-%ed%98%b8%ed%85%94-%ec%95%9e-%ed%85%8c/) <br/>
+[2025/01/02 - 아스널, 역전승으로 9경기 무패 행진! 김지수 2경기 연속 출전](https://blog.ai.dmomo.net/2025/01/02/%ec%95%84%ec%8a%a4%eb%84%90-%ec%97%ad%ec%a0%84%ec%8a%b9%ec%9c%bc%eb%a1%9c-9%ea%b2%bd%ea%b8%b0-%eb%ac%b4%ed%8c%a8-%ed%96%89%ec%a7%84-%ea%b9%80%ec%a7%80%ec%88%98-2%ea%b2%bd%ea%b8%b0-%ec%97%b0%ec%86%8d/) <br/>
 [2025/01/01 - 생성형 AI 활용법: 청년재단의 혁신적 교육 프로그램 후기와 핵심 팁](https://blog.ai.dmomo.net/2025/01/01/%ec%83%9d%ec%84%b1%ed%98%95-ai-%ed%99%9c%ec%9a%a9%eb%b2%95-%ec%b2%ad%eb%85%84%ec%9e%ac%eb%8b%a8%ec%9d%98-%ed%98%81%ec%8b%a0%ec%a0%81-%ea%b5%90%ec%9c%a1-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-%ed%9b%84/) <br/>
 [2025/01/01 - 2025년 새해 첫날: 희망과 애도가 공존한 특별한 순간들](https://blog.ai.dmomo.net/2025/01/01/2025%eb%85%84-%ec%83%88%ed%95%b4-%ec%b2%ab%eb%82%a0-%ed%9d%ac%eb%a7%9d%ea%b3%bc-%ec%95%a0%eb%8f%84%ea%b0%80-%ea%b3%b5%ec%a1%b4%ed%95%9c-%ed%8a%b9%eb%b3%84%ed%95%9c-%ec%88%9c%ea%b0%84%eb%93%a4/) <br/>
 [2025/01/01 - 2025년 취업 필승 전략: 생성형 AI로 면접 대비하는 법](https://blog.ai.dmomo.net/2025/01/01/2025%eb%85%84-%ec%b7%a8%ec%97%85-%ed%95%84%ec%8a%b9-%ec%a0%84%eb%9e%b5-%ec%83%9d%ec%84%b1%ed%98%95-ai%eb%a1%9c-%eb%a9%b4%ec%a0%91-%eb%8c%80%eb%b9%84%ed%95%98%eb%8a%94-%eb%b2%95/) <br/>
 [2025/01/01 - 데이터로 승부하는 ASO: 앱 성장을 위한 5가지 핵심 분석 전략](https://blog.ai.dmomo.net/2025/01/01/%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a1%9c-%ec%8a%b9%eb%b6%80%ed%95%98%eb%8a%94-aso-%ec%95%b1-%ec%84%b1%ec%9e%a5%ec%9d%84-%ec%9c%84%ed%95%9c-5%ea%b0%80%ec%a7%80-%ed%95%b5%ec%8b%ac-%eb%b6%84%ec%84%9d-2/) <br/>
-[2025/01/01 - GPT-4.5의 혁신: OpenAI의 최신 AI, 무엇이 달라졌나?](https://blog.ai.dmomo.net/2025/01/01/gpt-4-5%ec%9d%98-%ed%98%81%ec%8b%a0-openai%ec%9d%98-%ec%b5%9c%ec%8b%a0-ai-%eb%ac%b4%ec%97%87%ec%9d%b4-%eb%8b%ac%eb%9d%bc%ec%a1%8c%eb%82%98-2/) <br/>
-[2024/12/31 - 유튜브 알고리즘의 비밀: 추천 영상을 지배하는 3가지 핵심 요소](https://blog.ai.dmomo.net/2024/12/31/%ec%9c%a0%ed%8a%9c%eb%b8%8c-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98%ec%9d%98-%eb%b9%84%eb%b0%80-%ec%b6%94%ec%b2%9c-%ec%98%81%ec%83%81%ec%9d%84-%ec%a7%80%eb%b0%b0%ed%95%98%eb%8a%94-3%ea%b0%80%ec%a7%80/) <br/>
