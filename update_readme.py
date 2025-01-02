@@ -2,7 +2,7 @@ import feedparser, time
 from datetime import datetime, timedelta
 
 URL = "http://dmomo.co.kr/rss"
-URL2 = "https://blog.ai.dmomo.net/feed"
+URL2 = "https://blog.ai.dmomo.co.kr/feed"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 RSS_FEED2 = feedparser.parse(URL2)
@@ -16,7 +16,7 @@ markdown_text = """
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:damho1104@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instargram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/damho1104/)
 [![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=flat&logo=Tistory&logoColor=white)](https://dmomo.co.kr/)
-[![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=flat&logo=WordPress&logoColor=white)](https://blog.ai.dmomo.net/)
+[![Blog](https://img.shields.io/badge/Blog-%23000000.svg?style=flat&logo=WordPress&logoColor=white)](https://blog.ai.dmomo.co.kr/)
 
 ## 📃 My Jobs
 - Static Analysis Developer
@@ -31,7 +31,7 @@ markdown_text = """
 
 ## 🌐 Blog
 - [IT Blog](https://dmomo.co.kr/)
-- [AI Blog](https://blog.ai.dmomo.net/)
+- [AI Blog](https://blog.ai.dmomo.co.kr/)
 
 ## 💪 Technical Skills
 ### Languages & Frameworks
