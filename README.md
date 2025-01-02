@@ -71,13 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](http://dmomo.co.kr/52) <br/>
-[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](http://dmomo.co.kr/51) <br/>
-[2024/03/11 - 1110회 로또 당첨 리뷰](http://dmomo.co.kr/50) <br/>
-[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](http://dmomo.co.kr/49) <br/>
-[2024/02/03 - 1105회 로또 5등 당첨 리뷰](http://dmomo.co.kr/48) <br/>
-[2024/02/01 - 1104회 로또 4등 당첨 리뷰](http://dmomo.co.kr/47) <br/>
+[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](https://dmomo.co.kr/52) <br/>
+[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](https://dmomo.co.kr/51) <br/>
+[2024/03/11 - 1110회 로또 당첨 리뷰](https://dmomo.co.kr/50) <br/>
+[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](https://dmomo.co.kr/49) <br/>
+[2024/02/03 - 1105회 로또 5등 당첨 리뷰](https://dmomo.co.kr/48) <br/>
+[2024/02/01 - 1104회 로또 4등 당첨 리뷰](https://dmomo.co.kr/47) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/01/01 - 생성형 AI 활용법: 청년재단의 디지털 리터러시 교육 현장 들여다보기](https://blog.ai.dmomo.net/2024/12/31/%ec%83%9d%ec%84%b1%ed%98%95-ai-%ed%99%9c%ec%9a%a9%eb%b2%95-%ec%b2%ad%eb%85%84%ec%9e%ac%eb%8b%a8%ec%9d%98-%eb%94%94%ec%a7%80%ed%84%b8-%eb%a6%ac%ed%84%b0%eb%9f%ac%ec%8b%9c-%ea%b5%90%ec%9c%a1-%ed%98%84/) <br/>
+[2025/01/01 - 생성형 AI 활용법: 청년재단의 혁신적 교육 프로그램 후기와 핵심 팁](https://blog.ai.dmomo.net/2025/01/01/%ec%83%9d%ec%84%b1%ed%98%95-ai-%ed%99%9c%ec%9a%a9%eb%b2%95-%ec%b2%ad%eb%85%84%ec%9e%ac%eb%8b%a8%ec%9d%98-%ed%98%81%ec%8b%a0%ec%a0%81-%ea%b5%90%ec%9c%a1-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-%ed%9b%84/) <br/>
+[2025/01/01 - 2025년 새해 첫날: 희망과 애도가 공존한 특별한 순간들](https://blog.ai.dmomo.net/2025/01/01/2025%eb%85%84-%ec%83%88%ed%95%b4-%ec%b2%ab%eb%82%a0-%ed%9d%ac%eb%a7%9d%ea%b3%bc-%ec%95%a0%eb%8f%84%ea%b0%80-%ea%b3%b5%ec%a1%b4%ed%95%9c-%ed%8a%b9%eb%b3%84%ed%95%9c-%ec%88%9c%ea%b0%84%eb%93%a4/) <br/>
+[2025/01/01 - 2025년 취업 필승 전략: 생성형 AI로 면접 대비하는 법](https://blog.ai.dmomo.net/2025/01/01/2025%eb%85%84-%ec%b7%a8%ec%97%85-%ed%95%84%ec%8a%b9-%ec%a0%84%eb%9e%b5-%ec%83%9d%ec%84%b1%ed%98%95-ai%eb%a1%9c-%eb%a9%b4%ec%a0%91-%eb%8c%80%eb%b9%84%ed%95%98%eb%8a%94-%eb%b2%95/) <br/>
+[2025/01/01 - 데이터로 승부하는 ASO: 앱 성장을 위한 5가지 핵심 분석 전략](https://blog.ai.dmomo.net/2025/01/01/%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%a1%9c-%ec%8a%b9%eb%b6%80%ed%95%98%eb%8a%94-aso-%ec%95%b1-%ec%84%b1%ec%9e%a5%ec%9d%84-%ec%9c%84%ed%95%9c-5%ea%b0%80%ec%a7%80-%ed%95%b5%ec%8b%ac-%eb%b6%84%ec%84%9d-2/) <br/>
+[2025/01/01 - GPT-4.5의 혁신: OpenAI의 최신 AI, 무엇이 달라졌나?](https://blog.ai.dmomo.net/2025/01/01/gpt-4-5%ec%9d%98-%ed%98%81%ec%8b%a0-openai%ec%9d%98-%ec%b5%9c%ec%8b%a0-ai-%eb%ac%b4%ec%97%87%ec%9d%b4-%eb%8b%ac%eb%9d%bc%ec%a1%8c%eb%82%98-2/) <br/>
 [2024/12/31 - 유튜브 알고리즘의 비밀: 추천 영상을 지배하는 3가지 핵심 요소](https://blog.ai.dmomo.net/2024/12/31/%ec%9c%a0%ed%8a%9c%eb%b8%8c-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98%ec%9d%98-%eb%b9%84%eb%b0%80-%ec%b6%94%ec%b2%9c-%ec%98%81%ec%83%81%ec%9d%84-%ec%a7%80%eb%b0%b0%ed%95%98%eb%8a%94-3%ea%b0%80%ec%a7%80/) <br/>
