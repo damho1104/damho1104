@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](http://dmomo.co.kr/52) <br/>
-[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](http://dmomo.co.kr/51) <br/>
-[2024/03/11 - 1110회 로또 당첨 리뷰](http://dmomo.co.kr/50) <br/>
-[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](http://dmomo.co.kr/49) <br/>
-[2024/02/03 - 1105회 로또 5등 당첨 리뷰](http://dmomo.co.kr/48) <br/>
-[2024/02/01 - 1104회 로또 4등 당첨 리뷰](http://dmomo.co.kr/47) <br/>
+[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](https://dmomo.co.kr/52) <br/>
+[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](https://dmomo.co.kr/51) <br/>
+[2024/03/11 - 1110회 로또 당첨 리뷰](https://dmomo.co.kr/50) <br/>
+[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](https://dmomo.co.kr/49) <br/>
+[2024/02/03 - 1105회 로또 5등 당첨 리뷰](https://dmomo.co.kr/48) <br/>
+[2024/02/01 - 1104회 로또 4등 당첨 리뷰](https://dmomo.co.kr/47) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/01/06 - Dead Internet Theory: 인터넷이 구글의 AI에 의해 조종된다는 충격적 음모론?](https://blog.ai.dmomo.co.kr/2025/01/06/dead-internet-theory-%ec%9d%b8%ed%84%b0%eb%84%b7%ec%9d%b4-%ea%b5%ac%ea%b8%80%ec%9d%98-ai%ec%97%90-%ec%9d%98%ed%95%b4-%ec%a1%b0%ec%a2%85%eb%90%9c%eb%8b%a4%eb%8a%94-%ec%b6%a9%ea%b2%a9%ec%a0%81/) <br/>
+[2025/01/06 - MLflow로 ML 모델 수명주기 관리하기: 5가지 핵심 기능 완전 정복](https://blog.ai.dmomo.co.kr/2025/01/06/mlflow%eb%a1%9c-ml-%eb%aa%a8%eb%8d%b8-%ec%88%98%eb%aa%85%ec%a3%bc%ea%b8%b0-%ea%b4%80%eb%a6%ac%ed%95%98%ea%b8%b0-5%ea%b0%80%ec%a7%80-%ed%95%b5%ec%8b%ac-%ea%b8%b0%eb%8a%a5-%ec%99%84%ec%a0%84-%ec%a0%95/) <br/>
+[2025/01/06 - MLOps의 모든 것: 기계학습 모델 관리의 핵심 전략과 도구들](https://blog.ai.dmomo.co.kr/2025/01/06/mlops%ec%9d%98-%eb%aa%a8%eb%93%a0-%ea%b2%83-%ea%b8%b0%ea%b3%84%ed%95%99%ec%8a%b5-%eb%aa%a8%eb%8d%b8-%ea%b4%80%eb%a6%ac%ec%9d%98-%ed%95%b5%ec%8b%ac-%ec%a0%84%eb%9e%b5%ea%b3%bc-%eb%8f%84%ea%b5%ac/) <br/>
+[2025/01/06 - PSG, 뎀벨레의 극장골로 트로페 데 샹피옹 13번째 우승! 이강인 활약은?](https://blog.ai.dmomo.co.kr/2025/01/06/psg-%eb%8e%80%eb%b2%a8%eb%a0%88%ec%9d%98-%ea%b7%b9%ec%9e%a5%ea%b3%a8%eb%a1%9c-%ed%8a%b8%eb%a1%9c%ed%8e%98-%eb%8d%b0-%ec%83%b9%ed%94%bc%ec%98%b9-13%eb%b2%88%ec%a7%b8-%ec%9a%b0%ec%8a%b9-%ec%9d%b4/) <br/>
+[2025/01/06 - 폭설 속 EPL 빅매치: 리버풀 vs 맨유 2-2 무승부의 명장면과 순위 변화](https://blog.ai.dmomo.co.kr/2025/01/06/%ed%8f%ad%ec%84%a4-%ec%86%8d-epl-%eb%b9%85%eb%a7%a4%ec%b9%98-%eb%a6%ac%eb%b2%84%ed%92%80-vs-%eb%a7%a8%ec%9c%a0-2-2-%eb%ac%b4%ec%8a%b9%eb%b6%80%ec%9d%98-%eb%aa%85%ec%9e%a5%eb%a9%b4%ea%b3%bc-%ec%88%9c/) <br/>
 [2025/01/05 - 오징어 게임 시즌2, 6800만뷰 신기록! 새로운 게임과 캐릭터의 충격적 귀환](https://blog.ai.dmomo.co.kr/2025/01/05/%ec%98%a4%ec%a7%95%ec%96%b4-%ea%b2%8c%ec%9e%84-%ec%8b%9c%ec%a6%8c2-6800%eb%a7%8c%eb%b7%b0-%ec%8b%a0%ea%b8%b0%eb%a1%9d-%e6%96%b0%ea%b2%8c%ec%9e%84%ea%b3%bc-%ec%ba%90%eb%a6%ad%ed%84%b0%ec%9d%98/) <br/>
-[2025/01/05 - 갤럭시탭 S9 플러스 한달 사용기: 업무와 엔터테인먼트의 완벽한 균형은?](https://blog.ai.dmomo.co.kr/2025/01/05/%ea%b0%a4%eb%9f%ad%ec%8b%9c%ed%83%ad-s9-%ed%94%8c%eb%9f%ac%ec%8a%a4-%ed%95%9c%eb%8b%ac-%ec%82%ac%ec%9a%a9%ea%b8%b0-%ec%97%85%eb%ac%b4%ec%99%80-%ec%97%94%ed%84%b0%ed%85%8c%ec%9d%b8%eb%a8%bc%ed%8a%b8/) <br/>
-[2025/01/05 - 맨시티 부활의 신호탄! 홀란-사비뉴 콤비 ‘4-1 대승’ 이끌다](https://blog.ai.dmomo.co.kr/2025/01/05/%eb%a7%a8%ec%8b%9c%ed%8b%b0-%eb%b6%80%ed%99%9c%ec%9d%98-%ec%8b%a0%ed%98%b8%ed%83%84-%ed%99%80%eb%9e%80-%ec%82%ac%eb%b9%84%eb%89%b4-%ec%bd%a4%eb%b9%84-4-1-%eb%8c%80%ec%8a%b9-%ec%9d%b4%eb%81%8c/) <br/>
-[2025/01/05 - 토트넘 충격의 2-1 패배: 손흥민 교체 출전에도 4경기 연속 무승 부진](https://blog.ai.dmomo.co.kr/2025/01/05/%ed%86%a0%ed%8a%b8%eb%84%98-%ec%b6%a9%ea%b2%a9%ec%9d%98-2-1-%ed%8c%a8%eb%b0%b0-%ec%86%90%ed%9d%a5%eb%af%bc-%ea%b5%90%ec%b2%b4-%ec%b6%9c%ec%a0%84%ec%97%90%eb%8f%84-4%ea%b2%bd%ea%b8%b0-%ec%97%b0/) <br/>
-[2025/01/05 - 애플의 혁신: AI가 요약하는 앱 스토어 리뷰, 당신의 선택은 더 스마트해진다](https://blog.ai.dmomo.co.kr/2025/01/05/%ec%95%a0%ed%94%8c%ec%9d%98-%ed%98%81%ec%8b%a0-ai%ea%b0%80-%ec%9a%94%ec%95%bd%ed%95%98%eb%8a%94-%ec%95%b1-%ec%8a%a4%ed%86%a0%ec%96%b4-%eb%a6%ac%eb%b7%b0-%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%84%a0/) <br/>
-[2025/01/04 - M4 맥미니: 25% 빨라진 성능과 16GB RAM의 혁신적 업그레이드?](https://blog.ai.dmomo.co.kr/2025/01/04/m4-%eb%a7%a5%eb%af%b8%eb%8b%88-25-%eb%b9%a8%eb%9d%bc%ec%a7%84-%ec%84%b1%eb%8a%a5%ea%b3%bc-16gb-ram%ec%9d%98-%ed%98%81%ec%8b%a0%ec%a0%81-%ec%97%85%ea%b7%b8%eb%a0%88%ec%9d%b4%eb%93%9c/) <br/>
