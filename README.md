@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](https://dmomo.co.kr/52) <br/>
-[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](https://dmomo.co.kr/51) <br/>
-[2024/03/11 - 1110회 로또 당첨 리뷰](https://dmomo.co.kr/50) <br/>
-[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](https://dmomo.co.kr/49) <br/>
-[2024/02/03 - 1105회 로또 5등 당첨 리뷰](https://dmomo.co.kr/48) <br/>
-[2024/02/01 - 1104회 로또 4등 당첨 리뷰](https://dmomo.co.kr/47) <br/>
+[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](http://dmomo.co.kr/52) <br/>
+[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](http://dmomo.co.kr/51) <br/>
+[2024/03/11 - 1110회 로또 당첨 리뷰](http://dmomo.co.kr/50) <br/>
+[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](http://dmomo.co.kr/49) <br/>
+[2024/02/03 - 1105회 로또 5등 당첨 리뷰](http://dmomo.co.kr/48) <br/>
+[2024/02/01 - 1104회 로또 4등 당첨 리뷰](http://dmomo.co.kr/47) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/01/15 - Proxmox: 가상화부터 컨테이너까지, 데이터 센터와 클라우드 관리의 핵심 플랫폼!](https://blog.ai.dmomo.co.kr/tech/484) <br/>
 [2025/01/14 - 유승민의 대선 출마선언? 윤석열-이재명 동시 사법처리 주장 파격](https://blog.ai.dmomo.co.kr/trend/481) <br/>
 [2025/01/14 - AI 에이전트: 자율적 혁신과 미래 비즈니스의 핵심 전략](https://blog.ai.dmomo.co.kr/tech/478) <br/>
 [2025/01/14 - 고양시 자유로 ‘블랙아이스’ 공포: 44대 차량 연쇄 추돌, 안전운전 필수!](https://blog.ai.dmomo.co.kr/trend/475) <br/>
 [2025/01/14 - 현대 해군의 핵심, 모함 개발 전쟁: 미중 경쟁과 이탈리아의 숨은 강점](https://blog.ai.dmomo.co.kr/trend/472) <br/>
 [2025/01/14 - 양자 컴퓨팅의 비밀: 큐비트와 얽힘이 열어가는 미래의 계산 혁명!](https://blog.ai.dmomo.co.kr/tech/469) <br/>
-[2025/01/14 - 정준호의 충격 고백: ‘친구’ 거절부터 신현준 폭로까지, 30년 우정의 비밀](https://blog.ai.dmomo.co.kr/trend/466) <br/>
