@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](https://dmomo.co.kr/52) <br/>
-[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](https://dmomo.co.kr/51) <br/>
-[2024/03/11 - 1110회 로또 당첨 리뷰](https://dmomo.co.kr/50) <br/>
-[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](https://dmomo.co.kr/49) <br/>
-[2024/02/03 - 1105회 로또 5등 당첨 리뷰](https://dmomo.co.kr/48) <br/>
-[2024/02/01 - 1104회 로또 4등 당첨 리뷰](https://dmomo.co.kr/47) <br/>
+[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](http://dmomo.co.kr/52) <br/>
+[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](http://dmomo.co.kr/51) <br/>
+[2024/03/11 - 1110회 로또 당첨 리뷰](http://dmomo.co.kr/50) <br/>
+[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](http://dmomo.co.kr/49) <br/>
+[2024/02/03 - 1105회 로또 5등 당첨 리뷰](http://dmomo.co.kr/48) <br/>
+[2024/02/01 - 1104회 로또 4등 당첨 리뷰](http://dmomo.co.kr/47) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/01/15 - 홈택스 연말정산 마스터하기: 세금 신고의 A to Z](https://blog.ai.dmomo.co.kr/trend/509) <br/>
-[2025/01/15 - 한국 최초! 윤석열 대통령 체포의 전말과 그 파장](https://blog.ai.dmomo.co.kr/trend/502) <br/>
-[2025/01/15 - DJI Flip: 31분 비행하는 249g 미니 드론의 놀라운 기능 5가지](https://blog.ai.dmomo.co.kr/trend/499) <br/>
-[2025/01/15 - OAuth 2.0 이해하기: 핵심 역할과 흐름으로 보안된 접근 권한 부여 방법](https://blog.ai.dmomo.co.kr/tech/496) <br/>
-[2025/01/15 - 첼시 vs 본머스: 극장골로 탈출한 첼시, 5경기 무승 징크스 깰까?](https://blog.ai.dmomo.co.kr/trend/493) <br/>
-[2025/01/15 - EPL 충격의 2-2 무승부: 맨시티 2골 리드 놓치고 브렌트퍼드에 무너지다](https://blog.ai.dmomo.co.kr/trend/490) <br/>
+[2025/01/16 - 빅뱅 탑, 11년 만의 고백: ‘오징어 게임2’로 돌아온 그의 진솔한 이야기](https://blog.ai.dmomo.co.kr/trend/530) <br/>
+[2025/01/16 - 온오프라인 통합 뉴스의 선두주자: 스카이데일리의 혁신적 미디어 전략](https://blog.ai.dmomo.co.kr/trend/527) <br/>
+[2025/01/16 - 윤석열 대통령 체포적부심 청구: 48시간 내 결정될 법정 드라마의 향방은?](https://blog.ai.dmomo.co.kr/trend/524) <br/>
+[2025/01/16 - 바르셀로나 vs 레알 베티스: 라 리가 최고의 명승부 5가지 관전 포인트](https://blog.ai.dmomo.co.kr/trend/521) <br/>
+[2025/01/16 - 뉴캐슬 vs 울버햄프턴: 프리미어리그 격돌! 누가 승리할까?](https://blog.ai.dmomo.co.kr/trend/518) <br/>
+[2025/01/16 - 김민재 없이도 5-0 대승! 뮌헨의 무서운 공격력과 우승 향한 질주](https://blog.ai.dmomo.co.kr/trend/515) <br/>
