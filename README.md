@@ -79,9 +79,9 @@
 [2024/02/01 - 1104회 로또 4등 당첨 리뷰](https://dmomo.co.kr/47) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/01/19 - GPT로 완성한 Teleport 한글 문서: MLOps와 AI의 혁신을 만나다](https://blog.ai.dmomo.co.kr/ai/570) <br/>
-[2025/01/18 - 윤석열 대통령 구속 위기: 내란 혐의와 법적 쟁점 총정리](https://blog.ai.dmomo.co.kr/trend/567) <br/>
-[2025/01/18 - 헌정 사상 첫 현직 대통령 구속심사, 차은경 판사의 운명적 결정은?](https://blog.ai.dmomo.co.kr/trend/564) <br/>
-[2025/01/18 - 부진한 강호들의 혈투: 프랑크푸르트 vs 도르트문트, 누가 웃을까?](https://blog.ai.dmomo.co.kr/trend/561) <br/>
-[2025/01/18 - 프랑스 리그1 격돌: 몽펠리에 vs AS 모나코, 누가 승리할까?](https://blog.ai.dmomo.co.kr/trend/555) <br/>
-[2025/01/18 - 김민희-홍상수 임신 스캔들: 불륜에서 출산까지, 그들의 7년 러브스토리](https://blog.ai.dmomo.co.kr/trend/552) <br/>
+[2025/01/20 - 메타의 혁신: 443,000시간 데이터로 완성된 실시간 다국어 음성 번역 모델 SEAMLESS-M4T](https://blog.ai.dmomo.co.kr/tech/594) <br/>
+[2025/01/19 - Cloudflare Zero Trust: 모든 사용자를 신뢰하지 않는 보안의 새로운 패러다임](https://blog.ai.dmomo.co.kr/tech/591) <br/>
+[2025/01/19 - 로또 1155회: 40억 대박! 7명의 1등 당첨자가 받은 금액은?](https://blog.ai.dmomo.co.kr/trend/588) <br/>
+[2025/01/19 - 서부지법 폭동 사태: 법치주의 위협한 3시간의 혼돈, 그 실체와 영향은?](https://blog.ai.dmomo.co.kr/trend/585) <br/>
+[2025/01/19 - 클라위베르트 해트트릭! 뉴캐슬 9연승 마감시킨 본머스의 4-1 대승](https://blog.ai.dmomo.co.kr/trend/582) <br/>
+[2025/01/19 - PSG 4연승의 주역, 이강인의 ‘가짜 9번’ 활약상 총정리](https://blog.ai.dmomo.co.kr/trend/579) <br/>
