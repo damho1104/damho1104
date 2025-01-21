@@ -79,9 +79,9 @@
 [2024/02/01 - 1104회 로또 4등 당첨 리뷰](https://dmomo.co.kr/47) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/01/20 - 메타의 혁신: 443,000시간 데이터로 완성된 실시간 다국어 음성 번역 모델 SEAMLESS-M4T](https://blog.ai.dmomo.co.kr/tech/594) <br/>
-[2025/01/19 - Cloudflare Zero Trust: 모든 사용자를 신뢰하지 않는 보안의 새로운 패러다임](https://blog.ai.dmomo.co.kr/tech/591) <br/>
-[2025/01/19 - 로또 1155회: 40억 대박! 7명의 1등 당첨자가 받은 금액은?](https://blog.ai.dmomo.co.kr/trend/588) <br/>
-[2025/01/19 - 서부지법 폭동 사태: 법치주의 위협한 3시간의 혼돈, 그 실체와 영향은?](https://blog.ai.dmomo.co.kr/trend/585) <br/>
-[2025/01/19 - 클라위베르트 해트트릭! 뉴캐슬 9연승 마감시킨 본머스의 4-1 대승](https://blog.ai.dmomo.co.kr/trend/582) <br/>
-[2025/01/19 - PSG 4연승의 주역, 이강인의 ‘가짜 9번’ 활약상 총정리](https://blog.ai.dmomo.co.kr/trend/579) <br/>
+[2025/01/21 - DeepSeek-R1: 14.8조 토큰 훈련으로 압도적 성능과 MIT 라이선스 활용 가이드](https://blog.ai.dmomo.co.kr/tech/621) <br/>
+[2025/01/20 - 전한길 강사의 선관위 의혹: 부정선거 주장의 진실은?](https://blog.ai.dmomo.co.kr/trend/618) <br/>
+[2025/01/20 - 트럼프의 귀환: 2025년 재취임이 가져올 미국의 大변화 5가지](https://blog.ai.dmomo.co.kr/trend/615) <br/>
+[2025/01/20 - 틱톡 미국 서비스 중단! 트럼프의 90일 유예 가능성과 이용자들의 반응은?](https://blog.ai.dmomo.co.kr/trend/612) <br/>
+[2025/01/20 - 레알 마드리드 vs 라스팔마스: 음바페 멀티골로 4-1 대승](https://blog.ai.dmomo.co.kr/trend/607) <br/>
+[2025/01/20 - 맨유 vs 브라이튼: 1-3 충격패, 13위 추락의 비극적 순간](https://blog.ai.dmomo.co.kr/trend/604) <br/>
