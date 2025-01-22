@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](https://dmomo.co.kr/52) <br/>
-[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](https://dmomo.co.kr/51) <br/>
-[2024/03/11 - 1110회 로또 당첨 리뷰](https://dmomo.co.kr/50) <br/>
-[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](https://dmomo.co.kr/49) <br/>
-[2024/02/03 - 1105회 로또 5등 당첨 리뷰](https://dmomo.co.kr/48) <br/>
-[2024/02/01 - 1104회 로또 4등 당첨 리뷰](https://dmomo.co.kr/47) <br/>
+[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](http://dmomo.co.kr/52) <br/>
+[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](http://dmomo.co.kr/51) <br/>
+[2024/03/11 - 1110회 로또 당첨 리뷰](http://dmomo.co.kr/50) <br/>
+[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](http://dmomo.co.kr/49) <br/>
+[2024/02/03 - 1105회 로또 5등 당첨 리뷰](http://dmomo.co.kr/48) <br/>
+[2024/02/01 - 1104회 로또 4등 당첨 리뷰](http://dmomo.co.kr/47) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/01/21 - 충격! 한국 미세먼지 농도 75㎍ 초과, 대응 방안은?](https://blog.ai.dmomo.co.kr/trend/630) <br/>
+[2025/01/21 - 충격! 트럼프 재취임 첫날, 78개 행정명령으로 미국이 뒤집힌다](https://blog.ai.dmomo.co.kr/trend/627) <br/>
+[2025/01/21 - 첼시 vs 울브스: 프리미어리그 격돌! 최근 성적과 선수 분석은?](https://blog.ai.dmomo.co.kr/trend/624) <br/>
 [2025/01/21 - DeepSeek-R1: 14.8조 토큰 훈련으로 압도적 성능과 MIT 라이선스 활용 가이드](https://blog.ai.dmomo.co.kr/tech/621) <br/>
 [2025/01/20 - 전한길 강사의 선관위 의혹: 부정선거 주장의 진실은?](https://blog.ai.dmomo.co.kr/trend/618) <br/>
 [2025/01/20 - 트럼프의 귀환: 2025년 재취임이 가져올 미국의 大변화 5가지](https://blog.ai.dmomo.co.kr/trend/615) <br/>
-[2025/01/20 - 틱톡 미국 서비스 중단! 트럼프의 90일 유예 가능성과 이용자들의 반응은?](https://blog.ai.dmomo.co.kr/trend/612) <br/>
-[2025/01/20 - 레알 마드리드 vs 라스팔마스: 음바페 멀티골로 4-1 대승](https://blog.ai.dmomo.co.kr/trend/607) <br/>
-[2025/01/20 - 맨유 vs 브라이튼: 1-3 충격패, 13위 추락의 비극적 순간](https://blog.ai.dmomo.co.kr/trend/604) <br/>
