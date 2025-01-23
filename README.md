@@ -79,9 +79,9 @@
 [2024/02/01 - 1104회 로또 4등 당첨 리뷰](http://dmomo.co.kr/47) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/01/22 - 무안공항 참사의 그림자: 손창완 전 사장의 충격적 사망과 그 이면](https://blog.ai.dmomo.co.kr/trend/645) <br/>
+[2025/01/22 - 카지노의 두 얼굴: 합법과 사기 사이, 안전한 이용법 5가지](https://blog.ai.dmomo.co.kr/trend/642) <br/>
+[2025/01/22 - 챔스 16강 티켓은 누구 손에? 모나코 vs 아스톤 빌라 격돌](https://blog.ai.dmomo.co.kr/trend/639) <br/>
+[2025/01/22 - UCL 역전드라마: 바르셀로나, 벤피카 상대로 5-4 극적 승리! 16강 확정](https://blog.ai.dmomo.co.kr/trend/636) <br/>
+[2025/01/22 - UCL 16강 확정! 리버풀, 살라-엘리엇 맹활약으로 릴에 2-1 승리](https://blog.ai.dmomo.co.kr/trend/633) <br/>
 [2025/01/21 - 충격! 한국 미세먼지 농도 75㎍ 초과, 대응 방안은?](https://blog.ai.dmomo.co.kr/trend/630) <br/>
-[2025/01/21 - 충격! 트럼프 재취임 첫날, 78개 행정명령으로 미국이 뒤집힌다](https://blog.ai.dmomo.co.kr/trend/627) <br/>
-[2025/01/21 - 첼시 vs 울브스: 프리미어리그 격돌! 최근 성적과 선수 분석은?](https://blog.ai.dmomo.co.kr/trend/624) <br/>
-[2025/01/21 - DeepSeek-R1: 14.8조 토큰 훈련으로 압도적 성능과 MIT 라이선스 활용 가이드](https://blog.ai.dmomo.co.kr/tech/621) <br/>
-[2025/01/20 - 전한길 강사의 선관위 의혹: 부정선거 주장의 진실은?](https://blog.ai.dmomo.co.kr/trend/618) <br/>
-[2025/01/20 - 트럼프의 귀환: 2025년 재취임이 가져올 미국의 大변화 5가지](https://blog.ai.dmomo.co.kr/trend/615) <br/>
