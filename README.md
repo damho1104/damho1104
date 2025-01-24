@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](http://dmomo.co.kr/52) <br/>
-[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](http://dmomo.co.kr/51) <br/>
-[2024/03/11 - 1110회 로또 당첨 리뷰](http://dmomo.co.kr/50) <br/>
-[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](http://dmomo.co.kr/49) <br/>
-[2024/02/03 - 1105회 로또 5등 당첨 리뷰](http://dmomo.co.kr/48) <br/>
-[2024/02/01 - 1104회 로또 4등 당첨 리뷰](http://dmomo.co.kr/47) <br/>
+[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](https://dmomo.co.kr/52) <br/>
+[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](https://dmomo.co.kr/51) <br/>
+[2024/03/11 - 1110회 로또 당첨 리뷰](https://dmomo.co.kr/50) <br/>
+[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](https://dmomo.co.kr/49) <br/>
+[2024/02/03 - 1105회 로또 5등 당첨 리뷰](https://dmomo.co.kr/48) <br/>
+[2024/02/01 - 1104회 로또 4등 당첨 리뷰](https://dmomo.co.kr/47) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/01/23 - 하지수 X 이찬혁: 뮤직비디오에서 현실로? 30세 배우의 숨겨진 매력](https://blog.ai.dmomo.co.kr/trend/660) <br/>
+[2025/01/23 - 레알 마드리드 vs RB 잘츠부르크: 5-1 대승의 숨겨진 이야기](https://blog.ai.dmomo.co.kr/trend/657) <br/>
+[2025/01/23 - 갤럭시 S25 시리즈: AI로 진화한 모바일의 미래, 어떻게 바뀌었나?](https://blog.ai.dmomo.co.kr/trend/654) <br/>
+[2025/01/23 - 충격의 0-3 패배! 바이에른뮌헨, UCL 16강 직행 좌절될까?](https://blog.ai.dmomo.co.kr/trend/651) <br/>
+[2025/01/23 - PSG vs 맨시티: 4-2 극적 역전승! 챔스리그 7차전 하이라이트](https://blog.ai.dmomo.co.kr/trend/648) <br/>
 [2025/01/22 - 무안공항 참사의 그림자: 손창완 전 사장의 충격적 사망과 그 이면](https://blog.ai.dmomo.co.kr/trend/645) <br/>
-[2025/01/22 - 카지노의 두 얼굴: 합법과 사기 사이, 안전한 이용법 5가지](https://blog.ai.dmomo.co.kr/trend/642) <br/>
-[2025/01/22 - 챔스 16강 티켓은 누구 손에? 모나코 vs 아스톤 빌라 격돌](https://blog.ai.dmomo.co.kr/trend/639) <br/>
-[2025/01/22 - UCL 역전드라마: 바르셀로나, 벤피카 상대로 5-4 극적 승리! 16강 확정](https://blog.ai.dmomo.co.kr/trend/636) <br/>
-[2025/01/22 - UCL 16강 확정! 리버풀, 살라-엘리엇 맹활약으로 릴에 2-1 승리](https://blog.ai.dmomo.co.kr/trend/633) <br/>
-[2025/01/21 - 충격! 한국 미세먼지 농도 75㎍ 초과, 대응 방안은?](https://blog.ai.dmomo.co.kr/trend/630) <br/>
