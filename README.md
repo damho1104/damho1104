@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](https://dmomo.co.kr/52) <br/>
-[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](https://dmomo.co.kr/51) <br/>
-[2024/03/11 - 1110회 로또 당첨 리뷰](https://dmomo.co.kr/50) <br/>
-[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](https://dmomo.co.kr/49) <br/>
-[2024/02/03 - 1105회 로또 5등 당첨 리뷰](https://dmomo.co.kr/48) <br/>
-[2024/02/01 - 1104회 로또 4등 당첨 리뷰](https://dmomo.co.kr/47) <br/>
+[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](http://dmomo.co.kr/52) <br/>
+[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](http://dmomo.co.kr/51) <br/>
+[2024/03/11 - 1110회 로또 당첨 리뷰](http://dmomo.co.kr/50) <br/>
+[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](http://dmomo.co.kr/49) <br/>
+[2024/02/03 - 1105회 로또 5등 당첨 리뷰](http://dmomo.co.kr/48) <br/>
+[2024/02/01 - 1104회 로또 4등 당첨 리뷰](http://dmomo.co.kr/47) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/01/27 - 맨유 vs 풀럼: 마르티네스의 결승골로 8연승 달성! 순위 상승의 비결은?](https://blog.ai.dmomo.co.kr/trend/699) <br/>
+[2025/01/27 - 충격! 토트넘 4연패, 레스터 2-1 역전승으로 강등권 탈출 희망](https://blog.ai.dmomo.co.kr/trend/696) <br/>
 [2025/01/26 - 음바페 해트트릭 쇼! 레알 마드리드, 바야돌리드에 3-0 완승](https://blog.ai.dmomo.co.kr/trend/693) <br/>
 [2025/01/26 - 리버풀 4-1 입스위치: 살라-각포 듀오의 화려한 공격쇼, 선두 굳히기 성공](https://blog.ai.dmomo.co.kr/trend/690) <br/>
 [2025/01/26 - PSG vs 스타드 랭스: 1-1 무승부, 19경기 무패 행진의 비결은?](https://blog.ai.dmomo.co.kr/trend/687) <br/>
 [2025/01/26 - 맨시티 vs 첼시: 홀란드의 1골 1도움, 3-1 역전승 드라마](https://blog.ai.dmomo.co.kr/trend/684) <br/>
-[2025/01/26 - OpenAI 보안 유출 사고: AI 시대의 새로운 도전과 해결책은?](https://blog.ai.dmomo.co.kr/ai/681) <br/>
-[2025/01/25 - 배우 박영규의 감동 스토리: 25세 연하 의붓딸과 ‘불후의 명곡’ 출연기](https://blog.ai.dmomo.co.kr/trend/678) <br/>
