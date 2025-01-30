@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](https://dmomo.co.kr/52) <br/>
-[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](https://dmomo.co.kr/51) <br/>
-[2024/03/11 - 1110회 로또 당첨 리뷰](https://dmomo.co.kr/50) <br/>
-[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](https://dmomo.co.kr/49) <br/>
-[2024/02/03 - 1105회 로또 5등 당첨 리뷰](https://dmomo.co.kr/48) <br/>
-[2024/02/01 - 1104회 로또 4등 당첨 리뷰](https://dmomo.co.kr/47) <br/>
+[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](http://dmomo.co.kr/52) <br/>
+[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](http://dmomo.co.kr/51) <br/>
+[2024/03/11 - 1110회 로또 당첨 리뷰](http://dmomo.co.kr/50) <br/>
+[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](http://dmomo.co.kr/49) <br/>
+[2024/02/03 - 1105회 로또 5등 당첨 리뷰](http://dmomo.co.kr/48) <br/>
+[2024/02/01 - 1104회 로또 4등 당첨 리뷰](http://dmomo.co.kr/47) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/01/29 - 설날의 맛과 풍습: 떡국부터 묵은 세배까지 알아보는 한국 명절의 모든 것](https://blog.ai.dmomo.co.kr/trend/717) <br/>
+[2025/01/29 - 충격! 에어부산 항공기 화재, 안전 불감증의 경고? 대책은?](https://blog.ai.dmomo.co.kr/trend/714) <br/>
 [2025/01/28 - 새해맞이: 설날의 전통과 SNS로 전하는 현대식 새해 인사법](https://blog.ai.dmomo.co.kr/trend/711) <br/>
 [2025/01/28 - DeepSeek: 중국발 AI 혁명, 오픈소스로 비용 효율성과 성능 동시 실현](https://blog.ai.dmomo.co.kr/trend/708) <br/>
 [2025/01/28 - Janus-Pro 7B: 다중 모달 AI의 새로운 지평, 벤치마크를 뛰어넘는 성능과 오픈소스 혁신](https://blog.ai.dmomo.co.kr/tech/705) <br/>
 [2025/01/28 - AI 혁명의 주역 엔비디아, 새로운 도전에 직면하다: 시장 변화와 기술 혁신](https://blog.ai.dmomo.co.kr/trend/702) <br/>
-[2025/01/27 - 맨유 vs 풀럼: 마르티네스의 결승골로 8연승 달성! 순위 상승의 비결은?](https://blog.ai.dmomo.co.kr/trend/699) <br/>
-[2025/01/27 - 충격! 토트넘 4연패, 레스터 2-1 역전승으로 강등권 탈출 희망](https://blog.ai.dmomo.co.kr/trend/696) <br/>
