@@ -79,9 +79,9 @@
 [2024/02/01 - 1104회 로또 4등 당첨 리뷰](http://dmomo.co.kr/47) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/01/31 - 알리바바 Qwen 2.5-Max: AI 경쟁의 새로운 패러다임을 선도하다 – 벤치마크를 뛰어넘는 혁신](https://blog.ai.dmomo.co.kr/tech/732) <br/>
+[2025/01/30 - 2025년 스타게이트 프로젝트: 5천억 달러 투자로 미국 AI 패권 확보? 일자리 창출과 의료 혁신의 미래가 달렸다!](https://blog.ai.dmomo.co.kr/tech/729) <br/>
+[2025/01/30 - 바이에른 뮌헨, UCL 16강 진출 실패? 김민재의 활약과 PO 전망은?](https://blog.ai.dmomo.co.kr/trend/726) <br/>
+[2025/01/30 - PSV, 리버풀 상대로 3-2 역전승! UEFA 챔스리그 조별리그 8차전 분석](https://blog.ai.dmomo.co.kr/trend/723) <br/>
+[2025/01/30 - PSG, 뎀벨레 해트트릭으로 16강 확정! 슈투트가르트는 탈락의 쓴맛](https://blog.ai.dmomo.co.kr/trend/720) <br/>
 [2025/01/29 - 설날의 맛과 풍습: 떡국부터 묵은 세배까지 알아보는 한국 명절의 모든 것](https://blog.ai.dmomo.co.kr/trend/717) <br/>
-[2025/01/29 - 충격! 에어부산 항공기 화재, 안전 불감증의 경고? 대책은?](https://blog.ai.dmomo.co.kr/trend/714) <br/>
-[2025/01/28 - 새해맞이: 설날의 전통과 SNS로 전하는 현대식 새해 인사법](https://blog.ai.dmomo.co.kr/trend/711) <br/>
-[2025/01/28 - DeepSeek: 중국발 AI 혁명, 오픈소스로 비용 효율성과 성능 동시 실현](https://blog.ai.dmomo.co.kr/trend/708) <br/>
-[2025/01/28 - Janus-Pro 7B: 다중 모달 AI의 새로운 지평, 벤치마크를 뛰어넘는 성능과 오픈소스 혁신](https://blog.ai.dmomo.co.kr/tech/705) <br/>
-[2025/01/28 - AI 혁명의 주역 엔비디아, 새로운 도전에 직면하다: 시장 변화와 기술 혁신](https://blog.ai.dmomo.co.kr/trend/702) <br/>
