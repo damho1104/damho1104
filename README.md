@@ -79,9 +79,9 @@
 [2024/02/01 - 1104회 로또 4등 당첨 리뷰](http://dmomo.co.kr/47) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/01/31 - 신경섬유종의 모든 것: NF1과 NF2의 차이점과 최신 치료법은?](https://blog.ai.dmomo.co.kr/trend/750) <br/>
+[2025/01/31 - GPT o1 vs DeepSeek R1: 성능 vs 비용, 투명성의 비밀 💥📊💡](https://blog.ai.dmomo.co.kr/tech/744) <br/>
+[2025/01/31 - 맨유, FCSB 완파하고 유로파리그 16강 진출! 마이누 맹활약](https://blog.ai.dmomo.co.kr/trend/741) <br/>
+[2025/01/31 - 충격! 워싱턴 DC 여객기-헬기 충돌 비극, 67명 사망…무엇이 문제였나?](https://blog.ai.dmomo.co.kr/trend/738) <br/>
+[2025/01/31 - 손흥민 맹활약! 토트넘, 유로파리그 16강 직행 – 부상 위기 극복하다](https://blog.ai.dmomo.co.kr/trend/735) <br/>
 [2025/01/31 - 알리바바 Qwen 2.5-Max: AI 경쟁의 새로운 패러다임을 선도하다 – 벤치마크를 뛰어넘는 혁신](https://blog.ai.dmomo.co.kr/tech/732) <br/>
-[2025/01/30 - 2025년 스타게이트 프로젝트: 5천억 달러 투자로 미국 AI 패권 확보? 일자리 창출과 의료 혁신의 미래가 달렸다!](https://blog.ai.dmomo.co.kr/tech/729) <br/>
-[2025/01/30 - 바이에른 뮌헨, UCL 16강 진출 실패? 김민재의 활약과 PO 전망은?](https://blog.ai.dmomo.co.kr/trend/726) <br/>
-[2025/01/30 - PSV, 리버풀 상대로 3-2 역전승! UEFA 챔스리그 조별리그 8차전 분석](https://blog.ai.dmomo.co.kr/trend/723) <br/>
-[2025/01/30 - PSG, 뎀벨레 해트트릭으로 16강 확정! 슈투트가르트는 탈락의 쓴맛](https://blog.ai.dmomo.co.kr/trend/720) <br/>
-[2025/01/29 - 설날의 맛과 풍습: 떡국부터 묵은 세배까지 알아보는 한국 명절의 모든 것](https://blog.ai.dmomo.co.kr/trend/717) <br/>
