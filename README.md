@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](http://dmomo.co.kr/52) <br/>
-[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](http://dmomo.co.kr/51) <br/>
-[2024/03/11 - 1110회 로또 당첨 리뷰](http://dmomo.co.kr/50) <br/>
-[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](http://dmomo.co.kr/49) <br/>
-[2024/02/03 - 1105회 로또 5등 당첨 리뷰](http://dmomo.co.kr/48) <br/>
-[2024/02/01 - 1104회 로또 4등 당첨 리뷰](http://dmomo.co.kr/47) <br/>
+[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](https://dmomo.co.kr/52) <br/>
+[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](https://dmomo.co.kr/51) <br/>
+[2024/03/11 - 1110회 로또 당첨 리뷰](https://dmomo.co.kr/50) <br/>
+[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](https://dmomo.co.kr/49) <br/>
+[2024/02/03 - 1105회 로또 5등 당첨 리뷰](https://dmomo.co.kr/48) <br/>
+[2024/02/01 - 1104회 로또 4등 당첨 리뷰](https://dmomo.co.kr/47) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/02/02 - 2025년을 선도할 커스텀 GPT: 기업 혁신의 열쇠, 어떻게 활용할까?](https://blog.ai.dmomo.co.kr/ai/769) <br/>
+[2025/02/01 - 유튜버 ‘일주어터’ 논란 대처법: 3가지 효과적인 위기관리 전략](https://blog.ai.dmomo.co.kr/trend/766) <br/>
+[2025/02/01 - 브레멘 vs 마인츠: 이재성·홍현석도 막지 못한 1-0 패배의 교훈은?](https://blog.ai.dmomo.co.kr/trend/762) <br/>
+[2025/02/01 - 경기도청 축산정책과 승진자 이현승, 그의 새로운 역할은?](https://blog.ai.dmomo.co.kr/trend/756) <br/>
+[2025/02/01 - 2025년 1월 말 주말 날씨 예보: 따뜻하지만 눈비 주의보!](https://blog.ai.dmomo.co.kr/trend/753) <br/>
 [2025/01/31 - 신경섬유종의 모든 것: NF1과 NF2의 차이점과 최신 치료법은?](https://blog.ai.dmomo.co.kr/trend/750) <br/>
-[2025/01/31 - GPT o1 vs DeepSeek R1: 성능 vs 비용, 투명성의 비밀 💥📊💡](https://blog.ai.dmomo.co.kr/tech/744) <br/>
-[2025/01/31 - 맨유, FCSB 완파하고 유로파리그 16강 진출! 마이누 맹활약](https://blog.ai.dmomo.co.kr/trend/741) <br/>
-[2025/01/31 - 충격! 워싱턴 DC 여객기-헬기 충돌 비극, 67명 사망…무엇이 문제였나?](https://blog.ai.dmomo.co.kr/trend/738) <br/>
-[2025/01/31 - 손흥민 맹활약! 토트넘, 유로파리그 16강 직행 – 부상 위기 극복하다](https://blog.ai.dmomo.co.kr/trend/735) <br/>
-[2025/01/31 - 알리바바 Qwen 2.5-Max: AI 경쟁의 새로운 패러다임을 선도하다 – 벤치마크를 뛰어넘는 혁신](https://blog.ai.dmomo.co.kr/tech/732) <br/>
