@@ -79,9 +79,9 @@
 [2024/02/01 - 1104회 로또 4등 당첨 리뷰](https://dmomo.co.kr/47) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/02/02 - NBA 충격! 루카 돈치치, 레이커스로 이적…르브론과 슈퍼듀오 탄생](https://blog.ai.dmomo.co.kr/trend/781) <br/>
+[2025/02/02 - 리버풀, 2-0 승리로 선두 굳히다: 본머스전 핵심 분석과 향후 전망](https://blog.ai.dmomo.co.kr/trend/778) <br/>
+[2025/02/02 - 경기 분석: 바이에른 뮌헨, 4-3 승리에 숨겨진 수비 불안 – 케인 멀티골](https://blog.ai.dmomo.co.kr/trend/775) <br/>
+[2025/02/02 - PSG, 뎀벨레 해트트릭으로 브레스트 5-2 격파…14경기 무패 행진](https://blog.ai.dmomo.co.kr/trend/772) <br/>
 [2025/02/02 - 2025년을 선도할 커스텀 GPT: 기업 혁신의 열쇠, 어떻게 활용할까?](https://blog.ai.dmomo.co.kr/ai/769) <br/>
 [2025/02/01 - 유튜버 ‘일주어터’ 논란 대처법: 3가지 효과적인 위기관리 전략](https://blog.ai.dmomo.co.kr/trend/766) <br/>
-[2025/02/01 - 브레멘 vs 마인츠: 이재성·홍현석도 막지 못한 1-0 패배의 교훈은?](https://blog.ai.dmomo.co.kr/trend/762) <br/>
-[2025/02/01 - 경기도청 축산정책과 승진자 이현승, 그의 새로운 역할은?](https://blog.ai.dmomo.co.kr/trend/756) <br/>
-[2025/02/01 - 2025년 1월 말 주말 날씨 예보: 따뜻하지만 눈비 주의보!](https://blog.ai.dmomo.co.kr/trend/753) <br/>
-[2025/01/31 - 신경섬유종의 모든 것: NF1과 NF2의 차이점과 최신 치료법은?](https://blog.ai.dmomo.co.kr/trend/750) <br/>
