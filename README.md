@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/02/04 - 이더리움의 새로운 지평: 가격 횡보 속 희망의 신호](https://dmomo.co.kr/53) <br/>
 [2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](https://dmomo.co.kr/52) <br/>
 [2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](https://dmomo.co.kr/51) <br/>
 [2024/03/11 - 1110회 로또 당첨 리뷰](https://dmomo.co.kr/50) <br/>
 [2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](https://dmomo.co.kr/49) <br/>
 [2024/02/03 - 1105회 로또 5등 당첨 리뷰](https://dmomo.co.kr/48) <br/>
-[2024/02/01 - 1104회 로또 4등 당첨 리뷰](https://dmomo.co.kr/47) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/02/03 - 이더리움 ETF 승인 임박? 5가지 핵심 요인으로 보는 ETH 전망](https://blog.ai.dmomo.co.kr/trend/793) <br/>
+[2025/02/03 - 맨유 vs 팰리스: 59% 승률의 레드데블스, 이번에도 승리할까?](https://blog.ai.dmomo.co.kr/trend/790) <br/>
+[2025/02/03 - 충격! 아스널, 맨시티에 5-1 대승…프리미어리그 판도 뒤집나?](https://blog.ai.dmomo.co.kr/trend/787) <br/>
+[2025/02/03 - 손흥민 맹활약! 토트넘, 브렌트퍼드 꺾고 7경기 무승 탈출](https://blog.ai.dmomo.co.kr/trend/784) <br/>
 [2025/02/02 - NBA 충격! 루카 돈치치, 레이커스로 이적…르브론과 슈퍼듀오 탄생](https://blog.ai.dmomo.co.kr/trend/781) <br/>
 [2025/02/02 - 리버풀, 2-0 승리로 선두 굳히다: 본머스전 핵심 분석과 향후 전망](https://blog.ai.dmomo.co.kr/trend/778) <br/>
-[2025/02/02 - 경기 분석: 바이에른 뮌헨, 4-3 승리에 숨겨진 수비 불안 – 케인 멀티골](https://blog.ai.dmomo.co.kr/trend/775) <br/>
-[2025/02/02 - PSG, 뎀벨레 해트트릭으로 브레스트 5-2 격파…14경기 무패 행진](https://blog.ai.dmomo.co.kr/trend/772) <br/>
-[2025/02/02 - 2025년을 선도할 커스텀 GPT: 기업 혁신의 열쇠, 어떻게 활용할까?](https://blog.ai.dmomo.co.kr/ai/769) <br/>
-[2025/02/01 - 유튜버 ‘일주어터’ 논란 대처법: 3가지 효과적인 위기관리 전략](https://blog.ai.dmomo.co.kr/trend/766) <br/>
