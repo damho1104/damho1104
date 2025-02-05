@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/02/04 - 이더리움의 새로운 지평: 가격 횡보 속 희망의 신호](https://dmomo.co.kr/53) <br/>
-[2024/10/03 - [체험단 /리뷰] nuon VOICE+ 갤럭시 버즈3 프로용 이어팁 리뷰 (with 다른 이어팁과 비교)](https://dmomo.co.kr/52) <br/>
-[2024/04/03 - [인프라 / Docker] Slack 과 유사한 오픈 소스 협업 도구 Mattermost](https://dmomo.co.kr/51) <br/>
-[2024/03/11 - 1110회 로또 당첨 리뷰](https://dmomo.co.kr/50) <br/>
-[2024/02/09 - [게임 / Docker] 설날 기념! 팰월드 서버 Docker 로 운영하기](https://dmomo.co.kr/49) <br/>
-[2024/02/03 - 1105회 로또 5등 당첨 리뷰](https://dmomo.co.kr/48) <br/>
+[2025/02/05 - MLOps 마스터하기: 자동화된 머신러닝 모델 개발부터 배포까지 5단계 가이드](http://dmomo.co.kr/65) <br/>
+[2025/02/05 - OpenAI o3-mini: 성능 39% 향상, 가격 63% 절감으로 AI 혁신 선도](http://dmomo.co.kr/64) <br/>
+[2025/02/04 - RAG 기술로 LLM 능력 2배 향상: 최신 정보와 전문성을 결합한 답변 생성 가이드](http://dmomo.co.kr/63) <br/>
+[2025/02/04 - 5가지 핵심 요소로 미래 비즈니스를 이끄는 AI 에이전트: 자동화부터 개인화까지](http://dmomo.co.kr/62) <br/>
+[2025/02/04 - 갤럭시 S25 시리즈: AI로 진화한 모바일의 미래, 어떻게 바뀌었나?](http://dmomo.co.kr/61) <br/>
+[2025/02/04 - Janus-Pro 7B: 다중 모달 AI의 새로운 지평, 벤치마크를 뛰어넘는 성능과 오픈소스 혁신](http://dmomo.co.kr/60) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/02/03 - 이더리움 ETF 승인 임박? 5가지 핵심 요인으로 보는 ETH 전망](https://blog.ai.dmomo.co.kr/trend/793) <br/>
-[2025/02/03 - 맨유 vs 팰리스: 59% 승률의 레드데블스, 이번에도 승리할까?](https://blog.ai.dmomo.co.kr/trend/790) <br/>
-[2025/02/03 - 충격! 아스널, 맨시티에 5-1 대승…프리미어리그 판도 뒤집나?](https://blog.ai.dmomo.co.kr/trend/787) <br/>
-[2025/02/03 - 손흥민 맹활약! 토트넘, 브렌트퍼드 꺾고 7경기 무승 탈출](https://blog.ai.dmomo.co.kr/trend/784) <br/>
-[2025/02/02 - NBA 충격! 루카 돈치치, 레이커스로 이적…르브론과 슈퍼듀오 탄생](https://blog.ai.dmomo.co.kr/trend/781) <br/>
-[2025/02/02 - 리버풀, 2-0 승리로 선두 굳히다: 본머스전 핵심 분석과 향후 전망](https://blog.ai.dmomo.co.kr/trend/778) <br/>
+[2025/02/05 - MLOps 마스터하기: 자동화된 머신러닝 모델 개발부터 배포까지 5단계 가이드](https://blog.ai.dmomo.co.kr/tech/818) <br/>
+[2025/02/05 - OpenAI o3-mini: 성능 39% 향상, 가격 63% 절감으로 AI 혁신 선도](https://blog.ai.dmomo.co.kr/tech/815) <br/>
+[2025/02/04 - RAG 기술로 LLM 능력 2배 향상: 최신 정보와 전문성을 결합한 답변 생성 가이드](https://blog.ai.dmomo.co.kr/tech/812) <br/>
+[2025/02/04 - 5가지 핵심 요소로 미래 비즈니스를 이끄는 AI 에이전트: 자동화부터 개인화까지](https://blog.ai.dmomo.co.kr/tech/809) <br/>
+[2025/02/04 - 팔란티어: AI 혁명의 선두주자, 36% 매출 성장의 비결은?](https://blog.ai.dmomo.co.kr/trend/805) <br/>
+[2025/02/04 - 혁신적인 DeepSeek R1-Zero: 강화 학습으로 무장한 추론 능력의 도약](https://blog.ai.dmomo.co.kr/tech/802) <br/>
