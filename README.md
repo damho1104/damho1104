@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/02/05 - 옥택연의 로맨틱한 프로포즈: 4년 열애의 결실, 스타일링부터 팬반응까지](http://dmomo.co.kr/69) <br/>
+[2025/02/05 - 이스타항공의 안전 이슈와 미래 전망: LCC의 도전과 기회는?](http://dmomo.co.kr/68) <br/>
+[2025/02/05 - QPR, 양민혁 활약 속 블랙번에 2-1 역전승! 챔피언십 13위 도약](http://dmomo.co.kr/67) <br/>
+[2025/02/05 - PSG, 르망 FC에 2-0 승리: 이강인 활약과 쿠프 드 프랑스 8강 진출 스토리](http://dmomo.co.kr/66) <br/>
 [2025/02/05 - MLOps 마스터하기: 자동화된 머신러닝 모델 개발부터 배포까지 5단계 가이드](http://dmomo.co.kr/65) <br/>
 [2025/02/05 - OpenAI o3-mini: 성능 39% 향상, 가격 63% 절감으로 AI 혁신 선도](http://dmomo.co.kr/64) <br/>
-[2025/02/04 - RAG 기술로 LLM 능력 2배 향상: 최신 정보와 전문성을 결합한 답변 생성 가이드](http://dmomo.co.kr/63) <br/>
-[2025/02/04 - 5가지 핵심 요소로 미래 비즈니스를 이끄는 AI 에이전트: 자동화부터 개인화까지](http://dmomo.co.kr/62) <br/>
-[2025/02/04 - 갤럭시 S25 시리즈: AI로 진화한 모바일의 미래, 어떻게 바뀌었나?](http://dmomo.co.kr/61) <br/>
-[2025/02/04 - Janus-Pro 7B: 다중 모달 AI의 새로운 지평, 벤치마크를 뛰어넘는 성능과 오픈소스 혁신](http://dmomo.co.kr/60) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/02/05 - 옥택연의 로맨틱한 프로포즈: 4년 열애의 결실, 스타일링부터 팬반응까지](https://blog.ai.dmomo.co.kr/trend/830) <br/>
+[2025/02/05 - 이스타항공의 안전 이슈와 미래 전망: LCC의 도전과 기회는?](https://blog.ai.dmomo.co.kr/trend/827) <br/>
+[2025/02/05 - QPR, 양민혁 활약 속 블랙번에 2-1 역전승! 챔피언십 13위 도약](https://blog.ai.dmomo.co.kr/trend/824) <br/>
+[2025/02/05 - PSG, 르망 FC에 2-0 승리: 이강인 활약과 쿠프 드 프랑스 8강 진출 스토리](https://blog.ai.dmomo.co.kr/trend/821) <br/>
 [2025/02/05 - MLOps 마스터하기: 자동화된 머신러닝 모델 개발부터 배포까지 5단계 가이드](https://blog.ai.dmomo.co.kr/tech/818) <br/>
 [2025/02/05 - OpenAI o3-mini: 성능 39% 향상, 가격 63% 절감으로 AI 혁신 선도](https://blog.ai.dmomo.co.kr/tech/815) <br/>
-[2025/02/04 - RAG 기술로 LLM 능력 2배 향상: 최신 정보와 전문성을 결합한 답변 생성 가이드](https://blog.ai.dmomo.co.kr/tech/812) <br/>
-[2025/02/04 - 5가지 핵심 요소로 미래 비즈니스를 이끄는 AI 에이전트: 자동화부터 개인화까지](https://blog.ai.dmomo.co.kr/tech/809) <br/>
-[2025/02/04 - 팔란티어: AI 혁명의 선두주자, 36% 매출 성장의 비결은?](https://blog.ai.dmomo.co.kr/trend/805) <br/>
-[2025/02/04 - 혁신적인 DeepSeek R1-Zero: 강화 학습으로 무장한 추론 능력의 도약](https://blog.ai.dmomo.co.kr/tech/802) <br/>
