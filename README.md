@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/02/06 - AC 밀란 vs AS 로마: 이탈리아 축구 명승부의 비밀을 파헤치다](http://dmomo.co.kr/73) <br/>
+[2025/02/06 - 청약홈 과열 현상, 무순위 청약 자격 제한으로 해결될까?](http://dmomo.co.kr/72) <br/>
+[2025/02/06 - 레알 마드리드의 기적: 부상 악재 속 코파 델 레이 8강전 3-2 역전승!](http://dmomo.co.kr/71) <br/>
+[2025/02/06 - 뉴캐슬 4-0 아스널: EFL컵 준결승의 충격적 결과와 전술 분석](http://dmomo.co.kr/70) <br/>
 [2025/02/05 - 옥택연의 로맨틱한 프로포즈: 4년 열애의 결실, 스타일링부터 팬반응까지](http://dmomo.co.kr/69) <br/>
 [2025/02/05 - 이스타항공의 안전 이슈와 미래 전망: LCC의 도전과 기회는?](http://dmomo.co.kr/68) <br/>
-[2025/02/05 - QPR, 양민혁 활약 속 블랙번에 2-1 역전승! 챔피언십 13위 도약](http://dmomo.co.kr/67) <br/>
-[2025/02/05 - PSG, 르망 FC에 2-0 승리: 이강인 활약과 쿠프 드 프랑스 8강 진출 스토리](http://dmomo.co.kr/66) <br/>
-[2025/02/05 - MLOps 마스터하기: 자동화된 머신러닝 모델 개발부터 배포까지 5단계 가이드](http://dmomo.co.kr/65) <br/>
-[2025/02/05 - OpenAI o3-mini: 성능 39% 향상, 가격 63% 절감으로 AI 혁신 선도](http://dmomo.co.kr/64) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/02/06 - AC 밀란 vs AS 로마: 이탈리아 축구 명승부의 비밀을 파헤치다](https://blog.ai.dmomo.co.kr/trend/842) <br/>
+[2025/02/06 - 청약홈 과열 현상, 무순위 청약 자격 제한으로 해결될까?](https://blog.ai.dmomo.co.kr/trend/839) <br/>
+[2025/02/06 - 레알 마드리드의 기적: 부상 악재 속 코파 델 레이 8강전 3-2 역전승!](https://blog.ai.dmomo.co.kr/trend/836) <br/>
+[2025/02/06 - 뉴캐슬 4-0 아스널: EFL컵 준결승의 충격적 결과와 전술 분석](https://blog.ai.dmomo.co.kr/trend/833) <br/>
 [2025/02/05 - 옥택연의 로맨틱한 프로포즈: 4년 열애의 결실, 스타일링부터 팬반응까지](https://blog.ai.dmomo.co.kr/trend/830) <br/>
 [2025/02/05 - 이스타항공의 안전 이슈와 미래 전망: LCC의 도전과 기회는?](https://blog.ai.dmomo.co.kr/trend/827) <br/>
-[2025/02/05 - QPR, 양민혁 활약 속 블랙번에 2-1 역전승! 챔피언십 13위 도약](https://blog.ai.dmomo.co.kr/trend/824) <br/>
-[2025/02/05 - PSG, 르망 FC에 2-0 승리: 이강인 활약과 쿠프 드 프랑스 8강 진출 스토리](https://blog.ai.dmomo.co.kr/trend/821) <br/>
-[2025/02/05 - MLOps 마스터하기: 자동화된 머신러닝 모델 개발부터 배포까지 5단계 가이드](https://blog.ai.dmomo.co.kr/tech/818) <br/>
-[2025/02/05 - OpenAI o3-mini: 성능 39% 향상, 가격 63% 절감으로 AI 혁신 선도](https://blog.ai.dmomo.co.kr/tech/815) <br/>
