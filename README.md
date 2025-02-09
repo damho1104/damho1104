@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/02/08 - 한중 쇼트트랙 스타의 귀환: 린샤오쥔의 아시안게임 활약과 논란](https://dmomo.co.kr/82) <br/>
+[2025/02/08 - NJZ: 뉴진스의 대변신, K-pop 역사를 새로 쓰다](https://dmomo.co.kr/81) <br/>
+[2025/02/08 - 바이에른 뮌헨 7연승 행진! 해리 케인의 2골로 브레멘에 3-0 완승](https://dmomo.co.kr/80) <br/>
+[2025/02/08 - FA컵 4라운드 격돌: 맨유 vs 레스터 시티, 누가 웃을까?](https://dmomo.co.kr/79) <br/>
+[2025/02/08 - PSG vs 모나코: 무패 선두의 PSG, 3위 모나코에 4-1 압승 재현할까?](https://dmomo.co.kr/78) <br/>
 [2025/02/07 - 송대관, 한국 트로트의 전설: '네박자' 가왕의 78년 인생 여정](https://dmomo.co.kr/77) <br/>
-[2025/02/07 - 바르셀로나의 5-0 압승: 코파 델 레이 8강전에서 드러난 전략의 차이](https://dmomo.co.kr/76) <br/>
-[2025/02/07 - 충주 규모 3.1 지진, 수도권까지 '흔들'...지진 대응법은?](https://dmomo.co.kr/75) <br/>
-[2025/02/07 - 리버풀 4-0 토트넘: EFL컵 4강 2차전 완승, 손흥민 골대 강타](https://dmomo.co.kr/74) <br/>
-[2025/02/06 - AC 밀란 vs AS 로마: 이탈리아 축구 명승부의 비밀을 파헤치다](https://dmomo.co.kr/73) <br/>
-[2025/02/06 - 청약홈 과열 현상, 무순위 청약 자격 제한으로 해결될까?](https://dmomo.co.kr/72) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/02/07 - 송대관, 한국 트로트의 전설: ‘네박자’ 가왕의 78년 인생 여정](https://blog.ai.dmomo.co.kr/trend/857) <br/>
-[2025/02/07 - 바르셀로나의 5-0 압승: 코파 델 레이 8강전에서 드러난 전략의 차이](https://blog.ai.dmomo.co.kr/trend/854) <br/>
-[2025/02/07 - 충주 규모 3.1 지진, 수도권까지 ‘흔들’…지진 대응법은?](https://blog.ai.dmomo.co.kr/trend/851) <br/>
-[2025/02/07 - 리버풀 4-0 토트넘: EFL컵 4강 2차전 완승, 손흥민 골대 강타](https://blog.ai.dmomo.co.kr/trend/845) <br/>
-[2025/02/06 - AC 밀란 vs AS 로마: 이탈리아 축구 명승부의 비밀을 파헤치다](https://blog.ai.dmomo.co.kr/trend/842) <br/>
-[2025/02/06 - 청약홈 과열 현상, 무순위 청약 자격 제한으로 해결될까?](https://blog.ai.dmomo.co.kr/trend/839) <br/>
+[2025/02/09 - 코딩 실력 UP! 온라인 코딩 테스트 스터디 참여하세요 (주 2/4/6회)](https://blog.ai.dmomo.co.kr/ai/878) <br/>
+[2025/02/08 - 한중 쇼트트랙 스타의 귀환: 린샤오쥔의 아시안게임 활약과 논란](https://blog.ai.dmomo.co.kr/trend/875) <br/>
+[2025/02/08 - NJZ: 뉴진스의 대변신, K-pop 역사를 새로 쓰다](https://blog.ai.dmomo.co.kr/trend/872) <br/>
+[2025/02/08 - 바이에른 뮌헨 7연승 행진! 해리 케인의 2골로 브레멘에 3-0 완승](https://blog.ai.dmomo.co.kr/trend/869) <br/>
+[2025/02/08 - FA컵 4라운드 격돌: 맨유 vs 레스터 시티, 누가 웃을까?](https://blog.ai.dmomo.co.kr/trend/866) <br/>
+[2025/02/08 - PSG vs 모나코: 무패 선두의 PSG, 3위 모나코에 4-1 압승 재현할까?](https://blog.ai.dmomo.co.kr/trend/863) <br/>
