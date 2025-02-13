@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/02/11 - 돈치치 데뷔전 폭발! 레이커스 6연승 달성, NBA 판도 바꿀까?](http://dmomo.co.kr/94) <br/>
-[2025/02/11 - FA컵 4라운드 격돌: 크리스털 팰리스, 동커스터 완파하고 5라운드 진출!](http://dmomo.co.kr/93) <br/>
-[2025/02/10 - 세비야 vs 바르셀로나: 극적인 역전승의 순간! 라리가 23R 하이라이트](http://dmomo.co.kr/91) <br/>
-[2025/02/10 - FA컵 4라운드: 울버햄튼, 황희찬 어시스트로 블랙번에 2-0 승리!](http://dmomo.co.kr/90) <br/>
-[2025/02/10 - 충격! 69년 만에 일어난 FA컵 대이변, 플리머스 vs 리버풀 경기 분석](http://dmomo.co.kr/89) <br/>
-[2025/02/10 - FA컵 4라운드 격돌: 애스턴 빌라, 토트넘 꺾고 16강 진출! 손흥민은?](http://dmomo.co.kr/88) <br/>
+[2025/02/12 - BTS도 입은 한복의 혁명, 김리을 디자이너의 유산과 영향력](https://dmomo.co.kr/98) <br/>
+[2025/02/12 - OKX: 암호화폐 시장의 혁명, Web3와 DeFi의 미래를 열다](https://dmomo.co.kr/97) <br/>
+[2025/02/12 - 충격! 8살 김하늘 양 사망 사건의 진실: 40대 여교사의 범행 동기와 수사 진행 상황](https://dmomo.co.kr/96) <br/>
+[2025/02/12 - 챔스 16강 대격돌: 맨시티 vs 레알, 3-2 극장골의 비밀은?](https://dmomo.co.kr/95) <br/>
+[2025/02/11 - 돈치치 데뷔전 폭발! 레이커스 6연승 달성, NBA 판도 바꿀까?](https://dmomo.co.kr/94) <br/>
+[2025/02/11 - FA컵 4라운드 격돌: 크리스털 팰리스, 동커스터 완파하고 5라운드 진출!](https://dmomo.co.kr/93) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/02/12 - BTS도 입은 한복의 혁명, 김리을 디자이너의 유산과 영향력](https://blog.ai.dmomo.co.kr/trend/924) <br/>
+[2025/02/12 - OKX: 암호화폐 시장의 혁명, Web3와 DeFi의 미래를 열다](https://blog.ai.dmomo.co.kr/trend/921) <br/>
+[2025/02/12 - 충격! 8살 김하늘 양 사망 사건의 진실: 40대 여교사의 범행 동기와 수사 진행 상황](https://blog.ai.dmomo.co.kr/trend/918) <br/>
+[2025/02/12 - 챔스 16강 대격돌: 맨시티 vs 레알, 3-2 극장골의 비밀은?](https://blog.ai.dmomo.co.kr/trend/915) <br/>
 [2025/02/11 - 돈치치 데뷔전 폭발! 레이커스 6연승 달성, NBA 판도 바꿀까?](https://blog.ai.dmomo.co.kr/trend/912) <br/>
 [2025/02/11 - FA컵 4라운드 격돌: 크리스털 팰리스, 동커스터 완파하고 5라운드 진출!](https://blog.ai.dmomo.co.kr/trend/909) <br/>
-[2025/02/11 - 충격! 대전 초등학교 8세 여아 피살사건, 그 뒤에 숨겨진 진실은?](https://blog.ai.dmomo.co.kr/trend/906) <br/>
-[2025/02/10 - 세비야 vs 바르셀로나: 극적인 역전승의 순간! 라리가 23R 하이라이트](https://blog.ai.dmomo.co.kr/trend/903) <br/>
-[2025/02/10 - FA컵 4라운드: 울버햄튼, 황희찬 어시스트로 블랙번에 2-0 승리!](https://blog.ai.dmomo.co.kr/trend/900) <br/>
-[2025/02/10 - 충격! 69년 만에 일어난 FA컵 대이변, 플리머스 vs 리버풀 경기 분석](https://blog.ai.dmomo.co.kr/trend/897) <br/>
