@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/02/12 - BTS도 입은 한복의 혁명, 김리을 디자이너의 유산과 영향력](https://dmomo.co.kr/98) <br/>
-[2025/02/12 - OKX: 암호화폐 시장의 혁명, Web3와 DeFi의 미래를 열다](https://dmomo.co.kr/97) <br/>
-[2025/02/12 - 충격! 8살 김하늘 양 사망 사건의 진실: 40대 여교사의 범행 동기와 수사 진행 상황](https://dmomo.co.kr/96) <br/>
-[2025/02/12 - 챔스 16강 대격돌: 맨시티 vs 레알, 3-2 극장골의 비밀은?](https://dmomo.co.kr/95) <br/>
-[2025/02/11 - 돈치치 데뷔전 폭발! 레이커스 6연승 달성, NBA 판도 바꿀까?](https://dmomo.co.kr/94) <br/>
-[2025/02/11 - FA컵 4라운드 격돌: 크리스털 팰리스, 동커스터 완파하고 5라운드 진출!](https://dmomo.co.kr/93) <br/>
+[2025/02/13 - 극장 동점골로 끝난 머지사이드 더비: 에버턴 vs 리버풀 2-2 명승부](http://dmomo.co.kr/100) <br/>
+[2025/02/13 - UCL 16강 플레이오프: 뮌헨, 홈팀 셀틱 격파! 김민재 결장 속 양현준 활약](http://dmomo.co.kr/99) <br/>
+[2025/02/12 - BTS도 입은 한복의 혁명, 김리을 디자이너의 유산과 영향력](http://dmomo.co.kr/98) <br/>
+[2025/02/12 - OKX: 암호화폐 시장의 혁명, Web3와 DeFi의 미래를 열다](http://dmomo.co.kr/97) <br/>
+[2025/02/12 - 충격! 8살 김하늘 양 사망 사건의 진실: 40대 여교사의 범행 동기와 수사 진행 상황](http://dmomo.co.kr/96) <br/>
+[2025/02/12 - 챔스 16강 대격돌: 맨시티 vs 레알, 3-2 극장골의 비밀은?](http://dmomo.co.kr/95) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/02/13 - 극장 동점골로 끝난 머지사이드 더비: 에버턴 vs 리버풀 2-2 명승부](https://blog.ai.dmomo.co.kr/trend/930) <br/>
+[2025/02/13 - UCL 16강 플레이오프: 뮌헨, 홈팀 셀틱 격파! 김민재 결장 속 양현준 활약](https://blog.ai.dmomo.co.kr/trend/927) <br/>
 [2025/02/12 - BTS도 입은 한복의 혁명, 김리을 디자이너의 유산과 영향력](https://blog.ai.dmomo.co.kr/trend/924) <br/>
 [2025/02/12 - OKX: 암호화폐 시장의 혁명, Web3와 DeFi의 미래를 열다](https://blog.ai.dmomo.co.kr/trend/921) <br/>
 [2025/02/12 - 충격! 8살 김하늘 양 사망 사건의 진실: 40대 여교사의 범행 동기와 수사 진행 상황](https://blog.ai.dmomo.co.kr/trend/918) <br/>
 [2025/02/12 - 챔스 16강 대격돌: 맨시티 vs 레알, 3-2 극장골의 비밀은?](https://blog.ai.dmomo.co.kr/trend/915) <br/>
-[2025/02/11 - 돈치치 데뷔전 폭발! 레이커스 6연승 달성, NBA 판도 바꿀까?](https://blog.ai.dmomo.co.kr/trend/912) <br/>
-[2025/02/11 - FA컵 4라운드 격돌: 크리스털 팰리스, 동커스터 완파하고 5라운드 진출!](https://blog.ai.dmomo.co.kr/trend/909) <br/>
