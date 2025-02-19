@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/02/17 - 90분 프로토타입에서 라이브 앱까지: DevOps가 가속화하는 성공 사례 알아보기](http://dmomo.co.kr/113) <br/>
-[2025/02/17 - 리버풀 vs 울버햄튼: 통계로 본 승부의 향방은? 최근 23경기 분석](http://dmomo.co.kr/112) <br/>
-[2025/02/17 - 토트넘 vs 맨유: 손흥민 활약 속 EPL 최초 '더블' 달성! 25라운드 분석](http://dmomo.co.kr/111) <br/>
-[2025/02/16 - 제주SK, 홈 개막전 2-0 승리! 新 스타 김준하 데뷔골 폭발](http://dmomo.co.kr/110) <br/>
-[2025/02/16 - 스타게이트 프로젝트: 5,000억 달러 투입으로 미국 AI 미래를 선도하다](http://dmomo.co.kr/109) <br/>
-[2025/02/16 - 놀라운 역전극! 메리노의 2골로 아스널, EPL 선두 추격 가속화](http://dmomo.co.kr/108) <br/>
+[2025/02/18 - 광주 FC vs 부리람 유나이티드: ACLE 16강 향한 운명의 한 판 승부](https://dmomo.co.kr/116) <br/>
+[2025/02/18 - Grok 3: 일론 머스크의 AI 혁명, 챗봇 시장을 뒤흔들 수 있을까?](https://dmomo.co.kr/115) <br/>
+[2025/02/18 - 바르셀로나 1-0 승리의 비결: 레반도프스키의 결정적 페널티킥](https://dmomo.co.kr/114) <br/>
+[2025/02/17 - 90분 프로토타입에서 라이브 앱까지: DevOps가 가속화하는 성공 사례 알아보기](https://dmomo.co.kr/113) <br/>
+[2025/02/17 - 리버풀 vs 울버햄튼: 통계로 본 승부의 향방은? 최근 23경기 분석](https://dmomo.co.kr/112) <br/>
+[2025/02/17 - 토트넘 vs 맨유: 손흥민 활약 속 EPL 최초 '더블' 달성! 25라운드 분석](https://dmomo.co.kr/111) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/02/18 - 광주 FC vs 부리람 유나이티드: ACLE 16강 향한 운명의 한 판 승부](https://blog.ai.dmomo.co.kr/trend/988) <br/>
+[2025/02/18 - Grok 3: 일론 머스크의 AI 혁명, 챗봇 시장을 뒤흔들 수 있을까?](https://blog.ai.dmomo.co.kr/trend/985) <br/>
+[2025/02/18 - 바르셀로나 1-0 승리의 비결: 레반도프스키의 결정적 페널티킥](https://blog.ai.dmomo.co.kr/trend/982) <br/>
 [2025/02/17 - 리버풀 vs 울버햄튼: 통계로 본 승부의 향방은? 최근 23경기 분석](https://blog.ai.dmomo.co.kr/trend/979) <br/>
 [2025/02/17 - 90분 프로토타입에서 라이브 앱까지: DevOps가 가속화하는 성공 사례 알아보기](https://blog.ai.dmomo.co.kr/tech/976) <br/>
 [2025/02/17 - 토트넘 vs 맨유: 손흥민 활약 속 EPL 최초 ‘더블’ 달성! 25라운드 분석](https://blog.ai.dmomo.co.kr/trend/973) <br/>
-[2025/02/16 - 전북 vs 김천상무: K리그1 개막전 ‘역전승의 드라마’ 어떻게 펼쳐졌나?](https://blog.ai.dmomo.co.kr/trend/970) <br/>
-[2025/02/16 - 제주SK, 홈 개막전 2-0 승리! 新 스타 김준하 데뷔골 폭발](https://blog.ai.dmomo.co.kr/trend/967) <br/>
-[2025/02/16 - 스타게이트 프로젝트: 5,000억 달러 투입으로 미국 AI 미래를 선도하다](https://blog.ai.dmomo.co.kr/tech/964) <br/>
