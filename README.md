@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/02/18 - 광주 FC vs 부리람 유나이티드: ACLE 16강 향한 운명의 한 판 승부](https://dmomo.co.kr/116) <br/>
-[2025/02/18 - Grok 3: 일론 머스크의 AI 혁명, 챗봇 시장을 뒤흔들 수 있을까?](https://dmomo.co.kr/115) <br/>
-[2025/02/18 - 바르셀로나 1-0 승리의 비결: 레반도프스키의 결정적 페널티킥](https://dmomo.co.kr/114) <br/>
-[2025/02/17 - 90분 프로토타입에서 라이브 앱까지: DevOps가 가속화하는 성공 사례 알아보기](https://dmomo.co.kr/113) <br/>
-[2025/02/17 - 리버풀 vs 울버햄튼: 통계로 본 승부의 향방은? 최근 23경기 분석](https://dmomo.co.kr/112) <br/>
-[2025/02/17 - 토트넘 vs 맨유: 손흥민 활약 속 EPL 최초 '더블' 달성! 25라운드 분석](https://dmomo.co.kr/111) <br/>
+[2025/02/19 - 페예노르트의 기적: 50년 만에 UCL 16강 진출, 밀란 격파의 비결은?](http://dmomo.co.kr/118) <br/>
+[2025/02/19 - 유럽축구 깜짝쇼: 김민재 실수, 데이비스 극장골로 살아난 바이에른!](http://dmomo.co.kr/117) <br/>
+[2025/02/18 - 광주 FC vs 부리람 유나이티드: ACLE 16강 향한 운명의 한 판 승부](http://dmomo.co.kr/116) <br/>
+[2025/02/18 - Grok 3: 일론 머스크의 AI 혁명, 챗봇 시장을 뒤흔들 수 있을까?](http://dmomo.co.kr/115) <br/>
+[2025/02/18 - 바르셀로나 1-0 승리의 비결: 레반도프스키의 결정적 페널티킥](http://dmomo.co.kr/114) <br/>
+[2025/02/17 - 90분 프로토타입에서 라이브 앱까지: DevOps가 가속화하는 성공 사례 알아보기](http://dmomo.co.kr/113) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/02/19 - 페예노르트의 기적: 50년 만에 UCL 16강 진출, 밀란 격파의 비결은?](https://blog.ai.dmomo.co.kr/trend/994) <br/>
+[2025/02/19 - 유럽축구 깜짝쇼: 김민재 실수, 데이비스 극장골로 살아난 바이에른!](https://blog.ai.dmomo.co.kr/trend/991) <br/>
 [2025/02/18 - 광주 FC vs 부리람 유나이티드: ACLE 16강 향한 운명의 한 판 승부](https://blog.ai.dmomo.co.kr/trend/988) <br/>
 [2025/02/18 - Grok 3: 일론 머스크의 AI 혁명, 챗봇 시장을 뒤흔들 수 있을까?](https://blog.ai.dmomo.co.kr/trend/985) <br/>
 [2025/02/18 - 바르셀로나 1-0 승리의 비결: 레반도프스키의 결정적 페널티킥](https://blog.ai.dmomo.co.kr/trend/982) <br/>
 [2025/02/17 - 리버풀 vs 울버햄튼: 통계로 본 승부의 향방은? 최근 23경기 분석](https://blog.ai.dmomo.co.kr/trend/979) <br/>
-[2025/02/17 - 90분 프로토타입에서 라이브 앱까지: DevOps가 가속화하는 성공 사례 알아보기](https://blog.ai.dmomo.co.kr/tech/976) <br/>
-[2025/02/17 - 토트넘 vs 맨유: 손흥민 활약 속 EPL 최초 ‘더블’ 달성! 25라운드 분석](https://blog.ai.dmomo.co.kr/trend/973) <br/>
