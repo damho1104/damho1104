@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/02/21 - 레알 소시에다드 vs 미트윌란: UEL 16강행 놓고 펼쳐진 7골 난타전의 결과는?](https://dmomo.co.kr/128) <br/>
+[2025/02/21 - 송하윤 학폭 논란으로 3년 지연된 '찌질의 역사', 2025년 공개 확정](https://dmomo.co.kr/127) <br/>
+[2025/02/21 - 방시혁의 야심작: K-POP 방법론으로 미국 주류 시장을 정복할 수 있을까?](https://dmomo.co.kr/126) <br/>
+[2025/02/21 - 안토니의 마법: 레알 베티스, 유로파 컨퍼런스리그 16강 진출 눈앞에?](https://dmomo.co.kr/125) <br/>
 [2025/02/20 - 파이코인 메인넷 D-Day: 2025년 가치 폭등의 시작점?](https://dmomo.co.kr/124) <br/>
 [2025/02/20 - Grok 3: 10배 강력해진 xAI의 혁명, 우주 탐사까지 향하다](https://dmomo.co.kr/123) <br/>
-[2025/02/20 - LangChain vs LangGraph: LLM으로 복잡한 워크플로우 구축하기](https://dmomo.co.kr/122) <br/>
-[2025/02/20 - 누녜스의 '골대 실종'이 부른 리버풀의 무승부, 살라의 활약도 빛 바래](https://dmomo.co.kr/121) <br/>
-[2025/02/20 - PSG의 7-0 대승! 챔피언스리그 8강 진출의 비결은? [UEFA 챔피언스리그]](https://dmomo.co.kr/120) <br/>
-[2025/02/20 - 음바페의 해트트릭으로 본 레알 마드리드 vs 맨시티 UCL 16강 격돌](https://dmomo.co.kr/119) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/02/21 - 레알 소시에다드 vs 미트윌란: UEL 16강행 놓고 펼쳐진 7골 난타전의 결과는?](https://blog.ai.dmomo.co.kr/trend/1029) <br/>
+[2025/02/21 - 송하윤 학폭 논란으로 3년 지연된 ‘찌질의 역사’, 2025년 공개 확정](https://blog.ai.dmomo.co.kr/trend/1026) <br/>
+[2025/02/21 - 방시혁의 야심작: K-팝 방법론으로 미국 주류 시장을 정복할 수 있을까?](https://blog.ai.dmomo.co.kr/trend/1022) <br/>
+[2025/02/21 - 안토니의 마법: 레알 베티스, 유로파 컨퍼런스리그 16강 진출 눈앞에?](https://blog.ai.dmomo.co.kr/trend/1019) <br/>
 [2025/02/20 - 파이코인 메인넷 D-Day: 2025년 가치 폭등의 시작점?](https://blog.ai.dmomo.co.kr/trend/1016) <br/>
 [2025/02/20 - Grok 3: 10배 강력해진 xAI의 혁명, 우주 탐사까지 향하다](https://blog.ai.dmomo.co.kr/tech/1013) <br/>
-[2025/02/20 - LangChain vs LangGraph: LLM으로 복잡한 워크플로우 구축하기 – 어떤 도구가 당신의 프로젝트에 적합할까요?](https://blog.ai.dmomo.co.kr/tech/1006) <br/>
-[2025/02/20 - 누녜스의 ‘골대 실종’이 부른 리버풀의 무승부, 살라의 활약도 빛 바래](https://blog.ai.dmomo.co.kr/trend/1003) <br/>
-[2025/02/20 - 음바페의 해트트릭으로 본 레알 마드리드 vs 맨시티 UCL 16강 격돌](https://blog.ai.dmomo.co.kr/trend/1000) <br/>
-[2025/02/20 - PSG의 7-0 대승! 챔피언스리그 8강 진출의 비결은? [UEFA 챔피언스리그]](https://blog.ai.dmomo.co.kr/trend/997) <br/>
