@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/02/24 - 이강인의 마법 같은 어시스트, PSG 23경기 무패 행진 중!](https://dmomo.co.kr/138) <br/>
+[2025/02/24 - 리버풀의 역습 마스터클래스: 살라의 활약으로 맨시티에 2-0 승리](https://dmomo.co.kr/137) <br/>
 [2025/02/23 - 충격적 역전승! 래시포드의 마법, 아센시오의 멀티골로 빌라가 첼시 완파](https://dmomo.co.kr/136) <br/>
 [2025/02/23 - 아스널의 타이틀 꿈 무너지나? 웨스트햄에 1-0 충격패](https://dmomo.co.kr/135) <br/>
 [2025/02/23 - 맨유의 기적적 역전과 VAR 논란: 에버턴과의 2-2 무승부 분석](https://dmomo.co.kr/134) <br/>
 [2025/02/23 - OpenAI 해킹 사건: AI 기업의 보안 취약점과 데이터 보호의 중요성](https://dmomo.co.kr/133) <br/>
-[2025/02/23 - 손흥민 2도움 활약, 토트넘 4-1 대승으로 1년 만의 3연승 달성](https://dmomo.co.kr/132) <br/>
-[2025/02/22 - 라마스의 1골 1도움 활약, 대구FC 2연승 질주: 수원FC 3-1 완파](https://dmomo.co.kr/131) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/02/24 - 이강인의 마법 같은 어시스트, PSG 23경기 무패 행진 중!](https://blog.ai.dmomo.co.kr/trend/1059) <br/>
+[2025/02/24 - 리버풀의 역습 마스터클래스: 살라의 활약으로 맨시티에 2-0 승리](https://blog.ai.dmomo.co.kr/trend/1056) <br/>
 [2025/02/23 - 충격적 역전승! 래시포드의 마법, 아센시오의 멀티골로 빌라가 첼시 완파](https://blog.ai.dmomo.co.kr/trend/1053) <br/>
 [2025/02/23 - 아스널의 타이틀 꿈 무너지나? 웨스트햄에 1-0 충격패](https://blog.ai.dmomo.co.kr/trend/1050) <br/>
 [2025/02/23 - 맨유의 기적적 역전과 VAR 논란: 에버턴과의 2-2 무승부 분석](https://blog.ai.dmomo.co.kr/trend/1047) <br/>
 [2025/02/23 - 손흥민 2도움 활약, 토트넘 4-1 대승으로 1년 만의 3연승 달성](https://blog.ai.dmomo.co.kr/trend/1044) <br/>
-[2025/02/23 - OpenAI 해킹 사건: AI 기업의 보안 취약점과 데이터 보호의 중요성](https://blog.ai.dmomo.co.kr/ai/1041) <br/>
-[2025/02/22 - 라마스의 1골 1도움 활약, 대구FC 2연승 질주: 수원FC 3-1 완파](https://blog.ai.dmomo.co.kr/trend/1038) <br/>
