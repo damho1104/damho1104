@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/03/02 - 역대급 현대가 더비: 울산, 전북에 1-0 승리로 시즌 2승 달성](http://dmomo.co.kr/153) <br/>
-[2025/03/01 - 젤렌스키의 대담한 선언: NATO 대신 핵무기로 우크라이나를 지킬 것인가?](http://dmomo.co.kr/152) <br/>
-[2025/03/01 - 3월 1일 전국 날씨: 봄기운 속 비와 눈, 미세먼지 주의보](http://dmomo.co.kr/151) <br/>
-[2025/03/01 - 김민재의 '황금 머리'로 이끈 바이에른 뮌헨의 짜릿한 3-1 역전승](http://dmomo.co.kr/150) <br/>
-[2025/02/28 - 봉준호의 '미키 17': 17번의 죽음으로 탐구하는 인간의 가치와 미래 사회](http://dmomo.co.kr/149) <br/>
-[2025/02/28 - 웨스트 햄 vs 레스터 시티: 홈 강세와 원정 공격력의 충돌, 승자는?](http://dmomo.co.kr/148) <br/>
+[2025/03/03 - LLM Reasoning 모델: 개발 이정표에서 미래 강화 학습 혁신까지](https://dmomo.co.kr/160) <br/>
+[2025/03/03 - 생각하는 LLM 모델: DeepSeek-R1 및 QLASS가 AI의 논리적 사고를 혁신하는 방법](https://dmomo.co.kr/159) <br/>
+[2025/03/03 - 바르셀로나의 4-0 대승, 레드카드가 바꾼 라리가 선두 경쟁](https://dmomo.co.kr/158) <br/>
+[2025/03/03 - 2025년 3월 대한민국 이상기후: 폭설과 강풍, 그 영향은?](https://dmomo.co.kr/157) <br/>
+[2025/03/03 - 충격의 FA컵 탈락: 맨유, 풀럼에 21경기 만에 패배...유럽 진출 '빨간불'](https://dmomo.co.kr/156) <br/>
+[2025/03/03 - PSG의 압도적 7-0 승리, 프랑스컵 8강 '메시-음바페 쇼'](https://dmomo.co.kr/155) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/03/02 - PSG의 압도적 7-0 승리, 프랑스컵 8강 ‘메시-음바페 쇼’](https://blog.ai.dmomo.co.kr/trend/1117) <br/>
-[2025/03/02 - 카카오 시니어가 알려주는 브라우저 개발자 도구의 숨은 꿀팁 10가지](https://blog.ai.dmomo.co.kr/ai/1114) <br/>
-[2025/03/01 - 역대급 현대가 더비: 울산, 전북에 1-0 승리로 시즌 2승 달성](https://blog.ai.dmomo.co.kr/trend/1111) <br/>
-[2025/03/01 - 젤렌스키의 대담한 선언: NATO 대신 핵무기로 우크라이나를 지킬 것인가?](https://blog.ai.dmomo.co.kr/trend/1108) <br/>
-[2025/03/01 - 김민재의 ‘황금 머리’로 이끈 바이에른 뮌헨의 짜릿한 3-1 역전승](https://blog.ai.dmomo.co.kr/trend/1105) <br/>
-[2025/03/01 - 3월 1일 전국 날씨: 봄기운 속 비와 눈, 미세먼지 주의보](https://blog.ai.dmomo.co.kr/trend/1102) <br/>
+[2025/03/03 - LLM Reasoning Models: From Development Milestones to Future Reinforcement Learning Breakthroughs (2025 전망)](https://blog.ai.dmomo.co.kr/tech/1135) <br/>
+[2025/03/03 - LLM Reasoning Models: How DeepSeek-R1 and QLASS Revolutionize Logical Thinking in AI](https://blog.ai.dmomo.co.kr/tech/1132) <br/>
+[2025/03/03 - 바르셀로나의 4-0 대승, 레드카드가 바꾼 라리가 선두 경쟁](https://blog.ai.dmomo.co.kr/trend/1129) <br/>
+[2025/03/03 - 비트코인 7% 급락, 전문가들은 “전술적 후퇴” 진단 – 향후 전망은?](https://blog.ai.dmomo.co.kr/trend/1126) <br/>
+[2025/03/03 - 2025년 3월 대한민국 이상기후: 폭설과 강풍, 그 영향은?](https://blog.ai.dmomo.co.kr/trend/1123) <br/>
+[2025/03/03 - 충격의 FA컵 탈락: 맨유, 풀럼에 21경기 만에 패배…유럽 진출 ‘빨간불’](https://blog.ai.dmomo.co.kr/trend/1120) <br/>
