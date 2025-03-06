@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/03/05 - 넥스트레이드(NXT) 출범: 12시간 거래의 새 시대, 무엇이 달라질까?](https://dmomo.co.kr/163) <br/>
-[2025/03/04 - 2025년 3월 4일, 강풍과 폭설이 몰아치는 '꽃샘추위'의 역습](https://dmomo.co.kr/162) <br/>
-[2025/03/04 - FA컵 16강 격전! 노팅엄, 입스위치 꺾고 8강행 - 승부차기의 드라마](https://dmomo.co.kr/161) <br/>
-[2025/03/03 - LLM Reasoning 모델: 개발 이정표에서 미래 강화 학습 혁신까지](https://dmomo.co.kr/160) <br/>
-[2025/03/03 - 생각하는 LLM 모델: DeepSeek-R1 및 QLASS가 AI의 논리적 사고를 혁신하는 방법](https://dmomo.co.kr/159) <br/>
-[2025/03/03 - 바르셀로나의 4-0 대승, 레드카드가 바꾼 라리가 선두 경쟁](https://dmomo.co.kr/158) <br/>
+[2025/03/05 - 윤하의 결혼 발표와 20년 음악 여정: 새로운 시작을 알리다](http://dmomo.co.kr/166) <br/>
+[2025/03/05 - 역대급 7-1 승! 아스널, UCL 16강 원정 최다골 신기록 달성](http://dmomo.co.kr/165) <br/>
+[2025/03/05 - 레알 vs 아틀레티코: UCL 16강 1차전 명승부와 2차전 전망](http://dmomo.co.kr/164) <br/>
+[2025/03/05 - 넥스트레이드(NXT) 출범: 12시간 거래의 새 시대, 무엇이 달라질까?](http://dmomo.co.kr/163) <br/>
+[2025/03/04 - 2025년 3월 4일, 강풍과 폭설이 몰아치는 '꽃샘추위'의 역습](http://dmomo.co.kr/162) <br/>
+[2025/03/04 - FA컵 16강 격전! 노팅엄, 입스위치 꺾고 8강행 - 승부차기의 드라마](http://dmomo.co.kr/161) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/03/05 - 윤하의 결혼 발표와 20년 음악 여정: 새로운 시작을 알리다](https://blog.ai.dmomo.co.kr/trend/1156) <br/>
+[2025/03/05 - 역대급 7-1 승! 아스널, UCL 16강 원정 최다골 신기록 달성](https://blog.ai.dmomo.co.kr/trend/1150) <br/>
+[2025/03/05 - 레알 vs 아틀레티코: UCL 16강 1차전 명승부와 2차전 전망](https://blog.ai.dmomo.co.kr/trend/1147) <br/>
 [2025/03/04 - 넥스트레이드(NXT) 출범: 12시간 거래의 새 시대, 무엇이 달라질까?](https://blog.ai.dmomo.co.kr/trend/1144) <br/>
 [2025/03/04 - 2025년 3월 4일, 강풍과 폭설이 몰아치는 ‘꽃샘추위’의 역습](https://blog.ai.dmomo.co.kr/trend/1141) <br/>
 [2025/03/04 - FA컵 16강 격전! 노팅엄, 입스위치 꺾고 8강행 – 승부차기의 드라마](https://blog.ai.dmomo.co.kr/trend/1138) <br/>
-[2025/03/03 - LLM Reasoning Models: From Development Milestones to Future Reinforcement Learning Breakthroughs (2025 전망)](https://blog.ai.dmomo.co.kr/tech/1135) <br/>
-[2025/03/03 - LLM Reasoning Models: How DeepSeek-R1 and QLASS Revolutionize Logical Thinking in AI](https://blog.ai.dmomo.co.kr/tech/1132) <br/>
-[2025/03/03 - 바르셀로나의 4-0 대승, 레드카드가 바꾼 라리가 선두 경쟁](https://blog.ai.dmomo.co.kr/trend/1129) <br/>
