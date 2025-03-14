@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/03/13 - 전북 현대, ACL2 8강서 시드니에 역전패...4연패 수렁에 빠진 거스 감독](https://dmomo.co.kr/193) <br/>
+[2025/03/13 - 아스널, PSV 2-2 무승부에도 9-3 합산 스코어로 UCL 8강 진출](https://dmomo.co.kr/192) <br/>
+[2025/03/13 - 레알 vs 아틀레티코: 챔스 16강 승부차기 격돌, 마드리드 더비의 새 역사](https://dmomo.co.kr/191) <br/>
 [2025/03/12 - 충격! 대전 초등생 살해 교사의 숨겨진 진실과 범행 동기는?](https://dmomo.co.kr/190) <br/>
 [2025/03/12 - 바르셀로나 vs 벤피카: UEFA 챔스 8강 격돌! 역대전적 4승1무 우세](https://dmomo.co.kr/189) <br/>
 [2025/03/12 - 챔스 8강행 김민재, 2경기 연속 '200% 무결점 수비'로 뮌헨 5-0 대승 견인](https://dmomo.co.kr/188) <br/>
-[2025/03/12 - PSG의 드라마틱한 승부차기 승리: 리버풀을 꺾고 UCL 8강 진출](https://dmomo.co.kr/187) <br/>
-[2025/03/11 - 아이유와 박보검의 '가요무대' 출연, 세대를 아우르는 감동의 무대](https://dmomo.co.kr/186) <br/>
-[2025/03/11 - 테슬라 주가 15% 폭락의 숨겨진 진실: 머스크의 정치 행보가 부메랑?](https://dmomo.co.kr/185) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/03/13 - 전북 현대, ACL2 8강서 시드니에 역전패…4연패 수렁에 빠진 거스 감독](https://blog.ai.dmomo.co.kr/trend/1244) <br/>
+[2025/03/13 - 아스널, PSV 2-2 무승부에도 9-3 합산 스코어로 UCL 8강 진출](https://blog.ai.dmomo.co.kr/trend/1241) <br/>
+[2025/03/13 - 레알 vs 아틀레티코: 챔스 16강 승부차기 격돌, 마드리드 더비의 새 역사](https://blog.ai.dmomo.co.kr/trend/1238) <br/>
 [2025/03/12 - 바르셀로나 vs 벤피카: UEFA 챔스 8강 격돌! 역대전적 4승1무 우세](https://blog.ai.dmomo.co.kr/trend/1232) <br/>
 [2025/03/12 - 챔스 8강행 김민재, 2경기 연속 ‘200% 무결점 수비’로 뮌헨 5-0 대승 견인](https://blog.ai.dmomo.co.kr/trend/1229) <br/>
 [2025/03/12 - PSG의 드라마틱한 승부차기 승리: 리버풀을 꺾고 UCL 8강 진출](https://blog.ai.dmomo.co.kr/trend/1226) <br/>
-[2025/03/11 - 아이유와 박보검의 ‘가요무대’ 출연, 세대를 아우르는 감동의 무대](https://blog.ai.dmomo.co.kr/trend/1223) <br/>
-[2025/03/11 - 테슬라 주가 15% 폭락의 숨겨진 진실: 머스크의 정치 행보가 부메랑?](https://blog.ai.dmomo.co.kr/trend/1220) <br/>
-[2025/03/11 - 웨스트햄 vs 뉴캐슬: 유럽 진출 꿈 걸린 한판 승부, 누가 웃을까?](https://blog.ai.dmomo.co.kr/trend/1217) <br/>
