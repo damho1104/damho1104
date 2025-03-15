@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/03/14 - 브루노 페르난데스의 해트트릭, 맨유의 유로파리그 8강 진출 확정! 챔스 꿈 살아있다](https://dmomo.co.kr/195) <br/>
+[2025/03/14 - 손흥민 3호 어시스트 쇼! 토트넘, 8강 진출 '극적 역전극'](https://dmomo.co.kr/194) <br/>
 [2025/03/13 - 전북 현대, ACL2 8강서 시드니에 역전패...4연패 수렁에 빠진 거스 감독](https://dmomo.co.kr/193) <br/>
 [2025/03/13 - 아스널, PSV 2-2 무승부에도 9-3 합산 스코어로 UCL 8강 진출](https://dmomo.co.kr/192) <br/>
 [2025/03/13 - 레알 vs 아틀레티코: 챔스 16강 승부차기 격돌, 마드리드 더비의 새 역사](https://dmomo.co.kr/191) <br/>
 [2025/03/12 - 충격! 대전 초등생 살해 교사의 숨겨진 진실과 범행 동기는?](https://dmomo.co.kr/190) <br/>
-[2025/03/12 - 바르셀로나 vs 벤피카: UEFA 챔스 8강 격돌! 역대전적 4승1무 우세](https://dmomo.co.kr/189) <br/>
-[2025/03/12 - 챔스 8강행 김민재, 2경기 연속 '200% 무결점 수비'로 뮌헨 5-0 대승 견인](https://dmomo.co.kr/188) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/03/14 - 브루노 페르난데스의 해트트릭, 맨유의 유로파리그 8강 진출 확정! 챔스 꿈 살아있다](https://blog.ai.dmomo.co.kr/trend/1250) <br/>
+[2025/03/14 - 손흥민 3호 어시스트 쇼! 토트넘, 8강 진출 ‘극적 역전극’](https://blog.ai.dmomo.co.kr/trend/1247) <br/>
 [2025/03/13 - 전북 현대, ACL2 8강서 시드니에 역전패…4연패 수렁에 빠진 거스 감독](https://blog.ai.dmomo.co.kr/trend/1244) <br/>
 [2025/03/13 - 아스널, PSV 2-2 무승부에도 9-3 합산 스코어로 UCL 8강 진출](https://blog.ai.dmomo.co.kr/trend/1241) <br/>
 [2025/03/13 - 레알 vs 아틀레티코: 챔스 16강 승부차기 격돌, 마드리드 더비의 새 역사](https://blog.ai.dmomo.co.kr/trend/1238) <br/>
 [2025/03/12 - 바르셀로나 vs 벤피카: UEFA 챔스 8강 격돌! 역대전적 4승1무 우세](https://blog.ai.dmomo.co.kr/trend/1232) <br/>
-[2025/03/12 - 챔스 8강행 김민재, 2경기 연속 ‘200% 무결점 수비’로 뮌헨 5-0 대승 견인](https://blog.ai.dmomo.co.kr/trend/1229) <br/>
-[2025/03/12 - PSG의 드라마틱한 승부차기 승리: 리버풀을 꺾고 UCL 8강 진출](https://blog.ai.dmomo.co.kr/trend/1226) <br/>
