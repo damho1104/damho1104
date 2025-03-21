@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/03/21 - LG의 혁신, EXAONE Deep 으로 여는 AI 새 시대](http://dmomo.co.kr/216) <br/>
+[2025/03/20 - 일본, 바레인전 승리로 2026 월드컵 첫 진출국 될까?](http://dmomo.co.kr/215) <br/>
+[2025/03/20 - 엔비디아의 혁신: Project Digits &rarr; DGX Spark로 세상을 바꾸는 개인용 AI 슈퍼컴퓨터](http://dmomo.co.kr/214) <br/>
 [2025/03/19 - 마누스 AI: 자율성의 혁명과 윤리적 도전 - 기술 분석과 미래 전망](http://dmomo.co.kr/213) <br/>
 [2025/03/19 - 버틀러 맹활약! 'No 커리' 워리어스, 벅스 꺾고 서부 6위 굳히기](http://dmomo.co.kr/212) <br/>
 [2025/03/19 - 고척돔의 변신: 야구장을 넘어 K-문화의 새로운 랜드마크로](http://dmomo.co.kr/211) <br/>
-[2025/03/19 - 오타니 맹활약! MLB 도쿄 개막전, 다저스 vs 컵스 4-1 승리의 비결은?](http://dmomo.co.kr/210) <br/>
-[2025/03/18 - 김갑수의 충격 발언: 미성년자 연애 옹호로 '매불쇼' 폐지까지](http://dmomo.co.kr/209) <br/>
-[2025/03/18 - 골든스테이트 vs 덴버: 8연패 탈출을 위한 워리어스의 요키치 저지 전략은?](http://dmomo.co.kr/208) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/03/21 - LG의 혁신, EXAONE Deep 으로 여는 AI 새 시대](https://blog.ai.dmomo.co.kr/tech/1318) <br/>
+[2025/03/20 - 일본, 바레인전 승리로 2026 월드컵 첫 진출국 될까?](https://blog.ai.dmomo.co.kr/trend/1315) <br/>
 [2025/03/20 - 엔비디아의 혁신: Project Digits → DGX Spark로 세상을 바꾸는 개인용 AI 슈퍼컴퓨터](https://blog.ai.dmomo.co.kr/tech/1309) <br/>
 [2025/03/19 - 마누스 AI: 자율성의 혁명과 윤리적 도전 – 기술 분석과 미래 전망](https://blog.ai.dmomo.co.kr/tech/1304) <br/>
 [2025/03/19 - 버틀러 맹활약! ‘No 커리’ 워리어스, 벅스 꺾고 서부 6위 굳히기](https://blog.ai.dmomo.co.kr/trend/1301) <br/>
 [2025/03/19 - 고척돔의 변신: 야구장을 넘어 K-문화의 새로운 랜드마크로](https://blog.ai.dmomo.co.kr/trend/1298) <br/>
-[2025/03/19 - 오타니 맹활약! MLB 도쿄 개막전, 다저스 vs 컵스 4-1 승리의 비결은?](https://blog.ai.dmomo.co.kr/trend/1295) <br/>
-[2025/03/18 - 김갑수의 충격 발언: 미성년자 연애 옹호로 ‘매불쇼’ 폐지까지](https://blog.ai.dmomo.co.kr/trend/1292) <br/>
