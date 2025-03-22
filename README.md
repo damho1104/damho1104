@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/03/21 - LG의 혁신, EXAONE Deep 으로 여는 AI 새 시대](http://dmomo.co.kr/216) <br/>
-[2025/03/20 - 일본, 바레인전 승리로 2026 월드컵 첫 진출국 될까?](http://dmomo.co.kr/215) <br/>
-[2025/03/20 - 엔비디아의 혁신: Project Digits &rarr; DGX Spark로 세상을 바꾸는 개인용 AI 슈퍼컴퓨터](http://dmomo.co.kr/214) <br/>
-[2025/03/19 - 마누스 AI: 자율성의 혁명과 윤리적 도전 - 기술 분석과 미래 전망](http://dmomo.co.kr/213) <br/>
-[2025/03/19 - 버틀러 맹활약! 'No 커리' 워리어스, 벅스 꺾고 서부 6위 굳히기](http://dmomo.co.kr/212) <br/>
-[2025/03/19 - 고척돔의 변신: 야구장을 넘어 K-문화의 새로운 랜드마크로](http://dmomo.co.kr/211) <br/>
+[2025/03/21 - 중국 월드컵 꿈 무너지나? 0-1 패배와 쿵푸킥 레드카드의 비극](https://dmomo.co.kr/220) <br/>
+[2025/03/21 - 벡터 데이터베이스: AI 시대의 게임 체인저](https://dmomo.co.kr/219) <br/>
+[2025/03/21 - 일본의 8연속 월드컵 진출, 바레인 완파로 아시아 최초 확정](https://dmomo.co.kr/218) <br/>
+[2025/03/21 - 월드컵 꿈 흔든 '오만 쇼크': 한국 축구의 과제와 향후 전망](https://dmomo.co.kr/217) <br/>
+[2025/03/21 - LG의 혁신, EXAONE Deep 으로 여는 AI 새 시대](https://dmomo.co.kr/216) <br/>
+[2025/03/20 - 일본, 바레인전 승리로 2026 월드컵 첫 진출국 될까?](https://dmomo.co.kr/215) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/03/21 - 중국 월드컵 꿈 무너지나? 0-1 패배와 쿵푸킥 레드카드의 비극](https://blog.ai.dmomo.co.kr/trend/1331) <br/>
+[2025/03/21 - ‘벡터 데이터베이스로 혁명하는 AI 검색: RAG부터 메타데이터까지 실용 가이드’](https://blog.ai.dmomo.co.kr/tech/1328) <br/>
+[2025/03/21 - 일본의 8연속 월드컵 진출, 바레인 완파로 아시아 최초 확정](https://blog.ai.dmomo.co.kr/trend/1325) <br/>
+[2025/03/21 - 월드컵 꿈 흔든 ‘오만 쇼크’: 한국 축구의 과제와 향후 전망](https://blog.ai.dmomo.co.kr/trend/1322) <br/>
 [2025/03/21 - LG의 혁신, EXAONE Deep 으로 여는 AI 새 시대](https://blog.ai.dmomo.co.kr/tech/1318) <br/>
 [2025/03/20 - 일본, 바레인전 승리로 2026 월드컵 첫 진출국 될까?](https://blog.ai.dmomo.co.kr/trend/1315) <br/>
-[2025/03/20 - 엔비디아의 혁신: Project Digits → DGX Spark로 세상을 바꾸는 개인용 AI 슈퍼컴퓨터](https://blog.ai.dmomo.co.kr/tech/1309) <br/>
-[2025/03/19 - 마누스 AI: 자율성의 혁명과 윤리적 도전 – 기술 분석과 미래 전망](https://blog.ai.dmomo.co.kr/tech/1304) <br/>
-[2025/03/19 - 버틀러 맹활약! ‘No 커리’ 워리어스, 벅스 꺾고 서부 6위 굳히기](https://blog.ai.dmomo.co.kr/trend/1301) <br/>
-[2025/03/19 - 고척돔의 변신: 야구장을 넘어 K-문화의 새로운 랜드마크로](https://blog.ai.dmomo.co.kr/trend/1298) <br/>
