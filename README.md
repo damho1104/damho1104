@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/03/23 - 서울 지하철 2호선 탈선 사고: 9시간 40분간의 대혼란, 원인과 대책은?](https://dmomo.co.kr/229) <br/>
+[2025/03/23 - 김해 산불 비상: 70헥타르 산림 소실, 148명 대피 - 원인과 대책은?](https://dmomo.co.kr/228) <br/>
+[2025/03/23 - 이세돌의 두 얼굴: 아이돌 열풍과 바둑 천재의 그림자](https://dmomo.co.kr/227) <br/>
 [2025/03/22 - AI의 똑똑함을 두 배로! Model Context Protocol](https://dmomo.co.kr/226) <br/>
 [2025/03/22 - 한국 산불 위기: 전국 확산과 대응 전략 - 무엇을 알아야 할까?](https://dmomo.co.kr/225) <br/>
 [2025/03/22 - 포항 스틸러스 vs 광주 FC: K리그 강호들의 격돌! 최신 전력 분석](https://dmomo.co.kr/224) <br/>
-[2025/03/22 - 월드컵 운명 건 남미 축구 클래식: 메시 없는 아르헨티나 vs 홈 강세 우루과이](https://dmomo.co.kr/223) <br/>
-[2025/03/22 - 뉴진스 vs 어도어: 법원 판결의 충격과 K팝 산업의 미래는?](https://dmomo.co.kr/222) <br/>
-[2025/03/22 - 2025 NCAA 여자 농구 토너먼트: 64개 팀의 치열한 우승 경쟁 시작](https://dmomo.co.kr/221) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/03/23 - 서울 지하철 2호선 탈선 사고: 9시간 40분간의 대혼란, 원인과 대책은?](https://blog.ai.dmomo.co.kr/trend/1362) <br/>
+[2025/03/23 - 김해 산불 비상: 70헥타르 산림 소실, 148명 대피 – 원인과 대책은?](https://blog.ai.dmomo.co.kr/trend/1359) <br/>
+[2025/03/23 - 이세돌의 두 얼굴: 아이돌 열풍과 바둑 천재의 그림자](https://blog.ai.dmomo.co.kr/trend/1356) <br/>
 [2025/03/23 - iOS 사용자들의 분노: 최근 업데이트로 인한 7가지 치명적 문제점](https://blog.ai.dmomo.co.kr/ai/1353) <br/>
 [2025/03/22 - AI의 똑똑함을 두 배로! MCP가 어떻게 외부 세계와 연결하는지 알아보세요](https://blog.ai.dmomo.co.kr/tech/1349) <br/>
 [2025/03/22 - 한국 산불 위기: 전국 확산과 대응 전략 – 무엇을 알아야 할까?](https://blog.ai.dmomo.co.kr/trend/1346) <br/>
-[2025/03/22 - 포항 스틸러스 vs 광주 FC: K리그 강호들의 격돌! 최신 전력 분석](https://blog.ai.dmomo.co.kr/trend/1343) <br/>
-[2025/03/22 - 월드컵 운명 건 남미 축구 클래식: 메시 없는 아르헨티나 vs 홈 강세 우루과이](https://blog.ai.dmomo.co.kr/trend/1340) <br/>
-[2025/03/22 - 뉴진스 vs 어도어: 법원 판결의 충격과 K팝 산업의 미래는?](https://blog.ai.dmomo.co.kr/trend/1337) <br/>
