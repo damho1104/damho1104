@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/03/29 - FC 서울 vs 대구FC: 5골 빗발친 역전의 드라마, 문선민의 극장골](https://dmomo.co.kr/246) <br/>
-[2025/03/29 - KIA vs 한화: 신구장 몬스터월이 바꾼 야구의 판도, 역전승의 비밀은?](https://dmomo.co.kr/245) <br/>
-[2025/03/29 - 미얀마 강진의 숨겨진 위험: 200년 만의 재앙이 던진 경고](https://dmomo.co.kr/244) <br/>
-[2025/03/28 - 미얀마 7.7 강진의 충격: 동남아를 흔든 지진의 실체와 그 여파](https://dmomo.co.kr/243) <br/>
-[2025/03/28 - 닌텐도의 혁신 전략: 가상 게임 카드로 디지털 공유 혁명 시작하다](https://dmomo.co.kr/242) <br/>
-[2025/03/28 - ChatGPT의 새로운 시대: GPT-4o 이미지 생성의 혁신](https://dmomo.co.kr/241) <br/>
+[2025/03/30 - 지브리의 마법을 현실로: ChatGPT 4o로 만나는 AI 아트의 혁명](http://dmomo.co.kr/252) <br/>
+[2025/03/30 - 갤럭시탭 S10 FE의 혁신: 중급형의 새로운 기준](http://dmomo.co.kr/251) <br/>
+[2025/03/30 - G-DRAGON 8년 만의 귀환: '위버맨쉬' 콘서트의 화려함과 논란 총정리](http://dmomo.co.kr/250) <br/>
+[2025/03/30 - 김민재 선방 속 뮌헨의 3-2 승리, 수비진 위기 속 우승 가도](http://dmomo.co.kr/249) <br/>
+[2025/03/30 - PSG의 6-1 대역전승: 젊은 선수들의 활약과 생테티엔 팬들의 연대](http://dmomo.co.kr/248) <br/>
+[2025/03/30 - AI로 진화하는 스타트업 브랜딩: 3,100명이 주목한 실험실 15기의 비밀](http://dmomo.co.kr/247) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/03/30 - ](https://blog.ai.dmomo.co.kr/ai/1427) <br/>
-[2025/03/29 - FC 서울 vs 대구FC: 5골 빗발친 역전의 드라마, 문선민의 극장골](https://blog.ai.dmomo.co.kr/trend/1423) <br/>
-[2025/03/29 - KIA vs 한화: 신구장 몬스터월이 바꾼 야구의 판도, 역전승의 비밀은?](https://blog.ai.dmomo.co.kr/trend/1420) <br/>
-[2025/03/29 - 미얀마 강진의 숨겨진 위험: 200년 만의 재앙이 던진 경고](https://blog.ai.dmomo.co.kr/trend/1417) <br/>
-[2025/03/28 - 미얀마 7.7 강진의 충격: 동남아를 흔든 지진의 실체와 그 여파](https://blog.ai.dmomo.co.kr/trend/1411) <br/>
-[2025/03/28 - 닌텐도의 혁신 전략: 가상 게임 카드로 디지털 공유 혁명 시작하다](https://blog.ai.dmomo.co.kr/trend/1408) <br/>
+[2025/03/30 - 지브리의 마법을 현실로: ChatGPT 4o로 만나는 AI 아트의 혁명](https://blog.ai.dmomo.co.kr/trend/1444) <br/>
+[2025/03/30 - 갤럭시탭 S10 FE: 중급형 태블릿의 혁신적 도전 디자인 및 디스플레이](https://blog.ai.dmomo.co.kr/tech/1440) <br/>
+[2025/03/30 - G-DRAGON 8년 만의 귀환: ‘위버맨쉬’ 콘서트의 화려함과 논란 총정리](https://blog.ai.dmomo.co.kr/trend/1437) <br/>
+[2025/03/30 - 김민재 선방 속 뮌헨의 3-2 승리, 수비진 위기 속 우승 가도](https://blog.ai.dmomo.co.kr/trend/1434) <br/>
+[2025/03/30 - PSG의 6-1 대역전승: 젊은 선수들의 활약과 생테티엔 팬들의 연대](https://blog.ai.dmomo.co.kr/trend/1431) <br/>
+[2025/03/30 - AI로 진화하는 스타트업 브랜딩: 3,100명이 주목한 실험실 15기의 비밀](https://blog.ai.dmomo.co.kr/ai/1427) <br/>
