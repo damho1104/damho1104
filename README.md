@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/03/30 - 지브리의 마법을 현실로: ChatGPT 4o로 만나는 AI 아트의 혁명](http://dmomo.co.kr/252) <br/>
-[2025/03/30 - 갤럭시탭 S10 FE의 혁신: 중급형의 새로운 기준](http://dmomo.co.kr/251) <br/>
-[2025/03/30 - G-DRAGON 8년 만의 귀환: '위버맨쉬' 콘서트의 화려함과 논란 총정리](http://dmomo.co.kr/250) <br/>
-[2025/03/30 - 김민재 선방 속 뮌헨의 3-2 승리, 수비진 위기 속 우승 가도](http://dmomo.co.kr/249) <br/>
-[2025/03/30 - PSG의 6-1 대역전승: 젊은 선수들의 활약과 생테티엔 팬들의 연대](http://dmomo.co.kr/248) <br/>
-[2025/03/30 - AI로 진화하는 스타트업 브랜딩: 3,100명이 주목한 실험실 15기의 비밀](http://dmomo.co.kr/247) <br/>
+[2025/03/31 - 김수현 미성년자 교제 의혹, 충격적 기자회견 현장 전격 공개](https://dmomo.co.kr/256) <br/>
+[2025/03/31 - 과학쿠키와 윤하의 우주 같은 사랑: 44만 구독자가 축하한 별들의 만남](https://dmomo.co.kr/255) <br/>
+[2025/03/31 - 바르셀로나 VS 지로나 4-1 역전극: VAR 논란 속 레반도프스키 2골 폭발](https://dmomo.co.kr/254) <br/>
+[2025/03/31 - 맨시티, FA컵 8강서 본머스에 2-1 역전승... 홀란드&middot;마모시 결정력 빛나](https://dmomo.co.kr/253) <br/>
+[2025/03/30 - 지브리의 마법을 현실로: ChatGPT 4o로 만나는 AI 아트의 혁명](https://dmomo.co.kr/252) <br/>
+[2025/03/30 - 갤럭시탭 S10 FE의 혁신: 중급형의 새로운 기준](https://dmomo.co.kr/251) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/03/31 - 김수현 미성년자 교제 의혹, 충격적 기자회견 현장 전격 공개](https://blog.ai.dmomo.co.kr/trend/1457) <br/>
+[2025/03/31 - 과학쿠키와 윤하의 우주 같은 사랑: 44만 구독자가 축하한 별들의 만남](https://blog.ai.dmomo.co.kr/trend/1454) <br/>
+[2025/03/31 - 바르셀로나 VS 지로나 4-1 역전극: VAR 논란 속 레반도프스키 2골 폭발](https://blog.ai.dmomo.co.kr/trend/1451) <br/>
+[2025/03/31 - 맨시티, FA컵 8강서 본머스에 2-1 역전승… 홀란드·마모시 결정력 빛나](https://blog.ai.dmomo.co.kr/trend/1448) <br/>
 [2025/03/30 - 지브리의 마법을 현실로: ChatGPT 4o로 만나는 AI 아트의 혁명](https://blog.ai.dmomo.co.kr/trend/1444) <br/>
 [2025/03/30 - 갤럭시탭 S10 FE: 중급형 태블릿의 혁신적 도전 디자인 및 디스플레이](https://blog.ai.dmomo.co.kr/tech/1440) <br/>
-[2025/03/30 - G-DRAGON 8년 만의 귀환: ‘위버맨쉬’ 콘서트의 화려함과 논란 총정리](https://blog.ai.dmomo.co.kr/trend/1437) <br/>
-[2025/03/30 - 김민재 선방 속 뮌헨의 3-2 승리, 수비진 위기 속 우승 가도](https://blog.ai.dmomo.co.kr/trend/1434) <br/>
-[2025/03/30 - PSG의 6-1 대역전승: 젊은 선수들의 활약과 생테티엔 팬들의 연대](https://blog.ai.dmomo.co.kr/trend/1431) <br/>
-[2025/03/30 - AI로 진화하는 스타트업 브랜딩: 3,100명이 주목한 실험실 15기의 비밀](https://blog.ai.dmomo.co.kr/ai/1427) <br/>
