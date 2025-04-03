@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/04/02 - 3부리그 빌레펠트의 기적! 레버쿠젠 꺾고 DFB 포칼 결승 진출](https://dmomo.co.kr/261) <br/>
+[2025/04/02 - 역전과 반전의 연속, 레알 마드리드의 8골 난타전 승리와 코파 델 레이 결승행](https://dmomo.co.kr/260) <br/>
+[2025/04/02 - PSG의 기적 같은 역전승: FA컵 준결승서 2부리그 팀에 4-2 승리](https://dmomo.co.kr/259) <br/>
 [2025/04/01 - 넥슨의 2025 전략: 게임을 넘어 문화를 창조하다](https://dmomo.co.kr/258) <br/>
 [2025/04/01 - 충격적 증거와 의혹 속 장제원 전 의원 사망, 성폭력 사건의 새로운 국면](https://dmomo.co.kr/257) <br/>
 [2025/03/31 - 김수현 미성년자 교제 의혹, 충격적 기자회견 현장 전격 공개](https://dmomo.co.kr/256) <br/>
-[2025/03/31 - 과학쿠키와 윤하의 우주 같은 사랑: 44만 구독자가 축하한 별들의 만남](https://dmomo.co.kr/255) <br/>
-[2025/03/31 - 바르셀로나 VS 지로나 4-1 역전극: VAR 논란 속 레반도프스키 2골 폭발](https://dmomo.co.kr/254) <br/>
-[2025/03/31 - 맨시티, FA컵 8강서 본머스에 2-1 역전승... 홀란드&middot;마모시 결정력 빛나](https://dmomo.co.kr/253) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/04/02 - 3부리그 빌레펠트의 기적! 레버쿠젠 꺾고 DFB 포칼 결승 진출](https://blog.ai.dmomo.co.kr/trend/1478) <br/>
+[2025/04/02 - 역전과 반전의 연속, 레알 마드리드의 8골 난타전 승리와 코파 델 레이 결승행](https://blog.ai.dmomo.co.kr/trend/1475) <br/>
+[2025/04/02 - PSG의 기적 같은 역전승: FA컵 준결승서 2부리그 팀에 4-2 승리](https://blog.ai.dmomo.co.kr/trend/1472) <br/>
 [2025/04/01 - 넥슨의 2025 전략: 게임을 넘어 문화를 창조하다](https://blog.ai.dmomo.co.kr/trend/1469) <br/>
 [2025/04/01 - 충격적 증거와 의혹 속 장제원 전 의원 사망, 성폭력 사건의 새로운 국면](https://blog.ai.dmomo.co.kr/trend/1463) <br/>
 [2025/03/31 - 김수현 미성년자 교제 의혹, 충격적 기자회견 현장 전격 공개](https://blog.ai.dmomo.co.kr/trend/1457) <br/>
-[2025/03/31 - 과학쿠키와 윤하의 우주 같은 사랑: 44만 구독자가 축하한 별들의 만남](https://blog.ai.dmomo.co.kr/trend/1454) <br/>
-[2025/03/31 - 바르셀로나 VS 지로나 4-1 역전극: VAR 논란 속 레반도프스키 2골 폭발](https://blog.ai.dmomo.co.kr/trend/1451) <br/>
-[2025/03/31 - 맨시티, FA컵 8강서 본머스에 2-1 역전승… 홀란드·마모시 결정력 빛나](https://blog.ai.dmomo.co.kr/trend/1448) <br/>
