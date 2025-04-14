@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/04/13 - 데어 클라시커 무승부: 바이에른 vs 도르트문트 4골 난타전 분석](http://dmomo.co.kr/298) <br/>
-[2025/04/12 - FC 서울 vs 대전 2-2 무승부: 최강 수비팀과 최강 공격팀의 흥미진진한 대결](http://dmomo.co.kr/297) <br/>
-[2025/04/12 - 구글 Agent2Agent 프로토콜(A2A)이란? AI 에이전트 협업의 미래를 여는 핵심 기술 5가지](http://dmomo.co.kr/296) <br/>
-[2025/04/12 - 2025년 4월 날씨 대해부: 지역별 기상 위험과 대응 전략 총정리](http://dmomo.co.kr/295) <br/>
-[2025/04/12 - 이정후의 356일 만의 홈런, 양키 스타디움을 울리다: MLB 새 역사의 시작](http://dmomo.co.kr/294) <br/>
-[2025/04/11 - 지멘스 CEO 참사에서 AI 혁신까지: 글로벌 기업의 위기와 도약](http://dmomo.co.kr/293) <br/>
+[2025/04/13 - 1주일만에 클라우드 자격증 취득? AI와 보안이 주도하는 IT 트렌드 총정리](https://dmomo.co.kr/301) <br/>
+[2025/04/13 - 아스널 vs 브렌트퍼드: 세트피스 승부수로 예상되는 흥미진진한 대결](https://dmomo.co.kr/300) <br/>
+[2025/04/13 - Docker Model Runner란 무엇인가? 5분 안에 배우는 컨테이너 기반 모델 배포 핵심 기술](https://dmomo.co.kr/299) <br/>
+[2025/04/13 - 데어 클라시커 무승부: 바이에른 vs 도르트문트 4골 난타전 분석](https://dmomo.co.kr/298) <br/>
+[2025/04/12 - FC 서울 vs 대전 2-2 무승부: 최강 수비팀과 최강 공격팀의 흥미진진한 대결](https://dmomo.co.kr/297) <br/>
+[2025/04/12 - 구글 Agent2Agent 프로토콜(A2A)이란? AI 에이전트 협업의 미래를 여는 핵심 기술 5가지](https://dmomo.co.kr/296) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/04/13 - 아스널 vs 브렌트퍼드: 세트피스 승부수로 예상되는 흥미진진한 대결](https://blog.ai.dmomo.co.kr/trend/1615) <br/>
+[2025/04/13 - Docker Model Runner란 무엇인가? 5분 안에 배우는 컨테이너 기반 모델 배포 핵심 기술](https://blog.ai.dmomo.co.kr/tech/1612) <br/>
 [2025/04/13 - 데어 클라시커 무승부: 바이에른 vs 도르트문트 4골 난타전 분석](https://blog.ai.dmomo.co.kr/trend/1609) <br/>
 [2025/04/13 - 1주일만에 클라우드 자격증 취득? AI와 보안이 주도하는 IT 트렌드 총정리](https://blog.ai.dmomo.co.kr/ai/1606) <br/>
 [2025/04/12 - FC 서울 vs 대전 2-2 무승부: 최강 수비팀과 최강 공격팀의 흥미진진한 대결](https://blog.ai.dmomo.co.kr/trend/1603) <br/>
 [2025/04/12 - 구글 Agent2Agent 프로토콜(A2A)이란? AI 에이전트 협업의 미래를 여는 핵심 기술 5가지](https://blog.ai.dmomo.co.kr/tech/1600) <br/>
-[2025/04/12 - 이정후의 356일 만의 홈런, 양키 스타디움을 울리다: MLB 새 역사의 시작](https://blog.ai.dmomo.co.kr/trend/1597) <br/>
-[2025/04/12 - 2025년 4월 날씨 대해부: 지역별 기상 위험과 대응 전략 총정리](https://blog.ai.dmomo.co.kr/trend/1594) <br/>
