@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/04/14 - 퓨리오사AI: 한국 AI 반도체의 미래를 이끄는 혁신 기업의 도전과 성장](https://dmomo.co.kr/303) <br/>
+[2025/04/14 - 울버햄튼, 토트넘 4-2 격파: 손흥민 없는 토트넘 무너졌다](https://dmomo.co.kr/302) <br/>
 [2025/04/13 - 1주일만에 클라우드 자격증 취득? AI와 보안이 주도하는 IT 트렌드 총정리](https://dmomo.co.kr/301) <br/>
 [2025/04/13 - 아스널 vs 브렌트퍼드: 세트피스 승부수로 예상되는 흥미진진한 대결](https://dmomo.co.kr/300) <br/>
 [2025/04/13 - Docker Model Runner란 무엇인가? 5분 안에 배우는 컨테이너 기반 모델 배포 핵심 기술](https://dmomo.co.kr/299) <br/>
 [2025/04/13 - 데어 클라시커 무승부: 바이에른 vs 도르트문트 4골 난타전 분석](https://dmomo.co.kr/298) <br/>
-[2025/04/12 - FC 서울 vs 대전 2-2 무승부: 최강 수비팀과 최강 공격팀의 흥미진진한 대결](https://dmomo.co.kr/297) <br/>
-[2025/04/12 - 구글 Agent2Agent 프로토콜(A2A)이란? AI 에이전트 협업의 미래를 여는 핵심 기술 5가지](https://dmomo.co.kr/296) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/04/14 - 퓨리오사AI: 한국 AI 반도체의 미래를 이끄는 혁신 기업의 도전과 성장](https://blog.ai.dmomo.co.kr/trend/1621) <br/>
+[2025/04/14 - 울버햄튼, 토트넘 4-2 격파: 손흥민 없는 토트넘 무너졌다](https://blog.ai.dmomo.co.kr/trend/1618) <br/>
 [2025/04/13 - 아스널 vs 브렌트퍼드: 세트피스 승부수로 예상되는 흥미진진한 대결](https://blog.ai.dmomo.co.kr/trend/1615) <br/>
 [2025/04/13 - Docker Model Runner란 무엇인가? 5분 안에 배우는 컨테이너 기반 모델 배포 핵심 기술](https://blog.ai.dmomo.co.kr/tech/1612) <br/>
 [2025/04/13 - 데어 클라시커 무승부: 바이에른 vs 도르트문트 4골 난타전 분석](https://blog.ai.dmomo.co.kr/trend/1609) <br/>
 [2025/04/13 - 1주일만에 클라우드 자격증 취득? AI와 보안이 주도하는 IT 트렌드 총정리](https://blog.ai.dmomo.co.kr/ai/1606) <br/>
-[2025/04/12 - FC 서울 vs 대전 2-2 무승부: 최강 수비팀과 최강 공격팀의 흥미진진한 대결](https://blog.ai.dmomo.co.kr/trend/1603) <br/>
-[2025/04/12 - 구글 Agent2Agent 프로토콜(A2A)이란? AI 에이전트 협업의 미래를 여는 핵심 기술 5가지](https://blog.ai.dmomo.co.kr/tech/1600) <br/>
