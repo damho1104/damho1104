@@ -71,17 +71,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/04/15 - 페널티킥 드라마! 아틀레티코, 바야돌리드에 4-2 역전승... 3위 굳히기](https://dmomo.co.kr/304) <br/>
 [2025/04/14 - 퓨리오사AI: 한국 AI 반도체의 미래를 이끄는 혁신 기업의 도전과 성장](https://dmomo.co.kr/303) <br/>
 [2025/04/14 - 울버햄튼, 토트넘 4-2 격파: 손흥민 없는 토트넘 무너졌다](https://dmomo.co.kr/302) <br/>
 [2025/04/13 - 1주일만에 클라우드 자격증 취득? AI와 보안이 주도하는 IT 트렌드 총정리](https://dmomo.co.kr/301) <br/>
 [2025/04/13 - 아스널 vs 브렌트퍼드: 세트피스 승부수로 예상되는 흥미진진한 대결](https://dmomo.co.kr/300) <br/>
 [2025/04/13 - Docker Model Runner란 무엇인가? 5분 안에 배우는 컨테이너 기반 모델 배포 핵심 기술](https://dmomo.co.kr/299) <br/>
-[2025/04/13 - 데어 클라시커 무승부: 바이에른 vs 도르트문트 4골 난타전 분석](https://dmomo.co.kr/298) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/04/15 - 이정후 3삼진 침묵에도 자이언츠 10-4 대승, 필리스 4연패 위기](https://blog.ai.dmomo.co.kr/trend/1627) <br/>
+[2025/04/15 - 페널티킥 드라마! 아틀레티코, 바야돌리드에 4-2 역전승… 3위 굳히기](https://blog.ai.dmomo.co.kr/trend/1624) <br/>
 [2025/04/14 - 퓨리오사AI: 한국 AI 반도체의 미래를 이끄는 혁신 기업의 도전과 성장](https://blog.ai.dmomo.co.kr/trend/1621) <br/>
 [2025/04/14 - 울버햄튼, 토트넘 4-2 격파: 손흥민 없는 토트넘 무너졌다](https://blog.ai.dmomo.co.kr/trend/1618) <br/>
 [2025/04/13 - 아스널 vs 브렌트퍼드: 세트피스 승부수로 예상되는 흥미진진한 대결](https://blog.ai.dmomo.co.kr/trend/1615) <br/>
 [2025/04/13 - Docker Model Runner란 무엇인가? 5분 안에 배우는 컨테이너 기반 모델 배포 핵심 기술](https://blog.ai.dmomo.co.kr/tech/1612) <br/>
-[2025/04/13 - 데어 클라시커 무승부: 바이에른 vs 도르트문트 4골 난타전 분석](https://blog.ai.dmomo.co.kr/trend/1609) <br/>
-[2025/04/13 - 1주일만에 클라우드 자격증 취득? AI와 보안이 주도하는 IT 트렌드 총정리](https://blog.ai.dmomo.co.kr/ai/1606) <br/>
