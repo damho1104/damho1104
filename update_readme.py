@@ -74,6 +74,14 @@ markdown_text = """
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damho1104&layout=compact&theme=dark)
 
 
+## My Infra
+<div align="center">
+    <p>
+    <img src="imgs/infra.png" alt="infra" style="width: 200px; height: 200px;">
+    </p>
+</div>
+
+
 ## 📣 My Service
 - [로또 번호 추천 및 당첨 알림 서비스](https://lotto.dmomo.co.kr/)  
 
