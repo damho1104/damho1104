@@ -77,7 +77,7 @@ markdown_text = """
 ## My Infra
 <div align="center">
     <p>
-    <img src="imgs/infra.png" alt="infra" style="width: 200px; height: 200px;">
+    <img src="imgs/infra.png" alt="infra" style="width: 1200px; height: 300px;">
     </p>
 </div>
 
