@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/04/18 - 손흥민 없이도 빛난 토트넘, 유로파리그 4강 진출 - 솔란케 PK 결승골](https://dmomo.co.kr/311) <br/>
+[2025/04/18 - 맨유의 기적: 유로파리그 8강 5-4 역전승, 세미파이널 진출 드라마](https://dmomo.co.kr/310) <br/>
 [2025/04/17 - GPT-4.1 완벽 분석 100만 토큰 처리, 코딩 성능 54.6% 달성, 비용 83% 절감까지!](https://dmomo.co.kr/309) <br/>
 [2025/04/17 - 레알 마드리드 충격 탈락! 아스널 16년 만의 UCL 4강 진출 비결은?](https://dmomo.co.kr/308) <br/>
 [2025/04/17 - 세트피스의 마법: 인테르, 바이에른 꺾고 UCL 4강 진출](https://dmomo.co.kr/307) <br/>
 [2025/04/16 - PSG, 빌라에 패했지만 4강 진출... 돈나룸마 선방쇼 빛났다](https://dmomo.co.kr/306) <br/>
-[2025/04/16 - 노제와 태민의 열애설 재점화: 1년 만에 불거진 진실은?](https://dmomo.co.kr/305) <br/>
-[2025/04/15 - 페널티킥 드라마! 아틀레티코, 바야돌리드에 4-2 역전승... 3위 굳히기](https://dmomo.co.kr/304) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/04/18 - GPT-4o vs GPT-4.1 차이점 6가지로 쉽게 정리!](https://blog.ai.dmomo.co.kr/tech/1651) <br/>
+[2025/04/18 - 맨유의 기적: 유로파리그 8강 5-4 역전승, 세미파이널 진출 드라마](https://blog.ai.dmomo.co.kr/trend/1648) <br/>
+[2025/04/18 - 손흥민 없이도 빛난 토트넘, 유로파리그 4강 진출 – 솔란케 PK 결승골](https://blog.ai.dmomo.co.kr/trend/1645) <br/>
 [2025/04/17 - GPT-4.1 완벽 분석 100만 토큰 처리, 코딩 성능 54.6% 달성, 비용 83% 절감까지!](https://blog.ai.dmomo.co.kr/tech/1642) <br/>
 [2025/04/17 - 레알 마드리드 충격 탈락! 아스널 16년 만의 UCL 4강 진출 비결은?](https://blog.ai.dmomo.co.kr/trend/1639) <br/>
 [2025/04/17 - 세트피스의 마법: 인테르, 바이에른 꺾고 UCL 4강 진출](https://blog.ai.dmomo.co.kr/trend/1636) <br/>
-[2025/04/16 - 노제와 태민의 열애설 재점화: 1년 만에 불거진 진실은?](https://blog.ai.dmomo.co.kr/trend/1633) <br/>
-[2025/04/16 - PSG, 빌라에 패했지만 4강 진출… 돈나룸마 선방쇼 빛났다](https://blog.ai.dmomo.co.kr/trend/1630) <br/>
-[2025/04/15 - 이정후 3삼진 침묵에도 자이언츠 10-4 대승, 필리스 4연패 위기](https://blog.ai.dmomo.co.kr/trend/1627) <br/>
