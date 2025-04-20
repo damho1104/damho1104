@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/04/19 - 이정후 멀티히트 불구 자이언츠 패배, MLB 타율 5위 유지 - 무엇이 문제였나?](https://dmomo.co.kr/314) <br/>
+[2025/04/19 - 두산 베어스, 케이브 맹타로 KIA에 7-1 완승&hellip;5연패 위기 타이거즈](https://dmomo.co.kr/313) <br/>
+[2025/04/19 - 한화의 5연승 비결: NC 꺾고 상위권 도약, 채은성 4안타 5타점 폭발](https://dmomo.co.kr/312) <br/>
 [2025/04/18 - 손흥민 없이도 빛난 토트넘, 유로파리그 4강 진출 - 솔란케 PK 결승골](https://dmomo.co.kr/311) <br/>
 [2025/04/18 - 맨유의 기적: 유로파리그 8강 5-4 역전승, 세미파이널 진출 드라마](https://dmomo.co.kr/310) <br/>
 [2025/04/17 - GPT-4.1 완벽 분석 100만 토큰 처리, 코딩 성능 54.6% 달성, 비용 83% 절감까지!](https://dmomo.co.kr/309) <br/>
-[2025/04/17 - 레알 마드리드 충격 탈락! 아스널 16년 만의 UCL 4강 진출 비결은?](https://dmomo.co.kr/308) <br/>
-[2025/04/17 - 세트피스의 마법: 인테르, 바이에른 꺾고 UCL 4강 진출](https://dmomo.co.kr/307) <br/>
-[2025/04/16 - PSG, 빌라에 패했지만 4강 진출... 돈나룸마 선방쇼 빛났다](https://dmomo.co.kr/306) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/04/20 - Zapier의 마법을 MCP에도? 드래그앤드롭 UI로 비개발자도 쉽게 자동화](https://blog.ai.dmomo.co.kr/ai/1666) <br/>
+[2025/04/19 - FC 서울 vs 광주: 한국 축구의 운명을 가를 빅매치, 홍 감독도 주목!](https://blog.ai.dmomo.co.kr/trend/1663) <br/>
+[2025/04/19 - 이정후 멀티히트 불구 자이언츠 패배, MLB 타율 5위 유지 – 무엇이 문제였나?](https://blog.ai.dmomo.co.kr/trend/1660) <br/>
+[2025/04/19 - 두산 베어스, 케이브 맹타로 KIA에 7-1 완승…5연패 위기 타이거즈](https://blog.ai.dmomo.co.kr/trend/1657) <br/>
+[2025/04/19 - 한화의 5연승 비결: NC 꺾고 상위권 도약, 채은성 4안타 5타점 폭발](https://blog.ai.dmomo.co.kr/trend/1654) <br/>
 [2025/04/18 - GPT-4o vs GPT-4.1 차이점 6가지로 쉽게 정리!](https://blog.ai.dmomo.co.kr/tech/1651) <br/>
-[2025/04/18 - 맨유의 기적: 유로파리그 8강 5-4 역전승, 세미파이널 진출 드라마](https://blog.ai.dmomo.co.kr/trend/1648) <br/>
-[2025/04/18 - 손흥민 없이도 빛난 토트넘, 유로파리그 4강 진출 – 솔란케 PK 결승골](https://blog.ai.dmomo.co.kr/trend/1645) <br/>
-[2025/04/17 - GPT-4.1 완벽 분석 100만 토큰 처리, 코딩 성능 54.6% 달성, 비용 83% 절감까지!](https://blog.ai.dmomo.co.kr/tech/1642) <br/>
-[2025/04/17 - 레알 마드리드 충격 탈락! 아스널 16년 만의 UCL 4강 진출 비결은?](https://blog.ai.dmomo.co.kr/trend/1639) <br/>
-[2025/04/17 - 세트피스의 마법: 인테르, 바이에른 꺾고 UCL 4강 진출](https://blog.ai.dmomo.co.kr/trend/1636) <br/>
