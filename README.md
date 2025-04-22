@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/04/20 - 전북 현대의 3-1 승리: 전진우의 멀티골로 리그 3위 등극](https://dmomo.co.kr/319) <br/>
-[2025/04/20 - PSG의 무패 행진과 이강인의 복귀: 리그1 30라운드 르아브르전 승리 분석](https://dmomo.co.kr/318) <br/>
-[2025/04/20 - 챔피언스리그 티켓 향한 맨시티의 역전승, 에버턴 2-0 제압](https://dmomo.co.kr/317) <br/>
-[2025/04/20 - Zapier의 마법을 MCP에도? 드래그앤드롭 UI로 비개발자도 쉽게 자동화](https://dmomo.co.kr/316) <br/>
-[2025/04/20 - 바이에른 뮌헨의 4-0 승리, 2년 만의 리그 우승 향한 2승만 더?](https://dmomo.co.kr/315) <br/>
-[2025/04/19 - 이정후 멀티히트 불구 자이언츠 패배, MLB 타율 5위 유지 - 무엇이 문제였나?](https://dmomo.co.kr/314) <br/>
+[2025/04/21 - 아스널의 4-0 대승, '트로사르 쇼'로 선두 굳히기 성공](https://dmomo.co.kr/326) <br/>
+[2025/04/21 - 프란치스코 교황의 혁명적 유산: 12년간의 개혁과 도전](https://dmomo.co.kr/325) <br/>
+[2025/04/21 - 김종민 신부 얼굴 노출 사건: SNS 시대의 결혼식 프라이버시 딜레마](https://dmomo.co.kr/324) <br/>
+[2025/04/21 - 역전극의 주인공! 첼시, 17세 영웅과 네투의 극장골로 UCL 희망 살렸다](https://dmomo.co.kr/323) <br/>
+[2025/04/21 - 충격의 강등: 레스터 시티, 리버풀에 0-1 패배로 '챔피언십' 추락](https://dmomo.co.kr/322) <br/>
+[2025/04/21 - 93분 극장골! 레알 마드리드, 빌바오 꺾고 라리가 선두 탈환](https://dmomo.co.kr/321) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/04/20 - Jeonbuk Hyundai’s 3-1 Victory: Jeon Jin-woo’s Double Goals Propel Team to 3rd Place in the League](https://blog.ai.dmomo.co.kr/trend/1685) <br/>
-[2025/04/20 - 전북 현대의 3-1 승리: 전진우의 멀티골로 리그 3위 등극](https://blog.ai.dmomo.co.kr/trend/1683) <br/>
-[2025/04/20 - Man City’s Comeback Victory to Reach Champions League, Defeating Everton 2-0](https://blog.ai.dmomo.co.kr/trend/1680) <br/>
-[2025/04/20 - 챔피언스리그 티켓 향한 맨시티의 역전승, 에버턴 2-0 제압](https://blog.ai.dmomo.co.kr/trend/1675) <br/>
-[2025/04/20 - PSG의 무패 행진과 이강인의 복귀: 리그1 30라운드 르아브르전 승리 분석](https://blog.ai.dmomo.co.kr/trend/1672) <br/>
-[2025/04/20 - 바이에른 뮌헨의 4-0 승리, 2년 만의 리그 우승 향한 2승만 더?](https://blog.ai.dmomo.co.kr/trend/1669) <br/>
+[2025/04/21 - Arsenal’s 4-0 Victory: A Successful Leader Consolidation with the ‘Trossard Show’](https://blog.ai.dmomo.co.kr/trend/1721) <br/>
+[2025/04/21 - 아스널의 4-0 대승, ‘트로사르 쇼’로 선두 굳히기 성공](https://blog.ai.dmomo.co.kr/trend/1719) <br/>
+[2025/04/21 - Pope Francis’ Revolutionary Legacy: 12 Years of Reform and Challenges](https://blog.ai.dmomo.co.kr/trend/1716) <br/>
+[2025/04/21 - 프란치스코 교황의 혁명적 유산: 12년간의 개혁과 도전](https://blog.ai.dmomo.co.kr/trend/1714) <br/>
+[2025/04/21 - The Kim Jong-min Priest Face Exposure Incident: The Marriage Privacy Dilemma in the Age of Social Media](https://blog.ai.dmomo.co.kr/trend/1710) <br/>
+[2025/04/21 - 김종민 신부 얼굴 노출 사건: SNS 시대의 결혼식 프라이버시 딜레마](https://blog.ai.dmomo.co.kr/trend/1708) <br/>
