@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/04/22 - 코리안 더비 최전선 대결: 스완지 엄지성, QPR 양민혁의 5연승 혈투](https://dmomo.co.kr/329) <br/>
+[2025/04/22 - 이정후의 '역주행' 3루타, 자이언츠에 승리를 선사하다](https://dmomo.co.kr/328) <br/>
+[2025/04/22 - 토트넘의 악몽: 손흥민 없이 노팅엄에 1-2 역전패, 16위 추락의 위기](https://dmomo.co.kr/327) <br/>
 [2025/04/21 - 아스널의 4-0 대승, '트로사르 쇼'로 선두 굳히기 성공](https://dmomo.co.kr/326) <br/>
 [2025/04/21 - 프란치스코 교황의 혁명적 유산: 12년간의 개혁과 도전](https://dmomo.co.kr/325) <br/>
 [2025/04/21 - 김종민 신부 얼굴 노출 사건: SNS 시대의 결혼식 프라이버시 딜레마](https://dmomo.co.kr/324) <br/>
-[2025/04/21 - 역전극의 주인공! 첼시, 17세 영웅과 네투의 극장골로 UCL 희망 살렸다](https://dmomo.co.kr/323) <br/>
-[2025/04/21 - 충격의 강등: 레스터 시티, 리버풀에 0-1 패배로 '챔피언십' 추락](https://dmomo.co.kr/322) <br/>
-[2025/04/21 - 93분 극장골! 레알 마드리드, 빌바오 꺾고 라리가 선두 탈환](https://dmomo.co.kr/321) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/04/21 - Arsenal’s 4-0 Victory: A Successful Leader Consolidation with the ‘Trossard Show’](https://blog.ai.dmomo.co.kr/trend/1721) <br/>
-[2025/04/21 - 아스널의 4-0 대승, ‘트로사르 쇼’로 선두 굳히기 성공](https://blog.ai.dmomo.co.kr/trend/1719) <br/>
-[2025/04/21 - Pope Francis’ Revolutionary Legacy: 12 Years of Reform and Challenges](https://blog.ai.dmomo.co.kr/trend/1716) <br/>
-[2025/04/21 - 프란치스코 교황의 혁명적 유산: 12년간의 개혁과 도전](https://blog.ai.dmomo.co.kr/trend/1714) <br/>
-[2025/04/21 - The Kim Jong-min Priest Face Exposure Incident: The Marriage Privacy Dilemma in the Age of Social Media](https://blog.ai.dmomo.co.kr/trend/1710) <br/>
-[2025/04/21 - 김종민 신부 얼굴 노출 사건: SNS 시대의 결혼식 프라이버시 딜레마](https://blog.ai.dmomo.co.kr/trend/1708) <br/>
+[2025/04/22 - SK Telecom Hacking Shock: SIM Card Information Leak? Is Your Personal Data Safe?](https://blog.ai.dmomo.co.kr/trend/1741) <br/>
+[2025/04/22 - SKT 해킹 충격: 유심 정보 유출? 당신의 개인정보는 안전한가?](https://blog.ai.dmomo.co.kr/trend/1739) <br/>
+[2025/04/22 - Korean Derby Showdown: Swangji Eom Ji-sung vs QPR Yang Min-hyuk in a Battle for Five Consecutive Wins](https://blog.ai.dmomo.co.kr/trend/1736) <br/>
+[2025/04/22 - 코리안 더비 최전선 대결: 스완지 엄지성, QPR 양민혁의 5연승 혈투](https://blog.ai.dmomo.co.kr/trend/1734) <br/>
+[2025/04/22 - Lee Jung-hoo’s ‘Reverse Home Run’ Brings Victory to the Giants](https://blog.ai.dmomo.co.kr/trend/1731) <br/>
+[2025/04/22 - 이정후의 ‘역주행’ 3루타, 자이언츠에 승리를 선사하다](https://blog.ai.dmomo.co.kr/trend/1729) <br/>
