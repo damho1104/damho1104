@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/04/29 - SKT 유심 해킹 대란: 11일 지연된 통보와 정치권 공방의 전말](https://dmomo.co.kr/358) <br/>
+[2025/04/29 - 마이크로소프트의 AI 혁명: 생산성부터 조직구조까지 5가지 핵심 전략](https://dmomo.co.kr/357) <br/>
+[2025/04/29 - 이승기 장인 체포: 200억대 주가조작 혐의, 연예계에 미칠 충격은?](https://dmomo.co.kr/356) <br/>
+[2025/04/29 - 대구 산불의 충격: 11m 강풍이 부른 252헥타르의 재앙과 대응 전략](https://dmomo.co.kr/355) <br/>
 [2025/04/28 - 극적 동점골로 살아난 맨유, 본머스와 1-1 무승부&hellip;유로파 준비 '숨통'](https://dmomo.co.kr/354) <br/>
 [2025/04/28 - 맨시티의 마법: FA컵 3연속 결승 진출, 노팅엄 포레스트 2-0 제압](https://dmomo.co.kr/353) <br/>
-[2025/04/28 - 대구 함지산 대형 산불: 1,200명 대피, 진화율 12%...무엇이 문제인가?](https://dmomo.co.kr/352) <br/>
-[2025/04/28 - 리버풀의 5년 만의 기적: EPL 정상 탈환과 토트넘의 추락](https://dmomo.co.kr/351) <br/>
-[2025/04/27 - React 웹 프론트엔드 개발의 핵심 기술과 2024년 최신 학습 전략](https://dmomo.co.kr/350) <br/>
-[2025/04/27 - 포항 스틸러스, FC 서울에 1-0 승리...K리그1 순위 변화는?](https://dmomo.co.kr/349) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/04/28 - Dramatic Equalizer Revives Manchester United, 1-1 Draw with Bournemouth… Breathing Room for Europa League Preparation](https://blog.ai.dmomo.co.kr/trend/1893) <br/>
-[2025/04/28 - 극적 동점골로 살아난 맨유, 본머스와 1-1 무승부…유로파 준비 ‘숨통’](https://blog.ai.dmomo.co.kr/trend/1891) <br/>
-[2025/04/28 - The Magic of Man City: Advancing to the FA Cup Final for the Third Consecutive Time, Dominating Nottingham Forest 2-0](https://blog.ai.dmomo.co.kr/trend/1888) <br/>
-[2025/04/28 - 맨시티의 마법: FA컵 3연속 결승 진출, 노팅엄 포레스트 2-0 제압](https://blog.ai.dmomo.co.kr/trend/1886) <br/>
-[2025/04/28 - Daegu Hamjisan Large Forest Fire: 1,200 Evacuated, 12% Contained… What Went Wrong?](https://blog.ai.dmomo.co.kr/trend/1883) <br/>
-[2025/04/28 - 대구 함지산 대형 산불: 1,200명 대피, 진화율 12%…무엇이 문제인가?](https://blog.ai.dmomo.co.kr/trend/1881) <br/>
+[2025/04/29 - SKT SIM Card Hacking Crisis: The Delayed Notification on the 11th and the Political Controversy Behind It](https://blog.ai.dmomo.co.kr/trend/1918) <br/>
+[2025/04/29 - SKT 유심 해킹 대란: 11일 지연된 통보와 정치권 공방의 전말](https://blog.ai.dmomo.co.kr/trend/1916) <br/>
+[2025/04/29 - Microsoft’s AI Revolution: 5 Key Strategies from Productivity to Organizational Structure](https://blog.ai.dmomo.co.kr/trend/1913) <br/>
+[2025/04/29 - 마이크로소프트의 AI 혁명: 생산성부터 조직구조까지 5가지 핵심 전략](https://blog.ai.dmomo.co.kr/trend/1911) <br/>
+[2025/04/29 - LG vs Hanwha: A Fiery 9-Game Showdown! Destiny of Title Defense vs Top Contender Challenge?](https://blog.ai.dmomo.co.kr/trend/1908) <br/>
+[2025/04/29 - LG vs 한화: 불꽃 튀는 9연전! 선두 수성 vs 상위권 도전의 운명은?](https://blog.ai.dmomo.co.kr/trend/1906) <br/>
