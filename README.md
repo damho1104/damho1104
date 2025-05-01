@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/04/30 - 마블의 '썬더볼츠': 외로운 영웅들의 치유와 구원 - 새로운 MCU의 시작?](https://dmomo.co.kr/362) <br/>
+[2025/04/30 - 충격의 역전극: 알아흘리, 알힐랄 꺾고 ACLE 결승행 티켓 획득](https://dmomo.co.kr/361) <br/>
+[2025/04/30 - PSG의 1-0 승리, 아스널의 홈 충격: UCL 4강 1차전 전술 분석과 2차전 전망](https://dmomo.co.kr/360) <br/>
+[2025/04/30 - BPFDoor 공격: 리눅스 BPF 악용한 은닉형 백도어의 4가지 위협 분석](https://dmomo.co.kr/359) <br/>
 [2025/04/29 - SKT 유심 해킹 대란: 11일 지연된 통보와 정치권 공방의 전말](https://dmomo.co.kr/358) <br/>
 [2025/04/29 - 마이크로소프트의 AI 혁명: 생산성부터 조직구조까지 5가지 핵심 전략](https://dmomo.co.kr/357) <br/>
-[2025/04/29 - 이승기 장인 체포: 200억대 주가조작 혐의, 연예계에 미칠 충격은?](https://dmomo.co.kr/356) <br/>
-[2025/04/29 - 대구 산불의 충격: 11m 강풍이 부른 252헥타르의 재앙과 대응 전략](https://dmomo.co.kr/355) <br/>
-[2025/04/28 - 극적 동점골로 살아난 맨유, 본머스와 1-1 무승부&hellip;유로파 준비 '숨통'](https://dmomo.co.kr/354) <br/>
-[2025/04/28 - 맨시티의 마법: FA컵 3연속 결승 진출, 노팅엄 포레스트 2-0 제압](https://dmomo.co.kr/353) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/04/29 - SKT SIM Card Hacking Crisis: The Delayed Notification on the 11th and the Political Controversy Behind It](https://blog.ai.dmomo.co.kr/trend/1918) <br/>
-[2025/04/29 - SKT 유심 해킹 대란: 11일 지연된 통보와 정치권 공방의 전말](https://blog.ai.dmomo.co.kr/trend/1916) <br/>
-[2025/04/29 - Microsoft’s AI Revolution: 5 Key Strategies from Productivity to Organizational Structure](https://blog.ai.dmomo.co.kr/trend/1913) <br/>
-[2025/04/29 - 마이크로소프트의 AI 혁명: 생산성부터 조직구조까지 5가지 핵심 전략](https://blog.ai.dmomo.co.kr/trend/1911) <br/>
-[2025/04/29 - LG vs Hanwha: A Fiery 9-Game Showdown! Destiny of Title Defense vs Top Contender Challenge?](https://blog.ai.dmomo.co.kr/trend/1908) <br/>
-[2025/04/29 - LG vs 한화: 불꽃 튀는 9연전! 선두 수성 vs 상위권 도전의 운명은?](https://blog.ai.dmomo.co.kr/trend/1906) <br/>
+[2025/04/30 - Marvel’s ‘Thunderbolts’: Healing and Redemption of Lonely Heroes – A New Beginning for the MCU?](https://blog.ai.dmomo.co.kr/trend/1948) <br/>
+[2025/04/30 - 마블의 ‘썬더볼츠’: 외로운 영웅들의 치유와 구원 – 새로운 MCU의 시작?](https://blog.ai.dmomo.co.kr/trend/1946) <br/>
+[2025/04/30 - Shocking Turnaround: Al Ahly Defeats Al Hilal to Secure ACLE Final Ticket](https://blog.ai.dmomo.co.kr/trend/1943) <br/>
+[2025/04/30 - 충격의 역전극: 알아흘리, 알힐랄 꺾고 ACLE 결승행 티켓 획득](https://blog.ai.dmomo.co.kr/trend/1941) <br/>
+[2025/04/30 - BPFDoor Attack: Four Threat Analyses of a Hidden Backdoor Exploiting Linux BPF](https://blog.ai.dmomo.co.kr/trend/1938) <br/>
+[2025/04/30 - BPFDoor 공격: 리눅스 BPF 악용한 은닉형 백도어의 4가지 위협 분석](https://blog.ai.dmomo.co.kr/tech/1936) <br/>
