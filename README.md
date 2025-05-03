@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/05/02 - 한화 VS KIA: 디펜딩 챔피언의 추락과 2위의 부상, 운명의 한 판은?](https://dmomo.co.kr/371) <br/>
+[2025/05/02 - 알바몬 개인정보 유출 사태: 22,473건 데이터 해킹의 전말과 대응책](https://dmomo.co.kr/370) <br/>
+[2025/05/02 - 첼시, 유르고르덴에 4-1 대승: 유로파 컨퍼런스리그 결승 '한 발짝'](https://dmomo.co.kr/369) <br/>
+[2025/05/02 - 맨유의 기적 같은 반전: 유로파리그에서 빛난 3-0 대승의 비결은?](https://dmomo.co.kr/368) <br/>
+[2025/05/02 - 대법원 판결로 흔들리는 이재명의 정치 행보: 법과 국민 의지 사이의 줄다리기](https://dmomo.co.kr/367) <br/>
 [2025/05/01 - 이재명 공직선거법 위반 사건, 법치주의 vs 국민의 뜻 충돌?](https://dmomo.co.kr/366) <br/>
-[2025/05/01 - Ivanti VPN 취약점, 중국 스파이 그룹 UNC5221 공격 경로로 밝혀져!](https://dmomo.co.kr/365) <br/>
-[2025/05/01 - 3-3 무승부! 바르셀로나 vs 인테르 밀란의 UCL 준결승 1차전 총정리](https://dmomo.co.kr/364) <br/>
-[2025/05/01 - 날씨의 힘: 빅데이터로 예측하는 일상과 미래의 변화](https://dmomo.co.kr/363) <br/>
-[2025/04/30 - 마블의 '썬더볼츠': 외로운 영웅들의 치유와 구원 - 새로운 MCU의 시작?](https://dmomo.co.kr/362) <br/>
-[2025/04/30 - 충격의 역전극: 알아흘리, 알힐랄 꺾고 ACLE 결승행 티켓 획득](https://dmomo.co.kr/361) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/05/01 - Lee Jae-myung’s Violation of the Public Official Election Act: Clash Between Rule of Law and the Will of the People?](https://blog.ai.dmomo.co.kr/trend/1968) <br/>
-[2025/05/01 - 이재명 공직선거법 위반 사건, 법치주의 vs 국민의 뜻 충돌?](https://blog.ai.dmomo.co.kr/trend/1966) <br/>
-[2025/05/01 - Ivanti VPN Vulnerability CVE-2025-22457 Revealed as Attack Vector for Chinese Spy Group UNC5221!](https://blog.ai.dmomo.co.kr/trend/1963) <br/>
-[2025/05/01 - Ivanti VPN 취약점 CVE-2025-22457, 중국 스파이 그룹 UNC5221 공격 경로로 밝혀져!](https://blog.ai.dmomo.co.kr/tech/1961) <br/>
-[2025/05/01 - Summary of the UCL Semi-Final First Leg: Barcelona vs Inter Milan – 3-3 Draw!](https://blog.ai.dmomo.co.kr/trend/1959) <br/>
-[2025/05/01 - 3-3 무승부! 바르셀로나 vs 인테르 밀란의 UCL 준결승 1차전 총정리](https://blog.ai.dmomo.co.kr/trend/1957) <br/>
+[2025/05/02 - Hanwha vs KIA: The Fall of the Defending Champion and the Rise of the Runner-Up, A Battle of Destiny?](https://blog.ai.dmomo.co.kr/trend/1993) <br/>
+[2025/05/02 - 한화 VS KIA: 디펜딩 챔피언의 추락과 2위의 부상, 운명의 한 판은?](https://blog.ai.dmomo.co.kr/trend/1991) <br/>
+[2025/05/02 - Albabon’s Data Leak Incident: The Details of 22,473 Hacked Records and Response Measures](https://blog.ai.dmomo.co.kr/trend/1988) <br/>
+[2025/05/02 - 알바몬 개인정보 유출 사태: 22,473건 데이터 해킹의 전말과 대응책](https://blog.ai.dmomo.co.kr/trend/1986) <br/>
+[2025/05/02 - Chelsea Dominates Yurgården 4-1: ‘One Step’ Closer to Europa Conference League Final](https://blog.ai.dmomo.co.kr/trend/1983) <br/>
+[2025/05/02 - 첼시, 유르고르덴에 4-1 대승: 유로파 컨퍼런스리그 결승 ‘한 발짝’](https://blog.ai.dmomo.co.kr/trend/1981) <br/>
