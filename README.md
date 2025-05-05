@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/05/04 - AI 혁명의 중심에서: GPT-4 Turbo와 AI 저작권 논란의 최신 동향](https://dmomo.co.kr/377) <br/>
+[2025/05/04 - PSG의 충격패! 이강인 부상에 무패행진 중단, UCL 전초전 비상](https://dmomo.co.kr/376) <br/>
+[2025/05/04 - 헛갈리는 승부의 결말: 라이프치히 vs 바이에른 3-3 무승부와 우승 향방은?](https://dmomo.co.kr/375) <br/>
 [2025/05/03 - FC서울 vs 전북현대: 황인범 키플레이어, 팬 이벤트로 더 뜨거운 빅매치!](https://dmomo.co.kr/374) <br/>
 [2025/05/03 - 노시환의 11회 결승포! 한화, KIA에 3-2 짜릿한 역전승](https://dmomo.co.kr/373) <br/>
 [2025/05/03 - 맨시티 vs 울브스: 더브라위너의 결승골로 끝난 6연승의 종말](https://dmomo.co.kr/372) <br/>
-[2025/05/02 - 한화 VS KIA: 디펜딩 챔피언의 추락과 2위의 부상, 운명의 한 판은?](https://dmomo.co.kr/371) <br/>
-[2025/05/02 - 알바몬 개인정보 유출 사태: 22,473건 데이터 해킹의 전말과 대응책](https://dmomo.co.kr/370) <br/>
-[2025/05/02 - 첼시, 유르고르덴에 4-1 대승: 유로파 컨퍼런스리그 결승 '한 발짝'](https://dmomo.co.kr/369) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/05/04 - AI 혁명의 중심에서: GPT-4 Turbo와 AI 저작권 논란의 최신 동향](https://blog.ai.dmomo.co.kr/ai/2021) <br/>
+[2025/05/04 - Shocking Defeat for PSG! Lee Kang-in’s Injury Halts Unbeaten Streak, UCL Preparations in Crisis](https://blog.ai.dmomo.co.kr/trend/2019) <br/>
+[2025/05/04 - PSG의 충격패! 이강인 부상에 무패행진 중단, UCL 전초전 비상](https://blog.ai.dmomo.co.kr/trend/2017) <br/>
+[2025/05/04 - Confusing Match Outcome: Leipzig vs Bayern – 3-3 Draw and the Impact on Championship Race?](https://blog.ai.dmomo.co.kr/trend/2014) <br/>
+[2025/05/04 - 헛갈리는 승부의 결말: 라이프치히 vs 바이에른 3-3 무승부와 우승 향방은?](https://blog.ai.dmomo.co.kr/trend/2012) <br/>
 [2025/05/03 - FC Seoul vs Jeonbuk Hyundai: A Thrilling Showdown with Key Player Hwang In-beom and Exciting Fan Events!](https://blog.ai.dmomo.co.kr/trend/2008) <br/>
-[2025/05/03 - FC서울 vs 전북현대: 황인범 키플레이어, 팬 이벤트로 더 뜨거운 빅매치!](https://blog.ai.dmomo.co.kr/trend/2006) <br/>
-[2025/05/03 - Noh Si-hwan’s 11th Inning Game-Winning Homer! Hanwha Achieves Thrilling 3-2 Comeback Victory Over KIA](https://blog.ai.dmomo.co.kr/trend/2003) <br/>
-[2025/05/03 - 노시환의 11회 결승포! 한화, KIA에 3-2 짜릿한 역전승](https://blog.ai.dmomo.co.kr/trend/2001) <br/>
-[2025/05/03 - Man City vs Wolves: The End of the 6-Game Winning Streak with De Bruyne’s Decisive Goal](https://blog.ai.dmomo.co.kr/trend/1998) <br/>
-[2025/05/03 - 맨시티 vs 울브스: 더브라위너의 결승골로 끝난 6연승의 종말](https://blog.ai.dmomo.co.kr/trend/1996) <br/>
