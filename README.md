@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/05/05 - 한화 7연승 신화! 삼성 꺾고 18년 만에 공동 1위 등극](https://dmomo.co.kr/379) <br/>
+[2025/05/05 - 손흥민 부재 속 무승부로 끝난 토트넘 vs 웨스트햄 더비전: 팀 미래는?](https://dmomo.co.kr/378) <br/>
 [2025/05/04 - AI 혁명의 중심에서: GPT-4 Turbo와 AI 저작권 논란의 최신 동향](https://dmomo.co.kr/377) <br/>
 [2025/05/04 - PSG의 충격패! 이강인 부상에 무패행진 중단, UCL 전초전 비상](https://dmomo.co.kr/376) <br/>
 [2025/05/04 - 헛갈리는 승부의 결말: 라이프치히 vs 바이에른 3-3 무승부와 우승 향방은?](https://dmomo.co.kr/375) <br/>
 [2025/05/03 - FC서울 vs 전북현대: 황인범 키플레이어, 팬 이벤트로 더 뜨거운 빅매치!](https://dmomo.co.kr/374) <br/>
-[2025/05/03 - 노시환의 11회 결승포! 한화, KIA에 3-2 짜릿한 역전승](https://dmomo.co.kr/373) <br/>
-[2025/05/03 - 맨시티 vs 울브스: 더브라위너의 결승골로 끝난 6연승의 종말](https://dmomo.co.kr/372) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/05/05 - Hanwha’s 7-Game Winning Streak! Ties for 1st Place with Samsung After 18 Years](https://blog.ai.dmomo.co.kr/trend/2031) <br/>
+[2025/05/05 - 한화 7연승 신화! 삼성 꺾고 18년 만에 공동 1위 등극](https://blog.ai.dmomo.co.kr/trend/2029) <br/>
+[2025/05/05 - Tottenham vs West Ham Derby Ends in Draw Without Son Heung-min: What’s Next for the Team?](https://blog.ai.dmomo.co.kr/trend/2026) <br/>
+[2025/05/05 - 손흥민 부재 속 무승부로 끝난 토트넘 vs 웨스트햄 더비전: 팀 미래는?](https://blog.ai.dmomo.co.kr/trend/2024) <br/>
 [2025/05/04 - AI 혁명의 중심에서: GPT-4 Turbo와 AI 저작권 논란의 최신 동향](https://blog.ai.dmomo.co.kr/ai/2021) <br/>
 [2025/05/04 - Shocking Defeat for PSG! Lee Kang-in’s Injury Halts Unbeaten Streak, UCL Preparations in Crisis](https://blog.ai.dmomo.co.kr/trend/2019) <br/>
-[2025/05/04 - PSG의 충격패! 이강인 부상에 무패행진 중단, UCL 전초전 비상](https://blog.ai.dmomo.co.kr/trend/2017) <br/>
-[2025/05/04 - Confusing Match Outcome: Leipzig vs Bayern – 3-3 Draw and the Impact on Championship Race?](https://blog.ai.dmomo.co.kr/trend/2014) <br/>
-[2025/05/04 - 헛갈리는 승부의 결말: 라이프치히 vs 바이에른 3-3 무승부와 우승 향방은?](https://blog.ai.dmomo.co.kr/trend/2012) <br/>
-[2025/05/03 - FC Seoul vs Jeonbuk Hyundai: A Thrilling Showdown with Key Player Hwang In-beom and Exciting Fan Events!](https://blog.ai.dmomo.co.kr/trend/2008) <br/>
