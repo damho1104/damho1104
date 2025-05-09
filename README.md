@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/05/08 - 트럼프 첫 무역협정 발표, 영국과의 파격 거래 전망: 글로벌 경제 충격?](https://dmomo.co.kr/390) <br/>
+[2025/05/08 - 아스날의 UCL 4강 탈락: 아르테타의 전술 실패와 재건의 필요성](https://dmomo.co.kr/389) <br/>
+[2025/05/08 - 김수현 vs 김새론 유족: AI 증거 논란과 법정공방의 진실은?](https://dmomo.co.kr/388) <br/>
 [2025/05/07 - 커리 결장에도 빛난 워리어스, NBA 플레이오프 '원정 첫승' 비결은?](https://dmomo.co.kr/387) <br/>
 [2025/05/07 - 핵전쟁 위기? 인도-파키스탄 미사일 충돌의 충격적 진실](https://dmomo.co.kr/386) <br/>
 [2025/05/07 - 숨막히는 역전극! 인테르밀란, 15년 만에 UCL 결승행 티켓 획득](https://dmomo.co.kr/385) <br/>
-[2025/05/06 - 컨테이너화 도구 비교 분석: Docker, Podman, Containerd, CRI-O, Lima, Punch](https://dmomo.co.kr/384) <br/>
-[2025/05/06 - NBA 플레이오프 격돌: 오클라호마시티 vs 덴버, 누가 웃을까?](https://dmomo.co.kr/383) <br/>
-[2025/05/06 - 이정후, MLB 도전기: 컵스전 4타수 1안타로 시즌 40안타 달성](https://dmomo.co.kr/382) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/05/07 - Warriors Shine Despite Curry’s Absence: What’s the Secret Behind Their First Playoff Road Win?](https://blog.ai.dmomo.co.kr/trend/2076) <br/>
-[2025/05/07 - 커리 결장에도 빛난 워리어스, NBA 플레이오프 ‘원정 첫승’ 비결은?](https://blog.ai.dmomo.co.kr/trend/2074) <br/>
-[2025/05/07 - Nuclear War Crisis? The Shocking Truth Behind the India-Pakistan Missile Clash](https://blog.ai.dmomo.co.kr/trend/2071) <br/>
-[2025/05/07 - 핵전쟁 위기? 인도-파키스탄 미사일 충돌의 충격적 진실](https://blog.ai.dmomo.co.kr/trend/2069) <br/>
-[2025/05/07 - Breathtaking Comeback! Inter Milan Secures UCL Final Ticket After 15 Years](https://blog.ai.dmomo.co.kr/trend/2066) <br/>
-[2025/05/07 - 숨막히는 역전극! 인테르밀란, 15년 만에 UCL 결승행 티켓 획득](https://blog.ai.dmomo.co.kr/trend/2064) <br/>
+[2025/05/08 - Trump’s First Trade Agreement Announcement: Shocking Deal with the UK and Its Impact on the Global Economy?](https://blog.ai.dmomo.co.kr/trend/2097) <br/>
+[2025/05/08 - 트럼프 첫 무역협정 발표, 영국과의 파격 거래 전망: 글로벌 경제 충격?](https://blog.ai.dmomo.co.kr/trend/2095) <br/>
+[2025/05/08 - PSG vs Arsenal Clash: Key to Reaching the UCL Final After 5 Years?](https://blog.ai.dmomo.co.kr/trend/2091) <br/>
+[2025/05/08 - PSG vs 아스널 격돌: 5년 만의 UCL 결승 진출 비결은?](https://blog.ai.dmomo.co.kr/trend/2089) <br/>
+[2025/05/08 - Arsenal’s UCL Semi-Final Exit: Arteta’s Tactical Failures and the Need for Rebuilding](https://blog.ai.dmomo.co.kr/trend/2086) <br/>
+[2025/05/08 - 아스날의 UCL 4강 탈락: 아르테타의 전술 실패와 재건의 필요성](https://blog.ai.dmomo.co.kr/trend/2084) <br/>
