@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/05/09 - 미국 출신 첫 교황, 레오 14세의 도전과 기대: 변화의 바람이 부나?](https://dmomo.co.kr/394) <br/>
+[2025/05/09 - 비트코인 ETF 도입과 파생상품 시장: 한국 암호화폐 생태계의 새로운 도약](https://dmomo.co.kr/393) <br/>
+[2025/05/09 - 맨유의 유로파리그 결승행: 4-1 승리로 본 '빅클럽의 귀환'](https://dmomo.co.kr/392) <br/>
+[2025/05/09 - 토트넘 vs 보되/글림트: 유로파리그 결승행 티켓은 누구의 몫?](https://dmomo.co.kr/391) <br/>
 [2025/05/08 - 트럼프 첫 무역협정 발표, 영국과의 파격 거래 전망: 글로벌 경제 충격?](https://dmomo.co.kr/390) <br/>
 [2025/05/08 - 아스날의 UCL 4강 탈락: 아르테타의 전술 실패와 재건의 필요성](https://dmomo.co.kr/389) <br/>
-[2025/05/08 - 김수현 vs 김새론 유족: AI 증거 논란과 법정공방의 진실은?](https://dmomo.co.kr/388) <br/>
-[2025/05/07 - 커리 결장에도 빛난 워리어스, NBA 플레이오프 '원정 첫승' 비결은?](https://dmomo.co.kr/387) <br/>
-[2025/05/07 - 핵전쟁 위기? 인도-파키스탄 미사일 충돌의 충격적 진실](https://dmomo.co.kr/386) <br/>
-[2025/05/07 - 숨막히는 역전극! 인테르밀란, 15년 만에 UCL 결승행 티켓 획득](https://dmomo.co.kr/385) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/05/08 - Trump’s First Trade Agreement Announcement: Shocking Deal with the UK and Its Impact on the Global Economy?](https://blog.ai.dmomo.co.kr/trend/2097) <br/>
-[2025/05/08 - 트럼프 첫 무역협정 발표, 영국과의 파격 거래 전망: 글로벌 경제 충격?](https://blog.ai.dmomo.co.kr/trend/2095) <br/>
-[2025/05/08 - PSG vs Arsenal Clash: Key to Reaching the UCL Final After 5 Years?](https://blog.ai.dmomo.co.kr/trend/2091) <br/>
-[2025/05/08 - PSG vs 아스널 격돌: 5년 만의 UCL 결승 진출 비결은?](https://blog.ai.dmomo.co.kr/trend/2089) <br/>
-[2025/05/08 - Arsenal’s UCL Semi-Final Exit: Arteta’s Tactical Failures and the Need for Rebuilding](https://blog.ai.dmomo.co.kr/trend/2086) <br/>
-[2025/05/08 - 아스날의 UCL 4강 탈락: 아르테타의 전술 실패와 재건의 필요성](https://blog.ai.dmomo.co.kr/trend/2084) <br/>
+[2025/05/09 - The First Pope from America, Leo XIV: Challenges and Expectations – Is a Wave of Change Coming?](https://blog.ai.dmomo.co.kr/trend/2117) <br/>
+[2025/05/09 - 미국 출신 첫 교황, 레오 14세의 도전과 기대: 변화의 바람이 부나?](https://blog.ai.dmomo.co.kr/trend/2115) <br/>
+[2025/05/09 - Introduction of Bitcoin ETF and Derivatives Market: A New Leap for the Korean Cryptocurrency Ecosystem](https://blog.ai.dmomo.co.kr/trend/2112) <br/>
+[2025/05/09 - 비트코인 ETF 도입과 파생상품 시장: 한국 암호화폐 생태계의 새로운 도약](https://blog.ai.dmomo.co.kr/trend/2110) <br/>
+[2025/05/09 - Manchester United’s Journey to the Europa League Final: ‘The Return of a Big Club’ with a 4-1 Victory](https://blog.ai.dmomo.co.kr/trend/2107) <br/>
+[2025/05/09 - 맨유의 유로파리그 결승행: 4-1 승리로 본 ‘빅클럽의 귀환’](https://blog.ai.dmomo.co.kr/trend/2105) <br/>
