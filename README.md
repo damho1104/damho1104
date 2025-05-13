@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/05/11 - 골든스테이트 vs 미네소타: 에드워즈의 결정적 3점슛이 바꾼 플레이오프 승부](http://dmomo.co.kr/403) <br/>
-[2025/05/11 - 멕시코 축구의 심장을 뛰게 하는 Am&eacute;rica vs. Pachuca 클래식 매치](http://dmomo.co.kr/402) <br/>
-[2025/05/11 - 김민재의 철벽수비로 2년 만에 우승한 뮌헨, 그러나 인종차별 논란은?](http://dmomo.co.kr/401) <br/>
-[2025/05/11 - 2025년 개발자 최애 노트북은? MacBook Pro vs Dell XPS 비교 가이드](http://dmomo.co.kr/400) <br/>
-[2025/05/11 - 하무스의 해트트릭과 이강인의 고민, PSG의 4-1 승리 분석](http://dmomo.co.kr/399) <br/>
-[2025/05/11 - 지금 일어난 지진 알아보는 법: 실시간 정보 확인 6가지 꿀팁](http://dmomo.co.kr/398) <br/>
+[2025/05/12 - 35세 초선 김용태, 국민의힘 쇄신 이끌 수 있을까?](https://dmomo.co.kr/409) <br/>
+[2025/05/12 - 리버풀 vs 아스널 2-2 대혈전: 우승과 톱4의 운명이 교차한 90분](https://dmomo.co.kr/408) <br/>
+[2025/05/12 - 충격의 올드 트래퍼드: 맨유, 웨스트햄에 0-2 패배로 16위 추락](https://dmomo.co.kr/407) <br/>
+[2025/05/12 - 엘 클라시코 4-3 대역전극: 바르셀로나, 7점 차 선두 굳히기 성공](https://dmomo.co.kr/406) <br/>
+[2025/05/12 - 사부(Sabu)의 미스터리: 숨겨진 의미와 다양한 해석 5가지](https://dmomo.co.kr/405) <br/>
+[2025/05/12 - 손흥민 복귀에도 충격패! 토트넘, EPL 17위로 추락하나?](https://dmomo.co.kr/404) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/05/11 - Golden State vs Minnesota: How Edwards’ Clutch Three-Pointer Changed the Playoff Battle](https://blog.ai.dmomo.co.kr/trend/2165) <br/>
-[2025/05/11 - 골든스테이트 vs 미네소타: 에드워즈의 결정적 3점슛이 바꾼 플레이오프 승부](https://blog.ai.dmomo.co.kr/trend/2163) <br/>
-[2025/05/11 - The Classic Match that Drives the Heart of Mexican Soccer: América vs. Pachuca](https://blog.ai.dmomo.co.kr/trend/2160) <br/>
-[2025/05/11 - 멕시코 축구의 심장을 뛰게 하는 América vs. Pachuca 클래식 매치](https://blog.ai.dmomo.co.kr/trend/2158) <br/>
-[2025/05/11 - Bayern Munich Wins After Two Years, Thanks to Kim Min-Jae’s Solid Defense, But Controversy of Racism Arises?](https://blog.ai.dmomo.co.kr/trend/2155) <br/>
-[2025/05/11 - 김민재의 철벽수비로 2년 만에 우승한 뮌헨, 그러나 인종차별 논란은?](https://blog.ai.dmomo.co.kr/trend/2153) <br/>
+[2025/05/12 - Can 35-Year-Old Rookie Kim Yong-tae Lead the Reform of the People Power Party?](https://blog.ai.dmomo.co.kr/trend/2195) <br/>
+[2025/05/12 - 35세 초선 김용태, 국민의힘 쇄신 이끌 수 있을까?](https://blog.ai.dmomo.co.kr/trend/2193) <br/>
+[2025/05/12 - Liverpool vs Arsenal 2-2 Thrilling Clash: A 90 Minutes Where Championship and Top 4 Destiny Collide](https://blog.ai.dmomo.co.kr/trend/2190) <br/>
+[2025/05/12 - 리버풀 vs 아스널 2-2 대혈전: 우승과 톱4의 운명이 교차한 90분](https://blog.ai.dmomo.co.kr/trend/2188) <br/>
+[2025/05/12 - Shocking Old Trafford: Man Utd Falls to 0-2 Defeat Against West Ham, Drops to 16th Place](https://blog.ai.dmomo.co.kr/trend/2185) <br/>
+[2025/05/12 - 충격의 올드 트래퍼드: 맨유, 웨스트햄에 0-2 패배로 16위 추락](https://blog.ai.dmomo.co.kr/trend/2183) <br/>
