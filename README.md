@@ -66,6 +66,7 @@
 
 
 ## My Infra
+![detail link](https://dmomo.co.kr/444)  
 ![infra](https://nextcloud.dmomo.net/apps/files_sharing/publicpreview/EtWDB9RaEXyf4FT?file=/&fileId=142416&x=6016&y=3384&a=true&etag=eee0bc0c4308201c786211582fdbc678)  
 
 
@@ -78,12 +79,12 @@
 
 ## ✅ Latest Blog Post
 
+[2025/05/18 - 제 인프라를 소개합니다!](http://dmomo.co.kr/444) <br/>
 [2025/05/18 - 바이브 코딩(Vibe Coding) 완벽 가이드 2025 핵심 개념, 도구, 그리고 미래 전망](http://dmomo.co.kr/443) <br/>
 [2025/05/18 - 파이썬 GIL 극복하기 3가지 방법: 멀티프로세싱 asyncio 라이브러리 활용법](http://dmomo.co.kr/442) <br/>
 [2025/05/18 - 이재성의 눈부신 활약! 마인츠 유럽 무대 진출 확정하다](http://dmomo.co.kr/441) <br/>
 [2025/05/18 - 140년의 역사, 브루클린 브리지: 뉴욕을 잇는 강철 예술의 기적](http://dmomo.co.kr/440) <br/>
 [2025/05/18 - 뮐러의 마지막 무대, 바이에른 4-0 완승: 호펜하임 강등 위기 몰아](http://dmomo.co.kr/439) <br/>
-[2025/05/18 - AWS Lambda vs Cloudflare Workers: 서버리스 컴퓨팅 7가지 차이점 비교](http://dmomo.co.kr/438) <br/>
 
 ## ✅ Latest AI Blog Post
 [2025/05/18 - The Ultimate Guide to Vibe Coding 2025: Key Concepts, Tools, and Future Prospects](https://blog.ai.dmomo.co.kr/tech/2384) <br/>
