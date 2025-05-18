@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/05/17 - 플로레스의 3홈런 쇼! 이정후 5경기 연속 안타, 자이언츠 8-1 대승](http://dmomo.co.kr/434) <br/>
+[2025/05/17 - 세인트루이스 토네이도의 역사와 현대적 대응: 과거의 교훈, 미래의 준비](http://dmomo.co.kr/433) <br/>
+[2025/05/17 - 쿠쿠렐라의 결승골로 첼시, 맨유에 1-0 승: 챔스 진출 확정!](http://dmomo.co.kr/432) <br/>
+[2025/05/17 - 스탠리 큐브릭: 장르의 경계를 넘나든 영화계의 혁명가](http://dmomo.co.kr/431) <br/>
 [2025/05/16 - 손흥민 협박 사건의 충격적 진실: 3억원 허위 임신 협박의 전말](http://dmomo.co.kr/430) <br/>
 [2025/05/16 - FBI와 트럼프의 충돌: 제임스 코미의 논란과 정치적 유산](http://dmomo.co.kr/429) <br/>
-[2025/05/16 - 극한의 날씨 경보: 심각한 뇌우로부터 당신의 안전을 지키는 필수 가이드](http://dmomo.co.kr/428) <br/>
-[2025/05/16 - 바르셀로나, 2년 만에 라리가 우승 확정! 야말의 원맨쇼로 에스파뇰 제압](http://dmomo.co.kr/427) <br/>
-[2025/05/16 - 토네이도 워치란? 생명을 구하는 6가지 핵심 포인트 총정리](http://dmomo.co.kr/426) <br/>
-[2025/05/15 - 충격적인 3세 아들 익사 사고, 에밀리 키저 가족의 비극과 수영장 안전 교훈](http://dmomo.co.kr/425) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/05/16 - The Shocking Truth Behind the Son Heung-min Blackmail Case: The Chronicles of a 300 Million Won False Pregnancy Threat](https://blog.ai.dmomo.co.kr/trend/2315) <br/>
-[2025/05/16 - Collision Between the FBI and Trump: The Controversy of James Comey and His Political Legacy](https://blog.ai.dmomo.co.kr/trend/2313) <br/>
-[2025/05/16 - 손흥민 협박 사건의 충격적 진실: 3억원 허위 임신 협박의 전말](https://blog.ai.dmomo.co.kr/trend/2311) <br/>
-[2025/05/16 - FBI와 트럼프의 충돌: 제임스 코미의 논란과 정치적 유산](https://blog.ai.dmomo.co.kr/trend/2309) <br/>
-[2025/05/16 - Extreme Weather Alert: Essential Guide to Keeping Safe from Severe Thunderstorms](https://blog.ai.dmomo.co.kr/trend/2305) <br/>
-[2025/05/16 - 극한의 날씨 경보: 심각한 뇌우로부터 당신의 안전을 지키는 필수 가이드](https://blog.ai.dmomo.co.kr/trend/2303) <br/>
+[2025/05/18 - 역사적 승리! 크리스털 팰리스, 120년 만에 FA컵 우승 – 맨시티 격파](https://blog.ai.dmomo.co.kr/trend/2347) <br/>
+[2025/05/18 - IT 서비스 강자의 반전: 포스코DX, 브랜드평판 1위로 시장 판도 바꾸나?](https://blog.ai.dmomo.co.kr/ai/2343) <br/>
+[2025/05/17 - “Flores’ 3 Home Run Show! Lee Jung-hoo Hits Safely in 5 Consecutive Games, Giants Win 8-1”](https://blog.ai.dmomo.co.kr/trend/2340) <br/>
+[2025/05/17 - 플로레스의 3홈런 쇼! 이정후 5경기 연속 안타, 자이언츠 8-1 대승](https://blog.ai.dmomo.co.kr/trend/2338) <br/>
+[2025/05/17 - The History of Tornadoes in St. Louis and Modern Responses: Lessons from the Past, Preparing for the Future](https://blog.ai.dmomo.co.kr/trend/2335) <br/>
+[2025/05/17 - 세인트루이스 토네이도의 역사와 현대적 대응: 과거의 교훈, 미래의 준비](https://blog.ai.dmomo.co.kr/trend/2333) <br/>
