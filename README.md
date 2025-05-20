@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/05/18 - 제 인프라를 소개합니다!](http://dmomo.co.kr/444) <br/>
-[2025/05/18 - 바이브 코딩(Vibe Coding) 완벽 가이드 2025 핵심 개념, 도구, 그리고 미래 전망](http://dmomo.co.kr/443) <br/>
-[2025/05/18 - 파이썬 GIL 극복하기 3가지 방법: 멀티프로세싱 asyncio 라이브러리 활용법](http://dmomo.co.kr/442) <br/>
-[2025/05/18 - 이재성의 눈부신 활약! 마인츠 유럽 무대 진출 확정하다](http://dmomo.co.kr/441) <br/>
-[2025/05/18 - 140년의 역사, 브루클린 브리지: 뉴욕을 잇는 강철 예술의 기적](http://dmomo.co.kr/440) <br/>
-[2025/05/18 - 뮐러의 마지막 무대, 바이에른 4-0 완승: 호펜하임 강등 위기 몰아](http://dmomo.co.kr/439) <br/>
+[2025/05/19 - SKT 해킹 사태의 충격: 2,700만 유심 정보 유출과 국가안보 위협의 실체](https://dmomo.co.kr/451) <br/>
+[2025/05/19 - 시흥 충격사건: 흉기난동과 산업재해로 3명 사망, 안전 우려 확산](https://dmomo.co.kr/450) <br/>
+[2025/05/19 - 노란봉투법의 진실: 노동권 강화와 기업 부담 사이의 숨겨진 갈등](https://dmomo.co.kr/449) <br/>
+[2025/05/19 - 아스널의 짜릿한 1-0 승: 라이스의 결승골로 챔스 티켓 확보](https://dmomo.co.kr/448) <br/>
+[2025/05/19 - 바르셀로나의 역설: 리그 우승 속 '달콤 쌉싸름' 3-2 패배, 비야레알 UCL 꿈 살리다](https://dmomo.co.kr/447) <br/>
+[2025/05/19 - 권영국 vs 김문수: 2025 대선 토론서 '쿠데타 연루' 논란 격돌](https://dmomo.co.kr/446) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/05/18 - The Ultimate Guide to Vibe Coding 2025: Key Concepts, Tools, and Future Prospects](https://blog.ai.dmomo.co.kr/tech/2384) <br/>
-[2025/05/18 - 바이브 코딩(Vibe Coding) 완벽 가이드 2025 핵심 개념, 도구, 그리고 미래 전망](https://blog.ai.dmomo.co.kr/tech/2382) <br/>
-[2025/05/18 - Overcoming Python GIL: 3 Methods Using Multiprocessing and Asyncio Libraries](https://blog.ai.dmomo.co.kr/tech/2379) <br/>
-[2025/05/18 - 파이썬 GIL 극복하기 3가지 방법 멀티프로세싱 asyncio 라이브러리 활용법](https://blog.ai.dmomo.co.kr/tech/2377) <br/>
-[2025/05/18 - Lee Jae-sung’s Dazzling Performance! Mainz Secures European Stage Qualification](https://blog.ai.dmomo.co.kr/trend/2374) <br/>
-[2025/05/18 - 이재성의 눈부신 활약! 마인츠 유럽 무대 진출 확정하다](https://blog.ai.dmomo.co.kr/trend/2372) <br/>
+[2025/05/19 - The Shock of the SKT Hacking Incident: The Reality of 27 Million SIM Card Information Leak and National Security Threats](https://blog.ai.dmomo.co.kr/trend/2419) <br/>
+[2025/05/19 - SKT 해킹 사태의 충격: 2,700만 유심 정보 유출과 국가안보 위협의 실체](https://blog.ai.dmomo.co.kr/trend/2417) <br/>
+[2025/05/19 - Siheung Shocking Incident: Stabbing Rampage and Industrial Accident Leave 3 Dead, Safety Concerns Widespread](https://blog.ai.dmomo.co.kr/trend/2414) <br/>
+[2025/05/19 - 시흥 충격사건: 흉기난동과 산업재해로 3명 사망, 안전 우려 확산](https://blog.ai.dmomo.co.kr/trend/2412) <br/>
+[2025/05/19 - The Truth About the Yellow Envelope Law: The Hidden Conflict Between Labor Rights Enhancement and Corporate Burden](https://blog.ai.dmomo.co.kr/trend/2409) <br/>
+[2025/05/19 - 노란봉투법의 진실: 노동권 강화와 기업 부담 사이의 숨겨진 갈등](https://blog.ai.dmomo.co.kr/trend/2407) <br/>
