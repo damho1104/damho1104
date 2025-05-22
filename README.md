@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/05/20 - LG vs 롯데: '엘롯기'에서 글로벌 리더로, KBO의 두 거인의 재도약 스토리](http://dmomo.co.kr/456) <br/>
-[2025/05/20 - 딜버트의 아버지, 스콧 애덤스: 기업 풍자의 대가와 그의 논란의 여정](http://dmomo.co.kr/455) <br/>
-[2025/05/20 - 충격의 시흥 살인마: 차철남의 '분노의 칼날'이 남긴 4명의 희생자](http://dmomo.co.kr/454) <br/>
-[2025/05/20 - 아메리칸 아이돌 2025의 떠오르는 별, Jamal Roberts의 '힐링' 무대](http://dmomo.co.kr/453) <br/>
-[2025/05/20 - 미토마의 역전골로 본 브라이튼의 대이변: 리버풀 꺾고 EPL 8위 굳히기](http://dmomo.co.kr/452) <br/>
-[2025/05/19 - SKT 해킹 사태의 충격: 2,700만 유심 정보 유출과 국가안보 위협의 실체](http://dmomo.co.kr/451) <br/>
+[2025/05/21 - 토트넘 vs 맨유 UEL 결승전: 손흥민의 무관 탈출 vs 맨유의 재기 대결](https://dmomo.co.kr/460) <br/>
+[2025/05/21 - 이영돈 PD의 충격 고발: 부정선거의 실체와 윤석열의 첫 공개 행보](https://dmomo.co.kr/459) <br/>
+[2025/05/21 - 노름! 노름! 노름! Cheers의 전설, 조지 웬트를 아시나요?](https://dmomo.co.kr/458) <br/>
+[2025/05/21 - 역전승의 주역 은케티아, 3연패 울브스의 수비 불안 드러낸 4-2 팰리스 승리](https://dmomo.co.kr/457) <br/>
+[2025/05/20 - LG vs 롯데: '엘롯기'에서 글로벌 리더로, KBO의 두 거인의 재도약 스토리](https://dmomo.co.kr/456) <br/>
+[2025/05/20 - 딜버트의 아버지, 스콧 애덤스: 기업 풍자의 대가와 그의 논란의 여정](https://dmomo.co.kr/455) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/05/20 - LG vs Lotte: The Rebirth Stories of Two Giants in KBO, Rising to Global Leadership from ‘El롯기’](https://blog.ai.dmomo.co.kr/trend/2444) <br/>
-[2025/05/20 - LG vs 롯데: ‘엘롯기’에서 글로벌 리더로, KBO의 두 거인의 재도약 스토리](https://blog.ai.dmomo.co.kr/trend/2442) <br/>
-[2025/05/20 - Dilbert’s Father, Scott Adams: The Master of Business Satire and His Controversial Journey](https://blog.ai.dmomo.co.kr/trend/2439) <br/>
-[2025/05/20 - 딜버트의 아버지, 스콧 애덤스: 기업 풍자의 대가와 그의 논란의 여정](https://blog.ai.dmomo.co.kr/trend/2437) <br/>
-[2025/05/20 - The Shocking Siheung Killer: The ‘Blade of Rage’ of Cha Cheol-nam and His 4 Victims](https://blog.ai.dmomo.co.kr/trend/2434) <br/>
-[2025/05/20 - 충격의 시흥 살인마: 차철남의 ‘분노의 칼날’이 남긴 4명의 희생자](https://blog.ai.dmomo.co.kr/trend/2432) <br/>
+[2025/05/21 - Shocking Exposé by PD Lee Yong-don: The Reality of Fraudulent Elections and Yoon Suk-yeol’s First Public Appearance](https://blog.ai.dmomo.co.kr/trend/2464) <br/>
+[2025/05/21 - 이영돈 PD의 충격 고발: 부정선거의 실체와 윤석열의 첫 공개 행보](https://blog.ai.dmomo.co.kr/trend/2462) <br/>
+[2025/05/21 - Tottenham vs Manchester United UEL Final: Son Heung-min’s Quest to Break the Winless Streak vs Manchester United’s Comeback Battle](https://blog.ai.dmomo.co.kr/trend/2459) <br/>
+[2025/05/21 - 토트넘 vs 맨유 UEL 결승전: 손흥민의 무관 탈출 vs 맨유의 재기 대결](https://blog.ai.dmomo.co.kr/trend/2457) <br/>
+[2025/05/21 - Gambling! Gambling! Gambling! Do You Know the Legend of George Wendt from Cheers?](https://blog.ai.dmomo.co.kr/trend/2454) <br/>
+[2025/05/21 - Eddie Nketiah: Hero of the Comeback Victory, Palace’s 4-2 Win Exposes Wolves’ Defensive Issues Amidst Three-Game Losing Streak](https://blog.ai.dmomo.co.kr/trend/2452) <br/>
