@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/05/22 - 손흥민의 영광과 도전: 유럽 최초 아시아 우승 주장의 15년 집념 스토리](http://dmomo.co.kr/465) <br/>
-[2025/05/22 - [인프라 / Docker] 워크플로우 자동화 도구 n8n](http://dmomo.co.kr/464) <br/>
-[2025/05/22 - NFL 충격: 콜츠 구단주 지미 어세이, 65세 나이로 갑작스런 별세](http://dmomo.co.kr/463) <br/>
-[2025/05/22 - 구글 I/O 2025 핵심 발표: AI 멀티모달 기술의 미래는?](http://dmomo.co.kr/462) <br/>
-[2025/05/22 - 토트넘의 15년 전설, 손흥민의 꿈: UEL 결승 1-0 승리의 비하인드](http://dmomo.co.kr/461) <br/>
-[2025/05/21 - 토트넘 vs 맨유 UEL 결승전: 손흥민의 무관 탈출 vs 맨유의 재기 대결](http://dmomo.co.kr/460) <br/>
+[2025/05/24 - Claude 4, 프로그래밍 AI의 새로운 패러다임 제시! Opus4 vs Sonnet4, 무엇이 다른가?](http://dmomo.co.kr/471) <br/>
+[2025/05/23 - 롯데 vs 한화: 스포츠, 기업, 정치 분야의 3대 승부처 분석](http://dmomo.co.kr/470) <br/>
+[2025/05/23 - 나상현씨밴드 성추행 논란: 팬들의 충격과 예술가의 책임](http://dmomo.co.kr/469) <br/>
+[2025/05/23 - 음악계와 하늘을 누빈 거장의 마지막 비행: Dave Shapiro의 유산과 그 영향](http://dmomo.co.kr/468) <br/>
+[2025/05/23 - 산 디에고 항공기 사고 분석: 안전을 위협하는 3가지 위험 요인과 대책](http://dmomo.co.kr/467) <br/>
+[2025/05/23 - 충격적 반전: 손학규, 김문수 지지 선언의 숨겨진 이유와 정치 판도 변화](http://dmomo.co.kr/466) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/05/22 - Son Heung-min’s Glory and Challenge: The 15-Year Journey of Asia’s First European Championship Captain](https://blog.ai.dmomo.co.kr/trend/2489) <br/>
-[2025/05/22 - 손흥민의 영광과 도전: 유럽 최초 아시아 우승 주장의 15년 집념 스토리](https://blog.ai.dmomo.co.kr/trend/2487) <br/>
-[2025/05/22 - NFL Shock: Colts Owner Jim Irsay Passes Away Suddenly at Age 65](https://blog.ai.dmomo.co.kr/trend/2484) <br/>
-[2025/05/22 - NFL 충격: 콜츠 구단주 지미 어세이, 65세 나이로 갑작스런 별세](https://blog.ai.dmomo.co.kr/trend/2482) <br/>
-[2025/05/22 - Google I/O 2025 Keynote: What is the Future of AI Multimodal Technology?](https://blog.ai.dmomo.co.kr/tech/2479) <br/>
-[2025/05/22 - 구글 I/O 2025 핵심 발표: AI 멀티모달 기술의 미래는?](https://blog.ai.dmomo.co.kr/tech/2477) <br/>
+[2025/05/23 - Claude 4: A New Paradigm for Programming AI! Opus4 vs Sonnet4, What’s the Difference?](https://blog.ai.dmomo.co.kr/tech/2519) <br/>
+[2025/05/23 - Claude 4, 프로그래밍 AI의 새로운 패러다임 제시! Opus4 vs Sonnet4, 무엇이 다른가?](https://blog.ai.dmomo.co.kr/tech/2517) <br/>
+[2025/05/23 - Lotte vs Hanwha: Analyzing the Three Key Battlegrounds in Sports, Business, and Politics](https://blog.ai.dmomo.co.kr/trend/2514) <br/>
+[2025/05/23 - 롯데 vs 한화: 스포츠, 기업, 정치 분야의 3대 승부처 분석](https://blog.ai.dmomo.co.kr/trend/2512) <br/>
+[2025/05/23 - Nasanghyun Band’s Sexual Harassment Controversy: Fans’ Shock and the Artist’s Responsibility](https://blog.ai.dmomo.co.kr/trend/2509) <br/>
+[2025/05/23 - The Final Flight of a Maestro Soaring Through Music: The Legacy and Impact of Dave Shapiro](https://blog.ai.dmomo.co.kr/trend/2507) <br/>
