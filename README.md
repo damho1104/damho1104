@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/05/24 - 이정후의 맹활약, 자이언츠 4-0 완승으로 30승 고지 달성!](http://dmomo.co.kr/475) <br/>
+[2025/05/24 - 로스트아크 모바일: 원작의 핵심을 품은 모바일 RPG의 진화, 그 모든 것](http://dmomo.co.kr/474) <br/>
+[2025/05/24 - 와이스의 11K 완투쇼로 한화, 롯데 제압하고 단독 2위 등극](http://dmomo.co.kr/473) <br/>
+[2025/05/24 - 충격! '피아노맨' 빌리 조엘, 뇌질환으로 50년 음악 인생 중단](http://dmomo.co.kr/472) <br/>
 [2025/05/24 - Claude 4, 프로그래밍 AI의 새로운 패러다임 제시! Opus4 vs Sonnet4, 무엇이 다른가?](http://dmomo.co.kr/471) <br/>
 [2025/05/23 - 롯데 vs 한화: 스포츠, 기업, 정치 분야의 3대 승부처 분석](http://dmomo.co.kr/470) <br/>
-[2025/05/23 - 나상현씨밴드 성추행 논란: 팬들의 충격과 예술가의 책임](http://dmomo.co.kr/469) <br/>
-[2025/05/23 - 음악계와 하늘을 누빈 거장의 마지막 비행: Dave Shapiro의 유산과 그 영향](http://dmomo.co.kr/468) <br/>
-[2025/05/23 - 산 디에고 항공기 사고 분석: 안전을 위협하는 3가지 위험 요인과 대책](http://dmomo.co.kr/467) <br/>
-[2025/05/23 - 충격적 반전: 손학규, 김문수 지지 선언의 숨겨진 이유와 정치 판도 변화](http://dmomo.co.kr/466) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/05/23 - Claude 4: A New Paradigm for Programming AI! Opus4 vs Sonnet4, What’s the Difference?](https://blog.ai.dmomo.co.kr/tech/2519) <br/>
-[2025/05/23 - Claude 4, 프로그래밍 AI의 새로운 패러다임 제시! Opus4 vs Sonnet4, 무엇이 다른가?](https://blog.ai.dmomo.co.kr/tech/2517) <br/>
-[2025/05/23 - Lotte vs Hanwha: Analyzing the Three Key Battlegrounds in Sports, Business, and Politics](https://blog.ai.dmomo.co.kr/trend/2514) <br/>
-[2025/05/23 - 롯데 vs 한화: 스포츠, 기업, 정치 분야의 3대 승부처 분석](https://blog.ai.dmomo.co.kr/trend/2512) <br/>
-[2025/05/23 - Nasanghyun Band’s Sexual Harassment Controversy: Fans’ Shock and the Artist’s Responsibility](https://blog.ai.dmomo.co.kr/trend/2509) <br/>
-[2025/05/23 - The Final Flight of a Maestro Soaring Through Music: The Legacy and Impact of Dave Shapiro](https://blog.ai.dmomo.co.kr/trend/2507) <br/>
+[2025/05/25 - K-DEVCON 가이드북: IT 개발자 성장의 열쇠, 어떤 비밀이 담겼나?](https://blog.ai.dmomo.co.kr/ai/2550) <br/>
+[2025/05/24 - Lee Jung-hoo’s Stellar Performance Leads Giants to a 4-0 Victory, Achieving 30 Wins!](https://blog.ai.dmomo.co.kr/trend/2547) <br/>
+[2025/05/24 - 이정후의 맹활약, 자이언츠 4-0 완승으로 30승 고지 달성!](https://blog.ai.dmomo.co.kr/trend/2545) <br/>
+[2025/05/24 - Lost Ark Mobile: The Evolution of a Mobile RPG that Embodies the Essence of the Original](https://blog.ai.dmomo.co.kr/trend/2542) <br/>
+[2025/05/24 - 로스트아크 모바일: 원작의 핵심을 품은 모바일 RPG의 진화, 그 모든 것](https://blog.ai.dmomo.co.kr/trend/2540) <br/>
+[2025/05/24 - Shocking! ‘Piano Man’ Billy Joel Halts 50-Year Music Career Due to Brain Disease](https://blog.ai.dmomo.co.kr/trend/2537) <br/>
