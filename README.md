@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
+[2025/05/25 - 레알 마드리드-레알 소시에다드 분석: 음바페 더블로 화려한 모드리치 작별전](http://dmomo.co.kr/478) <br/>
+[2025/05/25 - PSG, 프랑스컵 16번째 우승으로 국내 더블 달성! UCL 4관왕 도전](http://dmomo.co.kr/477) <br/>
+[2025/05/25 - K-DEVCON 가이드북: IT 개발자 성장의 열쇠, 어떤 비밀이 담겼나?](http://dmomo.co.kr/476) <br/>
 [2025/05/24 - 이정후의 맹활약, 자이언츠 4-0 완승으로 30승 고지 달성!](http://dmomo.co.kr/475) <br/>
 [2025/05/24 - 로스트아크 모바일: 원작의 핵심을 품은 모바일 RPG의 진화, 그 모든 것](http://dmomo.co.kr/474) <br/>
 [2025/05/24 - 와이스의 11K 완투쇼로 한화, 롯데 제압하고 단독 2위 등극](http://dmomo.co.kr/473) <br/>
-[2025/05/24 - 충격! '피아노맨' 빌리 조엘, 뇌질환으로 50년 음악 인생 중단](http://dmomo.co.kr/472) <br/>
-[2025/05/24 - Claude 4, 프로그래밍 AI의 새로운 패러다임 제시! Opus4 vs Sonnet4, 무엇이 다른가?](http://dmomo.co.kr/471) <br/>
-[2025/05/23 - 롯데 vs 한화: 스포츠, 기업, 정치 분야의 3대 승부처 분석](http://dmomo.co.kr/470) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/05/25 - K-DEVCON 가이드북: IT 개발자 성장의 열쇠, 어떤 비밀이 담겼나?](https://blog.ai.dmomo.co.kr/ai/2550) <br/>
-[2025/05/24 - Lee Jung-hoo’s Stellar Performance Leads Giants to a 4-0 Victory, Achieving 30 Wins!](https://blog.ai.dmomo.co.kr/trend/2547) <br/>
-[2025/05/24 - 이정후의 맹활약, 자이언츠 4-0 완승으로 30승 고지 달성!](https://blog.ai.dmomo.co.kr/trend/2545) <br/>
-[2025/05/24 - Lost Ark Mobile: The Evolution of a Mobile RPG that Embodies the Essence of the Original](https://blog.ai.dmomo.co.kr/trend/2542) <br/>
-[2025/05/24 - 로스트아크 모바일: 원작의 핵심을 품은 모바일 RPG의 진화, 그 모든 것](https://blog.ai.dmomo.co.kr/trend/2540) <br/>
-[2025/05/24 - Shocking! ‘Piano Man’ Billy Joel Halts 50-Year Music Career Due to Brain Disease](https://blog.ai.dmomo.co.kr/trend/2537) <br/>
+[2025/05/25 - Lotto 1173: 24 Winners of the Grand Prize! Automatic vs. Manual – Analyzing Winning Secrets by Region](https://blog.ai.dmomo.co.kr/trend/2565) <br/>
+[2025/05/25 - 1173회 로또 1등 24명 대박! 자동VS수동 승자는? 지역별 당첨 비결 분석](https://blog.ai.dmomo.co.kr/trend/2563) <br/>
+[2025/05/25 - Real Madrid vs Real Sociedad Analysis: A Glamorous Farewell for Modric with a Double from Mbappe](https://blog.ai.dmomo.co.kr/trend/2560) <br/>
+[2025/05/25 - 레알 마드리드-레알 소시에다드 분석: 음바페 더블로 화려한 모드리치 작별전](https://blog.ai.dmomo.co.kr/trend/2558) <br/>
+[2025/05/25 - PSG Achieves Domestic Double with 16th French Cup Victory! Now Aiming for 4th UCL Title](https://blog.ai.dmomo.co.kr/trend/2556) <br/>
+[2025/05/25 - PSG, 프랑스컵 16번째 우승으로 국내 더블 달성! UCL 4관왕 도전](https://blog.ai.dmomo.co.kr/trend/2554) <br/>
