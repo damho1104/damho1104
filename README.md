@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/05/27 - 테일러 스위프트의 2025 AMA 불참: 최다 후보의 전략적 선택?](http://dmomo.co.kr/488) <br/>
-[2025/05/27 - 배우 최정우의 마지막 무대: 68세 별세, 우울증 극복 못한 '주군의 태양' 스타](http://dmomo.co.kr/487) <br/>
-[2025/05/27 - 충격! 브리짓 마크롱, 남편 에마뉘엘에게 '슈플라크'? 그 비하인드 스토리](http://dmomo.co.kr/486) <br/>
-[2025/05/27 - 덕 다이너스티의 아이콘, 필 로버트슨: 논란과 신념 사이의 인생 여정](http://dmomo.co.kr/485) <br/>
-[2025/05/27 - 고민시 학폭 의혹, 소속사 '허위' 강력 부인...법적 대응 나서](http://dmomo.co.kr/484) <br/>
-[2025/05/26 - 젠스파크 AI: 전문가용 콘텐츠 플랫폼의 핵심 기능과 활용 전략은?](http://dmomo.co.kr/483) <br/>
+[2025/05/28 - 이재명 아들 논란: 정치 공방부터 여성 인권까지, 5가지 쟁점 총정리](https://dmomo.co.kr/493) <br/>
+[2025/05/28 - 충격적인 '젓가락 발언'의 진실: 이준석의 도발과 정치 토론의 미래](https://dmomo.co.kr/492) <br/>
+[2025/05/28 - 카리나의 빨간 점퍼, 정치 논란인가 패션 선택인가? - 대선 앞둔 연예계 이슈](https://dmomo.co.kr/491) <br/>
+[2025/05/28 - 충격! 리얼리티 TV 스타 Todd Chrisley의 12년 형 선고, 그 뒤에 숨겨진 진실은?](https://dmomo.co.kr/490) <br/>
+[2025/05/28 - 이재명 '젓가락 발언' 논란: 대선 토론장을 뒤흔든 성차별 논란의 진실](https://dmomo.co.kr/489) <br/>
+[2025/05/27 - 테일러 스위프트의 2025 AMA 불참: 최다 후보의 전략적 선택?](https://dmomo.co.kr/488) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/05/27 - Taylor Swift’s 2025 AMA Absence: A Strategic Choice for Most Nominations?](https://blog.ai.dmomo.co.kr/trend/2620) <br/>
-[2025/05/27 - The Final Stage of Actor Choi Jung-woo: 68 Years Old at Passing, ‘The Master’s Sun’ Star Who Couldn’t Overcome Depression](https://blog.ai.dmomo.co.kr/trend/2618) <br/>
-[2025/05/27 - 테일러 스위프트의 2025 AMA 불참: 최다 후보의 전략적 선택?](https://blog.ai.dmomo.co.kr/trend/2616) <br/>
-[2025/05/27 - 배우 최정우의 마지막 무대: 68세 별세, 우울증 극복 못한 ‘주군의 태양’ 스타](https://blog.ai.dmomo.co.kr/trend/2614) <br/>
-[2025/05/27 - Shocking! Brigitte Macron Calls Her Husband Emmanuel ‘Shuplark’? The Behind-the-Scenes Story](https://blog.ai.dmomo.co.kr/trend/2610) <br/>
-[2025/05/27 - 충격! 브리짓 마크롱, 남편 에마뉘엘에게 ‘슈플라크’? 그 비하인드 스토리](https://blog.ai.dmomo.co.kr/trend/2608) <br/>
+[2025/05/28 - Lee Jae-myung’s Son Controversy: A Comprehensive Overview of 5 Key Issues from Political Disputes to Women’s Rights](https://blog.ai.dmomo.co.kr/trend/2645) <br/>
+[2025/05/28 - 이재명 아들 논란: 정치 공방부터 여성 인권까지, 5가지 쟁점 총정리](https://blog.ai.dmomo.co.kr/trend/2643) <br/>
+[2025/05/28 - The Shocking Truth Behind the ‘Chopstick Remarks’: Lee Jun-seok’s Provocation and the Future of Political Debate](https://blog.ai.dmomo.co.kr/trend/2640) <br/>
+[2025/05/28 - 충격적인 ‘젓가락 발언’의 진실: 이준석의 도발과 정치 토론의 미래](https://blog.ai.dmomo.co.kr/trend/2638) <br/>
+[2025/05/28 - Karina’s Red Jumper: Political Controversy or Fashion Choice? – Issues in the Entertainment Industry Ahead of the Election](https://blog.ai.dmomo.co.kr/trend/2635) <br/>
+[2025/05/28 - 카리나의 빨간 점퍼, 정치 논란인가 패션 선택인가? – 대선 앞둔 연예계 이슈](https://blog.ai.dmomo.co.kr/trend/2633) <br/>
