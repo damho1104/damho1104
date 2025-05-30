@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/05/28 - 이재명 아들 논란: 정치 공방부터 여성 인권까지, 5가지 쟁점 총정리](https://dmomo.co.kr/493) <br/>
-[2025/05/28 - 충격적인 '젓가락 발언'의 진실: 이준석의 도발과 정치 토론의 미래](https://dmomo.co.kr/492) <br/>
-[2025/05/28 - 카리나의 빨간 점퍼, 정치 논란인가 패션 선택인가? - 대선 앞둔 연예계 이슈](https://dmomo.co.kr/491) <br/>
-[2025/05/28 - 충격! 리얼리티 TV 스타 Todd Chrisley의 12년 형 선고, 그 뒤에 숨겨진 진실은?](https://dmomo.co.kr/490) <br/>
-[2025/05/28 - 이재명 '젓가락 발언' 논란: 대선 토론장을 뒤흔든 성차별 논란의 진실](https://dmomo.co.kr/489) <br/>
-[2025/05/27 - 테일러 스위프트의 2025 AMA 불참: 최다 후보의 전략적 선택?](https://dmomo.co.kr/488) <br/>
+[2025/05/29 - P-3CK 추락 사고에 가려진 해군 항공전력의 미래: 노후화와 안전성의 딜레마](http://dmomo.co.kr/498) <br/>
+[2025/05/29 - 강해림의 숨겨진 이야기: 미스코리아에서 16살 연하 연인까지](http://dmomo.co.kr/497) <br/>
+[2025/05/29 - 역대 최고 21대 대선 사전투표율, 그 의미와 전망은?](http://dmomo.co.kr/496) <br/>
+[2025/05/29 - 라리 후버: 갱스터에서 개혁가로? 미국 최대 갱단의 숨겨진 이야기](http://dmomo.co.kr/495) <br/>
+[2025/05/29 - ASEAN 올스타의 충격적 1-0 승: 맨유 꺾은 동남아 축구의 새 역사](http://dmomo.co.kr/494) <br/>
+[2025/05/28 - 이재명 아들 논란: 정치 공방부터 여성 인권까지, 5가지 쟁점 총정리](http://dmomo.co.kr/493) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/05/28 - Lee Jae-myung’s Son Controversy: A Comprehensive Overview of 5 Key Issues from Political Disputes to Women’s Rights](https://blog.ai.dmomo.co.kr/trend/2645) <br/>
-[2025/05/28 - 이재명 아들 논란: 정치 공방부터 여성 인권까지, 5가지 쟁점 총정리](https://blog.ai.dmomo.co.kr/trend/2643) <br/>
-[2025/05/28 - The Shocking Truth Behind the ‘Chopstick Remarks’: Lee Jun-seok’s Provocation and the Future of Political Debate](https://blog.ai.dmomo.co.kr/trend/2640) <br/>
-[2025/05/28 - 충격적인 ‘젓가락 발언’의 진실: 이준석의 도발과 정치 토론의 미래](https://blog.ai.dmomo.co.kr/trend/2638) <br/>
-[2025/05/28 - Karina’s Red Jumper: Political Controversy or Fashion Choice? – Issues in the Entertainment Industry Ahead of the Election](https://blog.ai.dmomo.co.kr/trend/2635) <br/>
-[2025/05/28 - 카리나의 빨간 점퍼, 정치 논란인가 패션 선택인가? – 대선 앞둔 연예계 이슈](https://blog.ai.dmomo.co.kr/trend/2633) <br/>
+[2025/05/29 - The Future of Naval Aviation Power Shrouded by the P-3CK Crash: The Dilemma of Aging and Safety](https://blog.ai.dmomo.co.kr/trend/2670) <br/>
+[2025/05/29 - P-3CK 추락 사고에 가려진 해군 항공전력의 미래: 노후화와 안전성의 딜레마](https://blog.ai.dmomo.co.kr/trend/2668) <br/>
+[2025/05/29 - The Hidden Story of Kang Hae-rim: From Miss Korea to a 16-Year Age Difference Romance](https://blog.ai.dmomo.co.kr/trend/2665) <br/>
+[2025/05/29 - 강해림의 숨겨진 이야기: 미스코리아에서 16살 연하 연인까지](https://blog.ai.dmomo.co.kr/trend/2663) <br/>
+[2025/05/29 - Record High Early Voting Turnout for the 21st Presidential Election: Implications and Outlook?](https://blog.ai.dmomo.co.kr/trend/2660) <br/>
+[2025/05/29 - 역대 최고 21대 대선 사전투표율, 그 의미와 전망은?](https://blog.ai.dmomo.co.kr/trend/2658) <br/>
