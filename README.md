@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/06/01 - 이강인의 PSG 챔피언스리그 우승, 그 빛과 그림자: 벤치의 영광?](http://dmomo.co.kr/515) <br/>
-[2025/06/01 - PSG의 역사적 5-0 대승! 챔피언스리그 첫 우승 달성한 꿈의 밤](http://dmomo.co.kr/514) <br/>
-[2025/06/01 - 김혜성의 '4안타 홈런' 쇼, MLB 신인왕 꿈꾸다](http://dmomo.co.kr/513) <br/>
-[2025/06/01 - 김혜성&middot;오타니 주도, 다저스 vs 양키스 월드시리즈 리매치 8-5 승! 홈런 축제](http://dmomo.co.kr/512) <br/>
-[2025/06/01 - 수마트라에서 토니상까지: 발레리 마허피의 놀라운 연기 여정](http://dmomo.co.kr/511) <br/>
-[2025/06/01 - PSG의 역사적 첫 챔스 우승! 인테르 밀란을 5-0으로 대파한 비결은?](http://dmomo.co.kr/510) <br/>
+[2025/06/03 - 2025 대선 D-Day: 투표시간부터 준비물까지 총정리! 꼭 확인하세요](https://dmomo.co.kr/519) <br/>
+[2025/06/02 - 짐 로저스 지지 논란: 이재명 캠프의 '국제적 망신'과 정치 신뢰도 추락](https://dmomo.co.kr/518) <br/>
+[2025/06/02 - 찌릿한 궁금증! 2025년 6월 대선 당일 날씨, 투표 전 꼭 확인하세요](https://dmomo.co.kr/517) <br/>
+[2025/06/02 - 볼더의 두 얼굴: 테러 대응과 창업 혁신의 도시로 거듭나다](https://dmomo.co.kr/516) <br/>
+[2025/06/01 - 이강인의 PSG 챔피언스리그 우승, 그 빛과 그림자: 벤치의 영광?](https://dmomo.co.kr/515) <br/>
+[2025/06/01 - PSG의 역사적 5-0 대승! 챔피언스리그 첫 우승 달성한 꿈의 밤](https://dmomo.co.kr/514) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/06/01 - Lee Kang-in’s PSG Champions League Victory: Glory and Shadows of the Bench?](https://blog.ai.dmomo.co.kr/trend/2758) <br/>
-[2025/06/01 - Historic 5-0 Victory for PSG! A Dream Night Achieving Their First Champions League Title](https://blog.ai.dmomo.co.kr/trend/2756) <br/>
-[2025/06/01 - 이강인의 PSG 챔피언스리그 우승, 그 빛과 그림자: 벤치의 영광?](https://blog.ai.dmomo.co.kr/trend/2754) <br/>
-[2025/06/01 - PSG의 역사적 5-0 대승! 챔피언스리그 첫 우승 달성한 꿈의 밤](https://blog.ai.dmomo.co.kr/trend/2752) <br/>
-[2025/06/01 - Kim Hye-sung’s ‘4-Hit Home Run’ Show: Chasing the MLB Rookie of the Year Dream](https://blog.ai.dmomo.co.kr/trend/2748) <br/>
-[2025/06/01 - 김혜성의 ‘4안타 홈런’ 쇼, MLB 신인왕 꿈꾸다](https://blog.ai.dmomo.co.kr/trend/2746) <br/>
+[2025/06/02 - 2025 Presidential Election D-Day: Complete Guide from Voting Hours to What to Bring! Be Sure to Check!](https://blog.ai.dmomo.co.kr/trend/2778) <br/>
+[2025/06/02 - 2025 대선 D-Day: 투표시간부터 준비물까지 총정리! 꼭 확인하세요](https://blog.ai.dmomo.co.kr/trend/2776) <br/>
+[2025/06/02 - Jim Rogers Support Controversy: Lee Jae-myung’s Camp Faces ‘International Shame’ and Decline in Political Credibility](https://blog.ai.dmomo.co.kr/trend/2773) <br/>
+[2025/06/02 - 짐 로저스 지지 논란: 이재명 캠프의 ‘국제적 망신’과 정치 신뢰도 추락](https://blog.ai.dmomo.co.kr/trend/2771) <br/>
+[2025/06/02 - Electric Curiosity! Check the Weather on Election Day June 2025 Before You Vote](https://blog.ai.dmomo.co.kr/trend/2768) <br/>
+[2025/06/02 - Boulder’s Dual Identity: A City Evolving Through Terror Response and Startup Innovation](https://blog.ai.dmomo.co.kr/trend/2765) <br/>
