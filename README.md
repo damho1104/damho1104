@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/06/03 - 2025 대선 D-Day: 투표시간부터 준비물까지 총정리! 꼭 확인하세요](https://dmomo.co.kr/519) <br/>
-[2025/06/02 - 짐 로저스 지지 논란: 이재명 캠프의 '국제적 망신'과 정치 신뢰도 추락](https://dmomo.co.kr/518) <br/>
-[2025/06/02 - 찌릿한 궁금증! 2025년 6월 대선 당일 날씨, 투표 전 꼭 확인하세요](https://dmomo.co.kr/517) <br/>
-[2025/06/02 - 볼더의 두 얼굴: 테러 대응과 창업 혁신의 도시로 거듭나다](https://dmomo.co.kr/516) <br/>
-[2025/06/01 - 이강인의 PSG 챔피언스리그 우승, 그 빛과 그림자: 벤치의 영광?](https://dmomo.co.kr/515) <br/>
-[2025/06/01 - PSG의 역사적 5-0 대승! 챔피언스리그 첫 우승 달성한 꿈의 밤](https://dmomo.co.kr/514) <br/>
+[2025/06/03 - 킹 오브 더 힐의 숨은 주역: 존 레드콘의 매력적인 이중생활 5가지](http://dmomo.co.kr/522) <br/>
+[2025/06/03 - 2025 대선: 탄핵 이후 '정책 vs 인신공격' 유권자의 선택은?](http://dmomo.co.kr/521) <br/>
+[2025/06/03 - 베테랑 배우 Jonathan Joss의 숨은 매력: TV와 영화를 넘나드는 다재다능한 연기력](http://dmomo.co.kr/520) <br/>
+[2025/06/03 - 2025 대선 D-Day: 투표시간부터 준비물까지 총정리! 꼭 확인하세요](http://dmomo.co.kr/519) <br/>
+[2025/06/02 - 짐 로저스 지지 논란: 이재명 캠프의 '국제적 망신'과 정치 신뢰도 추락](http://dmomo.co.kr/518) <br/>
+[2025/06/02 - 찌릿한 궁금증! 2025년 6월 대선 당일 날씨, 투표 전 꼭 확인하세요](http://dmomo.co.kr/517) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/06/02 - 2025 Presidential Election D-Day: Complete Guide from Voting Hours to What to Bring! Be Sure to Check!](https://blog.ai.dmomo.co.kr/trend/2778) <br/>
-[2025/06/02 - 2025 대선 D-Day: 투표시간부터 준비물까지 총정리! 꼭 확인하세요](https://blog.ai.dmomo.co.kr/trend/2776) <br/>
-[2025/06/02 - Jim Rogers Support Controversy: Lee Jae-myung’s Camp Faces ‘International Shame’ and Decline in Political Credibility](https://blog.ai.dmomo.co.kr/trend/2773) <br/>
-[2025/06/02 - 짐 로저스 지지 논란: 이재명 캠프의 ‘국제적 망신’과 정치 신뢰도 추락](https://blog.ai.dmomo.co.kr/trend/2771) <br/>
-[2025/06/02 - Electric Curiosity! Check the Weather on Election Day June 2025 Before You Vote](https://blog.ai.dmomo.co.kr/trend/2768) <br/>
-[2025/06/02 - Boulder’s Dual Identity: A City Evolving Through Terror Response and Startup Innovation](https://blog.ai.dmomo.co.kr/trend/2765) <br/>
+[2025/06/04 - 경악! 에트나 화산 폭발, 이탈리아를 뒤흔든 자연의 위력](https://blog.ai.dmomo.co.kr/trend/2796) <br/>
+[2025/06/03 - The Hidden Hero of King of the Hill: 5 Fascinating Aspects of John Redcorn’s Double Life](https://blog.ai.dmomo.co.kr/trend/2793) <br/>
+[2025/06/03 - 킹 오브 더 힐의 숨은 주역: 존 레드콘의 매력적인 이중생활 5가지](https://blog.ai.dmomo.co.kr/trend/2791) <br/>
+[2025/06/03 - 2025 Presidential Election: Voter’s Choice Between ‘Policy vs Personal Attacks’ After Impeachment?](https://blog.ai.dmomo.co.kr/trend/2788) <br/>
+[2025/06/03 - 2025 대선: 탄핵 이후 ‘정책 vs 인신공격’ 유권자의 선택은?](https://blog.ai.dmomo.co.kr/trend/2786) <br/>
+[2025/06/03 - The Hidden Charms of Veteran Actor Jonathan Joss: Versatile Acting Across TV and Film](https://blog.ai.dmomo.co.kr/trend/2784) <br/>
