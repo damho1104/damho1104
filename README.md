@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/06/03 - 킹 오브 더 힐의 숨은 주역: 존 레드콘의 매력적인 이중생활 5가지](http://dmomo.co.kr/522) <br/>
-[2025/06/03 - 2025 대선: 탄핵 이후 '정책 vs 인신공격' 유권자의 선택은?](http://dmomo.co.kr/521) <br/>
-[2025/06/03 - 베테랑 배우 Jonathan Joss의 숨은 매력: TV와 영화를 넘나드는 다재다능한 연기력](http://dmomo.co.kr/520) <br/>
-[2025/06/03 - 2025 대선 D-Day: 투표시간부터 준비물까지 총정리! 꼭 확인하세요](http://dmomo.co.kr/519) <br/>
-[2025/06/02 - 짐 로저스 지지 논란: 이재명 캠프의 '국제적 망신'과 정치 신뢰도 추락](http://dmomo.co.kr/518) <br/>
-[2025/06/02 - 찌릿한 궁금증! 2025년 6월 대선 당일 날씨, 투표 전 꼭 확인하세요](http://dmomo.co.kr/517) <br/>
+[2025/06/04 - FLUX.1 Kontext 완벽 분석 맥락 기반 이미지 생성의 미래](https://dmomo.co.kr/528) <br/>
+[2025/06/04 - DeepSeek-Prover-V2 공개: 인공지능으로 수학적 정리 증명 속도 2~5배 향상!](https://dmomo.co.kr/527) <br/>
+[2025/06/04 - 구글 AI 에지, 모바일 AI의 새로운 패러다임을 열다](https://dmomo.co.kr/526) <br/>
+[2025/06/04 - 이재명 정부의 숨은 전략가, 강훈식 비서실장의 파워 플레이](https://dmomo.co.kr/525) <br/>
+[2025/06/04 - 2025 대선 결과: 균형과 책임의 정치, 이재명 8.27% 차로 승리](https://dmomo.co.kr/524) <br/>
+[2025/06/04 - 이재명 대통령의 도전과 비전: 경제&middot;외교&middot;과학기술 정책 심층 분석](https://dmomo.co.kr/523) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/06/04 - 경악! 에트나 화산 폭발, 이탈리아를 뒤흔든 자연의 위력](https://blog.ai.dmomo.co.kr/trend/2796) <br/>
-[2025/06/03 - The Hidden Hero of King of the Hill: 5 Fascinating Aspects of John Redcorn’s Double Life](https://blog.ai.dmomo.co.kr/trend/2793) <br/>
-[2025/06/03 - 킹 오브 더 힐의 숨은 주역: 존 레드콘의 매력적인 이중생활 5가지](https://blog.ai.dmomo.co.kr/trend/2791) <br/>
-[2025/06/03 - 2025 Presidential Election: Voter’s Choice Between ‘Policy vs Personal Attacks’ After Impeachment?](https://blog.ai.dmomo.co.kr/trend/2788) <br/>
-[2025/06/03 - 2025 대선: 탄핵 이후 ‘정책 vs 인신공격’ 유권자의 선택은?](https://blog.ai.dmomo.co.kr/trend/2786) <br/>
-[2025/06/03 - The Hidden Charms of Veteran Actor Jonathan Joss: Versatile Acting Across TV and Film](https://blog.ai.dmomo.co.kr/trend/2784) <br/>
+[2025/06/04 - FLUX.1 Kontext 완벽 분석 맥락 기반 이미지 생성의 미래](https://blog.ai.dmomo.co.kr/tech/2828) <br/>
+[2025/06/04 - DeepSeek-Prover-V2 공개 인공지능으로 수학적 정리 증명 속도 2~5배 향상!](https://blog.ai.dmomo.co.kr/tech/2825) <br/>
+[2025/06/04 - 구글 AI 에지, 모바일 AI의 새로운 패러다임을 열다](https://blog.ai.dmomo.co.kr/tech/2822) <br/>
+[2025/06/04 - 해비 밀크 함정 논란: 역사와 현재의 충돌, 미 해군의 딜레마](https://blog.ai.dmomo.co.kr/trend/2819) <br/>
+[2025/06/04 - 이재명 정부의 숨은 전략가, 강훈식 비서실장의 파워 플레이](https://blog.ai.dmomo.co.kr/trend/2816) <br/>
+[2025/06/04 - 2025 대선 결과: 균형과 책임의 정치, 이재명 8.27%p 차로 승리](https://blog.ai.dmomo.co.kr/trend/2813) <br/>
