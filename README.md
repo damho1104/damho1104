@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/06/04 - FLUX.1 Kontext 완벽 분석 맥락 기반 이미지 생성의 미래](https://dmomo.co.kr/528) <br/>
-[2025/06/04 - DeepSeek-Prover-V2 공개: 인공지능으로 수학적 정리 증명 속도 2~5배 향상!](https://dmomo.co.kr/527) <br/>
-[2025/06/04 - 구글 AI 에지, 모바일 AI의 새로운 패러다임을 열다](https://dmomo.co.kr/526) <br/>
-[2025/06/04 - 이재명 정부의 숨은 전략가, 강훈식 비서실장의 파워 플레이](https://dmomo.co.kr/525) <br/>
-[2025/06/04 - 2025 대선 결과: 균형과 책임의 정치, 이재명 8.27% 차로 승리](https://dmomo.co.kr/524) <br/>
-[2025/06/04 - 이재명 대통령의 도전과 비전: 경제&middot;외교&middot;과학기술 정책 심층 분석](https://dmomo.co.kr/523) <br/>
+[2025/06/05 - 닌텐도 스위치2의 혁신: 7.9인치 대화면으로 게임 몰입도 UP!](http://dmomo.co.kr/532) <br/>
+[2025/06/05 - 역전극의 주인공! 호날두, 독일 꺾고 포르투갈 네이션스리그 결승행 견인](http://dmomo.co.kr/531) <br/>
+[2025/06/05 - 박준휘 vs 박준희: 관악구 청년 정책의 숨은 주역은 누구?](http://dmomo.co.kr/530) <br/>
+[2025/06/05 - 2025 수능 국어 대비: 6월 모평 등급컷 예상과 핵심 전략 분석](http://dmomo.co.kr/529) <br/>
+[2025/06/04 - FLUX.1 Kontext 완벽 분석 맥락 기반 이미지 생성의 미래](http://dmomo.co.kr/528) <br/>
+[2025/06/04 - DeepSeek-Prover-V2 공개: 인공지능으로 수학적 정리 증명 속도 2~5배 향상!](http://dmomo.co.kr/527) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/06/04 - FLUX.1 Kontext 완벽 분석 맥락 기반 이미지 생성의 미래](https://blog.ai.dmomo.co.kr/tech/2828) <br/>
-[2025/06/04 - DeepSeek-Prover-V2 공개 인공지능으로 수학적 정리 증명 속도 2~5배 향상!](https://blog.ai.dmomo.co.kr/tech/2825) <br/>
-[2025/06/04 - 구글 AI 에지, 모바일 AI의 새로운 패러다임을 열다](https://blog.ai.dmomo.co.kr/tech/2822) <br/>
-[2025/06/04 - 해비 밀크 함정 논란: 역사와 현재의 충돌, 미 해군의 딜레마](https://blog.ai.dmomo.co.kr/trend/2819) <br/>
-[2025/06/04 - 이재명 정부의 숨은 전략가, 강훈식 비서실장의 파워 플레이](https://blog.ai.dmomo.co.kr/trend/2816) <br/>
-[2025/06/04 - 2025 대선 결과: 균형과 책임의 정치, 이재명 8.27%p 차로 승리](https://blog.ai.dmomo.co.kr/trend/2813) <br/>
+[2025/06/05 - 2025 스탠리컵 결승전: 팬서스 vs 오일러스 빅매치 미리보기](https://blog.ai.dmomo.co.kr/trend/2846) <br/>
+[2025/06/05 - 역전극의 주인공! 호날두, 독일 꺾고 포르투갈 네이션스리그 결승행 견인](https://blog.ai.dmomo.co.kr/trend/2843) <br/>
+[2025/06/05 - 박준휘 vs 박준희: 관악구 청년 정책의 숨은 주역은 누구?](https://blog.ai.dmomo.co.kr/trend/2840) <br/>
+[2025/06/05 - 닌텐도 스위치2의 혁신: 7.9인치 대화면으로 게임 몰입도 UP!](https://blog.ai.dmomo.co.kr/trend/2838) <br/>
+[2025/06/05 - 2025 수능 국어 대비: 6월 모평 등급컷 예상과 핵심 전략 분석](https://blog.ai.dmomo.co.kr/trend/2834) <br/>
+[2025/06/05 - 주성치의 신작 액션 영화: 어메이 팀의 화려한 귀환! 2025년 대작 예고](https://blog.ai.dmomo.co.kr/trend/2832) <br/>
