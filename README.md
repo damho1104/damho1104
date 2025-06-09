@@ -79,17 +79,17 @@
 
 ## ✅ Latest Blog Post
 
-[2025/06/07 - 미국 귀국 Kilmar Abrego Garcia, 정당한 법적 절차 논란 속 기소 직면](https://dmomo.co.kr/543) <br/>
-[2025/06/07 - NHL 치료 혁명: 이중항체 치료제와 바이오 협력의 미래](https://dmomo.co.kr/542) <br/>
-[2025/06/07 - 서머 게임 페스트 2025: 기후 위기에 도전장 던진 게임 산업의 혁신](https://dmomo.co.kr/541) <br/>
-[2025/06/07 - 다중 인격? 종교부터 스포츠까지 '김성욱'의 다양한 얼굴](https://dmomo.co.kr/540) <br/>
-[2025/06/07 - 무료 도넛의 유혹: 던킨 도넛의 내셔널 도넛 데이 15년 전통 大공개](https://dmomo.co.kr/539) <br/>
-[2025/06/07 - 모델 김종석 사망 사건: 경찰 개입부터 사회적 논란까지 총정리](https://dmomo.co.kr/538) <br/>
+[2025/06/08 - GUI의 선구자, 빌 앳킨슨: 애플을 넘어 현대 기술의 미래를 그리다](http://dmomo.co.kr/551) <br/>
+[2025/06/08 - ICE 요원 공격받은 LA 폭동, 이민정책 갈등 폭발하나? 충격 영상 분석](http://dmomo.co.kr/550) <br/>
+[2025/06/08 - UFC 신성 유주상, 28초 KO로 '좀비 주니어' 탄생! 한국 MMA의 새 희망](http://dmomo.co.kr/549) <br/>
+[2025/06/08 - 신규 직업 '렌' 공개! 메이플스토리 2025 여름 업데이트 총정리](http://dmomo.co.kr/548) <br/>
+[2025/06/08 - G7 정상회의 2025: 이재명 대통령의 외교 데뷔, 한국의 새로운 도약은?](http://dmomo.co.kr/547) <br/>
+[2025/06/08 - 창작과 현실을 넘나드는 '벨몬트': 사랑과 자유의 상징적 공간](http://dmomo.co.kr/546) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/06/08 - BTS 아미의 힘: 디지털 플랫폼이 바꾼 K팝 팬덤의 진화](https://blog.ai.dmomo.co.kr/ai/2885) <br/>
-[2025/06/07 - 미국 귀국 Kilmar Abrego Garcia, 정당한 법적 절차 논란 속 기소 직면](https://blog.ai.dmomo.co.kr/trend/2882) <br/>
-[2025/06/07 - 서머 게임 페스트 2025: 기후 위기에 도전장 던진 게임 산업의 혁신](https://blog.ai.dmomo.co.kr/trend/2879) <br/>
-[2025/06/07 - NHL 치료 혁명: 이중항체 치료제와 바이오 협력의 미래](https://blog.ai.dmomo.co.kr/trend/2877) <br/>
-[2025/06/07 - 다중 인격? 종교부터 스포츠까지 ‘김성욱’의 다양한 얼굴](https://blog.ai.dmomo.co.kr/trend/2875) <br/>
-[2025/06/07 - 무료 도넛의 유혹: 덩킨 도넛의 내셔널 도넛 데이 15년 전통 大공개](https://blog.ai.dmomo.co.kr/trend/2870) <br/>
+[2025/06/08 - GUI의 선구자, 빌 앳킨슨: 애플을 넘어 현대 기술의 미래를 그리다](https://blog.ai.dmomo.co.kr/trend/2909) <br/>
+[2025/06/08 - ICE 요원 공격받은 LA 폭동, 이민정책 갈등 폭발하나? 충격 영상 분석](https://blog.ai.dmomo.co.kr/trend/2906) <br/>
+[2025/06/08 - 로또 1175회 당첨 결과: 20명의 1등 당첨자와 지역별 분석](https://blog.ai.dmomo.co.kr/trend/2904) <br/>
+[2025/06/08 - 신규 직업 ‘렌’ 공개! 메이플스토리 2025 여름 업데이트 총정리](https://blog.ai.dmomo.co.kr/trend/2900) <br/>
+[2025/06/08 - UFC 신성 유주상, 28초 KO로 ‘좀비 주니어’ 탄생! 한국 MMA의 새 희망](https://blog.ai.dmomo.co.kr/trend/2898) <br/>
+[2025/06/08 - G7 정상회의 2025: 이재명 대통령의 외교 데뷔, 한국의 새로운 도약은?](https://blog.ai.dmomo.co.kr/trend/2894) <br/>
