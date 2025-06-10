@@ -23,6 +23,7 @@
 ## 🌐 Blog
 - [IT Blog](https://dmomo.co.kr/)
 - [AI Blog](https://blog.ai.dmomo.co.kr/)
+- [AI EN Blog](https://ai.trend.dmomo.co.kr/)
 
 ## 💪 Technical Skills
 ### Languages & Frameworks
@@ -61,8 +62,8 @@
 
 
 ## :computer: Stats
-![damho1104 Stats](https://github-readme-stats.vercel.app/api?username=damho1104&hide=issues&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damho1104&layout=compact&theme=dark)
+![damho1104 Stats](https://github-readme-stats.vercel.app/api?username=damho1104&hide=issues&show_icons=true&show=prs_merged,prs_merged_percentage&theme=chartreuse-dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damho1104&layout=compact&theme=chartreuse-dark)
 
 
 ## My Infra
@@ -79,17 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/06/09 - 충격! 이경규 약물 운전 의혹, 처방약도 위험? 법적 쟁점과 향후 전망 분석](https://dmomo.co.kr/557) <br/>
-[2025/06/09 - 어쩌면 해피엔딩: 토니상 6관왕 K-뮤지컬의 브로드웨이 도전기](https://dmomo.co.kr/556) <br/>
-[2025/06/09 - 다재다능한 스타, Nat Wolff: 배우에서 음악가까지 그의 예술 여정](https://dmomo.co.kr/555) <br/>
-[2025/06/09 - 신세계 재벌 손녀의 파격 아이돌 데뷔: K팝의 새로운 트렌드?](https://dmomo.co.kr/554) <br/>
-[2025/06/09 - 호날두 vs 야말: UEFA 네이션스 리그 결승전 시청 가이드](https://dmomo.co.kr/553) <br/>
-[2025/06/09 - G7 정상회의로 본 독일-프랑스 관계: 경제&middot;안보 협력과 갈등의 동학](https://dmomo.co.kr/552) <br/>
+[2025/06/10 - 신시아와 더보이즈 주연, 열애설 진실은? 소속사 공식 입장 총정리](http://dmomo.co.kr/562) <br/>
+[2025/06/10 - 카카오의 급부상과 도전: 새 정책과 주가 급등의 양면성](http://dmomo.co.kr/561) <br/>
+[2025/06/10 - WWDC2025 핵심 발표 내용은? 애플이 공개한 13가지 혁신 기술과 일정 총정리](http://dmomo.co.kr/560) <br/>
+[2025/06/10 - Sly Stone: 펑크와 소울의 혁명가, 그의 음악은 어떻게 세상을 바꿨나?](http://dmomo.co.kr/559) <br/>
+[2025/06/10 - iOS 26 총정리: '리퀴드 글래스' 디자인과 AI 혁신, 무엇이 달라지나?](http://dmomo.co.kr/558) <br/>
+[2025/06/09 - 충격! 이경규 약물 운전 의혹, 처방약도 위험? 법적 쟁점과 향후 전망 분석](http://dmomo.co.kr/557) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/06/09 - 충격! 이경규 약물 운전 의혹, 처방약도 위험? 법적 쟁점과 향후 전망 분석](https://blog.ai.dmomo.co.kr/trend/2933) <br/>
-[2025/06/09 - 다재다능한 스타, Nat Wolff: 배우에서 음악가까지 그의 예술 여정](https://blog.ai.dmomo.co.kr/trend/2930) <br/>
-[2025/06/09 - 어쩌면 해피엔딩: 토니상 6관왕 K-뮤지컬의 브로드웨이 도전기](https://blog.ai.dmomo.co.kr/trend/2928) <br/>
-[2025/06/09 - 국제 긴장: 그레타 툰베리의 가자 구호선, 이스라엘의 군사 대응 위협](https://blog.ai.dmomo.co.kr/trend/2924) <br/>
-[2025/06/09 - 신세계 재벌 손녀의 파격 아이돌 데뷔: K팝의 새로운 트렌드?](https://blog.ai.dmomo.co.kr/trend/2922) <br/>
-[2025/06/09 - 숨막히는 승부차기! 포르투갈, 스페인 꺾고 네이션스리그 2연패 달성](https://blog.ai.dmomo.co.kr/trend/2918) <br/>
+[2025/06/10 - 무신사의 글로벌 전략: 일본과 인도네시아 시장 비교로 본 성공의 열쇠](https://blog.ai.dmomo.co.kr/trend/2951) <br/>
+[2025/06/10 - 신시아와 더보이즈 주연, 열애설 진실은? 소속사 공식 입장 총정리](https://blog.ai.dmomo.co.kr/trend/2948) <br/>
+[2025/06/10 - 카카오의 급부상과 도전: 새 정책과 주가 급등의 양면성](https://blog.ai.dmomo.co.kr/trend/2945) <br/>
+[2025/06/10 - WWDC2025 핵심 발표 내용은? 애플이 공개한 13가지 혁신 기술과 일정 총정리](https://blog.ai.dmomo.co.kr/tech/2942) <br/>
+[2025/06/10 - iOS 26 총정리: ‘리퀴드 글래스’ 디자인과 AI 혁신, 무엇이 달라지나?](https://blog.ai.dmomo.co.kr/trend/2939) <br/>
+[2025/06/10 - Sly Stone: 펑크와 소울의 혁명가, 그의 음악은 어떻게 세상을 바꿨나?](https://blog.ai.dmomo.co.kr/trend/2937) <br/>
+
+## ✅ Latest AI EN Blog Post
+[2025/06/10 - Musinsa's Global Strategy: Key to Success Through a Comparison of Japanese and Indonesian Markets](https://ai.trend.dmomo.co.kr/2025/06/musinsas-global-strategy-key-to-success.html) <br/>
+[2025/06/10 - Cynthia and THE BOYZ: The Truth Behind Their Dating Rumors? Summary of Official Statements from Their Agencies](https://ai.trend.dmomo.co.kr/2025/06/cynthia-and-boyz-truth-behind-their.html) <br/>
+[2025/06/10 - The Rapid Rise and Challenges of Kakao: The Dual Nature of New Policies and Skyrocketing Stock Prices](https://ai.trend.dmomo.co.kr/2025/06/the-rapid-rise-and-challenges-of-kakao.html) <br/>
+[2025/06/10 - Summary of Key Announcements at WWDC 2025: A Comprehensive Overview of 13 Innovative Technologies and Timelines Revealed by Apple](https://ai.trend.dmomo.co.kr/2025/06/summary-of-key-announcements-at-wwdc.html) <br/>
+[2025/06/10 - iOS 26 Summary: What's Different with 'Liquid Glass' Design and AI Innovations?](https://ai.trend.dmomo.co.kr/2025/06/ios-26-summary-whats-different-with.html) <br/>
+[2025/06/10 - Sly Stone: The Revolutionary of Funk and Soul, How Did His Music Change the World?](https://ai.trend.dmomo.co.kr/2025/06/sly-stone-revolutionary-of-funk-and.html) <br/>
