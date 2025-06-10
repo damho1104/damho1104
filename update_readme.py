@@ -3,9 +3,11 @@ from datetime import datetime, timedelta
 
 URL = "http://dmomo.co.kr/rss"
 URL2 = "https://blog.ai.dmomo.co.kr/feed"
+URL3 = "https://ai.trend.dmomo.co.kr/feeds/posts/default?alt=rss"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 5
 RSS_FEED2 = feedparser.parse(URL2)
+RSS_FEED3 = feedparser.parse(URL3)
 
 markdown_text = """
 # 💻 Damho Lee
@@ -32,6 +34,7 @@ markdown_text = """
 ## 🌐 Blog
 - [IT Blog](https://dmomo.co.kr/)
 - [AI Blog](https://blog.ai.dmomo.co.kr/)
+- [AI EN Blog](https://ai.trend.dmomo.co.kr/)
 
 ## 💪 Technical Skills
 ### Languages & Frameworks
@@ -70,8 +73,8 @@ markdown_text = """
 
 
 ## :computer: Stats
-![damho1104 Stats](https://github-readme-stats.vercel.app/api?username=damho1104&hide=issues&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damho1104&layout=compact&theme=dark)
+![damho1104 Stats](https://github-readme-stats.vercel.app/api?username=damho1104&hide=issues&show_icons=true&show=prs_merged,prs_merged_percentage&theme=chartreuse-dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damho1104&layout=compact&theme=chartreuse-dark)
 
 
 ## My Infra
@@ -111,6 +114,18 @@ markdown_text += """
 """
 # list of blog posts will be appended here
 for idx, feed in enumerate(RSS_FEED2['entries']):
+    if idx > MAX_POST:
+        break
+    else:
+        # feed_date = feed['published_parsed']
+        feed_date = datetime.fromtimestamp(time.mktime(feed['published_parsed'])) + timedelta(hours=9)
+        markdown_text += f"[{feed_date.strftime('%Y/%m/%d')} - {feed['title']}]({feed['link']}) <br/>\n"
+
+markdown_text += """
+## ✅ Latest AI EN Blog Post
+"""
+# list of blog posts will be appended here
+for idx, feed in enumerate(RSS_FEED3['entries']):
     if idx > MAX_POST:
         break
     else:
