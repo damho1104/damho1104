@@ -88,12 +88,12 @@
 [2025/06/09 - 충격! 이경규 약물 운전 의혹, 처방약도 위험? 법적 쟁점과 향후 전망 분석](http://dmomo.co.kr/557) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/06/11 - 애런 로저스의 숨겨진 연인? NFL 스타의 미스터리한 사랑 이야기](https://blog.ai.dmomo.co.kr/trend/2954) <br/>
 [2025/06/10 - 무신사의 글로벌 전략: 일본과 인도네시아 시장 비교로 본 성공의 열쇠](https://blog.ai.dmomo.co.kr/trend/2951) <br/>
 [2025/06/10 - 신시아와 더보이즈 주연, 열애설 진실은? 소속사 공식 입장 총정리](https://blog.ai.dmomo.co.kr/trend/2948) <br/>
 [2025/06/10 - 카카오의 급부상과 도전: 새 정책과 주가 급등의 양면성](https://blog.ai.dmomo.co.kr/trend/2945) <br/>
 [2025/06/10 - WWDC2025 핵심 발표 내용은? 애플이 공개한 13가지 혁신 기술과 일정 총정리](https://blog.ai.dmomo.co.kr/tech/2942) <br/>
 [2025/06/10 - iOS 26 총정리: ‘리퀴드 글래스’ 디자인과 AI 혁신, 무엇이 달라지나?](https://blog.ai.dmomo.co.kr/trend/2939) <br/>
-[2025/06/10 - Sly Stone: 펑크와 소울의 혁명가, 그의 음악은 어떻게 세상을 바꿨나?](https://blog.ai.dmomo.co.kr/trend/2937) <br/>
 
 ## ✅ Latest AI EN Blog Post
 [2025/06/10 - Musinsa's Global Strategy: Key to Success Through a Comparison of Japanese and Indonesian Markets](https://ai.trend.dmomo.co.kr/2025/06/musinsas-global-strategy-key-to-success.html) <br/>
