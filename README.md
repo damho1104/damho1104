@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/06/11 - 브라질 vs 파라과이: 스포츠부터 경제까지 5가지 놀라운 차이점](http://dmomo.co.kr/567) <br/>
-[2025/06/11 - 다양한 분야의 김민지가 펼치는 활약상: 러닝, 패션, 그리고 뉴스](http://dmomo.co.kr/566) <br/>
-[2025/06/11 - 애런 로저스의 숨겨진 연인? NFL 스타의 미스터리한 사랑 이야기](http://dmomo.co.kr/565) <br/>
-[2025/06/11 - 영어 강사 조정식의 두 얼굴: 혁신적 교육법 vs 시험문제 거래 논란](http://dmomo.co.kr/564) <br/>
-[2025/06/11 - 한국 축구, 16년 만의 '월드컵 예선 무패' 신화 재현! 쿠웨이트에 4-0 완승](http://dmomo.co.kr/563) <br/>
-[2025/06/10 - 신시아와 더보이즈 주연, 열애설 진실은? 소속사 공식 입장 총정리](http://dmomo.co.kr/562) <br/>
+[2025/06/12 - 은지원, 13년 만의 재혼 소식! 비연예인 신부와 조용한 예식 예고](https://dmomo.co.kr/570) <br/>
+[2025/06/12 - 비치보이스 창립자 브라이언 윌슨, 82세로 별세... 팝음악의 혁신가 떠나다](https://dmomo.co.kr/569) <br/>
+[2025/06/12 - 검찰청 폐지안의 진실: 3개 기관으로 나뉘는 미래 수사 체계](https://dmomo.co.kr/568) <br/>
+[2025/06/11 - 브라질 vs 파라과이: 스포츠부터 경제까지 5가지 놀라운 차이점](https://dmomo.co.kr/567) <br/>
+[2025/06/11 - 다양한 분야의 김민지가 펼치는 활약상: 러닝, 패션, 그리고 뉴스](https://dmomo.co.kr/566) <br/>
+[2025/06/11 - 애런 로저스의 숨겨진 연인? NFL 스타의 미스터리한 사랑 이야기](https://dmomo.co.kr/565) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/06/12 - 은지원, 13년 만의 재혼 소식! 비연예인 신부와 조용한 예식 예고](https://blog.ai.dmomo.co.kr/trend/2975) <br/>
+[2025/06/12 - 검찰청 폐지안의 진실: 3개 기관으로 나뉘는 미래 수사 체계](https://blog.ai.dmomo.co.kr/trend/2972) <br/>
+[2025/06/12 - 비치보이스 창립자 브라이언 윌슨, 82세로 별세… 팝음악의 혁신가 떠나다](https://blog.ai.dmomo.co.kr/trend/2970) <br/>
 [2025/06/11 - 브라질 vs 파라과이: 스포츠부터 경제까지 5가지 놀라운 차이점](https://blog.ai.dmomo.co.kr/trend/2966) <br/>
 [2025/06/11 - 다양한 분야의 김민지가 펼치는 활약상: 러닝, 패션, 그리고 뉴스](https://blog.ai.dmomo.co.kr/trend/2963) <br/>
 [2025/06/11 - 영어 강사 조정식의 두 얼굴: 혁신적 교육법 vs 시험문제 거래 논란](https://blog.ai.dmomo.co.kr/trend/2960) <br/>
-[2025/06/11 - 한국 축구, 16년 만의 ‘월드컵 예선 무패’ 신화 재현! 쿠웨이트에 4-0 완승](https://blog.ai.dmomo.co.kr/trend/2957) <br/>
-[2025/06/11 - 애런 로저스의 숨겨진 연인? NFL 스타의 미스터리한 사랑 이야기](https://blog.ai.dmomo.co.kr/trend/2954) <br/>
-[2025/06/10 - 무신사의 글로벌 전략: 일본과 인도네시아 시장 비교로 본 성공의 열쇠](https://blog.ai.dmomo.co.kr/trend/2951) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/06/12 - Eun Ji-won Announces Remarriage After 13 Years! Quiet Ceremony with Non-Celebrity Bride Expected](https://ai.trend.dmomo.co.kr/2025/06/eun-ji-won-announces-remarriage-after.html) <br/>
+[2025/06/12 - The Truth About the Proposal to Abolish the Prosecutor's Office: The Future Investigation System Divided into Three Agencies](https://ai.trend.dmomo.co.kr/2025/06/the-truth-about-proposal-to-abolish.html) <br/>
+[2025/06/12 - Beach Boys Founder Brian Wilson Passes Away at 82... A Pioneer of Pop Music Leaves Us](https://ai.trend.dmomo.co.kr/2025/06/beach-boys-founder-brian-wilson-passes.html) <br/>
 [2025/06/11 - Brazil vs Paraguay: 5 Surprising Differences from Sports to Economy](https://ai.trend.dmomo.co.kr/2025/06/brazil-vs-paraguay-5-surprising.html) <br/>
 [2025/06/11 - The Achievements of Kim Min-ji in Various Fields: Running, Fashion, and News](https://ai.trend.dmomo.co.kr/2025/06/the-achievements-of-kim-min-ji-in.html) <br/>
 [2025/06/11 - The Two Faces of English Instructor Cho Jung-sik: Innovative Teaching Methods vs. Exam Question Trading Controversy](https://ai.trend.dmomo.co.kr/2025/06/the-two-faces-of-english-instructor-cho.html) <br/>
-[2025/06/11 - Korean Football Recreates 'Unbeaten World Cup Qualifiers' Myth After 16 Years! Dominating 4-0 Victory Over Kuwait](https://ai.trend.dmomo.co.kr/2025/06/korean-football-recreates-unbeaten.html) <br/>
-[2025/06/11 - Aaron Rodgers' Hidden Love? The Mysterious Love Story of the NFL Star](https://ai.trend.dmomo.co.kr/2025/06/aaron-rodgers-hidden-love-mysterious.html) <br/>
-[2025/06/10 - Musinsa's Global Strategy: Key to Success Through a Comparison of Japanese and Indonesian Markets](https://ai.trend.dmomo.co.kr/2025/06/musinsas-global-strategy-key-to-success.html) <br/>
