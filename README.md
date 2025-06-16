@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/06/15 - 제주 vs 대구: K리그 최고의 공방전! 6월 14일 전략 분석과 승부 예측](http://dmomo.co.kr/580) <br/>
-[2025/06/15 - 에스파 카리나, 언니 결혼식 논란부터 컴백 기대감까지 총정리](http://dmomo.co.kr/579) <br/>
-[2025/06/14 - KT vs 삼성: 야구장과 롤 무대에서 펼쳐지는 흥미진진한 승부](http://dmomo.co.kr/578) <br/>
-[2025/06/14 - 충격의 NBA 파이널: 페이서스 vs 썬더, 금요일의 13일이 가져온 운명의 대결](http://dmomo.co.kr/577) <br/>
-[2025/06/14 - 정국의 모자 논란: K팝 아이돌의 문화적 책임과 역사 인식의 중요성](http://dmomo.co.kr/576) <br/>
-[2025/06/14 - 은마아파트 매몰 사고: 60대 노동자 사망, 안전 관리 실태 전면 점검 필요](http://dmomo.co.kr/575) <br/>
+[2025/06/15 - Claude Code: AI 에이전트 기반 코딩 도구](http://dmomo.co.kr/589) <br/>
+[2025/06/15 - 미드저니 완벽 가이드 5가지 핵심 기능과 활용법](http://dmomo.co.kr/588) <br/>
+[2025/06/15 - 전국 강한 비와 선선한 기온, 내일(2025년 06월 16일) 날씨 주의사항은?](http://dmomo.co.kr/587) <br/>
+[2025/06/15 - 2025년 AI 트렌드 분석: 인간-AI 협업부터 멀티모달 AI까지!](http://dmomo.co.kr/586) <br/>
+[2025/06/15 - 아버지의 날 완벽 가이드: 역사부터 최신 트렌드까지 총정리](http://dmomo.co.kr/585) <br/>
+[2025/06/15 - 추신수의 은퇴식: MLB 전설의 감동적인 마지막 인사와 KBO 유산](http://dmomo.co.kr/584) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/06/15 - Pi Network 위기: KYC 오류와 토큰 소실로 커뮤니티 신뢰 무너지나?](https://blog.ai.dmomo.co.kr/ai/3026) <br/>
-[2025/06/15 - 제주 vs 대구: K리그 최고의 공방전! 6월 14일 전략 분석과 승부 예측](https://blog.ai.dmomo.co.kr/trend/3023) <br/>
-[2025/06/15 - 에스파 카리나, 언니 결혼식 논란부터 컴백 기대감까지 총정리](https://blog.ai.dmomo.co.kr/trend/3020) <br/>
-[2025/06/14 - 2025 보나루 페스티벌: 4일간의 음악 천국, 준비와 즐기는 방법은?](https://blog.ai.dmomo.co.kr/trend/3017) <br/>
-[2025/06/14 - KT vs 삼성: 야구장과 롤 무대에서 펼쳐지는 흥미진진한 승부](https://blog.ai.dmomo.co.kr/trend/3015) <br/>
-[2025/06/14 - 정국의 모자 논란: K팝 아이돌의 문화적 책임과 역사 인식의 중요성](https://blog.ai.dmomo.co.kr/trend/3011) <br/>
+[2025/06/15 - 클라우드 코드 혁신 AI 에이전트 기반 코딩 도구로 개발 효율성 극대화](https://blog.ai.dmomo.co.kr/tech/3053) <br/>
+[2025/06/15 - 미드저니 완벽 가이드 5가지 핵심 기능과 활용법](https://blog.ai.dmomo.co.kr/tech/3050) <br/>
+[2025/06/15 - 전국 강한 비와 선선한 기온, 내일 날씨 주의사항은?](https://blog.ai.dmomo.co.kr/trend/3048) <br/>
+[2025/06/15 - 2025년 AI 트렌드 분석: 인간-AI 협업부터 멀티모달 AI까지!](https://blog.ai.dmomo.co.kr/tech/3044) <br/>
+[2025/06/15 - 아버지의 날의 진화: 디지털 시대의 창의적 축하 방법 5가지](https://blog.ai.dmomo.co.kr/trend/3041) <br/>
+[2025/06/15 - 아버지의 날 완벽 가이드: 역사부터 최신 트렌드까지 총정리](https://blog.ai.dmomo.co.kr/trend/3038) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/06/15 - Jeju vs Daegu: The Ultimate Clash in K-League! Strategy Analysis and Match Predictions for June 14](https://ai.trend.dmomo.co.kr/2025/06/jeju-vs-daegu-ultimate-clash-in-k.html) <br/>
-[2025/06/15 - Aespa Karina: From Sister's Wedding Controversy to Comeback Expectations - A Comprehensive Overview](https://ai.trend.dmomo.co.kr/2025/06/aespa-karina-from-sisters-wedding.html) <br/>
-[2025/06/14 - 2025 Bonaroo Festival: How to Prepare for and Enjoy 4 Days of Musical Paradise?](https://ai.trend.dmomo.co.kr/2025/06/2025-bonaroo-festival-how-to-prepare.html) <br/>
-[2025/06/14 - KT vs Samsung: Exciting Showdown on the Baseball Field and the esports Stage](https://ai.trend.dmomo.co.kr/2025/06/kt-vs-samsung-exciting-showdown-on.html) <br/>
-[2025/06/14 - Jungkook's Hat Controversy: The Importance of Cultural Responsibility and Historical Awareness for K-Pop Idols](https://ai.trend.dmomo.co.kr/2025/06/jungkooks-hat-controversy-importance-of.html) <br/>
-[2025/06/14 - Shocking NBA Finals: Pacers vs Thunder, A Fateful Showdown on Friday the 13th](https://ai.trend.dmomo.co.kr/2025/06/shocking-nba-finals-pacers-vs-thunder.html) <br/>
+[2025/06/15 - Maximizing Development Efficiency with Cloud Code Innovation and AI Agent-Powered Coding Tools](https://ai.trend.dmomo.co.kr/2025/06/maximizing-development-efficiency-with.html) <br/>
+[2025/06/15 - The Ultimate Midjourney Guide: 5 Key Features and How to Use Them](https://ai.trend.dmomo.co.kr/2025/06/the-ultimate-midjourney-guide-5-key.html) <br/>
+[2025/06/15 - Heavy Rain and Cool Temperatures Nationwide: Weather Precautions for Tomorrow?](https://ai.trend.dmomo.co.kr/2025/06/heavy-rain-and-cool-temperatures.html) <br/>
+[2025/06/15 - Analysis of 2025 AI Trends: From Human-AI Collaboration to Multimodal AI!](https://ai.trend.dmomo.co.kr/2025/06/analysis-of-2025-ai-trends-from-human.html) <br/>
+[2025/06/15 - The Evolution of Father's Day: 5 Creative Ways to Celebrate in the Digital Age](https://ai.trend.dmomo.co.kr/2025/06/the-evolution-of-fathers-day-5-creative.html) <br/>
+[2025/06/15 - The Perfect Guide to Father's Day: From History to the Latest Trends](https://ai.trend.dmomo.co.kr/2025/06/the-perfect-guide-to-fathers-day-from.html) <br/>
