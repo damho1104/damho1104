@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/06/15 - Claude Code: AI 에이전트 기반 코딩 도구](http://dmomo.co.kr/589) <br/>
-[2025/06/15 - 미드저니 완벽 가이드 5가지 핵심 기능과 활용법](http://dmomo.co.kr/588) <br/>
-[2025/06/15 - 전국 강한 비와 선선한 기온, 내일(2025년 06월 16일) 날씨 주의사항은?](http://dmomo.co.kr/587) <br/>
-[2025/06/15 - 2025년 AI 트렌드 분석: 인간-AI 협업부터 멀티모달 AI까지!](http://dmomo.co.kr/586) <br/>
-[2025/06/15 - 아버지의 날 완벽 가이드: 역사부터 최신 트렌드까지 총정리](http://dmomo.co.kr/585) <br/>
-[2025/06/15 - 추신수의 은퇴식: MLB 전설의 감동적인 마지막 인사와 KBO 유산](http://dmomo.co.kr/584) <br/>
+[2025/06/16 - 무신사 성수점, 월 32억 매출 달성! 성공 비결은 K-팝과 MZ세대?](http://dmomo.co.kr/598) <br/>
+[2025/06/16 - 2025년 주목할 만한 스테이블코인 급성장과 한국 원화 발행 전망은?](http://dmomo.co.kr/597) <br/>
+[2025/06/16 - 아이폰 유저들 환호! 애플페이에 티머니 교통카드 탑재 예정, 대중교통 결제 혁명 오나?](http://dmomo.co.kr/596) <br/>
+[2025/06/16 - 2025년 6월 기준 최신 LLM 기술 동향 5가지 총정리!](http://dmomo.co.kr/595) <br/>
+[2025/06/16 - 데스몬드 베인: NBA 차세대 슈팅 스타의 숨겨진 5가지 비결](http://dmomo.co.kr/594) <br/>
+[2025/06/16 - 카트라이더 드리프트 서비스 종료, 클래식으로 회귀하는 넥슨의 전략 분석](http://dmomo.co.kr/593) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/06/15 - 클라우드 코드 혁신 AI 에이전트 기반 코딩 도구로 개발 효율성 극대화](https://blog.ai.dmomo.co.kr/tech/3053) <br/>
-[2025/06/15 - 미드저니 완벽 가이드 5가지 핵심 기능과 활용법](https://blog.ai.dmomo.co.kr/tech/3050) <br/>
-[2025/06/15 - 전국 강한 비와 선선한 기온, 내일 날씨 주의사항은?](https://blog.ai.dmomo.co.kr/trend/3048) <br/>
-[2025/06/15 - 2025년 AI 트렌드 분석: 인간-AI 협업부터 멀티모달 AI까지!](https://blog.ai.dmomo.co.kr/tech/3044) <br/>
-[2025/06/15 - 아버지의 날의 진화: 디지털 시대의 창의적 축하 방법 5가지](https://blog.ai.dmomo.co.kr/trend/3041) <br/>
-[2025/06/15 - 아버지의 날 완벽 가이드: 역사부터 최신 트렌드까지 총정리](https://blog.ai.dmomo.co.kr/trend/3038) <br/>
+[2025/06/16 - 무신사 성수점, 월 32억 매출 달성! 성공 비결은 K-팝과 MZ세대?](https://blog.ai.dmomo.co.kr/trend/3088) <br/>
+[2025/06/16 - 2025년 주목할 만한 스테이블코인 급성장과 한국 원화 발행 전망은?](https://blog.ai.dmomo.co.kr/tech/3085) <br/>
+[2025/06/16 - 아이폰 유저들 환호! 애플페이에 티머니 교통카드 탑재 예정, 대중교통 결제 혁명 오나?](https://blog.ai.dmomo.co.kr/trend/3083) <br/>
+[2025/06/16 - 데스몬드 베인: NBA 차세대 슈팅 스타의 숨겨진 5가지 비결](https://blog.ai.dmomo.co.kr/trend/3079) <br/>
+[2025/06/16 - 카트라이더 드리프트 서비스 종료, 클래식으로 회귀하는 넥슨의 전략 분석](https://blog.ai.dmomo.co.kr/trend/3077) <br/>
+[2025/06/16 - 2025년 6월 기준 최신 LLM 기술 동향 5가지 총정리!](https://blog.ai.dmomo.co.kr/tech/3075) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/06/15 - Maximizing Development Efficiency with Cloud Code Innovation and AI Agent-Powered Coding Tools](https://ai.trend.dmomo.co.kr/2025/06/maximizing-development-efficiency-with.html) <br/>
-[2025/06/15 - The Ultimate Midjourney Guide: 5 Key Features and How to Use Them](https://ai.trend.dmomo.co.kr/2025/06/the-ultimate-midjourney-guide-5-key.html) <br/>
-[2025/06/15 - Heavy Rain and Cool Temperatures Nationwide: Weather Precautions for Tomorrow?](https://ai.trend.dmomo.co.kr/2025/06/heavy-rain-and-cool-temperatures.html) <br/>
-[2025/06/15 - Analysis of 2025 AI Trends: From Human-AI Collaboration to Multimodal AI!](https://ai.trend.dmomo.co.kr/2025/06/analysis-of-2025-ai-trends-from-human.html) <br/>
-[2025/06/15 - The Evolution of Father's Day: 5 Creative Ways to Celebrate in the Digital Age](https://ai.trend.dmomo.co.kr/2025/06/the-evolution-of-fathers-day-5-creative.html) <br/>
-[2025/06/15 - The Perfect Guide to Father's Day: From History to the Latest Trends](https://ai.trend.dmomo.co.kr/2025/06/the-perfect-guide-to-fathers-day-from.html) <br/>
+[2025/06/16 - Musinsa Seongsu Store Achieves Monthly Sales of 3.2 Billion Won! Success Secrets: K-Pop and the MZ Generation?](https://ai.trend.dmomo.co.kr/2025/06/musinsa-seongsu-store-achieves-monthly.html) <br/>
+[2025/06/16 - The Rapid Growth of Stablecoins to Watch in 2025 and the Outlook for Korean Won Issuance](https://ai.trend.dmomo.co.kr/2025/06/the-rapid-growth-of-stablecoins-to.html) <br/>
+[2025/06/16 - iPhone Users Rejoice! Tmoney Card to be Integrated with Apple Pay - Is a Revolution in Public Transport Payments Coming?](https://ai.trend.dmomo.co.kr/2025/06/iphone-users-rejoice-tmoney-card-to-be.html) <br/>
+[2025/06/16 - Desmond Bane: 5 Hidden Secrets of the Next NBA Shooting Star](https://ai.trend.dmomo.co.kr/2025/06/desmond-bane-5-hidden-secrets-of-next.html) <br/>
+[2025/06/16 - Analysis of Nexon's Strategy Returning to Classic After KartRider Drift Service Closure](https://ai.trend.dmomo.co.kr/2025/06/analysis-of-nexons-strategy-returning.html) <br/>
+[2025/06/16 - Top 5 Latest Trends in LLM Technology as of June 2025!](https://ai.trend.dmomo.co.kr/2025/06/top-5-latest-trends-in-llm-technology.html) <br/>
