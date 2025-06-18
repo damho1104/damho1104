@@ -80,25 +80,19 @@
 
 ## ✅ Latest Blog Post
 
-[2025/06/16 - 무신사 성수점, 월 32억 매출 달성! 성공 비결은 K-팝과 MZ세대?](http://dmomo.co.kr/598) <br/>
-[2025/06/16 - 2025년 주목할 만한 스테이블코인 급성장과 한국 원화 발행 전망은?](http://dmomo.co.kr/597) <br/>
-[2025/06/16 - 아이폰 유저들 환호! 애플페이에 티머니 교통카드 탑재 예정, 대중교통 결제 혁명 오나?](http://dmomo.co.kr/596) <br/>
-[2025/06/16 - 2025년 6월 기준 최신 LLM 기술 동향 5가지 총정리!](http://dmomo.co.kr/595) <br/>
-[2025/06/16 - 데스몬드 베인: NBA 차세대 슈팅 스타의 숨겨진 5가지 비결](http://dmomo.co.kr/594) <br/>
-[2025/06/16 - 카트라이더 드리프트 서비스 종료, 클래식으로 회귀하는 넥슨의 전략 분석](http://dmomo.co.kr/593) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/06/16 - 무신사 성수점, 월 32억 매출 달성! 성공 비결은 K-팝과 MZ세대?](https://blog.ai.dmomo.co.kr/trend/3088) <br/>
-[2025/06/16 - 2025년 주목할 만한 스테이블코인 급성장과 한국 원화 발행 전망은?](https://blog.ai.dmomo.co.kr/tech/3085) <br/>
-[2025/06/16 - 아이폰 유저들 환호! 애플페이에 티머니 교통카드 탑재 예정, 대중교통 결제 혁명 오나?](https://blog.ai.dmomo.co.kr/trend/3083) <br/>
-[2025/06/16 - 데스몬드 베인: NBA 차세대 슈팅 스타의 숨겨진 5가지 비결](https://blog.ai.dmomo.co.kr/trend/3079) <br/>
-[2025/06/16 - 카트라이더 드리프트 서비스 종료, 클래식으로 회귀하는 넥슨의 전략 분석](https://blog.ai.dmomo.co.kr/trend/3077) <br/>
-[2025/06/16 - 2025년 6월 기준 최신 LLM 기술 동향 5가지 총정리!](https://blog.ai.dmomo.co.kr/tech/3075) <br/>
+[2025/06/17 - 충격! 지하 아이돌의 몰락? 이호테우 미나 탈퇴와 그룹 해체 위기의 진실](https://blog.ai.dmomo.co.kr/trend/3112) <br/>
+[2025/06/17 - 2025년 최신 제3자 소프트웨어 보안 위협과 효과적 대응 전략 5가지](https://blog.ai.dmomo.co.kr/tech/3109) <br/>
+[2025/06/17 - JDB엔터 대표 불륜 스캔들: 유부남 CEO의 걸그룹 멤버와의 충격적 관계](https://blog.ai.dmomo.co.kr/trend/3107) <br/>
+[2025/06/17 - 팬게임의 함정: ‘왁제이맥스’ 사건이 보여준 저작권 갈등의 실체](https://blog.ai.dmomo.co.kr/trend/3103) <br/>
+[2025/06/17 - NBA 라이징스타, Jalen Williams: 오클라호마 시티 썬더의 미래를 이끌 다재다능한 스윙맨](https://blog.ai.dmomo.co.kr/trend/3101) <br/>
+[2025/06/17 - 트럼프 모바일 T1: 보수층 겨냥한 ‘미국제’ 5G 스마트폰의 전략과 도전](https://blog.ai.dmomo.co.kr/trend/3097) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/06/16 - Musinsa Seongsu Store Achieves Monthly Sales of 3.2 Billion Won! Success Secrets: K-Pop and the MZ Generation?](https://ai.trend.dmomo.co.kr/2025/06/musinsa-seongsu-store-achieves-monthly.html) <br/>
-[2025/06/16 - The Rapid Growth of Stablecoins to Watch in 2025 and the Outlook for Korean Won Issuance](https://ai.trend.dmomo.co.kr/2025/06/the-rapid-growth-of-stablecoins-to.html) <br/>
-[2025/06/16 - iPhone Users Rejoice! Tmoney Card to be Integrated with Apple Pay - Is a Revolution in Public Transport Payments Coming?](https://ai.trend.dmomo.co.kr/2025/06/iphone-users-rejoice-tmoney-card-to-be.html) <br/>
-[2025/06/16 - Desmond Bane: 5 Hidden Secrets of the Next NBA Shooting Star](https://ai.trend.dmomo.co.kr/2025/06/desmond-bane-5-hidden-secrets-of-next.html) <br/>
-[2025/06/16 - Analysis of Nexon's Strategy Returning to Classic After KartRider Drift Service Closure](https://ai.trend.dmomo.co.kr/2025/06/analysis-of-nexons-strategy-returning.html) <br/>
-[2025/06/16 - Top 5 Latest Trends in LLM Technology as of June 2025!](https://ai.trend.dmomo.co.kr/2025/06/top-5-latest-trends-in-llm-technology.html) <br/>
+[2025/06/17 - Shocking! The Downfall of the Underground Idol? The Truth Behind Lee Ho-teu's Mina's Departure and the Group's Crisis](https://ai.trend.dmomo.co.kr/2025/06/shocking-downfall-of-underground-idol.html) <br/>
+[2025/06/17 - Top 5 Emerging Third-Party Software Security Threats in 2025 and How to Effectively Counter Them](https://ai.trend.dmomo.co.kr/2025/06/top-5-emerging-third-party-software.html) <br/>
+[2025/06/17 - JDB Entertainment CEO's Shocking Affair with Girl Group Member: Scandal Involving Married Man](https://ai.trend.dmomo.co.kr/2025/06/jdb-entertainment-ceos-shocking-affair.html) <br/>
+[2025/06/17 - The Pitfalls of Fan Games: The Reality of Copyright Conflicts Revealed by the 'Wakjeimax' Incident](https://ai.trend.dmomo.co.kr/2025/06/the-pitfalls-of-fan-games-reality-of.html) <br/>
+[2025/06/17 - NBA Rising Star, Jalen Williams: The Versatile Swingman Leading the Future of Oklahoma City Thunder](https://ai.trend.dmomo.co.kr/2025/06/nba-rising-star-jalen-williams.html) <br/>
+[2025/06/17 - Trump Mobile T1: The Strategy and Challenges of an 'American-Made' 5G Smartphone Targeting Conservative Voters](https://ai.trend.dmomo.co.kr/2025/06/trump-mobile-t1-strategy-and-challenges.html) <br/>
