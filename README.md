@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/06/18 - [인프라 / VPN] Tailscale 설명 및 간단 사용 방법](https://blog.ai.dmomo.co.kr/%ec%9d%b8%ed%94%84%eb%9d%bc/3170) <br/>
-[2025/06/18 - 윤딴딴 폭행 영상 파문: 은종과의 이혼 사건 전말과 충격적 진실](https://blog.ai.dmomo.co.kr/trend/3168) <br/>
-[2025/06/18 - 재즈와 범죄를 아우르는 미스터리: Derek Dixon의 두 얼굴](https://blog.ai.dmomo.co.kr/trend/3166) <br/>
-[2025/06/18 - 충격! 더보이즈 주학년, 日 AV 배우와 스캔들로 전격 퇴출](https://blog.ai.dmomo.co.kr/trend/3162) <br/>
-[2025/06/18 - 2025년 최신 MLOps 트렌드와 혁신! 2nd Annual MLOps World Conference 핵심 정리](https://blog.ai.dmomo.co.kr/tech/3159) <br/>
-[2025/06/18 - 메쉬 VPN이란 무엇인가요? NordVPN Meshnet 핵심 기능과 장점 7가지](https://blog.ai.dmomo.co.kr/tech/3155) <br/>
+[2025/06/19 - 아스카 키라라 스캔들: MC몽과 주학년의 몰락, 그리고 K팝의 위기](https://blog.ai.dmomo.co.kr/trend/3234) <br/>
+[2025/06/19 - 레알 마드리드의 충격적인 무승부! 클럽 월드컵에서 알힐랄과 1-1 동점](https://blog.ai.dmomo.co.kr/trend/3232) <br/>
+[2025/06/19 - 유벤투스, 알아인에 5-0 대승… 클럽월드컵 우승 향한 첫걸음](https://blog.ai.dmomo.co.kr/trend/3229) <br/>
+[2025/06/19 - 2025년 최신 SCF v2로 보는 AI 서버리스 배포 혁신과 AWS 통합 비밀](https://blog.ai.dmomo.co.kr/tech/3227) <br/>
+[2025/06/19 - [인프라 / VPN] Tailscale 유사 Site-to-Site 설정(Subnet Router)](https://blog.ai.dmomo.co.kr/infra/3212) <br/>
+[2025/06/19 - 세사르 몬테스의 ‘브레이스’, 멕시코 8강 확정! 2025 골드컵 대회 2차전 하이라이트](https://blog.ai.dmomo.co.kr/trend/3204) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/06/18 - Yun Ddan Ddan Assault Video Controversy: The Shocking Truth Behind the Divorce Incident with Eunjong](https://ai.trend.dmomo.co.kr/2025/06/yun-ddan-ddan-assault-video-controversy.html) <br/>
-[2025/06/18 - A Mystery Encompassing Jazz and Crime: The Two Faces of Derek Dixon](https://ai.trend.dmomo.co.kr/2025/06/a-mystery-encompassing-jazz-and-crime.html) <br/>
-[2025/06/18 - Shocking! THE BOYZ's Ju Haknyeon Expelled Due to Scandal with Japanese AV Actress](https://ai.trend.dmomo.co.kr/2025/06/shocking-boyzs-ju-haknyeon-expelled-due.html) <br/>
-[2025/06/18 - 2025 Cutting-Edge MLOps Trends and Innovations! Key Takeaways from the 2nd Annual MLOps World Conference](https://ai.trend.dmomo.co.kr/2025/06/2025-cutting-edge-mlops-trends-and.html) <br/>
-[2025/06/18 - What Is Mesh VPN? 7 Key Features and Benefits of NordVPN Meshnet](https://ai.trend.dmomo.co.kr/2025/06/what-is-mesh-vpn-7-key-features-and.html) <br/>
-[2025/06/18 - NCT Former Member Taeil Faces 7-Year Prison Sentence for Sexual Assault Charges... Shocking the K-Pop Industry](https://ai.trend.dmomo.co.kr/2025/06/nct-former-member-taeil-faces-7-year.html) <br/>
+[2025/06/19 - The Asuka Kirara Scandal: The Downfall of MC Mong and Joo Hak-kyun, and the Crisis in K-Pop](https://ai.trend.dmomo.co.kr/2025/06/the-asuka-kirara-scandal-downfall-of-mc.html) <br/>
+[2025/06/19 - Shocking Draw for Real Madrid! 1-1 Tie with Al Hilal in Club World Cup](https://ai.trend.dmomo.co.kr/2025/06/shocking-draw-for-real-madrid-1-1-tie.html) <br/>
+[2025/06/19 - Juventus Claims Dominant 5-0 Victory Over Al Ain: First Step Towards Club World Cup Glory](https://ai.trend.dmomo.co.kr/2025/06/juventus-claims-dominant-5-0-victory.html) <br/>
+[2025/06/19 - Revolutionizing AI Serverless Deployment with the Latest 2025 SCF v2 and Secrets of AWS Integration](https://ai.trend.dmomo.co.kr/2025/06/revolutionizing-ai-serverless.html) <br/>
+[2025/06/19 - César Montes' 'Brace' Secures Mexico's Quarterfinal Spot! 2025 Gold Cup Match 2 Highlights](https://ai.trend.dmomo.co.kr/2025/06/cesar-montes-brace-secures-mexicos.html) <br/>
+[2025/06/19 - 2025 MapleStory Mega Update: New Class 'Ren' and Community Chaos](https://ai.trend.dmomo.co.kr/2025/06/2025-maplestory-mega-update-new-class.html) <br/>
