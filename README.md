@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/06/19 - 아스카 키라라 스캔들: MC몽과 주학년의 몰락, 그리고 K팝의 위기](https://blog.ai.dmomo.co.kr/trend/3234) <br/>
-[2025/06/19 - 레알 마드리드의 충격적인 무승부! 클럽 월드컵에서 알힐랄과 1-1 동점](https://blog.ai.dmomo.co.kr/trend/3232) <br/>
-[2025/06/19 - 유벤투스, 알아인에 5-0 대승… 클럽월드컵 우승 향한 첫걸음](https://blog.ai.dmomo.co.kr/trend/3229) <br/>
-[2025/06/19 - 2025년 최신 SCF v2로 보는 AI 서버리스 배포 혁신과 AWS 통합 비밀](https://blog.ai.dmomo.co.kr/tech/3227) <br/>
-[2025/06/19 - [인프라 / VPN] Tailscale 유사 Site-to-Site 설정(Subnet Router)](https://blog.ai.dmomo.co.kr/infra/3212) <br/>
-[2025/06/19 - 세사르 몬테스의 ‘브레이스’, 멕시코 8강 확정! 2025 골드컵 대회 2차전 하이라이트](https://blog.ai.dmomo.co.kr/trend/3204) <br/>
+[2025/06/21 - [한국경제] 한화전차도 못 피한 퍼스트 스탠드의 저주’](https://blog.ai.dmomo.co.kr/news/3350) <br/>
+[2025/06/21 - [한국경제] 부산에 띄운 클래식 크루즈…정명훈 지휘 아래 첫 출항](https://blog.ai.dmomo.co.kr/news/3348) <br/>
+[2025/06/21 - [한국경제] 믿었던 AI에게 배신당할 수 있다?…오픈AI 예외적 존재의 경고](https://blog.ai.dmomo.co.kr/news/3345) <br/>
+[2025/06/21 - [매일경제] “삼성전자는 시동도 안 걸었는데”…외국인이 주도하는 허니문랠리, 더 가겠네](https://blog.ai.dmomo.co.kr/news/3343) <br/>
+[2025/06/21 - [한국경제] 핑크퐁보다 더 뜰 줄은…아기상어 성공 비하인드 살펴보니](https://blog.ai.dmomo.co.kr/news/3342) <br/>
+[2025/06/21 - [한국경제] 가맹점 접고 바로 옆에 새 매장?…경업금지조항 따져 봤나요](https://blog.ai.dmomo.co.kr/news/3340) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/06/19 - The Asuka Kirara Scandal: The Downfall of MC Mong and Joo Hak-kyun, and the Crisis in K-Pop](https://ai.trend.dmomo.co.kr/2025/06/the-asuka-kirara-scandal-downfall-of-mc.html) <br/>
-[2025/06/19 - Shocking Draw for Real Madrid! 1-1 Tie with Al Hilal in Club World Cup](https://ai.trend.dmomo.co.kr/2025/06/shocking-draw-for-real-madrid-1-1-tie.html) <br/>
-[2025/06/19 - Juventus Claims Dominant 5-0 Victory Over Al Ain: First Step Towards Club World Cup Glory](https://ai.trend.dmomo.co.kr/2025/06/juventus-claims-dominant-5-0-victory.html) <br/>
-[2025/06/19 - Revolutionizing AI Serverless Deployment with the Latest 2025 SCF v2 and Secrets of AWS Integration](https://ai.trend.dmomo.co.kr/2025/06/revolutionizing-ai-serverless.html) <br/>
-[2025/06/19 - César Montes' 'Brace' Secures Mexico's Quarterfinal Spot! 2025 Gold Cup Match 2 Highlights](https://ai.trend.dmomo.co.kr/2025/06/cesar-montes-brace-secures-mexicos.html) <br/>
-[2025/06/19 - 2025 MapleStory Mega Update: New Class 'Ren' and Community Chaos](https://ai.trend.dmomo.co.kr/2025/06/2025-maplestory-mega-update-new-class.html) <br/>
+[2025/06/20 - KIA vs SSG: Who Will Prevail, the Extra-Inning Clutch Player or the Defense Master?](https://ai.trend.dmomo.co.kr/2025/06/kia-vs-ssg-who-will-prevail-extra.html) <br/>
+[2025/06/20 - Top 5 Features of the 2025 Latest Agentic RAG Technology and How It Differs from Traditional RAG](https://ai.trend.dmomo.co.kr/2025/06/top-5-features-of-2025-latest-agentic.html) <br/>
+[2025/06/20 - KakaoTalk Innovation: 10 Ways to Hide Messages with the 'Spoiler Prevention' Feature](https://ai.trend.dmomo.co.kr/2025/06/kakaotalk-innovation-10-ways-to-hide.html) <br/>
+[2025/06/20 - Samsung Galaxy Z Fold 7: What’s the Secret Behind Its Revolutionary Ultra-Slim Design and Ultra-Powerful Performance?](https://ai.trend.dmomo.co.kr/2025/06/samsung-galaxy-z-fold-7-whats-secret.html) <br/>
+[2025/06/20 - Messi's Magical Free Kick: Inter Miami's Comeback Victory in the FIFA Club World Cup](https://ai.trend.dmomo.co.kr/2025/06/messis-magical-free-kick-inter-miamis.html) <br/>
+[2025/06/20 - Accelerating the U.S. Gold Cup Challenge with a 1-0 Victory: What is the Tactical Significance of Richards' Winning Goal?](https://ai.trend.dmomo.co.kr/2025/06/accelerating-us-gold-cup-challenge-with.html) <br/>
