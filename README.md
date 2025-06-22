@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/06/21 - [한국경제] 한화전차도 못 피한 퍼스트 스탠드의 저주’](https://blog.ai.dmomo.co.kr/news/3350) <br/>
-[2025/06/21 - [한국경제] 부산에 띄운 클래식 크루즈…정명훈 지휘 아래 첫 출항](https://blog.ai.dmomo.co.kr/news/3348) <br/>
-[2025/06/21 - [한국경제] 믿었던 AI에게 배신당할 수 있다?…오픈AI 예외적 존재의 경고](https://blog.ai.dmomo.co.kr/news/3345) <br/>
-[2025/06/21 - [매일경제] “삼성전자는 시동도 안 걸었는데”…외국인이 주도하는 허니문랠리, 더 가겠네](https://blog.ai.dmomo.co.kr/news/3343) <br/>
-[2025/06/21 - [한국경제] 핑크퐁보다 더 뜰 줄은…아기상어 성공 비하인드 살펴보니](https://blog.ai.dmomo.co.kr/news/3342) <br/>
-[2025/06/21 - [한국경제] 가맹점 접고 바로 옆에 새 매장?…경업금지조항 따져 봤나요](https://blog.ai.dmomo.co.kr/news/3340) <br/>
+[2025/06/22 - UFC 역사를 바꾼 존 존스의 은퇴, 미국 MMA의 새 시대 열리나?](https://blog.ai.dmomo.co.kr/trend/3495) <br/>
+[2025/06/22 - 플루미넨시 vs 울산: 역전과 재역전의 4-2 드라마, 그 승부의 비밀은?](https://blog.ai.dmomo.co.kr/trend/3494) <br/>
+[2025/06/22 - [매일경제] ‘버핏 떠난다’…프리미엄 빠진 버크셔, 10% 하락](https://blog.ai.dmomo.co.kr/news/3489) <br/>
+[2025/06/22 - [한국경제] 8000만원 날릴 뻔…해외 투자 자산가 가슴 쓸어내린 사연](https://blog.ai.dmomo.co.kr/news/3486) <br/>
+[2025/06/22 - [한국경제] 영끌 광풍 1년만에 재개되나…가계대출 19일만에 4조↑](https://blog.ai.dmomo.co.kr/news/3483) <br/>
+[2025/06/22 - [매일경제] 벙커버스터 탑재 가능한 B-2 폭격기… 美서 출발해 괌 이동중](https://blog.ai.dmomo.co.kr/news/3480) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/06/20 - KIA vs SSG: Who Will Prevail, the Extra-Inning Clutch Player or the Defense Master?](https://ai.trend.dmomo.co.kr/2025/06/kia-vs-ssg-who-will-prevail-extra.html) <br/>
-[2025/06/20 - Top 5 Features of the 2025 Latest Agentic RAG Technology and How It Differs from Traditional RAG](https://ai.trend.dmomo.co.kr/2025/06/top-5-features-of-2025-latest-agentic.html) <br/>
-[2025/06/20 - KakaoTalk Innovation: 10 Ways to Hide Messages with the 'Spoiler Prevention' Feature](https://ai.trend.dmomo.co.kr/2025/06/kakaotalk-innovation-10-ways-to-hide.html) <br/>
-[2025/06/20 - Samsung Galaxy Z Fold 7: What’s the Secret Behind Its Revolutionary Ultra-Slim Design and Ultra-Powerful Performance?](https://ai.trend.dmomo.co.kr/2025/06/samsung-galaxy-z-fold-7-whats-secret.html) <br/>
-[2025/06/20 - Messi's Magical Free Kick: Inter Miami's Comeback Victory in the FIFA Club World Cup](https://ai.trend.dmomo.co.kr/2025/06/messis-magical-free-kick-inter-miamis.html) <br/>
-[2025/06/20 - Accelerating the U.S. Gold Cup Challenge with a 1-0 Victory: What is the Tactical Significance of Richards' Winning Goal?](https://ai.trend.dmomo.co.kr/2025/06/accelerating-us-gold-cup-challenge-with.html) <br/>
+[2025/06/21 - Five Innovations and Industry Applications of Ericsson's 2025 5G Integrated Edge AI](https://ai.trend.dmomo.co.kr/2025/06/five-innovations-and-industry.html) <br/>
+[2025/06/21 - Jeonbuk vs FC Seoul: K League 1 'Big Match' Preview, Who Will Come Out on Top?](https://ai.trend.dmomo.co.kr/2025/06/jeonbuk-vs-fc-seoul-k-league-1-big.html) <br/>
+[2025/06/21 - The Reality of the Iranian Earthquake: Impact and Aftermath of the 5.1 Magnitude Shock According to USGS Data](https://ai.trend.dmomo.co.kr/2025/06/the-reality-of-iranian-earthquake.html) <br/>
+[2025/06/21 - Breathtaking Showdown: Samsung vs Lotte, A Turning Point in the 2025 KBO Top Tier Competition](https://ai.trend.dmomo.co.kr/2025/06/breathtaking-showdown-samsung-vs-lotte.html) <br/>
+[2025/06/21 - Bayern 2-1 Boca: Securing a Spot in the FIFA Club World Cup Round of 16! What’s the Secret Behind Olic's Winning Goal?](https://ai.trend.dmomo.co.kr/2025/06/bayern-2-1-boca-securing-spot-in-fifa.html) <br/>
+[2025/06/21 - Panama 1-0 Guatemala: Visiting the Scene of a 2025 Gold Cup Upset](https://ai.trend.dmomo.co.kr/2025/06/panama-1-0-guatemala-visiting-scene-of.html) <br/>
