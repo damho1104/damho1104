@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/06/22 - UFC 역사를 바꾼 존 존스의 은퇴, 미국 MMA의 새 시대 열리나?](https://blog.ai.dmomo.co.kr/trend/3495) <br/>
-[2025/06/22 - 플루미넨시 vs 울산: 역전과 재역전의 4-2 드라마, 그 승부의 비밀은?](https://blog.ai.dmomo.co.kr/trend/3494) <br/>
-[2025/06/22 - [매일경제] ‘버핏 떠난다’…프리미엄 빠진 버크셔, 10% 하락](https://blog.ai.dmomo.co.kr/news/3489) <br/>
-[2025/06/22 - [한국경제] 8000만원 날릴 뻔…해외 투자 자산가 가슴 쓸어내린 사연](https://blog.ai.dmomo.co.kr/news/3486) <br/>
-[2025/06/22 - [한국경제] 영끌 광풍 1년만에 재개되나…가계대출 19일만에 4조↑](https://blog.ai.dmomo.co.kr/news/3483) <br/>
-[2025/06/22 - [매일경제] 벙커버스터 탑재 가능한 B-2 폭격기… 美서 출발해 괌 이동중](https://blog.ai.dmomo.co.kr/news/3480) <br/>
+[2025/06/23 - 10명의 레알 마드리드, 3-1 승리로 클럽월드컵 16강 진출 ‘눈앞’](https://blog.ai.dmomo.co.kr/trend/3835) <br/>
+[2025/06/23 - [매일경제] 유엔 안보리 긴급회의 소집…미국의 이란 핵시설 공습 논의](https://blog.ai.dmomo.co.kr/news/3830) <br/>
+[2025/06/23 - [매일경제] 비트코인, 중동 긴장 고조 속 10만 달러선 붕괴](https://blog.ai.dmomo.co.kr/news/3827) <br/>
+[2025/06/23 - [매일경제] 비트코인 10만 달러 붕괴···중동 불확실성 지속 우려](https://blog.ai.dmomo.co.kr/news/3824) <br/>
+[2025/06/23 - [매일경제] [美, 이란 폭격] 보복 천명한 이란에 중동 내 미군 기지 초긴장](https://blog.ai.dmomo.co.kr/news/3821) <br/>
+[2025/06/23 - [매일경제] 우주강국 1위는 누가봐도 미국…2위는 민간기업 수 172곳 달하는 ‘이 나라’](https://blog.ai.dmomo.co.kr/news/3818) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/06/21 - Five Innovations and Industry Applications of Ericsson's 2025 5G Integrated Edge AI](https://ai.trend.dmomo.co.kr/2025/06/five-innovations-and-industry.html) <br/>
-[2025/06/21 - Jeonbuk vs FC Seoul: K League 1 'Big Match' Preview, Who Will Come Out on Top?](https://ai.trend.dmomo.co.kr/2025/06/jeonbuk-vs-fc-seoul-k-league-1-big.html) <br/>
-[2025/06/21 - The Reality of the Iranian Earthquake: Impact and Aftermath of the 5.1 Magnitude Shock According to USGS Data](https://ai.trend.dmomo.co.kr/2025/06/the-reality-of-iranian-earthquake.html) <br/>
-[2025/06/21 - Breathtaking Showdown: Samsung vs Lotte, A Turning Point in the 2025 KBO Top Tier Competition](https://ai.trend.dmomo.co.kr/2025/06/breathtaking-showdown-samsung-vs-lotte.html) <br/>
-[2025/06/21 - Bayern 2-1 Boca: Securing a Spot in the FIFA Club World Cup Round of 16! What’s the Secret Behind Olic's Winning Goal?](https://ai.trend.dmomo.co.kr/2025/06/bayern-2-1-boca-securing-spot-in-fifa.html) <br/>
-[2025/06/21 - Panama 1-0 Guatemala: Visiting the Scene of a 2025 Gold Cup Upset](https://ai.trend.dmomo.co.kr/2025/06/panama-1-0-guatemala-visiting-scene-of.html) <br/>
+[2025/06/22 - U.S. Attack on Iran's Nuclear Facilities: Three Major Targets and Their Consequences - A New Middle East Crisis?](https://ai.trend.dmomo.co.kr/2025/06/us-attack-on-irans-nuclear-facilities_22.html) <br/>
+[2025/06/22 - Top 5 Cutting-Edge MLOps Trends and Dependency Management Strategies for 2025](https://ai.trend.dmomo.co.kr/2025/06/top-5-cutting-edge-mlops-trends-and.html) <br/>
+[2025/06/22 - U.S. Attack on Iran's Nuclear Facilities: Trump's Strategy and Shifts in Middle Eastern Dynamics](https://ai.trend.dmomo.co.kr/2025/06/us-attack-on-irans-nuclear-facilities.html) <br/>
+[2025/06/22 - Bayern Munich Secures Round of 16 with 2-1 Comeback Victory, Defeats Boca Juniors and Extends Unbeaten Streak to 8 Matches](https://ai.trend.dmomo.co.kr/2025/06/bayern-munich-secures-round-of-16-with.html) <br/>
+[2025/06/22 - U.S. Stealth Bomber B-2 Deployed to Guam as Tensions Rise in the Middle East](https://ai.trend.dmomo.co.kr/2025/06/us-stealth-bomber-b-2-deployed-to-guam.html) <br/>
+[2025/06/22 - Giants Shine Even Without Lee Jung-hoo, Debers' Homer Leads Red Sox to 3-2 Victory](https://ai.trend.dmomo.co.kr/2025/06/giants-shine-even-without-lee-jung-hoo.html) <br/>
