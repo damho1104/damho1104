@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/06/24 - [매일경제] 트럼프 “완전한 휴전 합의”…이란-이스라엘은 ‘묵묵부답’](https://blog.ai.dmomo.co.kr/news/4078) <br/>
-[2025/06/24 - [매일경제] 20년 선수생활 마감한 ‘배구 여제’ 김연경, 뭐하나 했더니…깜짝 근황](https://blog.ai.dmomo.co.kr/news/4075) <br/>
-[2025/06/23 - [매일경제] “뛰어내려”…‘21명 탑승’ 열기구 활활 불타오르다 추락, 브라질서 8명 숨져](https://blog.ai.dmomo.co.kr/news/4072) <br/>
-[2025/06/23 - [매일경제] ‘사실상 전쟁’ 상태에…증시·원유·비트코인 출렁인다](https://blog.ai.dmomo.co.kr/news/4069) <br/>
-[2025/06/23 - [한국경제] 한인 2세 고교생 로이 김, 장진호 전투 영웅들’ 추모 눈길’](https://blog.ai.dmomo.co.kr/news/4066) <br/>
-[2025/06/23 - [한국경제] 코요태 신지, 웨딩 촬영 마쳤다…7세 연하 가수와 내년 결혼](https://blog.ai.dmomo.co.kr/news/4063) <br/>
+[2025/06/25 - [매일경제] “핵시설 공습 이전 가격”…이틀 연속 유가 하락 브렌트·WTI 6%↓](https://blog.ai.dmomo.co.kr/news/4218) <br/>
+[2025/06/25 - [매일경제] 헤이그 도착 트럼프 나토 환영만찬 참석…젤렌스키와 한자리에](https://blog.ai.dmomo.co.kr/news/4215) <br/>
+[2025/06/25 - [한국경제] 위성 이용해 지하 금광 캔다…자원 채굴에 우주 기술 부상](https://blog.ai.dmomo.co.kr/news/4212) <br/>
+[2025/06/25 - [한국경제] 암살자여도 사랑해요…외톨이들을 향한 AI의 가스라이팅](https://blog.ai.dmomo.co.kr/news/4209) <br/>
+[2025/06/24 - [내돈내산 / 리뷰] 휴대용 공유기 GL-iNet GL-AXT1800](https://blog.ai.dmomo.co.kr/review/4201) <br/>
+[2025/06/24 - KT 셋탑박스 무선으로 사용하기(IPTime Mesh, MACVLAN)](https://blog.ai.dmomo.co.kr/infra/4194) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/06/23 - Claude Code Deep Dive: How to Automate Coding and Secure Your Terminal AI in One Go](https://ai.trend.dmomo.co.kr/2025/06/claude-code-deep-dive-how-to-automate.html) <br/>
-[2025/06/23 - Shifting Dynamics in North American Soccer: Mexico-Costa Rica 0-0 Draw and Quarterfinal Outlook](https://ai.trend.dmomo.co.kr/2025/06/shifting-dynamics-in-north-american.html) <br/>
-[2025/06/23 - Core Web Security Technologies for 2025: Enhancing Web Content Filtering and Domain Classification](https://ai.trend.dmomo.co.kr/2025/06/core-web-security-technologies-for-2025.html) <br/>
-[2025/06/23 - Will An Kyu-baek, the First Civilian Defense Minister in 64 Years, Spark a New Era of Military Reform?](https://ai.trend.dmomo.co.kr/2025/06/will-kyu-baek-first-civilian-defense.html) <br/>
-[2025/06/23 - NBA Shock: Tyrese Haliburton's Achilles Injury – What’s Next for the Pacers and the League?](https://ai.trend.dmomo.co.kr/2025/06/nba-shock-tyrese-haliburtons-achilles.html) <br/>
-[2025/06/23 - Crisis in the Hormuz Strait: Why is 25% of Global Oil Supply Under Threat?](https://ai.trend.dmomo.co.kr/2025/06/crisis-in-hormuz-strait-why-is-25-of.html) <br/>
+[2025/06/24 - The Shock of the War 12 Days Ago: The Collapse of Israel's 'Four Layers of Defense' and the Shift in Middle Eastern Security Landscape](https://ai.trend.dmomo.co.kr/2025/06/the-shock-of-war-12-days-ago-collapse.html) <br/>
+[2025/06/24 - Iran-Israel 24-Hour Ceasefire Agreement: What's Behind the Plunge in Oil Prices?](https://ai.trend.dmomo.co.kr/2025/06/iran-israel-24-hour-ceasefire-agreement.html) <br/>
+[2025/06/24 - Inter Miami Advances to the Round of 16 in First Club World Cup! A 'Miraculous Match' Against PSG Awaits](https://ai.trend.dmomo.co.kr/2025/06/inter-miami-advances-to-round-of-16-in.html) <br/>
+[2025/06/24 - The Secrets Behind Youngcheol's Private SNS Switch: Shocking Controversy Unveiled in Solo Season 25](https://ai.trend.dmomo.co.kr/2025/06/the-secrets-behind-youngcheols-private.html) <br/>
+[2025/06/24 - 5 Breakthrough Innovations in Global Cloud Retail Catalogs with 2025’s Latest Vertex AI Search](https://ai.trend.dmomo.co.kr/2025/06/5-breakthrough-innovations-in-global.html) <br/>
+[2025/06/24 - Ballad Singer Moonwon Announces Marriage to 7-Year-Younger Shinji... Spotlight on Their Musical Journey](https://ai.trend.dmomo.co.kr/2025/06/ballad-singer-moonwon-announces.html) <br/>
