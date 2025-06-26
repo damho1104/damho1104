@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/06/25 - [매일경제] “핵시설 공습 이전 가격”…이틀 연속 유가 하락 브렌트·WTI 6%↓](https://blog.ai.dmomo.co.kr/news/4218) <br/>
-[2025/06/25 - [매일경제] 헤이그 도착 트럼프 나토 환영만찬 참석…젤렌스키와 한자리에](https://blog.ai.dmomo.co.kr/news/4215) <br/>
-[2025/06/25 - [한국경제] 위성 이용해 지하 금광 캔다…자원 채굴에 우주 기술 부상](https://blog.ai.dmomo.co.kr/news/4212) <br/>
-[2025/06/25 - [한국경제] 암살자여도 사랑해요…외톨이들을 향한 AI의 가스라이팅](https://blog.ai.dmomo.co.kr/news/4209) <br/>
-[2025/06/24 - [내돈내산 / 리뷰] 휴대용 공유기 GL-iNet GL-AXT1800](https://blog.ai.dmomo.co.kr/review/4201) <br/>
-[2025/06/24 - KT 셋탑박스 무선으로 사용하기(IPTime Mesh, MACVLAN)](https://blog.ai.dmomo.co.kr/infra/4194) <br/>
+[2025/06/26 - [매일경제] “그녀는 개처럼 쫓겨나야한다”…분노한 트럼프가 지목한 여성의 정체](https://blog.ai.dmomo.co.kr/news/4311) <br/>
+[2025/06/26 - [매일경제] “요즘 좀 달라보인다?”…대접 달라진 트럼프, 유럽 국가들로부터 환대](https://blog.ai.dmomo.co.kr/news/4308) <br/>
+[2025/06/26 - [한국경제] 李대통령 AI·반도체 대대적 투자…미래 우주산업 경쟁력 키울 것](https://blog.ai.dmomo.co.kr/news/4305) <br/>
+[2025/06/26 - [한국경제] 게임 한류 식을 것 경고하더니…넥슨 개발자들 총출동](https://blog.ai.dmomo.co.kr/news/4302) <br/>
+[2025/06/26 - [한국경제] 조성진, 獨클래식계 최고 권위 오푸스 클래식상 수상](https://blog.ai.dmomo.co.kr/news/4299) <br/>
+[2025/06/26 - [한국경제] 덥다 더워 낮 기온 30도 넘어…일부 지역엔 빗방울](https://blog.ai.dmomo.co.kr/news/4296) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/06/24 - The Shock of the War 12 Days Ago: The Collapse of Israel's 'Four Layers of Defense' and the Shift in Middle Eastern Security Landscape](https://ai.trend.dmomo.co.kr/2025/06/the-shock-of-war-12-days-ago-collapse.html) <br/>
-[2025/06/24 - Iran-Israel 24-Hour Ceasefire Agreement: What's Behind the Plunge in Oil Prices?](https://ai.trend.dmomo.co.kr/2025/06/iran-israel-24-hour-ceasefire-agreement.html) <br/>
-[2025/06/24 - Inter Miami Advances to the Round of 16 in First Club World Cup! A 'Miraculous Match' Against PSG Awaits](https://ai.trend.dmomo.co.kr/2025/06/inter-miami-advances-to-round-of-16-in.html) <br/>
-[2025/06/24 - The Secrets Behind Youngcheol's Private SNS Switch: Shocking Controversy Unveiled in Solo Season 25](https://ai.trend.dmomo.co.kr/2025/06/the-secrets-behind-youngcheols-private.html) <br/>
-[2025/06/24 - 5 Breakthrough Innovations in Global Cloud Retail Catalogs with 2025’s Latest Vertex AI Search](https://ai.trend.dmomo.co.kr/2025/06/5-breakthrough-innovations-in-global.html) <br/>
-[2025/06/24 - Ballad Singer Moonwon Announces Marriage to 7-Year-Younger Shinji... Spotlight on Their Musical Journey](https://ai.trend.dmomo.co.kr/2025/06/ballad-singer-moonwon-announces.html) <br/>
+[2025/06/25 - Top 5 Cutting-Edge Software Security Audit and Testing Technologies to Watch in 2025](https://ai.trend.dmomo.co.kr/2025/06/top-5-cutting-edge-software-security.html) <br/>
+[2025/06/25 - George Niang Signing: Celtics' $180 Million Tax Strategy and Acquisition of a Three-Point Shooter](https://ai.trend.dmomo.co.kr/2025/06/george-niang-signing-celtics-180.html) <br/>
+[2025/06/25 - KIA vs Kiwoom: The Clash of 1,700 Career Hits by Choi Hyung-woo and 4-Game Winning Streak by Luchinski](https://ai.trend.dmomo.co.kr/2025/06/kia-vs-kiwoom-clash-of-1700-career-hits.html) <br/>
+[2025/06/25 - Chelsea Secures 3-0 Victory Over ES Tunis, Delap's Debut Goal Guarantees Round of 16 Advancement!](https://ai.trend.dmomo.co.kr/2025/06/chelsea-secures-3-0-victory-over-es.html) <br/>
+[2025/06/25 - 2025 Cutting-Edge LLM Technology Comparison: 5 Breakthroughs of Llama 4 vs. DeepSeek R1](https://ai.trend.dmomo.co.kr/2025/06/2025-cutting-edge-llm-technology.html) <br/>
+[2025/06/25 - The Final Curtain Call of Bobbie Sherman, the Legendary '60s Teen Idol: Passed Away at 81](https://ai.trend.dmomo.co.kr/2025/06/the-final-curtain-call-of-bobbie.html) <br/>
