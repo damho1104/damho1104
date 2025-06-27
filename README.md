@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/06/26 - [매일경제] “그녀는 개처럼 쫓겨나야한다”…분노한 트럼프가 지목한 여성의 정체](https://blog.ai.dmomo.co.kr/news/4311) <br/>
-[2025/06/26 - [매일경제] “요즘 좀 달라보인다?”…대접 달라진 트럼프, 유럽 국가들로부터 환대](https://blog.ai.dmomo.co.kr/news/4308) <br/>
-[2025/06/26 - [한국경제] 李대통령 AI·반도체 대대적 투자…미래 우주산업 경쟁력 키울 것](https://blog.ai.dmomo.co.kr/news/4305) <br/>
-[2025/06/26 - [한국경제] 게임 한류 식을 것 경고하더니…넥슨 개발자들 총출동](https://blog.ai.dmomo.co.kr/news/4302) <br/>
-[2025/06/26 - [한국경제] 조성진, 獨클래식계 최고 권위 오푸스 클래식상 수상](https://blog.ai.dmomo.co.kr/news/4299) <br/>
-[2025/06/26 - [한국경제] 덥다 더워 낮 기온 30도 넘어…일부 지역엔 빗방울](https://blog.ai.dmomo.co.kr/news/4296) <br/>
+[2025/06/27 - [매일경제] “엄청난 희생 헌신”…머스크 치켜세웠는데 회사에서 잘린 최측근 이 남자](https://blog.ai.dmomo.co.kr/news/4404) <br/>
+[2025/06/27 - [매일경제] “악마는 프라다를 입는다” 실제모델 보그 편집장 애나 원터, 37년만에 퇴임](https://blog.ai.dmomo.co.kr/news/4401) <br/>
+[2025/06/27 - [한국경제] 아이폰, 에스파 내세워 슬로모션 강조했지만…6년 전 기능을 이제야?](https://blog.ai.dmomo.co.kr/news/4398) <br/>
+[2025/06/27 - [한국경제] 애플, EU의 추가 과징금 압박에 결국…앱스토어 규정 개편](https://blog.ai.dmomo.co.kr/news/4395) <br/>
+[2025/06/27 - [한국경제] 악마는 프라다 실제 모델, 37년 만에 보그 편집장 퇴임](https://blog.ai.dmomo.co.kr/news/4392) <br/>
+[2025/06/26 - [매일경제] “괴롭힘 행위가 혼란의 원인”…미국·이스라엘 ‘돌려까기’ 나선 국가들](https://blog.ai.dmomo.co.kr/news/4389) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/06/25 - Top 5 Cutting-Edge Software Security Audit and Testing Technologies to Watch in 2025](https://ai.trend.dmomo.co.kr/2025/06/top-5-cutting-edge-software-security.html) <br/>
-[2025/06/25 - George Niang Signing: Celtics' $180 Million Tax Strategy and Acquisition of a Three-Point Shooter](https://ai.trend.dmomo.co.kr/2025/06/george-niang-signing-celtics-180.html) <br/>
-[2025/06/25 - KIA vs Kiwoom: The Clash of 1,700 Career Hits by Choi Hyung-woo and 4-Game Winning Streak by Luchinski](https://ai.trend.dmomo.co.kr/2025/06/kia-vs-kiwoom-clash-of-1700-career-hits.html) <br/>
-[2025/06/25 - Chelsea Secures 3-0 Victory Over ES Tunis, Delap's Debut Goal Guarantees Round of 16 Advancement!](https://ai.trend.dmomo.co.kr/2025/06/chelsea-secures-3-0-victory-over-es.html) <br/>
-[2025/06/25 - 2025 Cutting-Edge LLM Technology Comparison: 5 Breakthroughs of Llama 4 vs. DeepSeek R1](https://ai.trend.dmomo.co.kr/2025/06/2025-cutting-edge-llm-technology.html) <br/>
-[2025/06/25 - The Final Curtain Call of Bobbie Sherman, the Legendary '60s Teen Idol: Passed Away at 81](https://ai.trend.dmomo.co.kr/2025/06/the-final-curtain-call-of-bobbie.html) <br/>
+[2025/06/26 - Cursor, Windsurf, Claude Code Compared: The Ultimate 2024 Guide to AI Coding Tools](https://ai.trend.dmomo.co.kr/2025/06/cursor-windsurf-claude-code-compared.html) <br/>
+[2025/06/26 - The Shocking Trial of Diddy Combs: 34 Testimonies from Prostitution to Organized Crime](https://ai.trend.dmomo.co.kr/2025/06/the-shocking-trial-of-diddy-combs-34.html) <br/>
+[2025/06/26 - AI Cloud Innovation Trends Shaped by NVIDIA DGX Cloud and Silicon Photonics in 2025](https://ai.trend.dmomo.co.kr/2025/06/ai-cloud-innovation-trends-shaped-by.html) <br/>
+[2025/06/26 - Dramatic Victory for Inter Milan: Secured Spot in the Round of 16 at the 2025 FIFA Club World Cup!](https://ai.trend.dmomo.co.kr/2025/06/dramatic-victory-for-inter-milan.html) <br/>
+[2025/06/26 - Marge Simpson's Shocking Death: The Saddest Plot in 36 Years of The Simpsons?](https://ai.trend.dmomo.co.kr/2025/06/marge-simpsons-shocking-death-saddest.html) <br/>
+[2025/06/26 - Perfect Guide to Earned Income Tax Credit: Hidden Benefits for 1.46 Million People, From Eligibility to Application](https://ai.trend.dmomo.co.kr/2025/06/perfect-guide-to-earned-income-tax.html) <br/>
