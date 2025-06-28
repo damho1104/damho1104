@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/06/27 - [매일경제] “엄청난 희생 헌신”…머스크 치켜세웠는데 회사에서 잘린 최측근 이 남자](https://blog.ai.dmomo.co.kr/news/4404) <br/>
-[2025/06/27 - [매일경제] “악마는 프라다를 입는다” 실제모델 보그 편집장 애나 원터, 37년만에 퇴임](https://blog.ai.dmomo.co.kr/news/4401) <br/>
-[2025/06/27 - [한국경제] 아이폰, 에스파 내세워 슬로모션 강조했지만…6년 전 기능을 이제야?](https://blog.ai.dmomo.co.kr/news/4398) <br/>
-[2025/06/27 - [한국경제] 애플, EU의 추가 과징금 압박에 결국…앱스토어 규정 개편](https://blog.ai.dmomo.co.kr/news/4395) <br/>
-[2025/06/27 - [한국경제] 악마는 프라다 실제 모델, 37년 만에 보그 편집장 퇴임](https://blog.ai.dmomo.co.kr/news/4392) <br/>
-[2025/06/26 - [매일경제] “괴롭힘 행위가 혼란의 원인”…미국·이스라엘 ‘돌려까기’ 나선 국가들](https://blog.ai.dmomo.co.kr/news/4389) <br/>
+[2025/06/28 - [매일경제] 매경이 전하는 세상의 지식 (매-세-지, 6월 28일)](https://blog.ai.dmomo.co.kr/news/4479) <br/>
+[2025/06/28 - [매일경제] 결혼식 참석했을 뿐인데 병원행…53명 중 27명 구토·발열, 도대체 무슨 일이](https://blog.ai.dmomo.co.kr/news/4476) <br/>
+[2025/06/28 - [한국경제] 일론 머스크, AI에겐 정치적 올바름보다 불편한 진실이 더 필요하다](https://blog.ai.dmomo.co.kr/news/4473) <br/>
+[2025/06/28 - [한국경제] MSI 우승은 누구?…글로벌 팬 60% T1’ 꼽았다](https://blog.ai.dmomo.co.kr/news/4470) <br/>
+[2025/06/27 - [매일경제] “한국이 최고의 파트너입니다”…러브콜 보내는 미국의 조선업](https://blog.ai.dmomo.co.kr/news/4467) <br/>
+[2025/06/27 - [매일경제] 美5월 PCE물가 2.3% ‘예상 부합’](https://blog.ai.dmomo.co.kr/news/4464) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/06/26 - Cursor, Windsurf, Claude Code Compared: The Ultimate 2024 Guide to AI Coding Tools](https://ai.trend.dmomo.co.kr/2025/06/cursor-windsurf-claude-code-compared.html) <br/>
-[2025/06/26 - The Shocking Trial of Diddy Combs: 34 Testimonies from Prostitution to Organized Crime](https://ai.trend.dmomo.co.kr/2025/06/the-shocking-trial-of-diddy-combs-34.html) <br/>
-[2025/06/26 - AI Cloud Innovation Trends Shaped by NVIDIA DGX Cloud and Silicon Photonics in 2025](https://ai.trend.dmomo.co.kr/2025/06/ai-cloud-innovation-trends-shaped-by.html) <br/>
-[2025/06/26 - Dramatic Victory for Inter Milan: Secured Spot in the Round of 16 at the 2025 FIFA Club World Cup!](https://ai.trend.dmomo.co.kr/2025/06/dramatic-victory-for-inter-milan.html) <br/>
-[2025/06/26 - Marge Simpson's Shocking Death: The Saddest Plot in 36 Years of The Simpsons?](https://ai.trend.dmomo.co.kr/2025/06/marge-simpsons-shocking-death-saddest.html) <br/>
-[2025/06/26 - Perfect Guide to Earned Income Tax Credit: Hidden Benefits for 1.46 Million People, From Eligibility to Application](https://ai.trend.dmomo.co.kr/2025/06/perfect-guide-to-earned-income-tax.html) <br/>
+[2025/06/27 - Cutting-Edge IoT Trends in 2025: AI and 5G Fusion Strategies Powering the Era of 3 Billion Connected Devices](https://ai.trend.dmomo.co.kr/2025/06/cutting-edge-iot-trends-in-2025-ai-and.html) <br/>
+[2025/06/27 - Netflix's K-Content Strategy: What's the Secret to Global Success?](https://ai.trend.dmomo.co.kr/2025/06/netflixs-k-content-strategy-whats.html) <br/>
+[2025/06/27 - Real Madrid Secures 3-0 Victory in the US, Advances to Club World Cup Round of 16 with Vinicius' Stellar Performance](https://ai.trend.dmomo.co.kr/2025/06/real-madrid-secures-3-0-victory-in-us.html) <br/>
+[2025/06/27 - Vinicius-Valverde Combo Explodes, Real Madrid Advances to World Cup Round of 16 with 3-0 Victory!](https://ai.trend.dmomo.co.kr/2025/06/vinicius-valverde-combo-explodes-real.html) <br/>
+[2025/06/27 - Real Madrid's American Conquest: The Future of Global Football Seen Through a 3-0 Victory at CWC](https://ai.trend.dmomo.co.kr/2025/06/real-madrids-american-conquest-future.html) <br/>
+[2025/06/27 - Man City Crush Juventus 5-2... Haaland Reaches 300 Goals, 'A New Era'](https://ai.trend.dmomo.co.kr/2025/06/man-city-crush-juventus-5-2-haaland.html) <br/>
