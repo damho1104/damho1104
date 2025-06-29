@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/06/28 - [매일경제] 매경이 전하는 세상의 지식 (매-세-지, 6월 28일)](https://blog.ai.dmomo.co.kr/news/4479) <br/>
-[2025/06/28 - [매일경제] 결혼식 참석했을 뿐인데 병원행…53명 중 27명 구토·발열, 도대체 무슨 일이](https://blog.ai.dmomo.co.kr/news/4476) <br/>
-[2025/06/28 - [한국경제] 일론 머스크, AI에겐 정치적 올바름보다 불편한 진실이 더 필요하다](https://blog.ai.dmomo.co.kr/news/4473) <br/>
-[2025/06/28 - [한국경제] MSI 우승은 누구?…글로벌 팬 60% T1’ 꼽았다](https://blog.ai.dmomo.co.kr/news/4470) <br/>
-[2025/06/27 - [매일경제] “한국이 최고의 파트너입니다”…러브콜 보내는 미국의 조선업](https://blog.ai.dmomo.co.kr/news/4467) <br/>
-[2025/06/27 - [매일경제] 美5월 PCE물가 2.3% ‘예상 부합’](https://blog.ai.dmomo.co.kr/news/4464) <br/>
+[2025/06/29 - [한국경제] 액셀도 없는데 부스터라니…제주도 명소 된 레이싱게임 실사판](https://blog.ai.dmomo.co.kr/news/4568) <br/>
+[2025/06/29 - [한국경제] 멕시코 장인정신 담았다…이효리도 즐기는 추성훈 테킬라 마셔보니](https://blog.ai.dmomo.co.kr/news/4564) <br/>
+[2025/06/29 - IT 커뮤니티 핫이슈 총정리: 최근 1주일간 가장 뜨거웠던 5가지 토픽은?](https://blog.ai.dmomo.co.kr/ai/4561) <br/>
+[2025/06/28 - 윤형빈 vs 밴쯔: 유튜브 채널 걸고 펼치는 MMA 대결의 모든 것](https://blog.ai.dmomo.co.kr/trend/4555) <br/>
+[2025/06/28 - 2025년 최신 웹 기술, AWS Amplify와 AppSync로 완성하는 오프라인 우선 앱 전략](https://blog.ai.dmomo.co.kr/tech/4552) <br/>
+[2025/06/28 - 14차 수정조항의 운명: 미국 시민권의 새로운 기준이 될까?](https://blog.ai.dmomo.co.kr/trend/4550) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/06/27 - Cutting-Edge IoT Trends in 2025: AI and 5G Fusion Strategies Powering the Era of 3 Billion Connected Devices](https://ai.trend.dmomo.co.kr/2025/06/cutting-edge-iot-trends-in-2025-ai-and.html) <br/>
-[2025/06/27 - Netflix's K-Content Strategy: What's the Secret to Global Success?](https://ai.trend.dmomo.co.kr/2025/06/netflixs-k-content-strategy-whats.html) <br/>
-[2025/06/27 - Real Madrid Secures 3-0 Victory in the US, Advances to Club World Cup Round of 16 with Vinicius' Stellar Performance](https://ai.trend.dmomo.co.kr/2025/06/real-madrid-secures-3-0-victory-in-us.html) <br/>
-[2025/06/27 - Vinicius-Valverde Combo Explodes, Real Madrid Advances to World Cup Round of 16 with 3-0 Victory!](https://ai.trend.dmomo.co.kr/2025/06/vinicius-valverde-combo-explodes-real.html) <br/>
-[2025/06/27 - Real Madrid's American Conquest: The Future of Global Football Seen Through a 3-0 Victory at CWC](https://ai.trend.dmomo.co.kr/2025/06/real-madrids-american-conquest-future.html) <br/>
-[2025/06/27 - Man City Crush Juventus 5-2... Haaland Reaches 300 Goals, 'A New Era'](https://ai.trend.dmomo.co.kr/2025/06/man-city-crush-juventus-5-2-haaland.html) <br/>
+[2025/06/28 - Yoon Hyung-bin vs Banz: Everything About the MMA Showdown Wagering Their YouTube Channels](https://ai.trend.dmomo.co.kr/2025/06/yoon-hyung-bin-vs-banz-everything-about.html) <br/>
+[2025/06/28 - Cutting-Edge 2025 Web Technologies: Building Offline-First Apps with AWS Amplify and AppSync](https://ai.trend.dmomo.co.kr/2025/06/cutting-edge-2025-web-technologies.html) <br/>
+[2025/06/28 - The Fate of the 14th Amendment: A New Standard for American Citizenship?](https://ai.trend.dmomo.co.kr/2025/06/the-fate-of-14th-amendment-new-standard.html) <br/>
+[2025/06/28 - Suwon vs Gangwon: K League 1 Season Point Battle, a Clash of Strategies Between the Teams?](https://ai.trend.dmomo.co.kr/2025/06/suwon-vs-gangwon-k-league-1-season.html) <br/>
+[2025/06/28 - From Squid Game 3 to Cheerful Girl: An In-Depth Analysis of Netflix's K-Drama Strategy](https://ai.trend.dmomo.co.kr/2025/06/from-squid-game-3-to-cheerful-girl-in.html) <br/>
+[2025/06/28 - Hwang Dong-hyuk's 'Squid Game': Balancing Global Success and the Struggles of Creation](https://ai.trend.dmomo.co.kr/2025/06/hwang-dong-hyuks-squid-game-balancing.html) <br/>
