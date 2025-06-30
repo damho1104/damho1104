@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/06/29 - [한국경제] 액셀도 없는데 부스터라니…제주도 명소 된 레이싱게임 실사판](https://blog.ai.dmomo.co.kr/news/4568) <br/>
-[2025/06/29 - [한국경제] 멕시코 장인정신 담았다…이효리도 즐기는 추성훈 테킬라 마셔보니](https://blog.ai.dmomo.co.kr/news/4564) <br/>
-[2025/06/29 - IT 커뮤니티 핫이슈 총정리: 최근 1주일간 가장 뜨거웠던 5가지 토픽은?](https://blog.ai.dmomo.co.kr/ai/4561) <br/>
-[2025/06/28 - 윤형빈 vs 밴쯔: 유튜브 채널 걸고 펼치는 MMA 대결의 모든 것](https://blog.ai.dmomo.co.kr/trend/4555) <br/>
-[2025/06/28 - 2025년 최신 웹 기술, AWS Amplify와 AppSync로 완성하는 오프라인 우선 앱 전략](https://blog.ai.dmomo.co.kr/tech/4552) <br/>
-[2025/06/28 - 14차 수정조항의 운명: 미국 시민권의 새로운 기준이 될까?](https://blog.ai.dmomo.co.kr/trend/4550) <br/>
+[2025/06/30 - PSG, 메시의 인터 마이애미에 4-0 대승: FIFA 클럽 월드컵 8강행 성공](https://blog.ai.dmomo.co.kr/trend/4663) <br/>
+[2025/06/30 - 과테말라의 기적: 캐나다 꺾고 29년 만에 골드컵 4강 진출](https://blog.ai.dmomo.co.kr/trend/4662) <br/>
+[2025/06/30 - [매일경제] “요즘 너무 행복합니다”…코스피 4000 전망까지 나왔다, 활짝 웃은 동학개미](https://blog.ai.dmomo.co.kr/news/4656) <br/>
+[2025/06/30 - [한국경제] 방심하면 눈 뜨고 코 베여…기술 지키려면 법정 두려워 마세요](https://blog.ai.dmomo.co.kr/news/4652) <br/>
+[2025/06/30 - [매일경제] “신세계, 실적 저점 통과 후 반등 기대”…목표가↑](https://blog.ai.dmomo.co.kr/news/4644) <br/>
+[2025/06/30 - [매일경제] 소형차 안 팔린다…주력공장 20%만 가동하겠다는 닛산](https://blog.ai.dmomo.co.kr/news/4642) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/06/28 - Yoon Hyung-bin vs Banz: Everything About the MMA Showdown Wagering Their YouTube Channels](https://ai.trend.dmomo.co.kr/2025/06/yoon-hyung-bin-vs-banz-everything-about.html) <br/>
-[2025/06/28 - Cutting-Edge 2025 Web Technologies: Building Offline-First Apps with AWS Amplify and AppSync](https://ai.trend.dmomo.co.kr/2025/06/cutting-edge-2025-web-technologies.html) <br/>
-[2025/06/28 - The Fate of the 14th Amendment: A New Standard for American Citizenship?](https://ai.trend.dmomo.co.kr/2025/06/the-fate-of-14th-amendment-new-standard.html) <br/>
-[2025/06/28 - Suwon vs Gangwon: K League 1 Season Point Battle, a Clash of Strategies Between the Teams?](https://ai.trend.dmomo.co.kr/2025/06/suwon-vs-gangwon-k-league-1-season.html) <br/>
-[2025/06/28 - From Squid Game 3 to Cheerful Girl: An In-Depth Analysis of Netflix's K-Drama Strategy](https://ai.trend.dmomo.co.kr/2025/06/from-squid-game-3-to-cheerful-girl-in.html) <br/>
-[2025/06/28 - Hwang Dong-hyuk's 'Squid Game': Balancing Global Success and the Struggles of Creation](https://ai.trend.dmomo.co.kr/2025/06/hwang-dong-hyuks-squid-game-balancing.html) <br/>
+[2025/06/29 - 5 Key Features of DevOps-Integrated SAST Tools Driving Software Security Innovation in 2025](https://ai.trend.dmomo.co.kr/2025/06/5-key-features-of-devops-integrated.html) <br/>
+[2025/06/29 - FC Seoul vs Pohang: The K-League Big Match Shaken by Ki Sung-yueng's Transfer Controversy and Fan Backlash](https://ai.trend.dmomo.co.kr/2025/06/fc-seoul-vs-pohang-k-league-big-match.html) <br/>
+[2025/06/29 - The Legendary 'Cobra' Dave Parker: A Baseball Journey from MVP to Hall of Fame](https://ai.trend.dmomo.co.kr/2025/06/the-legendary-cobra-dave-parker.html) <br/>
+[2025/06/29 - UFC 317 Recap: Oliveira vs. Topuria Big Match and Everything About Las Vegas Fight Week](https://ai.trend.dmomo.co.kr/2025/06/ufc-317-recap-oliveira-vs-topuria-big.html) <br/>
+[2025/06/29 - Mastering Google Gemini CLI: 4 Essential Features from Installation to Coding Support](https://ai.trend.dmomo.co.kr/2025/06/mastering-google-gemini-cli-4-essential.html) <br/>
+[2025/06/29 - 15-Hour Interrogation of Former President Yoon Suk-yeol and 110 National Policy Goals: Clash of Legal Disputes and Policy Visions](https://ai.trend.dmomo.co.kr/2025/06/15-hour-interrogation-of-former.html) <br/>
