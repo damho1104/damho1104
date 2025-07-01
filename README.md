@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/06/30 - PSG, 메시의 인터 마이애미에 4-0 대승: FIFA 클럽 월드컵 8강행 성공](https://blog.ai.dmomo.co.kr/trend/4663) <br/>
-[2025/06/30 - 과테말라의 기적: 캐나다 꺾고 29년 만에 골드컵 4강 진출](https://blog.ai.dmomo.co.kr/trend/4662) <br/>
-[2025/06/30 - [매일경제] “요즘 너무 행복합니다”…코스피 4000 전망까지 나왔다, 활짝 웃은 동학개미](https://blog.ai.dmomo.co.kr/news/4656) <br/>
-[2025/06/30 - [한국경제] 방심하면 눈 뜨고 코 베여…기술 지키려면 법정 두려워 마세요](https://blog.ai.dmomo.co.kr/news/4652) <br/>
-[2025/06/30 - [매일경제] “신세계, 실적 저점 통과 후 반등 기대”…목표가↑](https://blog.ai.dmomo.co.kr/news/4644) <br/>
-[2025/06/30 - [매일경제] 소형차 안 팔린다…주력공장 20%만 가동하겠다는 닛산](https://blog.ai.dmomo.co.kr/news/4642) <br/>
+[2025/07/01 - 전술 대결의 정점: 인테르 밀란 vs 플루미넨시, 승자는 누구?](https://blog.ai.dmomo.co.kr/trend/4761) <br/>
+[2025/07/01 - [매일경제] 추락했으면 어쩔뻔…주저앉은 伊 밀라노 44층 빌딩 대형간판 ‘아찔’](https://blog.ai.dmomo.co.kr/news/4755) <br/>
+[2025/07/01 - [한국경제] 전화 한 통만 했어도…70대 노인에 944만원 요금 폭탄 사연](https://blog.ai.dmomo.co.kr/news/4751) <br/>
+[2025/07/01 - [한국경제] 휴가도 3일이면 충분…미니 휴가 트렌드에 강원 인기 급부상](https://blog.ai.dmomo.co.kr/news/4747) <br/>
+[2025/06/30 - [매일경제] “챗GPT 때문에 신입사원 일자리 3분의 1 사라져”…英 구인·구직사이트 분석](https://blog.ai.dmomo.co.kr/news/4743) <br/>
+[2025/06/30 - [한국경제] 빙수도 15만원인데 호텔 뷔페가 6만원?…극강 가성비 입소문](https://blog.ai.dmomo.co.kr/news/4739) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/06/29 - 5 Key Features of DevOps-Integrated SAST Tools Driving Software Security Innovation in 2025](https://ai.trend.dmomo.co.kr/2025/06/5-key-features-of-devops-integrated.html) <br/>
-[2025/06/29 - FC Seoul vs Pohang: The K-League Big Match Shaken by Ki Sung-yueng's Transfer Controversy and Fan Backlash](https://ai.trend.dmomo.co.kr/2025/06/fc-seoul-vs-pohang-k-league-big-match.html) <br/>
-[2025/06/29 - The Legendary 'Cobra' Dave Parker: A Baseball Journey from MVP to Hall of Fame](https://ai.trend.dmomo.co.kr/2025/06/the-legendary-cobra-dave-parker.html) <br/>
-[2025/06/29 - UFC 317 Recap: Oliveira vs. Topuria Big Match and Everything About Las Vegas Fight Week](https://ai.trend.dmomo.co.kr/2025/06/ufc-317-recap-oliveira-vs-topuria-big.html) <br/>
-[2025/06/29 - Mastering Google Gemini CLI: 4 Essential Features from Installation to Coding Support](https://ai.trend.dmomo.co.kr/2025/06/mastering-google-gemini-cli-4-essential.html) <br/>
-[2025/06/29 - 15-Hour Interrogation of Former President Yoon Suk-yeol and 110 National Policy Goals: Clash of Legal Disputes and Policy Visions](https://ai.trend.dmomo.co.kr/2025/06/15-hour-interrogation-of-former.html) <br/>
+[2025/06/30 - Claude Code vs Gemini CLI: 5 Key Differences in Coding Performance, Installation, and Cost](https://ai.trend.dmomo.co.kr/2025/06/claude-code-vs-gemini-cli-5-key.html) <br/>
+[2025/06/30 - Shocking Scene of the Sinlim-dong Knife Attack: Unraveling the Causes and Solutions](https://ai.trend.dmomo.co.kr/2025/06/shocking-scene-of-sinlim-dong-knife.html) <br/>
+[2025/06/30 - The Future of AI Cloud Data Center Innovation and Public-Private Partnership Models in 2025](https://ai.trend.dmomo.co.kr/2025/06/the-future-of-ai-cloud-data-center.html) <br/>
+[2025/06/30 - Shock and Awareness: The Truth and Lessons of the Idaho Firefighter Shooting Incident](https://ai.trend.dmomo.co.kr/2025/06/shock-and-awareness-truth-and-lessons.html) <br/>
+[2025/06/30 - FC Seoul vs Pohang Big Match: The Behind the Scenes of a 4-1 Victory Amidst Ki Sung-yueng Transfer Controversy](https://ai.trend.dmomo.co.kr/2025/06/fc-seoul-vs-pohang-big-match-behind.html) <br/>
+[2025/06/30 - The Lovebug Strikes Back: An Intruder in the City Caused by Ecological Disruption](https://ai.trend.dmomo.co.kr/2025/06/the-lovebug-strikes-back-intruder-in.html) <br/>
