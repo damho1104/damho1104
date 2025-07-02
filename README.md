@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/01 - 전술 대결의 정점: 인테르 밀란 vs 플루미넨시, 승자는 누구?](https://blog.ai.dmomo.co.kr/trend/4761) <br/>
-[2025/07/01 - [매일경제] 추락했으면 어쩔뻔…주저앉은 伊 밀라노 44층 빌딩 대형간판 ‘아찔’](https://blog.ai.dmomo.co.kr/news/4755) <br/>
-[2025/07/01 - [한국경제] 전화 한 통만 했어도…70대 노인에 944만원 요금 폭탄 사연](https://blog.ai.dmomo.co.kr/news/4751) <br/>
-[2025/07/01 - [한국경제] 휴가도 3일이면 충분…미니 휴가 트렌드에 강원 인기 급부상](https://blog.ai.dmomo.co.kr/news/4747) <br/>
-[2025/06/30 - [매일경제] “챗GPT 때문에 신입사원 일자리 3분의 1 사라져”…英 구인·구직사이트 분석](https://blog.ai.dmomo.co.kr/news/4743) <br/>
-[2025/06/30 - [한국경제] 빙수도 15만원인데 호텔 뷔페가 6만원?…극강 가성비 입소문](https://blog.ai.dmomo.co.kr/news/4739) <br/>
+[2025/07/02 - [뉴스] 뉴욕증시 혼조…트럼프 상호관세 유예 연장 생각 안 해](https://blog.ai.dmomo.co.kr/news/4866) <br/>
+[2025/07/02 - [뉴스] “이번주 안에 통과된다”···상법 개정 기대감에 지주사株 신고가 행진](https://blog.ai.dmomo.co.kr/news/4862) <br/>
+[2025/07/02 - [뉴스] 코인판 게임경제 후끈…게임사들 스테이블코인 전쟁](https://blog.ai.dmomo.co.kr/news/4860) <br/>
+[2025/07/02 - [뉴스] “세상에 없는 황홀한 명소”…복합리조트 개장한 北](https://blog.ai.dmomo.co.kr/news/4855) <br/>
+[2025/07/02 - [뉴스] 뉴욕증시 혼조…트럼프 상호관세 유예 연장 생각 안 해](https://blog.ai.dmomo.co.kr/news/4854) <br/>
+[2025/07/02 - [뉴스] 낮 최고 36도 폭염…전국 곳곳 소나기](https://blog.ai.dmomo.co.kr/news/4851) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/06/30 - Claude Code vs Gemini CLI: 5 Key Differences in Coding Performance, Installation, and Cost](https://ai.trend.dmomo.co.kr/2025/06/claude-code-vs-gemini-cli-5-key.html) <br/>
-[2025/06/30 - Shocking Scene of the Sinlim-dong Knife Attack: Unraveling the Causes and Solutions](https://ai.trend.dmomo.co.kr/2025/06/shocking-scene-of-sinlim-dong-knife.html) <br/>
-[2025/06/30 - The Future of AI Cloud Data Center Innovation and Public-Private Partnership Models in 2025](https://ai.trend.dmomo.co.kr/2025/06/the-future-of-ai-cloud-data-center.html) <br/>
-[2025/06/30 - Shock and Awareness: The Truth and Lessons of the Idaho Firefighter Shooting Incident](https://ai.trend.dmomo.co.kr/2025/06/shock-and-awareness-truth-and-lessons.html) <br/>
-[2025/06/30 - FC Seoul vs Pohang Big Match: The Behind the Scenes of a 4-1 Victory Amidst Ki Sung-yueng Transfer Controversy](https://ai.trend.dmomo.co.kr/2025/06/fc-seoul-vs-pohang-big-match-behind.html) <br/>
-[2025/06/30 - The Lovebug Strikes Back: An Intruder in the City Caused by Ecological Disruption](https://ai.trend.dmomo.co.kr/2025/06/the-lovebug-strikes-back-intruder-in.html) <br/>
+[2025/07/01 - 5 Game-Changing Innovations in Device Management with 2025 AWS IoT Integrated Solutions](https://ai.trend.dmomo.co.kr/2025/07/5-game-changing-innovations-in-device.html) <br/>
+[2025/07/01 - The Marriage of Huh Song-yeon and Jeokjae: KARA's Heo Young-ji's New Beginning](https://ai.trend.dmomo.co.kr/2025/07/the-marriage-of-huh-song-yeon-and.html) <br/>
+[2025/07/01 - Shocking Comeback Victory: Al Hilal Defeats Manchester City to Advance to FIFA Club World Cup Semifinals](https://ai.trend.dmomo.co.kr/2025/06/shocking-comeback-victory-al-hilal.html) <br/>
+[2025/07/01 - The Shocking Comeback of Al-Hilal: The Secret Behind Their 4-3 Victory Against Man City](https://ai.trend.dmomo.co.kr/2025/06/the-shocking-comeback-of-al-hilal.html) <br/>
+[2025/07/01 - Comprehensive Analysis of the Latest MLOps Technologies in 2025: Top 5 Key Features of the Databricks Unified Platform](https://ai.trend.dmomo.co.kr/2025/06/comprehensive-analysis-of-latest-mlops.html) <br/>
+[2025/07/01 - Shock! The Truth Behind the 'Wes Raleigh' Mystery of the Firefighter Trap Fire Incident?](https://ai.trend.dmomo.co.kr/2025/06/shock-truth-behind-wes-raleigh-mystery.html) <br/>
