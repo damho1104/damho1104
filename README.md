@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/02 - [뉴스] 뉴욕증시 혼조…트럼프 상호관세 유예 연장 생각 안 해](https://blog.ai.dmomo.co.kr/news/4866) <br/>
-[2025/07/02 - [뉴스] “이번주 안에 통과된다”···상법 개정 기대감에 지주사株 신고가 행진](https://blog.ai.dmomo.co.kr/news/4862) <br/>
-[2025/07/02 - [뉴스] 코인판 게임경제 후끈…게임사들 스테이블코인 전쟁](https://blog.ai.dmomo.co.kr/news/4860) <br/>
-[2025/07/02 - [뉴스] “세상에 없는 황홀한 명소”…복합리조트 개장한 北](https://blog.ai.dmomo.co.kr/news/4855) <br/>
-[2025/07/02 - [뉴스] 뉴욕증시 혼조…트럼프 상호관세 유예 연장 생각 안 해](https://blog.ai.dmomo.co.kr/news/4854) <br/>
-[2025/07/02 - [뉴스] 낮 최고 36도 폭염…전국 곳곳 소나기](https://blog.ai.dmomo.co.kr/news/4851) <br/>
+[2025/07/03 - [뉴스] “북한, 러시아에 3만명 추가 파병 가능성…공세작전 참여”](https://blog.ai.dmomo.co.kr/news/4968) <br/>
+[2025/07/03 - [뉴스] 빠니보틀 앞세워 한국선 길치 된다더니…논란의 구글 지도](https://blog.ai.dmomo.co.kr/news/4965) <br/>
+[2025/07/03 - [뉴스] 고등어·오징어·조기 값 줄줄이 상승…밥상 물가 비상](https://blog.ai.dmomo.co.kr/news/4962) <br/>
+[2025/07/03 - [뉴스] “하나의 크고 아름다운”…27시간 진통 끝에 통과한 트럼프 감세안, 내용은?](https://blog.ai.dmomo.co.kr/news/4959) <br/>
+[2025/07/02 - [뉴스] 휴전안 선 긋는 트럼프?…하마스 “완전한 종전 보장돼야”](https://blog.ai.dmomo.co.kr/news/4956) <br/>
+[2025/07/02 - [뉴스] 아침에 과일 갈아 마시는 것은 술 마시는 것 만큼 나빠](https://blog.ai.dmomo.co.kr/news/4953) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/01 - 5 Game-Changing Innovations in Device Management with 2025 AWS IoT Integrated Solutions](https://ai.trend.dmomo.co.kr/2025/07/5-game-changing-innovations-in-device.html) <br/>
-[2025/07/01 - The Marriage of Huh Song-yeon and Jeokjae: KARA's Heo Young-ji's New Beginning](https://ai.trend.dmomo.co.kr/2025/07/the-marriage-of-huh-song-yeon-and.html) <br/>
-[2025/07/01 - Shocking Comeback Victory: Al Hilal Defeats Manchester City to Advance to FIFA Club World Cup Semifinals](https://ai.trend.dmomo.co.kr/2025/06/shocking-comeback-victory-al-hilal.html) <br/>
-[2025/07/01 - The Shocking Comeback of Al-Hilal: The Secret Behind Their 4-3 Victory Against Man City](https://ai.trend.dmomo.co.kr/2025/06/the-shocking-comeback-of-al-hilal.html) <br/>
-[2025/07/01 - Comprehensive Analysis of the Latest MLOps Technologies in 2025: Top 5 Key Features of the Databricks Unified Platform](https://ai.trend.dmomo.co.kr/2025/06/comprehensive-analysis-of-latest-mlops.html) <br/>
-[2025/07/01 - Shock! The Truth Behind the 'Wes Raleigh' Mystery of the Firefighter Trap Fire Incident?](https://ai.trend.dmomo.co.kr/2025/06/shock-truth-behind-wes-raleigh-mystery.html) <br/>
+[2025/07/02 - The Heartbreaking Farewell and Immortal Legacy of Iconic Actor Shin-Gu in His 60-Year Acting Career](https://ai.trend.dmomo.co.kr/2025/07/the-heartbreaking-farewell-and-immortal.html) <br/>
+[2025/07/02 - Top 5 Cutting-Edge Web Security Technologies in 2025 and AI-Powered Dynamic Content Filtering Strategies](https://ai.trend.dmomo.co.kr/2025/07/top-5-cutting-edge-web-security.html) <br/>
+[2025/07/02 - Dortmund Advances to Club World Cup Quarterfinals: Girasi Secures Victory with 2 Goals Against Monterrey 2-1](https://ai.trend.dmomo.co.kr/2025/07/dortmund-advances-to-club-world-cup.html) <br/>
+[2025/07/02 - FC Seoul vs Jeonbuk: A Fiery Clash of K-League Titans! Who Will Emerge Victorious?](https://ai.trend.dmomo.co.kr/2025/07/fc-seoul-vs-jeonbuk-fiery-clash-of-k.html) <br/>
+[2025/07/02 - Appointment of Lim Eun-jung as Seoul Eastern District Prosecutor: A New Wave of Prosecutorial Reform Begins](https://ai.trend.dmomo.co.kr/2025/07/appointment-of-lim-eun-jung-as-seoul.html) <br/>
+[2025/07/02 - Dortmund vs Monterrey: The Clash of the Club World Cup Round of 16 in the USA](https://ai.trend.dmomo.co.kr/2025/07/dortmund-vs-monterrey-clash-of-club.html) <br/>
