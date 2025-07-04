@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/03 - [뉴스] “북한, 러시아에 3만명 추가 파병 가능성…공세작전 참여”](https://blog.ai.dmomo.co.kr/news/4968) <br/>
-[2025/07/03 - [뉴스] 빠니보틀 앞세워 한국선 길치 된다더니…논란의 구글 지도](https://blog.ai.dmomo.co.kr/news/4965) <br/>
-[2025/07/03 - [뉴스] 고등어·오징어·조기 값 줄줄이 상승…밥상 물가 비상](https://blog.ai.dmomo.co.kr/news/4962) <br/>
-[2025/07/03 - [뉴스] “하나의 크고 아름다운”…27시간 진통 끝에 통과한 트럼프 감세안, 내용은?](https://blog.ai.dmomo.co.kr/news/4959) <br/>
-[2025/07/02 - [뉴스] 휴전안 선 긋는 트럼프?…하마스 “완전한 종전 보장돼야”](https://blog.ai.dmomo.co.kr/news/4956) <br/>
-[2025/07/02 - [뉴스] 아침에 과일 갈아 마시는 것은 술 마시는 것 만큼 나빠](https://blog.ai.dmomo.co.kr/news/4953) <br/>
+[2025/07/04 - [뉴스] ‘훌쩍 훌쩍’ 우는 모습에 금융시장 ‘대혼란’…英 재무장관이 눈물 흘린 이유](https://blog.ai.dmomo.co.kr/news/5046) <br/>
+[2025/07/04 - [뉴스] 보성마저…녹차로는 약해 더 힙한 그린에 꽂혔다](https://blog.ai.dmomo.co.kr/news/5043) <br/>
+[2025/07/04 - [뉴스] 트럼프·푸틴 오늘 통화…우크라 휴전 협상 논의할 듯](https://blog.ai.dmomo.co.kr/news/5040) <br/>
+[2025/07/03 - [뉴스] 美 ‘고용 서프라이즈’](https://blog.ai.dmomo.co.kr/news/5037) <br/>
+[2025/07/03 - [뉴스] 다른 워치로는 부족해…운동이 취미를 넘어선 순간, 가민이 있었다](https://blog.ai.dmomo.co.kr/news/5034) <br/>
+[2025/07/03 - [뉴스] 신기술 개발해도 정부 지원은 0…차라리 수입사가 낫다](https://blog.ai.dmomo.co.kr/news/5031) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/02 - The Heartbreaking Farewell and Immortal Legacy of Iconic Actor Shin-Gu in His 60-Year Acting Career](https://ai.trend.dmomo.co.kr/2025/07/the-heartbreaking-farewell-and-immortal.html) <br/>
-[2025/07/02 - Top 5 Cutting-Edge Web Security Technologies in 2025 and AI-Powered Dynamic Content Filtering Strategies](https://ai.trend.dmomo.co.kr/2025/07/top-5-cutting-edge-web-security.html) <br/>
-[2025/07/02 - Dortmund Advances to Club World Cup Quarterfinals: Girasi Secures Victory with 2 Goals Against Monterrey 2-1](https://ai.trend.dmomo.co.kr/2025/07/dortmund-advances-to-club-world-cup.html) <br/>
-[2025/07/02 - FC Seoul vs Jeonbuk: A Fiery Clash of K-League Titans! Who Will Emerge Victorious?](https://ai.trend.dmomo.co.kr/2025/07/fc-seoul-vs-jeonbuk-fiery-clash-of-k.html) <br/>
-[2025/07/02 - Appointment of Lim Eun-jung as Seoul Eastern District Prosecutor: A New Wave of Prosecutorial Reform Begins](https://ai.trend.dmomo.co.kr/2025/07/appointment-of-lim-eun-jung-as-seoul.html) <br/>
-[2025/07/02 - Dortmund vs Monterrey: The Clash of the Club World Cup Round of 16 in the USA](https://ai.trend.dmomo.co.kr/2025/07/dortmund-vs-monterrey-clash-of-club.html) <br/>
+[2025/07/03 - 2025 MLOps Trends: How ModelOps and LLMOps Are Transforming AI Operations Strategies](https://ai.trend.dmomo.co.kr/2025/07/2025-mlops-trends-how-modelops-and.html) <br/>
+[2025/07/03 - Shock at Diogo Jota's Passing: Waves of Mourning from American Soccer Fans](https://ai.trend.dmomo.co.kr/2025/07/shock-at-diogo-jotas-passing-waves-of.html) <br/>
+[2025/07/03 - Shocking Tragedy: Diogo Jota's Lamborghini Accident at 28 and His Football Legacy](https://ai.trend.dmomo.co.kr/2025/07/shocking-tragedy-diogo-jotas.html) <br/>
+[2025/07/03 - The Controversy Over Song Ha-yoon's School Violence Allegations: Where Do Legal Actions and Truth Debates Stand?](https://ai.trend.dmomo.co.kr/2025/07/the-controversy-over-song-ha-yoons.html) <br/>
+[2025/07/03 - Mexico vs USA, Gold Cup Final Showdown: The Battle for North American Soccer Supremacy in Houston](https://ai.trend.dmomo.co.kr/2025/07/mexico-vs-usa-gold-cup-final-showdown.html) <br/>
+[2025/07/03 - 4 Key Technology Trends Highlighted at the 2025 EDGE AI Milan Conference](https://ai.trend.dmomo.co.kr/2025/07/4-key-technology-trends-highlighted-at.html) <br/>
