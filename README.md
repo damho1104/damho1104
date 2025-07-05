@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/04 - [뉴스] ‘훌쩍 훌쩍’ 우는 모습에 금융시장 ‘대혼란’…英 재무장관이 눈물 흘린 이유](https://blog.ai.dmomo.co.kr/news/5046) <br/>
-[2025/07/04 - [뉴스] 보성마저…녹차로는 약해 더 힙한 그린에 꽂혔다](https://blog.ai.dmomo.co.kr/news/5043) <br/>
-[2025/07/04 - [뉴스] 트럼프·푸틴 오늘 통화…우크라 휴전 협상 논의할 듯](https://blog.ai.dmomo.co.kr/news/5040) <br/>
-[2025/07/03 - [뉴스] 美 ‘고용 서프라이즈’](https://blog.ai.dmomo.co.kr/news/5037) <br/>
-[2025/07/03 - [뉴스] 다른 워치로는 부족해…운동이 취미를 넘어선 순간, 가민이 있었다](https://blog.ai.dmomo.co.kr/news/5034) <br/>
-[2025/07/03 - [뉴스] 신기술 개발해도 정부 지원은 0…차라리 수입사가 낫다](https://blog.ai.dmomo.co.kr/news/5031) <br/>
+[2025/07/05 - [뉴스] 日 대지진 발생 땐 한반도에 영향…“남의 일만은 아닐 수 있다”](https://blog.ai.dmomo.co.kr/news/5127) <br/>
+[2025/07/05 - [뉴스] AI를 가로막는 벽…천재도 막았던 사회적 병목 현상](https://blog.ai.dmomo.co.kr/news/5124) <br/>
+[2025/07/05 - [뉴스] 굶는 친구 돕던 금수저 의대생…29세 요절한 슬픈 사연이](https://blog.ai.dmomo.co.kr/news/5121) <br/>
+[2025/07/04 - [뉴스] 베트남 리조트, 사고 후 늦장 대응에 CCTV 은폐…남편 결국 사망, 유족 분통](https://blog.ai.dmomo.co.kr/news/5118) <br/>
+[2025/07/04 - [뉴스] 최악의 시나리오가 현실로…AI 전쟁 속 길 잃은 한국](https://blog.ai.dmomo.co.kr/news/5115) <br/>
+[2025/07/04 - [뉴스] SK텔레콤 고객들 위약금 면제…중장기적으론 주주 이익에도 부합](https://blog.ai.dmomo.co.kr/news/5112) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/03 - 2025 MLOps Trends: How ModelOps and LLMOps Are Transforming AI Operations Strategies](https://ai.trend.dmomo.co.kr/2025/07/2025-mlops-trends-how-modelops-and.html) <br/>
-[2025/07/03 - Shock at Diogo Jota's Passing: Waves of Mourning from American Soccer Fans](https://ai.trend.dmomo.co.kr/2025/07/shock-at-diogo-jotas-passing-waves-of.html) <br/>
-[2025/07/03 - Shocking Tragedy: Diogo Jota's Lamborghini Accident at 28 and His Football Legacy](https://ai.trend.dmomo.co.kr/2025/07/shocking-tragedy-diogo-jotas.html) <br/>
-[2025/07/03 - The Controversy Over Song Ha-yoon's School Violence Allegations: Where Do Legal Actions and Truth Debates Stand?](https://ai.trend.dmomo.co.kr/2025/07/the-controversy-over-song-ha-yoons.html) <br/>
-[2025/07/03 - Mexico vs USA, Gold Cup Final Showdown: The Battle for North American Soccer Supremacy in Houston](https://ai.trend.dmomo.co.kr/2025/07/mexico-vs-usa-gold-cup-final-showdown.html) <br/>
-[2025/07/03 - 4 Key Technology Trends Highlighted at the 2025 EDGE AI Milan Conference](https://ai.trend.dmomo.co.kr/2025/07/4-key-technology-trends-highlighted-at.html) <br/>
+[2025/07/04 - 2025 Latest Microsoft Defender Web Content Filtering: Key Features and Future Outlook Analysis](https://ai.trend.dmomo.co.kr/2025/07/2025-latest-microsoft-defender-web.html) <br/>
+[2025/07/04 - Lotte vs KIA Three-Game Showdown: A Fateful Battle for the KBO Top Spot - Who Will Prevail?](https://ai.trend.dmomo.co.kr/2025/07/lotte-vs-kia-three-game-showdown.html) <br/>
+[2025/07/04 - The Shocking Passing of Hollywood Villain Icon Michael Madsen and His Legacy of 300 Films](https://ai.trend.dmomo.co.kr/2025/07/the-shocking-passing-of-hollywood.html) <br/>
+[2025/07/04 - Five Key Causes of the SKT Temporary Server Personal Data Leak and Future Response Strategies](https://ai.trend.dmomo.co.kr/2025/07/five-key-causes-of-skt-temporary-server.html) <br/>
+[2025/07/04 - Actor On Joo-wan: From Destiny's Companion to Lifelong Partner - Wedding Announcement and What Comes Next](https://ai.trend.dmomo.co.kr/2025/07/actor-on-joo-wan-from-destinys.html) <br/>
+[2025/07/04 - Kang Ho-soon's Shocking Confession: One More Victim After Killing Seven? The Serial Killer's Final Secret](https://ai.trend.dmomo.co.kr/2025/07/kang-ho-soons-shocking-confession-one.html) <br/>
