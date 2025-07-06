@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/05 - [뉴스] 日 대지진 발생 땐 한반도에 영향…“남의 일만은 아닐 수 있다”](https://blog.ai.dmomo.co.kr/news/5127) <br/>
-[2025/07/05 - [뉴스] AI를 가로막는 벽…천재도 막았던 사회적 병목 현상](https://blog.ai.dmomo.co.kr/news/5124) <br/>
-[2025/07/05 - [뉴스] 굶는 친구 돕던 금수저 의대생…29세 요절한 슬픈 사연이](https://blog.ai.dmomo.co.kr/news/5121) <br/>
-[2025/07/04 - [뉴스] 베트남 리조트, 사고 후 늦장 대응에 CCTV 은폐…남편 결국 사망, 유족 분통](https://blog.ai.dmomo.co.kr/news/5118) <br/>
-[2025/07/04 - [뉴스] 최악의 시나리오가 현실로…AI 전쟁 속 길 잃은 한국](https://blog.ai.dmomo.co.kr/news/5115) <br/>
-[2025/07/04 - [뉴스] SK텔레콤 고객들 위약금 면제…중장기적으론 주주 이익에도 부합](https://blog.ai.dmomo.co.kr/news/5112) <br/>
+[2025/07/06 - [뉴스] “反트럼프 모여라, 오늘 아메리카당 창당”…트럼프 최대 정적이 된 머스크](https://blog.ai.dmomo.co.kr/news/5190) <br/>
+[2025/07/06 - [뉴스] 전국적 불볕더위…오늘 낮 최고 36도 폭염](https://blog.ai.dmomo.co.kr/news/5187) <br/>
+[2025/07/06 - 갤럭시 Z 폴드 7 언팩: 2억 화소 카메라와 AI의 만남, 과연 승산은?](https://blog.ai.dmomo.co.kr/ai/5184) <br/>
+[2025/07/05 - [뉴스] “보잉787 사고는 시간문제”…가장 안전한 항공기 명성 ‘흔들’[★★글로벌]](https://blog.ai.dmomo.co.kr/news/5181) <br/>
+[2025/07/05 - [뉴스] 한국엔 없는데 돈값 하네요…홍콩 갔다가 대박 감탄이 절로](https://blog.ai.dmomo.co.kr/news/5178) <br/>
+[2025/07/05 - 2025 민생회복지원금 총정리: 최대 52만원 지급, 소비쿠폰으로 경제 살리기](https://blog.ai.dmomo.co.kr/trend/5175) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/04 - 2025 Latest Microsoft Defender Web Content Filtering: Key Features and Future Outlook Analysis](https://ai.trend.dmomo.co.kr/2025/07/2025-latest-microsoft-defender-web.html) <br/>
-[2025/07/04 - Lotte vs KIA Three-Game Showdown: A Fateful Battle for the KBO Top Spot - Who Will Prevail?](https://ai.trend.dmomo.co.kr/2025/07/lotte-vs-kia-three-game-showdown.html) <br/>
-[2025/07/04 - The Shocking Passing of Hollywood Villain Icon Michael Madsen and His Legacy of 300 Films](https://ai.trend.dmomo.co.kr/2025/07/the-shocking-passing-of-hollywood.html) <br/>
-[2025/07/04 - Five Key Causes of the SKT Temporary Server Personal Data Leak and Future Response Strategies](https://ai.trend.dmomo.co.kr/2025/07/five-key-causes-of-skt-temporary-server.html) <br/>
-[2025/07/04 - Actor On Joo-wan: From Destiny's Companion to Lifelong Partner - Wedding Announcement and What Comes Next](https://ai.trend.dmomo.co.kr/2025/07/actor-on-joo-wan-from-destinys.html) <br/>
-[2025/07/04 - Kang Ho-soon's Shocking Confession: One More Victim After Killing Seven? The Serial Killer's Final Secret](https://ai.trend.dmomo.co.kr/2025/07/kang-ho-soons-shocking-confession-one.html) <br/>
+[2025/07/05 - 2025 Comprehensive Guide to Livelihood Recovery Support Fund: Up to 520,000 KRW Payment and Economic Revitalization through Consumption Coupons](https://ai.trend.dmomo.co.kr/2025/07/2025-comprehensive-guide-to-livelihood.html) <br/>
+[2025/07/05 - Jung Joon-il's Challenge on 'Immortal Songs': Reinterpreting Classics from Lee Seung-hwan to Jo Yong-pil](https://ai.trend.dmomo.co.kr/2025/07/jung-joon-ils-challenge-on-immortal.html) <br/>
+[2025/07/05 - Cutting-Edge AI Agent Technology in 2025: What Makes LibreChat the Ultimate Custom AI Assistant?](https://ai.trend.dmomo.co.kr/2025/07/cutting-edge-ai-agent-technology-in.html) <br/>
+[2025/07/05 - Dodgers' Shocking 18-1 Defeat: The Secrets of the 10-Run 6th Inning and Kim Hye-sung's Destiny?](https://ai.trend.dmomo.co.kr/2025/07/dodgers-shocking-18-1-defeat-secrets-of.html) <br/>
+[2025/07/05 - Shocking! Julian McMahon Passes Away at 56 After Battling Cancer... The Final Days of the 'Nip/Tuck' Star](https://ai.trend.dmomo.co.kr/2025/07/shocking-julian-mcmahon-passes-away-at.html) <br/>
+[2025/07/05 - Cutting-Edge MLOps in 2025: Unveiling LLMOps and 5 Secrets to Managing Generative AI](https://ai.trend.dmomo.co.kr/2025/07/cutting-edge-mlops-in-2025-unveiling.html) <br/>
