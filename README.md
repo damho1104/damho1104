@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/06 - [뉴스] “反트럼프 모여라, 오늘 아메리카당 창당”…트럼프 최대 정적이 된 머스크](https://blog.ai.dmomo.co.kr/news/5190) <br/>
-[2025/07/06 - [뉴스] 전국적 불볕더위…오늘 낮 최고 36도 폭염](https://blog.ai.dmomo.co.kr/news/5187) <br/>
-[2025/07/06 - 갤럭시 Z 폴드 7 언팩: 2억 화소 카메라와 AI의 만남, 과연 승산은?](https://blog.ai.dmomo.co.kr/ai/5184) <br/>
-[2025/07/05 - [뉴스] “보잉787 사고는 시간문제”…가장 안전한 항공기 명성 ‘흔들’[★★글로벌]](https://blog.ai.dmomo.co.kr/news/5181) <br/>
-[2025/07/05 - [뉴스] 한국엔 없는데 돈값 하네요…홍콩 갔다가 대박 감탄이 절로](https://blog.ai.dmomo.co.kr/news/5178) <br/>
-[2025/07/05 - 2025 민생회복지원금 총정리: 최대 52만원 지급, 소비쿠폰으로 경제 살리기](https://blog.ai.dmomo.co.kr/trend/5175) <br/>
+[2025/07/07 - [뉴스] 트럼프 “서한발송 대상국, 12개 혹은 15개…합의 내용도 담을 것”](https://blog.ai.dmomo.co.kr/news/5250) <br/>
+[2025/07/07 - [뉴스] 전 세계 유일 북한뷰래…7개월새 12만명 우르르 몰려간 곳](https://blog.ai.dmomo.co.kr/news/5247) <br/>
+[2025/07/06 - [뉴스] 日 주말 오후 또 흔들렸다…보름여간 1400회 이상 관측](https://blog.ai.dmomo.co.kr/news/5244) <br/>
+[2025/07/06 - [뉴스] 블랙핑크 2년 만의 컴백…8만 관객이 화답했다](https://blog.ai.dmomo.co.kr/news/5241) <br/>
+[2025/07/06 - [뉴스] 소버린 AI, 챔피언 몰빵으론 안돼…한국형 AI생태계부터 키워야](https://blog.ai.dmomo.co.kr/news/5238) <br/>
+[2025/07/06 - 권은비 ‘워터밤’ 논란: 예술적 자유와 사회적 기준의 충돌, 어디까지 허용될까?](https://blog.ai.dmomo.co.kr/trend/5235) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/05 - 2025 Comprehensive Guide to Livelihood Recovery Support Fund: Up to 520,000 KRW Payment and Economic Revitalization through Consumption Coupons](https://ai.trend.dmomo.co.kr/2025/07/2025-comprehensive-guide-to-livelihood.html) <br/>
-[2025/07/05 - Jung Joon-il's Challenge on 'Immortal Songs': Reinterpreting Classics from Lee Seung-hwan to Jo Yong-pil](https://ai.trend.dmomo.co.kr/2025/07/jung-joon-ils-challenge-on-immortal.html) <br/>
-[2025/07/05 - Cutting-Edge AI Agent Technology in 2025: What Makes LibreChat the Ultimate Custom AI Assistant?](https://ai.trend.dmomo.co.kr/2025/07/cutting-edge-ai-agent-technology-in.html) <br/>
-[2025/07/05 - Dodgers' Shocking 18-1 Defeat: The Secrets of the 10-Run 6th Inning and Kim Hye-sung's Destiny?](https://ai.trend.dmomo.co.kr/2025/07/dodgers-shocking-18-1-defeat-secrets-of.html) <br/>
-[2025/07/05 - Shocking! Julian McMahon Passes Away at 56 After Battling Cancer... The Final Days of the 'Nip/Tuck' Star](https://ai.trend.dmomo.co.kr/2025/07/shocking-julian-mcmahon-passes-away-at.html) <br/>
-[2025/07/05 - Cutting-Edge MLOps in 2025: Unveiling LLMOps and 5 Secrets to Managing Generative AI](https://ai.trend.dmomo.co.kr/2025/07/cutting-edge-mlops-in-2025-unveiling.html) <br/>
+[2025/07/06 - Kwon Eun-bi 'Water Bomb' Controversy: The Clash Between Artistic Freedom and Social Standards – How Far is Acceptable?](https://ai.trend.dmomo.co.kr/2025/07/kwon-eun-bi-water-bomb-controversy.html) <br/>
+[2025/07/06 - 2025 Cutting-Edge LLM Technologies: Innovations and Future Prospects of Diffusion-Based Language Models](https://ai.trend.dmomo.co.kr/2025/07/2025-cutting-edge-llm-technologies.html) <br/>
+[2025/07/06 - Tropical Storm 'Chantal' Expected to Hit Southeastern U.S...Latest Path and Preparedness Tips](https://ai.trend.dmomo.co.kr/2025/07/tropical-storm-chantal-expected-to-hit.html) <br/>
+[2025/07/06 - 2025 Latest Analysis and Outlook on NVIDIA DGX Cloud Lepton AI Integrated Platform](https://ai.trend.dmomo.co.kr/2025/07/2025-latest-analysis-and-outlook-on.html) <br/>
+[2025/07/06 - Dramatic Comeback! Real Madrid Defeats Dortmund 3-2 with Mbappe's Bicycle Kick](https://ai.trend.dmomo.co.kr/2025/07/dramatic-comeback-real-madrid-defeats.html) <br/>
+[2025/07/06 - PSG vs Bayern Munich: Clash in the Quarterfinals of the Club World Cup that Missed the Korean Derby](https://ai.trend.dmomo.co.kr/2025/07/psg-vs-bayern-munich-clash-in.html) <br/>
