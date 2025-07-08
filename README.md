@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/07 - [뉴스] 트럼프 “서한발송 대상국, 12개 혹은 15개…합의 내용도 담을 것”](https://blog.ai.dmomo.co.kr/news/5250) <br/>
-[2025/07/07 - [뉴스] 전 세계 유일 북한뷰래…7개월새 12만명 우르르 몰려간 곳](https://blog.ai.dmomo.co.kr/news/5247) <br/>
-[2025/07/06 - [뉴스] 日 주말 오후 또 흔들렸다…보름여간 1400회 이상 관측](https://blog.ai.dmomo.co.kr/news/5244) <br/>
-[2025/07/06 - [뉴스] 블랙핑크 2년 만의 컴백…8만 관객이 화답했다](https://blog.ai.dmomo.co.kr/news/5241) <br/>
-[2025/07/06 - [뉴스] 소버린 AI, 챔피언 몰빵으론 안돼…한국형 AI생태계부터 키워야](https://blog.ai.dmomo.co.kr/news/5238) <br/>
-[2025/07/06 - 권은비 ‘워터밤’ 논란: 예술적 자유와 사회적 기준의 충돌, 어디까지 허용될까?](https://blog.ai.dmomo.co.kr/trend/5235) <br/>
+[2025/07/08 - [뉴스] 트럼프, 韓 고위급 방미 중 관세서한…한미 ‘3주 끝판협상’](https://blog.ai.dmomo.co.kr/news/5337) <br/>
+[2025/07/08 - [뉴스] 마크 저커버그 스레드, 일론 머스크 엑스 뛰어넘나…2년 만에 생긴 일](https://blog.ai.dmomo.co.kr/news/5334) <br/>
+[2025/07/08 - [뉴스] 트럼프, 일본에도 상호관세 서한…당초보다 1%포인트 올린 25%](https://blog.ai.dmomo.co.kr/news/5331) <br/>
+[2025/07/07 - [뉴스] 아일랜드, ‘세계 최초’ 주류에 ‘암 경고문구’ 부착한다더니…무기한 연기될 수도](https://blog.ai.dmomo.co.kr/news/5328) <br/>
+[2025/07/07 - [뉴스] 두 돌 맞은 에버랜드 쌍둥이 판다](https://blog.ai.dmomo.co.kr/news/5325) <br/>
+[2025/07/07 - 2025년 최신 구글 클라우드 보안과 연결 혁신 서비스 3가지 핵심은?](https://blog.ai.dmomo.co.kr/tech/5322) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/06 - Kwon Eun-bi 'Water Bomb' Controversy: The Clash Between Artistic Freedom and Social Standards – How Far is Acceptable?](https://ai.trend.dmomo.co.kr/2025/07/kwon-eun-bi-water-bomb-controversy.html) <br/>
-[2025/07/06 - 2025 Cutting-Edge LLM Technologies: Innovations and Future Prospects of Diffusion-Based Language Models](https://ai.trend.dmomo.co.kr/2025/07/2025-cutting-edge-llm-technologies.html) <br/>
-[2025/07/06 - Tropical Storm 'Chantal' Expected to Hit Southeastern U.S...Latest Path and Preparedness Tips](https://ai.trend.dmomo.co.kr/2025/07/tropical-storm-chantal-expected-to-hit.html) <br/>
-[2025/07/06 - 2025 Latest Analysis and Outlook on NVIDIA DGX Cloud Lepton AI Integrated Platform](https://ai.trend.dmomo.co.kr/2025/07/2025-latest-analysis-and-outlook-on.html) <br/>
-[2025/07/06 - Dramatic Comeback! Real Madrid Defeats Dortmund 3-2 with Mbappe's Bicycle Kick](https://ai.trend.dmomo.co.kr/2025/07/dramatic-comeback-real-madrid-defeats.html) <br/>
-[2025/07/06 - PSG vs Bayern Munich: Clash in the Quarterfinals of the Club World Cup that Missed the Korean Derby](https://ai.trend.dmomo.co.kr/2025/07/psg-vs-bayern-munich-clash-in.html) <br/>
+[2025/07/07 - Top 3 Key Innovations in Google Cloud Security and Connectivity for 2025](https://ai.trend.dmomo.co.kr/2025/07/top-3-key-innovations-in-google-cloud.html) <br/>
+[2025/07/07 - Slipknot DJ's Heartfelt Proposal: The Fiery Love between Sid Wilson and Kelly Osbourne](https://ai.trend.dmomo.co.kr/2025/07/slipknot-djs-heartfelt-proposal-fiery.html) <br/>
+[2025/07/07 - Shocking! YouTube Star Woo-Wak-Good's Sudden Suspension of Activities - What's Behind It?](https://ai.trend.dmomo.co.kr/2025/07/shocking-youtube-star-woo-wak-goods.html) <br/>
+[2025/07/07 - Failed to Prevent the U.S. from Winning the Gold Cup 10th Title: Is the CONCACAF Crown Still in Mexico's Hands?](https://ai.trend.dmomo.co.kr/2025/07/failed-to-prevent-us-from-winning-gold.html) <br/>
+[2025/07/07 - 7 Cutting-Edge DevOps Technologies in 2025 and Trends in DevSecOps Security Integration](https://ai.trend.dmomo.co.kr/2025/07/7-cutting-edge-devops-technologies-in.html) <br/>
+[2025/07/07 - Kwon Eun-bi's Water Bomb Controversy: Exploring the Future of K-pop at the Intersection of Art and Ethics](https://ai.trend.dmomo.co.kr/2025/07/kwon-eun-bis-water-bomb-controversy.html) <br/>
