@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/09 - 제목: 첼시, 주앙 페드루 멀티골로 FIFA 클럽 월드컵 결승 진출! 티아고 실바와의 재회](https://blog.ai.dmomo.co.kr/trend/5414) <br/>
-[2025/07/09 - [뉴스] “아무도 9m 쓰나미 올줄 몰랐다”…110명 사망 대참사, 美텍사스 홍수](https://blog.ai.dmomo.co.kr/news/5409) <br/>
-[2025/07/09 - [뉴스] 계란 만지고 손 씻어야…역대급 폭염, 식중독 피하려면](https://blog.ai.dmomo.co.kr/news/5406) <br/>
-[2025/07/09 - [뉴스] [속보] 트럼프 “한국은 부유한 나라, 자국 방위비 부담해야”](https://blog.ai.dmomo.co.kr/news/5403) <br/>
-[2025/07/08 - [뉴스] “산타클로스가 유부남이라고?”… 핀란드 산타 마을 찾아가 확인해보니](https://blog.ai.dmomo.co.kr/news/5400) <br/>
-[2025/07/08 - [뉴스] 댕댕이 맡기고 여행 마음에 걸렸는데…올 여름엔 같이 간다](https://blog.ai.dmomo.co.kr/news/5397) <br/>
+[2025/07/10 - PSG의 4-0 승리: 레알 마드리드를 압도한 클럽월드컵 준결승 분석](https://blog.ai.dmomo.co.kr/trend/5477) <br/>
+[2025/07/10 - [뉴스] “李, 트럼프·시진핑 중 누구 먼저 만날지 관건”…美 한반도 전문가의 분석](https://blog.ai.dmomo.co.kr/news/5472) <br/>
+[2025/07/10 - [뉴스] MRI 누워있는 시간 확 줄인다…美 AI 의료영상社 투자 유치](https://blog.ai.dmomo.co.kr/news/5469) <br/>
+[2025/07/10 - [뉴스] 체감온도 35도 폭염 지속…일부 지역은 소나기](https://blog.ai.dmomo.co.kr/news/5466) <br/>
+[2025/07/09 - [뉴스] “우리 땅은 사지 마라”…美, 안보 우려에 중국인 농지 구매 금지령](https://blog.ai.dmomo.co.kr/news/5463) <br/>
+[2025/07/09 - [뉴스] 옹성우 첫 드라마, 첫 연극 모두 김향기와 함께…연극 데뷔 무대](https://blog.ai.dmomo.co.kr/news/5460) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/07/09 - Top 5 Essential Features of the 2025 Latest Software Security Tech: DevSecOps Integration Platforms](https://ai.trend.dmomo.co.kr/2025/07/top-5-essential-features-of-2025-latest.html) <br/>
+[2025/07/09 - Shocking New Mexico Flood: Lessons and Measures from a 20-Foot Deluge](https://ai.trend.dmomo.co.kr/2025/07/shocking-new-mexico-flood-lessons-and.html) <br/>
+[2025/07/09 - Chelsea vs Fluminense: Who Will Win the Club World Cup Semifinal? A New Horizon for American Soccer](https://ai.trend.dmomo.co.kr/2025/07/chelsea-vs-fluminense-who-will-win-club.html) <br/>
+[2025/07/09 - Top 5 Cutting-Edge Software Infrastructure Technologies in 2025 and Essential Cloud-Native Strategy Insights](https://ai.trend.dmomo.co.kr/2025/07/top-5-cutting-edge-software.html) <br/>
+[2025/07/09 - Title: Chelsea Advances to FIFA Club World Cup Final with João Pedro's Brace! Reunion with Thiago Silva](https://ai.trend.dmomo.co.kr/2025/07/title-chelsea-advances-to-fifa-club.html) <br/>
 [2025/07/08 - Software Security Innovations in 2025: How SLSA Completely Blocks Supply Chain Attacks](https://ai.trend.dmomo.co.kr/2025/07/software-security-innovations-in-2025.html) <br/>
-[2025/07/08 - KIA vs Hanwha: The Last Big Match of the First Half - How Will the MVP Race and Battle for First Place Unfold?](https://ai.trend.dmomo.co.kr/2025/07/kia-vs-hanwha-last-big-match-of-first.html) <br/>
-[2025/07/08 - Record Heat Wave in Korea! Gwangmyeong City Surpasses 40.2°C, Health and Society in Crisis](https://ai.trend.dmomo.co.kr/2025/07/record-heat-wave-in-korea-gwangmyeong.html) <br/>
-[2025/07/08 - McDonald's New Challenge: The Return of Snack Wraps and the Fate of the $15 Premium Burger?](https://ai.trend.dmomo.co.kr/2025/07/mcdonalds-new-challenge-return-of-snack.html) <br/>
-[2025/07/08 - What Are the Innovations and Cost-Saving Strategies of the Latest 2025 Azure SQL Serverless Tier?](https://ai.trend.dmomo.co.kr/2025/07/what-are-innovations-and-cost-saving.html) <br/>
-[2025/07/08 - 2025 College Board Overview: From AP Score Delays to Scholarships](https://ai.trend.dmomo.co.kr/2025/07/2025-college-board-overview-from-ap.html) <br/>
