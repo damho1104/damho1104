@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/10 - PSG의 4-0 승리: 레알 마드리드를 압도한 클럽월드컵 준결승 분석](https://blog.ai.dmomo.co.kr/trend/5477) <br/>
-[2025/07/10 - [뉴스] “李, 트럼프·시진핑 중 누구 먼저 만날지 관건”…美 한반도 전문가의 분석](https://blog.ai.dmomo.co.kr/news/5472) <br/>
-[2025/07/10 - [뉴스] MRI 누워있는 시간 확 줄인다…美 AI 의료영상社 투자 유치](https://blog.ai.dmomo.co.kr/news/5469) <br/>
-[2025/07/10 - [뉴스] 체감온도 35도 폭염 지속…일부 지역은 소나기](https://blog.ai.dmomo.co.kr/news/5466) <br/>
-[2025/07/09 - [뉴스] “우리 땅은 사지 마라”…美, 안보 우려에 중국인 농지 구매 금지령](https://blog.ai.dmomo.co.kr/news/5463) <br/>
-[2025/07/09 - [뉴스] 옹성우 첫 드라마, 첫 연극 모두 김향기와 함께…연극 데뷔 무대](https://blog.ai.dmomo.co.kr/news/5460) <br/>
+[2025/07/11 - 유로결의 클러치와 실수: 프로야구 선수의 극과 극 순간](https://blog.ai.dmomo.co.kr/trend/5559) <br/>
+[2025/07/11 - [뉴스] 사고 팔고 사고 팔고…상반기에만 295조원, 인수·합병 폭주하는 일본기업들](https://blog.ai.dmomo.co.kr/news/5554) <br/>
+[2025/07/11 - [뉴스] 배그 팬들 천국 열린다…크래프톤, 국내 게임사 최초 시도](https://blog.ai.dmomo.co.kr/news/5551) <br/>
+[2025/07/11 - [뉴스] 네스프레소, 블루보틀과 또 손잡았다…홈카페 시장 본격 공략](https://blog.ai.dmomo.co.kr/news/5548) <br/>
+[2025/07/11 - [뉴스] 달콤함이 호랑이 기운 삼켰다…伊 페레로, 美 켈로그  인수](https://blog.ai.dmomo.co.kr/news/5545) <br/>
+[2025/07/10 - [뉴스] 캐나다 이어 독일도…트럼프 관세 압박에 디지털세 폐지](https://blog.ai.dmomo.co.kr/news/5542) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/09 - Top 5 Essential Features of the 2025 Latest Software Security Tech: DevSecOps Integration Platforms](https://ai.trend.dmomo.co.kr/2025/07/top-5-essential-features-of-2025-latest.html) <br/>
-[2025/07/09 - Shocking New Mexico Flood: Lessons and Measures from a 20-Foot Deluge](https://ai.trend.dmomo.co.kr/2025/07/shocking-new-mexico-flood-lessons-and.html) <br/>
-[2025/07/09 - Chelsea vs Fluminense: Who Will Win the Club World Cup Semifinal? A New Horizon for American Soccer](https://ai.trend.dmomo.co.kr/2025/07/chelsea-vs-fluminense-who-will-win-club.html) <br/>
-[2025/07/09 - Top 5 Cutting-Edge Software Infrastructure Technologies in 2025 and Essential Cloud-Native Strategy Insights](https://ai.trend.dmomo.co.kr/2025/07/top-5-cutting-edge-software.html) <br/>
-[2025/07/09 - Title: Chelsea Advances to FIFA Club World Cup Final with João Pedro's Brace! Reunion with Thiago Silva](https://ai.trend.dmomo.co.kr/2025/07/title-chelsea-advances-to-fifa-club.html) <br/>
-[2025/07/08 - Software Security Innovations in 2025: How SLSA Completely Blocks Supply Chain Attacks](https://ai.trend.dmomo.co.kr/2025/07/software-security-innovations-in-2025.html) <br/>
+[2025/07/10 - Cutting-Edge Quantum Computing in 2025: Innovations and Future Prospects of GOS Bosonic Circuit Simulation](https://ai.trend.dmomo.co.kr/2025/07/cutting-edge-quantum-computing-in-2025.html) <br/>
+[2025/07/10 - Upstage Solar Pro2 31B: What’s the Key to Korea’s AI Inference Model Surpassing GPT-4o?](https://ai.trend.dmomo.co.kr/2025/07/upstage-solar-pro2-31b-whats-key-to.html) <br/>
+[2025/07/10 - Galaxy Unpacked 2025: The Future of Foldables Evolving with AI and 'Ultra Slimness'](https://ai.trend.dmomo.co.kr/2025/07/galaxy-unpacked-2025-future-of.html) <br/>
+[2025/07/10 - Shock Turning Point: Red Bull Racing Aims to Reclaim the US F1 Market with Horner's Dismissal](https://ai.trend.dmomo.co.kr/2025/07/shock-turning-point-red-bull-racing.html) <br/>
+[2025/07/10 - The Crisis of Former President Yoon Seok-yeol's Re-arrest: 5 Allegations and Political Implications](https://ai.trend.dmomo.co.kr/2025/07/the-crisis-of-former-president-yoon.html) <br/>
+[2025/07/10 - PSG Dominates Real Madrid 4-0 in the USA: Secures Spot in Club World Cup Final](https://ai.trend.dmomo.co.kr/2025/07/psg-dominates-real-madrid-4-0-in-usa.html) <br/>
