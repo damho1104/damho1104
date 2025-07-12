@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/11 - 유로결의 클러치와 실수: 프로야구 선수의 극과 극 순간](https://blog.ai.dmomo.co.kr/trend/5559) <br/>
-[2025/07/11 - [뉴스] 사고 팔고 사고 팔고…상반기에만 295조원, 인수·합병 폭주하는 일본기업들](https://blog.ai.dmomo.co.kr/news/5554) <br/>
-[2025/07/11 - [뉴스] 배그 팬들 천국 열린다…크래프톤, 국내 게임사 최초 시도](https://blog.ai.dmomo.co.kr/news/5551) <br/>
-[2025/07/11 - [뉴스] 네스프레소, 블루보틀과 또 손잡았다…홈카페 시장 본격 공략](https://blog.ai.dmomo.co.kr/news/5548) <br/>
-[2025/07/11 - [뉴스] 달콤함이 호랑이 기운 삼켰다…伊 페레로, 美 켈로그  인수](https://blog.ai.dmomo.co.kr/news/5545) <br/>
-[2025/07/10 - [뉴스] 캐나다 이어 독일도…트럼프 관세 압박에 디지털세 폐지](https://blog.ai.dmomo.co.kr/news/5542) <br/>
+[2025/07/12 - K컬처 혁신가 최휘영: 300조 원 시대를 열 문체부 장관의 비전은?](https://blog.ai.dmomo.co.kr/trend/5625) <br/>
+[2025/07/12 - [뉴스] 식품 제국 꿈꾸는 초콜릿 왕국…미국 ‘국민 시리얼’까지 삼켰다](https://blog.ai.dmomo.co.kr/news/5620) <br/>
+[2025/07/12 - [뉴스] 차에 기름 가득 채우러 가야겠네…휘발유 값 4주만에 하락](https://blog.ai.dmomo.co.kr/news/5617) <br/>
+[2025/07/12 - [뉴스] “미국에서 태어나면 미국시민”…출생시민권 금지 제동거는 지방법원](https://blog.ai.dmomo.co.kr/news/5614) <br/>
+[2025/07/11 - [뉴스] 이정도였어? 폭스바겐 中 난징 내연차 공장 문 닫았다](https://blog.ai.dmomo.co.kr/news/5611) <br/>
+[2025/07/11 - [뉴스] 박수홍 아내 김다예, 30㎏ 감량 비법 물었더니…임상 실험 중](https://blog.ai.dmomo.co.kr/news/5608) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/10 - Cutting-Edge Quantum Computing in 2025: Innovations and Future Prospects of GOS Bosonic Circuit Simulation](https://ai.trend.dmomo.co.kr/2025/07/cutting-edge-quantum-computing-in-2025.html) <br/>
-[2025/07/10 - Upstage Solar Pro2 31B: What’s the Key to Korea’s AI Inference Model Surpassing GPT-4o?](https://ai.trend.dmomo.co.kr/2025/07/upstage-solar-pro2-31b-whats-key-to.html) <br/>
-[2025/07/10 - Galaxy Unpacked 2025: The Future of Foldables Evolving with AI and 'Ultra Slimness'](https://ai.trend.dmomo.co.kr/2025/07/galaxy-unpacked-2025-future-of.html) <br/>
-[2025/07/10 - Shock Turning Point: Red Bull Racing Aims to Reclaim the US F1 Market with Horner's Dismissal](https://ai.trend.dmomo.co.kr/2025/07/shock-turning-point-red-bull-racing.html) <br/>
-[2025/07/10 - The Crisis of Former President Yoon Seok-yeol's Re-arrest: 5 Allegations and Political Implications](https://ai.trend.dmomo.co.kr/2025/07/the-crisis-of-former-president-yoon.html) <br/>
-[2025/07/10 - PSG Dominates Real Madrid 4-0 in the USA: Secures Spot in Club World Cup Final](https://ai.trend.dmomo.co.kr/2025/07/psg-dominates-real-madrid-4-0-in-usa.html) <br/>
+[2025/07/11 - Top 5 Must-Know Serverless Technology Trends and Key Platform Comparisons for 2025](https://ai.trend.dmomo.co.kr/2025/07/top-5-must-know-serverless-technology.html) <br/>
+[2025/07/11 - Can Ministerial Candidate Choi Hwi-young Open the Era of 300 Trillion Won K-Culture?](https://ai.trend.dmomo.co.kr/2025/07/can-ministerial-candidate-choi-hwi.html) <br/>
+[2025/07/11 - Grok4 Launch 2025: 5 Key Features and Performance Insights Set to Transform the AI Market](https://ai.trend.dmomo.co.kr/2025/07/grok4-launch-2025-5-key-features-and.html) <br/>
+[2025/07/11 - 2025 AI Agent Trends: Exploring the Latest Technologies and 7 Emerging Types to Watch](https://ai.trend.dmomo.co.kr/2025/07/2025-ai-agent-trends-exploring-latest.html) <br/>
+[2025/07/11 - The Divorce Lawsuit That Shook Ken Paxton's Political Career and Its Aftermath](https://ai.trend.dmomo.co.kr/2025/07/the-divorce-lawsuit-that-shook-ken.html) <br/>
+[2025/07/11 - Euro Decision Clutch and Mistakes: Extreme Moments of a Professional Baseball Player](https://ai.trend.dmomo.co.kr/2025/07/euro-decision-clutch-and-mistakes.html) <br/>
