@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/12 - K컬처 혁신가 최휘영: 300조 원 시대를 열 문체부 장관의 비전은?](https://blog.ai.dmomo.co.kr/trend/5625) <br/>
-[2025/07/12 - [뉴스] 식품 제국 꿈꾸는 초콜릿 왕국…미국 ‘국민 시리얼’까지 삼켰다](https://blog.ai.dmomo.co.kr/news/5620) <br/>
-[2025/07/12 - [뉴스] 차에 기름 가득 채우러 가야겠네…휘발유 값 4주만에 하락](https://blog.ai.dmomo.co.kr/news/5617) <br/>
-[2025/07/12 - [뉴스] “미국에서 태어나면 미국시민”…출생시민권 금지 제동거는 지방법원](https://blog.ai.dmomo.co.kr/news/5614) <br/>
-[2025/07/11 - [뉴스] 이정도였어? 폭스바겐 中 난징 내연차 공장 문 닫았다](https://blog.ai.dmomo.co.kr/news/5611) <br/>
-[2025/07/11 - [뉴스] 박수홍 아내 김다예, 30㎏ 감량 비법 물었더니…임상 실험 중](https://blog.ai.dmomo.co.kr/news/5608) <br/>
+[2025/07/13 - [뉴스] AI 통제 못하면 미래 암울…알파고 아버지의 경고](https://blog.ai.dmomo.co.kr/news/5689) <br/>
+[2025/07/13 - [뉴스] 일요일 전국 최대 80㎜ 많은 비…낮 최고 35도](https://blog.ai.dmomo.co.kr/news/5686) <br/>
+[2025/07/13 - IT 서비스 브랜드 평판 TOP5: 삼성SDS가 1위를 차지한 비결은?](https://blog.ai.dmomo.co.kr/ai/5683) <br/>
+[2025/07/12 - [뉴스] 트럼프 관세 폭탄 힘으로… ‘브라질 친우’ 보우소나루 구할까](https://blog.ai.dmomo.co.kr/news/5680) <br/>
+[2025/07/12 - [뉴스] 140만 男 뷰티유튜버 이젠 브랜드보다 크리에이터 따라가는 시대](https://blog.ai.dmomo.co.kr/news/5677) <br/>
+[2025/07/12 - MSI 2025 결승 진출! T1 vs 젠지, LCK 내전의 향방은?](https://blog.ai.dmomo.co.kr/trend/5674) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/11 - Top 5 Must-Know Serverless Technology Trends and Key Platform Comparisons for 2025](https://ai.trend.dmomo.co.kr/2025/07/top-5-must-know-serverless-technology.html) <br/>
-[2025/07/11 - Can Ministerial Candidate Choi Hwi-young Open the Era of 300 Trillion Won K-Culture?](https://ai.trend.dmomo.co.kr/2025/07/can-ministerial-candidate-choi-hwi.html) <br/>
-[2025/07/11 - Grok4 Launch 2025: 5 Key Features and Performance Insights Set to Transform the AI Market](https://ai.trend.dmomo.co.kr/2025/07/grok4-launch-2025-5-key-features-and.html) <br/>
-[2025/07/11 - 2025 AI Agent Trends: Exploring the Latest Technologies and 7 Emerging Types to Watch](https://ai.trend.dmomo.co.kr/2025/07/2025-ai-agent-trends-exploring-latest.html) <br/>
-[2025/07/11 - The Divorce Lawsuit That Shook Ken Paxton's Political Career and Its Aftermath](https://ai.trend.dmomo.co.kr/2025/07/the-divorce-lawsuit-that-shook-ken.html) <br/>
-[2025/07/11 - Euro Decision Clutch and Mistakes: Extreme Moments of a Professional Baseball Player](https://ai.trend.dmomo.co.kr/2025/07/euro-decision-clutch-and-mistakes.html) <br/>
+[2025/07/12 - MSI 2025 Final Showdown! T1 vs Gen.G - The Fate of the LCK Clash!](https://ai.trend.dmomo.co.kr/2025/07/msi-2025-final-showdown-t1-vs-geng-fate.html) <br/>
+[2025/07/12 - Ulsan vs Daegu: How Cultural Heritage and Political Changes Shape the Future of Cities](https://ai.trend.dmomo.co.kr/2025/07/ulsan-vs-daegu-how-cultural-heritage.html) <br/>
+[2025/07/12 - Top Software Infrastructure Trends and 5 Cutting-Edge Cloud Innovation Technologies in 2025](https://ai.trend.dmomo.co.kr/2025/07/top-software-infrastructure-trends-and.html) <br/>
+[2025/07/12 - FBI Deputy Director Bonino Faces Resignation Crisis Over Epstein Files Controversy](https://ai.trend.dmomo.co.kr/2025/07/fbi-deputy-director-bonino-faces.html) <br/>
+[2025/07/12 - Desires and Truth Revealed by Superpowers: Secrets of Human Nature Uncovered by 'S-line'](https://ai.trend.dmomo.co.kr/2025/07/desires-and-truth-revealed-by.html) <br/>
+[2025/07/12 - Taylor vs Serrano: The Secret Behind the Three-Fight Winning Streak and a New Era in Women's Boxing](https://ai.trend.dmomo.co.kr/2025/07/taylor-vs-serrano-secret-behind-three.html) <br/>
