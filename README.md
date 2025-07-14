@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/13 - [뉴스] AI 통제 못하면 미래 암울…알파고 아버지의 경고](https://blog.ai.dmomo.co.kr/news/5689) <br/>
-[2025/07/13 - [뉴스] 일요일 전국 최대 80㎜ 많은 비…낮 최고 35도](https://blog.ai.dmomo.co.kr/news/5686) <br/>
-[2025/07/13 - IT 서비스 브랜드 평판 TOP5: 삼성SDS가 1위를 차지한 비결은?](https://blog.ai.dmomo.co.kr/ai/5683) <br/>
-[2025/07/12 - [뉴스] 트럼프 관세 폭탄 힘으로… ‘브라질 친우’ 보우소나루 구할까](https://blog.ai.dmomo.co.kr/news/5680) <br/>
-[2025/07/12 - [뉴스] 140만 男 뷰티유튜버 이젠 브랜드보다 크리에이터 따라가는 시대](https://blog.ai.dmomo.co.kr/news/5677) <br/>
-[2025/07/12 - MSI 2025 결승 진출! T1 vs 젠지, LCK 내전의 향방은?](https://blog.ai.dmomo.co.kr/trend/5674) <br/>
+[2025/07/14 - 첼시 vs PSG: 30억 달러의 대결, FIFA 클럽 월드컵 새 역사 쓰다](https://blog.ai.dmomo.co.kr/trend/5766) <br/>
+[2025/07/14 - [뉴스] “딸이 번 돈으로 먹고 사니 좋냐”…이웃들 조롱에 딸 총으로 쏜 인도男](https://blog.ai.dmomo.co.kr/news/5761) <br/>
+[2025/07/14 - [뉴스] 억대 수익에도 세금은 뒷전…유튜버 21명에 89억 부과](https://blog.ai.dmomo.co.kr/news/5758) <br/>
+[2025/07/14 - [뉴스] 휴가·방학 쏠린 7말8초, 어딜 가도 붐비니 호캉스 뜬다](https://blog.ai.dmomo.co.kr/news/5755) <br/>
+[2025/07/14 - [뉴스] “솔직히 친구가 적보다 나빠”…동맹 더 때리는 트럼프, EU·멕시코에 30% 관세](https://blog.ai.dmomo.co.kr/news/5752) <br/>
+[2025/07/13 - [뉴스] “줄 잘 타야 할텐데”…중국 가는 ‘엔비디아’ 젠슨 황, 이번엔 무슨 말할까](https://blog.ai.dmomo.co.kr/news/5749) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/12 - MSI 2025 Final Showdown! T1 vs Gen.G - The Fate of the LCK Clash!](https://ai.trend.dmomo.co.kr/2025/07/msi-2025-final-showdown-t1-vs-geng-fate.html) <br/>
-[2025/07/12 - Ulsan vs Daegu: How Cultural Heritage and Political Changes Shape the Future of Cities](https://ai.trend.dmomo.co.kr/2025/07/ulsan-vs-daegu-how-cultural-heritage.html) <br/>
-[2025/07/12 - Top Software Infrastructure Trends and 5 Cutting-Edge Cloud Innovation Technologies in 2025](https://ai.trend.dmomo.co.kr/2025/07/top-software-infrastructure-trends-and.html) <br/>
-[2025/07/12 - FBI Deputy Director Bonino Faces Resignation Crisis Over Epstein Files Controversy](https://ai.trend.dmomo.co.kr/2025/07/fbi-deputy-director-bonino-faces.html) <br/>
-[2025/07/12 - Desires and Truth Revealed by Superpowers: Secrets of Human Nature Uncovered by 'S-line'](https://ai.trend.dmomo.co.kr/2025/07/desires-and-truth-revealed-by.html) <br/>
-[2025/07/12 - Taylor vs Serrano: The Secret Behind the Three-Fight Winning Streak and a New Era in Women's Boxing](https://ai.trend.dmomo.co.kr/2025/07/taylor-vs-serrano-secret-behind-three.html) <br/>
+[2025/07/13 - Will Credit Card Tax Deductions Disappear? Year-End Settlement Benefits to End in 2026?](https://ai.trend.dmomo.co.kr/2025/07/will-credit-card-tax-deductions.html) <br/>
+[2025/07/13 - 2025 Cutting-Edge AI Cloud Innovations: Analyzing the Strategic Partnership Between Hammerspace and Oracle](https://ai.trend.dmomo.co.kr/2025/07/2025-cutting-edge-ai-cloud-innovations.html) <br/>
+[2025/07/13 - Incheon United vs Chungnam Asan FC: A Showdown with the Fate of the Top Spot and Playoff Berth on the Line](https://ai.trend.dmomo.co.kr/2025/07/incheon-united-vs-chungnam-asan-fc.html) <br/>
+[2025/07/13 - Japan vs China: The Current Status of East Asian Hegemonic Competition Amid Economic Recession and Security Tensions](https://ai.trend.dmomo.co.kr/2025/07/japan-vs-china-current-status-of-east.html) <br/>
+[2025/07/13 - 2025 Latest DevOps: 7-Step Automation Tools and Key Trends in Cultural Transformation Analysis](https://ai.trend.dmomo.co.kr/2025/07/2025-latest-devops-7-step-automation.html) <br/>
+[2025/07/13 - Trump vs. Rosie O'Donnell: The Constitutional Pitfalls and Political Repercussions of Citizenship Revocation Threats](https://ai.trend.dmomo.co.kr/2025/07/trump-vs-rosie-odonnell-constitutional.html) <br/>
