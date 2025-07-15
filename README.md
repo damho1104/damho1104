@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/14 - 첼시 vs PSG: 30억 달러의 대결, FIFA 클럽 월드컵 새 역사 쓰다](https://blog.ai.dmomo.co.kr/trend/5766) <br/>
-[2025/07/14 - [뉴스] “딸이 번 돈으로 먹고 사니 좋냐”…이웃들 조롱에 딸 총으로 쏜 인도男](https://blog.ai.dmomo.co.kr/news/5761) <br/>
-[2025/07/14 - [뉴스] 억대 수익에도 세금은 뒷전…유튜버 21명에 89억 부과](https://blog.ai.dmomo.co.kr/news/5758) <br/>
-[2025/07/14 - [뉴스] 휴가·방학 쏠린 7말8초, 어딜 가도 붐비니 호캉스 뜬다](https://blog.ai.dmomo.co.kr/news/5755) <br/>
-[2025/07/14 - [뉴스] “솔직히 친구가 적보다 나빠”…동맹 더 때리는 트럼프, EU·멕시코에 30% 관세](https://blog.ai.dmomo.co.kr/news/5752) <br/>
-[2025/07/13 - [뉴스] “줄 잘 타야 할텐데”…중국 가는 ‘엔비디아’ 젠슨 황, 이번엔 무슨 말할까](https://blog.ai.dmomo.co.kr/news/5749) <br/>
+[2025/07/15 - [뉴스] 장난 전화에 속아 본심 말했다 ‘날벼락’…징역 14년 선고 받은 러 인기작가](https://blog.ai.dmomo.co.kr/news/5836) <br/>
+[2025/07/15 - [뉴스] SKT 위약금 면제 마지막날…최신 아이폰까지 차비폰 대란](https://blog.ai.dmomo.co.kr/news/5833) <br/>
+[2025/07/15 - [뉴스] 전 세계 3만 명 몰린 오디션…TV판 해리포터 주인공 얼굴 공개](https://blog.ai.dmomo.co.kr/news/5830) <br/>
+[2025/07/15 - [뉴스] 트럼프 “우크라전쟁, 50일내 휴전 안되면 러에 ‘혹독한’ 관세”](https://blog.ai.dmomo.co.kr/news/5827) <br/>
+[2025/07/14 - [뉴스] 선수도 아니면서 왜?…‘시상대 센터 욕심’ 트럼프에 첼시 선수·팬 ‘기겁’](https://blog.ai.dmomo.co.kr/news/5824) <br/>
+[2025/07/14 - [뉴스] 알츠하이머, 혈액 속 지질과 관련 있다 국내 연구팀 최초 입증](https://blog.ai.dmomo.co.kr/news/5821) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/13 - Will Credit Card Tax Deductions Disappear? Year-End Settlement Benefits to End in 2026?](https://ai.trend.dmomo.co.kr/2025/07/will-credit-card-tax-deductions.html) <br/>
-[2025/07/13 - 2025 Cutting-Edge AI Cloud Innovations: Analyzing the Strategic Partnership Between Hammerspace and Oracle](https://ai.trend.dmomo.co.kr/2025/07/2025-cutting-edge-ai-cloud-innovations.html) <br/>
-[2025/07/13 - Incheon United vs Chungnam Asan FC: A Showdown with the Fate of the Top Spot and Playoff Berth on the Line](https://ai.trend.dmomo.co.kr/2025/07/incheon-united-vs-chungnam-asan-fc.html) <br/>
-[2025/07/13 - Japan vs China: The Current Status of East Asian Hegemonic Competition Amid Economic Recession and Security Tensions](https://ai.trend.dmomo.co.kr/2025/07/japan-vs-china-current-status-of-east.html) <br/>
-[2025/07/13 - 2025 Latest DevOps: 7-Step Automation Tools and Key Trends in Cultural Transformation Analysis](https://ai.trend.dmomo.co.kr/2025/07/2025-latest-devops-7-step-automation.html) <br/>
-[2025/07/13 - Trump vs. Rosie O'Donnell: The Constitutional Pitfalls and Political Repercussions of Citizenship Revocation Threats](https://ai.trend.dmomo.co.kr/2025/07/trump-vs-rosie-odonnell-constitutional.html) <br/>
+[2025/07/14 - Latest Edge AI Technologies and Market Outlook for 2025: Analysis of 5 Key Trends](https://ai.trend.dmomo.co.kr/2025/07/latest-edge-ai-technologies-and-market.html) <br/>
+[2025/07/14 - A Victory Begun with Tears: 3-1 Triumph in Preseason Match Amidst Jota Tribute in Liverpool](https://ai.trend.dmomo.co.kr/2025/07/a-victory-begun-with-tears-3-1-triumph.html) <br/>
+[2025/07/14 - History is Burning: Lessons from the Grand Canyon Lodge Fire and Wildfires](https://ai.trend.dmomo.co.kr/2025/07/history-is-burning-lessons-from-grand.html) <br/>
+[2025/07/14 - Cutting-Edge MLOps in 2025: Analyzing Cross-Workspace Registries and AIOps Integration Trends](https://ai.trend.dmomo.co.kr/2025/07/cutting-edge-mlops-in-2025-analyzing.html) <br/>
+[2025/07/14 - Is the American Soccer Craze Beginning? Chelsea Triumphs Over PSG to Claim Club World Cup Title](https://ai.trend.dmomo.co.kr/2025/07/is-american-soccer-craze-beginning.html) <br/>
+[2025/07/14 - Chelsea vs PSG: A $3 Billion Showdown, Making New History in the FIFA Club World Cup](https://ai.trend.dmomo.co.kr/2025/07/chelsea-vs-psg-3-billion-showdown.html) <br/>
