@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/15 - [뉴스] 장난 전화에 속아 본심 말했다 ‘날벼락’…징역 14년 선고 받은 러 인기작가](https://blog.ai.dmomo.co.kr/news/5836) <br/>
-[2025/07/15 - [뉴스] SKT 위약금 면제 마지막날…최신 아이폰까지 차비폰 대란](https://blog.ai.dmomo.co.kr/news/5833) <br/>
-[2025/07/15 - [뉴스] 전 세계 3만 명 몰린 오디션…TV판 해리포터 주인공 얼굴 공개](https://blog.ai.dmomo.co.kr/news/5830) <br/>
-[2025/07/15 - [뉴스] 트럼프 “우크라전쟁, 50일내 휴전 안되면 러에 ‘혹독한’ 관세”](https://blog.ai.dmomo.co.kr/news/5827) <br/>
-[2025/07/14 - [뉴스] 선수도 아니면서 왜?…‘시상대 센터 욕심’ 트럼프에 첼시 선수·팬 ‘기겁’](https://blog.ai.dmomo.co.kr/news/5824) <br/>
-[2025/07/14 - [뉴스] 알츠하이머, 혈액 속 지질과 관련 있다 국내 연구팀 최초 입증](https://blog.ai.dmomo.co.kr/news/5821) <br/>
+[2025/07/16 - [뉴스] 엔비디아 4% 오르며 170달러 돌파…나스닥은 또 최고치 경신 [월가월부]](https://blog.ai.dmomo.co.kr/news/5917) <br/>
+[2025/07/16 - [뉴스] 하늘의 테슬라 내년부턴 상용화된다…주가 10% 껑충](https://blog.ai.dmomo.co.kr/news/5914) <br/>
+[2025/07/16 - [뉴스] 유네스코 세계유산, 내년 7월 부산서 논의…한국 첫 개최](https://blog.ai.dmomo.co.kr/news/5911) <br/>
+[2025/07/16 - [뉴스] 트럼프 “인도네시아와 훌륭한 무역협상 완료…내가 직접 협상”](https://blog.ai.dmomo.co.kr/news/5908) <br/>
+[2025/07/15 - [뉴스] 美 6월 소비자물가 상승률 2.7%로 반등…관세 영향 시작됐나](https://blog.ai.dmomo.co.kr/news/5905) <br/>
+[2025/07/15 - [뉴스] 홍명보호, 안방서 동아시안컵 내줬다…한일전 충격의 3연패](https://blog.ai.dmomo.co.kr/news/5902) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/14 - Latest Edge AI Technologies and Market Outlook for 2025: Analysis of 5 Key Trends](https://ai.trend.dmomo.co.kr/2025/07/latest-edge-ai-technologies-and-market.html) <br/>
-[2025/07/14 - A Victory Begun with Tears: 3-1 Triumph in Preseason Match Amidst Jota Tribute in Liverpool](https://ai.trend.dmomo.co.kr/2025/07/a-victory-begun-with-tears-3-1-triumph.html) <br/>
-[2025/07/14 - History is Burning: Lessons from the Grand Canyon Lodge Fire and Wildfires](https://ai.trend.dmomo.co.kr/2025/07/history-is-burning-lessons-from-grand.html) <br/>
-[2025/07/14 - Cutting-Edge MLOps in 2025: Analyzing Cross-Workspace Registries and AIOps Integration Trends](https://ai.trend.dmomo.co.kr/2025/07/cutting-edge-mlops-in-2025-analyzing.html) <br/>
-[2025/07/14 - Is the American Soccer Craze Beginning? Chelsea Triumphs Over PSG to Claim Club World Cup Title](https://ai.trend.dmomo.co.kr/2025/07/is-american-soccer-craze-beginning.html) <br/>
-[2025/07/14 - Chelsea vs PSG: A $3 Billion Showdown, Making New History in the FIFA Club World Cup](https://ai.trend.dmomo.co.kr/2025/07/chelsea-vs-psg-3-billion-showdown.html) <br/>
+[2025/07/15 - 2025 Customer Service Revolution! Key Features of Google Cloud AI Agent Performance Analytics Platform](https://ai.trend.dmomo.co.kr/2025/07/2025-customer-service-revolution-key.html) <br/>
+[2025/07/15 - Population Decline vs. Technological Innovation: 3 Key Factors Shaping the Future of Korea-Japan Relations](https://ai.trend.dmomo.co.kr/2025/07/population-decline-vs-technological.html) <br/>
+[2025/07/15 - Korea-Japan Rivalry: A Major Clash for the East Asian Cup Championship After 6 Years - What’s the Strategy?](https://ai.trend.dmomo.co.kr/2025/07/korea-japan-rivalry-major-clash-for.html) <br/>
+[2025/07/15 - Azealia Banks' Shocking Scandal: From Nude Leaks to Mental Health Issues](https://ai.trend.dmomo.co.kr/2025/07/azealia-banks-shocking-scandal-from.html) <br/>
+[2025/07/15 - The Evolution of CGV: From Cinema to Cultural Platform - Exclusive Screenings to Mobile Events](https://ai.trend.dmomo.co.kr/2025/07/the-evolution-of-cgv-from-cinema-to.html) <br/>
+[2025/07/15 - 2025 MLB Home Run Derby: Rookies vs Veterans, Hotter with New Rules!](https://ai.trend.dmomo.co.kr/2025/07/2025-mlb-home-run-derby-rookies-vs.html) <br/>
