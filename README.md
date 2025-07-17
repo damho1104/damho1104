@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/16 - [뉴스] 엔비디아 4% 오르며 170달러 돌파…나스닥은 또 최고치 경신 [월가월부]](https://blog.ai.dmomo.co.kr/news/5917) <br/>
-[2025/07/16 - [뉴스] 하늘의 테슬라 내년부턴 상용화된다…주가 10% 껑충](https://blog.ai.dmomo.co.kr/news/5914) <br/>
-[2025/07/16 - [뉴스] 유네스코 세계유산, 내년 7월 부산서 논의…한국 첫 개최](https://blog.ai.dmomo.co.kr/news/5911) <br/>
-[2025/07/16 - [뉴스] 트럼프 “인도네시아와 훌륭한 무역협상 완료…내가 직접 협상”](https://blog.ai.dmomo.co.kr/news/5908) <br/>
-[2025/07/15 - [뉴스] 美 6월 소비자물가 상승률 2.7%로 반등…관세 영향 시작됐나](https://blog.ai.dmomo.co.kr/news/5905) <br/>
-[2025/07/15 - [뉴스] 홍명보호, 안방서 동아시안컵 내줬다…한일전 충격의 3연패](https://blog.ai.dmomo.co.kr/news/5902) <br/>
+[2025/07/17 - 7월 16일 날씨: 폭우와 강풍으로 전국 혼란, 주말까지 지속될까?](https://blog.ai.dmomo.co.kr/trend/5991) <br/>
+[2025/07/17 - [뉴스] “저커버그 저리 비켜”…세계에서 두번째로 부자인 사람은?](https://blog.ai.dmomo.co.kr/news/5986) <br/>
+[2025/07/17 - [뉴스] 콜라광 트럼프 등쌀에…재료 바꾼 코카콜라](https://blog.ai.dmomo.co.kr/news/5983) <br/>
+[2025/07/16 - [뉴스] 트럼프와 관세협상 사인 끝낸 세 나라…모두 ‘이 시장’부터 열었다](https://blog.ai.dmomo.co.kr/news/5980) <br/>
+[2025/07/16 - [뉴스] 서울 전역 호우주의보, 27개 하천 출입 통제](https://blog.ai.dmomo.co.kr/news/5977) <br/>
+[2025/07/16 - [뉴스] 장현국 전 위메이드 대표, 위믹스 유통량 조작 무죄](https://blog.ai.dmomo.co.kr/news/5974) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/15 - 2025 Customer Service Revolution! Key Features of Google Cloud AI Agent Performance Analytics Platform](https://ai.trend.dmomo.co.kr/2025/07/2025-customer-service-revolution-key.html) <br/>
-[2025/07/15 - Population Decline vs. Technological Innovation: 3 Key Factors Shaping the Future of Korea-Japan Relations](https://ai.trend.dmomo.co.kr/2025/07/population-decline-vs-technological.html) <br/>
-[2025/07/15 - Korea-Japan Rivalry: A Major Clash for the East Asian Cup Championship After 6 Years - What’s the Strategy?](https://ai.trend.dmomo.co.kr/2025/07/korea-japan-rivalry-major-clash-for.html) <br/>
-[2025/07/15 - Azealia Banks' Shocking Scandal: From Nude Leaks to Mental Health Issues](https://ai.trend.dmomo.co.kr/2025/07/azealia-banks-shocking-scandal-from.html) <br/>
-[2025/07/15 - The Evolution of CGV: From Cinema to Cultural Platform - Exclusive Screenings to Mobile Events](https://ai.trend.dmomo.co.kr/2025/07/the-evolution-of-cgv-from-cinema-to.html) <br/>
-[2025/07/15 - 2025 MLB Home Run Derby: Rookies vs Veterans, Hotter with New Rules!](https://ai.trend.dmomo.co.kr/2025/07/2025-mlb-home-run-derby-rookies-vs.html) <br/>
+[2025/07/16 - Top 5 Essential Software Supply Chain Security Solutions and Latest Technologies for 2025](https://ai.trend.dmomo.co.kr/2025/07/top-5-essential-software-supply-chain.html) <br/>
+[2025/07/16 - Brave Group's Bold Moves: The Future of the Digital Content Market Through the Acquisition of Stellalive](https://ai.trend.dmomo.co.kr/2025/07/brave-groups-bold-moves-future-of.html) <br/>
+[2025/07/16 - The Truth Behind the Vietnam Assault Incident: How the Actions of Korean Tourists Affect the National Image](https://ai.trend.dmomo.co.kr/2025/07/the-truth-behind-vietnam-assault.html) <br/>
+[2025/07/16 - Min Hee-jin vs. HYBE: The Shocking Ruling on Management Rights Conflict and the Future of the K-Pop Industry](https://ai.trend.dmomo.co.kr/2025/07/min-hee-jin-vs-hybe-shocking-ruling-on.html) <br/>
+[2025/07/16 - Innovation and Diversity in the American TV Industry through the Lens of the 2025 Emmy Nominees](https://ai.trend.dmomo.co.kr/2025/07/innovation-and-diversity-in-american-tv.html) <br/>
+[2025/07/16 - 5 Breakthrough Quantum Computing Technologies in 2025 and the Secret Behind Majorana Qubit Self-Rotation Explained](https://ai.trend.dmomo.co.kr/2025/07/5-breakthrough-quantum-computing.html) <br/>
