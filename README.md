@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/17 - 7월 16일 날씨: 폭우와 강풍으로 전국 혼란, 주말까지 지속될까?](https://blog.ai.dmomo.co.kr/trend/5991) <br/>
-[2025/07/17 - [뉴스] “저커버그 저리 비켜”…세계에서 두번째로 부자인 사람은?](https://blog.ai.dmomo.co.kr/news/5986) <br/>
-[2025/07/17 - [뉴스] 콜라광 트럼프 등쌀에…재료 바꾼 코카콜라](https://blog.ai.dmomo.co.kr/news/5983) <br/>
-[2025/07/16 - [뉴스] 트럼프와 관세협상 사인 끝낸 세 나라…모두 ‘이 시장’부터 열었다](https://blog.ai.dmomo.co.kr/news/5980) <br/>
-[2025/07/16 - [뉴스] 서울 전역 호우주의보, 27개 하천 출입 통제](https://blog.ai.dmomo.co.kr/news/5977) <br/>
-[2025/07/16 - [뉴스] 장현국 전 위메이드 대표, 위믹스 유통량 조작 무죄](https://blog.ai.dmomo.co.kr/news/5974) <br/>
+[2025/07/18 - [뉴스] 한국 없었으면 어쩔뻔…올해만 주가 43% 뛴 미국 이 회사](https://blog.ai.dmomo.co.kr/news/6064) <br/>
+[2025/07/18 - [뉴스] 노재팬 이전 회복…日 돈키호테 오픈런에 여행도 급증](https://blog.ai.dmomo.co.kr/news/6061) <br/>
+[2025/07/18 - [뉴스] 美상원 국방예산법안에 ‘주한미군 감축에 예산사용 금지’ …병력 현행 유지할듯](https://blog.ai.dmomo.co.kr/news/6058) <br/>
+[2025/07/17 - [뉴스] “美 신규 실업수당 청구 5주 연속 줄었다”…3개월來 최저](https://blog.ai.dmomo.co.kr/news/6055) <br/>
+[2025/07/17 - [뉴스] 이틀간 400㎜ 넘게 쏟아진 중·남부…집중호우 피해 속출](https://blog.ai.dmomo.co.kr/news/6052) <br/>
+[2025/07/17 - 2025년 웹 개발 혁신! WebAssembly와 AI 통합의 5가지 핵심 트렌드](https://blog.ai.dmomo.co.kr/tech/6049) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/16 - Top 5 Essential Software Supply Chain Security Solutions and Latest Technologies for 2025](https://ai.trend.dmomo.co.kr/2025/07/top-5-essential-software-supply-chain.html) <br/>
-[2025/07/16 - Brave Group's Bold Moves: The Future of the Digital Content Market Through the Acquisition of Stellalive](https://ai.trend.dmomo.co.kr/2025/07/brave-groups-bold-moves-future-of.html) <br/>
-[2025/07/16 - The Truth Behind the Vietnam Assault Incident: How the Actions of Korean Tourists Affect the National Image](https://ai.trend.dmomo.co.kr/2025/07/the-truth-behind-vietnam-assault.html) <br/>
-[2025/07/16 - Min Hee-jin vs. HYBE: The Shocking Ruling on Management Rights Conflict and the Future of the K-Pop Industry](https://ai.trend.dmomo.co.kr/2025/07/min-hee-jin-vs-hybe-shocking-ruling-on.html) <br/>
-[2025/07/16 - Innovation and Diversity in the American TV Industry through the Lens of the 2025 Emmy Nominees](https://ai.trend.dmomo.co.kr/2025/07/innovation-and-diversity-in-american-tv.html) <br/>
-[2025/07/16 - 5 Breakthrough Quantum Computing Technologies in 2025 and the Secret Behind Majorana Qubit Self-Rotation Explained](https://ai.trend.dmomo.co.kr/2025/07/5-breakthrough-quantum-computing.html) <br/>
+[2025/07/17 - 2025 Web Development Revolution: Top 5 Trends in WebAssembly and AI Integration](https://ai.trend.dmomo.co.kr/2025/07/2025-web-development-revolution-top-5.html) <br/>
+[2025/07/17 - A Four-Game Series that Decides the Fate of 1st Place Hanwha and 5th Place KT: Who Will Prevail?](https://ai.trend.dmomo.co.kr/2025/07/a-four-game-series-that-decides-fate-of.html) <br/>
+[2025/07/17 - The Science of Lightning: Safe Evacuation and Recent Heavy Rainfall Trends in South Korea Explained by the 15-Second Rule](https://ai.trend.dmomo.co.kr/2025/07/the-science-of-lightning-safe.html) <br/>
+[2025/07/17 - Shocking Osan Retaining Wall Collapse: 1 Dead, What's the Current State of Safety Infrastructure?](https://ai.trend.dmomo.co.kr/2025/07/shocking-osan-retaining-wall-collapse-1.html) <br/>
+[2025/07/17 - Introducing AWS Kiro 2025: Exploring AI-Powered Spec Coding IDE from Installation to Key Features](https://ai.trend.dmomo.co.kr/2025/07/introducing-aws-kiro-2025-exploring-ai.html) <br/>
+[2025/07/17 - Brave Group's Leap into the Global Stage: The Future of the Virtual Idol Market through the Acquisition of Stellarive](https://ai.trend.dmomo.co.kr/2025/07/brave-groups-leap-into-global-stage.html) <br/>
