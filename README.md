@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/18 - [뉴스] 한국 없었으면 어쩔뻔…올해만 주가 43% 뛴 미국 이 회사](https://blog.ai.dmomo.co.kr/news/6064) <br/>
-[2025/07/18 - [뉴스] 노재팬 이전 회복…日 돈키호테 오픈런에 여행도 급증](https://blog.ai.dmomo.co.kr/news/6061) <br/>
-[2025/07/18 - [뉴스] 美상원 국방예산법안에 ‘주한미군 감축에 예산사용 금지’ …병력 현행 유지할듯](https://blog.ai.dmomo.co.kr/news/6058) <br/>
-[2025/07/17 - [뉴스] “美 신규 실업수당 청구 5주 연속 줄었다”…3개월來 최저](https://blog.ai.dmomo.co.kr/news/6055) <br/>
-[2025/07/17 - [뉴스] 이틀간 400㎜ 넘게 쏟아진 중·남부…집중호우 피해 속출](https://blog.ai.dmomo.co.kr/news/6052) <br/>
-[2025/07/17 - 2025년 웹 개발 혁신! WebAssembly와 AI 통합의 5가지 핵심 트렌드](https://blog.ai.dmomo.co.kr/tech/6049) <br/>
+[2025/07/19 - [뉴스] 나 보고 차를 팔라니…핵심임원 나가자 판매 맡은 테슬라 기술직男의 정체](https://blog.ai.dmomo.co.kr/news/6133) <br/>
+[2025/07/19 - [뉴스] 로드맵도 사내 정치도 없었다…오픈AI의 혁신 비결은 무질서’?](https://blog.ai.dmomo.co.kr/news/6130) <br/>
+[2025/07/19 - [뉴스] 서울 전역 호우주의보 해제…인천·경기 일부 지역도 풀려](https://blog.ai.dmomo.co.kr/news/6127) <br/>
+[2025/07/18 - [뉴스] EU, 18차 대러시아 제재안 합의…러 원유 상한가 15% ↓](https://blog.ai.dmomo.co.kr/news/6124) <br/>
+[2025/07/18 - 네이버의 치지직: XR과 AI가 만드는 차세대 라이브 스트리밍의 혁명](https://blog.ai.dmomo.co.kr/trend/6121) <br/>
+[2025/07/18 - 2025년 최신 소프트웨어 공급망 보안 자동화 기술 5가지 핵심 트렌드](https://blog.ai.dmomo.co.kr/tech/6118) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/17 - 2025 Web Development Revolution: Top 5 Trends in WebAssembly and AI Integration](https://ai.trend.dmomo.co.kr/2025/07/2025-web-development-revolution-top-5.html) <br/>
-[2025/07/17 - A Four-Game Series that Decides the Fate of 1st Place Hanwha and 5th Place KT: Who Will Prevail?](https://ai.trend.dmomo.co.kr/2025/07/a-four-game-series-that-decides-fate-of.html) <br/>
-[2025/07/17 - The Science of Lightning: Safe Evacuation and Recent Heavy Rainfall Trends in South Korea Explained by the 15-Second Rule](https://ai.trend.dmomo.co.kr/2025/07/the-science-of-lightning-safe.html) <br/>
-[2025/07/17 - Shocking Osan Retaining Wall Collapse: 1 Dead, What's the Current State of Safety Infrastructure?](https://ai.trend.dmomo.co.kr/2025/07/shocking-osan-retaining-wall-collapse-1.html) <br/>
-[2025/07/17 - Introducing AWS Kiro 2025: Exploring AI-Powered Spec Coding IDE from Installation to Key Features](https://ai.trend.dmomo.co.kr/2025/07/introducing-aws-kiro-2025-exploring-ai.html) <br/>
-[2025/07/17 - Brave Group's Leap into the Global Stage: The Future of the Virtual Idol Market through the Acquisition of Stellarive](https://ai.trend.dmomo.co.kr/2025/07/brave-groups-leap-into-global-stage.html) <br/>
+[2025/07/18 - Naver's Chijijik: The Revolution of Next-Generation Live Streaming Powered by XR and AI](https://ai.trend.dmomo.co.kr/2025/07/navers-chijijik-revolution-of-next.html) <br/>
+[2025/07/18 - 5 Key Trends in 2025’s Latest Software Supply Chain Security Automation Technologies](https://ai.trend.dmomo.co.kr/2025/07/5-key-trends-in-2025s-latest-software.html) <br/>
+[2025/07/18 - Coldplay Concert Exposes CEO's 'Kiss Cam' Scandal: What's the Aftermath?](https://ai.trend.dmomo.co.kr/2025/07/coldplay-concert-exposes-ceos-kiss-cam.html) <br/>
+[2025/07/18 - Shocking! The Adultery Scandal of Astronomer CEO: 3 Key Issues Raised in the IT Industry](https://ai.trend.dmomo.co.kr/2025/07/shocking-adultery-scandal-of-astronomer.html) <br/>
+[2025/07/18 - The Tragedy of Electric Vehicle Battery Fires: Lessons and Measures from the Gwangmyeong Apartment Incident with 65 Injured](https://ai.trend.dmomo.co.kr/2025/07/the-tragedy-of-electric-vehicle-battery.html) <br/>
+[2025/07/18 - Top 4 Cloud Infrastructure Trends in 2025 and Growth Outlook Analysis](https://ai.trend.dmomo.co.kr/2025/07/top-4-cloud-infrastructure-trends-in.html) <br/>
