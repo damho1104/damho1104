@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/19 - [뉴스] 나 보고 차를 팔라니…핵심임원 나가자 판매 맡은 테슬라 기술직男의 정체](https://blog.ai.dmomo.co.kr/news/6133) <br/>
-[2025/07/19 - [뉴스] 로드맵도 사내 정치도 없었다…오픈AI의 혁신 비결은 무질서’?](https://blog.ai.dmomo.co.kr/news/6130) <br/>
-[2025/07/19 - [뉴스] 서울 전역 호우주의보 해제…인천·경기 일부 지역도 풀려](https://blog.ai.dmomo.co.kr/news/6127) <br/>
-[2025/07/18 - [뉴스] EU, 18차 대러시아 제재안 합의…러 원유 상한가 15% ↓](https://blog.ai.dmomo.co.kr/news/6124) <br/>
-[2025/07/18 - 네이버의 치지직: XR과 AI가 만드는 차세대 라이브 스트리밍의 혁명](https://blog.ai.dmomo.co.kr/trend/6121) <br/>
-[2025/07/18 - 2025년 최신 소프트웨어 공급망 보안 자동화 기술 5가지 핵심 트렌드](https://blog.ai.dmomo.co.kr/tech/6118) <br/>
+[2025/07/20 - [뉴스] 콘서트서 불륜 생중계 美CEO, 사흘만에 결국 사직](https://blog.ai.dmomo.co.kr/news/6199) <br/>
+[2025/07/20 - [뉴스] 전국 곳곳 최대 40㎜ 소나기…낮 최고 34도](https://blog.ai.dmomo.co.kr/news/6196) <br/>
+[2025/07/20 - IT 트렌드 분석의 비밀: 7일간 핫 게시물로 알아보는 최신 동향](https://blog.ai.dmomo.co.kr/ai/6193) <br/>
+[2025/07/19 - [뉴스] 53명 태운 유람선 전복…베트남 유명관광지 하롱베이 ‘초비상’](https://blog.ai.dmomo.co.kr/news/6190) <br/>
+[2025/07/19 - [뉴스] 중국에 1위 뺏겼었는데…삼성전자, 1년 만에 기회 왔다](https://blog.ai.dmomo.co.kr/news/6187) <br/>
+[2025/07/19 - 2025년 기록적 폭우의 교훈: 200년 만의 ‘괴물 호우’가 남긴 과제](https://blog.ai.dmomo.co.kr/trend/6184) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/18 - Naver's Chijijik: The Revolution of Next-Generation Live Streaming Powered by XR and AI](https://ai.trend.dmomo.co.kr/2025/07/navers-chijijik-revolution-of-next.html) <br/>
-[2025/07/18 - 5 Key Trends in 2025’s Latest Software Supply Chain Security Automation Technologies](https://ai.trend.dmomo.co.kr/2025/07/5-key-trends-in-2025s-latest-software.html) <br/>
-[2025/07/18 - Coldplay Concert Exposes CEO's 'Kiss Cam' Scandal: What's the Aftermath?](https://ai.trend.dmomo.co.kr/2025/07/coldplay-concert-exposes-ceos-kiss-cam.html) <br/>
-[2025/07/18 - Shocking! The Adultery Scandal of Astronomer CEO: 3 Key Issues Raised in the IT Industry](https://ai.trend.dmomo.co.kr/2025/07/shocking-adultery-scandal-of-astronomer.html) <br/>
-[2025/07/18 - The Tragedy of Electric Vehicle Battery Fires: Lessons and Measures from the Gwangmyeong Apartment Incident with 65 Injured](https://ai.trend.dmomo.co.kr/2025/07/the-tragedy-of-electric-vehicle-battery.html) <br/>
-[2025/07/18 - Top 4 Cloud Infrastructure Trends in 2025 and Growth Outlook Analysis](https://ai.trend.dmomo.co.kr/2025/07/top-4-cloud-infrastructure-trends-in.html) <br/>
+[2025/07/19 - Lessons from the Record Rainfall of 2025: Challenges Left by the 'Monster Downpour' of 200 Years](https://ai.trend.dmomo.co.kr/2025/07/lessons-from-record-rainfall-of-2025.html) <br/>
+[2025/07/19 - 2025 Cloud Security Innovations: The Secret Behind NVIDIA InfiniBand’s Multi-Layer Protection Technology](https://ai.trend.dmomo.co.kr/2025/07/2025-cloud-security-innovations-secret.html) <br/>
+[2025/07/19 - The Shocking 'Affair Couple' Incident at the Coldplay Concert: CEO's Downfall and America's Reaction](https://ai.trend.dmomo.co.kr/2025/07/the-shocking-affair-couple-incident-at.html) <br/>
+[2025/07/19 - K League Big Match: Pohang vs Jeonbuk, 3 Key Points to Determine the Winner](https://ai.trend.dmomo.co.kr/2025/07/k-league-big-match-pohang-vs-jeonbuk-3.html) <br/>
+[2025/07/19 - IU Claims Victory at the Blue Dragon Series Awards with 'You Gotta Be Kidding!' - A Celebration of Her Unique Life as Oh Aesoon](https://ai.trend.dmomo.co.kr/2025/07/iu-claims-victory-at-blue-dragon-series.html) <br/>
+[2025/07/19 - The Uncomfortable Truth of 84 Square Meters: When the Middle-Class Dream Becomes a Nightmare](https://ai.trend.dmomo.co.kr/2025/07/the-uncomfortable-truth-of-84-square.html) <br/>
