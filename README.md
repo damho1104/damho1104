@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/20 - [뉴스] 콘서트서 불륜 생중계 美CEO, 사흘만에 결국 사직](https://blog.ai.dmomo.co.kr/news/6199) <br/>
-[2025/07/20 - [뉴스] 전국 곳곳 최대 40㎜ 소나기…낮 최고 34도](https://blog.ai.dmomo.co.kr/news/6196) <br/>
-[2025/07/20 - IT 트렌드 분석의 비밀: 7일간 핫 게시물로 알아보는 최신 동향](https://blog.ai.dmomo.co.kr/ai/6193) <br/>
-[2025/07/19 - [뉴스] 53명 태운 유람선 전복…베트남 유명관광지 하롱베이 ‘초비상’](https://blog.ai.dmomo.co.kr/news/6190) <br/>
-[2025/07/19 - [뉴스] 중국에 1위 뺏겼었는데…삼성전자, 1년 만에 기회 왔다](https://blog.ai.dmomo.co.kr/news/6187) <br/>
-[2025/07/19 - 2025년 기록적 폭우의 교훈: 200년 만의 ‘괴물 호우’가 남긴 과제](https://blog.ai.dmomo.co.kr/trend/6184) <br/>
+[2025/07/21 - [뉴스] 스몰캡 박살나요…세제개편안에 술렁인 여의도 증권가 [김익환의 부처 핸즈업]](https://blog.ai.dmomo.co.kr/news/6280) <br/>
+[2025/07/21 - [뉴스] “현대건설, 원전·SMR 성장 잠재력 주목”…목표가↑](https://blog.ai.dmomo.co.kr/news/6276) <br/>
+[2025/07/21 - [뉴스] 흰 살 고기·현미 많이 먹었더니 의료비가…놀라운 효과](https://blog.ai.dmomo.co.kr/news/6274) <br/>
+[2025/07/21 - [뉴스] “미국도 유럽도 이제 비싸서 못 가겠네”…없던 비자·입국 수수료 받는다](https://blog.ai.dmomo.co.kr/news/6271) <br/>
+[2025/07/21 - [뉴스] 폭우 끝, 폭염 다시 시작…낮 최고 34도](https://blog.ai.dmomo.co.kr/news/6268) <br/>
+[2025/07/21 - [뉴스] 쌀값·관세에 돌아선 日민심 … 이시바 ‘추가연정’ 돌파구 찾나](https://blog.ai.dmomo.co.kr/news/6265) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/19 - Lessons from the Record Rainfall of 2025: Challenges Left by the 'Monster Downpour' of 200 Years](https://ai.trend.dmomo.co.kr/2025/07/lessons-from-record-rainfall-of-2025.html) <br/>
-[2025/07/19 - 2025 Cloud Security Innovations: The Secret Behind NVIDIA InfiniBand’s Multi-Layer Protection Technology](https://ai.trend.dmomo.co.kr/2025/07/2025-cloud-security-innovations-secret.html) <br/>
-[2025/07/19 - The Shocking 'Affair Couple' Incident at the Coldplay Concert: CEO's Downfall and America's Reaction](https://ai.trend.dmomo.co.kr/2025/07/the-shocking-affair-couple-incident-at.html) <br/>
-[2025/07/19 - K League Big Match: Pohang vs Jeonbuk, 3 Key Points to Determine the Winner](https://ai.trend.dmomo.co.kr/2025/07/k-league-big-match-pohang-vs-jeonbuk-3.html) <br/>
-[2025/07/19 - IU Claims Victory at the Blue Dragon Series Awards with 'You Gotta Be Kidding!' - A Celebration of Her Unique Life as Oh Aesoon](https://ai.trend.dmomo.co.kr/2025/07/iu-claims-victory-at-blue-dragon-series.html) <br/>
-[2025/07/19 - The Uncomfortable Truth of 84 Square Meters: When the Middle-Class Dream Becomes a Nightmare](https://ai.trend.dmomo.co.kr/2025/07/the-uncomfortable-truth-of-84-square.html) <br/>
+[2025/07/20 - Latest AI Trends in July 2025: Cutting-Edge Innovations in Multi-Object Tracking (MOT) and PINN Technology](https://ai.trend.dmomo.co.kr/2025/07/latest-ai-trends-in-july-2025-cutting.html) <br/>
+[2025/07/20 - Hawaii Typhoon Warning Lifted: Risk Assessment and Response System After 7.4 Magnitude Earthquake](https://ai.trend.dmomo.co.kr/2025/07/hawaii-typhoon-warning-lifted-risk.html) <br/>
+[2025/07/20 - Celtic vs Newcastle 4-0 Victory: Highlights and Analysis of Preseason Match Including Yang Hyun-joon's Goal](https://ai.trend.dmomo.co.kr/2025/07/celtic-vs-newcastle-4-0-victory.html) <br/>
+[2025/07/20 - UFC 318: Holloway vs. Poirier 2, A Night of Showdown in New Orleans - In-Depth Analysis](https://ai.trend.dmomo.co.kr/2025/07/ufc-318-holloway-vs-poirier-2-night-of.html) <br/>
+[2025/07/20 - Dustin Poirier's Final Legend: The BMF Title Clash at UFC 318](https://ai.trend.dmomo.co.kr/2025/07/dustin-poiriers-final-legend-bmf-title.html) <br/>
+[2025/07/20 - Top 5 Latest DevOps Trends and Essential Tools for 2025: A Complete Analysis](https://ai.trend.dmomo.co.kr/2025/07/top-5-latest-devops-trends-and.html) <br/>
