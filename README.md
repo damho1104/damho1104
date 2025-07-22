@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/21 - [뉴스] 스몰캡 박살나요…세제개편안에 술렁인 여의도 증권가 [김익환의 부처 핸즈업]](https://blog.ai.dmomo.co.kr/news/6280) <br/>
-[2025/07/21 - [뉴스] “현대건설, 원전·SMR 성장 잠재력 주목”…목표가↑](https://blog.ai.dmomo.co.kr/news/6276) <br/>
-[2025/07/21 - [뉴스] 흰 살 고기·현미 많이 먹었더니 의료비가…놀라운 효과](https://blog.ai.dmomo.co.kr/news/6274) <br/>
-[2025/07/21 - [뉴스] “미국도 유럽도 이제 비싸서 못 가겠네”…없던 비자·입국 수수료 받는다](https://blog.ai.dmomo.co.kr/news/6271) <br/>
-[2025/07/21 - [뉴스] 폭우 끝, 폭염 다시 시작…낮 최고 34도](https://blog.ai.dmomo.co.kr/news/6268) <br/>
-[2025/07/21 - [뉴스] 쌀값·관세에 돌아선 日민심 … 이시바 ‘추가연정’ 돌파구 찾나](https://blog.ai.dmomo.co.kr/news/6265) <br/>
+[2025/07/22 - [뉴스] “기사 내보내지 마”…트럼프, ‘외설편지’ 보도 막으려 WSJ에 전화해 버럭](https://blog.ai.dmomo.co.kr/news/6350) <br/>
+[2025/07/22 - [뉴스] 너도나도 소비쿠폰 사용가능 내걸었다…기대감 크지만](https://blog.ai.dmomo.co.kr/news/6347) <br/>
+[2025/07/21 - [뉴스] “경제 살리는데 1000조 쓰겠다”…독일 기업 61곳 ‘통 큰 투자’](https://blog.ai.dmomo.co.kr/news/6344) <br/>
+[2025/07/21 - [뉴스] 석달 뒤 에어비앤비 한국 숙소 절반 가까이 없어진다 왜?](https://blog.ai.dmomo.co.kr/news/6341) <br/>
+[2025/07/21 - [뉴스] 밸류업 시동 건 LG유플러스, 1000억원 규모 자사주 소각](https://blog.ai.dmomo.co.kr/news/6338) <br/>
+[2025/07/21 - 2025년 최신 웹 기술 3가지 혁신 트렌드와 e커머스 카테고리 전략 핵심 분석](https://blog.ai.dmomo.co.kr/tech/6335) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/20 - Latest AI Trends in July 2025: Cutting-Edge Innovations in Multi-Object Tracking (MOT) and PINN Technology](https://ai.trend.dmomo.co.kr/2025/07/latest-ai-trends-in-july-2025-cutting.html) <br/>
-[2025/07/20 - Hawaii Typhoon Warning Lifted: Risk Assessment and Response System After 7.4 Magnitude Earthquake](https://ai.trend.dmomo.co.kr/2025/07/hawaii-typhoon-warning-lifted-risk.html) <br/>
-[2025/07/20 - Celtic vs Newcastle 4-0 Victory: Highlights and Analysis of Preseason Match Including Yang Hyun-joon's Goal](https://ai.trend.dmomo.co.kr/2025/07/celtic-vs-newcastle-4-0-victory.html) <br/>
-[2025/07/20 - UFC 318: Holloway vs. Poirier 2, A Night of Showdown in New Orleans - In-Depth Analysis](https://ai.trend.dmomo.co.kr/2025/07/ufc-318-holloway-vs-poirier-2-night-of.html) <br/>
-[2025/07/20 - Dustin Poirier's Final Legend: The BMF Title Clash at UFC 318](https://ai.trend.dmomo.co.kr/2025/07/dustin-poiriers-final-legend-bmf-title.html) <br/>
-[2025/07/20 - Top 5 Latest DevOps Trends and Essential Tools for 2025: A Complete Analysis](https://ai.trend.dmomo.co.kr/2025/07/top-5-latest-devops-trends-and.html) <br/>
+[2025/07/21 - Top 3 Cutting-Edge Web Technology Trends of 2025 and Key E-Commerce Category Strategy Insights](https://ai.trend.dmomo.co.kr/2025/07/top-3-cutting-edge-web-technology.html) <br/>
+[2025/07/21 - Toluca's 3-1 Victory: Analysis of the 2025 Campeón de Campeones Final](https://ai.trend.dmomo.co.kr/2025/07/tolucas-3-1-victory-analysis-of-2025.html) <br/>
+[2025/07/21 - Comprehensive Guide to Living Support Funds: How to Receive Up to 550,000 Won and Where to Use It](https://ai.trend.dmomo.co.kr/2025/07/comprehensive-guide-to-living-support.html) <br/>
+[2025/07/21 - Top 5 SharePoint Vulnerabilities to Watch for in 2024 and Essential Security Measures You Need to Know](https://ai.trend.dmomo.co.kr/2025/07/top-5-sharepoint-vulnerabilities-to.html) <br/>
+[2025/07/21 - 2025 Latest AI Agent Technologies Compared and Key Innovations in AWS Marketplace Analyzed](https://ai.trend.dmomo.co.kr/2025/07/2025-latest-ai-agent-technologies.html) <br/>
+[2025/07/21 - Shockingly, the Songdo Shooting Incident: Legal Guns Double, Revealing the Dangers of Homemade Firearms](https://ai.trend.dmomo.co.kr/2025/07/shockingly-songdo-shooting-incident.html) <br/>
