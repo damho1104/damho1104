@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/23 - [뉴스] 미국·필리핀, 태평양 어디서든 안보협력…주한미군 역할 확장되나 촉각](https://blog.ai.dmomo.co.kr/news/6425) <br/>
-[2025/07/23 - [뉴스] 중국 AI 급성장 뒤엔 기술 탈취?…메타 AI 최고책임자의 작심 비판](https://blog.ai.dmomo.co.kr/news/6422) <br/>
-[2025/07/23 - [뉴스] 낮 36도까지 오른다…무더위에 열대야, 곳곳선 소나기](https://blog.ai.dmomo.co.kr/news/6419) <br/>
-[2025/07/23 - [뉴스] “소고기·쌀은 지키겠다”…미국과 관세 담판 앞둔 한국, 히든카드는 ‘에너지’](https://blog.ai.dmomo.co.kr/news/6416) <br/>
-[2025/07/22 - [뉴스] 파월 때리기 점입가경…美재무 “연준 전체 조사해야”](https://blog.ai.dmomo.co.kr/news/6413) <br/>
-[2025/07/22 - [뉴스] 의료 전문가들이 말하는 병원비 절약 꿀팁은?](https://blog.ai.dmomo.co.kr/news/6410) <br/>
+[2025/07/24 - [뉴스] 달러 약세에 비상등 켜진 EU 정상들…시진핑 만나 중국수출 ‘SOS’](https://blog.ai.dmomo.co.kr/news/6519) <br/>
+[2025/07/24 - [뉴스] 위험분담계약(RSA) 확대, 무엇을 준비해야 하는가](https://blog.ai.dmomo.co.kr/news/6516) <br/>
+[2025/07/24 - [뉴스] 여름휴가, 절반은 7말8초에 국내로 간다](https://blog.ai.dmomo.co.kr/news/6513) <br/>
+[2025/07/24 - [뉴스] 선거 패배, 관세협상으로 덮으려는 일본 총리…“진퇴논의 안한다” 버티기](https://blog.ai.dmomo.co.kr/news/6510) <br/>
+[2025/07/23 - [뉴스] 일본 ‘관세율 15%’에 미국과 도장 찍었다…한미협상 결과에 숨죽인 차업계](https://blog.ai.dmomo.co.kr/news/6507) <br/>
+[2025/07/23 - [뉴스] 7호 태풍 프란시스코 북상…한반도 폭염에 가세](https://blog.ai.dmomo.co.kr/news/6504) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/22 - LG vs KIA: The Thrilling Battle for Second Place and the Secrets Behind Solid Strategies](https://ai.trend.dmomo.co.kr/2025/07/lg-vs-kia-thrilling-battle-for-second.html) <br/>
-[2025/07/22 - 2025 Latest Trends in Quantum Computing Technology and Analysis of 5 Key Innovation Breakthroughs](https://ai.trend.dmomo.co.kr/2025/07/2025-latest-trends-in-quantum-computing.html) <br/>
-[2025/07/22 - Complete Guide to Apple Pay and Tmoney: From Setup to International Payments](https://ai.trend.dmomo.co.kr/2025/07/complete-guide-to-apple-pay-and-tmoney.html) <br/>
-[2025/07/22 - Everything About the Consumer Coupons for Recovery: From Benefits of 550,000 Won to Economic Impact](https://ai.trend.dmomo.co.kr/2025/07/everything-about-consumer-coupons-for.html) <br/>
-[2025/07/22 - Top 5 Low-Code Technology Trends of 2025 and Secrets to Enterprise Innovation](https://ai.trend.dmomo.co.kr/2025/07/top-5-low-code-technology-trends-of.html) <br/>
-[2025/07/22 - The Legendary Malcolm-Jamal Warner of American TV: The 54-Year Journey and Legacy of 'Theo Huxtable'](https://ai.trend.dmomo.co.kr/2025/07/the-legendary-malcolm-jamal-warner-of.html) <br/>
+[2025/07/23 - Jeonbuk vs Gangwon: Key Differences in Regional Development Strategies and Future Prospects](https://ai.trend.dmomo.co.kr/2025/07/jeonbuk-vs-gangwon-key-differences-in.html) <br/>
+[2025/07/23 - 5 Cutting-Edge Software Infrastructure Technologies for 2025 and the Secrets of Cloud Automation Revealed](https://ai.trend.dmomo.co.kr/2025/07/5-cutting-edge-software-infrastructure.html) <br/>
+[2025/07/23 - Ozzy Osbourne: The Prince of Darkness and the Legend of Heavy Metal - A 76-Year Journey Through Life](https://ai.trend.dmomo.co.kr/2025/07/ozzy-osbourne-prince-of-darkness-and.html) <br/>
+[2025/07/23 - LG vs KIA 9-7 Battle: A Dramatic Victory Achieved Through Strong First Pitch Targets and Reliever Promotions](https://ai.trend.dmomo.co.kr/2025/07/lg-vs-kia-9-7-battle-dramatic-victory.html) <br/>
+[2025/07/23 - 5 Key Software Infrastructure Innovation Strategies for 2025 and How to Leverage AI Cloud](https://ai.trend.dmomo.co.kr/2025/07/5-key-software-infrastructure.html) <br/>
+[2025/07/23 - The Legend of Heavy Metal: Ozzy Osbourne's Immortal Legacy in American Music History](https://ai.trend.dmomo.co.kr/2025/07/the-legend-of-heavy-metal-ozzy.html) <br/>
