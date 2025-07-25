@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/24 - [뉴스] 달러 약세에 비상등 켜진 EU 정상들…시진핑 만나 중국수출 ‘SOS’](https://blog.ai.dmomo.co.kr/news/6519) <br/>
-[2025/07/24 - [뉴스] 위험분담계약(RSA) 확대, 무엇을 준비해야 하는가](https://blog.ai.dmomo.co.kr/news/6516) <br/>
-[2025/07/24 - [뉴스] 여름휴가, 절반은 7말8초에 국내로 간다](https://blog.ai.dmomo.co.kr/news/6513) <br/>
-[2025/07/24 - [뉴스] 선거 패배, 관세협상으로 덮으려는 일본 총리…“진퇴논의 안한다” 버티기](https://blog.ai.dmomo.co.kr/news/6510) <br/>
-[2025/07/23 - [뉴스] 일본 ‘관세율 15%’에 미국과 도장 찍었다…한미협상 결과에 숨죽인 차업계](https://blog.ai.dmomo.co.kr/news/6507) <br/>
-[2025/07/23 - [뉴스] 7호 태풍 프란시스코 북상…한반도 폭염에 가세](https://blog.ai.dmomo.co.kr/news/6504) <br/>
+[2025/07/25 - [뉴스] [속보] 산업장관, 美상무장관과 80분 무역협상…美고위급과 연쇄회담 ‘총력전’](https://blog.ai.dmomo.co.kr/news/6591) <br/>
+[2025/07/25 - [뉴스] T1, 홈그라운드서 젠지 무패행진’ 끝낼까](https://blog.ai.dmomo.co.kr/news/6588) <br/>
+[2025/07/25 - [뉴스] 하루 16시간 금식하면 지방간 개선…식단 조절 없이도 효과](https://blog.ai.dmomo.co.kr/news/6585) <br/>
+[2025/07/24 - [뉴스] [속보] 한미, 2+2회의 무산…산업장관간 무역협상은 예정대로 진행](https://blog.ai.dmomo.co.kr/news/6582) <br/>
+[2025/07/24 - [뉴스] 무비자 中, 대지진 괴담 日에도 몰린다…여름휴가 가자 380만명 해외로](https://blog.ai.dmomo.co.kr/news/6579) <br/>
+[2025/07/24 - [뉴스] 가장 얇다던 中폴더블폰, 직접 재보니…갤Z폴드7보다 두꺼웠다](https://blog.ai.dmomo.co.kr/news/6576) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/23 - Jeonbuk vs Gangwon: Key Differences in Regional Development Strategies and Future Prospects](https://ai.trend.dmomo.co.kr/2025/07/jeonbuk-vs-gangwon-key-differences-in.html) <br/>
-[2025/07/23 - 5 Cutting-Edge Software Infrastructure Technologies for 2025 and the Secrets of Cloud Automation Revealed](https://ai.trend.dmomo.co.kr/2025/07/5-cutting-edge-software-infrastructure.html) <br/>
-[2025/07/23 - Ozzy Osbourne: The Prince of Darkness and the Legend of Heavy Metal - A 76-Year Journey Through Life](https://ai.trend.dmomo.co.kr/2025/07/ozzy-osbourne-prince-of-darkness-and.html) <br/>
-[2025/07/23 - LG vs KIA 9-7 Battle: A Dramatic Victory Achieved Through Strong First Pitch Targets and Reliever Promotions](https://ai.trend.dmomo.co.kr/2025/07/lg-vs-kia-9-7-battle-dramatic-victory.html) <br/>
-[2025/07/23 - 5 Key Software Infrastructure Innovation Strategies for 2025 and How to Leverage AI Cloud](https://ai.trend.dmomo.co.kr/2025/07/5-key-software-infrastructure.html) <br/>
-[2025/07/23 - The Legend of Heavy Metal: Ozzy Osbourne's Immortal Legacy in American Music History](https://ai.trend.dmomo.co.kr/2025/07/the-legend-of-heavy-metal-ozzy.html) <br/>
+[2025/07/24 - Thailand-Cambodia Border Dispute: F-16 vs. Rocket Artillery, Is Historical Conflict Escalating into Open War?](https://ai.trend.dmomo.co.kr/2025/07/thailand-cambodia-border-dispute-f-16.html) <br/>
+[2025/07/24 - The Shocking Idaho Murder Case: The Goncalves Family's Anger and Demand for Justice](https://ai.trend.dmomo.co.kr/2025/07/the-shocking-idaho-murder-case.html) <br/>
+[2025/07/24 - Eunbi Kwon and Pani Bottle’s Hiking Date? The Truth Behind the Dating Rumors and Hidden PR Strategies](https://ai.trend.dmomo.co.kr/2025/07/eunbi-kwon-and-pani-bottles-hiking-date.html) <br/>
+[2025/07/24 - 2025 Latest Trends in Agentic RAG Technology and 5 Key Differences from Traditional RAG](https://ai.trend.dmomo.co.kr/2025/07/2025-latest-trends-in-agentic-rag.html) <br/>
+[2025/07/24 - Arsenal's Victory Secured by Saka's Winning Goal: A Comprehensive Analysis of the Preseason Match Against AC Milan](https://ai.trend.dmomo.co.kr/2025/07/arsenals-victory-secured-by-sakas.html) <br/>
+[2025/07/24 - The Shocking Idaho University Murders: Brian Kohberger's 4 Life Sentences and the Mystery Behind It](https://ai.trend.dmomo.co.kr/2025/07/the-shocking-idaho-university-murders.html) <br/>
