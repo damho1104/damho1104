@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/25 - [뉴스] [속보] 산업장관, 美상무장관과 80분 무역협상…美고위급과 연쇄회담 ‘총력전’](https://blog.ai.dmomo.co.kr/news/6591) <br/>
-[2025/07/25 - [뉴스] T1, 홈그라운드서 젠지 무패행진’ 끝낼까](https://blog.ai.dmomo.co.kr/news/6588) <br/>
-[2025/07/25 - [뉴스] 하루 16시간 금식하면 지방간 개선…식단 조절 없이도 효과](https://blog.ai.dmomo.co.kr/news/6585) <br/>
-[2025/07/24 - [뉴스] [속보] 한미, 2+2회의 무산…산업장관간 무역협상은 예정대로 진행](https://blog.ai.dmomo.co.kr/news/6582) <br/>
-[2025/07/24 - [뉴스] 무비자 中, 대지진 괴담 日에도 몰린다…여름휴가 가자 380만명 해외로](https://blog.ai.dmomo.co.kr/news/6579) <br/>
-[2025/07/24 - [뉴스] 가장 얇다던 中폴더블폰, 직접 재보니…갤Z폴드7보다 두꺼웠다](https://blog.ai.dmomo.co.kr/news/6576) <br/>
+[2025/07/26 - [뉴스] “진심 걱정”…‘망명 권한’ 말레이 한식당 주인에 피살 김정은 이복형이 한 말](https://blog.ai.dmomo.co.kr/news/6654) <br/>
+[2025/07/26 - [뉴스] 외숙모가 내 아이를 낳았다…막장 불륜 금수저의 최후](https://blog.ai.dmomo.co.kr/news/6651) <br/>
+[2025/07/25 - [뉴스] “원가이하 덤핑판매 가만히 안둬”…중국, 배터리·전기차 출혈경쟁 칼 빼들어](https://blog.ai.dmomo.co.kr/news/6648) <br/>
+[2025/07/25 - [뉴스] 무심코 했다간 치명적 의사들은 절대 하지 않는 행동](https://blog.ai.dmomo.co.kr/news/6645) <br/>
+[2025/07/25 - [뉴스] 물에 빠진 폰을 쌀통에? NO…방부제 채우고 넣어보세요](https://blog.ai.dmomo.co.kr/news/6642) <br/>
+[2025/07/25 - [뉴스] ‘5조원’ 조달한 SK이노베이션, SK온 투자사에게 투자원금 돌려준다](https://blog.ai.dmomo.co.kr/news/6639) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/07/25 - CJ CGV's Major Transformation: Survival Strategy Through the Sale of U.S. Operations and Recruitment of New CFO](https://ai.trend.dmomo.co.kr/2025/07/cj-cgvs-major-transformation-survival.html) <br/>
+[2025/07/25 - Key Strategies for Software Supply Chain Security in 2025: An In-Depth Analysis of the SolarWinds Case](https://ai.trend.dmomo.co.kr/2025/07/key-strategies-for-software-supply.html) <br/>
+[2025/07/25 - Thailand-Cambodia Border Dispute Escalates to F-16 Deployment... What's the Solution?](https://ai.trend.dmomo.co.kr/2025/07/thailand-cambodia-border-dispute.html) <br/>
+[2025/07/25 - Hulk Hogan Passes Away: The Final 'Trump Mania' of the 71-Year-Old Wrestling Legend](https://ai.trend.dmomo.co.kr/2025/07/hulk-hogan-passes-away-final-trump.html) <br/>
 [2025/07/24 - Thailand-Cambodia Border Dispute: F-16 vs. Rocket Artillery, Is Historical Conflict Escalating into Open War?](https://ai.trend.dmomo.co.kr/2025/07/thailand-cambodia-border-dispute-f-16.html) <br/>
 [2025/07/24 - The Shocking Idaho Murder Case: The Goncalves Family's Anger and Demand for Justice](https://ai.trend.dmomo.co.kr/2025/07/the-shocking-idaho-murder-case.html) <br/>
-[2025/07/24 - Eunbi Kwon and Pani Bottle’s Hiking Date? The Truth Behind the Dating Rumors and Hidden PR Strategies](https://ai.trend.dmomo.co.kr/2025/07/eunbi-kwon-and-pani-bottles-hiking-date.html) <br/>
-[2025/07/24 - 2025 Latest Trends in Agentic RAG Technology and 5 Key Differences from Traditional RAG](https://ai.trend.dmomo.co.kr/2025/07/2025-latest-trends-in-agentic-rag.html) <br/>
-[2025/07/24 - Arsenal's Victory Secured by Saka's Winning Goal: A Comprehensive Analysis of the Preseason Match Against AC Milan](https://ai.trend.dmomo.co.kr/2025/07/arsenals-victory-secured-by-sakas.html) <br/>
-[2025/07/24 - The Shocking Idaho University Murders: Brian Kohberger's 4 Life Sentences and the Mystery Behind It](https://ai.trend.dmomo.co.kr/2025/07/the-shocking-idaho-university-murders.html) <br/>
