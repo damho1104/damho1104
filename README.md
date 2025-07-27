@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/26 - [뉴스] “진심 걱정”…‘망명 권한’ 말레이 한식당 주인에 피살 김정은 이복형이 한 말](https://blog.ai.dmomo.co.kr/news/6654) <br/>
-[2025/07/26 - [뉴스] 외숙모가 내 아이를 낳았다…막장 불륜 금수저의 최후](https://blog.ai.dmomo.co.kr/news/6651) <br/>
-[2025/07/25 - [뉴스] “원가이하 덤핑판매 가만히 안둬”…중국, 배터리·전기차 출혈경쟁 칼 빼들어](https://blog.ai.dmomo.co.kr/news/6648) <br/>
-[2025/07/25 - [뉴스] 무심코 했다간 치명적 의사들은 절대 하지 않는 행동](https://blog.ai.dmomo.co.kr/news/6645) <br/>
-[2025/07/25 - [뉴스] 물에 빠진 폰을 쌀통에? NO…방부제 채우고 넣어보세요](https://blog.ai.dmomo.co.kr/news/6642) <br/>
-[2025/07/25 - [뉴스] ‘5조원’ 조달한 SK이노베이션, SK온 투자사에게 투자원금 돌려준다](https://blog.ai.dmomo.co.kr/news/6639) <br/>
+[2025/07/27 - [뉴스] “흥미롭게 못생겼고 적당히 귀엽네”…불황에도 2조원 넘게 팔린 중국 인형 미국마저 휩쓸어](https://blog.ai.dmomo.co.kr/news/6717) <br/>
+[2025/07/27 - [뉴스] 저커버그의 AI 승부수, 데이터센터를 텐트로 짓는다](https://blog.ai.dmomo.co.kr/news/6714) <br/>
+[2025/07/27 - SAP와 AI의 미래: KSUG 패널이 밝힌 2025년 데이터 전략의 핵심은?](https://blog.ai.dmomo.co.kr/ai/6711) <br/>
+[2025/07/26 - [뉴스] 자동차 경주서 이탈 차량 관중 돌진, 2명 사망…프랑스 ‘발칵’](https://blog.ai.dmomo.co.kr/news/6708) <br/>
+[2025/07/26 - [뉴스] 낮 최고기온 37도…내일도 전국 푹푹 찐다](https://blog.ai.dmomo.co.kr/news/6705) <br/>
+[2025/07/26 - 광주 vs 전북: 운명의 승부! K리그 1위 자리를 향한 치열한 전투](https://blog.ai.dmomo.co.kr/trend/6702) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/25 - CJ CGV's Major Transformation: Survival Strategy Through the Sale of U.S. Operations and Recruitment of New CFO](https://ai.trend.dmomo.co.kr/2025/07/cj-cgvs-major-transformation-survival.html) <br/>
-[2025/07/25 - Key Strategies for Software Supply Chain Security in 2025: An In-Depth Analysis of the SolarWinds Case](https://ai.trend.dmomo.co.kr/2025/07/key-strategies-for-software-supply.html) <br/>
-[2025/07/25 - Thailand-Cambodia Border Dispute Escalates to F-16 Deployment... What's the Solution?](https://ai.trend.dmomo.co.kr/2025/07/thailand-cambodia-border-dispute.html) <br/>
-[2025/07/25 - Hulk Hogan Passes Away: The Final 'Trump Mania' of the 71-Year-Old Wrestling Legend](https://ai.trend.dmomo.co.kr/2025/07/hulk-hogan-passes-away-final-trump.html) <br/>
-[2025/07/24 - Thailand-Cambodia Border Dispute: F-16 vs. Rocket Artillery, Is Historical Conflict Escalating into Open War?](https://ai.trend.dmomo.co.kr/2025/07/thailand-cambodia-border-dispute-f-16.html) <br/>
-[2025/07/24 - The Shocking Idaho Murder Case: The Goncalves Family's Anger and Demand for Justice](https://ai.trend.dmomo.co.kr/2025/07/the-shocking-idaho-murder-case.html) <br/>
+[2025/07/26 - MLB Rookie Nick Kurtz Rewrites History with 4 Home Runs, Joining the Ranks of Legends](https://ai.trend.dmomo.co.kr/2025/07/mlb-rookie-nick-kurtz-rewrites-history.html) <br/>
+[2025/07/26 - Gwangju vs Jeonbuk: A Battle of Destiny! Fierce Fight for the K-League Championship Spot](https://ai.trend.dmomo.co.kr/2025/07/gwangju-vs-jeonbuk-battle-of-destiny.html) <br/>
+[2025/07/26 - Shocking Knife Attack at Gilum Station: Unprovoked Assault by a 70-Year-Old Man, Causes and Solutions?](https://ai.trend.dmomo.co.kr/2025/07/shocking-knife-attack-at-gilum-station.html) <br/>
+[2025/07/26 - The Transformation of Adam Sandler: From Comedy King to Serious Actor](https://ai.trend.dmomo.co.kr/2025/07/the-transformation-of-adam-sandler-from.html) <br/>
+[2025/07/26 - Kim Hye-seong's Four Strikeouts Shock! What's the Secret Behind the Dodgers' 5-2 Victory Over the Red Sox?](https://ai.trend.dmomo.co.kr/2025/07/kim-hye-seongs-four-strikeouts-shock.html) <br/>
+[2025/07/26 - CGV 6,000 Won Discount Coupon Frenzy: 4.5 Million First-Come, First-Served Applications and Website Crash?](https://ai.trend.dmomo.co.kr/2025/07/cgv-6000-won-discount-coupon-frenzy-45.html) <br/>
