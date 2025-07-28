@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/27 - [뉴스] “흥미롭게 못생겼고 적당히 귀엽네”…불황에도 2조원 넘게 팔린 중국 인형 미국마저 휩쓸어](https://blog.ai.dmomo.co.kr/news/6717) <br/>
-[2025/07/27 - [뉴스] 저커버그의 AI 승부수, 데이터센터를 텐트로 짓는다](https://blog.ai.dmomo.co.kr/news/6714) <br/>
-[2025/07/27 - SAP와 AI의 미래: KSUG 패널이 밝힌 2025년 데이터 전략의 핵심은?](https://blog.ai.dmomo.co.kr/ai/6711) <br/>
-[2025/07/26 - [뉴스] 자동차 경주서 이탈 차량 관중 돌진, 2명 사망…프랑스 ‘발칵’](https://blog.ai.dmomo.co.kr/news/6708) <br/>
-[2025/07/26 - [뉴스] 낮 최고기온 37도…내일도 전국 푹푹 찐다](https://blog.ai.dmomo.co.kr/news/6705) <br/>
-[2025/07/26 - 광주 vs 전북: 운명의 승부! K리그 1위 자리를 향한 치열한 전투](https://blog.ai.dmomo.co.kr/trend/6702) <br/>
+[2025/07/28 - [뉴스] 대만의 여소야대 뒤집기 시도 실패…‘친중’ 야당의원 24명 파면투표 부결](https://blog.ai.dmomo.co.kr/news/6786) <br/>
+[2025/07/28 - [뉴스] 국민 앱 카카오톡도 결국 손절…휘청이는 구글 대항마](https://blog.ai.dmomo.co.kr/news/6783) <br/>
+[2025/07/28 - [뉴스] 성당에 괴한들 총·흉기 휘둘러 최소 38명 사망한 ‘이 나라’ 발칵](https://blog.ai.dmomo.co.kr/news/6780) <br/>
+[2025/07/27 - [뉴스] 좌우, 진보·보수를 넘어…대한민국 ‘핵자강’의 길을 묻다](https://blog.ai.dmomo.co.kr/news/6777) <br/>
+[2025/07/27 - [뉴스] 1억 계약 비결은… 혼자 살기 끝판왕 女 유튜버의 고백](https://blog.ai.dmomo.co.kr/news/6774) <br/>
+[2025/07/27 - [뉴스] 美 TV 1위 유튜브, 韓 리모컨 장악 초읽기](https://blog.ai.dmomo.co.kr/news/6771) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/26 - MLB Rookie Nick Kurtz Rewrites History with 4 Home Runs, Joining the Ranks of Legends](https://ai.trend.dmomo.co.kr/2025/07/mlb-rookie-nick-kurtz-rewrites-history.html) <br/>
-[2025/07/26 - Gwangju vs Jeonbuk: A Battle of Destiny! Fierce Fight for the K-League Championship Spot](https://ai.trend.dmomo.co.kr/2025/07/gwangju-vs-jeonbuk-battle-of-destiny.html) <br/>
-[2025/07/26 - Shocking Knife Attack at Gilum Station: Unprovoked Assault by a 70-Year-Old Man, Causes and Solutions?](https://ai.trend.dmomo.co.kr/2025/07/shocking-knife-attack-at-gilum-station.html) <br/>
-[2025/07/26 - The Transformation of Adam Sandler: From Comedy King to Serious Actor](https://ai.trend.dmomo.co.kr/2025/07/the-transformation-of-adam-sandler-from.html) <br/>
-[2025/07/26 - Kim Hye-seong's Four Strikeouts Shock! What's the Secret Behind the Dodgers' 5-2 Victory Over the Red Sox?](https://ai.trend.dmomo.co.kr/2025/07/kim-hye-seongs-four-strikeouts-shock.html) <br/>
-[2025/07/26 - CGV 6,000 Won Discount Coupon Frenzy: 4.5 Million First-Come, First-Served Applications and Website Crash?](https://ai.trend.dmomo.co.kr/2025/07/cgv-6000-won-discount-coupon-frenzy-45.html) <br/>
+[2025/07/27 - Shocking! The Full Story of the Walmart Stabbing Incident in Traverse City Involving 11 Victims](https://ai.trend.dmomo.co.kr/2025/07/shocking-full-story-of-walmart-stabbing.html) <br/>
+[2025/07/27 - Man Utd vs West Ham Preseason Clash: Bruno's Double Goal and Paquetá's Return](https://ai.trend.dmomo.co.kr/2025/07/man-utd-vs-west-ham-preseason-clash.html) <br/>
+[2025/07/27 - Historic Rivalry: Necaxa vs. America - A Liga MX Showdown in the USA](https://ai.trend.dmomo.co.kr/2025/07/historic-rivalry-necaxa-vs-america-liga.html) <br/>
+[2025/07/27 - The Hidden Truth Behind the Thailand-Cambodia Border Conflict and the Declaration of Martial Law](https://ai.trend.dmomo.co.kr/2025/07/the-hidden-truth-behind-thailand.html) <br/>
+[2025/07/27 - Top 5 AI Inference Innovations to Watch in 2025: NVIDIA Dynamo and AWS Integration Insights](https://ai.trend.dmomo.co.kr/2025/07/top-5-ai-inference-innovations-to-watch.html) <br/>
+[2025/07/27 - MLB Rookie Who Rewrote History - The Legend of Nick Kurtz with 4 Home Runs in a Single Game](https://ai.trend.dmomo.co.kr/2025/07/mlb-rookie-who-rewrote-history-legend.html) <br/>
