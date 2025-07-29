@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/28 - [뉴스] 대만의 여소야대 뒤집기 시도 실패…‘친중’ 야당의원 24명 파면투표 부결](https://blog.ai.dmomo.co.kr/news/6786) <br/>
-[2025/07/28 - [뉴스] 국민 앱 카카오톡도 결국 손절…휘청이는 구글 대항마](https://blog.ai.dmomo.co.kr/news/6783) <br/>
-[2025/07/28 - [뉴스] 성당에 괴한들 총·흉기 휘둘러 최소 38명 사망한 ‘이 나라’ 발칵](https://blog.ai.dmomo.co.kr/news/6780) <br/>
-[2025/07/27 - [뉴스] 좌우, 진보·보수를 넘어…대한민국 ‘핵자강’의 길을 묻다](https://blog.ai.dmomo.co.kr/news/6777) <br/>
-[2025/07/27 - [뉴스] 1억 계약 비결은… 혼자 살기 끝판왕 女 유튜버의 고백](https://blog.ai.dmomo.co.kr/news/6774) <br/>
-[2025/07/27 - [뉴스] 美 TV 1위 유튜브, 韓 리모컨 장악 초읽기](https://blog.ai.dmomo.co.kr/news/6771) <br/>
+[2025/07/29 - 최원준 트레이드: NC의 중견수 확보와 KIA의 불펜 강화, 누가 웃을까?](https://blog.ai.dmomo.co.kr/trend/6875) <br/>
+[2025/07/29 - [뉴스] “韓 나 만나러 스코틀랜드로 날아와”…美상무장관이 말하는 한국인의 정체](https://blog.ai.dmomo.co.kr/news/6870) <br/>
+[2025/07/29 - [뉴스] 윤범모 30년 광주비엔날레, 예향’ 정체성 입히겠다”](https://blog.ai.dmomo.co.kr/news/6867) <br/>
+[2025/07/28 - [뉴스] “AI 투자한다고 당장 수익 못거둬, 손실 견뎌야 큰 것 얻어” 입모은 경영구루들](https://blog.ai.dmomo.co.kr/news/6864) <br/>
+[2025/07/28 - [뉴스] 영화 원작 K뮤지컬 2030년까지 해외 무대에](https://blog.ai.dmomo.co.kr/news/6861) <br/>
+[2025/07/28 - [뉴스] GPU 1만3000장 확보 사업…네이버·NHN·카카오 선정](https://blog.ai.dmomo.co.kr/news/6858) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/27 - Shocking! The Full Story of the Walmart Stabbing Incident in Traverse City Involving 11 Victims](https://ai.trend.dmomo.co.kr/2025/07/shocking-full-story-of-walmart-stabbing.html) <br/>
-[2025/07/27 - Man Utd vs West Ham Preseason Clash: Bruno's Double Goal and Paquetá's Return](https://ai.trend.dmomo.co.kr/2025/07/man-utd-vs-west-ham-preseason-clash.html) <br/>
-[2025/07/27 - Historic Rivalry: Necaxa vs. America - A Liga MX Showdown in the USA](https://ai.trend.dmomo.co.kr/2025/07/historic-rivalry-necaxa-vs-america-liga.html) <br/>
-[2025/07/27 - The Hidden Truth Behind the Thailand-Cambodia Border Conflict and the Declaration of Martial Law](https://ai.trend.dmomo.co.kr/2025/07/the-hidden-truth-behind-thailand.html) <br/>
-[2025/07/27 - Top 5 AI Inference Innovations to Watch in 2025: NVIDIA Dynamo and AWS Integration Insights](https://ai.trend.dmomo.co.kr/2025/07/top-5-ai-inference-innovations-to-watch.html) <br/>
-[2025/07/27 - MLB Rookie Who Rewrote History - The Legend of Nick Kurtz with 4 Home Runs in a Single Game](https://ai.trend.dmomo.co.kr/2025/07/mlb-rookie-who-rewrote-history-legend.html) <br/>
+[2025/07/28 - Shocking! KIA Sends Promising National Team Player? The Hidden Reason Behind Choi Won-jun's Trade](https://ai.trend.dmomo.co.kr/2025/07/shocking-kia-sends-promising-national.html) <br/>
+[2025/07/28 - Goo Jun-yeop's Devoted Love: A 365-Day Chronicle by His Wife's Grave](https://ai.trend.dmomo.co.kr/2025/07/goo-jun-yeops-devoted-love-365-day.html) <br/>
+[2025/07/28 - Tom Lehrer at 97: The Legend of American Satirical Music and His Legacy?](https://ai.trend.dmomo.co.kr/2025/07/tom-lehrer-at-97-legend-of-american.html) <br/>
+[2025/07/28 - Faker's Legend: 4 More Years! Writing a New Chapter in Esports with T1](https://ai.trend.dmomo.co.kr/2025/07/fakers-legend-4-more-years-writing-new.html) <br/>
+[2025/07/28 - Cutting-Edge Edge AI Technology Analysis for July 2025 and Key Innovations of Infineon’s DEEPCRAFT Platform](https://ai.trend.dmomo.co.kr/2025/07/cutting-edge-edge-ai-technology.html) <br/>
+[2025/07/28 - Fever vs Sky: Mitchell's Explosive 35-Point Performance Leads to 3rd Consecutive Win in 'Firework Show'](https://ai.trend.dmomo.co.kr/2025/07/fever-vs-sky-mitchells-explosive-35.html) <br/>
