@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/29 - 최원준 트레이드: NC의 중견수 확보와 KIA의 불펜 강화, 누가 웃을까?](https://blog.ai.dmomo.co.kr/trend/6875) <br/>
-[2025/07/29 - [뉴스] “韓 나 만나러 스코틀랜드로 날아와”…美상무장관이 말하는 한국인의 정체](https://blog.ai.dmomo.co.kr/news/6870) <br/>
-[2025/07/29 - [뉴스] 윤범모 30년 광주비엔날레, 예향’ 정체성 입히겠다”](https://blog.ai.dmomo.co.kr/news/6867) <br/>
-[2025/07/28 - [뉴스] “AI 투자한다고 당장 수익 못거둬, 손실 견뎌야 큰 것 얻어” 입모은 경영구루들](https://blog.ai.dmomo.co.kr/news/6864) <br/>
-[2025/07/28 - [뉴스] 영화 원작 K뮤지컬 2030년까지 해외 무대에](https://blog.ai.dmomo.co.kr/news/6861) <br/>
-[2025/07/28 - [뉴스] GPU 1만3000장 확보 사업…네이버·NHN·카카오 선정](https://blog.ai.dmomo.co.kr/news/6858) <br/>
+[2025/07/30 - 삼성 vs 한화: 재무성과와 혁신전략으로 본 두 대기업의 진검승부](https://blog.ai.dmomo.co.kr/trend/6944) <br/>
+[2025/07/30 - [뉴스] 머스크 “삼성전자 회장과 화상통화…함께 일하는 건 영광”](https://blog.ai.dmomo.co.kr/news/6939) <br/>
+[2025/07/30 - [뉴스] 과외선생 필요없네 오픈AI, 챗GPT 공부모드 공개](https://blog.ai.dmomo.co.kr/news/6936) <br/>
+[2025/07/30 - [뉴스] 지금 일본여행은 아닌 것 같아요…펄펄 끓는 폭염에 발길 돌렸다](https://blog.ai.dmomo.co.kr/news/6933) <br/>
+[2025/07/30 - [뉴스] “수수료도 싸고 이자도 줘요”…미국쇼핑 직구 때 이젠 코인으로 결제](https://blog.ai.dmomo.co.kr/news/6930) <br/>
+[2025/07/29 - [뉴스] 이재용 회장도 워싱턴으로…관세협상 올코트프레싱](https://blog.ai.dmomo.co.kr/news/6927) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/07/29 - The Fate of KIA Rides on the Doosan Game: A Crossroads of Trade Impact and Ranking Rebound](https://ai.trend.dmomo.co.kr/2025/07/the-fate-of-kia-rides-on-doosan-game.html) <br/>
+[2025/07/29 - Manhattan Shooter Shane Tamura: The Shocking Crimes of an AR-15 Owner and Their Background](https://ai.trend.dmomo.co.kr/2025/07/manhattan-shooter-shane-tamura-shocking.html) <br/>
+[2025/07/29 - Shocking Manhattan Shooting Incident: What Happened at Blackstone and NFL Headquarters?](https://ai.trend.dmomo.co.kr/2025/07/shocking-manhattan-shooting-incident.html) <br/>
+[2025/07/29 - 5 Essential MLOps Technologies in 2025 and an In-Depth Analysis of TensorFlow Extended](https://ai.trend.dmomo.co.kr/2025/07/5-essential-mlops-technologies-in-2025.html) <br/>
+[2025/07/29 - Choi Won-jun Trade: NC Secures Center Fielder and KIA Strengthens Bullpen, Who Will Come Out on Top?](https://ai.trend.dmomo.co.kr/2025/07/choi-won-jun-trade-nc-secures-center.html) <br/>
 [2025/07/28 - Shocking! KIA Sends Promising National Team Player? The Hidden Reason Behind Choi Won-jun's Trade](https://ai.trend.dmomo.co.kr/2025/07/shocking-kia-sends-promising-national.html) <br/>
-[2025/07/28 - Goo Jun-yeop's Devoted Love: A 365-Day Chronicle by His Wife's Grave](https://ai.trend.dmomo.co.kr/2025/07/goo-jun-yeops-devoted-love-365-day.html) <br/>
-[2025/07/28 - Tom Lehrer at 97: The Legend of American Satirical Music and His Legacy?](https://ai.trend.dmomo.co.kr/2025/07/tom-lehrer-at-97-legend-of-american.html) <br/>
-[2025/07/28 - Faker's Legend: 4 More Years! Writing a New Chapter in Esports with T1](https://ai.trend.dmomo.co.kr/2025/07/fakers-legend-4-more-years-writing-new.html) <br/>
-[2025/07/28 - Cutting-Edge Edge AI Technology Analysis for July 2025 and Key Innovations of Infineon’s DEEPCRAFT Platform](https://ai.trend.dmomo.co.kr/2025/07/cutting-edge-edge-ai-technology.html) <br/>
-[2025/07/28 - Fever vs Sky: Mitchell's Explosive 35-Point Performance Leads to 3rd Consecutive Win in 'Firework Show'](https://ai.trend.dmomo.co.kr/2025/07/fever-vs-sky-mitchells-explosive-35.html) <br/>
