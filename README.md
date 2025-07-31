@@ -82,17 +82,17 @@
 
 
 ## ✅ Latest AI Blog Post
-[2025/07/30 - 삼성 vs 한화: 재무성과와 혁신전략으로 본 두 대기업의 진검승부](https://blog.ai.dmomo.co.kr/trend/6944) <br/>
-[2025/07/30 - [뉴스] 머스크 “삼성전자 회장과 화상통화…함께 일하는 건 영광”](https://blog.ai.dmomo.co.kr/news/6939) <br/>
-[2025/07/30 - [뉴스] 과외선생 필요없네 오픈AI, 챗GPT 공부모드 공개](https://blog.ai.dmomo.co.kr/news/6936) <br/>
-[2025/07/30 - [뉴스] 지금 일본여행은 아닌 것 같아요…펄펄 끓는 폭염에 발길 돌렸다](https://blog.ai.dmomo.co.kr/news/6933) <br/>
-[2025/07/30 - [뉴스] “수수료도 싸고 이자도 줘요”…미국쇼핑 직구 때 이젠 코인으로 결제](https://blog.ai.dmomo.co.kr/news/6930) <br/>
-[2025/07/29 - [뉴스] 이재용 회장도 워싱턴으로…관세협상 올코트프레싱](https://blog.ai.dmomo.co.kr/news/6927) <br/>
+[2025/07/31 - [뉴스] [속보] 트럼프 “한국과 무역협상 타결…관세율 15%에 합의”](https://blog.ai.dmomo.co.kr/news/7014) <br/>
+[2025/07/31 - [뉴스] 교통사고 경상은 나이롱 환자? 소비자단체, 치료권 침해 우려](https://blog.ai.dmomo.co.kr/news/7011) <br/>
+[2025/07/31 - [뉴스] 낮 최고 37도 폭염…중부지방 등 오전 한때 비](https://blog.ai.dmomo.co.kr/news/7008) <br/>
+[2025/07/31 - [뉴스] [속보] 트럼프 압박에도…연준 5연속 금리동결](https://blog.ai.dmomo.co.kr/news/7005) <br/>
+[2025/07/30 - [뉴스] 美 2분기 성장률 3.0% 수입 확 줄며 ‘V자 반등’](https://blog.ai.dmomo.co.kr/news/7002) <br/>
+[2025/07/30 - [뉴스] 매일 15분 사망 위험 20% 감소…빠르게 걷기 놀라운 효과](https://blog.ai.dmomo.co.kr/news/6999) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/29 - The Fate of KIA Rides on the Doosan Game: A Crossroads of Trade Impact and Ranking Rebound](https://ai.trend.dmomo.co.kr/2025/07/the-fate-of-kia-rides-on-doosan-game.html) <br/>
-[2025/07/29 - Manhattan Shooter Shane Tamura: The Shocking Crimes of an AR-15 Owner and Their Background](https://ai.trend.dmomo.co.kr/2025/07/manhattan-shooter-shane-tamura-shocking.html) <br/>
-[2025/07/29 - Shocking Manhattan Shooting Incident: What Happened at Blackstone and NFL Headquarters?](https://ai.trend.dmomo.co.kr/2025/07/shocking-manhattan-shooting-incident.html) <br/>
-[2025/07/29 - 5 Essential MLOps Technologies in 2025 and an In-Depth Analysis of TensorFlow Extended](https://ai.trend.dmomo.co.kr/2025/07/5-essential-mlops-technologies-in-2025.html) <br/>
-[2025/07/29 - Choi Won-jun Trade: NC Secures Center Fielder and KIA Strengthens Bullpen, Who Will Come Out on Top?](https://ai.trend.dmomo.co.kr/2025/07/choi-won-jun-trade-nc-secures-center.html) <br/>
-[2025/07/28 - Shocking! KIA Sends Promising National Team Player? The Hidden Reason Behind Choi Won-jun's Trade](https://ai.trend.dmomo.co.kr/2025/07/shocking-kia-sends-promising-national.html) <br/>
+[2025/07/30 - Tsunami Warning in California Due to Russian Earthquake: Preparedness and Response?](https://ai.trend.dmomo.co.kr/2025/07/tsunami-warning-in-california-due-to.html) <br/>
+[2025/07/30 - 8.7 Magnitude Earthquake Shock! Tsunami Warning Issued in Japan, Up to 3m Waves Expected - Urgent Evacuation](https://ai.trend.dmomo.co.kr/2025/07/87-magnitude-earthquake-shock-tsunami.html) <br/>
+[2025/07/30 - Aftershock of Russia Earthquake: Tsunami Warning Issued for California - What You Need to Know?](https://ai.trend.dmomo.co.kr/2025/07/aftershock-of-russia-earthquake-tsunami.html) <br/>
+[2025/07/30 - Why the Latest 2025 Hierarchical IoT Edge Architecture is Revolutionizing Industrial IoT Security and Scalability](https://ai.trend.dmomo.co.kr/2025/07/why-latest-2025-hierarchical-iot-edge.html) <br/>
+[2025/07/30 - Ryan Sandberg: The Legacy of a 'Prepared Player' Who Became a Cubs Legend and MLB Star](https://ai.trend.dmomo.co.kr/2025/07/ryan-sandberg-legacy-of-prepared-player.html) <br/>
+[2025/07/30 - Samsung vs Hanwha: A Fierce Showdown of Financial Performance and Innovation Strategies Among Two Giants](https://ai.trend.dmomo.co.kr/2025/07/samsung-vs-hanwha-fierce-showdown-of.html) <br/>
