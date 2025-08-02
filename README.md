@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/08/01 - 코스피 5000 꿈과 현실: 정책 변화가 주식시장에 미치는 영향](https://dmomo.co.kr/612) <br/>
+[2025/08/01 - 손흥민의 미래와 토트넘의 도전: 북런던 더비가 던진 5가지 질문](https://dmomo.co.kr/611) <br/>
 [2025/07/31 - 애플페이 티머니 완벽 가이드: 설정부터 해외결제까지 알아보기](https://dmomo.co.kr/610) <br/>
 [2025/07/31 - 맨유 3-0 본머스: 호일룬드&middot;도르구 신예 활약, 프리시즌 완승 분석](https://dmomo.co.kr/609) <br/>
 [2025/07/31 - 페이커의 전설, 4년 더! T1과 함께 쓰는 e스포츠 새 역사](https://dmomo.co.kr/608) <br/>
 [2025/07/31 - 일본 쓰나미 경보: M8.8 강진이 몰고온 3중 위기와 대응 전략](https://dmomo.co.kr/607) <br/>
-[2025/06/17 - 충격! 지하 아이돌의 몰락? 이호테우 미나 탈퇴와 그룹 해체 위기의 진실](https://dmomo.co.kr/606) <br/>
-[2025/06/17 - 2025년 최신 제3자 소프트웨어 보안 위협과 효과적 대응 전략 5가지](https://dmomo.co.kr/605) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/01 - [뉴스] 백악관 “새 상호관세 8월 1일 발효…협정 없는 국가들은 오늘밤 자정까지 연락받을 것”](https://blog.ai.dmomo.co.kr/news/7083) <br/>
-[2025/08/01 - [뉴스] 케데헌 실사화 영화·뮤지컬 제작되나…프렌차이즈 추진 논의](https://blog.ai.dmomo.co.kr/news/7080) <br/>
-[2025/07/31 - [뉴스] “미국 중앙은행, 그렇게 만만한 상대 아니다”…트럼프 압박에도 5연속 금리동결](https://blog.ai.dmomo.co.kr/news/7077) <br/>
-[2025/07/31 - [뉴스] 잔나비만의 특급 노하우 저희 믿고 따라와 주세요](https://blog.ai.dmomo.co.kr/news/7074) <br/>
-[2025/07/31 - ESPN과 샤프의 충격적인 결별: 5,000만 달러 소송과 그 뒤의 진실](https://blog.ai.dmomo.co.kr/trend/7071) <br/>
-[2025/07/31 - 맨유 3-0 본머스: 호일룬드·도르구 신예 활약, 프리시즌 완승 분석](https://blog.ai.dmomo.co.kr/trend/7069) <br/>
+[2025/08/02 - [뉴스] “새 공장 부지부터 알아봐야 될 판”…국내 기업들 대체시장 찾기 총력전](https://blog.ai.dmomo.co.kr/news/7155) <br/>
+[2025/08/02 - [뉴스] 한화생명 만나는 T1, 레전드 올킬’ 도전한다](https://blog.ai.dmomo.co.kr/news/7152) <br/>
+[2025/08/02 - [뉴스] 싸이 강남스타일 이후 13년만에…케데헌 골든, 英차트서 1위](https://blog.ai.dmomo.co.kr/news/7149) <br/>
+[2025/08/01 - [뉴스] 美 고용시장 침체신호 뚜렷 … 금리인하 목소리 커지나](https://blog.ai.dmomo.co.kr/news/7146) <br/>
+[2025/08/01 - [뉴스] 스스로 죽음을 설계하다, 비로소 삶을 완성하다](https://blog.ai.dmomo.co.kr/news/7143) <br/>
+[2025/08/01 - [뉴스] 치료 난도 높은 두경부암…재건 수술로 숨길까지 연다](https://blog.ai.dmomo.co.kr/news/7140) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/07/31 - The Shocking Split Between ESPN and Sharp: The $50 Million Lawsuit and the Truth Behind It](https://ai.trend.dmomo.co.kr/2025/07/the-shocking-split-between-espn-and.html) <br/>
-[2025/07/31 - Man Utd 3-0 Bournemouth: Haaland and Dorgu Shine in Preseason Victory Analysis](https://ai.trend.dmomo.co.kr/2025/07/man-utd-3-0-bournemouth-haaland-and.html) <br/>
-[2025/07/31 - Former NBA Star Gilbert Arenas Arrested on Illegal Gambling Charges: Facing 15-Year Sentence](https://ai.trend.dmomo.co.kr/2025/07/former-nba-star-gilbert-arenas-arrested.html) <br/>
-[2025/07/31 - The End of the Korea-U.S. Trade War? The Hidden Truth Behind the $350 Billion 'Mega Deal'](https://ai.trend.dmomo.co.kr/2025/07/the-end-of-korea-us-trade-war-hidden.html) <br/>
-[2025/07/31 - Tsunamis Threatening the U.S. Coast: Evacuating Within 15 Minutes is the Key to Survival](https://ai.trend.dmomo.co.kr/2025/07/tsunamis-threatening-us-coast.html) <br/>
-[2025/07/31 - 2025 Cutting-Edge Trends in Edge AI Technology and Innovative Applications Across Six Key Industries](https://ai.trend.dmomo.co.kr/2025/07/2025-cutting-edge-trends-in-edge-ai.html) <br/>
+[2025/08/01 - KOSPI 5000: Dreams and Reality – The Impact of Policy Changes on the Stock Market](https://ai.trend.dmomo.co.kr/2025/08/kospi-5000-dreams-and-reality-impact-of.html) <br/>
+[2025/08/01 - Hanwha vs KIA: How Will the 2025 KBO League Landscape Change with the Acquisition of Son Ah-seop?](https://ai.trend.dmomo.co.kr/2025/08/hanwha-vs-kia-how-will-2025-kbo-league.html) <br/>
+[2025/08/01 - Everything About Lyme Disease, the Most Common Tick-Borne Illness in America That Affected Justin Timberlake](https://ai.trend.dmomo.co.kr/2025/07/everything-about-lyme-disease-most.html) <br/>
+[2025/08/01 - Barcelona's 7-Goal Onslaught: A Display of Attack Football in the Friendly Match Against FC Seoul](https://ai.trend.dmomo.co.kr/2025/07/barcelonas-7-goal-onslaught-display-of.html) <br/>
+[2025/08/01 - Top 4 Key NVIDIA Cloud Innovations and Azure Security Updates to Watch in 2025](https://ai.trend.dmomo.co.kr/2025/07/top-4-key-nvidia-cloud-innovations-and.html) <br/>
+[2025/08/01 - NFL 2025: Find the Superstar QB Showdown and Playoff Breakthrough](https://ai.trend.dmomo.co.kr/2025/07/nfl-2025-find-superstar-qb-showdown-and.html) <br/>
