@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/01 - 코스피 5000 꿈과 현실: 정책 변화가 주식시장에 미치는 영향](https://dmomo.co.kr/612) <br/>
-[2025/08/01 - 손흥민의 미래와 토트넘의 도전: 북런던 더비가 던진 5가지 질문](https://dmomo.co.kr/611) <br/>
-[2025/07/31 - 애플페이 티머니 완벽 가이드: 설정부터 해외결제까지 알아보기](https://dmomo.co.kr/610) <br/>
-[2025/07/31 - 맨유 3-0 본머스: 호일룬드&middot;도르구 신예 활약, 프리시즌 완승 분석](https://dmomo.co.kr/609) <br/>
-[2025/07/31 - 페이커의 전설, 4년 더! T1과 함께 쓰는 e스포츠 새 역사](https://dmomo.co.kr/608) <br/>
-[2025/07/31 - 일본 쓰나미 경보: M8.8 강진이 몰고온 3중 위기와 대응 전략](https://dmomo.co.kr/607) <br/>
+[2025/08/03 - 손흥민의 MLS 이적? LAFC와의 비밀 협상 전모 공개](http://dmomo.co.kr/616) <br/>
+[2025/08/02 - 저스틴 팀버레이크도 걸린 림병, 미국에서 가장 흔한 진드기 질병의 모든 것](http://dmomo.co.kr/615) <br/>
+[2025/08/02 - 미카 파슨스 트레이드 요청, NFL 최고 선수 계약 협상의 새로운 국면](http://dmomo.co.kr/614) <br/>
+[2025/08/02 - 예능 속 '리정'의 등장과 굿즈 열풍: K-엔터 신드롬의 새로운 주인공?](http://dmomo.co.kr/613) <br/>
+[2025/08/01 - 코스피 5000 꿈과 현실: 정책 변화가 주식시장에 미치는 영향](http://dmomo.co.kr/612) <br/>
+[2025/08/01 - 손흥민의 미래와 토트넘의 도전: 북런던 더비가 던진 5가지 질문](http://dmomo.co.kr/611) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/02 - [뉴스] “새 공장 부지부터 알아봐야 될 판”…국내 기업들 대체시장 찾기 총력전](https://blog.ai.dmomo.co.kr/news/7155) <br/>
-[2025/08/02 - [뉴스] 한화생명 만나는 T1, 레전드 올킬’ 도전한다](https://blog.ai.dmomo.co.kr/news/7152) <br/>
-[2025/08/02 - [뉴스] 싸이 강남스타일 이후 13년만에…케데헌 골든, 英차트서 1위](https://blog.ai.dmomo.co.kr/news/7149) <br/>
-[2025/08/01 - [뉴스] 美 고용시장 침체신호 뚜렷 … 금리인하 목소리 커지나](https://blog.ai.dmomo.co.kr/news/7146) <br/>
-[2025/08/01 - [뉴스] 스스로 죽음을 설계하다, 비로소 삶을 완성하다](https://blog.ai.dmomo.co.kr/news/7143) <br/>
-[2025/08/01 - [뉴스] 치료 난도 높은 두경부암…재건 수술로 숨길까지 연다](https://blog.ai.dmomo.co.kr/news/7140) <br/>
+[2025/08/03 - 기상이변의 시대: 날씨 예보의 한계와 우리의 대응법](https://blog.ai.dmomo.co.kr/trend/7220) <br/>
+[2025/08/03 - [뉴스] “우리 애가 어떻게 이런 짓을” 경악에…속속 구축되는 ‘디지털 안전망’](https://blog.ai.dmomo.co.kr/news/7215) <br/>
+[2025/08/03 - [뉴스] 반 고흐 탄생 170주년, 파리서 30km 오베르로 떠난 예술 순례](https://blog.ai.dmomo.co.kr/news/7212) <br/>
+[2025/08/03 - AI로 뷰티 트렌드 잡는다: 캐치모먼츠의 혁신적 소셜 데이터 솔루션](https://blog.ai.dmomo.co.kr/ai/7209) <br/>
+[2025/08/02 - [뉴스] 유럽 기업 여름 폭염 대책은 ‘반차 휴가·재택근무·아이스크림’](https://blog.ai.dmomo.co.kr/news/7206) <br/>
+[2025/08/02 - [뉴스] 로또 1등 13명, 1인당 약 20억원…2등 당첨자 92명](https://blog.ai.dmomo.co.kr/news/7203) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/08/01 - KOSPI 5000: Dreams and Reality – The Impact of Policy Changes on the Stock Market](https://ai.trend.dmomo.co.kr/2025/08/kospi-5000-dreams-and-reality-impact-of.html) <br/>
-[2025/08/01 - Hanwha vs KIA: How Will the 2025 KBO League Landscape Change with the Acquisition of Son Ah-seop?](https://ai.trend.dmomo.co.kr/2025/08/hanwha-vs-kia-how-will-2025-kbo-league.html) <br/>
-[2025/08/01 - Everything About Lyme Disease, the Most Common Tick-Borne Illness in America That Affected Justin Timberlake](https://ai.trend.dmomo.co.kr/2025/07/everything-about-lyme-disease-most.html) <br/>
-[2025/08/01 - Barcelona's 7-Goal Onslaught: A Display of Attack Football in the Friendly Match Against FC Seoul](https://ai.trend.dmomo.co.kr/2025/07/barcelonas-7-goal-onslaught-display-of.html) <br/>
-[2025/08/01 - Top 4 Key NVIDIA Cloud Innovations and Azure Security Updates to Watch in 2025](https://ai.trend.dmomo.co.kr/2025/07/top-4-key-nvidia-cloud-innovations-and.html) <br/>
-[2025/08/01 - NFL 2025: Find the Superstar QB Showdown and Playoff Breakthrough](https://ai.trend.dmomo.co.kr/2025/07/nfl-2025-find-superstar-qb-showdown-and.html) <br/>
+[2025/08/02 - Son Heung-min's Potential MLS Move? The Untold Story of Secret Negotiations with LAFC](https://ai.trend.dmomo.co.kr/2025/08/son-heung-mins-potential-mls-move.html) <br/>
+[2025/08/02 - Son Heung-min Ends 10-Year Journey with Tottenham... Shocking Announcement of a New Challenge](https://ai.trend.dmomo.co.kr/2025/08/son-heung-min-ends-10-year-journey-with.html) <br/>
+[2025/08/02 - The Rise of 'Lee Jung' in Variety Shows and the Merchandise Craze: The New Star of the K-Entertainment Syndrome?](https://ai.trend.dmomo.co.kr/2025/08/the-rise-of-lee-jung-in-variety-shows.html) <br/>
+[2025/08/02 - Mika Parsons Trade Request: A New Phase in NFL's Top Player Contract Negotiations](https://ai.trend.dmomo.co.kr/2025/08/mika-parsons-trade-request-new-phase-in.html) <br/>
+[2025/08/02 - Top 5 Emerging Security Threats and Response Strategies for Hybrid Blockchain in 2025](https://ai.trend.dmomo.co.kr/2025/08/top-5-emerging-security-threats-and.html) <br/>
+[2025/08/02 - Shining Hope Amidst Hanwha Eagles’ Struggles: Player Performances and Fan Engagement Strategies](https://ai.trend.dmomo.co.kr/2025/08/shining-hope-amidst-hanwha-eagles.html) <br/>
