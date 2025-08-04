@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/03 - 손흥민의 MLS 이적? LAFC와의 비밀 협상 전모 공개](http://dmomo.co.kr/616) <br/>
-[2025/08/02 - 저스틴 팀버레이크도 걸린 림병, 미국에서 가장 흔한 진드기 질병의 모든 것](http://dmomo.co.kr/615) <br/>
-[2025/08/02 - 미카 파슨스 트레이드 요청, NFL 최고 선수 계약 협상의 새로운 국면](http://dmomo.co.kr/614) <br/>
-[2025/08/02 - 예능 속 '리정'의 등장과 굿즈 열풍: K-엔터 신드롬의 새로운 주인공?](http://dmomo.co.kr/613) <br/>
-[2025/08/01 - 코스피 5000 꿈과 현실: 정책 변화가 주식시장에 미치는 영향](http://dmomo.co.kr/612) <br/>
-[2025/08/01 - 손흥민의 미래와 토트넘의 도전: 북런던 더비가 던진 5가지 질문](http://dmomo.co.kr/611) <br/>
+[2025/08/03 - 충격 파문: 뉴저지 규모 3.0 지진, 2024년 대지진과 비교 분석](https://dmomo.co.kr/618) <br/>
+[2025/08/03 - 김민재 선발 출전! 바이에른 뮌헨, 리옹에 2-1 승리로 새 시즌 청사진 제시](https://dmomo.co.kr/617) <br/>
+[2025/08/03 - 손흥민의 MLS 이적? LAFC와의 비밀 협상 전모 공개](https://dmomo.co.kr/616) <br/>
+[2025/08/02 - 저스틴 팀버레이크도 걸린 림병, 미국에서 가장 흔한 진드기 질병의 모든 것](https://dmomo.co.kr/615) <br/>
+[2025/08/02 - 미카 파슨스 트레이드 요청, NFL 최고 선수 계약 협상의 새로운 국면](https://dmomo.co.kr/614) <br/>
+[2025/08/02 - 예능 속 '리정'의 등장과 굿즈 열풍: K-엔터 신드롬의 새로운 주인공?](https://dmomo.co.kr/613) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/03 - 기상이변의 시대: 날씨 예보의 한계와 우리의 대응법](https://blog.ai.dmomo.co.kr/trend/7220) <br/>
-[2025/08/03 - [뉴스] “우리 애가 어떻게 이런 짓을” 경악에…속속 구축되는 ‘디지털 안전망’](https://blog.ai.dmomo.co.kr/news/7215) <br/>
-[2025/08/03 - [뉴스] 반 고흐 탄생 170주년, 파리서 30km 오베르로 떠난 예술 순례](https://blog.ai.dmomo.co.kr/news/7212) <br/>
-[2025/08/03 - AI로 뷰티 트렌드 잡는다: 캐치모먼츠의 혁신적 소셜 데이터 솔루션](https://blog.ai.dmomo.co.kr/ai/7209) <br/>
-[2025/08/02 - [뉴스] 유럽 기업 여름 폭염 대책은 ‘반차 휴가·재택근무·아이스크림’](https://blog.ai.dmomo.co.kr/news/7206) <br/>
-[2025/08/02 - [뉴스] 로또 1등 13명, 1인당 약 20억원…2등 당첨자 92명](https://blog.ai.dmomo.co.kr/news/7203) <br/>
+[2025/08/04 - 손흥민의 마지막 춤: 토트넘 vs 뉴캐슬, 6만 관중이 지켜볼 코리안더비의 대미](https://blog.ai.dmomo.co.kr/trend/7283) <br/>
+[2025/08/04 - [뉴스] “적자로 세수 확보 절실”…美, 민주당 집권해도 관세 철회 힘들수도](https://blog.ai.dmomo.co.kr/news/7278) <br/>
+[2025/08/04 - [뉴스] 괴물 폭우 또 온다, 경남 내륙 이틀간 최대 120㎜ 이상](https://blog.ai.dmomo.co.kr/news/7275) <br/>
+[2025/08/03 - [뉴스] ‘울보’ 손흥민, 한여름 눈물로 토트넘과 뜨거운 작별](https://blog.ai.dmomo.co.kr/news/7272) <br/>
+[2025/08/03 - [뉴스] 한복 입고 궁궐 갔다가 기겁…한국 여행 필수 코스로 뜬 이곳](https://blog.ai.dmomo.co.kr/news/7269) <br/>
+[2025/08/03 - 13명의 행운아를 탄생시킨 로또 1183회 당첨번호 완벽 분석](https://blog.ai.dmomo.co.kr/trend/7266) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/08/02 - Son Heung-min's Potential MLS Move? The Untold Story of Secret Negotiations with LAFC](https://ai.trend.dmomo.co.kr/2025/08/son-heung-mins-potential-mls-move.html) <br/>
-[2025/08/02 - Son Heung-min Ends 10-Year Journey with Tottenham... Shocking Announcement of a New Challenge](https://ai.trend.dmomo.co.kr/2025/08/son-heung-min-ends-10-year-journey-with.html) <br/>
-[2025/08/02 - The Rise of 'Lee Jung' in Variety Shows and the Merchandise Craze: The New Star of the K-Entertainment Syndrome?](https://ai.trend.dmomo.co.kr/2025/08/the-rise-of-lee-jung-in-variety-shows.html) <br/>
-[2025/08/02 - Mika Parsons Trade Request: A New Phase in NFL's Top Player Contract Negotiations](https://ai.trend.dmomo.co.kr/2025/08/mika-parsons-trade-request-new-phase-in.html) <br/>
-[2025/08/02 - Top 5 Emerging Security Threats and Response Strategies for Hybrid Blockchain in 2025](https://ai.trend.dmomo.co.kr/2025/08/top-5-emerging-security-threats-and.html) <br/>
-[2025/08/02 - Shining Hope Amidst Hanwha Eagles’ Struggles: Player Performances and Fan Engagement Strategies](https://ai.trend.dmomo.co.kr/2025/08/shining-hope-amidst-hanwha-eagles.html) <br/>
+[2025/08/03 - In-Depth Analysis of Winning Numbers for Lotto 1183: Creating 13 Lucky Winners](https://ai.trend.dmomo.co.kr/2025/08/in-depth-analysis-of-winning-numbers.html) <br/>
+[2025/08/03 - Kim Min-jae Starts! Bayern Munich Sets New Season Blueprint with 2-1 Victory Over Lyon](https://ai.trend.dmomo.co.kr/2025/08/kim-min-jae-starts-bayern-munich-sets.html) <br/>
+[2025/08/03 - Shocking Tremor: Comparing New Jersey's 3.0 Earthquake to the 2024 Megaquake](https://ai.trend.dmomo.co.kr/2025/08/shocking-tremor-comparing-new-jerseys.html) <br/>
+[2025/08/03 - Dramatic Victory for Inter Miami Amid Messi's Injury: 2025 League Cup Clash Analysis](https://ai.trend.dmomo.co.kr/2025/08/dramatic-victory-for-inter-miami-amid.html) <br/>
+[2025/08/03 - AI Innovations in 2025 and the Elon Musk Grok Controversy: What’s the Real Issue?](https://ai.trend.dmomo.co.kr/2025/08/ai-innovations-in-2025-and-elon-musk.html) <br/>
+[2025/08/03 - The Era of Climate Anomalies: The Limits of Weather Forecasting and Our Responses](https://ai.trend.dmomo.co.kr/2025/08/the-era-of-climate-anomalies-limits-of.html) <br/>
