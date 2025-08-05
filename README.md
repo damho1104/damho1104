@@ -88,17 +88,17 @@
 [2025/08/02 - 예능 속 '리정'의 등장과 굿즈 열풍: K-엔터 신드롬의 새로운 주인공?](https://dmomo.co.kr/613) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/04 - 손흥민의 마지막 춤: 토트넘 vs 뉴캐슬, 6만 관중이 지켜볼 코리안더비의 대미](https://blog.ai.dmomo.co.kr/trend/7283) <br/>
-[2025/08/04 - [뉴스] “적자로 세수 확보 절실”…美, 민주당 집권해도 관세 철회 힘들수도](https://blog.ai.dmomo.co.kr/news/7278) <br/>
-[2025/08/04 - [뉴스] 괴물 폭우 또 온다, 경남 내륙 이틀간 최대 120㎜ 이상](https://blog.ai.dmomo.co.kr/news/7275) <br/>
-[2025/08/03 - [뉴스] ‘울보’ 손흥민, 한여름 눈물로 토트넘과 뜨거운 작별](https://blog.ai.dmomo.co.kr/news/7272) <br/>
-[2025/08/03 - [뉴스] 한복 입고 궁궐 갔다가 기겁…한국 여행 필수 코스로 뜬 이곳](https://blog.ai.dmomo.co.kr/news/7269) <br/>
-[2025/08/03 - 13명의 행운아를 탄생시킨 로또 1183회 당첨번호 완벽 분석](https://blog.ai.dmomo.co.kr/trend/7266) <br/>
+[2025/08/05 - 갑작스런 별세, 송영규의 55년 연기 인생: 빛과 그림자](https://blog.ai.dmomo.co.kr/trend/7346) <br/>
+[2025/08/05 - [뉴스] “힘내라 시드니”…트럼프 한마디에 주가 20%대 급등한 이 회사](https://blog.ai.dmomo.co.kr/news/7341) <br/>
+[2025/08/05 - [뉴스] 인생 장편소설 같아…배우·소설가 차인표, 신진문학상 수상](https://blog.ai.dmomo.co.kr/news/7338) <br/>
+[2025/08/04 - [뉴스] 1700억 비행기, 새 한마리에 박살…이륙 직후 20여분만에 안전 회항](https://blog.ai.dmomo.co.kr/news/7335) <br/>
+[2025/08/04 - [뉴스] 구본창의 50년…그 뒤엔 레오나르도 다빈치가 있었다](https://blog.ai.dmomo.co.kr/news/7332) <br/>
+[2025/08/04 - [뉴스] 사용자 숨은 의도까지 척척…더 똑똑해진 SKT 에이닷](https://blog.ai.dmomo.co.kr/news/7329) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/08/04 - Song Young-kyu's Final Stage: Between Controversy and Brilliant Acting, His Sudden Farewell](https://ai.trend.dmomo.co.kr/2025/08/song-young-kyus-final-stage-between.html) <br/>
+[2025/08/04 - Ronnie Anderson: The Legendary Blonde Beauty of American TV - Her Passing and Legacy](https://ai.trend.dmomo.co.kr/2025/08/ronnie-anderson-legendary-blonde-beauty.html) <br/>
+[2025/08/04 - Top 5 Low-Code Technology Trends in 2025 According to Gartner's Latest Magic Quadrant](https://ai.trend.dmomo.co.kr/2025/08/top-5-low-code-technology-trends-in.html) <br/>
+[2025/08/04 - Son Heung-min's Final Dance: The Grand Finale of the Korean Derby Between Tottenham and Newcastle in Front of 60,000 Fans](https://ai.trend.dmomo.co.kr/2025/08/son-heung-mins-final-dance-grand-finale.html) <br/>
 [2025/08/03 - In-Depth Analysis of Winning Numbers for Lotto 1183: Creating 13 Lucky Winners](https://ai.trend.dmomo.co.kr/2025/08/in-depth-analysis-of-winning-numbers.html) <br/>
 [2025/08/03 - Kim Min-jae Starts! Bayern Munich Sets New Season Blueprint with 2-1 Victory Over Lyon](https://ai.trend.dmomo.co.kr/2025/08/kim-min-jae-starts-bayern-munich-sets.html) <br/>
-[2025/08/03 - Shocking Tremor: Comparing New Jersey's 3.0 Earthquake to the 2024 Megaquake](https://ai.trend.dmomo.co.kr/2025/08/shocking-tremor-comparing-new-jerseys.html) <br/>
-[2025/08/03 - Dramatic Victory for Inter Miami Amid Messi's Injury: 2025 League Cup Clash Analysis](https://ai.trend.dmomo.co.kr/2025/08/dramatic-victory-for-inter-miami-amid.html) <br/>
-[2025/08/03 - AI Innovations in 2025 and the Elon Musk Grok Controversy: What’s the Real Issue?](https://ai.trend.dmomo.co.kr/2025/08/ai-innovations-in-2025-and-elon-musk.html) <br/>
-[2025/08/03 - The Era of Climate Anomalies: The Limits of Weather Forecasting and Our Responses](https://ai.trend.dmomo.co.kr/2025/08/the-era-of-climate-anomalies-limits-of.html) <br/>
