@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/08/07 - 충격과 추억: 애즈원 이민의 갑작스러운 별세와 그녀의 음악 유산](https://dmomo.co.kr/628) <br/>
+[2025/08/07 - 워킹 데드 배우 켈리 맥, 33세에 희귀 뇌암으로 별세: 그녀의 투혼과 유산](https://dmomo.co.kr/627) <br/>
+[2025/08/07 - 미군 기지 충격의 5발 총격: 포트 스튜어트 사건의 전말과 교훈](https://dmomo.co.kr/626) <br/>
 [2025/08/06 - 美 남부 습격하는 치쿵구냐 바이러스, 당신의 관절을 노린다](https://dmomo.co.kr/625) <br/>
 [2025/08/06 - 충격! 국회의원의 차명 주식거래, 그 뒤에 숨겨진 진실은?](https://dmomo.co.kr/624) <br/>
 [2025/08/05 - AI Sub-Agent란 무엇인가: 핵심 역할과 개발 시나리오 5가지 분석](https://dmomo.co.kr/623) <br/>
-[2025/08/05 - 손흥민의 새 챕터: LAFC행, 토트넘 시대 마감과 미국 축구 혁명의 서막](https://dmomo.co.kr/622) <br/>
-[2025/08/05 - 바르셀로나의 5-0 승리, 미국 팬들이 주목해야 할 3가지 포인트는?](https://dmomo.co.kr/621) <br/>
-[2025/08/05 - 갑작스런 별세, 송영규의 55년 연기 인생: 빛과 그림자](https://dmomo.co.kr/620) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/07 - 충격과 추억: 애즈원 이민의 갑작스러운 별세와 그녀의 음악 유산](https://blog.ai.dmomo.co.kr/trend/7499) <br/>
-[2025/08/07 - [뉴스] ‘폭탄 관세’ 낮추려고 무작정 미국 갔는데…빈손 귀국한 이 나라 대통령](https://blog.ai.dmomo.co.kr/news/7494) <br/>
-[2025/08/07 - [뉴스] 아이폰 비싸진다 반격 나선 삼성…애플 잔칫날 노린다](https://blog.ai.dmomo.co.kr/news/7491) <br/>
-[2025/08/07 - [뉴스] 장원영 앞세운 36세 K뷰티 황태자, 8개월 만에 2.5조 잭팟](https://blog.ai.dmomo.co.kr/news/7488) <br/>
-[2025/08/07 - [뉴스] “애플, 미국에 140조원 추가 투자…트럼프 대통령 발표 예정”](https://blog.ai.dmomo.co.kr/news/7485) <br/>
-[2025/08/06 - [뉴스] 도쿄 유행의 성지엔 온통 ‘K 헤어스타일’…홍대엔 ‘J애니메이션’ 거리](https://blog.ai.dmomo.co.kr/news/7482) <br/>
+[2025/08/08 - [뉴스] 트럼프 “인텔 CEO 중국과 밀착” 사퇴 요구…주가 3.1% 하락](https://blog.ai.dmomo.co.kr/news/7560) <br/>
+[2025/08/08 - [뉴스] 엇갈린 천연물신약 운명…살아남은 조인스, 탈락후보 스티렌](https://blog.ai.dmomo.co.kr/news/7557) <br/>
+[2025/08/08 - [뉴스] 여권에 기념 도장 하나쯤은?…무심코 찍었다가 입국 거부 날벼락](https://blog.ai.dmomo.co.kr/news/7554) <br/>
+[2025/08/08 - [뉴스] 트럼프 “인텔 CEO 즉각 사임해야”](https://blog.ai.dmomo.co.kr/news/7551) <br/>
+[2025/08/07 - [뉴스] 트럼프 “인텔 CEO, 즉각 사임해야”…중국 관련 우려에 압박](https://blog.ai.dmomo.co.kr/news/7548) <br/>
+[2025/08/07 - [뉴스] BGF리테일, 2분기 영업익 694억…전년비 8.9% 감소](https://blog.ai.dmomo.co.kr/news/7545) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/08/07 - Enjoy Cultural Life with a 10,000 Won Discount from Government Support on Melon Ticket!](https://ai.trend.dmomo.co.kr/2025/08/enjoy-cultural-life-with-10000-won.html) <br/>
+[2025/08/07 - 8 Essential Strategies for Integrating Security and Automation in the 2025 SDLC Revealed](https://ai.trend.dmomo.co.kr/2025/08/8-essential-strategies-for-integrating.html) <br/>
+[2025/08/07 - 5 Shots of Shock at the Military Base: The Full Story and Lessons from the Fort Stewart Incident](https://ai.trend.dmomo.co.kr/2025/08/5-shots-of-shock-at-military-base-full.html) <br/>
+[2025/08/07 - Shock and Remembrance: The Sudden Passing of Aesone and Her Musical Legacy](https://ai.trend.dmomo.co.kr/2025/08/shock-and-remembrance-sudden-passing-of.html) <br/>
 [2025/08/06 - Shock and Mourning: The Sudden Passing of Edwon Immigrant at 47](https://ai.trend.dmomo.co.kr/2025/08/shock-and-mourning-sudden-passing-of.html) <br/>
 [2025/08/06 - Hong Jin-kyung's Shocking Divorce: Why She Chose a 'Different Life' After 22 Years?](https://ai.trend.dmomo.co.kr/2025/08/hong-jin-kyungs-shocking-divorce-why.html) <br/>
-[2025/08/06 - Kelly Mac, 33, of The Walking Dead Passes Away from Rare Brain Cancer: Her Resilience and Legacy](https://ai.trend.dmomo.co.kr/2025/08/kelly-mac-33-of-walking-dead-passes.html) <br/>
-[2025/08/06 - Chikungunya Virus Strikes the Southern U.S., Targeting Your Joints](https://ai.trend.dmomo.co.kr/2025/08/chikungunya-virus-strikes-southern-us.html) <br/>
-[2025/08/06 - What Are the Latest 2025 Hybrid Blockchain Technologies and Their 5 Key Applications?](https://ai.trend.dmomo.co.kr/2025/08/what-are-latest-2025-hybrid-blockchain.html) <br/>
-[2025/08/06 - Shocking! The Hidden Truth Behind A National Assembly Member's Secret Stock Trading.](https://ai.trend.dmomo.co.kr/2025/08/shocking-hidden-truth-behind-national.html) <br/>
