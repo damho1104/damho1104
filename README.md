@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/07 - 충격과 추억: 애즈원 이민의 갑작스러운 별세와 그녀의 음악 유산](https://dmomo.co.kr/628) <br/>
-[2025/08/07 - 워킹 데드 배우 켈리 맥, 33세에 희귀 뇌암으로 별세: 그녀의 투혼과 유산](https://dmomo.co.kr/627) <br/>
-[2025/08/07 - 미군 기지 충격의 5발 총격: 포트 스튜어트 사건의 전말과 교훈](https://dmomo.co.kr/626) <br/>
-[2025/08/06 - 美 남부 습격하는 치쿵구냐 바이러스, 당신의 관절을 노린다](https://dmomo.co.kr/625) <br/>
-[2025/08/06 - 충격! 국회의원의 차명 주식거래, 그 뒤에 숨겨진 진실은?](https://dmomo.co.kr/624) <br/>
-[2025/08/05 - AI Sub-Agent란 무엇인가: 핵심 역할과 개발 시나리오 5가지 분석](https://dmomo.co.kr/623) <br/>
+[2025/08/08 - OpenAI GPT-OSS 공개: 5가지 핵심 의미와 글로벌 AI 생태계의 미래 전망](http://dmomo.co.kr/632) <br/>
+[2025/08/08 - 터시 푸시의 달인, 탠너 맥키: NFL 프리시즌을 뒤흔든 이글스의 숨은 영웅](http://dmomo.co.kr/631) <br/>
+[2025/08/08 - 충격! 켈리 클락슨 전 남편, 브랜든 블랙스톡 48세 암 투병 끝 사망](http://dmomo.co.kr/630) <br/>
+[2025/08/08 - GPT-5 출시: 박사급 AI가 여는 개인화 앱 혁명과 미래 전망](http://dmomo.co.kr/629) <br/>
+[2025/08/07 - 충격과 추억: 애즈원 이민의 갑작스러운 별세와 그녀의 음악 유산](http://dmomo.co.kr/628) <br/>
+[2025/08/07 - 워킹 데드 배우 켈리 맥, 33세에 희귀 뇌암으로 별세: 그녀의 투혼과 유산](http://dmomo.co.kr/627) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/08 - [뉴스] 트럼프 “인텔 CEO 중국과 밀착” 사퇴 요구…주가 3.1% 하락](https://blog.ai.dmomo.co.kr/news/7560) <br/>
-[2025/08/08 - [뉴스] 엇갈린 천연물신약 운명…살아남은 조인스, 탈락후보 스티렌](https://blog.ai.dmomo.co.kr/news/7557) <br/>
-[2025/08/08 - [뉴스] 여권에 기념 도장 하나쯤은?…무심코 찍었다가 입국 거부 날벼락](https://blog.ai.dmomo.co.kr/news/7554) <br/>
-[2025/08/08 - [뉴스] 트럼프 “인텔 CEO 즉각 사임해야”](https://blog.ai.dmomo.co.kr/news/7551) <br/>
-[2025/08/07 - [뉴스] 트럼프 “인텔 CEO, 즉각 사임해야”…중국 관련 우려에 압박](https://blog.ai.dmomo.co.kr/news/7548) <br/>
-[2025/08/07 - [뉴스] BGF리테일, 2분기 영업익 694억…전년비 8.9% 감소](https://blog.ai.dmomo.co.kr/news/7545) <br/>
+[2025/08/09 - [뉴스] “통 큰 결정 내리더니”…애플, ‘관세 면제’ 기대감에 주가 5개월만에 최고](https://blog.ai.dmomo.co.kr/news/7626) <br/>
+[2025/08/09 - [뉴스] 농심과 KT, 용꼬리의 반란 성공할까](https://blog.ai.dmomo.co.kr/news/7623) <br/>
+[2025/08/09 - [뉴스] 19세 연하男 결혼 소식에 앓아누웠다…충격받은 女 벌인 일](https://blog.ai.dmomo.co.kr/news/7620) <br/>
+[2025/08/09 - [뉴스] “WTO 30년, 제일 손해 본 건 미국”…트럼프, 결국 WTO 무너뜨린다](https://blog.ai.dmomo.co.kr/news/7617) <br/>
+[2025/08/08 - [뉴스] 날렵한 펀치에 정교한 드리블까지…사람처럼 움직이는 로봇에 ‘플래시 세례’](https://blog.ai.dmomo.co.kr/news/7614) <br/>
+[2025/08/08 - [뉴스] 암행어사 따로 없네…유튜브 불친절 폭로에 여수·속초 화들짝](https://blog.ai.dmomo.co.kr/news/7611) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/08/07 - Enjoy Cultural Life with a 10,000 Won Discount from Government Support on Melon Ticket!](https://ai.trend.dmomo.co.kr/2025/08/enjoy-cultural-life-with-10000-won.html) <br/>
-[2025/08/07 - 8 Essential Strategies for Integrating Security and Automation in the 2025 SDLC Revealed](https://ai.trend.dmomo.co.kr/2025/08/8-essential-strategies-for-integrating.html) <br/>
-[2025/08/07 - 5 Shots of Shock at the Military Base: The Full Story and Lessons from the Fort Stewart Incident](https://ai.trend.dmomo.co.kr/2025/08/5-shots-of-shock-at-military-base-full.html) <br/>
-[2025/08/07 - Shock and Remembrance: The Sudden Passing of Aesone and Her Musical Legacy](https://ai.trend.dmomo.co.kr/2025/08/shock-and-remembrance-sudden-passing-of.html) <br/>
-[2025/08/06 - Shock and Mourning: The Sudden Passing of Edwon Immigrant at 47](https://ai.trend.dmomo.co.kr/2025/08/shock-and-mourning-sudden-passing-of.html) <br/>
-[2025/08/06 - Hong Jin-kyung's Shocking Divorce: Why She Chose a 'Different Life' After 22 Years?](https://ai.trend.dmomo.co.kr/2025/08/hong-jin-kyungs-shocking-divorce-why.html) <br/>
+[2025/08/08 - OpenAI GPT-OSS Release: 5 Key Insights and the Future of the Global AI Ecosystem](https://ai.trend.dmomo.co.kr/2025/08/openai-gpt-oss-release-5-key-insights.html) <br/>
+[2025/08/08 - Tanner McKee: The Unsung Hero of the Eagles Who Shook Up the NFL Preseason](https://ai.trend.dmomo.co.kr/2025/08/tanner-mckee-unsung-hero-of-eagles-who.html) <br/>
+[2025/08/08 - 2025 Philadelphia Eagles: Strengthening Defense and Touch Push for Super Bowl Challenge?](https://ai.trend.dmomo.co.kr/2025/08/2025-philadelphia-eagles-strengthening.html) <br/>
+[2025/08/08 - The GPT-5 Revolution: 5 Amazing Changes in the Era of On-Demand Coding Driven by AI](https://ai.trend.dmomo.co.kr/2025/08/the-gpt-5-revolution-5-amazing-changes.html) <br/>
+[2025/08/08 - GPT-5 Launch: The Revolution of Personalized Apps by PhD-level AI and Future Outlook](https://ai.trend.dmomo.co.kr/2025/08/gpt-5-launch-revolution-of-personalized.html) <br/>
+[2025/08/08 - 2025 DevOps Trends: Cycloid Customization and AI-Driven Continuous Security Innovation](https://ai.trend.dmomo.co.kr/2025/08/2025-devops-trends-cycloid.html) <br/>
