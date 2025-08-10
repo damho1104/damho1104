@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/08 - OpenAI GPT-OSS 공개: 5가지 핵심 의미와 글로벌 AI 생태계의 미래 전망](http://dmomo.co.kr/632) <br/>
-[2025/08/08 - 터시 푸시의 달인, 탠너 맥키: NFL 프리시즌을 뒤흔든 이글스의 숨은 영웅](http://dmomo.co.kr/631) <br/>
-[2025/08/08 - 충격! 켈리 클락슨 전 남편, 브랜든 블랙스톡 48세 암 투병 끝 사망](http://dmomo.co.kr/630) <br/>
-[2025/08/08 - GPT-5 출시: 박사급 AI가 여는 개인화 앱 혁명과 미래 전망](http://dmomo.co.kr/629) <br/>
-[2025/08/07 - 충격과 추억: 애즈원 이민의 갑작스러운 별세와 그녀의 음악 유산](http://dmomo.co.kr/628) <br/>
-[2025/08/07 - 워킹 데드 배우 켈리 맥, 33세에 희귀 뇌암으로 별세: 그녀의 투혼과 유산](http://dmomo.co.kr/627) <br/>
+[2025/08/08 - OpenAI GPT-OSS 공개: 5가지 핵심 의미와 글로벌 AI 생태계의 미래 전망](https://dmomo.co.kr/632) <br/>
+[2025/08/08 - 터시 푸시의 달인, 탠너 맥키: NFL 프리시즌을 뒤흔든 이글스의 숨은 영웅](https://dmomo.co.kr/631) <br/>
+[2025/08/08 - 충격! 켈리 클락슨 전 남편, 브랜든 블랙스톡 48세 암 투병 끝 사망](https://dmomo.co.kr/630) <br/>
+[2025/08/08 - GPT-5 출시: 박사급 AI가 여는 개인화 앱 혁명과 미래 전망](https://dmomo.co.kr/629) <br/>
+[2025/08/07 - 충격과 추억: 애즈원 이민의 갑작스러운 별세와 그녀의 음악 유산](https://dmomo.co.kr/628) <br/>
+[2025/08/07 - 워킹 데드 배우 켈리 맥, 33세에 희귀 뇌암으로 별세: 그녀의 투혼과 유산](https://dmomo.co.kr/627) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/09 - [뉴스] “통 큰 결정 내리더니”…애플, ‘관세 면제’ 기대감에 주가 5개월만에 최고](https://blog.ai.dmomo.co.kr/news/7626) <br/>
-[2025/08/09 - [뉴스] 농심과 KT, 용꼬리의 반란 성공할까](https://blog.ai.dmomo.co.kr/news/7623) <br/>
-[2025/08/09 - [뉴스] 19세 연하男 결혼 소식에 앓아누웠다…충격받은 女 벌인 일](https://blog.ai.dmomo.co.kr/news/7620) <br/>
-[2025/08/09 - [뉴스] “WTO 30년, 제일 손해 본 건 미국”…트럼프, 결국 WTO 무너뜨린다](https://blog.ai.dmomo.co.kr/news/7617) <br/>
-[2025/08/08 - [뉴스] 날렵한 펀치에 정교한 드리블까지…사람처럼 움직이는 로봇에 ‘플래시 세례’](https://blog.ai.dmomo.co.kr/news/7614) <br/>
-[2025/08/08 - [뉴스] 암행어사 따로 없네…유튜브 불친절 폭로에 여수·속초 화들짝](https://blog.ai.dmomo.co.kr/news/7611) <br/>
+[2025/08/10 - 미국 명문대 AI 연합 ‘LIKELION US’ 5기 모집, 비전공자도 OK?](https://blog.ai.dmomo.co.kr/ai/7677) <br/>
+[2025/08/10 - [뉴스] 약소국의 서러움…트럼프·푸틴, ‘우크라 패싱’ 합의 분위기](https://blog.ai.dmomo.co.kr/news/7674) <br/>
+[2025/08/10 - [뉴스] 뉴욕 변호사 잘 나가던 이소은…20년 만에 전한 깜짝 근황](https://blog.ai.dmomo.co.kr/news/7671) <br/>
+[2025/08/09 - [뉴스] ‘러 원유 수입’ 인도에 ‘50% 관세폭탄’ 던진 트럼프…결국 시진핑만 좋은 일?](https://blog.ai.dmomo.co.kr/news/7668) <br/>
+[2025/08/09 - [뉴스] 내일 남부지방 최대 150㎜ 비…낮 서울 최고 온도 32도](https://blog.ai.dmomo.co.kr/news/7665) <br/>
+[2025/08/09 - [뉴스] 7000명→60만명 끝이 안보인다…난리 난 국립중앙박물관](https://blog.ai.dmomo.co.kr/news/7662) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/08/09 - Applying Clean Architecture with Next.js: 7 Key Strategies for Scalable Web Maintenance Innovation](https://ai.trend.dmomo.co.kr/2025/08/applying-clean-architecture-with-nextjs.html) <br/>
+[2025/08/09 - Emory University Shooting Incident: Active Shooter Near CDC Challenges Campus Safety](https://ai.trend.dmomo.co.kr/2025/08/emory-university-shooting-incident.html) <br/>
+[2025/08/09 - Secrets of the Weather: 7 Practical Tips from the Meteorological Agency](https://ai.trend.dmomo.co.kr/2025/08/secrets-of-weather-7-practical-tips.html) <br/>
 [2025/08/08 - OpenAI GPT-OSS Release: 5 Key Insights and the Future of the Global AI Ecosystem](https://ai.trend.dmomo.co.kr/2025/08/openai-gpt-oss-release-5-key-insights.html) <br/>
 [2025/08/08 - Tanner McKee: The Unsung Hero of the Eagles Who Shook Up the NFL Preseason](https://ai.trend.dmomo.co.kr/2025/08/tanner-mckee-unsung-hero-of-eagles-who.html) <br/>
 [2025/08/08 - 2025 Philadelphia Eagles: Strengthening Defense and Touch Push for Super Bowl Challenge?](https://ai.trend.dmomo.co.kr/2025/08/2025-philadelphia-eagles-strengthening.html) <br/>
-[2025/08/08 - The GPT-5 Revolution: 5 Amazing Changes in the Era of On-Demand Coding Driven by AI](https://ai.trend.dmomo.co.kr/2025/08/the-gpt-5-revolution-5-amazing-changes.html) <br/>
-[2025/08/08 - GPT-5 Launch: The Revolution of Personalized Apps by PhD-level AI and Future Outlook](https://ai.trend.dmomo.co.kr/2025/08/gpt-5-launch-revolution-of-personalized.html) <br/>
-[2025/08/08 - 2025 DevOps Trends: Cycloid Customization and AI-Driven Continuous Security Innovation](https://ai.trend.dmomo.co.kr/2025/08/2025-devops-trends-cycloid.html) <br/>
