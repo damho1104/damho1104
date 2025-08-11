@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/08 - OpenAI GPT-OSS 공개: 5가지 핵심 의미와 글로벌 AI 생태계의 미래 전망](https://dmomo.co.kr/632) <br/>
-[2025/08/08 - 터시 푸시의 달인, 탠너 맥키: NFL 프리시즌을 뒤흔든 이글스의 숨은 영웅](https://dmomo.co.kr/631) <br/>
-[2025/08/08 - 충격! 켈리 클락슨 전 남편, 브랜든 블랙스톡 48세 암 투병 끝 사망](https://dmomo.co.kr/630) <br/>
-[2025/08/08 - GPT-5 출시: 박사급 AI가 여는 개인화 앱 혁명과 미래 전망](https://dmomo.co.kr/629) <br/>
-[2025/08/07 - 충격과 추억: 애즈원 이민의 갑작스러운 별세와 그녀의 음악 유산](https://dmomo.co.kr/628) <br/>
-[2025/08/07 - 워킹 데드 배우 켈리 맥, 33세에 희귀 뇌암으로 별세: 그녀의 투혼과 유산](https://dmomo.co.kr/627) <br/>
+[2025/08/10 - Claude Opus 4.1 혁신과 SWE-bench 74.5% 성능, AI 코딩의 미래는?](http://dmomo.co.kr/634) <br/>
+[2025/08/10 - 프리시즌의 숨겨진 영웅: 스카일러 톰슨, 스틸러스를 위해 '돈을 벌다](http://dmomo.co.kr/633) <br/>
+[2025/08/08 - OpenAI GPT-OSS 공개: 5가지 핵심 의미와 글로벌 AI 생태계의 미래 전망](http://dmomo.co.kr/632) <br/>
+[2025/08/08 - 터시 푸시의 달인, 탠너 맥키: NFL 프리시즌을 뒤흔든 이글스의 숨은 영웅](http://dmomo.co.kr/631) <br/>
+[2025/08/08 - 충격! 켈리 클락슨 전 남편, 브랜든 블랙스톡 48세 암 투병 끝 사망](http://dmomo.co.kr/630) <br/>
+[2025/08/08 - GPT-5 출시: 박사급 AI가 여는 개인화 앱 혁명과 미래 전망](http://dmomo.co.kr/629) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/10 - 미국 명문대 AI 연합 ‘LIKELION US’ 5기 모집, 비전공자도 OK?](https://blog.ai.dmomo.co.kr/ai/7677) <br/>
-[2025/08/10 - [뉴스] 약소국의 서러움…트럼프·푸틴, ‘우크라 패싱’ 합의 분위기](https://blog.ai.dmomo.co.kr/news/7674) <br/>
-[2025/08/10 - [뉴스] 뉴욕 변호사 잘 나가던 이소은…20년 만에 전한 깜짝 근황](https://blog.ai.dmomo.co.kr/news/7671) <br/>
-[2025/08/09 - [뉴스] ‘러 원유 수입’ 인도에 ‘50% 관세폭탄’ 던진 트럼프…결국 시진핑만 좋은 일?](https://blog.ai.dmomo.co.kr/news/7668) <br/>
-[2025/08/09 - [뉴스] 내일 남부지방 최대 150㎜ 비…낮 서울 최고 온도 32도](https://blog.ai.dmomo.co.kr/news/7665) <br/>
-[2025/08/09 - [뉴스] 7000명→60만명 끝이 안보인다…난리 난 국립중앙박물관](https://blog.ai.dmomo.co.kr/news/7662) <br/>
+[2025/08/11 - [뉴스] “남편과 이혼한 날 트럼프가 나에게”…영국 유명 여배우의 폭로](https://blog.ai.dmomo.co.kr/news/7752) <br/>
+[2025/08/11 - [뉴스] 中 드론·조선, 미국보다 뛰어나…韓·美 뉴디펜스 동맹 맺어야](https://blog.ai.dmomo.co.kr/news/7749) <br/>
+[2025/08/11 - [뉴스] 누적 조회수 25억 슈퍼 IP 전독시는 어쩌다 좀비딸에 밀렸나](https://blog.ai.dmomo.co.kr/news/7746) <br/>
+[2025/08/11 - [뉴스] 미국연준 2인자도 “연내 3회 기준금리 내려야”…커지는 금리인하 목소리](https://blog.ai.dmomo.co.kr/news/7743) <br/>
+[2025/08/10 - [뉴스] 美 동전에 첫 한국계 여성…장애인권운동가 스테이시 박 밀번](https://blog.ai.dmomo.co.kr/news/7740) <br/>
+[2025/08/10 - [뉴스] 전국 흐리고 곳곳 비…낮 최고 31도 더위 지속](https://blog.ai.dmomo.co.kr/news/7737) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/08/09 - Applying Clean Architecture with Next.js: 7 Key Strategies for Scalable Web Maintenance Innovation](https://ai.trend.dmomo.co.kr/2025/08/applying-clean-architecture-with-nextjs.html) <br/>
-[2025/08/09 - Emory University Shooting Incident: Active Shooter Near CDC Challenges Campus Safety](https://ai.trend.dmomo.co.kr/2025/08/emory-university-shooting-incident.html) <br/>
-[2025/08/09 - Secrets of the Weather: 7 Practical Tips from the Meteorological Agency](https://ai.trend.dmomo.co.kr/2025/08/secrets-of-weather-7-practical-tips.html) <br/>
-[2025/08/08 - OpenAI GPT-OSS Release: 5 Key Insights and the Future of the Global AI Ecosystem](https://ai.trend.dmomo.co.kr/2025/08/openai-gpt-oss-release-5-key-insights.html) <br/>
-[2025/08/08 - Tanner McKee: The Unsung Hero of the Eagles Who Shook Up the NFL Preseason](https://ai.trend.dmomo.co.kr/2025/08/tanner-mckee-unsung-hero-of-eagles-who.html) <br/>
-[2025/08/08 - 2025 Philadelphia Eagles: Strengthening Defense and Touch Push for Super Bowl Challenge?](https://ai.trend.dmomo.co.kr/2025/08/2025-philadelphia-eagles-strengthening.html) <br/>
+[2025/08/10 - Hidden Hero of the Preseason: Skyler Thompson, Making Money for the Steelers](https://ai.trend.dmomo.co.kr/2025/08/hidden-hero-of-preseason-skyler.html) <br/>
+[2025/08/10 - Return After 14 Years: Han Seong-joo, Former Miss Korea, Starts Anew as a Horticultural Therapy Expert](https://ai.trend.dmomo.co.kr/2025/08/return-after-14-years-han-seong-joo.html) <br/>
+[2025/08/10 - Claude Opus 4.1 Innovation and SWE-bench 74.5% Performance: The Future of AI Coding?](https://ai.trend.dmomo.co.kr/2025/08/claude-opus-41-innovation-and-swe-bench.html) <br/>
+[2025/08/10 - The Secret of Lotto Draw 1184 Winning Numbers: How 15 Winners of the 1.9 Billion Jackpot Came to Be?](https://ai.trend.dmomo.co.kr/2025/08/the-secret-of-lotto-draw-1184-winning.html) <br/>
+[2025/08/10 - NASCAR Rising Star Connor Gillis Fractures Collarbone Right After Victory... Is His Cup Debut Cancelled?](https://ai.trend.dmomo.co.kr/2025/08/nascar-rising-star-connor-gillis.html) <br/>
+[2025/08/10 - In-Depth Analysis of Lotto 1184: Secrets of the 15 Jackpot Winners and Winning Strategies](https://ai.trend.dmomo.co.kr/2025/08/in-depth-analysis-of-lotto-1184-secrets.html) <br/>
