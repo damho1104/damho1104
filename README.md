@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/10 - Claude Opus 4.1 혁신과 SWE-bench 74.5% 성능, AI 코딩의 미래는?](https://dmomo.co.kr/634) <br/>
-[2025/08/10 - 프리시즌의 숨겨진 영웅: 스카일러 톰슨, 스틸러스를 위해 '돈을 벌다](https://dmomo.co.kr/633) <br/>
-[2025/08/08 - OpenAI GPT-OSS 공개: 5가지 핵심 의미와 글로벌 AI 생태계의 미래 전망](https://dmomo.co.kr/632) <br/>
-[2025/08/08 - 터시 푸시의 달인, 탠너 맥키: NFL 프리시즌을 뒤흔든 이글스의 숨은 영웅](https://dmomo.co.kr/631) <br/>
-[2025/08/08 - 충격! 켈리 클락슨 전 남편, 브랜든 블랙스톡 48세 암 투병 끝 사망](https://dmomo.co.kr/630) <br/>
-[2025/08/08 - GPT-5 출시: 박사급 AI가 여는 개인화 앱 혁명과 미래 전망](https://dmomo.co.kr/629) <br/>
+[2025/08/12 - 예스24 2차 '먹통' 사태: 반복되는 해킹 위기, 대책은?](http://dmomo.co.kr/636) <br/>
+[2025/08/12 - 조국 사면의 정치학: 80주년 광복절 특사가 던진 파장과 전망](http://dmomo.co.kr/635) <br/>
+[2025/08/10 - Claude Opus 4.1 혁신과 SWE-bench 74.5% 성능, AI 코딩의 미래는?](http://dmomo.co.kr/634) <br/>
+[2025/08/10 - 프리시즌의 숨겨진 영웅: 스카일러 톰슨, 스틸러스를 위해 '돈을 벌다](http://dmomo.co.kr/633) <br/>
+[2025/08/08 - OpenAI GPT-OSS 공개: 5가지 핵심 의미와 글로벌 AI 생태계의 미래 전망](http://dmomo.co.kr/632) <br/>
+[2025/08/08 - 터시 푸시의 달인, 탠너 맥키: NFL 프리시즌을 뒤흔든 이글스의 숨은 영웅](http://dmomo.co.kr/631) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/12 - [뉴스] 주황색 죄수복 입고 매달린 트럼프…스위스 전시, 논란 속 취소](https://blog.ai.dmomo.co.kr/news/7827) <br/>
-[2025/08/12 - [뉴스] 느슨한 천조국 무기고에 긴장감 불어넣은 하와이안 셔츠 맨을 만났다  [강해령의 테크앤더시티]](https://blog.ai.dmomo.co.kr/news/7824) <br/>
-[2025/08/12 - [뉴스] 정지선 셰프 정말 똑같다…中 짝퉁 흑백요리사에 분노](https://blog.ai.dmomo.co.kr/news/7821) <br/>
-[2025/08/12 - [뉴스] 반도체·AI·전기차…미래기술 키우는 베트남, 국내 기업엔 ‘기회의 땅’](https://blog.ai.dmomo.co.kr/news/7818) <br/>
-[2025/08/11 - 예스24 2차 ‘먹통’ 사태: 반복되는 해킹 위기, 대책은?](https://blog.ai.dmomo.co.kr/trend/7815) <br/>
-[2025/08/11 - [뉴스] 마크롱이 커피 사주곤 했다…프랑스 훈장 받는 파키스탄 출신男의 정체](https://blog.ai.dmomo.co.kr/news/7812) <br/>
+[2025/08/13 - [뉴스] “사과하고 싶다”…‘테라사태’ 권도형 美서 사기혐의 유죄 인정](https://blog.ai.dmomo.co.kr/news/7912) <br/>
+[2025/08/13 - [뉴스] 느슨한 천조국 무기고에 긴장감 불어넣은 하와이안 셔츠 맨을 만났다](https://blog.ai.dmomo.co.kr/news/7909) <br/>
+[2025/08/13 - [뉴스] 전품목 5000원 이하…이마트, 초저가 자체브랜드 5K PRICE’ 출시](https://blog.ai.dmomo.co.kr/news/7906) <br/>
+[2025/08/13 - [뉴스] ‘테라사태’ 권도형 美서 사기혐의 유죄 인정…향후 韓이송 가능](https://blog.ai.dmomo.co.kr/news/7903) <br/>
+[2025/08/12 - [뉴스] “ 북한 노동자들, 러시아서 하루 18시간 노예처럼 일한다…1년에 이틀 쉬어”](https://blog.ai.dmomo.co.kr/news/7900) <br/>
+[2025/08/12 - [뉴스] 내일 전국 비 소식…수도권·강원도 등 중부에 집중호우 예상](https://blog.ai.dmomo.co.kr/news/7897) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/08/11 - Yes24's Second 'Outage' Incident: Repeated Hacking Crisis and Solutions?](https://ai.trend.dmomo.co.kr/2025/08/yes24s-second-outage-incident-repeated.html) <br/>
-[2025/08/11 - The Controversy Over Presidential Pardon: A Political Solution or a Violation of Rule of Law?](https://ai.trend.dmomo.co.kr/2025/08/the-controversy-over-presidential.html) <br/>
-[2025/08/11 - 🏆 Orlando City Achieves Historic Season Sweep! Dominates Inter Miami 4-1 to Completely Conquer the 'Florida Derby'](https://ai.trend.dmomo.co.kr/2025/08/orlando-city-achieves-historic-season.html) <br/>
-[2025/08/11 - Santos vs Guadalajara: A Classic Liga MX Match Ending in a 1-0 Victory for the Home Team](https://ai.trend.dmomo.co.kr/2025/08/santos-vs-guadalajara-classic-liga-mx.html) <br/>
-[2025/08/11 - Why AWS Bedrock and Azure OpenAI Are the Key to AI Infrastructure Innovation in 2025](https://ai.trend.dmomo.co.kr/2025/08/why-aws-bedrock-and-azure-openai-are.html) <br/>
-[2025/08/11 - The Miracle of 45-Year-Old Justin Rose: The Dramatic Comeback Victory at the FedEx St. Jude Championship](https://ai.trend.dmomo.co.kr/2025/08/the-miracle-of-45-year-old-justin-rose.html) <br/>
+[2025/08/12 - Lotte vs Hanwha: A 360-Degree Analysis of Intense Competition from the Baseball Field to the Industry Front](https://ai.trend.dmomo.co.kr/2025/08/lotte-vs-hanwha-360-degree-analysis-of.html) <br/>
+[2025/08/12 - Taylor Swift's Revolution: Unveiling the Orange Era in 'New Heights' on August 13?](https://ai.trend.dmomo.co.kr/2025/08/taylor-swifts-revolution-unveiling.html) <br/>
+[2025/08/12 - Ohtani's Home Run Show Leads Angels to 7-4 Victory Over Dodgers... MLB West Division Standings Shake-Up](https://ai.trend.dmomo.co.kr/2025/08/ohtanis-home-run-show-leads-angels-to-7.html) <br/>
+[2025/08/12 - Cloud Security Innovations in 2025: How Google CDIR Technology Tackles Multi-Cloud Threats](https://ai.trend.dmomo.co.kr/2025/08/cloud-security-innovations-in-2025-how.html) <br/>
+[2025/08/12 - Trump's Declaration of 'DC Control': Will It Become a New Paradigm in American Politics?](https://ai.trend.dmomo.co.kr/2025/08/trumps-declaration-of-dc-control-will.html) <br/>
+[2025/08/12 - The Politics of Pardoning Jo Guk: The Impacts and Prospects of the 80th Liberation Day Special President's Pardon](https://ai.trend.dmomo.co.kr/2025/08/the-politics-of-pardoning-jo-guk.html) <br/>
