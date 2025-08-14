@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/08/14 - 테일러 스위프트 신보 〈The Life of a Showgirl〉: 12번째 앨범이 미국 음악 산업에 던지는 신호탄](http://dmomo.co.kr/639) <br/>
+[2025/08/13 - [프리시즌 최종전 분석] '김민재 62분 완주' 바이에른 뮌헨, 그라스호퍼에 2-1 승리하며 슈퍼컵 시동](http://dmomo.co.kr/638) <br/>
+[2025/08/13 - 헌정사상 첫 전직 대통령 부부 동시구속! 김건희 여사 구속의 충격과 파장](http://dmomo.co.kr/637) <br/>
 [2025/08/12 - 예스24 2차 '먹통' 사태: 반복되는 해킹 위기, 대책은?](http://dmomo.co.kr/636) <br/>
 [2025/08/12 - 조국 사면의 정치학: 80주년 광복절 특사가 던진 파장과 전망](http://dmomo.co.kr/635) <br/>
 [2025/08/10 - Claude Opus 4.1 혁신과 SWE-bench 74.5% 성능, AI 코딩의 미래는?](http://dmomo.co.kr/634) <br/>
-[2025/08/10 - 프리시즌의 숨겨진 영웅: 스카일러 톰슨, 스틸러스를 위해 '돈을 벌다](http://dmomo.co.kr/633) <br/>
-[2025/08/08 - OpenAI GPT-OSS 공개: 5가지 핵심 의미와 글로벌 AI 생태계의 미래 전망](http://dmomo.co.kr/632) <br/>
-[2025/08/08 - 터시 푸시의 달인, 탠너 맥키: NFL 프리시즌을 뒤흔든 이글스의 숨은 영웅](http://dmomo.co.kr/631) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/13 - [뉴스] “사과하고 싶다”…‘테라사태’ 권도형 美서 사기혐의 유죄 인정](https://blog.ai.dmomo.co.kr/news/7912) <br/>
-[2025/08/13 - [뉴스] 느슨한 천조국 무기고에 긴장감 불어넣은 하와이안 셔츠 맨을 만났다](https://blog.ai.dmomo.co.kr/news/7909) <br/>
-[2025/08/13 - [뉴스] 전품목 5000원 이하…이마트, 초저가 자체브랜드 5K PRICE’ 출시](https://blog.ai.dmomo.co.kr/news/7906) <br/>
-[2025/08/13 - [뉴스] ‘테라사태’ 권도형 美서 사기혐의 유죄 인정…향후 韓이송 가능](https://blog.ai.dmomo.co.kr/news/7903) <br/>
-[2025/08/12 - [뉴스] “ 북한 노동자들, 러시아서 하루 18시간 노예처럼 일한다…1년에 이틀 쉬어”](https://blog.ai.dmomo.co.kr/news/7900) <br/>
-[2025/08/12 - [뉴스] 내일 전국 비 소식…수도권·강원도 등 중부에 집중호우 예상](https://blog.ai.dmomo.co.kr/news/7897) <br/>
+[2025/08/14 - [뉴스] “소니 다저스타디움 시구 감상하세요”…LA다저스 공지에 손흥민이 한말](https://blog.ai.dmomo.co.kr/news/7990) <br/>
+[2025/08/14 - [뉴스] OTT 많지만…만족도 1위 넷플릭스, 이유보니](https://blog.ai.dmomo.co.kr/news/7987) <br/>
+[2025/08/14 - [뉴스] 韓 찾는 세계 3대 악단 제대로 즐기자…아르떼 살롱 하루 만에 조기 마감](https://blog.ai.dmomo.co.kr/news/7984) <br/>
+[2025/08/14 - [뉴스] 트럼프 “푸틴, 회담 뒤 휴전 동의하지 않으면 ‘심각한 후과’ 있을것”](https://blog.ai.dmomo.co.kr/news/7981) <br/>
+[2025/08/13 - [뉴스] “힘 없는 우크라 대접해 줄 리가”…미국·러시아 양자회담 못박은 트럼프](https://blog.ai.dmomo.co.kr/news/7978) <br/>
+[2025/08/13 - [뉴스] 페암 세포만 공격하는 초소형 항체 나왔다…암세포 사멸 극대화](https://blog.ai.dmomo.co.kr/news/7975) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/08/12 - Lotte vs Hanwha: A 360-Degree Analysis of Intense Competition from the Baseball Field to the Industry Front](https://ai.trend.dmomo.co.kr/2025/08/lotte-vs-hanwha-360-degree-analysis-of.html) <br/>
-[2025/08/12 - Taylor Swift's Revolution: Unveiling the Orange Era in 'New Heights' on August 13?](https://ai.trend.dmomo.co.kr/2025/08/taylor-swifts-revolution-unveiling.html) <br/>
-[2025/08/12 - Ohtani's Home Run Show Leads Angels to 7-4 Victory Over Dodgers... MLB West Division Standings Shake-Up](https://ai.trend.dmomo.co.kr/2025/08/ohtanis-home-run-show-leads-angels-to-7.html) <br/>
-[2025/08/12 - Cloud Security Innovations in 2025: How Google CDIR Technology Tackles Multi-Cloud Threats](https://ai.trend.dmomo.co.kr/2025/08/cloud-security-innovations-in-2025-how.html) <br/>
-[2025/08/12 - Trump's Declaration of 'DC Control': Will It Become a New Paradigm in American Politics?](https://ai.trend.dmomo.co.kr/2025/08/trumps-declaration-of-dc-control-will.html) <br/>
-[2025/08/12 - The Politics of Pardoning Jo Guk: The Impacts and Prospects of the 80th Liberation Day Special President's Pardon](https://ai.trend.dmomo.co.kr/2025/08/the-politics-of-pardoning-jo-guk.html) <br/>
+[2025/08/13 - The Truth About Flooding: 5 Shocking Reasons Cities Are Sinking in the Age of Climate Change](https://ai.trend.dmomo.co.kr/2025/08/the-truth-about-flooding-5-shocking.html) <br/>
+[2025/08/13 - 2025 Top Efficiency Appliance Rebate Program: Secrets to Saving on Electricity Bills and How to Get Up to 300,000 Won](https://ai.trend.dmomo.co.kr/2025/08/2025-top-efficiency-appliance-rebate.html) <br/>
+[2025/08/13 - Farewell to an Icon of American TV, Didi: The Passing of Daniel Spencer from 'What's Happening!!'](https://ai.trend.dmomo.co.kr/2025/08/farewell-to-icon-of-american-tv-didi.html) <br/>
+[2025/08/13 - Historic First: Former Presidential Couple Arrested Simultaneously! The Shock and Fallout from Kim Geonhee's Imprisonment](https://ai.trend.dmomo.co.kr/2025/08/historic-first-former-presidential.html) <br/>
+[2025/08/13 - Fujitsu’s 10,000+ Qubit Quantum Computer: What Is the Vision for Practical Use by 2030?](https://ai.trend.dmomo.co.kr/2025/08/fujitsus-10000-qubit-quantum-computer.html) <br/>
+[2025/08/13 - Taylor Swift's New Album The Life of a Showgirl: A Signal to the American Music Industry with Her 12th Release](https://ai.trend.dmomo.co.kr/2025/08/taylor-swifts-new-album-life-of.html) <br/>
