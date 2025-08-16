@@ -88,17 +88,17 @@
 [2025/08/10 - Claude Opus 4.1 혁신과 SWE-bench 74.5% 성능, AI 코딩의 미래는?](https://dmomo.co.kr/634) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/15 - [뉴스] 트럼프 “미·러 회담 잘 되면 우크라까지 3자회담 연달아 열리길 원해”](https://blog.ai.dmomo.co.kr/news/8059) <br/>
-[2025/08/15 - [뉴스] 광복절 전국 구름 많고 곳곳 소나기…낮 최고 35도](https://blog.ai.dmomo.co.kr/news/8056) <br/>
-[2025/08/15 - [뉴스] 트럼프 회담 앞둔 푸틴 “미국과 전략적 공격무기 통제 합의 가능성”](https://blog.ai.dmomo.co.kr/news/8053) <br/>
-[2025/08/14 - [뉴스] 인플레이션 현실로…미국 7월 도매물가 0.9% 급등](https://blog.ai.dmomo.co.kr/news/8050) <br/>
-[2025/08/14 - [뉴스] 알라딘에서 아이돌로 복귀…김준수 큰 목소리 떼창 기대](https://blog.ai.dmomo.co.kr/news/8047) <br/>
-[2025/08/14 - [뉴스] 네이버 연봉킹 한성숙 장관, 퇴직금 40억 포함한 보수 52억 수령](https://blog.ai.dmomo.co.kr/news/8044) <br/>
+[2025/08/16 - [뉴스] 일본 총리는 13년만에 ‘반성’ 언급했는데…차기 주자들은 야스쿠니 참배](https://blog.ai.dmomo.co.kr/news/8116) <br/>
+[2025/08/16 - [뉴스] LCK에 빠진 베트남…시청자 4년새 4배 늘었다](https://blog.ai.dmomo.co.kr/news/8113) <br/>
+[2025/08/16 - [뉴스] 당신은 아버지가 아니라 악마…광기 男 벌인 끔찍한 일](https://blog.ai.dmomo.co.kr/news/8110) <br/>
+[2025/08/15 - [뉴스] “팔 부러졌는데 고통 없이 1500m 완주”…인간 스포츠를 완벽히 재현한 로봇들](https://blog.ai.dmomo.co.kr/news/8107) <br/>
+[2025/08/15 - [뉴스] 러닝하다 병원비 폭탄 맞으면… 레전드 권은주의 고백](https://blog.ai.dmomo.co.kr/news/8104) <br/>
+[2025/08/15 - [뉴스] 챗GPT, 업무할 때 자주 썼는데…직장인 괴로움 호소한 사연](https://blog.ai.dmomo.co.kr/news/8101) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/08/15 - 5 Game-Changing Transformations Brought by IoAI: How AI Agents Will Drive IoT Innovation in 2025](https://ai.trend.dmomo.co.kr/2025/08/5-game-changing-transformations-brought.html) <br/>
+[2025/08/15 - 21-Year-Old Isaiah Bond Secures Opportunity to Join NFL's Cleveland Browns After 3 Years](https://ai.trend.dmomo.co.kr/2025/08/21-year-old-isaiah-bond-secures.html) <br/>
+[2025/08/15 - 80th Anniversary of Liberation: A Meaningful Moment to Reflect on Freedom and Hope in South Korea](https://ai.trend.dmomo.co.kr/2025/08/80th-anniversary-of-liberation.html) <br/>
 [2025/08/14 - Gloria Gaynor's Kennedy Center Honor: The Resurrection and Controversy of the Disco Queen](https://ai.trend.dmomo.co.kr/2025/08/gloria-gaynors-kennedy-center-honor.html) <br/>
 [2025/08/14 - The Strange Phenomenon Known as 'Tentacle Rabbit' in Colorado? The Amazing Truth Revealed by Science](https://ai.trend.dmomo.co.kr/2025/08/the-strange-phenomenon-known-as.html) <br/>
 [2025/08/14 - Software Supply Chain Security Innovations in 2025: The Ultimate Guide to SBOM and SCA Tools](https://ai.trend.dmomo.co.kr/2025/08/software-supply-chain-security.html) <br/>
-[2025/08/14 - UEFA Super Cup 2025 Analysis: PSG Conquers the Super Cup with Dramatic Comeback, Overturning Tottenham's Two-Goal Lead](https://ai.trend.dmomo.co.kr/2025/08/uefa-super-cup-2025-analysis-psg.html) <br/>
-[2025/08/14 - PSG's Dramatic Comeback Victory in the UEFA Super Cup with Lee Kang-in's Winning Goal! Review of the Thrilling Match Against Tottenham](https://ai.trend.dmomo.co.kr/2025/08/psgs-dramatic-comeback-victory-in-uefa.html) <br/>
-[2025/08/13 - The Truth About Flooding: 5 Shocking Reasons Cities Are Sinking in the Age of Climate Change](https://ai.trend.dmomo.co.kr/2025/08/the-truth-about-flooding-5-shocking.html) <br/>
