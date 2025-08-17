@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/08/16 - 리버풀, 4-2 승리로 프리미어리그 개막전 화려한 축포... 본머스 상대로 완벽한 출발](https://dmomo.co.kr/641) <br/>
+[2025/08/16 - 트럼프와 푸틴의 운명적 만남: 알래스카 정상회담의 5가지 중요 포인트](https://dmomo.co.kr/640) <br/>
 [2025/08/14 - 테일러 스위프트 신보 〈The Life of a Showgirl〉: 12번째 앨범이 미국 음악 산업에 던지는 신호탄](https://dmomo.co.kr/639) <br/>
 [2025/08/13 - [프리시즌 최종전 분석] '김민재 62분 완주' 바이에른 뮌헨, 그라스호퍼에 2-1 승리하며 슈퍼컵 시동](https://dmomo.co.kr/638) <br/>
 [2025/08/13 - 헌정사상 첫 전직 대통령 부부 동시구속! 김건희 여사 구속의 충격과 파장](https://dmomo.co.kr/637) <br/>
 [2025/08/12 - 예스24 2차 '먹통' 사태: 반복되는 해킹 위기, 대책은?](https://dmomo.co.kr/636) <br/>
-[2025/08/12 - 조국 사면의 정치학: 80주년 광복절 특사가 던진 파장과 전망](https://dmomo.co.kr/635) <br/>
-[2025/08/10 - Claude Opus 4.1 혁신과 SWE-bench 74.5% 성능, AI 코딩의 미래는?](https://dmomo.co.kr/634) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/16 - [뉴스] 일본 총리는 13년만에 ‘반성’ 언급했는데…차기 주자들은 야스쿠니 참배](https://blog.ai.dmomo.co.kr/news/8116) <br/>
-[2025/08/16 - [뉴스] LCK에 빠진 베트남…시청자 4년새 4배 늘었다](https://blog.ai.dmomo.co.kr/news/8113) <br/>
-[2025/08/16 - [뉴스] 당신은 아버지가 아니라 악마…광기 男 벌인 끔찍한 일](https://blog.ai.dmomo.co.kr/news/8110) <br/>
-[2025/08/15 - [뉴스] “팔 부러졌는데 고통 없이 1500m 완주”…인간 스포츠를 완벽히 재현한 로봇들](https://blog.ai.dmomo.co.kr/news/8107) <br/>
-[2025/08/15 - [뉴스] 러닝하다 병원비 폭탄 맞으면… 레전드 권은주의 고백](https://blog.ai.dmomo.co.kr/news/8104) <br/>
-[2025/08/15 - [뉴스] 챗GPT, 업무할 때 자주 썼는데…직장인 괴로움 호소한 사연](https://blog.ai.dmomo.co.kr/news/8101) <br/>
+[2025/08/17 - 히샬리송 멀티골 쇼! 토트넘, 번리에 3-0 완승…손흥민 없이도 완벽한 개막전](https://blog.ai.dmomo.co.kr/trend/8178) <br/>
+[2025/08/17 - [뉴스] 극우 인플루언서 한마디에…미국 가자지구 주민 비자 중단](https://blog.ai.dmomo.co.kr/news/8173) <br/>
+[2025/08/17 - [뉴스] 아이돌이 왜 거기서 나와?…열정 만수르 뜨자 순식간에 매진](https://blog.ai.dmomo.co.kr/news/8170) <br/>
+[2025/08/17 - 2025 너디너리 페스티벌: IT 인재들의 축제, 어떤 매력이 있을까?](https://blog.ai.dmomo.co.kr/ai/8167) <br/>
+[2025/08/16 - [뉴스] “韓 조선업 아세안 투자 확대하고 있지만…中 지배력 위협하기엔 역부족”](https://blog.ai.dmomo.co.kr/news/8164) <br/>
+[2025/08/16 - [뉴스] 보는 곳 넘어 느끼는 곳…극장의 다음 행선지는](https://blog.ai.dmomo.co.kr/news/8161) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/08/16 - Jeonbuk Hyundai vs Daegu FC: The Fateful 26th Round on the Brink of a New Era in K League 1](https://ai.trend.dmomo.co.kr/2025/08/jeonbuk-hyundai-vs-daegu-fc-fateful.html) <br/>
+[2025/08/16 - Shock! Tristan Rogers, who maintained 'General Hospital' for 45 years, passes away at 79.](https://ai.trend.dmomo.co.kr/2025/08/shock-tristan-rogers-who-maintained.html) <br/>
+[2025/08/16 - 2025 Cutting-Edge RAG Technology Analysis: Exclusive Comparison of Spring AI Chatbot and MCP Innovations](https://ai.trend.dmomo.co.kr/2025/08/2025-cutting-edge-rag-technology.html) <br/>
+[2025/08/16 - Liverpool's Stunning Start: 4-2 Victory in Premier League Opener Against Bournemouth](https://ai.trend.dmomo.co.kr/2025/08/liverpools-stunning-start-4-2-victory.html) <br/>
+[2025/08/16 - Destined Encounter of Trump and Putin: 5 Key Points from the Alaska Summit](https://ai.trend.dmomo.co.kr/2025/08/destined-encounter-of-trump-and-putin-5.html) <br/>
 [2025/08/15 - 5 Game-Changing Transformations Brought by IoAI: How AI Agents Will Drive IoT Innovation in 2025](https://ai.trend.dmomo.co.kr/2025/08/5-game-changing-transformations-brought.html) <br/>
-[2025/08/15 - 21-Year-Old Isaiah Bond Secures Opportunity to Join NFL's Cleveland Browns After 3 Years](https://ai.trend.dmomo.co.kr/2025/08/21-year-old-isaiah-bond-secures.html) <br/>
-[2025/08/15 - 80th Anniversary of Liberation: A Meaningful Moment to Reflect on Freedom and Hope in South Korea](https://ai.trend.dmomo.co.kr/2025/08/80th-anniversary-of-liberation.html) <br/>
-[2025/08/14 - Gloria Gaynor's Kennedy Center Honor: The Resurrection and Controversy of the Disco Queen](https://ai.trend.dmomo.co.kr/2025/08/gloria-gaynors-kennedy-center-honor.html) <br/>
-[2025/08/14 - The Strange Phenomenon Known as 'Tentacle Rabbit' in Colorado? The Amazing Truth Revealed by Science](https://ai.trend.dmomo.co.kr/2025/08/the-strange-phenomenon-known-as.html) <br/>
-[2025/08/14 - Software Supply Chain Security Innovations in 2025: The Ultimate Guide to SBOM and SCA Tools](https://ai.trend.dmomo.co.kr/2025/08/software-supply-chain-security.html) <br/>
