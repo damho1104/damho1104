@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/16 - 리버풀, 4-2 승리로 프리미어리그 개막전 화려한 축포... 본머스 상대로 완벽한 출발](https://dmomo.co.kr/641) <br/>
-[2025/08/16 - 트럼프와 푸틴의 운명적 만남: 알래스카 정상회담의 5가지 중요 포인트](https://dmomo.co.kr/640) <br/>
-[2025/08/14 - 테일러 스위프트 신보 〈The Life of a Showgirl〉: 12번째 앨범이 미국 음악 산업에 던지는 신호탄](https://dmomo.co.kr/639) <br/>
-[2025/08/13 - [프리시즌 최종전 분석] '김민재 62분 완주' 바이에른 뮌헨, 그라스호퍼에 2-1 승리하며 슈퍼컵 시동](https://dmomo.co.kr/638) <br/>
-[2025/08/13 - 헌정사상 첫 전직 대통령 부부 동시구속! 김건희 여사 구속의 충격과 파장](https://dmomo.co.kr/637) <br/>
-[2025/08/12 - 예스24 2차 '먹통' 사태: 반복되는 해킹 위기, 대책은?](https://dmomo.co.kr/636) <br/>
+[2025/08/18 - [2025.08] 스위스 출장 겸 여행 Day 1](https://dmomo.co.kr/648) <br/>
+[2025/08/18 - 광복 80주년: 대한민국의 자유와 희망을 되새기는 뜻깊은 순간](https://dmomo.co.kr/647) <br/>
+[2025/08/18 - 2025년 최신 RAG 기술 분석: Spring AI 챗봇과 MCP 혁신 비교 대공개](https://dmomo.co.kr/646) <br/>
+[2025/08/18 - 2025년 MLOps 혁신 기술 토스 Feature Store &amp; Trainkit의 비밀 5가지](https://dmomo.co.kr/645) <br/>
+[2025/08/17 - 숨막히는 결승전: 바이에른, 슈투트가르트 꺾고 2025 독일 슈퍼컵 제패](https://dmomo.co.kr/644) <br/>
+[2025/08/17 - UFC 팬들을 위한 황금기: 샌프란시스코에서 즐기는 5가지 특별한 경험](https://dmomo.co.kr/643) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/17 - 히샬리송 멀티골 쇼! 토트넘, 번리에 3-0 완승…손흥민 없이도 완벽한 개막전](https://blog.ai.dmomo.co.kr/trend/8178) <br/>
-[2025/08/17 - [뉴스] 극우 인플루언서 한마디에…미국 가자지구 주민 비자 중단](https://blog.ai.dmomo.co.kr/news/8173) <br/>
-[2025/08/17 - [뉴스] 아이돌이 왜 거기서 나와?…열정 만수르 뜨자 순식간에 매진](https://blog.ai.dmomo.co.kr/news/8170) <br/>
-[2025/08/17 - 2025 너디너리 페스티벌: IT 인재들의 축제, 어떤 매력이 있을까?](https://blog.ai.dmomo.co.kr/ai/8167) <br/>
-[2025/08/16 - [뉴스] “韓 조선업 아세안 투자 확대하고 있지만…中 지배력 위협하기엔 역부족”](https://blog.ai.dmomo.co.kr/news/8164) <br/>
-[2025/08/16 - [뉴스] 보는 곳 넘어 느끼는 곳…극장의 다음 행선지는](https://blog.ai.dmomo.co.kr/news/8161) <br/>
+[2025/08/18 - [뉴스] 트럼프 ‘비선 실세’로 떴다…SNS 한줄로 가자난민 비자 중단시킨 32세 극우 활동가](https://blog.ai.dmomo.co.kr/news/8235) <br/>
+[2025/08/17 - [뉴스] 韓-인도 외교장관 회담…“특별 전략적 동반자 관계 더욱 강화”](https://blog.ai.dmomo.co.kr/news/8228) <br/>
+[2025/08/17 - [뉴스] 폐장 앞두고 북적…강원 동해안 해수욕장 839만명 방문](https://blog.ai.dmomo.co.kr/news/8225) <br/>
+[2025/08/17 - 숨막히는 결승전: 바이에른, 슈투트가르트 꺾고 2025 독일 슈퍼컵 제패](https://blog.ai.dmomo.co.kr/trend/8221) <br/>
+[2025/08/17 - [뉴스] 상반기 1조 순익 … IMA로 모험자본 확대](https://blog.ai.dmomo.co.kr/news/8218) <br/>
+[2025/08/17 - [뉴스] 4050 고인물 천국 된 판교…20대 초짜 신입이 사라진 이유](https://blog.ai.dmomo.co.kr/news/8212) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/08/17 - Breathtaking Final: Bayern Triumphs Over Stuttgart to Claim the 2025 German Supercup](https://ai.trend.dmomo.co.kr/2025/08/breathtaking-final-bayern-triumphs-over.html) <br/>
+[2025/08/17 - Golden Era for UFC Fans: 5 Unique Experiences in San Francisco](https://ai.trend.dmomo.co.kr/2025/08/golden-era-for-ufc-fans-5-unique.html) <br/>
+[2025/08/17 - 5 Secrets Behind Toss Feature Store & Trainkit: The 2025 MLOps Innovation Technologies](https://ai.trend.dmomo.co.kr/2025/08/5-secrets-behind-toss-feature-store.html) <br/>
+[2025/08/17 - Raiders vs 49ers: A Preseason Clash - Differences in Team Culture and NFL 2025 Outlook?](https://ai.trend.dmomo.co.kr/2025/08/raiders-vs-49ers-preseason-clash.html) <br/>
+[2025/08/17 - Richarlison's Multi-Goal Show! Tottenham's Perfect Opening Match with a 3-0 Victory Over Burnley Without Son Heung-min](https://ai.trend.dmomo.co.kr/2025/08/richarlisons-multi-goal-show-tottenhams.html) <br/>
 [2025/08/16 - Jeonbuk Hyundai vs Daegu FC: The Fateful 26th Round on the Brink of a New Era in K League 1](https://ai.trend.dmomo.co.kr/2025/08/jeonbuk-hyundai-vs-daegu-fc-fateful.html) <br/>
-[2025/08/16 - Shock! Tristan Rogers, who maintained 'General Hospital' for 45 years, passes away at 79.](https://ai.trend.dmomo.co.kr/2025/08/shock-tristan-rogers-who-maintained.html) <br/>
-[2025/08/16 - 2025 Cutting-Edge RAG Technology Analysis: Exclusive Comparison of Spring AI Chatbot and MCP Innovations](https://ai.trend.dmomo.co.kr/2025/08/2025-cutting-edge-rag-technology.html) <br/>
-[2025/08/16 - Liverpool's Stunning Start: 4-2 Victory in Premier League Opener Against Bournemouth](https://ai.trend.dmomo.co.kr/2025/08/liverpools-stunning-start-4-2-victory.html) <br/>
-[2025/08/16 - Destined Encounter of Trump and Putin: 5 Key Points from the Alaska Summit](https://ai.trend.dmomo.co.kr/2025/08/destined-encounter-of-trump-and-putin-5.html) <br/>
-[2025/08/15 - 5 Game-Changing Transformations Brought by IoAI: How AI Agents Will Drive IoT Innovation in 2025](https://ai.trend.dmomo.co.kr/2025/08/5-game-changing-transformations-brought.html) <br/>
