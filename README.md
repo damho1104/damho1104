@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/08/18 - 할리우드의 전설 테렌스 스탬프, 87세로 별세: 7십년 연기 인생의 끝](https://dmomo.co.kr/650) <br/>
+[2025/08/18 - 충격! 김종국 결혼 발표, 30년 노총각의 새 인생 - 신혼집부터 2세 계획까지](https://dmomo.co.kr/649) <br/>
 [2025/08/18 - [2025.08] 스위스 출장 겸 여행 Day 1](https://dmomo.co.kr/648) <br/>
 [2025/08/18 - 광복 80주년: 대한민국의 자유와 희망을 되새기는 뜻깊은 순간](https://dmomo.co.kr/647) <br/>
 [2025/08/18 - 2025년 최신 RAG 기술 분석: Spring AI 챗봇과 MCP 혁신 비교 대공개](https://dmomo.co.kr/646) <br/>
 [2025/08/18 - 2025년 MLOps 혁신 기술 토스 Feature Store &amp; Trainkit의 비밀 5가지](https://dmomo.co.kr/645) <br/>
-[2025/08/17 - 숨막히는 결승전: 바이에른, 슈투트가르트 꺾고 2025 독일 슈퍼컵 제패](https://dmomo.co.kr/644) <br/>
-[2025/08/17 - UFC 팬들을 위한 황금기: 샌프란시스코에서 즐기는 5가지 특별한 경험](https://dmomo.co.kr/643) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/18 - [뉴스] 트럼프 ‘비선 실세’로 떴다…SNS 한줄로 가자난민 비자 중단시킨 32세 극우 활동가](https://blog.ai.dmomo.co.kr/news/8235) <br/>
-[2025/08/17 - [뉴스] 韓-인도 외교장관 회담…“특별 전략적 동반자 관계 더욱 강화”](https://blog.ai.dmomo.co.kr/news/8228) <br/>
-[2025/08/17 - [뉴스] 폐장 앞두고 북적…강원 동해안 해수욕장 839만명 방문](https://blog.ai.dmomo.co.kr/news/8225) <br/>
-[2025/08/17 - 숨막히는 결승전: 바이에른, 슈투트가르트 꺾고 2025 독일 슈퍼컵 제패](https://blog.ai.dmomo.co.kr/trend/8221) <br/>
-[2025/08/17 - [뉴스] 상반기 1조 순익 … IMA로 모험자본 확대](https://blog.ai.dmomo.co.kr/news/8218) <br/>
-[2025/08/17 - [뉴스] 4050 고인물 천국 된 판교…20대 초짜 신입이 사라진 이유](https://blog.ai.dmomo.co.kr/news/8212) <br/>
+[2025/08/19 - [뉴스] “내 마이크 써도 돼” “대화 정말로 좋았어”…6개월 전과 달랐던 트럼프·젤렌스키 회담](https://blog.ai.dmomo.co.kr/news/8298) <br/>
+[2025/08/19 - [뉴스] 메타에 인재 뺏길라…오픈AI, 직원 지분 8조원 현금화 검토](https://blog.ai.dmomo.co.kr/news/8295) <br/>
+[2025/08/19 - [뉴스] 칸막이 놓고 혼자 고기 구워요…혼밥 눈치 안보는 1인 식당 뜬다](https://blog.ai.dmomo.co.kr/news/8292) <br/>
+[2025/08/18 - [뉴스] 말다툼하다 흉기로 남편 살해하더니…20대 아내가 한 짓, 베트남 발칵](https://blog.ai.dmomo.co.kr/news/8289) <br/>
+[2025/08/18 - [뉴스] 유방암 항암치료 후 치매 걱정 뚝!…발병 위험 오히려 낮아](https://blog.ai.dmomo.co.kr/news/8286) <br/>
+[2025/08/18 - [뉴스] ① 상승 피로 ② 정책 실망 ③ 실적 부진 … 힘 빠지는 코스피](https://blog.ai.dmomo.co.kr/news/8283) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/08/18 - Shocking! Kim Jong-kook Announces Marriage, A 30-Year-Old Bachelor Begins a New Life - From Newlywed Home to Plans for a Second Child](https://ai.trend.dmomo.co.kr/2025/08/shocking-kim-jong-kook-announces.html) <br/>
+[2025/08/18 - The Future and Innovation Strategy of Edge AI Transformed by the 2025 Launch of Microsoft Edge Copilot](https://ai.trend.dmomo.co.kr/2025/08/the-future-and-innovation-strategy-of.html) <br/>
+[2025/08/18 - PSG vs Nantes: Analysis of the Ligue 1 Opening Derby Highlighting Korean Players' Performances](https://ai.trend.dmomo.co.kr/2025/08/psg-vs-nantes-analysis-of-ligue-1.html) <br/>
+[2025/08/18 - Hollywood Legend Terence Stamp Passes Away at 87: The End of a 70-Year Acting Career](https://ai.trend.dmomo.co.kr/2025/08/hollywood-legend-terence-stamp-passes.html) <br/>
 [2025/08/17 - Breathtaking Final: Bayern Triumphs Over Stuttgart to Claim the 2025 German Supercup](https://ai.trend.dmomo.co.kr/2025/08/breathtaking-final-bayern-triumphs-over.html) <br/>
 [2025/08/17 - Golden Era for UFC Fans: 5 Unique Experiences in San Francisco](https://ai.trend.dmomo.co.kr/2025/08/golden-era-for-ufc-fans-5-unique.html) <br/>
-[2025/08/17 - 5 Secrets Behind Toss Feature Store & Trainkit: The 2025 MLOps Innovation Technologies](https://ai.trend.dmomo.co.kr/2025/08/5-secrets-behind-toss-feature-store.html) <br/>
-[2025/08/17 - Raiders vs 49ers: A Preseason Clash - Differences in Team Culture and NFL 2025 Outlook?](https://ai.trend.dmomo.co.kr/2025/08/raiders-vs-49ers-preseason-clash.html) <br/>
-[2025/08/17 - Richarlison's Multi-Goal Show! Tottenham's Perfect Opening Match with a 3-0 Victory Over Burnley Without Son Heung-min](https://ai.trend.dmomo.co.kr/2025/08/richarlisons-multi-goal-show-tottenhams.html) <br/>
-[2025/08/16 - Jeonbuk Hyundai vs Daegu FC: The Fateful 26th Round on the Brink of a New Era in K League 1](https://ai.trend.dmomo.co.kr/2025/08/jeonbuk-hyundai-vs-daegu-fc-fateful.html) <br/>
