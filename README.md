@@ -88,17 +88,17 @@
 [2025/08/18 - 2025년 MLOps 혁신 기술 토스 Feature Store &amp; Trainkit의 비밀 5가지](https://dmomo.co.kr/645) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/19 - [뉴스] “내 마이크 써도 돼” “대화 정말로 좋았어”…6개월 전과 달랐던 트럼프·젤렌스키 회담](https://blog.ai.dmomo.co.kr/news/8298) <br/>
-[2025/08/19 - [뉴스] 메타에 인재 뺏길라…오픈AI, 직원 지분 8조원 현금화 검토](https://blog.ai.dmomo.co.kr/news/8295) <br/>
-[2025/08/19 - [뉴스] 칸막이 놓고 혼자 고기 구워요…혼밥 눈치 안보는 1인 식당 뜬다](https://blog.ai.dmomo.co.kr/news/8292) <br/>
-[2025/08/18 - [뉴스] 말다툼하다 흉기로 남편 살해하더니…20대 아내가 한 짓, 베트남 발칵](https://blog.ai.dmomo.co.kr/news/8289) <br/>
-[2025/08/18 - [뉴스] 유방암 항암치료 후 치매 걱정 뚝!…발병 위험 오히려 낮아](https://blog.ai.dmomo.co.kr/news/8286) <br/>
-[2025/08/18 - [뉴스] ① 상승 피로 ② 정책 실망 ③ 실적 부진 … 힘 빠지는 코스피](https://blog.ai.dmomo.co.kr/news/8283) <br/>
+[2025/08/20 - [뉴스] “팬이 알려줘서 오디션 봤다”…스페인 영화 첫 주연, 한국인 배우의 정체](https://blog.ai.dmomo.co.kr/news/8364) <br/>
+[2025/08/20 - [뉴스] 한화생명과 T1, LCK 2위 가를 운명의 5R 시작된다](https://blog.ai.dmomo.co.kr/news/8361) <br/>
+[2025/08/20 - [뉴스] 레깅스 입는 건 아줌마…Z세대 외면, 유행 끝났다](https://blog.ai.dmomo.co.kr/news/8358) <br/>
+[2025/08/19 - [뉴스] ‘우크라 방위망’ 일본·호주도 힘 보태나…미국, 아태 포함시켜 억지력 강화한다](https://blog.ai.dmomo.co.kr/news/8355) <br/>
+[2025/08/19 - [뉴스] 식사 전 양치가 더 효과적…잘못 알고 있는 양치 순서](https://blog.ai.dmomo.co.kr/news/8352) <br/>
+[2025/08/19 - 두산 vs 한화: 기업과 야구장에서 펼쳐지는 흥미진진한 라이벌 대결](https://blog.ai.dmomo.co.kr/trend/8349) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/08/18 - Shocking! Kim Jong-kook Announces Marriage, A 30-Year-Old Bachelor Begins a New Life - From Newlywed Home to Plans for a Second Child](https://ai.trend.dmomo.co.kr/2025/08/shocking-kim-jong-kook-announces.html) <br/>
-[2025/08/18 - The Future and Innovation Strategy of Edge AI Transformed by the 2025 Launch of Microsoft Edge Copilot](https://ai.trend.dmomo.co.kr/2025/08/the-future-and-innovation-strategy-of.html) <br/>
-[2025/08/18 - PSG vs Nantes: Analysis of the Ligue 1 Opening Derby Highlighting Korean Players' Performances](https://ai.trend.dmomo.co.kr/2025/08/psg-vs-nantes-analysis-of-ligue-1.html) <br/>
-[2025/08/18 - Hollywood Legend Terence Stamp Passes Away at 87: The End of a 70-Year Acting Career](https://ai.trend.dmomo.co.kr/2025/08/hollywood-legend-terence-stamp-passes.html) <br/>
-[2025/08/17 - Breathtaking Final: Bayern Triumphs Over Stuttgart to Claim the 2025 German Supercup](https://ai.trend.dmomo.co.kr/2025/08/breathtaking-final-bayern-triumphs-over.html) <br/>
-[2025/08/17 - Golden Era for UFC Fans: 5 Unique Experiences in San Francisco](https://ai.trend.dmomo.co.kr/2025/08/golden-era-for-ufc-fans-5-unique.html) <br/>
+[2025/08/19 - Doosan vs Hanwha: An Exciting Rivalry Unfolding Between Corporations and Baseball Fields](https://ai.trend.dmomo.co.kr/2025/08/doosan-vs-hanwha-exciting-rivalry.html) <br/>
+[2025/08/19 - Dominant Victory! Bengals vs Commanders Preseason Showdown, NFL 2025 Key Highlights](https://ai.trend.dmomo.co.kr/2025/08/dominant-victory-bengals-vs-commanders.html) <br/>
+[2025/08/19 - The Magic of Canva: Transform into a Design Expert with Over 2 Million Templates!](https://ai.trend.dmomo.co.kr/2025/08/the-magic-of-canva-transform-into.html) <br/>
+[2025/08/19 - 2025 Breakthroughs in RAG Technology: The Future of Agentic RAG and Organizational Intelligence Feedback Systems](https://ai.trend.dmomo.co.kr/2025/08/2025-breakthroughs-in-rag-technology.html) <br/>
+[2025/08/19 - 2025 MLB Upset: Brewers Achieve 95% Championship Probability Against Cubs](https://ai.trend.dmomo.co.kr/2025/08/2025-mlb-upset-brewers-achieve-95.html) <br/>
+[2025/08/19 - Shocking! Kim Jong-kook Marries at 49, Reveals 6.2 Billion Won Newlywed Home and Private Ceremony Details](https://ai.trend.dmomo.co.kr/2025/08/shocking-kim-jong-kook-marries-at-49.html) <br/>
