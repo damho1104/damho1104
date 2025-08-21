@@ -88,17 +88,17 @@
 [2025/08/18 - 2025년 MLOps 혁신 기술 토스 Feature Store &amp; Trainkit의 비밀 5가지](https://dmomo.co.kr/645) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/20 - [뉴스] “팬이 알려줘서 오디션 봤다”…스페인 영화 첫 주연, 한국인 배우의 정체](https://blog.ai.dmomo.co.kr/news/8364) <br/>
-[2025/08/20 - [뉴스] 한화생명과 T1, LCK 2위 가를 운명의 5R 시작된다](https://blog.ai.dmomo.co.kr/news/8361) <br/>
-[2025/08/20 - [뉴스] 레깅스 입는 건 아줌마…Z세대 외면, 유행 끝났다](https://blog.ai.dmomo.co.kr/news/8358) <br/>
-[2025/08/19 - [뉴스] ‘우크라 방위망’ 일본·호주도 힘 보태나…미국, 아태 포함시켜 억지력 강화한다](https://blog.ai.dmomo.co.kr/news/8355) <br/>
-[2025/08/19 - [뉴스] 식사 전 양치가 더 효과적…잘못 알고 있는 양치 순서](https://blog.ai.dmomo.co.kr/news/8352) <br/>
-[2025/08/19 - 두산 vs 한화: 기업과 야구장에서 펼쳐지는 흥미진진한 라이벌 대결](https://blog.ai.dmomo.co.kr/trend/8349) <br/>
+[2025/08/21 - [뉴스] 파월 이어 쿡까지…‘금리인하’ 트럼프, 연준 접수 나서나](https://blog.ai.dmomo.co.kr/news/8430) <br/>
+[2025/08/21 - [뉴스] 엔비디아 대항마 리벨리온, 빅 칩으로 AI 전쟁 참전](https://blog.ai.dmomo.co.kr/news/8427) <br/>
+[2025/08/20 - [뉴스] 미 “우크라 공중 지원 검토…한국식 완충지대도 논의”](https://blog.ai.dmomo.co.kr/news/8424) <br/>
+[2025/08/20 - [뉴스] 피아노 연주에 가구 전시 더하면? 18세기 살롱 재현”](https://blog.ai.dmomo.co.kr/news/8421) <br/>
+[2025/08/20 - [뉴스] 국방 소버린 AI 구축하려면 군·민간 정보 교류 활발해져야](https://blog.ai.dmomo.co.kr/news/8418) <br/>
+[2025/08/20 - 전북 vs 강원: 두 지역의 숨은 매력과 특색 비교 분석](https://blog.ai.dmomo.co.kr/trend/8415) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/08/20 - Jeonbuk vs Gangwon: A Comparative Analysis of Hidden Charms and Unique Features of Two Regions](https://ai.trend.dmomo.co.kr/2025/08/jeonbuk-vs-gangwon-comparative-analysis.html) <br/>
+[2025/08/20 - Hidden Treasures of San Francisco: The World of Latin Music Dominated by Clave Rhythms](https://ai.trend.dmomo.co.kr/2025/08/hidden-treasures-of-san-francisco-world.html) <br/>
+[2025/08/20 - The Core of 2025 IoT Innovation: What is AI-Powered Autonomous Interaction (IoAI)?](https://ai.trend.dmomo.co.kr/2025/08/the-core-of-2025-iot-innovation-what-is.html) <br/>
+[2025/08/20 - Aubrey Plaza: 'Every Day is a Struggle' - Sharing Her Journey of Overcoming Grief Seven Months After Husband's Death](https://ai.trend.dmomo.co.kr/2025/08/aubrey-plaza-every-day-is-struggle.html) <br/>
+[2025/08/20 - Victory in Season Opener with Mbappe's Winning Penalty! Real Madrid 1-0 Osasuna](https://ai.trend.dmomo.co.kr/2025/08/victory-in-season-opener-with-mbappes.html) <br/>
 [2025/08/19 - Doosan vs Hanwha: An Exciting Rivalry Unfolding Between Corporations and Baseball Fields](https://ai.trend.dmomo.co.kr/2025/08/doosan-vs-hanwha-exciting-rivalry.html) <br/>
-[2025/08/19 - Dominant Victory! Bengals vs Commanders Preseason Showdown, NFL 2025 Key Highlights](https://ai.trend.dmomo.co.kr/2025/08/dominant-victory-bengals-vs-commanders.html) <br/>
-[2025/08/19 - The Magic of Canva: Transform into a Design Expert with Over 2 Million Templates!](https://ai.trend.dmomo.co.kr/2025/08/the-magic-of-canva-transform-into.html) <br/>
-[2025/08/19 - 2025 Breakthroughs in RAG Technology: The Future of Agentic RAG and Organizational Intelligence Feedback Systems](https://ai.trend.dmomo.co.kr/2025/08/2025-breakthroughs-in-rag-technology.html) <br/>
-[2025/08/19 - 2025 MLB Upset: Brewers Achieve 95% Championship Probability Against Cubs](https://ai.trend.dmomo.co.kr/2025/08/2025-mlb-upset-brewers-achieve-95.html) <br/>
-[2025/08/19 - Shocking! Kim Jong-kook Marries at 49, Reveals 6.2 Billion Won Newlywed Home and Private Ceremony Details](https://ai.trend.dmomo.co.kr/2025/08/shocking-kim-jong-kook-marries-at-49.html) <br/>
