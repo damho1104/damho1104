@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/18 - 할리우드의 전설 테렌스 스탬프, 87세로 별세: 7십년 연기 인생의 끝](https://dmomo.co.kr/650) <br/>
-[2025/08/18 - 충격! 김종국 결혼 발표, 30년 노총각의 새 인생 - 신혼집부터 2세 계획까지](https://dmomo.co.kr/649) <br/>
-[2025/08/18 - [2025.08] 스위스 출장 겸 여행 Day 1](https://dmomo.co.kr/648) <br/>
-[2025/08/18 - 광복 80주년: 대한민국의 자유와 희망을 되새기는 뜻깊은 순간](https://dmomo.co.kr/647) <br/>
-[2025/08/18 - 2025년 최신 RAG 기술 분석: Spring AI 챗봇과 MCP 혁신 비교 대공개](https://dmomo.co.kr/646) <br/>
-[2025/08/18 - 2025년 MLOps 혁신 기술 토스 Feature Store &amp; Trainkit의 비밀 5가지](https://dmomo.co.kr/645) <br/>
+[2025/08/22 - 2025년 IoT 혁신의 핵심, AI 자율 상호작용 IoAI란 무엇일까?](http://dmomo.co.kr/656) <br/>
+[2025/08/21 - 샌프란시스코 음악 신(Scene)의 숨은 주인공, 'Claves'의 매력과 현대적 재해석](http://dmomo.co.kr/655) <br/>
+[2025/08/21 - 메시 없이 돌파한 Inter Miami, 수아레스 2골로 Leagues Cup 준결승 진출](http://dmomo.co.kr/654) <br/>
+[2025/08/21 - 캔바의 마법: 200만+ 템플릿으로 당신도 디자인 전문가로 변신!](http://dmomo.co.kr/653) <br/>
+[2025/08/21 - 충격! 에제의 전격 아스널행, 토트넘은 어떻게 놓쳤나?](http://dmomo.co.kr/652) <br/>
+[2025/08/21 - 황정음 43억 횡령 사건의 충격적 진실: 3년 구형의 배경과 전망](http://dmomo.co.kr/651) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/21 - [뉴스] 파월 이어 쿡까지…‘금리인하’ 트럼프, 연준 접수 나서나](https://blog.ai.dmomo.co.kr/news/8430) <br/>
-[2025/08/21 - [뉴스] 엔비디아 대항마 리벨리온, 빅 칩으로 AI 전쟁 참전](https://blog.ai.dmomo.co.kr/news/8427) <br/>
-[2025/08/20 - [뉴스] 미 “우크라 공중 지원 검토…한국식 완충지대도 논의”](https://blog.ai.dmomo.co.kr/news/8424) <br/>
-[2025/08/20 - [뉴스] 피아노 연주에 가구 전시 더하면? 18세기 살롱 재현”](https://blog.ai.dmomo.co.kr/news/8421) <br/>
-[2025/08/20 - [뉴스] 국방 소버린 AI 구축하려면 군·민간 정보 교류 활발해져야](https://blog.ai.dmomo.co.kr/news/8418) <br/>
-[2025/08/20 - 전북 vs 강원: 두 지역의 숨은 매력과 특색 비교 분석](https://blog.ai.dmomo.co.kr/trend/8415) <br/>
+[2025/08/22 - [뉴스] “우리 문화 무시했다”…중국팬 발끈한 이동욱 과거 발언 ‘재조명’, 뭐라했길래](https://blog.ai.dmomo.co.kr/news/8499) <br/>
+[2025/08/22 - [뉴스] 가격 앞에 장사 없네…구형이면 어때 아이폰 사러 몰린다](https://blog.ai.dmomo.co.kr/news/8496) <br/>
+[2025/08/22 - [뉴스] 전국 35도 안팎 찜통더위…남부 곳곳 소나기](https://blog.ai.dmomo.co.kr/news/8493) <br/>
+[2025/08/21 - [뉴스] “폐기하기 아까워 소비기한 라벨 바꿔 붙였다” 자백…일본 미니스톱 발칵](https://blog.ai.dmomo.co.kr/news/8490) <br/>
+[2025/08/21 - [뉴스] 설탕 2주 끊었더니 얼굴형이 달라졌다 하버드 출신 의사의 조언](https://blog.ai.dmomo.co.kr/news/8487) <br/>
+[2025/08/21 - [뉴스] 정밀지도 반출 압박 속…최수연 네이버 대표 한미경제사절단 합류](https://blog.ai.dmomo.co.kr/news/8484) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/08/20 - Jeonbuk vs Gangwon: A Comparative Analysis of Hidden Charms and Unique Features of Two Regions](https://ai.trend.dmomo.co.kr/2025/08/jeonbuk-vs-gangwon-comparative-analysis.html) <br/>
-[2025/08/20 - Hidden Treasures of San Francisco: The World of Latin Music Dominated by Clave Rhythms](https://ai.trend.dmomo.co.kr/2025/08/hidden-treasures-of-san-francisco-world.html) <br/>
-[2025/08/20 - The Core of 2025 IoT Innovation: What is AI-Powered Autonomous Interaction (IoAI)?](https://ai.trend.dmomo.co.kr/2025/08/the-core-of-2025-iot-innovation-what-is.html) <br/>
-[2025/08/20 - Aubrey Plaza: 'Every Day is a Struggle' - Sharing Her Journey of Overcoming Grief Seven Months After Husband's Death](https://ai.trend.dmomo.co.kr/2025/08/aubrey-plaza-every-day-is-struggle.html) <br/>
-[2025/08/20 - Victory in Season Opener with Mbappe's Winning Penalty! Real Madrid 1-0 Osasuna](https://ai.trend.dmomo.co.kr/2025/08/victory-in-season-opener-with-mbappes.html) <br/>
-[2025/08/19 - Doosan vs Hanwha: An Exciting Rivalry Unfolding Between Corporations and Baseball Fields](https://ai.trend.dmomo.co.kr/2025/08/doosan-vs-hanwha-exciting-rivalry.html) <br/>
+[2025/08/21 - The Shocking Truth Behind Hwang Jung-eum's 4.3 Billion Won Embezzlement Case: Background and Outlook on the 3-Year Sentence](https://ai.trend.dmomo.co.kr/2025/08/the-shocking-truth-behind-hwang-jung.html) <br/>
+[2025/08/21 - Inter Miami Advances to Leagues Cup Semifinals with Two Goals from Suarez, Without Messi](https://ai.trend.dmomo.co.kr/2025/08/inter-miami-advances-to-leagues-cup.html) <br/>
+[2025/08/21 - Shock! How Did Tottenham Miss Out on Ejé's Sudden Move to Arsenal?](https://ai.trend.dmomo.co.kr/2025/08/shock-how-did-tottenham-miss-out-on.html) <br/>
+[2025/08/21 - 2025 Key Trends: Why Container-Based Serverless Is Gaining Attention](https://ai.trend.dmomo.co.kr/2025/08/2025-key-trends-why-container-based.html) <br/>
+[2025/08/21 - The Hidden Hero of the San Francisco Music Scene: The Charm and Modern Reinterpretation of 'Claves'](https://ai.trend.dmomo.co.kr/2025/08/the-hidden-hero-of-san-francisco-music.html) <br/>
+[2025/08/21 - Jeonbuk vs Gangwon: From the Korea Cup Draw to Special Self-Governing Provinces, the Heated Competition Between Two Regions](https://ai.trend.dmomo.co.kr/2025/08/jeonbuk-vs-gangwon-from-korea-cup-draw.html) <br/>
