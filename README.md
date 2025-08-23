@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/22 - 2025년 IoT 혁신의 핵심, AI 자율 상호작용 IoAI란 무엇일까?](http://dmomo.co.kr/656) <br/>
-[2025/08/21 - 샌프란시스코 음악 신(Scene)의 숨은 주인공, 'Claves'의 매력과 현대적 재해석](http://dmomo.co.kr/655) <br/>
-[2025/08/21 - 메시 없이 돌파한 Inter Miami, 수아레스 2골로 Leagues Cup 준결승 진출](http://dmomo.co.kr/654) <br/>
-[2025/08/21 - 캔바의 마법: 200만+ 템플릿으로 당신도 디자인 전문가로 변신!](http://dmomo.co.kr/653) <br/>
-[2025/08/21 - 충격! 에제의 전격 아스널행, 토트넘은 어떻게 놓쳤나?](http://dmomo.co.kr/652) <br/>
-[2025/08/21 - 황정음 43억 횡령 사건의 충격적 진실: 3년 구형의 배경과 전망](http://dmomo.co.kr/651) <br/>
+[2025/08/22 - 2025년 IoT 혁신의 핵심, AI 자율 상호작용 IoAI란 무엇일까?](https://dmomo.co.kr/656) <br/>
+[2025/08/21 - 샌프란시스코 음악 신(Scene)의 숨은 주인공, 'Claves'의 매력과 현대적 재해석](https://dmomo.co.kr/655) <br/>
+[2025/08/21 - 메시 없이 돌파한 Inter Miami, 수아레스 2골로 Leagues Cup 준결승 진출](https://dmomo.co.kr/654) <br/>
+[2025/08/21 - 캔바의 마법: 200만+ 템플릿으로 당신도 디자인 전문가로 변신!](https://dmomo.co.kr/653) <br/>
+[2025/08/21 - 충격! 에제의 전격 아스널행, 토트넘은 어떻게 놓쳤나?](https://dmomo.co.kr/652) <br/>
+[2025/08/21 - 황정음 43억 횡령 사건의 충격적 진실: 3년 구형의 배경과 전망](https://dmomo.co.kr/651) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/22 - [뉴스] “우리 문화 무시했다”…중국팬 발끈한 이동욱 과거 발언 ‘재조명’, 뭐라했길래](https://blog.ai.dmomo.co.kr/news/8499) <br/>
-[2025/08/22 - [뉴스] 가격 앞에 장사 없네…구형이면 어때 아이폰 사러 몰린다](https://blog.ai.dmomo.co.kr/news/8496) <br/>
-[2025/08/22 - [뉴스] 전국 35도 안팎 찜통더위…남부 곳곳 소나기](https://blog.ai.dmomo.co.kr/news/8493) <br/>
-[2025/08/21 - [뉴스] “폐기하기 아까워 소비기한 라벨 바꿔 붙였다” 자백…일본 미니스톱 발칵](https://blog.ai.dmomo.co.kr/news/8490) <br/>
-[2025/08/21 - [뉴스] 설탕 2주 끊었더니 얼굴형이 달라졌다 하버드 출신 의사의 조언](https://blog.ai.dmomo.co.kr/news/8487) <br/>
-[2025/08/21 - [뉴스] 정밀지도 반출 압박 속…최수연 네이버 대표 한미경제사절단 합류](https://blog.ai.dmomo.co.kr/news/8484) <br/>
+[2025/08/23 - [뉴스] 경비행기 타더니…남자친구에게 이별 통보 받은 30대 여성의 끔찍한 선택](https://blog.ai.dmomo.co.kr/news/8571) <br/>
+[2025/08/23 - [뉴스] 한화전차 정밀 포격’ 살아나야 젠지 잡는다](https://blog.ai.dmomo.co.kr/news/8568) <br/>
+[2025/08/23 - [뉴스] 파월 “정책조정 필요” 9월 美금리인하 시사](https://blog.ai.dmomo.co.kr/news/8565) <br/>
+[2025/08/22 - [뉴스] “TSMC·마이크론엔 지분 요구 안 해”…반도체 기업 차별하는 트럼프의 속셈은](https://blog.ai.dmomo.co.kr/news/8562) <br/>
+[2025/08/22 - [뉴스] 사람 던져본 적 있어요?…조준호가 전하는 유도의 매력](https://blog.ai.dmomo.co.kr/news/8559) <br/>
+[2025/08/22 - [뉴스] 남자들은 잘 못가는데…남직원 30% 육아휴직 떠난 비결](https://blog.ai.dmomo.co.kr/news/8556) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/08/21 - The Shocking Truth Behind Hwang Jung-eum's 4.3 Billion Won Embezzlement Case: Background and Outlook on the 3-Year Sentence](https://ai.trend.dmomo.co.kr/2025/08/the-shocking-truth-behind-hwang-jung.html) <br/>
-[2025/08/21 - Inter Miami Advances to Leagues Cup Semifinals with Two Goals from Suarez, Without Messi](https://ai.trend.dmomo.co.kr/2025/08/inter-miami-advances-to-leagues-cup.html) <br/>
-[2025/08/21 - Shock! How Did Tottenham Miss Out on Ejé's Sudden Move to Arsenal?](https://ai.trend.dmomo.co.kr/2025/08/shock-how-did-tottenham-miss-out-on.html) <br/>
-[2025/08/21 - 2025 Key Trends: Why Container-Based Serverless Is Gaining Attention](https://ai.trend.dmomo.co.kr/2025/08/2025-key-trends-why-container-based.html) <br/>
-[2025/08/21 - The Hidden Hero of the San Francisco Music Scene: The Charm and Modern Reinterpretation of 'Claves'](https://ai.trend.dmomo.co.kr/2025/08/the-hidden-hero-of-san-francisco-music.html) <br/>
-[2025/08/21 - Jeonbuk vs Gangwon: From the Korea Cup Draw to Special Self-Governing Provinces, the Heated Competition Between Two Regions](https://ai.trend.dmomo.co.kr/2025/08/jeonbuk-vs-gangwon-from-korea-cup-draw.html) <br/>
+[2025/08/22 - SSG vs Hanwha: Will it be the 'Ponce Killer'? Who will win the Ace Matchup?](https://ai.trend.dmomo.co.kr/2025/08/ssg-vs-hanwha-will-it-be-ponce-killer.html) <br/>
+[2025/08/22 - Shock: Renowned Conservative Christian Leader James Dackson Passes Away at 89](https://ai.trend.dmomo.co.kr/2025/08/shock-renowned-conservative-christian.html) <br/>
+[2025/08/22 - Millie Bobby Brown Adopts Her First Child at 21: A New Family Story in Hollywood](https://ai.trend.dmomo.co.kr/2025/08/millie-bobby-brown-adopts-her-first.html) <br/>
+[2025/08/22 - 2025 Ultimate Guide to Implementing RAG with Azure AI Search: 5 Key Insights](https://ai.trend.dmomo.co.kr/2025/08/2025-ultimate-guide-to-implementing-rag.html) <br/>
+[2025/08/22 - The 4.3 Billion Won Embezzlement Scandal of Hwang Jung-eum: The Fall of a Star and a Wake-Up Call for the Entertainment Industry](https://ai.trend.dmomo.co.kr/2025/08/the-43-billion-won-embezzlement-scandal.html) <br/>
+[2025/08/22 - San Francisco's Pizza Hotspot: The Revival of Beretta and the Evolution of SF Pizza Culture](https://ai.trend.dmomo.co.kr/2025/08/san-franciscos-pizza-hotspot-revival-of.html) <br/>
