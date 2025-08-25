@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/22 - 2025년 IoT 혁신의 핵심, AI 자율 상호작용 IoAI란 무엇일까?](http://dmomo.co.kr/656) <br/>
-[2025/08/21 - 샌프란시스코 음악 신(Scene)의 숨은 주인공, 'Claves'의 매력과 현대적 재해석](http://dmomo.co.kr/655) <br/>
-[2025/08/21 - 메시 없이 돌파한 Inter Miami, 수아레스 2골로 Leagues Cup 준결승 진출](http://dmomo.co.kr/654) <br/>
-[2025/08/21 - 캔바의 마법: 200만+ 템플릿으로 당신도 디자인 전문가로 변신!](http://dmomo.co.kr/653) <br/>
-[2025/08/21 - 충격! 에제의 전격 아스널행, 토트넘은 어떻게 놓쳤나?](http://dmomo.co.kr/652) <br/>
-[2025/08/21 - 황정음 43억 횡령 사건의 충격적 진실: 3년 구형의 배경과 전망](http://dmomo.co.kr/651) <br/>
+[2025/08/22 - 2025년 IoT 혁신의 핵심, AI 자율 상호작용 IoAI란 무엇일까?](https://dmomo.co.kr/656) <br/>
+[2025/08/21 - 샌프란시스코 음악 신(Scene)의 숨은 주인공, 'Claves'의 매력과 현대적 재해석](https://dmomo.co.kr/655) <br/>
+[2025/08/21 - 메시 없이 돌파한 Inter Miami, 수아레스 2골로 Leagues Cup 준결승 진출](https://dmomo.co.kr/654) <br/>
+[2025/08/21 - 캔바의 마법: 200만+ 템플릿으로 당신도 디자인 전문가로 변신!](https://dmomo.co.kr/653) <br/>
+[2025/08/21 - 충격! 에제의 전격 아스널행, 토트넘은 어떻게 놓쳤나?](https://dmomo.co.kr/652) <br/>
+[2025/08/21 - 황정음 43억 횡령 사건의 충격적 진실: 3년 구형의 배경과 전망](https://dmomo.co.kr/651) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/24 - [뉴스] 이재명 대통령 ‘관세·주한미군’ 협상에…한미정상회담 위해 일본에서 미국으로](https://blog.ai.dmomo.co.kr/news/8628) <br/>
-[2025/08/24 - [뉴스] 지금은 AI MS-DOS’ 시대?…10년 뒤 AI 챗봇은 구식](https://blog.ai.dmomo.co.kr/news/8625) <br/>
-[2025/08/24 - [뉴스] 한 그릇에 2만원인데…비싸도 좋아 폭염에도 줄섰다](https://blog.ai.dmomo.co.kr/news/8622) <br/>
-[2025/08/24 - IT 인재들의 축제! 2025 너디너리 페스티벌에 1,200명 모인다](https://blog.ai.dmomo.co.kr/ai/8619) <br/>
-[2025/08/23 - [뉴스] “한국서 만나자”…일본 총리 부인 만난 김혜경 여사, 매듭 만들기 체험 ‘화제’](https://blog.ai.dmomo.co.kr/news/8616) <br/>
-[2025/08/23 - [뉴스] 황금손 송지은 선택은? 1186회 로또 당첨번호 공개](https://blog.ai.dmomo.co.kr/news/8613) <br/>
+[2025/08/25 - [뉴스] “총력 다한다고 이해해달라”…‘회담 난관 봉착?’ 질문에 방미 강훈식 비서실장 답변이](https://blog.ai.dmomo.co.kr/news/8691) <br/>
+[2025/08/25 - [뉴스] 우산 챙기세요 전국에 비…36도 폭염도 계속](https://blog.ai.dmomo.co.kr/news/8688) <br/>
+[2025/08/25 - [뉴스] 금리 0.5%인하 노골적 요구에 연준 인사 장악까지…파월 압박 강도 높인 트럼프](https://blog.ai.dmomo.co.kr/news/8685) <br/>
+[2025/08/24 - [뉴스] 특사단, 中에 친서 전달…왕이 “양국관계 올바른 궤도로”](https://blog.ai.dmomo.co.kr/news/8682) <br/>
+[2025/08/24 - [뉴스] 도경완은 서브 후배 아나운서 발언에…장윤정 친분도 없는데](https://blog.ai.dmomo.co.kr/news/8679) <br/>
+[2025/08/24 - 소셜미디어로 조작된 UFC 스캔들: 라자 잭슨 논란의 실체와 교훈](https://blog.ai.dmomo.co.kr/trend/8676) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/08/24 - UFC Scandal Manipulated by Social Media: The Reality and Lessons of the Raja Jackson Controversy](https://ai.trend.dmomo.co.kr/2025/08/ufc-scandal-manipulated-by-social-media.html) <br/>
+[2025/08/24 - Son Heung-min Scores Debut Goal in MLS, but FC Dallas and LAFC Settle for Dramatic 1-1 Draw](https://ai.trend.dmomo.co.kr/2025/08/son-heung-min-scores-debut-goal-in-mls.html) <br/>
+[2025/08/24 - Cutting-Edge Edge AI Innovations in 2025: In-Depth Analysis of Key Technologies and Microsoft Edge Copilot Mode](https://ai.trend.dmomo.co.kr/2025/08/cutting-edge-edge-ai-innovations-in.html) <br/>
+[2025/08/24 - 2025 College Football: Kicking Off the Excitement in Week 0! What’s Next Week's Big Matchup?](https://ai.trend.dmomo.co.kr/2025/08/2025-college-football-kicking-off.html) <br/>
+[2025/08/24 - Shocking! Tottenham's 2-0 Victory Without Son: What’s the Secret to Defeating Manchester City Away?](https://ai.trend.dmomo.co.kr/2025/08/shocking-tottenhams-2-0-victory-without.html) <br/>
 [2025/08/23 - From Singer Lyn's Divorce to the Origin of Giraffes: 5 Stories Behind 'Lyn'](https://ai.trend.dmomo.co.kr/2025/08/from-singer-lyns-divorce-to-origin-of.html) <br/>
-[2025/08/23 - FIFTY FIFTY Moon Chanel: All the Charming Points from a Chanel-Inspired Name to Wrapping](https://ai.trend.dmomo.co.kr/2025/08/fifty-fifty-moon-chanel-all-charming.html) <br/>
-[2025/08/23 - Key Physical AI Technology Trends to Watch in 2025 and Analysis of 4 Types of Industry Innovations](https://ai.trend.dmomo.co.kr/2025/08/key-physical-ai-technology-trends-to.html) <br/>
-[2025/08/23 - FBI Conducts Search at Former Trump Adviser John Bolton's Home and Office... Why?](https://ai.trend.dmomo.co.kr/2025/08/fbi-conducts-search-at-former-trump.html) <br/>
-[2025/08/23 - PSG Secures Second Consecutive Victory with 1-0 Win Over Angers...Lee Kang-in Plays 10 Minutes](https://ai.trend.dmomo.co.kr/2025/08/psg-secures-second-consecutive-victory.html) <br/>
-[2025/08/22 - SSG vs Hanwha: Will it be the 'Ponce Killer'? Who will win the Ace Matchup?](https://ai.trend.dmomo.co.kr/2025/08/ssg-vs-hanwha-will-it-be-ponce-killer.html) <br/>
