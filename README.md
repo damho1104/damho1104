@@ -88,17 +88,17 @@
 [2025/08/21 - 황정음 43억 횡령 사건의 충격적 진실: 3년 구형의 배경과 전망](https://dmomo.co.kr/651) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/25 - [뉴스] “총력 다한다고 이해해달라”…‘회담 난관 봉착?’ 질문에 방미 강훈식 비서실장 답변이](https://blog.ai.dmomo.co.kr/news/8691) <br/>
-[2025/08/25 - [뉴스] 우산 챙기세요 전국에 비…36도 폭염도 계속](https://blog.ai.dmomo.co.kr/news/8688) <br/>
-[2025/08/25 - [뉴스] 금리 0.5%인하 노골적 요구에 연준 인사 장악까지…파월 압박 강도 높인 트럼프](https://blog.ai.dmomo.co.kr/news/8685) <br/>
-[2025/08/24 - [뉴스] 특사단, 中에 친서 전달…왕이 “양국관계 올바른 궤도로”](https://blog.ai.dmomo.co.kr/news/8682) <br/>
-[2025/08/24 - [뉴스] 도경완은 서브 후배 아나운서 발언에…장윤정 친분도 없는데](https://blog.ai.dmomo.co.kr/news/8679) <br/>
-[2025/08/24 - 소셜미디어로 조작된 UFC 스캔들: 라자 잭슨 논란의 실체와 교훈](https://blog.ai.dmomo.co.kr/trend/8676) <br/>
+[2025/08/26 - [뉴스] [속보] 대통령실 “한미정상회담서 농축산물 추가개방 거론 안 돼”](https://blog.ai.dmomo.co.kr/news/8763) <br/>
+[2025/08/26 - [뉴스] 무더위 계속, 낮 최고 34도…오후까지 비소식](https://blog.ai.dmomo.co.kr/news/8760) <br/>
+[2025/08/26 - [뉴스] 이재명 대통령 “미군 수사한 것 아냐, 한국군 확인 한 것”](https://blog.ai.dmomo.co.kr/news/8757) <br/>
+[2025/08/25 - [뉴스] 머리에 칼 꽂힌 3세 딸 데리고 태연히 병원가는 중국엄마, 경악…무슨일이](https://blog.ai.dmomo.co.kr/news/8754) <br/>
+[2025/08/25 - [뉴스] 구조된 백사자 암수 한 쌍, 삼남매 부모 됐다](https://blog.ai.dmomo.co.kr/news/8751) <br/>
+[2025/08/25 - 메드베데프의 US오픈 멜트다운: 6분 야유 속 5세트 패배의 내막](https://blog.ai.dmomo.co.kr/trend/8748) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/08/24 - UFC Scandal Manipulated by Social Media: The Reality and Lessons of the Raja Jackson Controversy](https://ai.trend.dmomo.co.kr/2025/08/ufc-scandal-manipulated-by-social-media.html) <br/>
-[2025/08/24 - Son Heung-min Scores Debut Goal in MLS, but FC Dallas and LAFC Settle for Dramatic 1-1 Draw](https://ai.trend.dmomo.co.kr/2025/08/son-heung-min-scores-debut-goal-in-mls.html) <br/>
-[2025/08/24 - Cutting-Edge Edge AI Innovations in 2025: In-Depth Analysis of Key Technologies and Microsoft Edge Copilot Mode](https://ai.trend.dmomo.co.kr/2025/08/cutting-edge-edge-ai-innovations-in.html) <br/>
-[2025/08/24 - 2025 College Football: Kicking Off the Excitement in Week 0! What’s Next Week's Big Matchup?](https://ai.trend.dmomo.co.kr/2025/08/2025-college-football-kicking-off.html) <br/>
-[2025/08/24 - Shocking! Tottenham's 2-0 Victory Without Son: What’s the Secret to Defeating Manchester City Away?](https://ai.trend.dmomo.co.kr/2025/08/shocking-tottenhams-2-0-victory-without.html) <br/>
-[2025/08/23 - From Singer Lyn's Divorce to the Origin of Giraffes: 5 Stories Behind 'Lyn'](https://ai.trend.dmomo.co.kr/2025/08/from-singer-lyns-divorce-to-origin-of.html) <br/>
+[2025/08/25 - Medvedev's US Open Meltdown: The Inside Story of a 5-Set Loss Amidst 6 Minutes of Booing](https://ai.trend.dmomo.co.kr/2025/08/medvedevs-us-open-meltdown-inside-story.html) <br/>
+[2025/08/25 - Yens Castro: A New Milestone in Korean Football History](https://ai.trend.dmomo.co.kr/2025/08/yens-castro-new-milestone-in-korean.html) <br/>
+[2025/08/25 - The Excitement of Mexican Soccer in San Francisco: The American Connection of the Atlas vs. América Match](https://ai.trend.dmomo.co.kr/2025/08/the-excitement-of-mexican-soccer-in-san.html) <br/>
+[2025/08/25 - Mbappe Scores Twice! Real Madrid Dominates Newly Promoted Oviedo with 3-0 Victory... Secures Second Consecutive Win of the Season](https://ai.trend.dmomo.co.kr/2025/08/mbappe-scores-twice-real-madrid.html) <br/>
+[2025/08/25 - 5 Reasons Why AI-Integrated Low-Code Platforms Will Drive Business Innovation in 2025](https://ai.trend.dmomo.co.kr/2025/08/5-reasons-why-ai-integrated-low-code.html) <br/>
+[2025/08/25 - Shocking! UFC Champion's Son Raja Jackson Involved in Controversial Assault at Pro Wrestling Event](https://ai.trend.dmomo.co.kr/2025/08/shocking-ufc-champions-son-raja-jackson.html) <br/>
