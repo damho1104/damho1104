@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/27 - 테일러 스위프트의 사랑과 성공: NFL 스타와 약혼한 팝의 여왕](https://dmomo.co.kr/664) <br/>
-[2025/08/27 - Love Island 리유니언, SF에서 즐기는 2가지 방법 - 시간과 장소 총정리](https://dmomo.co.kr/663) <br/>
-[2025/08/27 - 샌프란시스코의 숨은 보석, 노스웨스트 지역 탐험 가이드](https://dmomo.co.kr/662) <br/>
-[2025/08/26 - 반탄파 출신 국민의힘 새 수장, 장동혁의 파격 행보와 비전은?](https://dmomo.co.kr/661) <br/>
-[2025/08/26 - IT 인재들의 축제! 2025 너디너리 페스티벌에 1,200명 모인다](https://dmomo.co.kr/660) <br/>
-[2025/08/26 - [심층 분석] 2025 한미정상회담: 한미동맹의 새로운 전환점이 될 수 있을까?](https://dmomo.co.kr/659) <br/>
+[2025/08/28 - 미니애폴리스 교회 총격: 23세 Robin Westman의 충격적 범행과 그 여파](http://dmomo.co.kr/666) <br/>
+[2025/08/28 - 충격의 카라바오컵: 맨유, 4부리그 그림즈비에 승부차기 패배의 비극](http://dmomo.co.kr/665) <br/>
+[2025/08/27 - 테일러 스위프트의 사랑과 성공: NFL 스타와 약혼한 팝의 여왕](http://dmomo.co.kr/664) <br/>
+[2025/08/27 - Love Island 리유니언, SF에서 즐기는 2가지 방법 - 시간과 장소 총정리](http://dmomo.co.kr/663) <br/>
+[2025/08/27 - 샌프란시스코의 숨은 보석, 노스웨스트 지역 탐험 가이드](http://dmomo.co.kr/662) <br/>
+[2025/08/26 - 반탄파 출신 국민의힘 새 수장, 장동혁의 파격 행보와 비전은?](http://dmomo.co.kr/661) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/28 - [뉴스] “경제발전도 K가 트렌드, 한국 따라가겠다”…말레이시아 미래 전략 키워드는](https://blog.ai.dmomo.co.kr/news/8903) <br/>
-[2025/08/28 - [뉴스] 체감 33도 찜통더위 계속된다…오후엔 수도권 중심 소나기](https://blog.ai.dmomo.co.kr/news/8900) <br/>
-[2025/08/27 - [뉴스] 진짜 ‘관세 50%’ 때린 트럼프…미국·인도 무역 갈등에 중국 “반트럼프 모여라”](https://blog.ai.dmomo.co.kr/news/8897) <br/>
-[2025/08/27 - [뉴스] 움켜쥔 손, 상처입은 손…끝없이 말을 거는 이진주의 블랙 페인팅](https://blog.ai.dmomo.co.kr/news/8894) <br/>
-[2025/08/27 - [뉴스] 빈칸 많은 양자과학의 세계…하나하나 채워볼게요](https://blog.ai.dmomo.co.kr/news/8891) <br/>
-[2025/08/27 - [뉴스] 투자 몰리는 베트남ETF … 연일 신고가](https://blog.ai.dmomo.co.kr/news/8888) <br/>
+[2025/08/29 - [뉴스] “내놔”…길거리서 14세 소녀 머리 채 잡은 미국여성, 이탈리아서 무슨일이](https://blog.ai.dmomo.co.kr/news/8969) <br/>
+[2025/08/29 - [뉴스] 방한 외국인 역대 최대에도…상반기만 7조 넘게 관광 적자](https://blog.ai.dmomo.co.kr/news/8966) <br/>
+[2025/08/28 - [뉴스] 美 2분기 GDP 성장률 잠정치 3.3%…첫 발표보다 0.3%p 높아](https://blog.ai.dmomo.co.kr/news/8963) <br/>
+[2025/08/28 - [뉴스] 틱톡에 집중했더니 대박…글로벌 1위 만화 앱 비결은?](https://blog.ai.dmomo.co.kr/news/8960) <br/>
+[2025/08/28 - 2025년 근로장려금 3조원 지급! 당신은 받을 자격이 있나요?](https://blog.ai.dmomo.co.kr/trend/8957) <br/>
+[2025/08/28 - [뉴스] 삼성전자 ‘울고’ SK하이닉스 ‘웃고’…엔비디아 실적에 반도체주 온도차](https://blog.ai.dmomo.co.kr/news/8953) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/08/28 - 3 Trillion Won Earned Income Tax Credit in 2025! Are You Eligible to Receive It?](https://ai.trend.dmomo.co.kr/2025/08/3-trillion-won-earned-income-tax-credit.html) <br/>
+[2025/08/28 - Must-Know DevOps Innovations and Cost-Saving FinOps Strategies for 2025](https://ai.trend.dmomo.co.kr/2025/08/must-know-devops-innovations-and-cost.html) <br/>
+[2025/08/28 - Shocking Carabao Cup: Manchester United's Tragic Penalty Shootout Loss to Grimsby Town from the Fourth Division](https://ai.trend.dmomo.co.kr/2025/08/shocking-carabao-cup-manchester-uniteds.html) <br/>
+[2025/08/28 - Minneapolis Church Shooting: The Shocking Crime of 23-Year-Old Robin Westman and Its Aftermath](https://ai.trend.dmomo.co.kr/2025/08/minneapolis-church-shooting-shocking.html) <br/>
 [2025/08/27 - Taylor Swift's Love and Success: The Pop Queen Engaged to an NFL Star](https://ai.trend.dmomo.co.kr/2025/08/taylor-swifts-love-and-success-pop.html) <br/>
 [2025/08/27 - BTS Jimin and Song Da-eun: Dating Rumors Explosion? The War with Fans Begins](https://ai.trend.dmomo.co.kr/2025/08/bts-jimin-and-song-da-eun-dating-rumors.html) <br/>
-[2025/08/27 - All About AI-Powered Low-Code Test Automation Innovations to Watch in 2025](https://ai.trend.dmomo.co.kr/2025/08/all-about-ai-powered-low-code-test.html) <br/>
-[2025/08/27 - Is the Engagement Rumor Between Taeyeon, Taylor Swift, and Travis Kelce True? Unraveling the Truth Amidst the Social Media Storm](https://ai.trend.dmomo.co.kr/2025/08/is-engagement-rumor-between-taeyeon.html) <br/>
-[2025/08/27 - Dong-hyuk Jang at 56 Elected New Leader of People Power Party: Those Who Don’t Fight Should Give Up Their Badges](https://ai.trend.dmomo.co.kr/2025/08/dong-hyuk-jang-at-56-elected-new-leader.html) <br/>
-[2025/08/26 - New Leadership of People Power Party from Bantanpa: Jang Dong-hyuk's Bold Moves and Vision?](https://ai.trend.dmomo.co.kr/2025/08/new-leadership-of-people-power-party.html) <br/>
