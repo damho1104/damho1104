@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/28 - 미니애폴리스 교회 총격: 23세 Robin Westman의 충격적 범행과 그 여파](http://dmomo.co.kr/666) <br/>
-[2025/08/28 - 충격의 카라바오컵: 맨유, 4부리그 그림즈비에 승부차기 패배의 비극](http://dmomo.co.kr/665) <br/>
-[2025/08/27 - 테일러 스위프트의 사랑과 성공: NFL 스타와 약혼한 팝의 여왕](http://dmomo.co.kr/664) <br/>
-[2025/08/27 - Love Island 리유니언, SF에서 즐기는 2가지 방법 - 시간과 장소 총정리](http://dmomo.co.kr/663) <br/>
-[2025/08/27 - 샌프란시스코의 숨은 보석, 노스웨스트 지역 탐험 가이드](http://dmomo.co.kr/662) <br/>
-[2025/08/26 - 반탄파 출신 국민의힘 새 수장, 장동혁의 파격 행보와 비전은?](http://dmomo.co.kr/661) <br/>
+[2025/08/29 - 수지 결혼설 폭로 '2조5천억 화장품 재벌과 결혼?' 소속사 강력 대응](https://dmomo.co.kr/668) <br/>
+[2025/08/29 - 얼짱에서 천억대 부동산 재벌로: 박태준의 놀라운 성공 스토리](https://dmomo.co.kr/667) <br/>
+[2025/08/28 - 미니애폴리스 교회 총격: 23세 Robin Westman의 충격적 범행과 그 여파](https://dmomo.co.kr/666) <br/>
+[2025/08/28 - 충격의 카라바오컵: 맨유, 4부리그 그림즈비에 승부차기 패배의 비극](https://dmomo.co.kr/665) <br/>
+[2025/08/27 - 테일러 스위프트의 사랑과 성공: NFL 스타와 약혼한 팝의 여왕](https://dmomo.co.kr/664) <br/>
+[2025/08/27 - Love Island 리유니언, SF에서 즐기는 2가지 방법 - 시간과 장소 총정리](https://dmomo.co.kr/663) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/08/29 - [뉴스] “내놔”…길거리서 14세 소녀 머리 채 잡은 미국여성, 이탈리아서 무슨일이](https://blog.ai.dmomo.co.kr/news/8969) <br/>
-[2025/08/29 - [뉴스] 방한 외국인 역대 최대에도…상반기만 7조 넘게 관광 적자](https://blog.ai.dmomo.co.kr/news/8966) <br/>
-[2025/08/28 - [뉴스] 美 2분기 GDP 성장률 잠정치 3.3%…첫 발표보다 0.3%p 높아](https://blog.ai.dmomo.co.kr/news/8963) <br/>
-[2025/08/28 - [뉴스] 틱톡에 집중했더니 대박…글로벌 1위 만화 앱 비결은?](https://blog.ai.dmomo.co.kr/news/8960) <br/>
-[2025/08/28 - 2025년 근로장려금 3조원 지급! 당신은 받을 자격이 있나요?](https://blog.ai.dmomo.co.kr/trend/8957) <br/>
-[2025/08/28 - [뉴스] 삼성전자 ‘울고’ SK하이닉스 ‘웃고’…엔비디아 실적에 반도체주 온도차](https://blog.ai.dmomo.co.kr/news/8953) <br/>
+[2025/08/30 - [뉴스] 삼성 갤럭시 화질 왜 이래? 했는데…충격 반전 영상](https://blog.ai.dmomo.co.kr/news/9035) <br/>
+[2025/08/30 - [뉴스] 윤아로도 흥행 실패…CJ ENM, 박찬욱 카드로 변곡점 만들까](https://blog.ai.dmomo.co.kr/news/9032) <br/>
+[2025/08/30 - [뉴스] 가슴 한 켠에 ‘공동의 적’ 품고…일본·인도 밀착 “첨단기술·안보 협력”](https://blog.ai.dmomo.co.kr/news/9029) <br/>
+[2025/08/29 - [뉴스] 美 7월 개인소비지출물가 2.6% 상승 … 예상치 부합](https://blog.ai.dmomo.co.kr/news/9026) <br/>
+[2025/08/29 - [뉴스] 마음의 농막에서 선(線)을 짓는 남춘모 작가](https://blog.ai.dmomo.co.kr/news/9023) <br/>
+[2025/08/29 - 삼성 vs 한화: 조선에서 반도체까지, 대한민국 산업계의 숨막히는 대결](https://blog.ai.dmomo.co.kr/trend/9020) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/08/28 - 3 Trillion Won Earned Income Tax Credit in 2025! Are You Eligible to Receive It?](https://ai.trend.dmomo.co.kr/2025/08/3-trillion-won-earned-income-tax-credit.html) <br/>
-[2025/08/28 - Must-Know DevOps Innovations and Cost-Saving FinOps Strategies for 2025](https://ai.trend.dmomo.co.kr/2025/08/must-know-devops-innovations-and-cost.html) <br/>
-[2025/08/28 - Shocking Carabao Cup: Manchester United's Tragic Penalty Shootout Loss to Grimsby Town from the Fourth Division](https://ai.trend.dmomo.co.kr/2025/08/shocking-carabao-cup-manchester-uniteds.html) <br/>
-[2025/08/28 - Minneapolis Church Shooting: The Shocking Crime of 23-Year-Old Robin Westman and Its Aftermath](https://ai.trend.dmomo.co.kr/2025/08/minneapolis-church-shooting-shocking.html) <br/>
-[2025/08/27 - Taylor Swift's Love and Success: The Pop Queen Engaged to an NFL Star](https://ai.trend.dmomo.co.kr/2025/08/taylor-swifts-love-and-success-pop.html) <br/>
-[2025/08/27 - BTS Jimin and Song Da-eun: Dating Rumors Explosion? The War with Fans Begins](https://ai.trend.dmomo.co.kr/2025/08/bts-jimin-and-song-da-eun-dating-rumors.html) <br/>
+[2025/08/29 - Samsung vs Hanwha: The Thrilling Showdown in South Korea's Industry from Shipbuilding to Semiconductors](https://ai.trend.dmomo.co.kr/2025/08/samsung-vs-hanwha-thrilling-showdown-in.html) <br/>
+[2025/08/29 - Rumors of Suzy's Marriage: 'Is She Marrying a Cosmetics Tycoon Worth 2.5 Trillion Won?' Agency Responds Strongly](https://ai.trend.dmomo.co.kr/2025/08/rumors-of-suzys-marriage-is-she.html) <br/>
+[2025/08/29 - The Evolution of Olive Young: A Leader in the Global Spread of K-Beauty, Thriving with 60,000 Products](https://ai.trend.dmomo.co.kr/2025/08/the-evolution-of-olive-young-leader-in.html) <br/>
+[2025/08/29 - Veteran Kenny Clark's Move to the Cowboys: Will It Change the NFL Landscape and Fulfill Championship Dreams?](https://ai.trend.dmomo.co.kr/2025/08/veteran-kenny-clarks-move-to-cowboys.html) <br/>
+[2025/08/29 - 2025 LLM Breakthrough: The Rise of SLM and a New Cost-Efficient AI Paradigm](https://ai.trend.dmomo.co.kr/2025/08/2025-llm-breakthrough-rise-of-slm-and.html) <br/>
+[2025/08/29 - From Ulzzang to Billionaire: The Incredible Success Story of Park Tae-jun](https://ai.trend.dmomo.co.kr/2025/08/from-ulzzang-to-billionaire-incredible.html) <br/>
