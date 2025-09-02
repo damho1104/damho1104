@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/08/29 - 수지 결혼설 폭로 '2조5천억 화장품 재벌과 결혼?' 소속사 강력 대응](https://dmomo.co.kr/668) <br/>
-[2025/08/29 - 얼짱에서 천억대 부동산 재벌로: 박태준의 놀라운 성공 스토리](https://dmomo.co.kr/667) <br/>
-[2025/08/28 - 미니애폴리스 교회 총격: 23세 Robin Westman의 충격적 범행과 그 여파](https://dmomo.co.kr/666) <br/>
-[2025/08/28 - 충격의 카라바오컵: 맨유, 4부리그 그림즈비에 승부차기 패배의 비극](https://dmomo.co.kr/665) <br/>
-[2025/08/27 - 테일러 스위프트의 사랑과 성공: NFL 스타와 약혼한 팝의 여왕](https://dmomo.co.kr/664) <br/>
-[2025/08/27 - Love Island 리유니언, SF에서 즐기는 2가지 방법 - 시간과 장소 총정리](https://dmomo.co.kr/663) <br/>
+[2025/09/01 - 손흥민 LA FC 홈 데뷔전, 역전패로 끝난 극적인 90분](http://dmomo.co.kr/672) <br/>
+[2025/09/01 - 미국 노동절의 숨겨진 역사: 투쟁에서 휴식으로 진화한 Labor Day](http://dmomo.co.kr/671) <br/>
+[2025/09/01 - 충격의 2연패! 맨시티, 브라이턴에 1-2 역전패로 12위 추락](http://dmomo.co.kr/670) <br/>
+[2025/09/01 - 토트넘 충격패! 손흥민 없는 팀의 한계 드러난 3라운드 대 본머스 전](http://dmomo.co.kr/669) <br/>
+[2025/08/29 - 수지 결혼설 폭로 '2조5천억 화장품 재벌과 결혼?' 소속사 강력 대응](http://dmomo.co.kr/668) <br/>
+[2025/08/29 - 얼짱에서 천억대 부동산 재벌로: 박태준의 놀라운 성공 스토리](http://dmomo.co.kr/667) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/01 - [뉴스] 스페인 ‘가우디 성당’에 페인트 뿌린 환경운동가…아이러니한 기후 시위](https://blog.ai.dmomo.co.kr/news/9164) <br/>
-[2025/09/01 - [뉴스] 올트만이 주목한 이 남자…5000년만에 영어 공부법 바꿀 것](https://blog.ai.dmomo.co.kr/news/9161) <br/>
-[2025/09/01 - [뉴스] 댕댕이 위해 여행 가요 수요 폭발…호텔·지자체도 나섰다](https://blog.ai.dmomo.co.kr/news/9158) <br/>
-[2025/09/01 - [뉴스] 反정부 시위 격화에 … 인니 “의원 주택수당 폐지”](https://blog.ai.dmomo.co.kr/news/9155) <br/>
-[2025/08/31 - [뉴스] 반정부 시위 격화에…인니 “의원 주택수당 폐지”](https://blog.ai.dmomo.co.kr/news/9152) <br/>
-[2025/08/31 - [뉴스] 손예진·박희순 어쩔수가없다’는 참 이상한 영화”](https://blog.ai.dmomo.co.kr/news/9149) <br/>
+[2025/09/02 - [뉴스] 한때 혁신 아이콘이었는데…존재감 잃은 타다](https://blog.ai.dmomo.co.kr/news/9230) <br/>
+[2025/09/02 - [뉴스] 김밥에 시금치 빼고 부추 넣습니다…채소값 폭등에 한숨](https://blog.ai.dmomo.co.kr/news/9227) <br/>
+[2025/09/01 - [뉴스] 시진핑, 美 보란듯 “괴롭힘 행위 반대”](https://blog.ai.dmomo.co.kr/news/9224) <br/>
+[2025/09/01 - [뉴스] USA티·과잠 유행하더니…10년 침체 버티고 부활한 브랜드](https://blog.ai.dmomo.co.kr/news/9221) <br/>
+[2025/09/01 - 손흥민 LA FC 홈 데뷔전, 역전패로 끝난 극적인 90분](https://blog.ai.dmomo.co.kr/trend/9218) <br/>
+[2025/09/01 - [뉴스] 스틱인베 대외사업 대표에 사재훈 전 삼성證 부사장](https://blog.ai.dmomo.co.kr/news/9215) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/08/31 - 2025 Powerball Results: No Jackpot, But Millions in Prizes Awarded](https://ai.trend.dmomo.co.kr/2025/08/2025-powerball-results-no-jackpot-but.html) <br/>
-[2025/08/31 - The 2025 Verizon Crisis: The Shocking Reality of the U.S. Communication Network in SOS Mode](https://ai.trend.dmomo.co.kr/2025/08/the-2025-verizon-crisis-shocking.html) <br/>
-[2025/08/31 - All About Siemens Industrial Copilot: The Autonomous AI Technology Driving Manufacturing Innovation in 2025](https://ai.trend.dmomo.co.kr/2025/08/all-about-siemens-industrial-copilot.html) <br/>
-[2025/08/31 - Alabama's Shocking Loss! Florida State Claims Victory 31-17, Is the DeBoer Era in Danger?](https://ai.trend.dmomo.co.kr/2025/08/alabamas-shocking-loss-florida-state.html) <br/>
-[2025/08/31 - Shocking Defeat for Tottenham! The Limitations of a Team Without Son Heung-min Revealed in Round 3 Match Against Bournemouth](https://ai.trend.dmomo.co.kr/2025/08/shocking-defeat-for-tottenham.html) <br/>
-[2025/08/30 - Shock: Court Rules Trump's 'America First' Tariff Policy Illegal...Political Fallout](https://ai.trend.dmomo.co.kr/2025/08/shock-court-rules-trumps-america-first.html) <br/>
+[2025/09/01 - Son Heung-min's Dramatic Home Debut for LA FC: A Stunning Comeback Ends in Defeat](https://ai.trend.dmomo.co.kr/2025/09/son-heung-mins-dramatic-home-debut-for.html) <br/>
+[2025/09/01 - MLS Supermatch: Seattle Sounders vs Inter Miami, A Clash of Football Cultures!](https://ai.trend.dmomo.co.kr/2025/08/mls-supermatch-seattle-sounders-vs.html) <br/>
+[2025/09/01 - The Hidden History of Labor Day in America: From Struggle to Rest](https://ai.trend.dmomo.co.kr/2025/08/the-hidden-history-of-labor-day-in.html) <br/>
+[2025/09/01 - 2025 Super Matchup: #6 Notre Dame vs #10 Miami, Clash for the New Season's Fate](https://ai.trend.dmomo.co.kr/2025/08/2025-super-matchup-6-notre-dame-vs-10.html) <br/>
+[2025/09/01 - Shock of Consecutive Defeats! Man City Falls to 12th Place After 1-2 Comeback Loss to Brighton](https://ai.trend.dmomo.co.kr/2025/08/shock-of-consecutive-defeats-man-city.html) <br/>
+[2025/09/01 - 4 Cutting-Edge RAG Technologies to Watch in 2025 and Insights into AI Innovation Trends](https://ai.trend.dmomo.co.kr/2025/08/4-cutting-edge-rag-technologies-to.html) <br/>
