@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/09/01 - 손흥민 LA FC 홈 데뷔전, 역전패로 끝난 극적인 90분](http://dmomo.co.kr/672) <br/>
-[2025/09/01 - 미국 노동절의 숨겨진 역사: 투쟁에서 휴식으로 진화한 Labor Day](http://dmomo.co.kr/671) <br/>
-[2025/09/01 - 충격의 2연패! 맨시티, 브라이턴에 1-2 역전패로 12위 추락](http://dmomo.co.kr/670) <br/>
-[2025/09/01 - 토트넘 충격패! 손흥민 없는 팀의 한계 드러난 3라운드 대 본머스 전](http://dmomo.co.kr/669) <br/>
-[2025/08/29 - 수지 결혼설 폭로 '2조5천억 화장품 재벌과 결혼?' 소속사 강력 대응](http://dmomo.co.kr/668) <br/>
-[2025/08/29 - 얼짱에서 천억대 부동산 재벌로: 박태준의 놀라운 성공 스토리](http://dmomo.co.kr/667) <br/>
+[2025/09/02 - 할리우드의 전설: 그레이엄 그린, 73세 별세 - 원주민 배우의 선구자](https://dmomo.co.kr/675) <br/>
+[2025/09/02 - 손흥민 홈 데뷔전 비상! LAFC, 샌디에이고FC에 1-2 역전패 충격](https://dmomo.co.kr/674) <br/>
+[2025/09/02 - 윤석열 전 대통령 구치소 CCTV 논란: 법적 쟁점과 정치적 파장은?](https://dmomo.co.kr/673) <br/>
+[2025/09/01 - 손흥민 LA FC 홈 데뷔전, 역전패로 끝난 극적인 90분](https://dmomo.co.kr/672) <br/>
+[2025/09/01 - 미국 노동절의 숨겨진 역사: 투쟁에서 휴식으로 진화한 Labor Day](https://dmomo.co.kr/671) <br/>
+[2025/09/01 - 충격의 2연패! 맨시티, 브라이턴에 1-2 역전패로 12위 추락](https://dmomo.co.kr/670) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/02 - [뉴스] 한때 혁신 아이콘이었는데…존재감 잃은 타다](https://blog.ai.dmomo.co.kr/news/9230) <br/>
-[2025/09/02 - [뉴스] 김밥에 시금치 빼고 부추 넣습니다…채소값 폭등에 한숨](https://blog.ai.dmomo.co.kr/news/9227) <br/>
-[2025/09/01 - [뉴스] 시진핑, 美 보란듯 “괴롭힘 행위 반대”](https://blog.ai.dmomo.co.kr/news/9224) <br/>
-[2025/09/01 - [뉴스] USA티·과잠 유행하더니…10년 침체 버티고 부활한 브랜드](https://blog.ai.dmomo.co.kr/news/9221) <br/>
-[2025/09/01 - 손흥민 LA FC 홈 데뷔전, 역전패로 끝난 극적인 90분](https://blog.ai.dmomo.co.kr/trend/9218) <br/>
-[2025/09/01 - [뉴스] 스틱인베 대외사업 대표에 사재훈 전 삼성證 부사장](https://blog.ai.dmomo.co.kr/news/9215) <br/>
+[2025/09/03 - 윤정수의 12살 연하 아내, ‘광저우 여신’ 원자현의 비밀은?](https://blog.ai.dmomo.co.kr/trend/9310) <br/>
+[2025/09/03 - [뉴스] 미국의회, 예산부터 인사까지 현안마다 파열음…미정부 ‘셧다운’ 현실화 가능성](https://blog.ai.dmomo.co.kr/news/9305) <br/>
+[2025/09/03 - [뉴스] LCK 플레이인 개막…농심 레전드의 힘’ 보여줄까](https://blog.ai.dmomo.co.kr/news/9302) <br/>
+[2025/09/03 - [뉴스] 작년에 얼마나 비쌌던 거야… 팍팍 올라도 1년 전보다 싼 이것](https://blog.ai.dmomo.co.kr/news/9299) <br/>
+[2025/09/03 - [뉴스] 김정은, 베이징 도착…66년만에 모인 북중러](https://blog.ai.dmomo.co.kr/news/9296) <br/>
+[2025/09/02 - [뉴스] 발작 일으킨 승객 보자마자…아들에게 “금방 올게” 말하고 뛰어간 간호사 ‘찬사’](https://blog.ai.dmomo.co.kr/news/9293) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/09/01 - Son Heung-min's Dramatic Home Debut for LA FC: A Stunning Comeback Ends in Defeat](https://ai.trend.dmomo.co.kr/2025/09/son-heung-mins-dramatic-home-debut-for.html) <br/>
-[2025/09/01 - MLS Supermatch: Seattle Sounders vs Inter Miami, A Clash of Football Cultures!](https://ai.trend.dmomo.co.kr/2025/08/mls-supermatch-seattle-sounders-vs.html) <br/>
-[2025/09/01 - The Hidden History of Labor Day in America: From Struggle to Rest](https://ai.trend.dmomo.co.kr/2025/08/the-hidden-history-of-labor-day-in.html) <br/>
-[2025/09/01 - 2025 Super Matchup: #6 Notre Dame vs #10 Miami, Clash for the New Season's Fate](https://ai.trend.dmomo.co.kr/2025/08/2025-super-matchup-6-notre-dame-vs-10.html) <br/>
-[2025/09/01 - Shock of Consecutive Defeats! Man City Falls to 12th Place After 1-2 Comeback Loss to Brighton](https://ai.trend.dmomo.co.kr/2025/08/shock-of-consecutive-defeats-man-city.html) <br/>
-[2025/09/01 - 4 Cutting-Edge RAG Technologies to Watch in 2025 and Insights into AI Innovation Trends](https://ai.trend.dmomo.co.kr/2025/08/4-cutting-edge-rag-technologies-to.html) <br/>
+[2025/09/02 - The Mystery of Yoon Jung-soo's 12-Year Younger Wife, 'Guangzhou Goddess' Won Jae-hyun](https://ai.trend.dmomo.co.kr/2025/09/the-mystery-of-yoon-jung-soos-12-year.html) <br/>
+[2025/09/02 - The Controversy of Former President Yoon Seok-yeol's Prison CCTV: Legal Issues and Political Fallout?](https://ai.trend.dmomo.co.kr/2025/09/the-controversy-of-former-president.html) <br/>
+[2025/09/02 - Hollywood Legend: Graham Greene, 73, Passes Away - Pioneer of Indigenous Actors](https://ai.trend.dmomo.co.kr/2025/09/hollywood-legend-graham-greene-73.html) <br/>
+[2025/09/02 - Cutting-Edge Quantum Computing Innovations to Watch in 2025: Analyzing WMC-Based Problem-Solving Methods](https://ai.trend.dmomo.co.kr/2025/09/cutting-edge-quantum-computing.html) <br/>
+[2025/09/02 - The Hidden History of Labor Day in America: From the 1894 Strike to a Federal Holiday](https://ai.trend.dmomo.co.kr/2025/09/the-hidden-history-of-labor-day-in.html) <br/>
+[2025/09/02 - Son Heung-min's Home Debut in Crisis! LAFC Shocked by 1-2 Comeback Loss to San Diego FC](https://ai.trend.dmomo.co.kr/2025/09/son-heung-mins-home-debut-in-crisis.html) <br/>
