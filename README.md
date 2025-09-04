@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/09/03 - SNL 새 멤버 베로니카 슬로비코브스카: 소셜미디어 스타의 미국 코미디계 정복](https://dmomo.co.kr/677) <br/>
+[2025/09/03 - 신림동 식당서 4명 중상 칼부림, 사업 갈등 발단?](https://dmomo.co.kr/676) <br/>
 [2025/09/02 - 할리우드의 전설: 그레이엄 그린, 73세 별세 - 원주민 배우의 선구자](https://dmomo.co.kr/675) <br/>
 [2025/09/02 - 손흥민 홈 데뷔전 비상! LAFC, 샌디에이고FC에 1-2 역전패 충격](https://dmomo.co.kr/674) <br/>
 [2025/09/02 - 윤석열 전 대통령 구치소 CCTV 논란: 법적 쟁점과 정치적 파장은?](https://dmomo.co.kr/673) <br/>
 [2025/09/01 - 손흥민 LA FC 홈 데뷔전, 역전패로 끝난 극적인 90분](https://dmomo.co.kr/672) <br/>
-[2025/09/01 - 미국 노동절의 숨겨진 역사: 투쟁에서 휴식으로 진화한 Labor Day](https://dmomo.co.kr/671) <br/>
-[2025/09/01 - 충격의 2연패! 맨시티, 브라이턴에 1-2 역전패로 12위 추락](https://dmomo.co.kr/670) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/03 - 윤정수의 12살 연하 아내, ‘광저우 여신’ 원자현의 비밀은?](https://blog.ai.dmomo.co.kr/trend/9310) <br/>
-[2025/09/03 - [뉴스] 미국의회, 예산부터 인사까지 현안마다 파열음…미정부 ‘셧다운’ 현실화 가능성](https://blog.ai.dmomo.co.kr/news/9305) <br/>
-[2025/09/03 - [뉴스] LCK 플레이인 개막…농심 레전드의 힘’ 보여줄까](https://blog.ai.dmomo.co.kr/news/9302) <br/>
-[2025/09/03 - [뉴스] 작년에 얼마나 비쌌던 거야… 팍팍 올라도 1년 전보다 싼 이것](https://blog.ai.dmomo.co.kr/news/9299) <br/>
-[2025/09/03 - [뉴스] 김정은, 베이징 도착…66년만에 모인 북중러](https://blog.ai.dmomo.co.kr/news/9296) <br/>
-[2025/09/02 - [뉴스] 발작 일으킨 승객 보자마자…아들에게 “금방 올게” 말하고 뛰어간 간호사 ‘찬사’](https://blog.ai.dmomo.co.kr/news/9293) <br/>
+[2025/09/04 - [뉴스] 미국 “TSMC도 예외없다”…삼성처럼 중국 공장에 반도체 장비 반입 금지](https://blog.ai.dmomo.co.kr/news/9371) <br/>
+[2025/09/04 - [뉴스] 케데헌 헌트릭스, 농심까지 구원할까…신라면, 불닭 넘어서나](https://blog.ai.dmomo.co.kr/news/9368) <br/>
+[2025/09/03 - [뉴스] “시진핑, 미국에 대한 도전장 날렸다”…서방국가 철저히 배제한 중국 전승절 행사](https://blog.ai.dmomo.co.kr/news/9365) <br/>
+[2025/09/03 - [뉴스] 흡연하는 당신…자녀 넘어 손주 세대 폐 건강에도 영향 미친다](https://blog.ai.dmomo.co.kr/news/9362) <br/>
+[2025/09/03 - [뉴스] 이정재도 오픈런한 카페 정체…강남 진출한 美 AI 기업](https://blog.ai.dmomo.co.kr/news/9359) <br/>
+[2025/09/03 - 수능의 숨은 주역, 한국교육과정평가원의 역할과 영향력 분석](https://blog.ai.dmomo.co.kr/trend/9356) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/09/02 - The Mystery of Yoon Jung-soo's 12-Year Younger Wife, 'Guangzhou Goddess' Won Jae-hyun](https://ai.trend.dmomo.co.kr/2025/09/the-mystery-of-yoon-jung-soos-12-year.html) <br/>
-[2025/09/02 - The Controversy of Former President Yoon Seok-yeol's Prison CCTV: Legal Issues and Political Fallout?](https://ai.trend.dmomo.co.kr/2025/09/the-controversy-of-former-president.html) <br/>
-[2025/09/02 - Hollywood Legend: Graham Greene, 73, Passes Away - Pioneer of Indigenous Actors](https://ai.trend.dmomo.co.kr/2025/09/hollywood-legend-graham-greene-73.html) <br/>
-[2025/09/02 - Cutting-Edge Quantum Computing Innovations to Watch in 2025: Analyzing WMC-Based Problem-Solving Methods](https://ai.trend.dmomo.co.kr/2025/09/cutting-edge-quantum-computing.html) <br/>
-[2025/09/02 - The Hidden History of Labor Day in America: From the 1894 Strike to a Federal Holiday](https://ai.trend.dmomo.co.kr/2025/09/the-hidden-history-of-labor-day-in.html) <br/>
-[2025/09/02 - Son Heung-min's Home Debut in Crisis! LAFC Shocked by 1-2 Comeback Loss to San Diego FC](https://ai.trend.dmomo.co.kr/2025/09/son-heung-mins-home-debut-in-crisis.html) <br/>
+[2025/09/03 - Analyzing the Hidden Role and Influence of the Korean Institute for Curriculum and Evaluation in the College Scholastic Ability Test](https://ai.trend.dmomo.co.kr/2025/09/analyzing-hidden-role-and-influence-of.html) <br/>
+[2025/09/03 - SNL's New Member Veronica Slobikovska: Conquering the American Comedy Scene as a Social Media Star](https://ai.trend.dmomo.co.kr/2025/09/snls-new-member-veronica-slobikovska.html) <br/>
+[2025/09/03 - Stabbing Incident in Sillim-dong: Four Injured, Triggered by Business Conflict?](https://ai.trend.dmomo.co.kr/2025/09/stabbing-incident-in-sillim-dong-four.html) <br/>
+[2025/09/03 - What is DaaS in Cloud Innovation for 2025 and Why Is It Gaining Attention? Key Insights Explained](https://ai.trend.dmomo.co.kr/2025/09/what-is-daas-in-cloud-innovation-for.html) <br/>
+[2025/09/03 - Trump's Space Command Relocation and Giuliani Award Announcement: What Are the Intentions?](https://ai.trend.dmomo.co.kr/2025/09/trumps-space-command-relocation-and.html) <br/>
+[2025/09/03 - The Secret of Yoon Jung-soo's 12-Year Younger Wife, 'Goddess of Guangzhou' Won Ja-hyun?](https://ai.trend.dmomo.co.kr/2025/09/the-secret-of-yoon-jung-soos-12-year.html) <br/>
