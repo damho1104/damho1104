@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/09/07 - 2025 NFL 시즌 개막: 혁신적 데이터와 신예 스타들의 격돌](https://dmomo.co.kr/682) <br/>
+[2025/09/07 - 충격! 1세대 유튜버 '대도서관' 나동현, 46세 나이로 갑작스러운 별세](https://dmomo.co.kr/681) <br/>
 [2025/09/05 - 최강욱의 '개돼지' 발언 논란: 당내 성비위 사건과 정치인의 실수](https://dmomo.co.kr/680) <br/>
 [2025/09/04 - 20주년 맞은 Dancing with the Stars 2025: 화려한 캐스트와 함께 돌아오다](https://dmomo.co.kr/679) <br/>
 [2025/09/04 - 조국혁신당 성비위 폭로: 강미정 대변인의 충격적 탈당 선언과 당의 위기](https://dmomo.co.kr/678) <br/>
 [2025/09/03 - SNL 새 멤버 베로니카 슬로비코브스카: 소셜미디어 스타의 미국 코미디계 정복](https://dmomo.co.kr/677) <br/>
-[2025/09/03 - 신림동 식당서 4명 중상 칼부림, 사업 갈등 발단?](https://dmomo.co.kr/676) <br/>
-[2025/09/02 - 할리우드의 전설: 그레이엄 그린, 73세 별세 - 원주민 배우의 선구자](https://dmomo.co.kr/675) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/06 - [뉴스] 트럼프가 끊어버린 국제 원조…미국 법원은 “다시 집행하라”](https://blog.ai.dmomo.co.kr/news/9512) <br/>
-[2025/09/06 - [뉴스] 기계공학의 힘…바다와 싸운 나라, 세계적 공대를 세우다](https://blog.ai.dmomo.co.kr/news/9509) <br/>
-[2025/09/06 - [뉴스] 전국 대부분 강한비…낮 최고 34도, 무더위는 지속](https://blog.ai.dmomo.co.kr/news/9506) <br/>
-[2025/09/05 - [뉴스] 親트럼프 연준 이사 “백악관 직책도 겸직”](https://blog.ai.dmomo.co.kr/news/9503) <br/>
-[2025/09/05 - [뉴스] 위스키 사러 전날부터 오픈런…이마트, 국내 최대 트레이더스 오픈](https://blog.ai.dmomo.co.kr/news/9500) <br/>
-[2025/09/05 - 2025 NFL 시즌 개막: 혁신적 데이터와 신예 스타들의 격돌](https://blog.ai.dmomo.co.kr/trend/9497) <br/>
+[2025/09/07 - [뉴스] ‘미국에 구금된 한국인 3백명’ 영사면담 시작…건강·애로사항 등 파악](https://blog.ai.dmomo.co.kr/news/9560) <br/>
+[2025/09/07 - IT 트렌드 총정리: AI부터 유니콘까지, 지금 핫한 5가지 소식은?](https://blog.ai.dmomo.co.kr/ai/9557) <br/>
+[2025/09/06 - [뉴스] WSJ “트럼프, 미국 투자기업에 ‘이민 단속’ 리스크 부과”](https://blog.ai.dmomo.co.kr/news/9554) <br/>
+[2025/09/06 - [뉴스] 타다다닥 31인 발소리에 전율…브로드웨이 42번가 숨은 주역](https://blog.ai.dmomo.co.kr/news/9551) <br/>
+[2025/09/06 - [뉴스] 게임할 때나 쓰겠지 했는데…171조 잭팟 예고한 이곳](https://blog.ai.dmomo.co.kr/news/9548) <br/>
+[2025/09/06 - [뉴스] BTS 누른 스트레이 키즈…빌보드 200은 어떻게 집계할까](https://blog.ai.dmomo.co.kr/news/9545) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/09/06 - Shocking! 1st Generation YouTuber 'Daedoseogwan' Na Dong-hyeon Passes Away Suddenly at the Age of 46](https://ai.trend.dmomo.co.kr/2025/09/shocking-1st-generation-youtuber.html) <br/>
+[2025/09/06 - DevOps Innovation in 2025: The Ultimate Solution for IT Operations Automation and Predictive Analytics with AIOps](https://ai.trend.dmomo.co.kr/2025/09/devops-innovation-in-2025-ultimate.html) <br/>
+[2025/09/06 - American Indian Chiefs: The Evolution of Leadership Guiding the Present with Wisdom from the Past](https://ai.trend.dmomo.co.kr/2025/09/american-indian-chiefs-evolution-of.html) <br/>
+[2025/09/06 - SSG's 4-Game Winning Streak vs. Lotte's 3-Game Losing Streak: A Power Showdown with 4 Home Runs, Who Will Prevail?](https://ai.trend.dmomo.co.kr/2025/09/ssgs-4-game-winning-streak-vs-lottes-3.html) <br/>
 [2025/09/05 - 2025 NFL Season Kickoff: Clash of Innovative Data and Rising Stars](https://ai.trend.dmomo.co.kr/2025/09/2025-nfl-season-kickoff-clash-of.html) <br/>
 [2025/09/05 - KT vs KIA: A Fateful Showdown in the Baseball Stadium and the World Championship! Who Will Win?](https://ai.trend.dmomo.co.kr/2025/09/kt-vs-kia-fateful-showdown-in-baseball.html) <br/>
-[2025/09/05 - The Incredible Size of the Golden Eagle and the Latest on Eagle Conservation: The Secret of the 7-Foot Wingspan](https://ai.trend.dmomo.co.kr/2025/09/the-incredible-size-of-golden-eagle-and.html) <br/>
-[2025/09/05 - Shocking! Brazil Excludes Richarlison from Starting Lineup Against Chile...18-Year-Old Rookie to Be Used?](https://ai.trend.dmomo.co.kr/2025/09/shocking-brazil-excludes-richarlison.html) <br/>
-[2025/09/05 - The American Eagle: From Endangered Species to Conservation Success](https://ai.trend.dmomo.co.kr/2025/09/the-american-eagle-from-endangered.html) <br/>
-[2025/09/05 - 5 Essential Secrets of Infrastructure as Code (IaC) Driving Software Infrastructure Innovation in 2025](https://ai.trend.dmomo.co.kr/2025/09/5-essential-secrets-of-infrastructure.html) <br/>
