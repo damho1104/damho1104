@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/09/07 - 충격과 공분! '필리스 카렌', 소년의 홈런볼 빼앗아 미국 전역 논란](https://dmomo.co.kr/684) <br/>
+[2025/09/07 - 한미관계의 새로운 국면: 동맹 강화와 현실적 도전 사이의 균형점](https://dmomo.co.kr/683) <br/>
 [2025/09/07 - 2025 NFL 시즌 개막: 혁신적 데이터와 신예 스타들의 격돌](https://dmomo.co.kr/682) <br/>
 [2025/09/07 - 충격! 1세대 유튜버 '대도서관' 나동현, 46세 나이로 갑작스러운 별세](https://dmomo.co.kr/681) <br/>
 [2025/09/05 - 최강욱의 '개돼지' 발언 논란: 당내 성비위 사건과 정치인의 실수](https://dmomo.co.kr/680) <br/>
 [2025/09/04 - 20주년 맞은 Dancing with the Stars 2025: 화려한 캐스트와 함께 돌아오다](https://dmomo.co.kr/679) <br/>
-[2025/09/04 - 조국혁신당 성비위 폭로: 강미정 대변인의 충격적 탈당 선언과 당의 위기](https://dmomo.co.kr/678) <br/>
-[2025/09/03 - SNL 새 멤버 베로니카 슬로비코브스카: 소셜미디어 스타의 미국 코미디계 정복](https://dmomo.co.kr/677) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/07 - [뉴스] ‘미국에 구금된 한국인 3백명’ 영사면담 시작…건강·애로사항 등 파악](https://blog.ai.dmomo.co.kr/news/9560) <br/>
-[2025/09/07 - IT 트렌드 총정리: AI부터 유니콘까지, 지금 핫한 5가지 소식은?](https://blog.ai.dmomo.co.kr/ai/9557) <br/>
-[2025/09/06 - [뉴스] WSJ “트럼프, 미국 투자기업에 ‘이민 단속’ 리스크 부과”](https://blog.ai.dmomo.co.kr/news/9554) <br/>
-[2025/09/06 - [뉴스] 타다다닥 31인 발소리에 전율…브로드웨이 42번가 숨은 주역](https://blog.ai.dmomo.co.kr/news/9551) <br/>
-[2025/09/06 - [뉴스] 게임할 때나 쓰겠지 했는데…171조 잭팟 예고한 이곳](https://blog.ai.dmomo.co.kr/news/9548) <br/>
-[2025/09/06 - [뉴스] BTS 누른 스트레이 키즈…빌보드 200은 어떻게 집계할까](https://blog.ai.dmomo.co.kr/news/9545) <br/>
+[2025/09/08 - [뉴스] “돌연 취소됐다”…‘라이언 일병’ 톰행크스에 공로상 준다더니, 무슨일이](https://blog.ai.dmomo.co.kr/news/9626) <br/>
+[2025/09/08 - [뉴스] 뱀 머리가 이겼다”…DK, 농심 꺾고 PO 진출](https://blog.ai.dmomo.co.kr/news/9623) <br/>
+[2025/09/08 - [뉴스] 전자담배는 괜찮아 믿었다간…충격 결과](https://blog.ai.dmomo.co.kr/news/9620) <br/>
+[2025/09/07 - [뉴스] 왕가위 영화 완성한 명곡 ‘해피투게더’ 부른 마크 볼먼, 78세로 별세](https://blog.ai.dmomo.co.kr/news/9617) <br/>
+[2025/09/07 - [뉴스] 충청 이남 비…한낮 30도 늦더위 여전](https://blog.ai.dmomo.co.kr/news/9614) <br/>
+[2025/09/07 - 18억 달러 잭팟의 주인공은 누구? 파워볼 역대 2위 당첨의 비밀](https://blog.ai.dmomo.co.kr/trend/9611) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/09/07 - Who is the Winner of the $1.8 Billion Jackpot? The Secret Behind the Second-Largest Powerball Win](https://ai.trend.dmomo.co.kr/2025/09/who-is-winner-of-18-billion-jackpot.html) <br/>
+[2025/09/07 - Everything About Powerball: The Secrets and Latest Trends of the Lottery Captivating America](https://ai.trend.dmomo.co.kr/2025/09/everything-about-powerball-secrets-and.html) <br/>
+[2025/09/07 - A New Phase in Korea-U.S. Relations: Finding the Balance Between Strengthening Alliances and Realistic Challenges](https://ai.trend.dmomo.co.kr/2025/09/a-new-phase-in-korea-us-relations.html) <br/>
+[2025/09/07 - Shock and Outrage! 'Phyllis Karen' Snatches Boy's Home Run Ball, Sparking Controversy Across America](https://ai.trend.dmomo.co.kr/2025/09/shock-and-outrage-phyllis-karen.html) <br/>
+[2025/09/07 - Cutting-Edge Blockchain Technology in 2025: Why Is Detailed Information Still Scarce?](https://ai.trend.dmomo.co.kr/2025/09/cutting-edge-blockchain-technology-in.html) <br/>
 [2025/09/06 - Shocking! 1st Generation YouTuber 'Daedoseogwan' Na Dong-hyeon Passes Away Suddenly at the Age of 46](https://ai.trend.dmomo.co.kr/2025/09/shocking-1st-generation-youtuber.html) <br/>
-[2025/09/06 - DevOps Innovation in 2025: The Ultimate Solution for IT Operations Automation and Predictive Analytics with AIOps](https://ai.trend.dmomo.co.kr/2025/09/devops-innovation-in-2025-ultimate.html) <br/>
-[2025/09/06 - American Indian Chiefs: The Evolution of Leadership Guiding the Present with Wisdom from the Past](https://ai.trend.dmomo.co.kr/2025/09/american-indian-chiefs-evolution-of.html) <br/>
-[2025/09/06 - SSG's 4-Game Winning Streak vs. Lotte's 3-Game Losing Streak: A Power Showdown with 4 Home Runs, Who Will Prevail?](https://ai.trend.dmomo.co.kr/2025/09/ssgs-4-game-winning-streak-vs-lottes-3.html) <br/>
-[2025/09/05 - 2025 NFL Season Kickoff: Clash of Innovative Data and Rising Stars](https://ai.trend.dmomo.co.kr/2025/09/2025-nfl-season-kickoff-clash-of.html) <br/>
-[2025/09/05 - KT vs KIA: A Fateful Showdown in the Baseball Stadium and the World Championship! Who Will Win?](https://ai.trend.dmomo.co.kr/2025/09/kt-vs-kia-fateful-showdown-in-baseball.html) <br/>
