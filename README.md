@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/09/07 - 충격과 공분! '필리스 카렌', 소년의 홈런볼 빼앗아 미국 전역 논란](https://dmomo.co.kr/684) <br/>
-[2025/09/07 - 한미관계의 새로운 국면: 동맹 강화와 현실적 도전 사이의 균형점](https://dmomo.co.kr/683) <br/>
-[2025/09/07 - 2025 NFL 시즌 개막: 혁신적 데이터와 신예 스타들의 격돌](https://dmomo.co.kr/682) <br/>
-[2025/09/07 - 충격! 1세대 유튜버 '대도서관' 나동현, 46세 나이로 갑작스러운 별세](https://dmomo.co.kr/681) <br/>
-[2025/09/05 - 최강욱의 '개돼지' 발언 논란: 당내 성비위 사건과 정치인의 실수](https://dmomo.co.kr/680) <br/>
-[2025/09/04 - 20주년 맞은 Dancing with the Stars 2025: 화려한 캐스트와 함께 돌아오다](https://dmomo.co.kr/679) <br/>
+[2025/09/08 - KT 소액결제 쇼크: 74명 피해자 노린 4580만원 대규모 사기 사건의 전말](http://dmomo.co.kr/690) <br/>
+[2025/09/08 - 곽튜브의 새 인생 챕터: 결혼과 아이 소식에 담긴 유튜버의 성장 스토리](http://dmomo.co.kr/689) <br/>
+[2025/09/08 - 미국 전기세 폭등의 숨은 주범: AI와 데이터센터의 충격적인 영향](http://dmomo.co.kr/688) <br/>
+[2025/09/08 - 나노바나나란 무엇인가 구글 Gemini 2.5 이미지 AI의 비밀과 5가지 혁신점](http://dmomo.co.kr/687) <br/>
+[2025/09/08 - 2025년 AI 혁신 선도하는 서버리스 GPU 기술 완전 분석과 활용법](http://dmomo.co.kr/686) <br/>
+[2025/09/08 - 하늘의 신비, 370년에 한 번 오는 개기일식의 모든 것](http://dmomo.co.kr/685) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/08 - [뉴스] “돌연 취소됐다”…‘라이언 일병’ 톰행크스에 공로상 준다더니, 무슨일이](https://blog.ai.dmomo.co.kr/news/9626) <br/>
-[2025/09/08 - [뉴스] 뱀 머리가 이겼다”…DK, 농심 꺾고 PO 진출](https://blog.ai.dmomo.co.kr/news/9623) <br/>
-[2025/09/08 - [뉴스] 전자담배는 괜찮아 믿었다간…충격 결과](https://blog.ai.dmomo.co.kr/news/9620) <br/>
-[2025/09/07 - [뉴스] 왕가위 영화 완성한 명곡 ‘해피투게더’ 부른 마크 볼먼, 78세로 별세](https://blog.ai.dmomo.co.kr/news/9617) <br/>
-[2025/09/07 - [뉴스] 충청 이남 비…한낮 30도 늦더위 여전](https://blog.ai.dmomo.co.kr/news/9614) <br/>
-[2025/09/07 - 18억 달러 잭팟의 주인공은 누구? 파워볼 역대 2위 당첨의 비밀](https://blog.ai.dmomo.co.kr/trend/9611) <br/>
+[2025/09/09 - J.J. McCarthy의 NFL 데뷔전: 바이킹스 vs 베어스 MNF 격돌](https://blog.ai.dmomo.co.kr/trend/9697) <br/>
+[2025/09/09 - [뉴스] “형체 알아볼수 없을 정도”…선로 건너던 버스 기차가 ‘쾅’, 멕시코 발칵](https://blog.ai.dmomo.co.kr/news/9692) <br/>
+[2025/09/09 - [뉴스] 키워드 넘어 이용자 의도까지 이해”…구글 AI 모드, 오늘 한국 상륙한다](https://blog.ai.dmomo.co.kr/news/9689) <br/>
+[2025/09/09 - [뉴스] 70억 아파트 거주·영양제 대박에도…홍혜걸 여에스더 우울증 심각](https://blog.ai.dmomo.co.kr/news/9686) <br/>
+[2025/09/08 - [뉴스] 트럼프, 한국 반도체 밀당?…삼성·하이닉스 장비 중국 반입 연간단위 허가 검토](https://blog.ai.dmomo.co.kr/news/9683) <br/>
+[2025/09/08 - [뉴스] 못생긴 사람이 오히려 잘 해준다?…Z세대 슈렉킹의 역설](https://blog.ai.dmomo.co.kr/news/9680) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/09/07 - Who is the Winner of the $1.8 Billion Jackpot? The Secret Behind the Second-Largest Powerball Win](https://ai.trend.dmomo.co.kr/2025/09/who-is-winner-of-18-billion-jackpot.html) <br/>
-[2025/09/07 - Everything About Powerball: The Secrets and Latest Trends of the Lottery Captivating America](https://ai.trend.dmomo.co.kr/2025/09/everything-about-powerball-secrets-and.html) <br/>
-[2025/09/07 - A New Phase in Korea-U.S. Relations: Finding the Balance Between Strengthening Alliances and Realistic Challenges](https://ai.trend.dmomo.co.kr/2025/09/a-new-phase-in-korea-us-relations.html) <br/>
-[2025/09/07 - Shock and Outrage! 'Phyllis Karen' Snatches Boy's Home Run Ball, Sparking Controversy Across America](https://ai.trend.dmomo.co.kr/2025/09/shock-and-outrage-phyllis-karen.html) <br/>
-[2025/09/07 - Cutting-Edge Blockchain Technology in 2025: Why Is Detailed Information Still Scarce?](https://ai.trend.dmomo.co.kr/2025/09/cutting-edge-blockchain-technology-in.html) <br/>
-[2025/09/06 - Shocking! 1st Generation YouTuber 'Daedoseogwan' Na Dong-hyeon Passes Away Suddenly at the Age of 46](https://ai.trend.dmomo.co.kr/2025/09/shocking-1st-generation-youtuber.html) <br/>
+[2025/09/08 - KT Small Payment Shock: The Unfolding of a Large-Scale Fraud Case Targeting 74 Victims with 45.8 Million Won](https://ai.trend.dmomo.co.kr/2025/09/kt-small-payment-shock-unfolding-of.html) <br/>
+[2025/09/08 - KwakTube's New Life Chapter: The Growth Story of a YouTuber Through Marriage and Parenthood News](https://ai.trend.dmomo.co.kr/2025/09/kwaktubes-new-life-chapter-growth-story.html) <br/>
+[2025/09/08 - What Is Nanobanana? Secrets of Google Gemini 2.5 Image AI and 5 Innovations](https://ai.trend.dmomo.co.kr/2025/09/what-is-nanobanana-secrets-of-google.html) <br/>
+[2025/09/08 - The Hidden Culprits Behind the Surge in Electricity Costs in the U.S.: The Shocking Impact of AI and Data Centers](https://ai.trend.dmomo.co.kr/2025/09/the-hidden-culprits-behind-surge-in.html) <br/>
+[2025/09/08 - Comprehensive Guide to Serverless GPU Technology Leading AI Innovation in 2025](https://ai.trend.dmomo.co.kr/2025/09/comprehensive-guide-to-serverless-gpu.html) <br/>
+[2025/09/08 - The Mysteries of the Sky: Everything About the Total Solar Eclipse that Happens Once Every 370 Years](https://ai.trend.dmomo.co.kr/2025/09/the-mysteries-of-sky-everything-about.html) <br/>
