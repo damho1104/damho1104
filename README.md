@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/09/11 - KT 무단 소액결제 사태: 5,561명 정보유출, 향후 전망은?](https://dmomo.co.kr/697) <br/>
+[2025/09/11 - 충격! 31세 美보수 아이콘 찰리 커크, TPUSA 행사 중 총격으로 사망](https://dmomo.co.kr/696) <br/>
 [2025/09/10 - 폴란드, NATO 최초 러시아 드론 격추: 유럽 안보의 새 국면](https://dmomo.co.kr/695) <br/>
 [2025/09/10 - 에어팟 프로3 출시: 노이즈 캔슬링 4배 강화와 동시 통역의 비밀은?](https://dmomo.co.kr/694) <br/>
 [2025/09/10 - iPhone 17의 혁신: 8배 광학줌부터 ProRes RAW까지, 새로운 시대의 개막](https://dmomo.co.kr/693) <br/>
 [2025/09/10 - 혁신의 한계를 깨다: Apple의 5.6mm 초슬림 iPhone Air 공개](https://dmomo.co.kr/692) <br/>
-[2025/09/10 - 손흥민 동점골로 뒤집은 한국, 멕시코와 1-1 무승부...월드컵 전략은?](https://dmomo.co.kr/691) <br/>
-[2025/09/08 - KT 소액결제 쇼크: 74명 피해자 노린 4580만원 대규모 사기 사건의 전말](https://dmomo.co.kr/690) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/11 - [뉴스] 한국인 구금자, 출발하려다 돌연 연기…‘미국 측의 사정’의 진실](https://blog.ai.dmomo.co.kr/news/9832) <br/>
-[2025/09/11 - [뉴스] BNK의 여우 같은 밴픽, KT도 홀릴까](https://blog.ai.dmomo.co.kr/news/9829) <br/>
-[2025/09/11 - [뉴스] 연예인에서 인플루언서로 넘어가는 뷰티 마케팅판](https://blog.ai.dmomo.co.kr/news/9826) <br/>
-[2025/09/11 - [뉴스] 트럼프 “한국 원하는대로”…구금자 조만간 귀국할듯](https://blog.ai.dmomo.co.kr/news/9823) <br/>
-[2025/09/10 - [뉴스] 이스라엘, 휴전 중재국 향해 폭탄 투하…‘막무가내’ 공습에 가자휴전 ‘파국’](https://blog.ai.dmomo.co.kr/news/9820) <br/>
-[2025/09/10 - [뉴스] 세계가 인정한 K위스키…기원, IWSC 세계 위스키 부문 대상 수상](https://blog.ai.dmomo.co.kr/news/9817) <br/>
+[2025/09/12 - [뉴스] “미국·중국이 AI 양대 패권국이라고?”…전문가들 ‘특정국가 독주’ 불가능하다는데](https://blog.ai.dmomo.co.kr/news/9895) <br/>
+[2025/09/12 - [뉴스] 티머니, 블록체인 기반 스테이블 코인’ 사업 진출 검토한다](https://blog.ai.dmomo.co.kr/news/9892) <br/>
+[2025/09/12 - [뉴스] 서울대공원서 새끼 호랑이 탄생…한국 호랑이 혈통 잇는다](https://blog.ai.dmomo.co.kr/news/9889) <br/>
+[2025/09/12 - [뉴스] “드디어 한국으로”…석방 근로자 전세기, 애틀랜타공항서 출발](https://blog.ai.dmomo.co.kr/news/9886) <br/>
+[2025/09/11 - [뉴스] 멕시코까지 ‘50% 관세폭탄’…현지 공장에 보낼 부품 조달비용 눈덩이, 해결책은?](https://blog.ai.dmomo.co.kr/news/9883) <br/>
+[2025/09/11 - [뉴스] 또 너야? 케데헌 골든 히트 뒤에 한국인 안무가 있었다](https://blog.ai.dmomo.co.kr/news/9880) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/09/11 - KT Unauthorized Small Payment Incident: Data Breach of 5,561 Individuals and Future Outlook?](https://ai.trend.dmomo.co.kr/2025/09/kt-unauthorized-small-payment-incident.html) <br/>
+[2025/09/11 - Shock! Trump's Close Ally Charlie Kirk Killed in Shooting During Gun Violence Debate](https://ai.trend.dmomo.co.kr/2025/09/shock-trumps-close-ally-charlie-kirk.html) <br/>
+[2025/09/11 - Shock! 31-Year-Old Conservative Icon Charlie Kirk Dies in Shooting at TPUSA Event](https://ai.trend.dmomo.co.kr/2025/09/shock-31-year-old-conservative-icon.html) <br/>
+[2025/09/11 - Why Claude Code, the Revolutionary Low-Code AI Tool of 2025, is Transforming Development Productivity](https://ai.trend.dmomo.co.kr/2025/09/why-claude-code-revolutionary-low-code.html) <br/>
+[2025/09/11 - Mexico vs Korea: Current State of Bilateral Relations through Trade Conflicts and Soccer Exchanges](https://ai.trend.dmomo.co.kr/2025/09/mexico-vs-korea-current-state-of.html) <br/>
 [2025/09/10 - Poland Intercepts Russia's Drone, NATO's First: A New Phase in European Security](https://ai.trend.dmomo.co.kr/2025/09/poland-intercepts-russias-drone-natos.html) <br/>
-[2025/09/10 - AirPods Pro 3 Launch: Discover the 4x Enhanced Noise Cancelling and the Secret Behind Real-Time Translation!](https://ai.trend.dmomo.co.kr/2025/09/airpods-pro-3-launch-imminent-discover.html) <br/>
-[2025/09/10 - South Korea Equalizes with Son Heung-min's Goal, Ends in 1-1 Draw with Mexico...What's the World Cup Strategy?](https://ai.trend.dmomo.co.kr/2025/09/south-korea-equalizes-with-son-heung.html) <br/>
-[2025/09/10 - Breaking the Limits of Innovation: Unveiling Apple's 5.6mm Ultra-Slim iPhone Air](https://ai.trend.dmomo.co.kr/2025/09/breaking-limits-of-innovation-unveiling.html) <br/>
-[2025/09/10 - GPT-5: The Core of AI Innovation in 2025 – How Will It Transform the Economy and Energy Challenges?](https://ai.trend.dmomo.co.kr/2025/09/gpt-5-core-of-ai-innovation-in-2025-how.html) <br/>
-[2025/09/10 - The Innovation of iPhone 17: From 8x Optical Zoom to ProRes RAW, Ushering in a New Era](https://ai.trend.dmomo.co.kr/2025/09/the-innovation-of-iphone-17-from-8x.html) <br/>
