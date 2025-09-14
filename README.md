@@ -88,17 +88,17 @@
 [2025/09/10 - 에어팟 프로3 출시: 노이즈 캔슬링 4배 강화와 동시 통역의 비밀은?](https://dmomo.co.kr/694) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/13 - [뉴스] 트럼프·시진핑 역사적 만남 이뤄지나…양국 고위급, 스페인서 먼저 만나 수싸움](https://blog.ai.dmomo.co.kr/news/9961) <br/>
-[2025/09/13 - [뉴스] 토요일 전국 강하고 많은 비…가뭄 강릉에 호우주의보](https://blog.ai.dmomo.co.kr/news/9958) <br/>
-[2025/09/12 - [뉴스] 현대차 조지아 공장 준공 최소 2개월 늦춰졌는데…미국은 “비자 제대로 받길”](https://blog.ai.dmomo.co.kr/news/9955) <br/>
-[2025/09/12 - [뉴스] 30kg 감량 후 요요 온 스윙스…다이어터 필수템 챙겼다](https://blog.ai.dmomo.co.kr/news/9952) <br/>
-[2025/09/12 - KIA vs 두산, 젊은 베어스의 반격 vs 타이거즈의 우위 굳히기 – 오늘의 승자는?](https://blog.ai.dmomo.co.kr/trend/9949) <br/>
-[2025/09/12 - [뉴스] 미래에셋증권, 오리지널 드라마 시즌5 ‘내가 그리는 미래’ 공개](https://blog.ai.dmomo.co.kr/news/9946) <br/>
+[2025/09/14 - 토트넘, 6년 만의 웨스트햄 원정 격파! 베리발 맹활약으로 2위 도약](https://blog.ai.dmomo.co.kr/trend/10026) <br/>
+[2025/09/14 - [뉴스] 미국 학자 “한국, 트럼프 줄 488조원 수출업자 지원하는게 나아”](https://blog.ai.dmomo.co.kr/news/10021) <br/>
+[2025/09/14 - [뉴스] KT 승리에 T1·한화생명 비상…이긴 팀만 월즈 확정](https://blog.ai.dmomo.co.kr/news/10018) <br/>
+[2025/09/14 - IT 트렌드 파악의 핵심: 주요 커뮤니티 1주일 동향 총정리](https://blog.ai.dmomo.co.kr/ai/10015) <br/>
+[2025/09/13 - [뉴스] 테슬라 엔비디아 넘본다…한국인 ‘최애’로 급부상한 미국 이 종목](https://blog.ai.dmomo.co.kr/news/10012) <br/>
+[2025/09/13 - [뉴스] 걸그룹 청바지 뭐길래…K팝 타고 해외서도 불티](https://blog.ai.dmomo.co.kr/news/10009) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/09/13 - SSG vs Lotte: The Impact of Eredia's Return and the Showdown Between Kim Kwang-hyun and Velasquez](https://ai.trend.dmomo.co.kr/2025/09/ssg-vs-lotte-impact-of-eredias-return.html) <br/>
+[2025/09/13 - Dodgers vs Giants: A Fateful Three-Game Series Towards Fall Baseball, Spotlight on Korean Matchups!](https://ai.trend.dmomo.co.kr/2025/09/dodgers-vs-giants-fateful-three-game.html) <br/>
+[2025/09/13 - Assassinated Charlie Kirk: The Shocking Truth Behind Tyler Robinson's Arrest and The Father of Justice](https://ai.trend.dmomo.co.kr/2025/09/assassinated-charlie-kirk-shocking.html) <br/>
+[2025/09/13 - 5 Key Insights on AI Innovation and Future Prospects Changed by the 2025 GPT-5 Release](https://ai.trend.dmomo.co.kr/2025/09/5-key-insights-on-ai-innovation-and.html) <br/>
+[2025/09/13 - KIA's Miracle: A Comeback in the 9th Inning! Vengeance Achieved Against Doosan After 3 Attempts 4 Times!](https://ai.trend.dmomo.co.kr/2025/09/kias-miracle-comeback-in-9th-inning.html) <br/>
 [2025/09/12 - KIA vs Doosan: Young Bears' Counterattack vs Tigers' Dominance - Who Will Win Today?](https://ai.trend.dmomo.co.kr/2025/09/kia-vs-doosan-young-bears-counterattack.html) <br/>
-[2025/09/12 - 18-Year-Old Trot Rookie Jung Dong-won Under Investigation by Prosecutors for Unlicensed Driving and Extortion Case](https://ai.trend.dmomo.co.kr/2025/09/18-year-old-trot-rookie-jung-dong-won.html) <br/>
-[2025/09/12 - Packers' Revenge: What’s the Secret Behind Their 2-Game Winning Streak in the NFL 2025 Season?](https://ai.trend.dmomo.co.kr/2025/09/packers-revenge-whats-secret-behind.html) <br/>
-[2025/09/12 - The 2025 Revolution in Web Development: The Perfect Fusion of Universal Web Components and Streaming SSR](https://ai.trend.dmomo.co.kr/2025/09/the-2025-revolution-in-web-development.html) <br/>
-[2025/09/12 - Korea's Weather Mysteries: Understanding the Haegichal Phenomenon and September Outfits](https://ai.trend.dmomo.co.kr/2025/09/koreas-weather-mysteries-understanding.html) <br/>
-[2025/09/12 - 2025 NFL Thursday Night Football: Season Highlights and Key Game Preview](https://ai.trend.dmomo.co.kr/2025/09/2025-nfl-thursday-night-football-season.html) <br/>
