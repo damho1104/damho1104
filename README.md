@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/09/15 - WNBA 플레이오프 2025: 7전4승제 결승 도입과 16연승 라스베이거스의 도전](https://dmomo.co.kr/701) <br/>
+[2025/09/15 - 손흥민 53초 선제골, MLS 역사에 남을 LAFC의 4-2 대승과 5만 관중의 열기](https://dmomo.co.kr/700) <br/>
 [2025/09/12 - 패커스의 복수혈전: NFL 2025 시즌 개막 2연승의 비결은?](https://dmomo.co.kr/699) <br/>
 [2025/09/12 - 18세 트로트 신예 정동원, 무면허 운전과 협박 사건으로 검찰 수사 받아](https://dmomo.co.kr/698) <br/>
 [2025/09/11 - KT 무단 소액결제 사태: 5,561명 정보유출, 향후 전망은?](https://dmomo.co.kr/697) <br/>
 [2025/09/11 - 충격! 31세 美보수 아이콘 찰리 커크, TPUSA 행사 중 총격으로 사망](https://dmomo.co.kr/696) <br/>
-[2025/09/10 - 폴란드, NATO 최초 러시아 드론 격추: 유럽 안보의 새 국면](https://dmomo.co.kr/695) <br/>
-[2025/09/10 - 에어팟 프로3 출시: 노이즈 캔슬링 4배 강화와 동시 통역의 비밀은?](https://dmomo.co.kr/694) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/14 - 토트넘, 6년 만의 웨스트햄 원정 격파! 베리발 맹활약으로 2위 도약](https://blog.ai.dmomo.co.kr/trend/10026) <br/>
-[2025/09/14 - [뉴스] 미국 학자 “한국, 트럼프 줄 488조원 수출업자 지원하는게 나아”](https://blog.ai.dmomo.co.kr/news/10021) <br/>
-[2025/09/14 - [뉴스] KT 승리에 T1·한화생명 비상…이긴 팀만 월즈 확정](https://blog.ai.dmomo.co.kr/news/10018) <br/>
-[2025/09/14 - IT 트렌드 파악의 핵심: 주요 커뮤니티 1주일 동향 총정리](https://blog.ai.dmomo.co.kr/ai/10015) <br/>
-[2025/09/13 - [뉴스] 테슬라 엔비디아 넘본다…한국인 ‘최애’로 급부상한 미국 이 종목](https://blog.ai.dmomo.co.kr/news/10012) <br/>
-[2025/09/13 - [뉴스] 걸그룹 청바지 뭐길래…K팝 타고 해외서도 불티](https://blog.ai.dmomo.co.kr/news/10009) <br/>
+[2025/09/15 - [뉴스] “암이란 표현조차 부족할 정도”…커크 암살로 강하게 비판받는 ‘이것’](https://blog.ai.dmomo.co.kr/news/10081) <br/>
+[2025/09/15 - [뉴스] 美 유명 래퍼 극찬에 BTS 뷔까지 홀렸다…K-치킨 브랜드 뭐길래](https://blog.ai.dmomo.co.kr/news/10078) <br/>
+[2025/09/14 - [뉴스] ‘복싱 영웅’ 해턴, 자택서 숨진 채 발견…향년 46세](https://blog.ai.dmomo.co.kr/news/10075) <br/>
+[2025/09/14 - [뉴스] 미국 안갈래요…추방·구금에 관광객 대거 이탈](https://blog.ai.dmomo.co.kr/news/10072) <br/>
+[2025/09/14 - [뉴스] 모태펀드·성장금융도 AI·반도체 붕어빵 투자](https://blog.ai.dmomo.co.kr/news/10069) <br/>
+[2025/09/14 - WNBA 플레이오프 2025: 7전4승제 결승 도입과 16연승 라스베이거스의 도전](https://blog.ai.dmomo.co.kr/trend/10066) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/09/13 - SSG vs Lotte: The Impact of Eredia's Return and the Showdown Between Kim Kwang-hyun and Velasquez](https://ai.trend.dmomo.co.kr/2025/09/ssg-vs-lotte-impact-of-eredias-return.html) <br/>
-[2025/09/13 - Dodgers vs Giants: A Fateful Three-Game Series Towards Fall Baseball, Spotlight on Korean Matchups!](https://ai.trend.dmomo.co.kr/2025/09/dodgers-vs-giants-fateful-three-game.html) <br/>
-[2025/09/13 - Assassinated Charlie Kirk: The Shocking Truth Behind Tyler Robinson's Arrest and The Father of Justice](https://ai.trend.dmomo.co.kr/2025/09/assassinated-charlie-kirk-shocking.html) <br/>
-[2025/09/13 - 5 Key Insights on AI Innovation and Future Prospects Changed by the 2025 GPT-5 Release](https://ai.trend.dmomo.co.kr/2025/09/5-key-insights-on-ai-innovation-and.html) <br/>
-[2025/09/13 - KIA's Miracle: A Comeback in the 9th Inning! Vengeance Achieved Against Doosan After 3 Attempts 4 Times!](https://ai.trend.dmomo.co.kr/2025/09/kias-miracle-comeback-in-9th-inning.html) <br/>
-[2025/09/12 - KIA vs Doosan: Young Bears' Counterattack vs Tigers' Dominance - Who Will Win Today?](https://ai.trend.dmomo.co.kr/2025/09/kia-vs-doosan-young-bears-counterattack.html) <br/>
+[2025/09/14 - WNBA Playoffs 2025: The Introduction of Best-of-Seven Finals and Las Vegas' Challenge for a 16-Game Winning Streak](https://ai.trend.dmomo.co.kr/2025/09/wnba-playoffs-2025-introduction-of-best.html) <br/>
+[2025/09/14 - Son Heung-min's Opening Goal in 53 Seconds: A Historic 4-2 Victory for LAFC with 50,000 Fans' Excitement](https://ai.trend.dmomo.co.kr/2025/09/son-heung-mins-opening-goal-in-53.html) <br/>
+[2025/09/14 - Historic Showdown: Analysis of the Canelo vs Crawford Mega Fight Results](https://ai.trend.dmomo.co.kr/2025/09/historic-showdown-analysis-of-canelo-vs.html) <br/>
+[2025/09/14 - 2025 Breakthroughs in LLM: How SwiftKV Optimization Cuts Inference Costs by 75%](https://ai.trend.dmomo.co.kr/2025/09/2025-breakthroughs-in-llm-how-swiftkv.html) <br/>
+[2025/09/14 - Shocking Comeback Victory? Will Tennessee Break Their 9-Game Losing Streak Against Georgia?](https://ai.trend.dmomo.co.kr/2025/09/shocking-comeback-victory-will.html) <br/>
+[2025/09/14 - Tottenham Triumphs at West Ham After 6 Years! Berry's Stellar Performance Propels Them to 2nd Place](https://ai.trend.dmomo.co.kr/2025/09/tottenham-triumphs-at-west-ham-after-6.html) <br/>
