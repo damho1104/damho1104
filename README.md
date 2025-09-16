@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/09/15 - 상생페이백으로 월 10만원 Get! 소비의 20%가 당신에게 돌아옵니다](https://dmomo.co.kr/702) <br/>
 [2025/09/15 - WNBA 플레이오프 2025: 7전4승제 결승 도입과 16연승 라스베이거스의 도전](https://dmomo.co.kr/701) <br/>
 [2025/09/15 - 손흥민 53초 선제골, MLS 역사에 남을 LAFC의 4-2 대승과 5만 관중의 열기](https://dmomo.co.kr/700) <br/>
 [2025/09/12 - 패커스의 복수혈전: NFL 2025 시즌 개막 2연승의 비결은?](https://dmomo.co.kr/699) <br/>
 [2025/09/12 - 18세 트로트 신예 정동원, 무면허 운전과 협박 사건으로 검찰 수사 받아](https://dmomo.co.kr/698) <br/>
 [2025/09/11 - KT 무단 소액결제 사태: 5,561명 정보유출, 향후 전망은?](https://dmomo.co.kr/697) <br/>
-[2025/09/11 - 충격! 31세 美보수 아이콘 찰리 커크, TPUSA 행사 중 총격으로 사망](https://dmomo.co.kr/696) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/15 - [뉴스] “암이란 표현조차 부족할 정도”…커크 암살로 강하게 비판받는 ‘이것’](https://blog.ai.dmomo.co.kr/news/10081) <br/>
-[2025/09/15 - [뉴스] 美 유명 래퍼 극찬에 BTS 뷔까지 홀렸다…K-치킨 브랜드 뭐길래](https://blog.ai.dmomo.co.kr/news/10078) <br/>
-[2025/09/14 - [뉴스] ‘복싱 영웅’ 해턴, 자택서 숨진 채 발견…향년 46세](https://blog.ai.dmomo.co.kr/news/10075) <br/>
-[2025/09/14 - [뉴스] 미국 안갈래요…추방·구금에 관광객 대거 이탈](https://blog.ai.dmomo.co.kr/news/10072) <br/>
-[2025/09/14 - [뉴스] 모태펀드·성장금융도 AI·반도체 붕어빵 투자](https://blog.ai.dmomo.co.kr/news/10069) <br/>
-[2025/09/14 - WNBA 플레이오프 2025: 7전4승제 결승 도입과 16연승 라스베이거스의 도전](https://blog.ai.dmomo.co.kr/trend/10066) <br/>
+[2025/09/16 - 대상그룹 임세령 부회장의 숨겨진 이야기: 재벌가의 화제의 인물](https://blog.ai.dmomo.co.kr/trend/10149) <br/>
+[2025/09/16 - [뉴스] “머리카락 냄새 맡으면 성적 만족감 느낀다”…버스  탄 긴머리 여성에 20대남이 한 짓](https://blog.ai.dmomo.co.kr/news/10144) <br/>
+[2025/09/16 - [뉴스] 퇴학당한 꼬마, 세계가 사랑한 작가가 되다](https://blog.ai.dmomo.co.kr/news/10141) <br/>
+[2025/09/16 - [뉴스] “美中무역협상 매우 잘돼 시진핑과 19일 통화할것”](https://blog.ai.dmomo.co.kr/news/10138) <br/>
+[2025/09/15 - [뉴스] “누가 되는게 그나마 한국에 낫지?”…일본 차기 총리 ‘여자 아베’ vs ‘젊은 우파’](https://blog.ai.dmomo.co.kr/news/10135) <br/>
+[2025/09/15 - [뉴스] 마곡에서 잠실까지…한강버스 18일부터 운항](https://blog.ai.dmomo.co.kr/news/10132) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/09/15 - 2025 Emmy Award Winners Recap: The Triumph of 'The Pitt' and 'The Studio'](https://ai.trend.dmomo.co.kr/2025/09/2025-emmy-award-winners-recap-triumph.html) <br/>
+[2025/09/15 - Get 100,000 Won Monthly with Co-Prosperity Payback! 20% of Your Spending Comes Back to You](https://ai.trend.dmomo.co.kr/2025/09/get-100000-won-monthly-with-co.html) <br/>
+[2025/09/15 - Core of Enterprise AI in 2025: Analyzing the Latest Innovations in Azure AI Search's RAG Technology](https://ai.trend.dmomo.co.kr/2025/09/core-of-enterprise-ai-in-2025-analyzing.html) <br/>
+[2025/09/15 - Man City 3-0 Man United: Haaland's Multi-Goal Explosion, Who is the True Winner of the Derby?](https://ai.trend.dmomo.co.kr/2025/09/man-city-3-0-man-united-haalands-multi.html) <br/>
+[2025/09/15 - WNBA Playoffs 2025: Intense Battle of 8 Teams in a Best-of-Seven Finals](https://ai.trend.dmomo.co.kr/2025/09/wnba-playoffs-2025-intense-battle-of-8.html) <br/>
 [2025/09/14 - WNBA Playoffs 2025: The Introduction of Best-of-Seven Finals and Las Vegas' Challenge for a 16-Game Winning Streak](https://ai.trend.dmomo.co.kr/2025/09/wnba-playoffs-2025-introduction-of-best.html) <br/>
-[2025/09/14 - Son Heung-min's Opening Goal in 53 Seconds: A Historic 4-2 Victory for LAFC with 50,000 Fans' Excitement](https://ai.trend.dmomo.co.kr/2025/09/son-heung-mins-opening-goal-in-53.html) <br/>
-[2025/09/14 - Historic Showdown: Analysis of the Canelo vs Crawford Mega Fight Results](https://ai.trend.dmomo.co.kr/2025/09/historic-showdown-analysis-of-canelo-vs.html) <br/>
-[2025/09/14 - 2025 Breakthroughs in LLM: How SwiftKV Optimization Cuts Inference Costs by 75%](https://ai.trend.dmomo.co.kr/2025/09/2025-breakthroughs-in-llm-how-swiftkv.html) <br/>
-[2025/09/14 - Shocking Comeback Victory? Will Tennessee Break Their 9-Game Losing Streak Against Georgia?](https://ai.trend.dmomo.co.kr/2025/09/shocking-comeback-victory-will.html) <br/>
-[2025/09/14 - Tottenham Triumphs at West Ham After 6 Years! Berry's Stellar Performance Propels Them to 2nd Place](https://ai.trend.dmomo.co.kr/2025/09/tottenham-triumphs-at-west-ham-after-6.html) <br/>
