@@ -88,17 +88,17 @@
 [2025/09/11 - KT 무단 소액결제 사태: 5,561명 정보유출, 향후 전망은?](https://dmomo.co.kr/697) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/16 - 대상그룹 임세령 부회장의 숨겨진 이야기: 재벌가의 화제의 인물](https://blog.ai.dmomo.co.kr/trend/10149) <br/>
-[2025/09/16 - [뉴스] “머리카락 냄새 맡으면 성적 만족감 느낀다”…버스  탄 긴머리 여성에 20대남이 한 짓](https://blog.ai.dmomo.co.kr/news/10144) <br/>
-[2025/09/16 - [뉴스] 퇴학당한 꼬마, 세계가 사랑한 작가가 되다](https://blog.ai.dmomo.co.kr/news/10141) <br/>
-[2025/09/16 - [뉴스] “美中무역협상 매우 잘돼 시진핑과 19일 통화할것”](https://blog.ai.dmomo.co.kr/news/10138) <br/>
-[2025/09/15 - [뉴스] “누가 되는게 그나마 한국에 낫지?”…일본 차기 총리 ‘여자 아베’ vs ‘젊은 우파’](https://blog.ai.dmomo.co.kr/news/10135) <br/>
-[2025/09/15 - [뉴스] 마곡에서 잠실까지…한강버스 18일부터 운항](https://blog.ai.dmomo.co.kr/news/10132) <br/>
+[2025/09/17 - [뉴스] 자동차 관세 급한 불은 껐는데…반도체·의약품 세율에 트럼프 압박받는 일본](https://blog.ai.dmomo.co.kr/news/10213) <br/>
+[2025/09/17 - [뉴스] 청소년 보호 최우선…이달 말 18세 미만 전용 챗GPT 공개](https://blog.ai.dmomo.co.kr/news/10210) <br/>
+[2025/09/17 - [뉴스] 1박 1300만원, 불꽃축제 특수 요금제 올해도 나왔다](https://blog.ai.dmomo.co.kr/news/10207) <br/>
+[2025/09/16 - [뉴스] 부상 딛고 2m 34 넘은 우상혁, 세계육상선수권대회서 값진 은메달](https://blog.ai.dmomo.co.kr/news/10204) <br/>
+[2025/09/16 - [뉴스] 돌아오는 유커 잡아라…中기업 임직원 단체관광까지 노린다](https://blog.ai.dmomo.co.kr/news/10201) <br/>
+[2025/09/16 - [뉴스] K-스타트업 세계로 나가는데…외인 투자자가 계좌 하나 못 만드는 나라](https://blog.ai.dmomo.co.kr/news/10198) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/09/15 - 2025 Emmy Award Winners Recap: The Triumph of 'The Pitt' and 'The Studio'](https://ai.trend.dmomo.co.kr/2025/09/2025-emmy-award-winners-recap-triumph.html) <br/>
-[2025/09/15 - Get 100,000 Won Monthly with Co-Prosperity Payback! 20% of Your Spending Comes Back to You](https://ai.trend.dmomo.co.kr/2025/09/get-100000-won-monthly-with-co.html) <br/>
-[2025/09/15 - Core of Enterprise AI in 2025: Analyzing the Latest Innovations in Azure AI Search's RAG Technology](https://ai.trend.dmomo.co.kr/2025/09/core-of-enterprise-ai-in-2025-analyzing.html) <br/>
-[2025/09/15 - Man City 3-0 Man United: Haaland's Multi-Goal Explosion, Who is the True Winner of the Derby?](https://ai.trend.dmomo.co.kr/2025/09/man-city-3-0-man-united-haalands-multi.html) <br/>
-[2025/09/15 - WNBA Playoffs 2025: Intense Battle of 8 Teams in a Best-of-Seven Finals](https://ai.trend.dmomo.co.kr/2025/09/wnba-playoffs-2025-intense-battle-of-8.html) <br/>
-[2025/09/14 - WNBA Playoffs 2025: The Introduction of Best-of-Seven Finals and Las Vegas' Challenge for a 16-Game Winning Streak](https://ai.trend.dmomo.co.kr/2025/09/wnba-playoffs-2025-introduction-of-best.html) <br/>
+[2025/09/16 - Shocking Tragedy on Delta State University Campus: What is the Truth Behind the Death of a 21-Year-Old Black Student?](https://ai.trend.dmomo.co.kr/2025/09/shocking-tragedy-on-delta-state.html) <br/>
+[2025/09/16 - Hanwha vs KIA on September 17: A Crucial Battle for the Postseason](https://ai.trend.dmomo.co.kr/2025/09/hanwha-vs-kia-on-september-17-crucial.html) <br/>
+[2025/09/16 - Phillies vs Dodgers: A Thrilling Battle for MLB Playoff Seedings](https://ai.trend.dmomo.co.kr/2025/09/phillies-vs-dodgers-thrilling-battle.html) <br/>
+[2025/09/16 - A Night of Destiny for the Raiders: The Evolution of Home Teams through Monday Night NFL Games](https://ai.trend.dmomo.co.kr/2025/09/a-night-of-destiny-for-raiders.html) <br/>
+[2025/09/16 - Texans vs Buccaneers: Will the NFL Week 2 MNF Showdown Deliver a Thrilling Battle?](https://ai.trend.dmomo.co.kr/2025/09/texans-vs-buccaneers-will-nfl-week-2.html) <br/>
+[2025/09/16 - 2025 Cloud Innovation Essentials: Comprehensive Analysis of DaaS and Serverless Computing](https://ai.trend.dmomo.co.kr/2025/09/2025-cloud-innovation-essentials.html) <br/>
