@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/09/17 - 할리우드의 전설 로버트 레드포드, 89세로 별세: 영화계 추모 물결](https://dmomo.co.kr/704) <br/>
-[2025/09/17 - 토트넘, 3시즌 만의 챔스 복귀전서 1-0 승! 프랭크 감독 첫 승 신화](https://dmomo.co.kr/703) <br/>
-[2025/09/15 - 상생페이백으로 월 10만원 Get! 소비의 20%가 당신에게 돌아옵니다](https://dmomo.co.kr/702) <br/>
-[2025/09/15 - WNBA 플레이오프 2025: 7전4승제 결승 도입과 16연승 라스베이거스의 도전](https://dmomo.co.kr/701) <br/>
-[2025/09/15 - 손흥민 53초 선제골, MLS 역사에 남을 LAFC의 4-2 대승과 5만 관중의 열기](https://dmomo.co.kr/700) <br/>
-[2025/09/12 - 패커스의 복수혈전: NFL 2025 시즌 개막 2연승의 비결은?](https://dmomo.co.kr/699) <br/>
+[2025/09/18 - PSG의 4-0 압승, 이강인 부상 극복! 챔스 디펜딩 챔피언의 완벽한 개막전](http://dmomo.co.kr/706) <br/>
+[2025/09/18 - Jimmy Kimmel 쇼 중단: 충격적 발언과 ABC의 파격 결정의 이면](http://dmomo.co.kr/705) <br/>
+[2025/09/17 - 할리우드의 전설 로버트 레드포드, 89세로 별세: 영화계 추모 물결](http://dmomo.co.kr/704) <br/>
+[2025/09/17 - 토트넘, 3시즌 만의 챔스 복귀전서 1-0 승! 프랭크 감독 첫 승 신화](http://dmomo.co.kr/703) <br/>
+[2025/09/15 - 상생페이백으로 월 10만원 Get! 소비의 20%가 당신에게 돌아옵니다](http://dmomo.co.kr/702) <br/>
+[2025/09/15 - WNBA 플레이오프 2025: 7전4승제 결승 도입과 16연승 라스베이거스의 도전](http://dmomo.co.kr/701) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/18 - [뉴스] “개구리에 독 있는거 아니냐”…중국 음식 혐오했다 사과한 테니스 선수](https://blog.ai.dmomo.co.kr/news/10270) <br/>
-[2025/09/18 - [뉴스] 잘나가던 포토샵, AI에 밀리더니…1년 사이 94조원 증발](https://blog.ai.dmomo.co.kr/news/10267) <br/>
-[2025/09/18 - [뉴스] [속보] 연준 9개월만에 금리인하…고용악화 대응 나서](https://blog.ai.dmomo.co.kr/news/10264) <br/>
-[2025/09/17 - [뉴스] “보수 인사 죽었다고 기뻐해?”…미국 “SNS 추적해 비자 취소 후 추방”](https://blog.ai.dmomo.co.kr/news/10261) <br/>
-[2025/09/17 - [뉴스] 리사가 왜 거기서 나와…부산 뒤집어 놓은 드레스 여신들](https://blog.ai.dmomo.co.kr/news/10258) <br/>
-[2025/09/17 - [뉴스] KT 무단 소액결제 中용의자 2명 검거…피해 최소화 최선](https://blog.ai.dmomo.co.kr/news/10255) <br/>
+[2025/09/19 - [뉴스] “한번 와보면 기업할 생각 절로 날걸요?”…이집트가 한국기업에 ‘기회의 땅’인 이유](https://blog.ai.dmomo.co.kr/news/10342) <br/>
+[2025/09/19 - [뉴스] AICE 차세대 AI 인재양성에 자격증될 것](https://blog.ai.dmomo.co.kr/news/10339) <br/>
+[2025/09/19 - [뉴스] 주말 전국 또 비 소식…태풍 3개 동시 발생 가능성](https://blog.ai.dmomo.co.kr/news/10336) <br/>
+[2025/09/19 - [뉴스] 韓日 쥐어짜던 트럼프…英엔 환대받고 283조원 투자선물](https://blog.ai.dmomo.co.kr/news/10333) <br/>
+[2025/09/18 - [뉴스] “반려견 탑승 안됩니다”…벨기에서 개 유기한 뒤 홀로 떠난 견주](https://blog.ai.dmomo.co.kr/news/10330) <br/>
+[2025/09/18 - [뉴스] 신예은 vs 거장, 치명적인 애교 배틀…부국제 분위기 달궜다](https://blog.ai.dmomo.co.kr/news/10327) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/09/18 - AI Innovation Showdown: Samsung's Comprehensive Strategy vs NC's Fashion-Focused Strategy - Who Will Prevail?](https://ai.trend.dmomo.co.kr/2025/09/ai-innovation-showdown-samsungs.html) <br/>
+[2025/09/18 - Jimmy Kimmel Fired? Truth or Falsehood? Shocking Announcement from ABC Expected](https://ai.trend.dmomo.co.kr/2025/09/jimmy-kimmel-fired-truth-or-falsehood.html) <br/>
+[2025/09/18 - Top 5 IaC Trends for 2025 and Strategies to Revolutionize Software Infrastructure](https://ai.trend.dmomo.co.kr/2025/09/top-5-iac-trends-for-2025-and.html) <br/>
+[2025/09/18 - PSG's 4-0 Dominance: Lee Kang-in Overcomes Injury! A Perfect Season Opener for the Defending Champions in the Champions League](https://ai.trend.dmomo.co.kr/2025/09/psgs-4-0-dominance-lee-kang-in.html) <br/>
+[2025/09/18 - Jimmy Kimmel Show Suspension: Shocking Remarks and the Surprising Decision Behind ABC's Move](https://ai.trend.dmomo.co.kr/2025/09/jimmy-kimmel-show-suspension-shocking.html) <br/>
 [2025/09/17 - What Is FinOps in 2025 DevOps Innovation and Why Is It Gaining Attention?](https://ai.trend.dmomo.co.kr/2025/09/what-is-finops-in-2025-devops.html) <br/>
-[2025/09/17 - Hollywood Legend Robert Redford Passes Away at 89: A Wave of Tributes in the Film Industry](https://ai.trend.dmomo.co.kr/2025/09/hollywood-legend-robert-redford-passes.html) <br/>
-[2025/09/17 - Tottenham Triumphs 1-0 in Champions League Return After 3 Seasons! Coach Frank's First Victory Myth](https://ai.trend.dmomo.co.kr/2025/09/tottenham-triumphs-1-0-in-champions.html) <br/>
-[2025/09/16 - Shocking Tragedy on Delta State University Campus: What is the Truth Behind the Death of a 21-Year-Old Black Student?](https://ai.trend.dmomo.co.kr/2025/09/shocking-tragedy-on-delta-state.html) <br/>
-[2025/09/16 - Hanwha vs KIA on September 17: A Crucial Battle for the Postseason](https://ai.trend.dmomo.co.kr/2025/09/hanwha-vs-kia-on-september-17-crucial.html) <br/>
-[2025/09/16 - Phillies vs Dodgers: A Thrilling Battle for MLB Playoff Seedings](https://ai.trend.dmomo.co.kr/2025/09/phillies-vs-dodgers-thrilling-battle.html) <br/>
