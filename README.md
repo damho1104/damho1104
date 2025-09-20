@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/09/18 - PSG의 4-0 압승, 이강인 부상 극복! 챔스 디펜딩 챔피언의 완벽한 개막전](http://dmomo.co.kr/706) <br/>
-[2025/09/18 - Jimmy Kimmel 쇼 중단: 충격적 발언과 ABC의 파격 결정의 이면](http://dmomo.co.kr/705) <br/>
-[2025/09/17 - 할리우드의 전설 로버트 레드포드, 89세로 별세: 영화계 추모 물결](http://dmomo.co.kr/704) <br/>
-[2025/09/17 - 토트넘, 3시즌 만의 챔스 복귀전서 1-0 승! 프랭크 감독 첫 승 신화](http://dmomo.co.kr/703) <br/>
-[2025/09/15 - 상생페이백으로 월 10만원 Get! 소비의 20%가 당신에게 돌아옵니다](http://dmomo.co.kr/702) <br/>
-[2025/09/15 - WNBA 플레이오프 2025: 7전4승제 결승 도입과 16연승 라스베이거스의 도전](http://dmomo.co.kr/701) <br/>
+[2025/09/19 - 빌스 vs 돌핀스: 7연승 달성한 빌스, 시즌 3승 무패로 슈퍼볼 향해 질주](https://dmomo.co.kr/708) <br/>
+[2025/09/19 - 손흥민 해트트릭 폭발! LA FC, 솔트레이크에 4-1 압승...MLS 서부 상위권 노린다](https://dmomo.co.kr/707) <br/>
+[2025/09/18 - PSG의 4-0 압승, 이강인 부상 극복! 챔스 디펜딩 챔피언의 완벽한 개막전](https://dmomo.co.kr/706) <br/>
+[2025/09/18 - Jimmy Kimmel 쇼 중단: 충격적 발언과 ABC의 파격 결정의 이면](https://dmomo.co.kr/705) <br/>
+[2025/09/17 - 할리우드의 전설 로버트 레드포드, 89세로 별세: 영화계 추모 물결](https://dmomo.co.kr/704) <br/>
+[2025/09/17 - 토트넘, 3시즌 만의 챔스 복귀전서 1-0 승! 프랭크 감독 첫 승 신화](https://dmomo.co.kr/703) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/19 - [뉴스] “한번 와보면 기업할 생각 절로 날걸요?”…이집트가 한국기업에 ‘기회의 땅’인 이유](https://blog.ai.dmomo.co.kr/news/10342) <br/>
-[2025/09/19 - [뉴스] AICE 차세대 AI 인재양성에 자격증될 것](https://blog.ai.dmomo.co.kr/news/10339) <br/>
-[2025/09/19 - [뉴스] 주말 전국 또 비 소식…태풍 3개 동시 발생 가능성](https://blog.ai.dmomo.co.kr/news/10336) <br/>
-[2025/09/19 - [뉴스] 韓日 쥐어짜던 트럼프…英엔 환대받고 283조원 투자선물](https://blog.ai.dmomo.co.kr/news/10333) <br/>
-[2025/09/18 - [뉴스] “반려견 탑승 안됩니다”…벨기에서 개 유기한 뒤 홀로 떠난 견주](https://blog.ai.dmomo.co.kr/news/10330) <br/>
-[2025/09/18 - [뉴스] 신예은 vs 거장, 치명적인 애교 배틀…부국제 분위기 달궜다](https://blog.ai.dmomo.co.kr/news/10327) <br/>
+[2025/09/20 - [뉴스] “감기 걸린 줄 알았는데, 사실은”…패혈증으로 팔·다리 모두 잘라낸 의대생](https://blog.ai.dmomo.co.kr/news/10420) <br/>
+[2025/09/20 - [뉴스] 작년보다 비싸진 아이폰, 이유 물었더니…관세 탓 아냐](https://blog.ai.dmomo.co.kr/news/10417) <br/>
+[2025/09/20 - [뉴스] 박보영 이어 한소희까지 줄줄이…또 취소됐다 무슨 일](https://blog.ai.dmomo.co.kr/news/10414) <br/>
+[2025/09/20 - [뉴스] 트럼프 “시진핑과 한국 APEC 정상회의서 만나기로…방중은 내년 초”](https://blog.ai.dmomo.co.kr/news/10411) <br/>
+[2025/09/19 - [뉴스] [속보] “트럼프·시진핑, 3개월여 만에 전화 통화”](https://blog.ai.dmomo.co.kr/news/10408) <br/>
+[2025/09/19 - [뉴스] 소비자와 싱크 맞추니 통했다…시총 8조 에이피알의 성공방정식](https://blog.ai.dmomo.co.kr/news/10405) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/09/18 - AI Innovation Showdown: Samsung's Comprehensive Strategy vs NC's Fashion-Focused Strategy - Who Will Prevail?](https://ai.trend.dmomo.co.kr/2025/09/ai-innovation-showdown-samsungs.html) <br/>
-[2025/09/18 - Jimmy Kimmel Fired? Truth or Falsehood? Shocking Announcement from ABC Expected](https://ai.trend.dmomo.co.kr/2025/09/jimmy-kimmel-fired-truth-or-falsehood.html) <br/>
-[2025/09/18 - Top 5 IaC Trends for 2025 and Strategies to Revolutionize Software Infrastructure](https://ai.trend.dmomo.co.kr/2025/09/top-5-iac-trends-for-2025-and.html) <br/>
-[2025/09/18 - PSG's 4-0 Dominance: Lee Kang-in Overcomes Injury! A Perfect Season Opener for the Defending Champions in the Champions League](https://ai.trend.dmomo.co.kr/2025/09/psgs-4-0-dominance-lee-kang-in.html) <br/>
-[2025/09/18 - Jimmy Kimmel Show Suspension: Shocking Remarks and the Surprising Decision Behind ABC's Move](https://ai.trend.dmomo.co.kr/2025/09/jimmy-kimmel-show-suspension-shocking.html) <br/>
-[2025/09/17 - What Is FinOps in 2025 DevOps Innovation and Why Is It Gaining Attention?](https://ai.trend.dmomo.co.kr/2025/09/what-is-finops-in-2025-devops.html) <br/>
+[2025/09/19 - Bills Achieve 7th Consecutive Win Against Dolphins! Josh Allen Reaches 200 Touchdowns in 'Thursday Night Showdown'](https://ai.trend.dmomo.co.kr/2025/09/bills-achieve-7th-consecutive-win.html) <br/>
+[2025/09/19 - Lotte vs NC: Key Battle for Survival in the Mid-Table of 2025 KBO](https://ai.trend.dmomo.co.kr/2025/09/lotte-vs-nc-key-battle-for-survival-in.html) <br/>
+[2025/09/19 - Bills vs Dolphins: Bills Achieve 7-Game Winning Streak, Undefeated at 3-0 as They Chase the Super Bowl](https://ai.trend.dmomo.co.kr/2025/09/bills-vs-dolphins-bills-achieve-7-game.html) <br/>
+[2025/09/19 - Manchester City vs Napoli: Haaland's 2-0 Victory Over 10-Man Napoli](https://ai.trend.dmomo.co.kr/2025/09/manchester-city-vs-napoli-haalands-2-0.html) <br/>
+[2025/09/19 - The 2025 Cloud Revolution: 5 Key Trends in Data Services Transformed by DaaS](https://ai.trend.dmomo.co.kr/2025/09/the-2025-cloud-revolution-5-key-trends.html) <br/>
+[2025/09/19 - Bills vs Dolphins: Anticipating an 11.5-Point Margin in a High-Scoring Showdown](https://ai.trend.dmomo.co.kr/2025/09/bills-vs-dolphins-anticipating-115.html) <br/>
