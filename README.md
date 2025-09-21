@@ -88,17 +88,17 @@
 [2025/09/17 - 토트넘, 3시즌 만의 챔스 복귀전서 1-0 승! 프랭크 감독 첫 승 신화](https://dmomo.co.kr/703) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/20 - [뉴스] “감기 걸린 줄 알았는데, 사실은”…패혈증으로 팔·다리 모두 잘라낸 의대생](https://blog.ai.dmomo.co.kr/news/10420) <br/>
-[2025/09/20 - [뉴스] 작년보다 비싸진 아이폰, 이유 물었더니…관세 탓 아냐](https://blog.ai.dmomo.co.kr/news/10417) <br/>
-[2025/09/20 - [뉴스] 박보영 이어 한소희까지 줄줄이…또 취소됐다 무슨 일](https://blog.ai.dmomo.co.kr/news/10414) <br/>
-[2025/09/20 - [뉴스] 트럼프 “시진핑과 한국 APEC 정상회의서 만나기로…방중은 내년 초”](https://blog.ai.dmomo.co.kr/news/10411) <br/>
-[2025/09/19 - [뉴스] [속보] “트럼프·시진핑, 3개월여 만에 전화 통화”](https://blog.ai.dmomo.co.kr/news/10408) <br/>
-[2025/09/19 - [뉴스] 소비자와 싱크 맞추니 통했다…시총 8조 에이피알의 성공방정식](https://blog.ai.dmomo.co.kr/news/10405) <br/>
+[2025/09/21 - [뉴스] “미국 H-1B 비자 1.4억원 수수료는 신규 신청자에게만 적용”](https://blog.ai.dmomo.co.kr/news/10480) <br/>
+[2025/09/21 - [뉴스] 방시혁 회심작 청바지 광고 대박 났는데…하이브 미래는?](https://blog.ai.dmomo.co.kr/news/10477) <br/>
+[2025/09/21 - IT 커뮤니티 핫 토픽 파악을 위한 3가지 데이터 수집 전략](https://blog.ai.dmomo.co.kr/ai/10474) <br/>
+[2025/09/20 - [뉴스] “소장은 독설 퍼붓는 포럼 아냐”…트럼프, NYT 21조 청구 명예훼손 소송 기각](https://blog.ai.dmomo.co.kr/news/10471) <br/>
+[2025/09/20 - [뉴스] 장신의 아내 손 꼭…김병만, 결혼식 사진 공개됐다](https://blog.ai.dmomo.co.kr/news/10468) <br/>
+[2025/09/20 - [뉴스] K콘텐츠 내수 한계 깬 성공비결…넷플릭스 파급효과 5.6조](https://blog.ai.dmomo.co.kr/news/10465) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/09/19 - Bills Achieve 7th Consecutive Win Against Dolphins! Josh Allen Reaches 200 Touchdowns in 'Thursday Night Showdown'](https://ai.trend.dmomo.co.kr/2025/09/bills-achieve-7th-consecutive-win.html) <br/>
-[2025/09/19 - Lotte vs NC: Key Battle for Survival in the Mid-Table of 2025 KBO](https://ai.trend.dmomo.co.kr/2025/09/lotte-vs-nc-key-battle-for-survival-in.html) <br/>
-[2025/09/19 - Bills vs Dolphins: Bills Achieve 7-Game Winning Streak, Undefeated at 3-0 as They Chase the Super Bowl](https://ai.trend.dmomo.co.kr/2025/09/bills-vs-dolphins-bills-achieve-7-game.html) <br/>
-[2025/09/19 - Manchester City vs Napoli: Haaland's 2-0 Victory Over 10-Man Napoli](https://ai.trend.dmomo.co.kr/2025/09/manchester-city-vs-napoli-haalands-2-0.html) <br/>
-[2025/09/19 - The 2025 Cloud Revolution: 5 Key Trends in Data Services Transformed by DaaS](https://ai.trend.dmomo.co.kr/2025/09/the-2025-cloud-revolution-5-key-trends.html) <br/>
-[2025/09/19 - Bills vs Dolphins: Anticipating an 11.5-Point Margin in a High-Scoring Showdown](https://ai.trend.dmomo.co.kr/2025/09/bills-vs-dolphins-anticipating-115.html) <br/>
+[2025/09/20 - Jeonbuk, K League 1 Leader, Shocked at Home with 1-2 Loss to Gimcheon... Maintains 17-Point Lead 'Championship in Sight'](https://ai.trend.dmomo.co.kr/2025/09/jeonbuk-k-league-1-leader-shocked-at.html) <br/>
+[2025/09/20 - Trump's Shocking H-1B Visa Reform: The Reality and Impact of the $100,000 Fee](https://ai.trend.dmomo.co.kr/2025/09/trumps-shocking-h-1b-visa-reform.html) <br/>
+[2025/09/20 - LCK Clash: KT vs Hanwha - Who Will Secure the Final Ticket to the 2025 Playoff Round 4?](https://ai.trend.dmomo.co.kr/2025/09/lck-clash-kt-vs-hanwha-who-will-secure.html) <br/>
+[2025/09/20 - Shock: Country Music Legend Brett James Passes Away at 57 in Plane Crash](https://ai.trend.dmomo.co.kr/2025/09/shock-country-music-legend-brett-james.html) <br/>
+[2025/09/20 - 2025 LLM Innovation: The Secret Behind 75% Inference Cost Reduction with SwiftKV Optimization](https://ai.trend.dmomo.co.kr/2025/09/2025-llm-innovation-secret-behind-75.html) <br/>
+[2025/09/20 - Lotte vs NC: The Hidden Rivalry in Gyeongnam Baseball and Its Exciting Story](https://ai.trend.dmomo.co.kr/2025/09/lotte-vs-nc-hidden-rivalry-in-gyeongnam.html) <br/>
