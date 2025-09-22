@@ -88,17 +88,17 @@
 [2025/09/17 - 토트넘, 3시즌 만의 챔스 복귀전서 1-0 승! 프랭크 감독 첫 승 신화](https://dmomo.co.kr/703) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/21 - [뉴스] “미국 H-1B 비자 1.4억원 수수료는 신규 신청자에게만 적용”](https://blog.ai.dmomo.co.kr/news/10480) <br/>
-[2025/09/21 - [뉴스] 방시혁 회심작 청바지 광고 대박 났는데…하이브 미래는?](https://blog.ai.dmomo.co.kr/news/10477) <br/>
-[2025/09/21 - IT 커뮤니티 핫 토픽 파악을 위한 3가지 데이터 수집 전략](https://blog.ai.dmomo.co.kr/ai/10474) <br/>
-[2025/09/20 - [뉴스] “소장은 독설 퍼붓는 포럼 아냐”…트럼프, NYT 21조 청구 명예훼손 소송 기각](https://blog.ai.dmomo.co.kr/news/10471) <br/>
-[2025/09/20 - [뉴스] 장신의 아내 손 꼭…김병만, 결혼식 사진 공개됐다](https://blog.ai.dmomo.co.kr/news/10468) <br/>
-[2025/09/20 - [뉴스] K콘텐츠 내수 한계 깬 성공비결…넷플릭스 파급효과 5.6조](https://blog.ai.dmomo.co.kr/news/10465) <br/>
+[2025/09/22 - [뉴스] “미친짓 해야겠다”…상의 훌러덩 벗더니 포효한 조규성, 무슨일이](https://blog.ai.dmomo.co.kr/news/10537) <br/>
+[2025/09/22 - [뉴스] 케데헌 OST 빌보드 앨범차트 2위…13주 연속 최상위권](https://blog.ai.dmomo.co.kr/news/10534) <br/>
+[2025/09/21 - [뉴스] “이사진 7명 중 6명 미국인으로”…트럼프, 틱톡 매각 앞두고 통제 포석](https://blog.ai.dmomo.co.kr/news/10531) <br/>
+[2025/09/21 - [뉴스] 12kg 감량 우주소녀 다영, 다이어트 약 먹었다가…눈 뜨니 바닥](https://blog.ai.dmomo.co.kr/news/10528) <br/>
+[2025/09/21 - [뉴스] 새 직업 만들어낸 넷플릭스…아시아서 인력 8000명 길러냈다](https://blog.ai.dmomo.co.kr/news/10525) <br/>
+[2025/09/21 - 마이애미 허리케인스, 플로리다 게이터스에 26-7 압승…4연승 질주](https://blog.ai.dmomo.co.kr/trend/10522) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/09/20 - Jeonbuk, K League 1 Leader, Shocked at Home with 1-2 Loss to Gimcheon... Maintains 17-Point Lead 'Championship in Sight'](https://ai.trend.dmomo.co.kr/2025/09/jeonbuk-k-league-1-leader-shocked-at.html) <br/>
-[2025/09/20 - Trump's Shocking H-1B Visa Reform: The Reality and Impact of the $100,000 Fee](https://ai.trend.dmomo.co.kr/2025/09/trumps-shocking-h-1b-visa-reform.html) <br/>
-[2025/09/20 - LCK Clash: KT vs Hanwha - Who Will Secure the Final Ticket to the 2025 Playoff Round 4?](https://ai.trend.dmomo.co.kr/2025/09/lck-clash-kt-vs-hanwha-who-will-secure.html) <br/>
-[2025/09/20 - Shock: Country Music Legend Brett James Passes Away at 57 in Plane Crash](https://ai.trend.dmomo.co.kr/2025/09/shock-country-music-legend-brett-james.html) <br/>
-[2025/09/20 - 2025 LLM Innovation: The Secret Behind 75% Inference Cost Reduction with SwiftKV Optimization](https://ai.trend.dmomo.co.kr/2025/09/2025-llm-innovation-secret-behind-75.html) <br/>
-[2025/09/20 - Lotte vs NC: The Hidden Rivalry in Gyeongnam Baseball and Its Exciting Story](https://ai.trend.dmomo.co.kr/2025/09/lotte-vs-nc-hidden-rivalry-in-gyeongnam.html) <br/>
+[2025/09/21 - Miami Hurricanes Crush Florida Gators 26-7 for Fourth Straight Win](https://ai.trend.dmomo.co.kr/2025/09/miami-hurricanes-crush-florida-gators.html) <br/>
+[2025/09/21 - FC Seoul vs Gwangju FC: A Do-or-Die Clash for Final A Qualification! Who Will Prevail?](https://ai.trend.dmomo.co.kr/2025/09/fc-seoul-vs-gwangju-fc-do-or-die-clash.html) <br/>
+[2025/09/21 - Monterrey Dominates Club America with 2-0 Victory... Solidifying Liga MX Lead](https://ai.trend.dmomo.co.kr/2025/09/monterrey-dominates-club-america-with-2.html) <br/>
+[2025/09/21 - 5 Key Strategies for AI Agent Innovation and Utilization in 2025](https://ai.trend.dmomo.co.kr/2025/09/5-key-strategies-for-ai-agent.html) <br/>
+[2025/09/21 - Master of Competition: John Mateer Leads Oklahoma to Dramatic Victory in SEC Opener](https://ai.trend.dmomo.co.kr/2025/09/master-of-competition-john-mateer-leads.html) <br/>
+[2025/09/21 - Man Utd vs Chelsea: A Dramatic 2-1 Victory in a 10 vs 10 Clash with 27 Fouls](https://ai.trend.dmomo.co.kr/2025/09/man-utd-vs-chelsea-dramatic-2-1-victory.html) <br/>
