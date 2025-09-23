@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/09/19 - 빌스 vs 돌핀스: 7연승 달성한 빌스, 시즌 3승 무패로 슈퍼볼 향해 질주](https://dmomo.co.kr/708) <br/>
-[2025/09/19 - 손흥민 해트트릭 폭발! LA FC, 솔트레이크에 4-1 압승...MLS 서부 상위권 노린다](https://dmomo.co.kr/707) <br/>
-[2025/09/18 - PSG의 4-0 압승, 이강인 부상 극복! 챔스 디펜딩 챔피언의 완벽한 개막전](https://dmomo.co.kr/706) <br/>
-[2025/09/18 - Jimmy Kimmel 쇼 중단: 충격적 발언과 ABC의 파격 결정의 이면](https://dmomo.co.kr/705) <br/>
-[2025/09/17 - 할리우드의 전설 로버트 레드포드, 89세로 별세: 영화계 추모 물결](https://dmomo.co.kr/704) <br/>
-[2025/09/17 - 토트넘, 3시즌 만의 챔스 복귀전서 1-0 승! 프랭크 감독 첫 승 신화](https://dmomo.co.kr/703) <br/>
+[2025/09/23 - 2차 민생지원금 신청 시작! 10만원 쿠폰의 모든 것](http://dmomo.co.kr/711) <br/>
+[2025/09/23 - 손흥민의 매직! LAFC vs 솔트레이크 2-1 승리, 골라조로 5경기 연속 득점](http://dmomo.co.kr/710) <br/>
+[2025/09/23 - 트럼프의 충격적 H-1B 비자 개혁: $100,000 수수료의 실체와 영향](http://dmomo.co.kr/709) <br/>
+[2025/09/19 - 빌스 vs 돌핀스: 7연승 달성한 빌스, 시즌 3승 무패로 슈퍼볼 향해 질주](http://dmomo.co.kr/708) <br/>
+[2025/09/19 - 손흥민 해트트릭 폭발! LA FC, 솔트레이크에 4-1 압승...MLS 서부 상위권 노린다](http://dmomo.co.kr/707) <br/>
+[2025/09/18 - PSG의 4-0 압승, 이강인 부상 극복! 챔스 디펜딩 챔피언의 완벽한 개막전](http://dmomo.co.kr/706) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/22 - [뉴스] “미친짓 해야겠다”…상의 훌러덩 벗더니 포효한 조규성, 무슨일이](https://blog.ai.dmomo.co.kr/news/10537) <br/>
-[2025/09/22 - [뉴스] 케데헌 OST 빌보드 앨범차트 2위…13주 연속 최상위권](https://blog.ai.dmomo.co.kr/news/10534) <br/>
-[2025/09/21 - [뉴스] “이사진 7명 중 6명 미국인으로”…트럼프, 틱톡 매각 앞두고 통제 포석](https://blog.ai.dmomo.co.kr/news/10531) <br/>
-[2025/09/21 - [뉴스] 12kg 감량 우주소녀 다영, 다이어트 약 먹었다가…눈 뜨니 바닥](https://blog.ai.dmomo.co.kr/news/10528) <br/>
-[2025/09/21 - [뉴스] 새 직업 만들어낸 넷플릭스…아시아서 인력 8000명 길러냈다](https://blog.ai.dmomo.co.kr/news/10525) <br/>
-[2025/09/21 - 마이애미 허리케인스, 플로리다 게이터스에 26-7 압승…4연승 질주](https://blog.ai.dmomo.co.kr/trend/10522) <br/>
+[2025/09/23 - [뉴스] “제발 출국 좀 하지마”…월가도 실리콘밸리도 비자 사태에 ‘멘붕’](https://blog.ai.dmomo.co.kr/news/10609) <br/>
+[2025/09/23 - [뉴스] 트럼프 임신중 타이레놀 자폐 위험 통보할 것…근거부족 반박도](https://blog.ai.dmomo.co.kr/news/10606) <br/>
+[2025/09/23 - [뉴스] 추모식 간판 걸고 ‘MAGA총회’…미국 보수청년 애도에 9만명 운집](https://blog.ai.dmomo.co.kr/news/10603) <br/>
+[2025/09/23 - 2차 민생지원금 신청 시작! 10만원 쿠폰의 모든 것](https://blog.ai.dmomo.co.kr/trend/10600) <br/>
+[2025/09/22 - [뉴스] 320만원짜리 ‘키 크는 치료’에 1.4cm ‘쑥’…중단하자 2주만에 ‘원상복귀’](https://blog.ai.dmomo.co.kr/news/10597) <br/>
+[2025/09/22 - [뉴스] 그라운드 제로에 서서…지금, 사랑한다고 말해야 하는 이유](https://blog.ai.dmomo.co.kr/news/10594) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/09/21 - Miami Hurricanes Crush Florida Gators 26-7 for Fourth Straight Win](https://ai.trend.dmomo.co.kr/2025/09/miami-hurricanes-crush-florida-gators.html) <br/>
-[2025/09/21 - FC Seoul vs Gwangju FC: A Do-or-Die Clash for Final A Qualification! Who Will Prevail?](https://ai.trend.dmomo.co.kr/2025/09/fc-seoul-vs-gwangju-fc-do-or-die-clash.html) <br/>
-[2025/09/21 - Monterrey Dominates Club America with 2-0 Victory... Solidifying Liga MX Lead](https://ai.trend.dmomo.co.kr/2025/09/monterrey-dominates-club-america-with-2.html) <br/>
-[2025/09/21 - 5 Key Strategies for AI Agent Innovation and Utilization in 2025](https://ai.trend.dmomo.co.kr/2025/09/5-key-strategies-for-ai-agent.html) <br/>
-[2025/09/21 - Master of Competition: John Mateer Leads Oklahoma to Dramatic Victory in SEC Opener](https://ai.trend.dmomo.co.kr/2025/09/master-of-competition-john-mateer-leads.html) <br/>
-[2025/09/21 - Man Utd vs Chelsea: A Dramatic 2-1 Victory in a 10 vs 10 Clash with 27 Fouls](https://ai.trend.dmomo.co.kr/2025/09/man-utd-vs-chelsea-dramatic-2-1-victory.html) <br/>
+[2025/09/23 - Second Round of Living Support Fund Applications Begin! Everything About the 100,000 Won Coupon](https://ai.trend.dmomo.co.kr/2025/09/second-round-of-living-support-fund.html) <br/>
+[2025/09/22 - Son Heung-min's Magic! LAFC vs Real Salt Lake 2-1 Victory, 5 Consecutive Games with a Goal](https://ai.trend.dmomo.co.kr/2025/09/son-heung-mins-magic-lafc-vs-real-salt.html) <br/>
+[2025/09/22 - The Chiefs' Redemption Drama: Overcoming the Giants to Capture Their First Win of the Season After Starting 0-2](https://ai.trend.dmomo.co.kr/2025/09/the-chiefs-redemption-drama-overcoming.html) <br/>
+[2025/09/22 - What Are the Key Innovations in AI Infrastructure for 2025 and Strategies to Secure Business Competitiveness?](https://ai.trend.dmomo.co.kr/2025/09/what-are-key-innovations-in-ai.html) <br/>
+[2025/09/22 - Arsenal vs Manchester City 1-1 Draw: Martinelli's Last-Minute Goal - Will They Break the 5-Match Winless Streak?](https://ai.trend.dmomo.co.kr/2025/09/arsenal-vs-manchester-city-1-1-draw.html) <br/>
+[2025/09/22 - The Bears' Miracle: Williams' 4 TDs Lead to Victory Over Cowboys, Coach Johnson's First Win!](https://ai.trend.dmomo.co.kr/2025/09/the-bears-miracle-williams-4-tds-lead.html) <br/>
