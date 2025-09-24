@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/09/23 - 2차 민생지원금 신청 시작! 10만원 쿠폰의 모든 것](http://dmomo.co.kr/711) <br/>
-[2025/09/23 - 손흥민의 매직! LAFC vs 솔트레이크 2-1 승리, 골라조로 5경기 연속 득점](http://dmomo.co.kr/710) <br/>
-[2025/09/23 - 트럼프의 충격적 H-1B 비자 개혁: $100,000 수수료의 실체와 영향](http://dmomo.co.kr/709) <br/>
-[2025/09/19 - 빌스 vs 돌핀스: 7연승 달성한 빌스, 시즌 3승 무패로 슈퍼볼 향해 질주](http://dmomo.co.kr/708) <br/>
-[2025/09/19 - 손흥민 해트트릭 폭발! LA FC, 솔트레이크에 4-1 압승...MLS 서부 상위권 노린다](http://dmomo.co.kr/707) <br/>
-[2025/09/18 - PSG의 4-0 압승, 이강인 부상 극복! 챔스 디펜딩 챔피언의 완벽한 개막전](http://dmomo.co.kr/706) <br/>
+[2025/09/23 - 카카오톡 15년 대변신: AI 슈퍼앱의 탄생과 사용자들의 반응은?](https://dmomo.co.kr/714) <br/>
+[2025/09/23 - 165만 유튜버 상해기의 충격적 음주운전, 맥주 먹방의 그림자](https://dmomo.co.kr/713) <br/>
+[2025/09/23 - 손흥민-부앙가 듀오의 폭발적 활약, LA FC의 4-1 압승을 이끌다](https://dmomo.co.kr/712) <br/>
+[2025/09/23 - 2차 민생지원금 신청 시작! 10만원 쿠폰의 모든 것](https://dmomo.co.kr/711) <br/>
+[2025/09/23 - 손흥민의 매직! LAFC vs 솔트레이크 2-1 승리, 골라조로 5경기 연속 득점](https://dmomo.co.kr/710) <br/>
+[2025/09/23 - 트럼프의 충격적 H-1B 비자 개혁: $100,000 수수료의 실체와 영향](https://dmomo.co.kr/709) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/23 - [뉴스] “제발 출국 좀 하지마”…월가도 실리콘밸리도 비자 사태에 ‘멘붕’](https://blog.ai.dmomo.co.kr/news/10609) <br/>
-[2025/09/23 - [뉴스] 트럼프 임신중 타이레놀 자폐 위험 통보할 것…근거부족 반박도](https://blog.ai.dmomo.co.kr/news/10606) <br/>
-[2025/09/23 - [뉴스] 추모식 간판 걸고 ‘MAGA총회’…미국 보수청년 애도에 9만명 운집](https://blog.ai.dmomo.co.kr/news/10603) <br/>
-[2025/09/23 - 2차 민생지원금 신청 시작! 10만원 쿠폰의 모든 것](https://blog.ai.dmomo.co.kr/trend/10600) <br/>
-[2025/09/22 - [뉴스] 320만원짜리 ‘키 크는 치료’에 1.4cm ‘쑥’…중단하자 2주만에 ‘원상복귀’](https://blog.ai.dmomo.co.kr/news/10597) <br/>
-[2025/09/22 - [뉴스] 그라운드 제로에 서서…지금, 사랑한다고 말해야 하는 이유](https://blog.ai.dmomo.co.kr/news/10594) <br/>
+[2025/09/24 - 165만 먹방 유튜버 상해기의 미스터리: 5년 전 뒷광고 논란의 진실은?](https://blog.ai.dmomo.co.kr/trend/10683) <br/>
+[2025/09/24 - [뉴스] 한국엔 그렇게 머뭇대더니…미국, 아르헨티나엔 통화스와프 먼저 제안](https://blog.ai.dmomo.co.kr/news/10678) <br/>
+[2025/09/24 - [뉴스] 직접 콘텐츠 짜는 K팝 팬덤…韓, 글로벌 IP 허브 도약할 것](https://blog.ai.dmomo.co.kr/news/10675) <br/>
+[2025/09/24 - [뉴스] 주말까지 전국 가을비…최대 100㎜·천둥번개 동반](https://blog.ai.dmomo.co.kr/news/10672) <br/>
+[2025/09/24 - [뉴스] 트럼프, 면전서 유엔 직격…“전쟁 끝낼 동안 유엔 전화한통 없어”](https://blog.ai.dmomo.co.kr/news/10669) <br/>
+[2025/09/23 - [뉴스] 영국 보건장관 “임신중 타이레놀 먹지말란 트럼프 말 듣지마”](https://blog.ai.dmomo.co.kr/news/10666) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/09/23 - Second Round of Living Support Fund Applications Begin! Everything About the 100,000 Won Coupon](https://ai.trend.dmomo.co.kr/2025/09/second-round-of-living-support-fund.html) <br/>
-[2025/09/22 - Son Heung-min's Magic! LAFC vs Real Salt Lake 2-1 Victory, 5 Consecutive Games with a Goal](https://ai.trend.dmomo.co.kr/2025/09/son-heung-mins-magic-lafc-vs-real-salt.html) <br/>
-[2025/09/22 - The Chiefs' Redemption Drama: Overcoming the Giants to Capture Their First Win of the Season After Starting 0-2](https://ai.trend.dmomo.co.kr/2025/09/the-chiefs-redemption-drama-overcoming.html) <br/>
-[2025/09/22 - What Are the Key Innovations in AI Infrastructure for 2025 and Strategies to Secure Business Competitiveness?](https://ai.trend.dmomo.co.kr/2025/09/what-are-key-innovations-in-ai.html) <br/>
-[2025/09/22 - Arsenal vs Manchester City 1-1 Draw: Martinelli's Last-Minute Goal - Will They Break the 5-Match Winless Streak?](https://ai.trend.dmomo.co.kr/2025/09/arsenal-vs-manchester-city-1-1-draw.html) <br/>
-[2025/09/22 - The Bears' Miracle: Williams' 4 TDs Lead to Victory Over Cowboys, Coach Johnson's First Win!](https://ai.trend.dmomo.co.kr/2025/09/the-bears-miracle-williams-4-tds-lead.html) <br/>
+[2025/09/23 - KakaoTalk's 15-Year Transformation: The Birth of an AI Super App and User Reactions](https://ai.trend.dmomo.co.kr/2025/09/kakaotalks-15-year-transformation-birth.html) <br/>
+[2025/09/23 - The Shocking DUI Incident of 1.65 Million YouTuber Sanghaegi: The Dark Side of Beer Mukbang](https://ai.trend.dmomo.co.kr/2025/09/the-shocking-dui-incident-of-165.html) <br/>
+[2025/09/23 - Shocking! PSG Suffers Away Defeat in Le Classique After 14 Years... Marseille's Miracle](https://ai.trend.dmomo.co.kr/2025/09/shocking-psg-suffers-away-defeat-in-le.html) <br/>
+[2025/09/23 - Shock! Lions Defeat Super Bowl Contender Ravens 38-30... NFL Power Rankings Shaken](https://ai.trend.dmomo.co.kr/2025/09/shock-lions-defeat-super-bowl-contender.html) <br/>
+[2025/09/23 - Shocking! Announcement on the Link Between Trump's Autism and Tylenol Sparks Backlash in the Scientific Community](https://ai.trend.dmomo.co.kr/2025/09/shocking-announcement-on-link-between.html) <br/>
+[2025/09/23 - Essential 2025 Strategy: What Is DataOps and How Is It Different from DevOps?](https://ai.trend.dmomo.co.kr/2025/09/essential-2025-strategy-what-is-dataops.html) <br/>
