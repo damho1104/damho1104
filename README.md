@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/09/26 - 충격적인 달라스 ICE 시설 총격: 29세 용의자의 anti-ICE 동기와 그 파장](https://dmomo.co.kr/717) <br/>
 [2025/09/24 - Jimmy Kimmel Live 복귀: 논란과 표현의 자유, 그 이면의 이야기](https://dmomo.co.kr/716) <br/>
 [2025/09/24 - 165만 먹방 유튜버 상해기의 미스터리: 5년 전 뒷광고 논란의 진실은?](https://dmomo.co.kr/715) <br/>
 [2025/09/23 - 카카오톡 15년 대변신: AI 슈퍼앱의 탄생과 사용자들의 반응은?](https://dmomo.co.kr/714) <br/>
 [2025/09/23 - 165만 유튜버 상해기의 충격적 음주운전, 맥주 먹방의 그림자](https://dmomo.co.kr/713) <br/>
 [2025/09/23 - 손흥민-부앙가 듀오의 폭발적 활약, LA FC의 4-1 압승을 이끌다](https://dmomo.co.kr/712) <br/>
-[2025/09/23 - 2차 민생지원금 신청 시작! 10만원 쿠폰의 모든 것](https://dmomo.co.kr/711) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/25 - [뉴스] “트럼프, 10월 경주APEC 참석 전 일본방문 타진”](https://blog.ai.dmomo.co.kr/news/10745) <br/>
-[2025/09/25 - [뉴스] 붉은사막, 내년 3월 전 세계 출시…에디션·가격 공개](https://blog.ai.dmomo.co.kr/news/10742) <br/>
-[2025/09/25 - [뉴스] 중국집에 쏟아진 공깃밥 추가 주문…떡집·막걸리 양조장 쌀이 없어요 아우성](https://blog.ai.dmomo.co.kr/news/10739) <br/>
-[2025/09/24 - [뉴스] “당신은 나의 영웅”…아름다운데 사격실력까지 뛰어나, ‘엄친딸’ 중국 여경](https://blog.ai.dmomo.co.kr/news/10736) <br/>
-[2025/09/24 - [뉴스] 은근 마음에 들었는데…수지, 흰자위 점 결국 제거](https://blog.ai.dmomo.co.kr/news/10733) <br/>
-[2025/09/24 - [뉴스] SKT, 28년째 헌혈 캠페인 나선다](https://blog.ai.dmomo.co.kr/news/10730) <br/>
+[2025/09/26 - Mnet 보이즈 2 플래닛 최종회: 알파드라이브원 8인 데뷔 확정! 1위는?](https://blog.ai.dmomo.co.kr/trend/10813) <br/>
+[2025/09/26 - [뉴스] 최고령자 117세 건강비결 분석…‘이것’ 하루 3개씩 먹었다, 뭐길래](https://blog.ai.dmomo.co.kr/news/10808) <br/>
+[2025/09/26 - [뉴스] 질문에만 답하던 챗GPT…이젠 오늘 아내 선물 사셔야겠네요](https://blog.ai.dmomo.co.kr/news/10805) <br/>
+[2025/09/26 - [뉴스] 초보자에게…아르떼TV 영상시편’ 첫선](https://blog.ai.dmomo.co.kr/news/10802) <br/>
+[2025/09/25 - [뉴스] 뉴욕 월가 찾은 이 대통령…‘코스피 5000’ 비전 알리며 투자 설명회](https://blog.ai.dmomo.co.kr/news/10799) <br/>
+[2025/09/25 - [뉴스] 개그계 대부 전유성, 폐기흉 악화로 별세](https://blog.ai.dmomo.co.kr/news/10796) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/09/25 - What’s the Key to Next-Generation IoT Connectivity Innovation with LPWAN and 3GPP in 2025?](https://ai.trend.dmomo.co.kr/2025/09/whats-key-to-next-generation-iot.html) <br/>
+[2025/09/25 - Shocking Dallas ICE Facility Shooting: The Anti-ICE Motive of the 29-Year-Old Suspect and Its Aftermath](https://ai.trend.dmomo.co.kr/2025/09/shocking-dallas-ice-facility-shooting.html) <br/>
+[2025/09/25 - Tottenham Advances to Carabao Cup Round of 16! Dominates Doncaster with a 3-0 Victory](https://ai.trend.dmomo.co.kr/2025/09/tottenham-advances-to-carabao-cup-round.html) <br/>
 [2025/09/24 - LG vs NC: Key Showdown in KBO Ranking Competition Through Data](https://ai.trend.dmomo.co.kr/2025/09/lg-vs-nc-key-showdown-in-kbo-ranking.html) <br/>
 [2025/09/24 - Liverpool's Dramatic 2-1 Victory Over Southampton in Carabao Cup 3rd Round... Isak's Debut Goal](https://ai.trend.dmomo.co.kr/2025/09/liverpools-dramatic-2-1-victory-over.html) <br/>
 [2025/09/24 - Return of Jimmy Kimmel Live: The Controversy, Freedom of Expression, and the Story Behind It](https://ai.trend.dmomo.co.kr/2025/09/return-of-jimmy-kimmel-live-controversy.html) <br/>
-[2025/09/24 - Cutting-Edge RAG Technology in 2025: Key Strategies for Multi-Agent Collaboration and Real-Time Monitoring](https://ai.trend.dmomo.co.kr/2025/09/cutting-edge-rag-technology-in-2025-key.html) <br/>
-[2025/09/24 - The Shocking Death of Former NFL Star Rudi Johnson and the Shadow of CTE](https://ai.trend.dmomo.co.kr/2025/09/the-shocking-death-of-former-nfl-star.html) <br/>
-[2025/09/24 - The Mystery of 1.65 Million Mukbang YouTuber Sanghaegi: What is the Truth Behind the Back Advertising Controversy from 5 Years Ago?](https://ai.trend.dmomo.co.kr/2025/09/the-mystery-of-165-million-mukbang.html) <br/>
