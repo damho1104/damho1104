@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/09/26 - 충격! 美 복음주의 거장 보디 바우캄, 56세로 급서... 그의 유산은?](https://dmomo.co.kr/719) <br/>
+[2025/09/26 - Mnet 보이즈 2 플래닛 최종회: 알파드라이브원 8인 데뷔 확정! 1위는?](https://dmomo.co.kr/718) <br/>
 [2025/09/26 - 충격적인 달라스 ICE 시설 총격: 29세 용의자의 anti-ICE 동기와 그 파장](https://dmomo.co.kr/717) <br/>
 [2025/09/24 - Jimmy Kimmel Live 복귀: 논란과 표현의 자유, 그 이면의 이야기](https://dmomo.co.kr/716) <br/>
 [2025/09/24 - 165만 먹방 유튜버 상해기의 미스터리: 5년 전 뒷광고 논란의 진실은?](https://dmomo.co.kr/715) <br/>
 [2025/09/23 - 카카오톡 15년 대변신: AI 슈퍼앱의 탄생과 사용자들의 반응은?](https://dmomo.co.kr/714) <br/>
-[2025/09/23 - 165만 유튜버 상해기의 충격적 음주운전, 맥주 먹방의 그림자](https://dmomo.co.kr/713) <br/>
-[2025/09/23 - 손흥민-부앙가 듀오의 폭발적 활약, LA FC의 4-1 압승을 이끌다](https://dmomo.co.kr/712) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/26 - Mnet 보이즈 2 플래닛 최종회: 알파드라이브원 8인 데뷔 확정! 1위는?](https://blog.ai.dmomo.co.kr/trend/10813) <br/>
-[2025/09/26 - [뉴스] 최고령자 117세 건강비결 분석…‘이것’ 하루 3개씩 먹었다, 뭐길래](https://blog.ai.dmomo.co.kr/news/10808) <br/>
-[2025/09/26 - [뉴스] 질문에만 답하던 챗GPT…이젠 오늘 아내 선물 사셔야겠네요](https://blog.ai.dmomo.co.kr/news/10805) <br/>
-[2025/09/26 - [뉴스] 초보자에게…아르떼TV 영상시편’ 첫선](https://blog.ai.dmomo.co.kr/news/10802) <br/>
-[2025/09/25 - [뉴스] 뉴욕 월가 찾은 이 대통령…‘코스피 5000’ 비전 알리며 투자 설명회](https://blog.ai.dmomo.co.kr/news/10799) <br/>
-[2025/09/25 - [뉴스] 개그계 대부 전유성, 폐기흉 악화로 별세](https://blog.ai.dmomo.co.kr/news/10796) <br/>
+[2025/09/27 - [뉴스] [속보] 김정은 “핵무력 중추로 한 안전보장, 우리의 절대불변한 입장”](https://blog.ai.dmomo.co.kr/news/10877) <br/>
+[2025/09/27 - [뉴스] 7연속 젠지냐, 7년만의 KT냐…LCK 결승 갈 팀은?](https://blog.ai.dmomo.co.kr/news/10874) <br/>
+[2025/09/27 - [뉴스] 남부·제주 흐림…10도 안팎 큰 일교차](https://blog.ai.dmomo.co.kr/news/10871) <br/>
+[2025/09/26 - [뉴스] 연준 중시하는 PCE 물가 8월 2.7%…완만한 상승세](https://blog.ai.dmomo.co.kr/news/10868) <br/>
+[2025/09/26 - [뉴스] 올해 최고의 클래식 앨범은?…그라모폰상 최종 후보 33선](https://blog.ai.dmomo.co.kr/news/10865) <br/>
+[2025/09/26 - [뉴스] 네이버-두나무 빅딜 주식교환 비율은…1대 3 산정 가능성](https://blog.ai.dmomo.co.kr/news/10862) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/09/25 - What’s the Key to Next-Generation IoT Connectivity Innovation with LPWAN and 3GPP in 2025?](https://ai.trend.dmomo.co.kr/2025/09/whats-key-to-next-generation-iot.html) <br/>
-[2025/09/25 - Shocking Dallas ICE Facility Shooting: The Anti-ICE Motive of the 29-Year-Old Suspect and Its Aftermath](https://ai.trend.dmomo.co.kr/2025/09/shocking-dallas-ice-facility-shooting.html) <br/>
-[2025/09/25 - Tottenham Advances to Carabao Cup Round of 16! Dominates Doncaster with a 3-0 Victory](https://ai.trend.dmomo.co.kr/2025/09/tottenham-advances-to-carabao-cup-round.html) <br/>
-[2025/09/24 - LG vs NC: Key Showdown in KBO Ranking Competition Through Data](https://ai.trend.dmomo.co.kr/2025/09/lg-vs-nc-key-showdown-in-kbo-ranking.html) <br/>
-[2025/09/24 - Liverpool's Dramatic 2-1 Victory Over Southampton in Carabao Cup 3rd Round... Isak's Debut Goal](https://ai.trend.dmomo.co.kr/2025/09/liverpools-dramatic-2-1-victory-over.html) <br/>
-[2025/09/24 - Return of Jimmy Kimmel Live: The Controversy, Freedom of Expression, and the Story Behind It](https://ai.trend.dmomo.co.kr/2025/09/return-of-jimmy-kimmel-live-controversy.html) <br/>
+[2025/09/26 - Shocking! Evangelical Giant Voddie Baucham Dies at 56... What Is His Legacy?](https://ai.trend.dmomo.co.kr/2025/09/shocking-evangelical-giant-voddie.html) <br/>
+[2025/09/26 - LG vs Hanwha: A Fateful Three-Game Series for the 2025 KBO Championship, Featuring Chirinos vs Ryu Hyun-jin](https://ai.trend.dmomo.co.kr/2025/09/lg-vs-hanwha-fateful-three-game-series.html) <br/>
+[2025/09/26 - The Secret to Seahawks' 5-Game Winning Streak: Dramatic 23-20 Victory Against the Cardinals](https://ai.trend.dmomo.co.kr/2025/09/the-secret-to-seahawks-5-game-winning.html) <br/>
+[2025/09/26 - 2025 Breakthroughs in Autonomous AI Agents and an In-Depth Look at the LibreChat No-Code Platform](https://ai.trend.dmomo.co.kr/2025/09/2025-breakthroughs-in-autonomous-ai.html) <br/>
+[2025/09/26 - National Daughters Day in the USA: Significance and Impact of a Special Day with Daughters](https://ai.trend.dmomo.co.kr/2025/09/national-daughters-day-in-usa.html) <br/>
+[2025/09/26 - Mnet Boys Planet Final Episode: Alpha Drive One's Debut of 8 Members Confirmed! Who is No. 1?](https://ai.trend.dmomo.co.kr/2025/09/mnet-boys-planet-final-episode-alpha.html) <br/>
