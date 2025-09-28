@@ -88,17 +88,17 @@
 [2025/09/23 - 카카오톡 15년 대변신: AI 슈퍼앱의 탄생과 사용자들의 반응은?](https://dmomo.co.kr/714) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/27 - [뉴스] [속보] 김정은 “핵무력 중추로 한 안전보장, 우리의 절대불변한 입장”](https://blog.ai.dmomo.co.kr/news/10877) <br/>
-[2025/09/27 - [뉴스] 7연속 젠지냐, 7년만의 KT냐…LCK 결승 갈 팀은?](https://blog.ai.dmomo.co.kr/news/10874) <br/>
-[2025/09/27 - [뉴스] 남부·제주 흐림…10도 안팎 큰 일교차](https://blog.ai.dmomo.co.kr/news/10871) <br/>
-[2025/09/26 - [뉴스] 연준 중시하는 PCE 물가 8월 2.7%…완만한 상승세](https://blog.ai.dmomo.co.kr/news/10868) <br/>
-[2025/09/26 - [뉴스] 올해 최고의 클래식 앨범은?…그라모폰상 최종 후보 33선](https://blog.ai.dmomo.co.kr/news/10865) <br/>
-[2025/09/26 - [뉴스] 네이버-두나무 빅딜 주식교환 비율은…1대 3 산정 가능성](https://blog.ai.dmomo.co.kr/news/10862) <br/>
+[2025/09/28 - 2025년 최신 RAG 기술과 Amazon Bedrock 기반 기업 AI 혁신 사례 5가지](https://blog.ai.dmomo.co.kr/tech/10946) <br/>
+[2025/09/28 - 구글 27주년: 추억의 1998년 로고로 돌아간 기념 두들의 비하인드](https://blog.ai.dmomo.co.kr/trend/10943) <br/>
+[2025/09/28 - 충격적 3-1 승! 브렌트퍼드, 맨유에 치명타 – 페르난데스의 페널티 실축이 변곡점](https://blog.ai.dmomo.co.kr/trend/10942) <br/>
+[2025/09/28 - [뉴스] 우승할 자신 있다”…’해피엔딩’ 원하는 피넛 한왕호](https://blog.ai.dmomo.co.kr/news/10937) <br/>
+[2025/09/28 - [뉴스] 일요일 전국 가을 비…오후부터 그쳐](https://blog.ai.dmomo.co.kr/news/10934) <br/>
+[2025/09/28 - IT 트렌드 총정리: 인스타그램 30억 돌파부터 국내 커뮤니티 현황까지](https://blog.ai.dmomo.co.kr/ai/10931) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/09/27 - 10-Hour Fire at National Information Resource Management Agency: LG Battery Explosion Disables 70 Government Systems](https://ai.trend.dmomo.co.kr/2025/09/10-hour-fire-at-national-information.html) <br/>
+[2025/09/27 - The Miracle of Virginia: Double OT Drama Defeating 8th Ranked FSU 46-38](https://ai.trend.dmomo.co.kr/2025/09/the-miracle-of-virginia-double-ot-drama.html) <br/>
+[2025/09/27 - The Legacy of Assata Shakur, a Symbolic Figure of the Black Liberation Movement Who Passed Away at 78](https://ai.trend.dmomo.co.kr/2025/09/the-legacy-of-assata-shakur-symbolic.html) <br/>
+[2025/09/27 - Unlocking a 75% Cost Reduction in LLM Inference: The Secret and Future of SwiftKV Optimization](https://ai.trend.dmomo.co.kr/2025/09/unlocking-75-cost-reduction-in-llm.html) <br/>
+[2025/09/27 - Shocking 4-0 Victory! Bayern's Invincible March with Kane's 100th Goal Explodes](https://ai.trend.dmomo.co.kr/2025/09/shocking-4-0-victory-bayerns-invincible.html) <br/>
 [2025/09/26 - Shocking! Evangelical Giant Voddie Baucham Dies at 56... What Is His Legacy?](https://ai.trend.dmomo.co.kr/2025/09/shocking-evangelical-giant-voddie.html) <br/>
-[2025/09/26 - LG vs Hanwha: A Fateful Three-Game Series for the 2025 KBO Championship, Featuring Chirinos vs Ryu Hyun-jin](https://ai.trend.dmomo.co.kr/2025/09/lg-vs-hanwha-fateful-three-game-series.html) <br/>
-[2025/09/26 - The Secret to Seahawks' 5-Game Winning Streak: Dramatic 23-20 Victory Against the Cardinals](https://ai.trend.dmomo.co.kr/2025/09/the-secret-to-seahawks-5-game-winning.html) <br/>
-[2025/09/26 - 2025 Breakthroughs in Autonomous AI Agents and an In-Depth Look at the LibreChat No-Code Platform](https://ai.trend.dmomo.co.kr/2025/09/2025-breakthroughs-in-autonomous-ai.html) <br/>
-[2025/09/26 - National Daughters Day in the USA: Significance and Impact of a Special Day with Daughters](https://ai.trend.dmomo.co.kr/2025/09/national-daughters-day-in-usa.html) <br/>
-[2025/09/26 - Mnet Boys Planet Final Episode: Alpha Drive One's Debut of 8 Members Confirmed! Who is No. 1?](https://ai.trend.dmomo.co.kr/2025/09/mnet-boys-planet-final-episode-alpha.html) <br/>
