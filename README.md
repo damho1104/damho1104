@@ -88,17 +88,17 @@
 [2025/09/23 - 카카오톡 15년 대변신: AI 슈퍼앱의 탄생과 사용자들의 반응은?](https://dmomo.co.kr/714) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/28 - 2025년 최신 RAG 기술과 Amazon Bedrock 기반 기업 AI 혁신 사례 5가지](https://blog.ai.dmomo.co.kr/tech/10946) <br/>
-[2025/09/28 - 구글 27주년: 추억의 1998년 로고로 돌아간 기념 두들의 비하인드](https://blog.ai.dmomo.co.kr/trend/10943) <br/>
-[2025/09/28 - 충격적 3-1 승! 브렌트퍼드, 맨유에 치명타 – 페르난데스의 페널티 실축이 변곡점](https://blog.ai.dmomo.co.kr/trend/10942) <br/>
-[2025/09/28 - [뉴스] 우승할 자신 있다”…’해피엔딩’ 원하는 피넛 한왕호](https://blog.ai.dmomo.co.kr/news/10937) <br/>
-[2025/09/28 - [뉴스] 일요일 전국 가을 비…오후부터 그쳐](https://blog.ai.dmomo.co.kr/news/10934) <br/>
-[2025/09/28 - IT 트렌드 총정리: 인스타그램 30억 돌파부터 국내 커뮤니티 현황까지](https://blog.ai.dmomo.co.kr/ai/10931) <br/>
+[2025/09/29 - 아스널, 뉴캐슬 원정서 극적 역전승! 세트피스로 리그 2위 탈환](https://blog.ai.dmomo.co.kr/trend/11000) <br/>
+[2025/09/29 - 충격적인 미시간 교회 총격: 2명 사망, 8명 부상…대체 무슨 일이?](https://blog.ai.dmomo.co.kr/trend/10999) <br/>
+[2025/09/29 - [뉴스] “탄산음료 마시면 우울증 발병 위험 크다”…남녀 간 차이 보인다는데](https://blog.ai.dmomo.co.kr/news/10994) <br/>
+[2025/09/28 - [뉴스] “세계 최강 남자 증명했다”…입으로 700t 선박 견인 성공한 ‘이집트 괴력남’](https://blog.ai.dmomo.co.kr/news/10991) <br/>
+[2025/09/28 - [뉴스] 변덕스러운 날씨 문제없다…떼창·환호 끊이지 않은 이틀 간의 K팝 축제](https://blog.ai.dmomo.co.kr/news/10988) <br/>
+[2025/09/28 - [뉴스] “그래도 믿을건 코인 종목” 서학개미 폭풍 매수 나서](https://blog.ai.dmomo.co.kr/news/10985) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/09/28 - Son Heung-min's Multi-Goal Explosion! LAFC Achieves 3-0 Victory Over St. Louis for 4th Consecutive Win](https://ai.trend.dmomo.co.kr/2025/09/son-heung-mins-multi-goal-explosion.html) <br/>
+[2025/09/28 - The Achilles' Heel of Penn State Football: The Tragic Truth Behind the 4-21 Record](https://ai.trend.dmomo.co.kr/2025/09/the-achilles-heel-of-penn-state.html) <br/>
+[2025/09/28 - 5 Cutting-Edge RAG Technologies in 2025 and 5 Innovative Enterprise AI Use Cases Powered by Amazon Bedrock](https://ai.trend.dmomo.co.kr/2025/09/5-cutting-edge-rag-technologies-in-2025.html) <br/>
+[2025/09/28 - Google's 27th Anniversary: The Story Behind the Throwback Logo from 1998](https://ai.trend.dmomo.co.kr/2025/09/googles-27th-anniversary-story-behind.html) <br/>
+[2025/09/28 - Shocking 3-1 Victory! Brentford Deals a Fatal Blow to Manchester United - Fernandes' Penalty Miss as the Turning Point](https://ai.trend.dmomo.co.kr/2025/09/shocking-3-1-victory-brentford-deals.html) <br/>
 [2025/09/27 - 10-Hour Fire at National Information Resource Management Agency: LG Battery Explosion Disables 70 Government Systems](https://ai.trend.dmomo.co.kr/2025/09/10-hour-fire-at-national-information.html) <br/>
-[2025/09/27 - The Miracle of Virginia: Double OT Drama Defeating 8th Ranked FSU 46-38](https://ai.trend.dmomo.co.kr/2025/09/the-miracle-of-virginia-double-ot-drama.html) <br/>
-[2025/09/27 - The Legacy of Assata Shakur, a Symbolic Figure of the Black Liberation Movement Who Passed Away at 78](https://ai.trend.dmomo.co.kr/2025/09/the-legacy-of-assata-shakur-symbolic.html) <br/>
-[2025/09/27 - Unlocking a 75% Cost Reduction in LLM Inference: The Secret and Future of SwiftKV Optimization](https://ai.trend.dmomo.co.kr/2025/09/unlocking-75-cost-reduction-in-llm.html) <br/>
-[2025/09/27 - Shocking 4-0 Victory! Bayern's Invincible March with Kane's 100th Goal Explodes](https://ai.trend.dmomo.co.kr/2025/09/shocking-4-0-victory-bayerns-invincible.html) <br/>
-[2025/09/26 - Shocking! Evangelical Giant Voddie Baucham Dies at 56... What Is His Legacy?](https://ai.trend.dmomo.co.kr/2025/09/shocking-evangelical-giant-voddie.html) <br/>
