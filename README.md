@@ -88,17 +88,17 @@
 [2025/09/23 - 카카오톡 15년 대변신: AI 슈퍼앱의 탄생과 사용자들의 반응은?](https://dmomo.co.kr/714) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/29 - 아스널, 뉴캐슬 원정서 극적 역전승! 세트피스로 리그 2위 탈환](https://blog.ai.dmomo.co.kr/trend/11000) <br/>
-[2025/09/29 - 충격적인 미시간 교회 총격: 2명 사망, 8명 부상…대체 무슨 일이?](https://blog.ai.dmomo.co.kr/trend/10999) <br/>
-[2025/09/29 - [뉴스] “탄산음료 마시면 우울증 발병 위험 크다”…남녀 간 차이 보인다는데](https://blog.ai.dmomo.co.kr/news/10994) <br/>
-[2025/09/28 - [뉴스] “세계 최강 남자 증명했다”…입으로 700t 선박 견인 성공한 ‘이집트 괴력남’](https://blog.ai.dmomo.co.kr/news/10991) <br/>
-[2025/09/28 - [뉴스] 변덕스러운 날씨 문제없다…떼창·환호 끊이지 않은 이틀 간의 K팝 축제](https://blog.ai.dmomo.co.kr/news/10988) <br/>
-[2025/09/28 - [뉴스] “그래도 믿을건 코인 종목” 서학개미 폭풍 매수 나서](https://blog.ai.dmomo.co.kr/news/10985) <br/>
+[2025/09/30 - [뉴스] 피파·배틀필드 시리즈 만든 EA, 비상장회사로 전환](https://blog.ai.dmomo.co.kr/news/11060) <br/>
+[2025/09/30 - [뉴스] 나중에 실명될 수 있어…쯔양, 이동우와 같은 병 고백](https://blog.ai.dmomo.co.kr/news/11057) <br/>
+[2025/09/30 - [뉴스] 이재명 END제안에…北 “핵 결코 포기 안해”](https://blog.ai.dmomo.co.kr/news/11054) <br/>
+[2025/09/29 - [뉴스] “美 밖에서 만든 영화 100% 관세” 또 엄포](https://blog.ai.dmomo.co.kr/news/11051) <br/>
+[2025/09/29 - [뉴스] 캔버스에 새겨진 도시의 위로, 장하윤 작가](https://blog.ai.dmomo.co.kr/news/11048) <br/>
+[2025/09/29 - [뉴스] 데이터센터 0.1초만 멈춰도 재앙…안전·보안 빠진 정부 AI드라이브](https://blog.ai.dmomo.co.kr/news/11045) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/09/29 - Who Are You? Three Key Questions That Define Your Identity](https://ai.trend.dmomo.co.kr/2025/09/who-are-you-three-key-questions-that.html) <br/>
+[2025/09/29 - Shocking! Myka Parsons Trade, A Gamble or Genius Move by the Cowboys?](https://ai.trend.dmomo.co.kr/2025/09/shocking-myka-parsons-trade-gamble-or.html) <br/>
+[2025/09/29 - IoT Innovations in 2025: The Ultimate AI-Powered Smart Safety Management Solution](https://ai.trend.dmomo.co.kr/2025/09/iot-innovations-in-2025-ultimate-ai.html) <br/>
+[2025/09/29 - Shocking Michigan Church Shooting: 2 Dead, 8 Injured... What Happened?](https://ai.trend.dmomo.co.kr/2025/09/shocking-michigan-church-shooting-2.html) <br/>
+[2025/09/29 - Arsenal's Dramatic Comeback Victory at Newcastle! Reclaimed Second Place in the League with a Set-Piece](https://ai.trend.dmomo.co.kr/2025/09/arsenals-dramatic-comeback-victory-at.html) <br/>
 [2025/09/28 - Son Heung-min's Multi-Goal Explosion! LAFC Achieves 3-0 Victory Over St. Louis for 4th Consecutive Win](https://ai.trend.dmomo.co.kr/2025/09/son-heung-mins-multi-goal-explosion.html) <br/>
-[2025/09/28 - The Achilles' Heel of Penn State Football: The Tragic Truth Behind the 4-21 Record](https://ai.trend.dmomo.co.kr/2025/09/the-achilles-heel-of-penn-state.html) <br/>
-[2025/09/28 - 5 Cutting-Edge RAG Technologies in 2025 and 5 Innovative Enterprise AI Use Cases Powered by Amazon Bedrock](https://ai.trend.dmomo.co.kr/2025/09/5-cutting-edge-rag-technologies-in-2025.html) <br/>
-[2025/09/28 - Google's 27th Anniversary: The Story Behind the Throwback Logo from 1998](https://ai.trend.dmomo.co.kr/2025/09/googles-27th-anniversary-story-behind.html) <br/>
-[2025/09/28 - Shocking 3-1 Victory! Brentford Deals a Fatal Blow to Manchester United - Fernandes' Penalty Miss as the Turning Point](https://ai.trend.dmomo.co.kr/2025/09/shocking-3-1-victory-brentford-deals.html) <br/>
-[2025/09/27 - 10-Hour Fire at National Information Resource Management Agency: LG Battery Explosion Disables 70 Government Systems](https://ai.trend.dmomo.co.kr/2025/09/10-hour-fire-at-national-information.html) <br/>
