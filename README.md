@@ -88,17 +88,17 @@
 [2025/09/23 - 카카오톡 15년 대변신: AI 슈퍼앱의 탄생과 사용자들의 반응은?](https://dmomo.co.kr/714) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/09/30 - [뉴스] 피파·배틀필드 시리즈 만든 EA, 비상장회사로 전환](https://blog.ai.dmomo.co.kr/news/11060) <br/>
-[2025/09/30 - [뉴스] 나중에 실명될 수 있어…쯔양, 이동우와 같은 병 고백](https://blog.ai.dmomo.co.kr/news/11057) <br/>
-[2025/09/30 - [뉴스] 이재명 END제안에…北 “핵 결코 포기 안해”](https://blog.ai.dmomo.co.kr/news/11054) <br/>
-[2025/09/29 - [뉴스] “美 밖에서 만든 영화 100% 관세” 또 엄포](https://blog.ai.dmomo.co.kr/news/11051) <br/>
-[2025/09/29 - [뉴스] 캔버스에 새겨진 도시의 위로, 장하윤 작가](https://blog.ai.dmomo.co.kr/news/11048) <br/>
-[2025/09/29 - [뉴스] 데이터센터 0.1초만 멈춰도 재앙…안전·보안 빠진 정부 AI드라이브](https://blog.ai.dmomo.co.kr/news/11045) <br/>
+[2025/10/01 - 2025년 주목할 MLOps 혁신 BentoML, 모델 배포 자동화의 모든 것](https://blog.ai.dmomo.co.kr/tech/11132) <br/>
+[2025/10/01 - 챔스 리그 빅매치: 보데/글림트 VS 토트넘, 홈 어드밴티지의 승자는?](https://blog.ai.dmomo.co.kr/trend/11131) <br/>
+[2025/10/01 - [뉴스] “요게 더 맛있쥬”…‘방송 활동 전면 중단’ 백종원, 4개월만에 등장한 곳](https://blog.ai.dmomo.co.kr/news/11126) <br/>
+[2025/10/01 - [뉴스] 구글코리아 신고 매출액 네이버 28분의1…법인세 6772억 내야](https://blog.ai.dmomo.co.kr/news/11123) <br/>
+[2025/09/30 - [뉴스] 미 국방장관 “국방부는 없다, 군 유일 임무는 전쟁…정치적 올바름 종결”](https://blog.ai.dmomo.co.kr/news/11120) <br/>
+[2025/09/30 - [뉴스] 한국에서만 판매한 맥도날드 메뉴, 누적 판매량 3천만 개 돌파](https://blog.ai.dmomo.co.kr/news/11117) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/09/30 - Lotte vs Hanwha: The Dramatic Turnaround and Fierce Rivalry of the 2025 KBO League](https://ai.trend.dmomo.co.kr/2025/09/lotte-vs-hanwha-dramatic-turnaround-and.html) <br/>
+[2025/09/30 - Shocking Knee Injury of Tyreek Hill: Is His NFL Career at Risk?](https://ai.trend.dmomo.co.kr/2025/09/shocking-knee-injury-of-tyreek-hill-is.html) <br/>
+[2025/09/30 - Bad Bunny Makes History for Latin Music at Super Bowl LX Stage](https://ai.trend.dmomo.co.kr/2025/09/bad-bunny-makes-history-for-latin-music.html) <br/>
+[2025/09/30 - ASPM Technology in 2025: What Does the Future Hold for Application Security?](https://ai.trend.dmomo.co.kr/2025/09/aspm-technology-in-2025-what-does.html) <br/>
+[2025/09/30 - Hidden Stories Behind the 1-1 Draw: Everton vs. West Ham in the New Manager's Debut](https://ai.trend.dmomo.co.kr/2025/09/hidden-stories-behind-1-1-draw-everton.html) <br/>
 [2025/09/29 - Who Are You? Three Key Questions That Define Your Identity](https://ai.trend.dmomo.co.kr/2025/09/who-are-you-three-key-questions-that.html) <br/>
-[2025/09/29 - Shocking! Myka Parsons Trade, A Gamble or Genius Move by the Cowboys?](https://ai.trend.dmomo.co.kr/2025/09/shocking-myka-parsons-trade-gamble-or.html) <br/>
-[2025/09/29 - IoT Innovations in 2025: The Ultimate AI-Powered Smart Safety Management Solution](https://ai.trend.dmomo.co.kr/2025/09/iot-innovations-in-2025-ultimate-ai.html) <br/>
-[2025/09/29 - Shocking Michigan Church Shooting: 2 Dead, 8 Injured... What Happened?](https://ai.trend.dmomo.co.kr/2025/09/shocking-michigan-church-shooting-2.html) <br/>
-[2025/09/29 - Arsenal's Dramatic Comeback Victory at Newcastle! Reclaimed Second Place in the League with a Set-Piece](https://ai.trend.dmomo.co.kr/2025/09/arsenals-dramatic-comeback-victory-at.html) <br/>
-[2025/09/28 - Son Heung-min's Multi-Goal Explosion! LAFC Achieves 3-0 Victory Over St. Louis for 4th Consecutive Win](https://ai.trend.dmomo.co.kr/2025/09/son-heung-mins-multi-goal-explosion.html) <br/>
