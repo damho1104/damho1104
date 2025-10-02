@@ -88,17 +88,17 @@
 [2025/09/23 - 카카오톡 15년 대변신: AI 슈퍼앱의 탄생과 사용자들의 반응은?](https://dmomo.co.kr/714) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/01 - 2025년 주목할 MLOps 혁신 BentoML, 모델 배포 자동화의 모든 것](https://blog.ai.dmomo.co.kr/tech/11132) <br/>
-[2025/10/01 - 챔스 리그 빅매치: 보데/글림트 VS 토트넘, 홈 어드밴티지의 승자는?](https://blog.ai.dmomo.co.kr/trend/11131) <br/>
-[2025/10/01 - [뉴스] “요게 더 맛있쥬”…‘방송 활동 전면 중단’ 백종원, 4개월만에 등장한 곳](https://blog.ai.dmomo.co.kr/news/11126) <br/>
-[2025/10/01 - [뉴스] 구글코리아 신고 매출액 네이버 28분의1…법인세 6772억 내야](https://blog.ai.dmomo.co.kr/news/11123) <br/>
-[2025/09/30 - [뉴스] 미 국방장관 “국방부는 없다, 군 유일 임무는 전쟁…정치적 올바름 종결”](https://blog.ai.dmomo.co.kr/news/11120) <br/>
-[2025/09/30 - [뉴스] 한국에서만 판매한 맥도날드 메뉴, 누적 판매량 3천만 개 돌파](https://blog.ai.dmomo.co.kr/news/11117) <br/>
+[2025/10/02 - [뉴스] 남자모델은 처음…추석날 뉴욕에 한복입고 등장하는 유명 배우의 정체](https://blog.ai.dmomo.co.kr/news/11189) <br/>
+[2025/10/02 - [뉴스] 제2 카톡 새 옷 입었다…확 바뀐 AI 메이트 새로운 시작](https://blog.ai.dmomo.co.kr/news/11186) <br/>
+[2025/10/02 - [뉴스] 그린피 내리라고 세금 감면해줬더니…286억 먹튀 한 골프장](https://blog.ai.dmomo.co.kr/news/11183) <br/>
+[2025/10/01 - [뉴스] “눈 가리고 칼춤 추는 셈”…연준, 셧다운 와중에 금리결정 할 판](https://blog.ai.dmomo.co.kr/news/11180) <br/>
+[2025/10/01 - [뉴스] 10년 추억이 한순간에 증발…믿었던 국민 커플앱의 배신](https://blog.ai.dmomo.co.kr/news/11177) <br/>
+[2025/10/01 - [뉴스] 중식 여신이 백종원 주시하더니…예능 속 목소리에 깜짝](https://blog.ai.dmomo.co.kr/news/11174) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/10/01 - America's Ticking Time Bomb: The 2025 Federal Government Shutdown Crisis and Its Impact](https://ai.trend.dmomo.co.kr/2025/10/americas-ticking-time-bomb-2025-federal.html) <br/>
+[2025/10/01 - 2025 Government Shutdown: 5 Key Points You Need to Know](https://ai.trend.dmomo.co.kr/2025/09/2025-government-shutdown-5-key-points.html) <br/>
+[2025/10/01 - Tyreek Hill's Season-Ending Injury: Chances of the NFL's Top WR Returning in 2 Years?](https://ai.trend.dmomo.co.kr/2025/09/tyreek-hills-season-ending-injury.html) <br/>
+[2025/10/01 - MLOps Innovations to Watch in 2025: BentoML and the Future of Automated Model Deployment](https://ai.trend.dmomo.co.kr/2025/09/mlops-innovations-to-watch-in-2025.html) <br/>
+[2025/10/01 - Champions League Big Match: Bode/Glimt vs. Tottenham, Who Will Take Home Advantage?](https://ai.trend.dmomo.co.kr/2025/09/champions-league-big-match-bodeglimt-vs.html) <br/>
 [2025/09/30 - Lotte vs Hanwha: The Dramatic Turnaround and Fierce Rivalry of the 2025 KBO League](https://ai.trend.dmomo.co.kr/2025/09/lotte-vs-hanwha-dramatic-turnaround-and.html) <br/>
-[2025/09/30 - Shocking Knee Injury of Tyreek Hill: Is His NFL Career at Risk?](https://ai.trend.dmomo.co.kr/2025/09/shocking-knee-injury-of-tyreek-hill-is.html) <br/>
-[2025/09/30 - Bad Bunny Makes History for Latin Music at Super Bowl LX Stage](https://ai.trend.dmomo.co.kr/2025/09/bad-bunny-makes-history-for-latin-music.html) <br/>
-[2025/09/30 - ASPM Technology in 2025: What Does the Future Hold for Application Security?](https://ai.trend.dmomo.co.kr/2025/09/aspm-technology-in-2025-what-does.html) <br/>
-[2025/09/30 - Hidden Stories Behind the 1-1 Draw: Everton vs. West Ham in the New Manager's Debut](https://ai.trend.dmomo.co.kr/2025/09/hidden-stories-behind-1-1-draw-everton.html) <br/>
-[2025/09/29 - Who Are You? Three Key Questions That Define Your Identity](https://ai.trend.dmomo.co.kr/2025/09/who-are-you-three-key-questions-that.html) <br/>
