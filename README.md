@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/10/02 - 미국의 시한폭탄: 2025년 연방정부 셧다운 위기와 그 영향](https://dmomo.co.kr/721) <br/>
+[2025/10/02 - 이강인 교체 출전, PSG의 극적인 역전승! UCL 바르셀로나전 하이라이트](https://dmomo.co.kr/720) <br/>
 [2025/09/26 - 충격! 美 복음주의 거장 보디 바우캄, 56세로 급서... 그의 유산은?](https://dmomo.co.kr/719) <br/>
 [2025/09/26 - Mnet 보이즈 2 플래닛 최종회: 알파드라이브원 8인 데뷔 확정! 1위는?](https://dmomo.co.kr/718) <br/>
 [2025/09/26 - 충격적인 달라스 ICE 시설 총격: 29세 용의자의 anti-ICE 동기와 그 파장](https://dmomo.co.kr/717) <br/>
 [2025/09/24 - Jimmy Kimmel Live 복귀: 논란과 표현의 자유, 그 이면의 이야기](https://dmomo.co.kr/716) <br/>
-[2025/09/24 - 165만 먹방 유튜버 상해기의 미스터리: 5년 전 뒷광고 논란의 진실은?](https://dmomo.co.kr/715) <br/>
-[2025/09/23 - 카카오톡 15년 대변신: AI 슈퍼앱의 탄생과 사용자들의 반응은?](https://dmomo.co.kr/714) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/02 - [뉴스] 남자모델은 처음…추석날 뉴욕에 한복입고 등장하는 유명 배우의 정체](https://blog.ai.dmomo.co.kr/news/11189) <br/>
-[2025/10/02 - [뉴스] 제2 카톡 새 옷 입었다…확 바뀐 AI 메이트 새로운 시작](https://blog.ai.dmomo.co.kr/news/11186) <br/>
-[2025/10/02 - [뉴스] 그린피 내리라고 세금 감면해줬더니…286억 먹튀 한 골프장](https://blog.ai.dmomo.co.kr/news/11183) <br/>
-[2025/10/01 - [뉴스] “눈 가리고 칼춤 추는 셈”…연준, 셧다운 와중에 금리결정 할 판](https://blog.ai.dmomo.co.kr/news/11180) <br/>
-[2025/10/01 - [뉴스] 10년 추억이 한순간에 증발…믿었던 국민 커플앱의 배신](https://blog.ai.dmomo.co.kr/news/11177) <br/>
-[2025/10/01 - [뉴스] 중식 여신이 백종원 주시하더니…예능 속 목소리에 깜짝](https://blog.ai.dmomo.co.kr/news/11174) <br/>
+[2025/10/03 - [뉴스] 기업가치 700조원…스페이스X 제치고 세계 최대 스타트업 등극한 이 회사](https://blog.ai.dmomo.co.kr/news/11246) <br/>
+[2025/10/03 - [뉴스] 여보, 고향 가는 길 뻥 뚫린대…추석 연휴 눈여겨볼 이곳](https://blog.ai.dmomo.co.kr/news/11243) <br/>
+[2025/10/02 - [뉴스] 생각대로 되는 게 없네…트럼프 평화구상에 하마스 “무장해제 못해”](https://blog.ai.dmomo.co.kr/news/11240) <br/>
+[2025/10/02 - [뉴스] 한예종 신임 총장에 편장완 영상원 교수](https://blog.ai.dmomo.co.kr/news/11237) <br/>
+[2025/10/02 - SSG vs KIA: 역전승 기세 몰아 원정 승리 노리나? 2회 0-0 접전](https://blog.ai.dmomo.co.kr/trend/11234) <br/>
+[2025/10/02 - [뉴스] 오랜만에 듣는 ‘반도체 슈퍼사이클’…삼성전자·하이닉스 날아올랐다](https://blog.ai.dmomo.co.kr/news/11231) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/10/02 - SSG vs KIA: Will They Aim for an Away Victory with Momentum from a Comeback Win? Score is 0-0 After 2 Innings.](https://ai.trend.dmomo.co.kr/2025/10/ssg-vs-kia-will-they-aim-for-away.html) <br/>
+[2025/10/02 - Legendary Chimpanzee Researcher Jane Goodall Passes Away at 91: An Icon of Science and Environmental Conservation](https://ai.trend.dmomo.co.kr/2025/10/legendary-chimpanzee-researcher-jane.html) <br/>
+[2025/10/02 - ASPM Technology in 2025: What Does the Future Hold for Application Security?](https://ai.trend.dmomo.co.kr/2025/10/aspm-technology-in-2025-what-does.html) <br/>
+[2025/10/02 - Lee Kang-in Substituted In, PSG's Dramatic Comeback! UCL Barcelona Match Highlights](https://ai.trend.dmomo.co.kr/2025/10/lee-kang-in-substituted-in-psgs.html) <br/>
 [2025/10/01 - America's Ticking Time Bomb: The 2025 Federal Government Shutdown Crisis and Its Impact](https://ai.trend.dmomo.co.kr/2025/10/americas-ticking-time-bomb-2025-federal.html) <br/>
 [2025/10/01 - 2025 Government Shutdown: 5 Key Points You Need to Know](https://ai.trend.dmomo.co.kr/2025/09/2025-government-shutdown-5-key-points.html) <br/>
-[2025/10/01 - Tyreek Hill's Season-Ending Injury: Chances of the NFL's Top WR Returning in 2 Years?](https://ai.trend.dmomo.co.kr/2025/09/tyreek-hills-season-ending-injury.html) <br/>
-[2025/10/01 - MLOps Innovations to Watch in 2025: BentoML and the Future of Automated Model Deployment](https://ai.trend.dmomo.co.kr/2025/09/mlops-innovations-to-watch-in-2025.html) <br/>
-[2025/10/01 - Champions League Big Match: Bode/Glimt vs. Tottenham, Who Will Take Home Advantage?](https://ai.trend.dmomo.co.kr/2025/09/champions-league-big-match-bodeglimt-vs.html) <br/>
-[2025/09/30 - Lotte vs Hanwha: The Dramatic Turnaround and Fierce Rivalry of the 2025 KBO League](https://ai.trend.dmomo.co.kr/2025/09/lotte-vs-hanwha-dramatic-turnaround-and.html) <br/>
