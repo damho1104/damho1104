@@ -88,17 +88,17 @@
 [2025/09/24 - Jimmy Kimmel Live 복귀: 논란과 표현의 자유, 그 이면의 이야기](https://dmomo.co.kr/716) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/03 - [뉴스] 기업가치 700조원…스페이스X 제치고 세계 최대 스타트업 등극한 이 회사](https://blog.ai.dmomo.co.kr/news/11246) <br/>
-[2025/10/03 - [뉴스] 여보, 고향 가는 길 뻥 뚫린대…추석 연휴 눈여겨볼 이곳](https://blog.ai.dmomo.co.kr/news/11243) <br/>
-[2025/10/02 - [뉴스] 생각대로 되는 게 없네…트럼프 평화구상에 하마스 “무장해제 못해”](https://blog.ai.dmomo.co.kr/news/11240) <br/>
-[2025/10/02 - [뉴스] 한예종 신임 총장에 편장완 영상원 교수](https://blog.ai.dmomo.co.kr/news/11237) <br/>
-[2025/10/02 - SSG vs KIA: 역전승 기세 몰아 원정 승리 노리나? 2회 0-0 접전](https://blog.ai.dmomo.co.kr/trend/11234) <br/>
-[2025/10/02 - [뉴스] 오랜만에 듣는 ‘반도체 슈퍼사이클’…삼성전자·하이닉스 날아올랐다](https://blog.ai.dmomo.co.kr/news/11231) <br/>
+[2025/10/04 - 충격! 테일러 스위프트의 새 노래 ‘Wood’, 과감한 성적 표현으로 화제](https://blog.ai.dmomo.co.kr/trend/11322) <br/>
+[2025/10/04 - 한국 U-20, 파나마 격파 2-1 승! 16강 진출 운명은?](https://blog.ai.dmomo.co.kr/trend/11320) <br/>
+[2025/10/04 - [뉴스] “여성 1천명과 성관계했다” 자랑하던 일본 근대화 영웅…그녀만은 예외였다 [한중일 톺아보기]](https://blog.ai.dmomo.co.kr/news/11315) <br/>
+[2025/10/04 - [뉴스] K-콘텐츠 인기에 한국 찾은 외국인들, 쇼핑·택시 불편 호소](https://blog.ai.dmomo.co.kr/news/11312) <br/>
+[2025/10/04 - [뉴스] 이러려고 ‘전쟁부’ 만들었나…트럼프, ‘마약 카르텔’ 베네수엘라와 사실상 전쟁](https://blog.ai.dmomo.co.kr/news/11309) <br/>
+[2025/10/03 - [뉴스] 발렌티노·페라리의 나라도 주저앉힌 ‘이것’…0% 성장 고통 속으로](https://blog.ai.dmomo.co.kr/news/11306) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/10/02 - SSG vs KIA: Will They Aim for an Away Victory with Momentum from a Comeback Win? Score is 0-0 After 2 Innings.](https://ai.trend.dmomo.co.kr/2025/10/ssg-vs-kia-will-they-aim-for-away.html) <br/>
-[2025/10/02 - Legendary Chimpanzee Researcher Jane Goodall Passes Away at 91: An Icon of Science and Environmental Conservation](https://ai.trend.dmomo.co.kr/2025/10/legendary-chimpanzee-researcher-jane.html) <br/>
-[2025/10/02 - ASPM Technology in 2025: What Does the Future Hold for Application Security?](https://ai.trend.dmomo.co.kr/2025/10/aspm-technology-in-2025-what-does.html) <br/>
-[2025/10/02 - Lee Kang-in Substituted In, PSG's Dramatic Comeback! UCL Barcelona Match Highlights](https://ai.trend.dmomo.co.kr/2025/10/lee-kang-in-substituted-in-psgs.html) <br/>
-[2025/10/01 - America's Ticking Time Bomb: The 2025 Federal Government Shutdown Crisis and Its Impact](https://ai.trend.dmomo.co.kr/2025/10/americas-ticking-time-bomb-2025-federal.html) <br/>
-[2025/10/01 - 2025 Government Shutdown: 5 Key Points You Need to Know](https://ai.trend.dmomo.co.kr/2025/09/2025-government-shutdown-5-key-points.html) <br/>
+[2025/10/03 - KIA vs Samsung: The Inevitable Rivalry at the Baseball Field - What’s the Secret Behind the 12-8 Victory?](https://ai.trend.dmomo.co.kr/2025/10/kia-vs-samsung-inevitable-rivalry-at.html) <br/>
+[2025/10/03 - Former Broadcasting Commission Chair Jin-sook Lee's Shocking Arrest: The Downfall of a Media Giant and Political Warfare](https://ai.trend.dmomo.co.kr/2025/10/former-broadcasting-commission-chair.html) <br/>
+[2025/10/03 - The Miracle of the 49ers: Winning Without Purdy by Following the Rams' Blueprint](https://ai.trend.dmomo.co.kr/2025/10/the-miracle-of-49ers-winning-without.html) <br/>
+[2025/10/03 - 2025 BentoML Core Technology Analysis and Cloud-Native MLOps Innovation Strategy](https://ai.trend.dmomo.co.kr/2025/10/2025-bentoml-core-technology-analysis.html) <br/>
+[2025/10/03 - Shocking! Secrets Behind the Best Matchup of NFL Week 5: 49ers vs Rams!](https://ai.trend.dmomo.co.kr/2025/10/shocking-secrets-behind-best-matchup-of.html) <br/>
+[2025/10/03 - UEFA Europa League Shock! Jo Gyu-sung's Midtjylland Stages Comeback to Beat Nottingham 3-2](https://ai.trend.dmomo.co.kr/2025/10/uefa-europa-league-shock-jo-gyu-sungs.html) <br/>
