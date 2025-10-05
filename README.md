@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/10/04 - 일본 첫 여성 총리 후보? 다카이치 사나에의 극우 성향과 한일 관계 전망](https://dmomo.co.kr/724) <br/>
+[2025/10/04 - 이진숙 前 방통위원장, 체포 충격! 언론계 거물의 몰락과 정치 공방](https://dmomo.co.kr/723) <br/>
+[2025/10/04 - 충격: 힙합 거물 Diddy, 4년 구형... #MeToo 시대의 새로운 전환점](https://dmomo.co.kr/722) <br/>
 [2025/10/02 - 미국의 시한폭탄: 2025년 연방정부 셧다운 위기와 그 영향](https://dmomo.co.kr/721) <br/>
 [2025/10/02 - 이강인 교체 출전, PSG의 극적인 역전승! UCL 바르셀로나전 하이라이트](https://dmomo.co.kr/720) <br/>
 [2025/09/26 - 충격! 美 복음주의 거장 보디 바우캄, 56세로 급서... 그의 유산은?](https://dmomo.co.kr/719) <br/>
-[2025/09/26 - Mnet 보이즈 2 플래닛 최종회: 알파드라이브원 8인 데뷔 확정! 1위는?](https://dmomo.co.kr/718) <br/>
-[2025/09/26 - 충격적인 달라스 ICE 시설 총격: 29세 용의자의 anti-ICE 동기와 그 파장](https://dmomo.co.kr/717) <br/>
-[2025/09/24 - Jimmy Kimmel Live 복귀: 논란과 표현의 자유, 그 이면의 이야기](https://dmomo.co.kr/716) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/04 - 충격! 테일러 스위프트의 새 노래 ‘Wood’, 과감한 성적 표현으로 화제](https://blog.ai.dmomo.co.kr/trend/11322) <br/>
-[2025/10/04 - 한국 U-20, 파나마 격파 2-1 승! 16강 진출 운명은?](https://blog.ai.dmomo.co.kr/trend/11320) <br/>
-[2025/10/04 - [뉴스] “여성 1천명과 성관계했다” 자랑하던 일본 근대화 영웅…그녀만은 예외였다 [한중일 톺아보기]](https://blog.ai.dmomo.co.kr/news/11315) <br/>
-[2025/10/04 - [뉴스] K-콘텐츠 인기에 한국 찾은 외국인들, 쇼핑·택시 불편 호소](https://blog.ai.dmomo.co.kr/news/11312) <br/>
-[2025/10/04 - [뉴스] 이러려고 ‘전쟁부’ 만들었나…트럼프, ‘마약 카르텔’ 베네수엘라와 사실상 전쟁](https://blog.ai.dmomo.co.kr/news/11309) <br/>
-[2025/10/03 - [뉴스] 발렌티노·페라리의 나라도 주저앉힌 ‘이것’…0% 성장 고통 속으로](https://blog.ai.dmomo.co.kr/news/11306) <br/>
+[2025/10/05 - FOX 스포츠 해설가 Mark Sanchez, 인디애나서 충격적 피습 사건](https://blog.ai.dmomo.co.kr/trend/11377) <br/>
+[2025/10/05 - [뉴스] 현실판 슈블리맘 잘 나가네…SNS마켓 시장 3년간 2배 ↑](https://blog.ai.dmomo.co.kr/news/11372) <br/>
+[2025/10/05 - [뉴스] 출하량 늘었지만 품질은 글쎄…기후 변화에 농부 한숨 푹](https://blog.ai.dmomo.co.kr/news/11369) <br/>
+[2025/10/05 - IT 개발자의 오아시스: K-DEVCON에서 당신의 열정을 깨워라!](https://blog.ai.dmomo.co.kr/ai/11366) <br/>
+[2025/10/04 - [뉴스] 300년전 침몰 스페인 함선 보물 발견…금은보화 가치 따져보니 ‘대박’](https://blog.ai.dmomo.co.kr/news/11363) <br/>
+[2025/10/04 - [뉴스] 1192회 로또 1등 29명…당첨금 각 10억8000만원](https://blog.ai.dmomo.co.kr/news/11360) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/10/04 - Super Bowl Champion Arthur Jones Passes Away Unexpectedly at Age 39... NFL Shocked](https://ai.trend.dmomo.co.kr/2025/10/super-bowl-champion-arthur-jones-passes.html) <br/>
+[2025/10/04 - First Female Prime Minister Candidate in Japan? Takai Chi Sanae's Far-Right Views and The Outlook for Japan-Korea Relations](https://ai.trend.dmomo.co.kr/2025/10/first-female-prime-minister-candidate.html) <br/>
+[2025/10/04 - Shock: Hip-Hop Mogul Diddy Faces 4-Year Sentence... A New Turning Point in the #MeToo Era](https://ai.trend.dmomo.co.kr/2025/10/shock-hip-hop-mogul-diddy-faces-4-year.html) <br/>
+[2025/10/04 - The Latest Innovations in MLOps 2025: How BentoML Simplifies Model Deployment Secrets](https://ai.trend.dmomo.co.kr/2025/10/the-latest-innovations-in-mlops-2025.html) <br/>
+[2025/10/04 - Shocking! Taylor Swift's New Song 'Wood' Sparks Controversy with Bold Sexual Expressions](https://ai.trend.dmomo.co.kr/2025/10/shocking-taylor-swifts-new-song-wood.html) <br/>
 [2025/10/03 - KIA vs Samsung: The Inevitable Rivalry at the Baseball Field - What’s the Secret Behind the 12-8 Victory?](https://ai.trend.dmomo.co.kr/2025/10/kia-vs-samsung-inevitable-rivalry-at.html) <br/>
-[2025/10/03 - Former Broadcasting Commission Chair Jin-sook Lee's Shocking Arrest: The Downfall of a Media Giant and Political Warfare](https://ai.trend.dmomo.co.kr/2025/10/former-broadcasting-commission-chair.html) <br/>
-[2025/10/03 - The Miracle of the 49ers: Winning Without Purdy by Following the Rams' Blueprint](https://ai.trend.dmomo.co.kr/2025/10/the-miracle-of-49ers-winning-without.html) <br/>
-[2025/10/03 - 2025 BentoML Core Technology Analysis and Cloud-Native MLOps Innovation Strategy](https://ai.trend.dmomo.co.kr/2025/10/2025-bentoml-core-technology-analysis.html) <br/>
-[2025/10/03 - Shocking! Secrets Behind the Best Matchup of NFL Week 5: 49ers vs Rams!](https://ai.trend.dmomo.co.kr/2025/10/shocking-secrets-behind-best-matchup-of.html) <br/>
-[2025/10/03 - UEFA Europa League Shock! Jo Gyu-sung's Midtjylland Stages Comeback to Beat Nottingham 3-2](https://ai.trend.dmomo.co.kr/2025/10/uefa-europa-league-shock-jo-gyu-sungs.html) <br/>
