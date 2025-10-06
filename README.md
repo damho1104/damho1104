@@ -88,17 +88,17 @@
 [2025/09/26 - 충격! 美 복음주의 거장 보디 바우캄, 56세로 급서... 그의 유산은?](https://dmomo.co.kr/719) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/05 - FOX 스포츠 해설가 Mark Sanchez, 인디애나서 충격적 피습 사건](https://blog.ai.dmomo.co.kr/trend/11377) <br/>
-[2025/10/05 - [뉴스] 현실판 슈블리맘 잘 나가네…SNS마켓 시장 3년간 2배 ↑](https://blog.ai.dmomo.co.kr/news/11372) <br/>
-[2025/10/05 - [뉴스] 출하량 늘었지만 품질은 글쎄…기후 변화에 농부 한숨 푹](https://blog.ai.dmomo.co.kr/news/11369) <br/>
-[2025/10/05 - IT 개발자의 오아시스: K-DEVCON에서 당신의 열정을 깨워라!](https://blog.ai.dmomo.co.kr/ai/11366) <br/>
-[2025/10/04 - [뉴스] 300년전 침몰 스페인 함선 보물 발견…금은보화 가치 따져보니 ‘대박’](https://blog.ai.dmomo.co.kr/news/11363) <br/>
-[2025/10/04 - [뉴스] 1192회 로또 1등 29명…당첨금 각 10억8000만원](https://blog.ai.dmomo.co.kr/news/11360) <br/>
+[2025/10/06 - [뉴스] 미국인 39% “셧다운, 트럼프·공화당 책임”](https://blog.ai.dmomo.co.kr/news/11414) <br/>
+[2025/10/06 - [뉴스] 아이돌 체육대회 밖에선 조공 경쟁…불붙은 팬심 덕 본다](https://blog.ai.dmomo.co.kr/news/11411) <br/>
+[2025/10/05 - [뉴스] 이민 단속 중 자국민 여성에 총격…미국 시카고 항의시위 확산](https://blog.ai.dmomo.co.kr/news/11408) <br/>
+[2025/10/05 - [뉴스] 베트남 다낭發 에어로케이 항공기, 엔진 고장으로 중국에 긴급착륙](https://blog.ai.dmomo.co.kr/news/11405) <br/>
+[2025/10/05 - 충격! 디펜딩 챔피언 울산, 10년만에 파이널 B 추락… 김천상무에 0-3 패배](https://blog.ai.dmomo.co.kr/trend/11402) <br/>
+[2025/10/05 - [뉴스] 유동성 유입이 증시향방 좌우 … 4분기 AI 밸류체인株 주목을](https://blog.ai.dmomo.co.kr/news/11399) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/10/05 - Shock! Defending Champion Ulsan Plummets to Final B for the First Time in 10 Years... Loses 0-3 to Gimcheon Sangmu](https://ai.trend.dmomo.co.kr/2025/10/shock-defending-champion-ulsan-plummets.html) <br/>
+[2025/10/05 - Quantum Computing Breakthrough in 2025: AI Integration Boosts Error Correction Speed by 50 Times?](https://ai.trend.dmomo.co.kr/2025/10/quantum-computing-breakthrough-in-2025.html) <br/>
+[2025/10/05 - Tottenham Ends Leeds' 23-Game Home Undefeated Streak with 2-1 Victory, Climbs to 2nd Place in League](https://ai.trend.dmomo.co.kr/2025/10/tottenham-ends-leeds-23-game-home.html) <br/>
+[2025/10/05 - Shock Assault Incident Involving FOX Sports Commentator Mark Sanchez in Indiana](https://ai.trend.dmomo.co.kr/2025/10/shock-assault-incident-involving-fox.html) <br/>
 [2025/10/04 - Super Bowl Champion Arthur Jones Passes Away Unexpectedly at Age 39... NFL Shocked](https://ai.trend.dmomo.co.kr/2025/10/super-bowl-champion-arthur-jones-passes.html) <br/>
 [2025/10/04 - First Female Prime Minister Candidate in Japan? Takai Chi Sanae's Far-Right Views and The Outlook for Japan-Korea Relations](https://ai.trend.dmomo.co.kr/2025/10/first-female-prime-minister-candidate.html) <br/>
-[2025/10/04 - Shock: Hip-Hop Mogul Diddy Faces 4-Year Sentence... A New Turning Point in the #MeToo Era](https://ai.trend.dmomo.co.kr/2025/10/shock-hip-hop-mogul-diddy-faces-4-year.html) <br/>
-[2025/10/04 - The Latest Innovations in MLOps 2025: How BentoML Simplifies Model Deployment Secrets](https://ai.trend.dmomo.co.kr/2025/10/the-latest-innovations-in-mlops-2025.html) <br/>
-[2025/10/04 - Shocking! Taylor Swift's New Song 'Wood' Sparks Controversy with Bold Sexual Expressions](https://ai.trend.dmomo.co.kr/2025/10/shocking-taylor-swifts-new-song-wood.html) <br/>
-[2025/10/03 - KIA vs Samsung: The Inevitable Rivalry at the Baseball Field - What’s the Secret Behind the 12-8 Victory?](https://ai.trend.dmomo.co.kr/2025/10/kia-vs-samsung-inevitable-rivalry-at.html) <br/>
