@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/10/06 - NFL 충격: 패트리어츠, 무패 빌스 격파! 메이의 기적과 52야드 역전 필드골의 드라마](https://dmomo.co.kr/727) <br/>
+[2025/10/06 - LAFC, 부앙가 결승골로 애틀랜타에 1-0 승리...5연승 질주 계속](https://dmomo.co.kr/726) <br/>
+[2025/10/06 - 이강인의 대활약과 아쉬운 실수, PSG vs 릴 1-1 무승부의 명암](https://dmomo.co.kr/725) <br/>
 [2025/10/04 - 일본 첫 여성 총리 후보? 다카이치 사나에의 극우 성향과 한일 관계 전망](https://dmomo.co.kr/724) <br/>
 [2025/10/04 - 이진숙 前 방통위원장, 체포 충격! 언론계 거물의 몰락과 정치 공방](https://dmomo.co.kr/723) <br/>
 [2025/10/04 - 충격: 힙합 거물 Diddy, 4년 구형... #MeToo 시대의 새로운 전환점](https://dmomo.co.kr/722) <br/>
-[2025/10/02 - 미국의 시한폭탄: 2025년 연방정부 셧다운 위기와 그 영향](https://dmomo.co.kr/721) <br/>
-[2025/10/02 - 이강인 교체 출전, PSG의 극적인 역전승! UCL 바르셀로나전 하이라이트](https://dmomo.co.kr/720) <br/>
-[2025/09/26 - 충격! 美 복음주의 거장 보디 바우캄, 56세로 급서... 그의 유산은?](https://dmomo.co.kr/719) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/06 - [뉴스] 미국인 39% “셧다운, 트럼프·공화당 책임”](https://blog.ai.dmomo.co.kr/news/11414) <br/>
-[2025/10/06 - [뉴스] 아이돌 체육대회 밖에선 조공 경쟁…불붙은 팬심 덕 본다](https://blog.ai.dmomo.co.kr/news/11411) <br/>
-[2025/10/05 - [뉴스] 이민 단속 중 자국민 여성에 총격…미국 시카고 항의시위 확산](https://blog.ai.dmomo.co.kr/news/11408) <br/>
-[2025/10/05 - [뉴스] 베트남 다낭發 에어로케이 항공기, 엔진 고장으로 중국에 긴급착륙](https://blog.ai.dmomo.co.kr/news/11405) <br/>
-[2025/10/05 - 충격! 디펜딩 챔피언 울산, 10년만에 파이널 B 추락… 김천상무에 0-3 패배](https://blog.ai.dmomo.co.kr/trend/11402) <br/>
-[2025/10/05 - [뉴스] 유동성 유입이 증시향방 좌우 … 4분기 AI 밸류체인株 주목을](https://blog.ai.dmomo.co.kr/news/11399) <br/>
+[2025/10/07 - LAFC의 극적인 1-0 승리: 손흥민 풀타임 출전, 부앙가의 역전 결승골!](https://blog.ai.dmomo.co.kr/trend/11470) <br/>
+[2025/10/07 - [뉴스] 연방정부 셧다운에도…AMD 불기둥에 나스닥 최고가 [월가월부]](https://blog.ai.dmomo.co.kr/news/11465) <br/>
+[2025/10/07 - [뉴스] 인기 개그우먼에서 어린이집 교사로…잘 놀다 옵니다](https://blog.ai.dmomo.co.kr/news/11462) <br/>
+[2025/10/06 - [뉴스] ‘케데헌’ 헌트릭스 3인, TV최초 ‘골든’ 라이브 방송…SNL ·지미쇼 깜짝 출연](https://blog.ai.dmomo.co.kr/news/11459) <br/>
+[2025/10/06 - [뉴스] 조상님 이해하시죠?…고향집 대신 호텔 향하는 사람들](https://blog.ai.dmomo.co.kr/news/11456) <br/>
+[2025/10/06 - [뉴스] 노벨생리의학상에 조절T세포…자가면역질환·암 치료 개념 바꿔](https://blog.ai.dmomo.co.kr/news/11453) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/10/06 - NFL Shock: Patriots Defeat Undefeated Bills! The Miracle of May and the Drama of the 52-Yard Comeback Field Goal](https://ai.trend.dmomo.co.kr/2025/10/nfl-shock-patriots-defeat-undefeated.html) <br/>
+[2025/10/06 - LAFC Secures 1-0 Victory Over Atlanta with Bouanga's Winning Goal... Continues Streak of 5 Consecutive Wins](https://ai.trend.dmomo.co.kr/2025/10/lafc-secures-1-0-victory-over-atlanta.html) <br/>
+[2025/10/06 - 5 Key AI Infrastructure Technologies and Strategic Competencies for 2025](https://ai.trend.dmomo.co.kr/2025/10/5-key-ai-infrastructure-technologies.html) <br/>
+[2025/10/06 - Lions vs Bengals: 5 Key Points Behind the Shocking 37-24 NFL Victory](https://ai.trend.dmomo.co.kr/2025/10/lions-vs-bengals-5-key-points-behind.html) <br/>
+[2025/10/06 - Lee Kang-in's Stellar Performance and Regrettable Mistakes: The Highlights and Lowlights of PSG vs. Lille 1-1 Draw](https://ai.trend.dmomo.co.kr/2025/10/lee-kang-ins-stellar-performance-and.html) <br/>
 [2025/10/05 - Shock! Defending Champion Ulsan Plummets to Final B for the First Time in 10 Years... Loses 0-3 to Gimcheon Sangmu](https://ai.trend.dmomo.co.kr/2025/10/shock-defending-champion-ulsan-plummets.html) <br/>
-[2025/10/05 - Quantum Computing Breakthrough in 2025: AI Integration Boosts Error Correction Speed by 50 Times?](https://ai.trend.dmomo.co.kr/2025/10/quantum-computing-breakthrough-in-2025.html) <br/>
-[2025/10/05 - Tottenham Ends Leeds' 23-Game Home Undefeated Streak with 2-1 Victory, Climbs to 2nd Place in League](https://ai.trend.dmomo.co.kr/2025/10/tottenham-ends-leeds-23-game-home.html) <br/>
-[2025/10/05 - Shock Assault Incident Involving FOX Sports Commentator Mark Sanchez in Indiana](https://ai.trend.dmomo.co.kr/2025/10/shock-assault-incident-involving-fox.html) <br/>
-[2025/10/04 - Super Bowl Champion Arthur Jones Passes Away Unexpectedly at Age 39... NFL Shocked](https://ai.trend.dmomo.co.kr/2025/10/super-bowl-champion-arthur-jones-passes.html) <br/>
-[2025/10/04 - First Female Prime Minister Candidate in Japan? Takai Chi Sanae's Far-Right Views and The Outlook for Japan-Korea Relations](https://ai.trend.dmomo.co.kr/2025/10/first-female-prime-minister-candidate.html) <br/>
