@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/10/07 - LAFC의 극적인 1-0 승리: 손흥민 풀타임 출전, 부앙가의 역전 결승골!](https://dmomo.co.kr/729) <br/>
+[2025/10/07 - 충격! '차우차우' 정세협, 백혈병 극복 후 41세 젊은 나이로 별세](https://dmomo.co.kr/728) <br/>
 [2025/10/06 - NFL 충격: 패트리어츠, 무패 빌스 격파! 메이의 기적과 52야드 역전 필드골의 드라마](https://dmomo.co.kr/727) <br/>
 [2025/10/06 - LAFC, 부앙가 결승골로 애틀랜타에 1-0 승리...5연승 질주 계속](https://dmomo.co.kr/726) <br/>
 [2025/10/06 - 이강인의 대활약과 아쉬운 실수, PSG vs 릴 1-1 무승부의 명암](https://dmomo.co.kr/725) <br/>
 [2025/10/04 - 일본 첫 여성 총리 후보? 다카이치 사나에의 극우 성향과 한일 관계 전망](https://dmomo.co.kr/724) <br/>
-[2025/10/04 - 이진숙 前 방통위원장, 체포 충격! 언론계 거물의 몰락과 정치 공방](https://dmomo.co.kr/723) <br/>
-[2025/10/04 - 충격: 힙합 거물 Diddy, 4년 구형... #MeToo 시대의 새로운 전환점](https://dmomo.co.kr/722) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/07 - LAFC의 극적인 1-0 승리: 손흥민 풀타임 출전, 부앙가의 역전 결승골!](https://blog.ai.dmomo.co.kr/trend/11470) <br/>
-[2025/10/07 - [뉴스] 연방정부 셧다운에도…AMD 불기둥에 나스닥 최고가 [월가월부]](https://blog.ai.dmomo.co.kr/news/11465) <br/>
-[2025/10/07 - [뉴스] 인기 개그우먼에서 어린이집 교사로…잘 놀다 옵니다](https://blog.ai.dmomo.co.kr/news/11462) <br/>
-[2025/10/06 - [뉴스] ‘케데헌’ 헌트릭스 3인, TV최초 ‘골든’ 라이브 방송…SNL ·지미쇼 깜짝 출연](https://blog.ai.dmomo.co.kr/news/11459) <br/>
-[2025/10/06 - [뉴스] 조상님 이해하시죠?…고향집 대신 호텔 향하는 사람들](https://blog.ai.dmomo.co.kr/news/11456) <br/>
-[2025/10/06 - [뉴스] 노벨생리의학상에 조절T세포…자가면역질환·암 치료 개념 바꿔](https://blog.ai.dmomo.co.kr/news/11453) <br/>
+[2025/10/08 - [뉴스] “자녀들 어린시절 빼앗고 있다”…15세 미만 SNS 금지 추진하는 이 나라](https://blog.ai.dmomo.co.kr/news/11528) <br/>
+[2025/10/08 - [뉴스] 2025년 사이버 보안 강화, 우리가 고려해야 할 사항은?](https://blog.ai.dmomo.co.kr/news/11525) <br/>
+[2025/10/08 - [뉴스] 2025 노벨문학상 D-1…수상자는 누가 정하나?](https://blog.ai.dmomo.co.kr/news/11522) <br/>
+[2025/10/08 - [뉴스] EU 철강관세 25→50％ 인상 추진 공식화…“우리 일자리 지켜야”](https://blog.ai.dmomo.co.kr/news/11519) <br/>
+[2025/10/07 - [뉴스] “어르신 배려 전혀 없네” 불만 폭주…일방적 정책 전환에 승객 뿔난 이 항공사](https://blog.ai.dmomo.co.kr/news/11516) <br/>
+[2025/10/07 - [뉴스] 추석 이튿날 귀경길 정체 절정 새벽 2시 이후 해소 전망](https://blog.ai.dmomo.co.kr/news/11513) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/10/07 - The Rise of the Kansas City Chiefs in 2025: NFL's Dominant Offense and the Breakthrough of Rookies](https://ai.trend.dmomo.co.kr/2025/10/the-rise-of-kansas-city-chiefs-in-2025.html) <br/>
+[2025/10/07 - Shocking! 'Chow Chow' Jeong Se-hyeop Passes Away at Young Age of 41 After Overcoming Leukemia](https://ai.trend.dmomo.co.kr/2025/10/shocking-chow-chow-jeong-se-hyeop.html) <br/>
+[2025/10/07 - MLOps Innovation in 2025! What Sets Agentic RAG Apart from Qodo Agentic Mode?](https://ai.trend.dmomo.co.kr/2025/10/mlops-innovation-in-2025-what-sets.html) <br/>
+[2025/10/07 - AMD-OpenAI Partnership: Transforming the AI Semiconductor Market](https://ai.trend.dmomo.co.kr/2025/10/amd-openai-partnership-transforming-ai.html) <br/>
+[2025/10/07 - Dramatic 1-0 Victory for LAFC: Son Heung-min Plays Full Match, Bouanga's Last-Minute Winner!](https://ai.trend.dmomo.co.kr/2025/10/dramatic-1-0-victory-for-lafc-son-heung.html) <br/>
 [2025/10/06 - NFL Shock: Patriots Defeat Undefeated Bills! The Miracle of May and the Drama of the 52-Yard Comeback Field Goal](https://ai.trend.dmomo.co.kr/2025/10/nfl-shock-patriots-defeat-undefeated.html) <br/>
-[2025/10/06 - LAFC Secures 1-0 Victory Over Atlanta with Bouanga's Winning Goal... Continues Streak of 5 Consecutive Wins](https://ai.trend.dmomo.co.kr/2025/10/lafc-secures-1-0-victory-over-atlanta.html) <br/>
-[2025/10/06 - 5 Key AI Infrastructure Technologies and Strategic Competencies for 2025](https://ai.trend.dmomo.co.kr/2025/10/5-key-ai-infrastructure-technologies.html) <br/>
-[2025/10/06 - Lions vs Bengals: 5 Key Points Behind the Shocking 37-24 NFL Victory](https://ai.trend.dmomo.co.kr/2025/10/lions-vs-bengals-5-key-points-behind.html) <br/>
-[2025/10/06 - Lee Kang-in's Stellar Performance and Regrettable Mistakes: The Highlights and Lowlights of PSG vs. Lille 1-1 Draw](https://ai.trend.dmomo.co.kr/2025/10/lee-kang-ins-stellar-performance-and.html) <br/>
-[2025/10/05 - Shock! Defending Champion Ulsan Plummets to Final B for the First Time in 10 Years... Loses 0-3 to Gimcheon Sangmu](https://ai.trend.dmomo.co.kr/2025/10/shock-defending-champion-ulsan-plummets.html) <br/>
