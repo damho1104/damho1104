@@ -88,17 +88,17 @@
 [2025/10/07 - 충격! '차우차우' 정세협, 백혈병 극복 후 41세 젊은 나이로 별세](https://dmomo.co.kr/728) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/09 - [뉴스] 기술주 하루만에 1% 넘게 올라…S&P500·나스닥 신고가 경신 다시 시작 [월가월부]](https://blog.ai.dmomo.co.kr/news/11582) <br/>
-[2025/10/09 - [뉴스] 여치가 승부 예측…B급 매력 뽐낸 ASI](https://blog.ai.dmomo.co.kr/news/11579) <br/>
-[2025/10/08 - [뉴스] “미국 정부로부터 도청·감시 받아”…존 레넌 사망 5년 전 숨은 인터뷰 공개 앞둬](https://blog.ai.dmomo.co.kr/news/11576) <br/>
-[2025/10/08 - EJAE: 신성모독과 K-POP의 경계를 넘나드는 글로벌 아티스트의 도전](https://blog.ai.dmomo.co.kr/trend/11573) <br/>
-[2025/10/08 - [뉴스] 美증시 고점 우려에도…목표가 높이는 월가](https://blog.ai.dmomo.co.kr/news/11570) <br/>
-[2025/10/08 - [뉴스] AMD·오픈AI 동맹…삼성·하이닉스에 호재](https://blog.ai.dmomo.co.kr/news/11567) <br/>
+[2025/10/10 - 손흥민 결장에도 파죽지세 LAFC, 6연승으로 서부 정상 노린다](https://blog.ai.dmomo.co.kr/trend/11650) <br/>
+[2025/10/10 - [뉴스] “나라 망친것 외에 아무것도 안했는데 상받았다”…노벨평화상 발표 앞두고 트럼프가 비난한 이 남자](https://blog.ai.dmomo.co.kr/news/11645) <br/>
+[2025/10/10 - [뉴스] 가구로 나를 드러낸다…하이엔드가 한국을 사랑하는 이유](https://blog.ai.dmomo.co.kr/news/11642) <br/>
+[2025/10/10 - [뉴스] 북한, 노동당 창건 80주년 전야행사 개최…열병식은?](https://blog.ai.dmomo.co.kr/news/11639) <br/>
+[2025/10/09 - [뉴스] 중·러 2인자 속속 평양 도착…열병식 이르면 10일 0시 개최 예상](https://blog.ai.dmomo.co.kr/news/11636) <br/>
+[2025/10/09 - [뉴스] 다음 남편은 연하남… 65세 이상 황혼 재혼 최근 들어 급증](https://blog.ai.dmomo.co.kr/news/11633) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/10/08 - EJAE: A Global Artist's Challenge Bridging Blasphemy and K-POP](https://ai.trend.dmomo.co.kr/2025/10/ejae-global-artists-challenge-bridging.html) <br/>
-[2025/10/08 - The Paradox of Earthquakes: The Dual Nature of Threats and Opportunities in Korea's Intensified Crustal Activity](https://ai.trend.dmomo.co.kr/2025/10/the-paradox-of-earthquakes-dual-nature.html) <br/>
-[2025/10/08 - Dolly Parton: Overcoming Health Crises and the Loss of Her Husband with Unbreakable Faith](https://ai.trend.dmomo.co.kr/2025/10/dolly-parton-overcoming-health-crises.html) <br/>
-[2025/10/08 - The 5 Secrets of Autonomous Management Revolutionized by Agentic AI in Cloud Innovation 2025](https://ai.trend.dmomo.co.kr/2025/10/the-5-secrets-of-autonomous-management.html) <br/>
-[2025/10/08 - Dramatic Opening After 3-Hour Rain Delay: Analysis of Mariners vs. Tigers ALDS Game 3](https://ai.trend.dmomo.co.kr/2025/10/dramatic-opening-after-3-hour-rain.html) <br/>
-[2025/10/08 - Comedian Jeong Se-hyeob Overcomes Leukemia, Passes Away at 41... The Final Laugh of Chaw Chaw](https://ai.trend.dmomo.co.kr/2025/10/comedian-jeong-se-hyeob-overcomes.html) <br/>
+[2025/10/09 - [KBO Analysis] Samsung vs SSG Preliminary Playoffs Game 1 Showdown: Samsung's 5-2 Victory and Game 2 Outlook](https://ai.trend.dmomo.co.kr/2025/10/kbo-analysis-samsung-vs-ssg-preliminary.html) <br/>
+[2025/10/09 - Phillys on the Brink, Resurrects by Defeating the Dodgers! Schwarber's Explosive 2 Home Runs](https://ai.trend.dmomo.co.kr/2025/10/phillys-on-brink-resurrects-by.html) <br/>
+[2025/10/09 - NLDS Thrilling Duel: Schwarber's 2 Home Runs Keep Phillies Alive, Kershaw's Final Challenge?](https://ai.trend.dmomo.co.kr/2025/10/nlds-thrilling-duel-schwarbers-2-home.html) <br/>
+[2025/10/09 - Top 5 AI-Integrated Low-Code Platform Innovations and Business Success Strategies for 2025](https://ai.trend.dmomo.co.kr/2025/10/top-5-ai-integrated-low-code-platform.html) <br/>
+[2025/10/09 - Indonesia vs Saudi Arabia: A 90-Minute Clash for the Destiny of Asian Football](https://ai.trend.dmomo.co.kr/2025/10/indonesia-vs-saudi-arabia-90-minute.html) <br/>
+[2025/10/09 - MLB NLDS Game 3 Showdown: Brewers vs Cubs, A Dramatic 'Fall Baseball' Unfolds](https://ai.trend.dmomo.co.kr/2025/10/mlb-nlds-game-3-showdown-brewers-vs.html) <br/>
