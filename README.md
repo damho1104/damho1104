@@ -88,17 +88,17 @@
 [2025/10/07 - 충격! '차우차우' 정세협, 백혈병 극복 후 41세 젊은 나이로 별세](https://dmomo.co.kr/728) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/11 - [뉴스] 강성보수 총재 등장에…연립 내각 26년 동행 깨진 일본 정치판](https://blog.ai.dmomo.co.kr/news/11735) <br/>
-[2025/10/11 - [뉴스] 中 개최 ASI 결승, 韓 LCK 내전 성사되나](https://blog.ai.dmomo.co.kr/news/11732) <br/>
-[2025/10/11 - [뉴스] 7090 리얼 직캠 수준…과거로 향하는 K콘텐츠](https://blog.ai.dmomo.co.kr/news/11729) <br/>
-[2025/10/11 - [뉴스] ‘심야 빗속’ 북한 노동당 80주년 열병식, 어떤 신형 무기 공개했나 보니](https://blog.ai.dmomo.co.kr/news/11726) <br/>
-[2025/10/10 - [뉴스] 日 자민·공명당 ’26년 연정’ 붕괴](https://blog.ai.dmomo.co.kr/news/11723) <br/>
-[2025/10/10 - [뉴스] 정신병원 입원 아동·청소년 2배로 껑충…우울·불안이 주원인](https://blog.ai.dmomo.co.kr/news/11720) <br/>
+[2025/10/12 - [뉴스] 미국인 지갑 털기 시작한 트럼프 관세…한국 협상력 높아질까](https://blog.ai.dmomo.co.kr/news/11795) <br/>
+[2025/10/12 - [뉴스] 쉰스타 오명, 챗GPT로 벗나…카카오·오픈AI 협력 윤곽](https://blog.ai.dmomo.co.kr/news/11792) <br/>
+[2025/10/12 - [뉴스] 선선한 아침 전국서 가을비…흐린 하늘에 최저기온 15도](https://blog.ai.dmomo.co.kr/news/11789) <br/>
+[2025/10/12 - 다나와 DPG의 인기 이벤트: 1660SUPER 탈출을 꿈꾸는 유저들의 열기](https://blog.ai.dmomo.co.kr/ai/11786) <br/>
+[2025/10/11 - [뉴스] 캄보디아 박람회 간다고 나섰는데…한국인 대학생 살해한 중국인들](https://blog.ai.dmomo.co.kr/news/11783) <br/>
+[2025/10/11 - [뉴스] 커피는 미끼상품…스타벅스 매출 1000억 만든 비결은?](https://blog.ai.dmomo.co.kr/news/11780) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/10/11 - Bitcoin Surpasses $110,000: Is This the Start of a Bull Market or a Signal for Correction?](https://ai.trend.dmomo.co.kr/2025/10/bitcoin-surpasses-110000-is-this-start.html) <br/>
+[2025/10/11 - Mariners of America: A Glimpse into Innovation in the Marine Industry and the Passion for Baseball](https://ai.trend.dmomo.co.kr/2025/10/mariners-of-america-glimpse-into.html) <br/>
+[2025/10/11 - Next-Generation RAG Agent Technology Analysis Implemented with the 2025 Latest ReAct Architecture](https://ai.trend.dmomo.co.kr/2025/10/next-generation-rag-agent-technology.html) <br/>
+[2025/10/11 - US Stock Market Crash: S&P 500 Sees Largest Drop After Trump's Announcement of 100% Tariff on China](https://ai.trend.dmomo.co.kr/2025/10/us-stock-market-crash-s-500-sees.html) <br/>
+[2025/10/11 - Facing the Reality of Korean Football: What Went Wrong in the 0-5 Shock Defeat to Brazil?](https://ai.trend.dmomo.co.kr/2025/10/facing-reality-of-korean-football-what.html) <br/>
 [2025/10/10 - The Fall of the Philadelphia Eagles: Survival Strategies of American Eagles Compared](https://ai.trend.dmomo.co.kr/2025/10/the-fall-of-philadelphia-eagles.html) <br/>
-[2025/10/10 - Korea vs Brazil: Son Heung-min's Historic Record and the Challenge for Victory in 26 Years](https://ai.trend.dmomo.co.kr/2025/10/korea-vs-brazil-son-heung-mins-historic.html) <br/>
-[2025/10/10 - The Shocking Incident that Shook the Entertainment Industry: Lessons from Lee Jin-ho's Drunk Driving Scandal and Tragic Outcome](https://ai.trend.dmomo.co.kr/2025/10/the-shocking-incident-that-shook.html) <br/>
-[2025/10/10 - NFL Shock! Giants Triumph Over Eagles 34-17 with Rookie Combo - The Dart & Skatbo's MNF Legend](https://ai.trend.dmomo.co.kr/2025/10/nfl-shock-giants-triumph-over-eagles-34.html) <br/>
-[2025/10/10 - A Comprehensive Review of 620 IoT Platforms in 2025: Current Trends and Future Prospects Led by Hyperscalers](https://ai.trend.dmomo.co.kr/2025/10/a-comprehensive-review-of-620-iot.html) <br/>
-[2025/10/10 - [NLDS Analysis] Phillies vs Dodgers Game 4: Will LA Seize Their Clutch Opportunity, or Can the Phillies' Miracle Continue?](https://ai.trend.dmomo.co.kr/2025/10/nlds-analysis-phillies-vs-dodgers-game.html) <br/>
