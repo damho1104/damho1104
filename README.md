@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/10/12 - 아이코닉한 배우 다이앤 키튼, 79세로 별세: 50년 커리어의 유산은?](https://dmomo.co.kr/735) <br/>
+[2025/10/12 - 곽튜브의 달콤한 결혼식: 5세 연하 공무원과 임신 소식까지!](https://dmomo.co.kr/734) <br/>
 [2025/10/08 - [스위스 여행] #4 피르스트(2차) &amp; 바흐알프제 호수 with Drone](https://dmomo.co.kr/733) <br/>
 [2025/10/08 - [스위스 여행] #3 발렌슈타트 with Drone](https://dmomo.co.kr/732) <br/>
 [2025/10/08 - [스위스 여행] #2 핑슈텍 with Drone](https://dmomo.co.kr/731) <br/>
 [2025/10/08 - [스위스 여행] #1 피르스트 with Drone](https://dmomo.co.kr/730) <br/>
-[2025/10/07 - LAFC의 극적인 1-0 승리: 손흥민 풀타임 출전, 부앙가의 역전 결승골!](https://dmomo.co.kr/729) <br/>
-[2025/10/07 - 충격! '차우차우' 정세협, 백혈병 극복 후 41세 젊은 나이로 별세](https://dmomo.co.kr/728) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/12 - [뉴스] 미국인 지갑 털기 시작한 트럼프 관세…한국 협상력 높아질까](https://blog.ai.dmomo.co.kr/news/11795) <br/>
-[2025/10/12 - [뉴스] 쉰스타 오명, 챗GPT로 벗나…카카오·오픈AI 협력 윤곽](https://blog.ai.dmomo.co.kr/news/11792) <br/>
-[2025/10/12 - [뉴스] 선선한 아침 전국서 가을비…흐린 하늘에 최저기온 15도](https://blog.ai.dmomo.co.kr/news/11789) <br/>
-[2025/10/12 - 다나와 DPG의 인기 이벤트: 1660SUPER 탈출을 꿈꾸는 유저들의 열기](https://blog.ai.dmomo.co.kr/ai/11786) <br/>
-[2025/10/11 - [뉴스] 캄보디아 박람회 간다고 나섰는데…한국인 대학생 살해한 중국인들](https://blog.ai.dmomo.co.kr/news/11783) <br/>
-[2025/10/11 - [뉴스] 커피는 미끼상품…스타벅스 매출 1000억 만든 비결은?](https://blog.ai.dmomo.co.kr/news/11780) <br/>
+[2025/10/13 - [뉴스] ‘11개월 영아 성폭행’ 영국 유명 가수 사망…“교도소서 공격당해”](https://blog.ai.dmomo.co.kr/news/11858) <br/>
+[2025/10/13 - [뉴스] 구글에 3479억원 뜯겼다…국내 망 무임승차 금액 추산 해보니](https://blog.ai.dmomo.co.kr/news/11855) <br/>
+[2025/10/13 - [뉴스] 트럼프 내년 노벨평화상 노리나…13일 가자 휴전 정상회의 연다](https://blog.ai.dmomo.co.kr/news/11852) <br/>
+[2025/10/12 - [뉴스] 중국 “미국 고집부리면 상응조치” 엄포…희토류 이어 대두도 뇌관으로](https://blog.ai.dmomo.co.kr/news/11849) <br/>
+[2025/10/12 - [뉴스] 황금연휴 마지막 귀경길 원활한 흐름…부산→서울 4시간30분](https://blog.ai.dmomo.co.kr/news/11846) <br/>
+[2025/10/12 - 곽튜브의 달콤한 결혼식: 5세 연하 공무원과 임신 소식까지! 🎉](https://blog.ai.dmomo.co.kr/trend/11843) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/10/12 - GwaqTube's Sweet Wedding: Exciting News of Pregnancy with a 5-Year Younger Public Official! 🎉](https://ai.trend.dmomo.co.kr/2025/10/gwaqtubes-sweet-wedding-exciting-news.html) <br/>
+[2025/10/12 - Iconic Actress Diane Keaton Passes Away at 79: What is Her 50-Year Legacy?](https://ai.trend.dmomo.co.kr/2025/10/iconic-actress-diane-keaton-passes-away.html) <br/>
+[2025/10/12 - Lotto 1193 Results: 16 Winners! Who is the Owner of the 1.7 Billion Jackpot?](https://ai.trend.dmomo.co.kr/2025/10/lotto-1193-results-16-winners-who-is.html) <br/>
+[2025/10/12 - 5 AI Collaboration Revolutions in 2025 with Microsoft 365 Copilot Agent Mode](https://ai.trend.dmomo.co.kr/2025/10/5-ai-collaboration-revolutions-in-2025.html) <br/>
 [2025/10/11 - Bitcoin Surpasses $110,000: Is This the Start of a Bull Market or a Signal for Correction?](https://ai.trend.dmomo.co.kr/2025/10/bitcoin-surpasses-110000-is-this-start.html) <br/>
 [2025/10/11 - Mariners of America: A Glimpse into Innovation in the Marine Industry and the Passion for Baseball](https://ai.trend.dmomo.co.kr/2025/10/mariners-of-america-glimpse-into.html) <br/>
-[2025/10/11 - Next-Generation RAG Agent Technology Analysis Implemented with the 2025 Latest ReAct Architecture](https://ai.trend.dmomo.co.kr/2025/10/next-generation-rag-agent-technology.html) <br/>
-[2025/10/11 - US Stock Market Crash: S&P 500 Sees Largest Drop After Trump's Announcement of 100% Tariff on China](https://ai.trend.dmomo.co.kr/2025/10/us-stock-market-crash-s-500-sees.html) <br/>
-[2025/10/11 - Facing the Reality of Korean Football: What Went Wrong in the 0-5 Shock Defeat to Brazil?](https://ai.trend.dmomo.co.kr/2025/10/facing-reality-of-korean-football-what.html) <br/>
-[2025/10/10 - The Fall of the Philadelphia Eagles: Survival Strategies of American Eagles Compared](https://ai.trend.dmomo.co.kr/2025/10/the-fall-of-philadelphia-eagles.html) <br/>
