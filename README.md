@@ -88,17 +88,17 @@
 [2025/10/08 - [스위스 여행] #1 피르스트 with Drone](https://dmomo.co.kr/730) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/13 - [뉴스] ‘11개월 영아 성폭행’ 영국 유명 가수 사망…“교도소서 공격당해”](https://blog.ai.dmomo.co.kr/news/11858) <br/>
-[2025/10/13 - [뉴스] 구글에 3479억원 뜯겼다…국내 망 무임승차 금액 추산 해보니](https://blog.ai.dmomo.co.kr/news/11855) <br/>
-[2025/10/13 - [뉴스] 트럼프 내년 노벨평화상 노리나…13일 가자 휴전 정상회의 연다](https://blog.ai.dmomo.co.kr/news/11852) <br/>
-[2025/10/12 - [뉴스] 중국 “미국 고집부리면 상응조치” 엄포…희토류 이어 대두도 뇌관으로](https://blog.ai.dmomo.co.kr/news/11849) <br/>
-[2025/10/12 - [뉴스] 황금연휴 마지막 귀경길 원활한 흐름…부산→서울 4시간30분](https://blog.ai.dmomo.co.kr/news/11846) <br/>
-[2025/10/12 - 곽튜브의 달콤한 결혼식: 5세 연하 공무원과 임신 소식까지! 🎉](https://blog.ai.dmomo.co.kr/trend/11843) <br/>
+[2025/10/14 - [뉴스] [속보] 삼성전자 3분기 영업이익 12조1000억원 어닝 서프라이즈](https://blog.ai.dmomo.co.kr/news/11921) <br/>
+[2025/10/14 - [뉴스] BNK, ASI 우승…팀합으로 이름값의 벽’ 넘었다](https://blog.ai.dmomo.co.kr/news/11918) <br/>
+[2025/10/14 - [뉴스] 세븐틴 최다 피해…K팝 인기 틈타 짝퉁 기승](https://blog.ai.dmomo.co.kr/news/11915) <br/>
+[2025/10/13 - [뉴스] 의료진에 ‘에이즈 유발’ HIV 감염 혈액 뿌린 20대 남성…미국서 재판행](https://blog.ai.dmomo.co.kr/news/11912) <br/>
+[2025/10/13 - [뉴스] 기타 전설들 뭉쳤다…2025 더 뮤지션 콘서트 11월 개최](https://blog.ai.dmomo.co.kr/news/11909) <br/>
+[2025/10/13 - [뉴스] 구글·애플·메타 OS 공략…XR 강자로 떠오른 게임엔진 회사](https://blog.ai.dmomo.co.kr/news/11906) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/10/12 - GwaqTube's Sweet Wedding: Exciting News of Pregnancy with a 5-Year Younger Public Official! 🎉](https://ai.trend.dmomo.co.kr/2025/10/gwaqtubes-sweet-wedding-exciting-news.html) <br/>
-[2025/10/12 - Iconic Actress Diane Keaton Passes Away at 79: What is Her 50-Year Legacy?](https://ai.trend.dmomo.co.kr/2025/10/iconic-actress-diane-keaton-passes-away.html) <br/>
-[2025/10/12 - Lotto 1193 Results: 16 Winners! Who is the Owner of the 1.7 Billion Jackpot?](https://ai.trend.dmomo.co.kr/2025/10/lotto-1193-results-16-winners-who-is.html) <br/>
-[2025/10/12 - 5 AI Collaboration Revolutions in 2025 with Microsoft 365 Copilot Agent Mode](https://ai.trend.dmomo.co.kr/2025/10/5-ai-collaboration-revolutions-in-2025.html) <br/>
-[2025/10/11 - Bitcoin Surpasses $110,000: Is This the Start of a Bull Market or a Signal for Correction?](https://ai.trend.dmomo.co.kr/2025/10/bitcoin-surpasses-110000-is-this-start.html) <br/>
-[2025/10/11 - Mariners of America: A Glimpse into Innovation in the Marine Industry and the Passion for Baseball](https://ai.trend.dmomo.co.kr/2025/10/mariners-of-america-glimpse-into.html) <br/>
+[2025/10/13 - Shock Loss for the Detroit Lions: Is the Super Bowl Dream Falling Apart?](https://ai.trend.dmomo.co.kr/2025/10/shock-loss-for-detroit-lions-is-super.html) <br/>
+[2025/10/13 - Fred Warner Out for the Season Shock... '49ers Defeat Buccaneers,' Playoff Hopes in Jeopardy](https://ai.trend.dmomo.co.kr/2025/10/fred-warner-out-for-season-shock-49ers.html) <br/>
+[2025/10/13 - Shock! LA FC Without Son Heung-min Falls 0-1 to Austin, Ending 7-Game Winning Streak](https://ai.trend.dmomo.co.kr/2025/10/shock-la-fc-without-son-heung-min-falls.html) <br/>
+[2025/10/13 - Future Strategies for Software Infrastructure Transformed by Terraform 2.0 and IaC Innovations in 2025](https://ai.trend.dmomo.co.kr/2025/10/future-strategies-for-software.html) <br/>
+[2025/10/13 - Packers Defeat Bengals 27-18, Improve to 3 Wins, 1 Loss, 1 Tie... Joe Flacco's Debut Falls Short](https://ai.trend.dmomo.co.kr/2025/10/packers-defeat-bengals-27-18-improve-to.html) <br/>
+[2025/10/13 - Katy Perry and Trudeau's Shocking Romance: Captured Kissing on a Yacht! Overcoming a 13-Year Age Gap?](https://ai.trend.dmomo.co.kr/2025/10/katy-perry-and-trudeaus-shocking.html) <br/>
