@@ -88,17 +88,11 @@
 [2025/10/08 - [스위스 여행] #1 피르스트 with Drone](https://dmomo.co.kr/730) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/14 - [뉴스] [속보] 삼성전자 3분기 영업이익 12조1000억원 어닝 서프라이즈](https://blog.ai.dmomo.co.kr/news/11921) <br/>
-[2025/10/14 - [뉴스] BNK, ASI 우승…팀합으로 이름값의 벽’ 넘었다](https://blog.ai.dmomo.co.kr/news/11918) <br/>
-[2025/10/14 - [뉴스] 세븐틴 최다 피해…K팝 인기 틈타 짝퉁 기승](https://blog.ai.dmomo.co.kr/news/11915) <br/>
-[2025/10/13 - [뉴스] 의료진에 ‘에이즈 유발’ HIV 감염 혈액 뿌린 20대 남성…미국서 재판행](https://blog.ai.dmomo.co.kr/news/11912) <br/>
-[2025/10/13 - [뉴스] 기타 전설들 뭉쳤다…2025 더 뮤지션 콘서트 11월 개최](https://blog.ai.dmomo.co.kr/news/11909) <br/>
-[2025/10/13 - [뉴스] 구글·애플·메타 OS 공략…XR 강자로 떠오른 게임엔진 회사](https://blog.ai.dmomo.co.kr/news/11906) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/10/13 - Shock Loss for the Detroit Lions: Is the Super Bowl Dream Falling Apart?](https://ai.trend.dmomo.co.kr/2025/10/shock-loss-for-detroit-lions-is-super.html) <br/>
-[2025/10/13 - Fred Warner Out for the Season Shock... '49ers Defeat Buccaneers,' Playoff Hopes in Jeopardy](https://ai.trend.dmomo.co.kr/2025/10/fred-warner-out-for-season-shock-49ers.html) <br/>
-[2025/10/13 - Shock! LA FC Without Son Heung-min Falls 0-1 to Austin, Ending 7-Game Winning Streak](https://ai.trend.dmomo.co.kr/2025/10/shock-la-fc-without-son-heung-min-falls.html) <br/>
-[2025/10/13 - Future Strategies for Software Infrastructure Transformed by Terraform 2.0 and IaC Innovations in 2025](https://ai.trend.dmomo.co.kr/2025/10/future-strategies-for-software.html) <br/>
-[2025/10/13 - Packers Defeat Bengals 27-18, Improve to 3 Wins, 1 Loss, 1 Tie... Joe Flacco's Debut Falls Short](https://ai.trend.dmomo.co.kr/2025/10/packers-defeat-bengals-27-18-improve-to.html) <br/>
-[2025/10/13 - Katy Perry and Trudeau's Shocking Romance: Captured Kissing on a Yacht! Overcoming a 13-Year Age Gap?](https://ai.trend.dmomo.co.kr/2025/10/katy-perry-and-trudeaus-shocking.html) <br/>
+[2025/10/14 - Washington Commanders 2025 Injuries: Innovations in NFL Performance and AI Military Command](https://ai.trend.dmomo.co.kr/2025/10/washington-commanders-2025-injuries.html) <br/>
+[2025/10/14 - Can’t Fall Like Korea? Brazil's Challenge to Defeat Japan on the Road to World Cup Victory](https://ai.trend.dmomo.co.kr/2025/10/cant-fall-like-korea-brazils-challenge.html) <br/>
+[2025/10/14 - Defending Champion Dodgers Conquer NLCS Game 1 After Perfectly Avenge 6-Game Losing Streak! Snell's Flawless Performance](https://ai.trend.dmomo.co.kr/2025/10/defending-champion-dodgers-conquer-nlcs.html) <br/>
+[2025/10/14 - Chicago Bears Secures Third Consecutive Win Against Washington Commanders! Caleb Williams Shines!](https://ai.trend.dmomo.co.kr/2025/10/chicago-bears-secures-third-consecutive.html) <br/>
+[2025/10/14 - NFL Shock: Lions' Branch Suspended for One Game After Post-Game Altercation... Sportsmanship Controversy](https://ai.trend.dmomo.co.kr/2025/10/nfl-shock-lions-branch-suspended-for.html) <br/>
+[2025/10/14 - Exploring AI Agent Innovation and Future Strategies with the Latest 2025 Microsoft Agent Framework](https://ai.trend.dmomo.co.kr/2025/10/exploring-ai-agent-innovation-and.html) <br/>
