@@ -80,19 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/10/15 - 일본의 역전승, 브라질의 '값진' 패배: 아시아 축구의 새 지평을 열다](https://dmomo.co.kr/737) <br/>
+[2025/10/15 - 상생페이백 30만원 혜택의 모든 것: 신청부터 활용까지 완벽 가이드](https://dmomo.co.kr/736) <br/>
 [2025/10/12 - 아이코닉한 배우 다이앤 키튼, 79세로 별세: 50년 커리어의 유산은?](https://dmomo.co.kr/735) <br/>
 [2025/10/12 - 곽튜브의 달콤한 결혼식: 5세 연하 공무원과 임신 소식까지!](https://dmomo.co.kr/734) <br/>
 [2025/10/08 - [스위스 여행] #4 피르스트(2차) &amp; 바흐알프제 호수 with Drone](https://dmomo.co.kr/733) <br/>
 [2025/10/08 - [스위스 여행] #3 발렌슈타트 with Drone](https://dmomo.co.kr/732) <br/>
-[2025/10/08 - [스위스 여행] #2 핑슈텍 with Drone](https://dmomo.co.kr/731) <br/>
-[2025/10/08 - [스위스 여행] #1 피르스트 with Drone](https://dmomo.co.kr/730) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/10/16 - [뉴스] 트럼프 “한국은 3500억달러 선불로 합의” 또 언급](https://blog.ai.dmomo.co.kr/news/12015) <br/>
+[2025/10/16 - [뉴스] 우리가 도덕 경찰은 아니잖아요…챗GPT 성인물 허용 논란에 해명](https://blog.ai.dmomo.co.kr/news/12012) <br/>
+[2025/10/16 - [뉴스] 추워지면 따뜻한 곳 가는데…동남아 여행 무섭다 초비상](https://blog.ai.dmomo.co.kr/news/12009) <br/>
+[2025/10/16 - [뉴스] “정치권 생존본능에 연금개혁 결국 좌초”…복지중독 국가의 말로는](https://blog.ai.dmomo.co.kr/news/12006) <br/>
+[2025/10/15 - [뉴스] 파월까지 땔감넣는 증시불장…“고용 불안” 미국 추가금리인하 시그널](https://blog.ai.dmomo.co.kr/news/12003) <br/>
+[2025/10/15 - [뉴스] 자연에 순응하겠다던 춤꾼 연극인, 다섯명에 새 삶 주고 하늘로](https://blog.ai.dmomo.co.kr/news/12000) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/10/15 - Everything You Need to Know About the 300,000 Won Sangsang Payback: The Complete Guide from Application to Utilization](https://ai.trend.dmomo.co.kr/2025/10/everything-you-need-to-know-about.html) <br/>
+[2025/10/15 - Japan's Comeback Victory and Brazil's 'Valuable' Defeat: Opening a New Horizon for Asian Football](https://ai.trend.dmomo.co.kr/2025/10/japans-comeback-victory-and-brazils.html) <br/>
 [2025/10/14 - Washington Commanders 2025 Injuries: Innovations in NFL Performance and AI Military Command](https://ai.trend.dmomo.co.kr/2025/10/washington-commanders-2025-injuries.html) <br/>
 [2025/10/14 - Can’t Fall Like Korea? Brazil's Challenge to Defeat Japan on the Road to World Cup Victory](https://ai.trend.dmomo.co.kr/2025/10/cant-fall-like-korea-brazils-challenge.html) <br/>
 [2025/10/14 - Defending Champion Dodgers Conquer NLCS Game 1 After Perfectly Avenge 6-Game Losing Streak! Snell's Flawless Performance](https://ai.trend.dmomo.co.kr/2025/10/defending-champion-dodgers-conquer-nlcs.html) <br/>
 [2025/10/14 - Chicago Bears Secures Third Consecutive Win Against Washington Commanders! Caleb Williams Shines!](https://ai.trend.dmomo.co.kr/2025/10/chicago-bears-secures-third-consecutive.html) <br/>
-[2025/10/14 - NFL Shock: Lions' Branch Suspended for One Game After Post-Game Altercation... Sportsmanship Controversy](https://ai.trend.dmomo.co.kr/2025/10/nfl-shock-lions-branch-suspended-for.html) <br/>
-[2025/10/14 - Exploring AI Agent Innovation and Future Strategies with the Latest 2025 Microsoft Agent Framework](https://ai.trend.dmomo.co.kr/2025/10/exploring-ai-agent-innovation-and.html) <br/>
