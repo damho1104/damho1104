@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/10/16 - YouTube 대규모 장애 발생: 미국&middot;유럽 사용자 '화면만 보고 있을 뿐'](https://dmomo.co.kr/738) <br/>
 [2025/10/15 - 일본의 역전승, 브라질의 '값진' 패배: 아시아 축구의 새 지평을 열다](https://dmomo.co.kr/737) <br/>
 [2025/10/15 - 상생페이백 30만원 혜택의 모든 것: 신청부터 활용까지 완벽 가이드](https://dmomo.co.kr/736) <br/>
 [2025/10/12 - 아이코닉한 배우 다이앤 키튼, 79세로 별세: 50년 커리어의 유산은?](https://dmomo.co.kr/735) <br/>
 [2025/10/12 - 곽튜브의 달콤한 결혼식: 5세 연하 공무원과 임신 소식까지!](https://dmomo.co.kr/734) <br/>
 [2025/10/08 - [스위스 여행] #4 피르스트(2차) &amp; 바흐알프제 호수 with Drone](https://dmomo.co.kr/733) <br/>
-[2025/10/08 - [스위스 여행] #3 발렌슈타트 with Drone](https://dmomo.co.kr/732) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/16 - [뉴스] 트럼프 “한국은 3500억달러 선불로 합의” 또 언급](https://blog.ai.dmomo.co.kr/news/12015) <br/>
-[2025/10/16 - [뉴스] 우리가 도덕 경찰은 아니잖아요…챗GPT 성인물 허용 논란에 해명](https://blog.ai.dmomo.co.kr/news/12012) <br/>
-[2025/10/16 - [뉴스] 추워지면 따뜻한 곳 가는데…동남아 여행 무섭다 초비상](https://blog.ai.dmomo.co.kr/news/12009) <br/>
-[2025/10/16 - [뉴스] “정치권 생존본능에 연금개혁 결국 좌초”…복지중독 국가의 말로는](https://blog.ai.dmomo.co.kr/news/12006) <br/>
-[2025/10/15 - [뉴스] 파월까지 땔감넣는 증시불장…“고용 불안” 미국 추가금리인하 시그널](https://blog.ai.dmomo.co.kr/news/12003) <br/>
-[2025/10/15 - [뉴스] 자연에 순응하겠다던 춤꾼 연극인, 다섯명에 새 삶 주고 하늘로](https://blog.ai.dmomo.co.kr/news/12000) <br/>
+[2025/10/17 - [뉴스] “한국인들 마냥 피해자로만 볼 수 없어”…캄보디아 교민 비판](https://blog.ai.dmomo.co.kr/news/12081) <br/>
+[2025/10/17 - [뉴스] 음원 시장 칼 갈았다…애플뮤직 역대급 개편 나선 이유](https://blog.ai.dmomo.co.kr/news/12078) <br/>
+[2025/10/17 - [뉴스] 故 다이앤 키튼 사인은 세균성 폐렴…건강 급격히 악화](https://blog.ai.dmomo.co.kr/news/12075) <br/>
+[2025/10/17 - [뉴스] 트럼프 “인도, 러 원유수입 끊을것”…한·중·일에 제재동참 압박 불보듯](https://blog.ai.dmomo.co.kr/news/12072) <br/>
+[2025/10/16 - [뉴스] 르코르뉘 佛총리 기사회생 … 두 차례 불신임 투표 부결](https://blog.ai.dmomo.co.kr/news/12069) <br/>
+[2025/10/16 - [뉴스] 먹방하며 지리산 오르던 유튜버, 결국…달리기 하지 마세요 [건강!톡]](https://blog.ai.dmomo.co.kr/news/12066) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/10/16 - T-ara's Ham Eun-jung: A Glamorous Transformation from Idol to Actress! Starting a New Chapter in Life with November Wedding](https://ai.trend.dmomo.co.kr/2025/10/t-aras-ham-eun-jung-glamorous.html) <br/>
+[2025/10/16 - Global YouTube Shutdown! Unveiling the Massive Outage on October 16, 2025 and How to Respond](https://ai.trend.dmomo.co.kr/2025/10/global-youtube-shutdown-unveiling.html) <br/>
+[2025/10/16 - Quantum Computing Breakthroughs in 2025: Nvidia’s Entry and the Rapid Rise of the Quantum AI Market](https://ai.trend.dmomo.co.kr/2025/10/quantum-computing-breakthroughs-in-2025.html) <br/>
+[2025/10/16 - Mr. Tough Talk: The Final Political Beliefs of Lee Sang-min, 67-Year-Old Six-Term Congressman](https://ai.trend.dmomo.co.kr/2025/10/mr-tough-talk-final-political-beliefs.html) <br/>
+[2025/10/16 - YouTube Major Outage: Users in the US and Europe Left Staring at a Blank Screen](https://ai.trend.dmomo.co.kr/2025/10/youtube-major-outage-users-in-us-and.html) <br/>
 [2025/10/15 - Everything You Need to Know About the 300,000 Won Sangsang Payback: The Complete Guide from Application to Utilization](https://ai.trend.dmomo.co.kr/2025/10/everything-you-need-to-know-about.html) <br/>
-[2025/10/15 - Japan's Comeback Victory and Brazil's 'Valuable' Defeat: Opening a New Horizon for Asian Football](https://ai.trend.dmomo.co.kr/2025/10/japans-comeback-victory-and-brazils.html) <br/>
-[2025/10/14 - Washington Commanders 2025 Injuries: Innovations in NFL Performance and AI Military Command](https://ai.trend.dmomo.co.kr/2025/10/washington-commanders-2025-injuries.html) <br/>
-[2025/10/14 - Can’t Fall Like Korea? Brazil's Challenge to Defeat Japan on the Road to World Cup Victory](https://ai.trend.dmomo.co.kr/2025/10/cant-fall-like-korea-brazils-challenge.html) <br/>
-[2025/10/14 - Defending Champion Dodgers Conquer NLCS Game 1 After Perfectly Avenge 6-Game Losing Streak! Snell's Flawless Performance](https://ai.trend.dmomo.co.kr/2025/10/defending-champion-dodgers-conquer-nlcs.html) <br/>
-[2025/10/14 - Chicago Bears Secures Third Consecutive Win Against Washington Commanders! Caleb Williams Shines!](https://ai.trend.dmomo.co.kr/2025/10/chicago-bears-secures-third-consecutive.html) <br/>
