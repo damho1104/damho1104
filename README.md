@@ -88,17 +88,17 @@
 [2025/10/08 - [스위스 여행] #4 피르스트(2차) &amp; 바흐알프제 호수 with Drone](https://dmomo.co.kr/733) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/17 - [뉴스] “한국인들 마냥 피해자로만 볼 수 없어”…캄보디아 교민 비판](https://blog.ai.dmomo.co.kr/news/12081) <br/>
-[2025/10/17 - [뉴스] 음원 시장 칼 갈았다…애플뮤직 역대급 개편 나선 이유](https://blog.ai.dmomo.co.kr/news/12078) <br/>
-[2025/10/17 - [뉴스] 故 다이앤 키튼 사인은 세균성 폐렴…건강 급격히 악화](https://blog.ai.dmomo.co.kr/news/12075) <br/>
-[2025/10/17 - [뉴스] 트럼프 “인도, 러 원유수입 끊을것”…한·중·일에 제재동참 압박 불보듯](https://blog.ai.dmomo.co.kr/news/12072) <br/>
-[2025/10/16 - [뉴스] 르코르뉘 佛총리 기사회생 … 두 차례 불신임 투표 부결](https://blog.ai.dmomo.co.kr/news/12069) <br/>
-[2025/10/16 - [뉴스] 먹방하며 지리산 오르던 유튜버, 결국…달리기 하지 마세요 [건강!톡]](https://blog.ai.dmomo.co.kr/news/12066) <br/>
+[2025/10/18 - [뉴스] [단독] 캄보디아 ‘범죄수괴’ 천즈 프린스그룹 회장, 현지서 실종설](https://blog.ai.dmomo.co.kr/news/12138) <br/>
+[2025/10/18 - [뉴스] KT, LCK 첫 8강 진출…T1·젠지는 운명의 단판 승부](https://blog.ai.dmomo.co.kr/news/12135) <br/>
+[2025/10/18 - [뉴스] 요즘 엄마·아빠는 이렇게 키운다며?…이색 육아의 정체](https://blog.ai.dmomo.co.kr/news/12132) <br/>
+[2025/10/17 - [뉴스] 경찰, 캄보디아 ‘한국대학생 피살 사건’ 대포통장 모집책 추가 검거](https://blog.ai.dmomo.co.kr/news/12129) <br/>
+[2025/10/17 - [뉴스] 에로배우에서 감독…이제 바야흐로 수치의 시대가 열린다](https://blog.ai.dmomo.co.kr/news/12126) <br/>
+[2025/10/17 - 한화 VS 삼성: KBO 플레이오프 승자는? 기업 경쟁까지 한판 승부!](https://blog.ai.dmomo.co.kr/trend/12123) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/10/17 - Hanwha vs Samsung: Who Will Win the KBO Playoff? A Showdown of Corporate Rivalry!](https://ai.trend.dmomo.co.kr/2025/10/hanwha-vs-samsung-who-will-win-kbo.html) <br/>
+[2025/10/17 - Dodgers vs Brewers: NLCS Game 3, Will History Favor a 3-0 Lead?](https://ai.trend.dmomo.co.kr/2025/10/dodgers-vs-brewers-nlcs-game-3-will.html) <br/>
+[2025/10/17 - 2025 Latest Trends in RAG Technology and In-Depth Analysis of Agentic AI & Multi-Agent Innovations](https://ai.trend.dmomo.co.kr/2025/10/2025-latest-trends-in-rag-technology.html) <br/>
+[2025/10/17 - Legendary KISS Guitarist Ace Frehley Passes Away at 74... The Final Journey of 'The Spaceman'](https://ai.trend.dmomo.co.kr/2025/10/legendary-kiss-guitarist-ace-frehley.html) <br/>
 [2025/10/16 - T-ara's Ham Eun-jung: A Glamorous Transformation from Idol to Actress! Starting a New Chapter in Life with November Wedding](https://ai.trend.dmomo.co.kr/2025/10/t-aras-ham-eun-jung-glamorous.html) <br/>
 [2025/10/16 - Global YouTube Shutdown! Unveiling the Massive Outage on October 16, 2025 and How to Respond](https://ai.trend.dmomo.co.kr/2025/10/global-youtube-shutdown-unveiling.html) <br/>
-[2025/10/16 - Quantum Computing Breakthroughs in 2025: Nvidia’s Entry and the Rapid Rise of the Quantum AI Market](https://ai.trend.dmomo.co.kr/2025/10/quantum-computing-breakthroughs-in-2025.html) <br/>
-[2025/10/16 - Mr. Tough Talk: The Final Political Beliefs of Lee Sang-min, 67-Year-Old Six-Term Congressman](https://ai.trend.dmomo.co.kr/2025/10/mr-tough-talk-final-political-beliefs.html) <br/>
-[2025/10/16 - YouTube Major Outage: Users in the US and Europe Left Staring at a Blank Screen](https://ai.trend.dmomo.co.kr/2025/10/youtube-major-outage-users-in-us-and.html) <br/>
-[2025/10/15 - Everything You Need to Know About the 300,000 Won Sangsang Payback: The Complete Guide from Application to Utilization](https://ai.trend.dmomo.co.kr/2025/10/everything-you-need-to-know-about.html) <br/>
