@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/10/18 - [스위스 여행] #5 취리히 호수 근처 with Drone](https://dmomo.co.kr/739) <br/>
 [2025/10/16 - YouTube 대규모 장애 발생: 미국&middot;유럽 사용자 '화면만 보고 있을 뿐'](https://dmomo.co.kr/738) <br/>
 [2025/10/15 - 일본의 역전승, 브라질의 '값진' 패배: 아시아 축구의 새 지평을 열다](https://dmomo.co.kr/737) <br/>
 [2025/10/15 - 상생페이백 30만원 혜택의 모든 것: 신청부터 활용까지 완벽 가이드](https://dmomo.co.kr/736) <br/>
 [2025/10/12 - 아이코닉한 배우 다이앤 키튼, 79세로 별세: 50년 커리어의 유산은?](https://dmomo.co.kr/735) <br/>
 [2025/10/12 - 곽튜브의 달콤한 결혼식: 5세 연하 공무원과 임신 소식까지!](https://dmomo.co.kr/734) <br/>
-[2025/10/08 - [스위스 여행] #4 피르스트(2차) &amp; 바흐알프제 호수 with Drone](https://dmomo.co.kr/733) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/18 - [뉴스] [단독] 캄보디아 ‘범죄수괴’ 천즈 프린스그룹 회장, 현지서 실종설](https://blog.ai.dmomo.co.kr/news/12138) <br/>
-[2025/10/18 - [뉴스] KT, LCK 첫 8강 진출…T1·젠지는 운명의 단판 승부](https://blog.ai.dmomo.co.kr/news/12135) <br/>
-[2025/10/18 - [뉴스] 요즘 엄마·아빠는 이렇게 키운다며?…이색 육아의 정체](https://blog.ai.dmomo.co.kr/news/12132) <br/>
-[2025/10/17 - [뉴스] 경찰, 캄보디아 ‘한국대학생 피살 사건’ 대포통장 모집책 추가 검거](https://blog.ai.dmomo.co.kr/news/12129) <br/>
-[2025/10/17 - [뉴스] 에로배우에서 감독…이제 바야흐로 수치의 시대가 열린다](https://blog.ai.dmomo.co.kr/news/12126) <br/>
-[2025/10/17 - 한화 VS 삼성: KBO 플레이오프 승자는? 기업 경쟁까지 한판 승부!](https://blog.ai.dmomo.co.kr/trend/12123) <br/>
+[2025/10/19 - [뉴스] 유방암 치료 패러다임 대전환…재발 방지 넘어 완치 목표하는 빅파마](https://blog.ai.dmomo.co.kr/news/12195) <br/>
+[2025/10/19 - 19금 챗GPT의 충격: AI와의 ‘로맨스’가 가져올 윤리적 딜레마와 사회적 파장](https://blog.ai.dmomo.co.kr/ai/12192) <br/>
+[2025/10/18 - [뉴스] “50살 차이, 신붓값만 2억6천만원”…74세 남성과 24세 여성 결혼, 인니서 논란](https://blog.ai.dmomo.co.kr/news/12189) <br/>
+[2025/10/18 - [뉴스] 1194회 로또 1등 28명…당첨금 9억9000만원씩 수령](https://blog.ai.dmomo.co.kr/news/12186) <br/>
+[2025/10/18 - 울산 vs 광주: AI수도와 문화도시, 두 광역시의 미래 경쟁](https://blog.ai.dmomo.co.kr/trend/12183) <br/>
+[2025/10/18 - [뉴스] “자고 일어나면 돈 복사”…‘13만전자’ 전망에 개미 ‘함박웃음’](https://blog.ai.dmomo.co.kr/news/12180) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/10/17 - Hanwha vs Samsung: Who Will Win the KBO Playoff? A Showdown of Corporate Rivalry!](https://ai.trend.dmomo.co.kr/2025/10/hanwha-vs-samsung-who-will-win-kbo.html) <br/>
-[2025/10/17 - Dodgers vs Brewers: NLCS Game 3, Will History Favor a 3-0 Lead?](https://ai.trend.dmomo.co.kr/2025/10/dodgers-vs-brewers-nlcs-game-3-will.html) <br/>
-[2025/10/17 - 2025 Latest Trends in RAG Technology and In-Depth Analysis of Agentic AI & Multi-Agent Innovations](https://ai.trend.dmomo.co.kr/2025/10/2025-latest-trends-in-rag-technology.html) <br/>
-[2025/10/17 - Legendary KISS Guitarist Ace Frehley Passes Away at 74... The Final Journey of 'The Spaceman'](https://ai.trend.dmomo.co.kr/2025/10/legendary-kiss-guitarist-ace-frehley.html) <br/>
-[2025/10/16 - T-ara's Ham Eun-jung: A Glamorous Transformation from Idol to Actress! Starting a New Chapter in Life with November Wedding](https://ai.trend.dmomo.co.kr/2025/10/t-aras-ham-eun-jung-glamorous.html) <br/>
-[2025/10/16 - Global YouTube Shutdown! Unveiling the Massive Outage on October 16, 2025 and How to Respond](https://ai.trend.dmomo.co.kr/2025/10/global-youtube-shutdown-unveiling.html) <br/>
+[2025/10/18 - Ulsan vs Gwangju: Future Competition Between the AI Capital and Cultural City](https://ai.trend.dmomo.co.kr/2025/10/ulsan-vs-gwangju-future-competition.html) <br/>
+[2025/10/18 - The Shocking Upset in Louisville: How They Defeated #2 Miami 24-21?](https://ai.trend.dmomo.co.kr/2025/10/the-shocking-upset-in-louisville-how.html) <br/>
+[2025/10/18 - Samsung vs Hanwha: Analyzing the Thrilling Competition of Two Giants from Shipbuilding to Baseball](https://ai.trend.dmomo.co.kr/2025/10/samsung-vs-hanwha-analyzing-thrilling.html) <br/>
+[2025/10/18 - 2025 Apple Security Bounty Program: In-Depth Analysis of Rewards Up to $2 Million](https://ai.trend.dmomo.co.kr/2025/10/2025-apple-security-bounty-program-in.html) <br/>
+[2025/10/18 - Shocking! Trump Releases Fraudster Politician George Santos - What Caused the Uproar in American Politics?](https://ai.trend.dmomo.co.kr/2025/10/shocking-trump-releases-fraudster.html) <br/>
+[2025/10/18 - PSG vs Strasbourg 3-3 Thriller! Lee Kang-in's Full-time Performance Highlighted Despite Disappointing Draw](https://ai.trend.dmomo.co.kr/2025/10/psg-vs-strasbourg-3-3-thriller-lee-kang.html) <br/>
