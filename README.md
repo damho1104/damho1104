@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/10/19 - 2025년 애플 보안 바운티 프로그램 최대 200만 달러 보상 혁신 분석](https://dmomo.co.kr/742) <br/>
+[2025/10/19 - 19금 챗GPT의 충격: AI와의 '로맨스'가 가져올 윤리적 딜레마와 사회적 파장](https://dmomo.co.kr/741) <br/>
+[2025/10/19 - 김민재의 5분 출전이 바꾼 '데어 클라시커': 바이에른 vs 도르트문트 2-1 승리의 숨은 전략](https://dmomo.co.kr/740) <br/>
 [2025/10/18 - [스위스 여행] #5 취리히 호수 근처 with Drone](https://dmomo.co.kr/739) <br/>
 [2025/10/16 - YouTube 대규모 장애 발생: 미국&middot;유럽 사용자 '화면만 보고 있을 뿐'](https://dmomo.co.kr/738) <br/>
 [2025/10/15 - 일본의 역전승, 브라질의 '값진' 패배: 아시아 축구의 새 지평을 열다](https://dmomo.co.kr/737) <br/>
-[2025/10/15 - 상생페이백 30만원 혜택의 모든 것: 신청부터 활용까지 완벽 가이드](https://dmomo.co.kr/736) <br/>
-[2025/10/12 - 아이코닉한 배우 다이앤 키튼, 79세로 별세: 50년 커리어의 유산은?](https://dmomo.co.kr/735) <br/>
-[2025/10/12 - 곽튜브의 달콤한 결혼식: 5세 연하 공무원과 임신 소식까지!](https://dmomo.co.kr/734) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/19 - [뉴스] 유방암 치료 패러다임 대전환…재발 방지 넘어 완치 목표하는 빅파마](https://blog.ai.dmomo.co.kr/news/12195) <br/>
-[2025/10/19 - 19금 챗GPT의 충격: AI와의 ‘로맨스’가 가져올 윤리적 딜레마와 사회적 파장](https://blog.ai.dmomo.co.kr/ai/12192) <br/>
-[2025/10/18 - [뉴스] “50살 차이, 신붓값만 2억6천만원”…74세 남성과 24세 여성 결혼, 인니서 논란](https://blog.ai.dmomo.co.kr/news/12189) <br/>
-[2025/10/18 - [뉴스] 1194회 로또 1등 28명…당첨금 9억9000만원씩 수령](https://blog.ai.dmomo.co.kr/news/12186) <br/>
-[2025/10/18 - 울산 vs 광주: AI수도와 문화도시, 두 광역시의 미래 경쟁](https://blog.ai.dmomo.co.kr/trend/12183) <br/>
-[2025/10/18 - [뉴스] “자고 일어나면 돈 복사”…‘13만전자’ 전망에 개미 ‘함박웃음’](https://blog.ai.dmomo.co.kr/news/12180) <br/>
+[2025/10/20 - [뉴스] 한국 승무원 불러달랬을 뿐인데…美항공사가 소유에게 한 짓 ‘경악’](https://blog.ai.dmomo.co.kr/news/12252) <br/>
+[2025/10/20 - [뉴스] AI 학습용 데이터 줬다가 되려 피해?…창작과 이용의 경계](https://blog.ai.dmomo.co.kr/news/12249) <br/>
+[2025/10/20 - [뉴스] 가을 끝, 패딩 준비해야…강원 산간 첫눈](https://blog.ai.dmomo.co.kr/news/12246) <br/>
+[2025/10/19 - [뉴스] ‘북미 대화 가능성’ CNN 보도에 입연 대통령실 “한미 소통·공조 지속”](https://blog.ai.dmomo.co.kr/news/12243) <br/>
+[2025/10/19 - 리듬의 심장이 멈추다: Limp Bizkit 베이시스트 샘 리버스(48) 사망 소식과 그의 유산](https://blog.ai.dmomo.co.kr/trend/12240) <br/>
+[2025/10/19 - 로또 1194회 대박의 비밀: 28명 1등 당첨자의 9.8억 행운 분석](https://blog.ai.dmomo.co.kr/trend/12238) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/10/18 - Ulsan vs Gwangju: Future Competition Between the AI Capital and Cultural City](https://ai.trend.dmomo.co.kr/2025/10/ulsan-vs-gwangju-future-competition.html) <br/>
-[2025/10/18 - The Shocking Upset in Louisville: How They Defeated #2 Miami 24-21?](https://ai.trend.dmomo.co.kr/2025/10/the-shocking-upset-in-louisville-how.html) <br/>
-[2025/10/18 - Samsung vs Hanwha: Analyzing the Thrilling Competition of Two Giants from Shipbuilding to Baseball](https://ai.trend.dmomo.co.kr/2025/10/samsung-vs-hanwha-analyzing-thrilling.html) <br/>
-[2025/10/18 - 2025 Apple Security Bounty Program: In-Depth Analysis of Rewards Up to $2 Million](https://ai.trend.dmomo.co.kr/2025/10/2025-apple-security-bounty-program-in.html) <br/>
-[2025/10/18 - Shocking! Trump Releases Fraudster Politician George Santos - What Caused the Uproar in American Politics?](https://ai.trend.dmomo.co.kr/2025/10/shocking-trump-releases-fraudster.html) <br/>
-[2025/10/18 - PSG vs Strasbourg 3-3 Thriller! Lee Kang-in's Full-time Performance Highlighted Despite Disappointing Draw](https://ai.trend.dmomo.co.kr/2025/10/psg-vs-strasbourg-3-3-thriller-lee-kang.html) <br/>
+[2025/10/19 - The Heartbeat of Rhythm Stops: The Passing of Limp Bizkit Bassist Sam Rivers (48) and His Legacy](https://ai.trend.dmomo.co.kr/2025/10/the-heartbeat-of-rhythm-stops-passing.html) <br/>
+[2025/10/19 - The Secret to Lotto Draw 1194: Analyzing the Fortune of 28 First Prize Winners and Their 980 Million Won Jackpot](https://ai.trend.dmomo.co.kr/2025/10/the-secret-to-lotto-draw-1194-analyzing.html) <br/>
+[2025/10/19 - Alabama's Miracle, Tennessee's Nightmare: The 99-Yard Pick-Six That Changed the 'Legend of October'](https://ai.trend.dmomo.co.kr/2025/10/alabamas-miracle-tennessees-nightmare.html) <br/>
+[2025/10/19 - Edge AI Innovations in 2025: Unpacking Hybrid Architectures and Real-Time Intelligence](https://ai.trend.dmomo.co.kr/2025/10/edge-ai-innovations-in-2025-unpacking.html) <br/>
+[2025/10/19 - How Kim Min-jae's 5-Minute Appearance Changed the 'Der Klassiker': The Hidden Strategy Behind Bayern's 2-1 Victory Over Dortmund](https://ai.trend.dmomo.co.kr/2025/10/how-kim-min-jaes-5-minute-appearance.html) <br/>
+[2025/10/19 - Top 10 Matchup: Ole Miss vs. Georgia, A Critical Showdown for the SEC Title](https://ai.trend.dmomo.co.kr/2025/10/top-10-matchup-ole-miss-vs-georgia.html) <br/>
