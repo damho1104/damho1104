@@ -88,17 +88,17 @@
 [2025/10/15 - 일본의 역전승, 브라질의 '값진' 패배: 아시아 축구의 새 지평을 열다](https://dmomo.co.kr/737) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/20 - [뉴스] 한국 승무원 불러달랬을 뿐인데…美항공사가 소유에게 한 짓 ‘경악’](https://blog.ai.dmomo.co.kr/news/12252) <br/>
-[2025/10/20 - [뉴스] AI 학습용 데이터 줬다가 되려 피해?…창작과 이용의 경계](https://blog.ai.dmomo.co.kr/news/12249) <br/>
-[2025/10/20 - [뉴스] 가을 끝, 패딩 준비해야…강원 산간 첫눈](https://blog.ai.dmomo.co.kr/news/12246) <br/>
-[2025/10/19 - [뉴스] ‘북미 대화 가능성’ CNN 보도에 입연 대통령실 “한미 소통·공조 지속”](https://blog.ai.dmomo.co.kr/news/12243) <br/>
-[2025/10/19 - 리듬의 심장이 멈추다: Limp Bizkit 베이시스트 샘 리버스(48) 사망 소식과 그의 유산](https://blog.ai.dmomo.co.kr/trend/12240) <br/>
-[2025/10/19 - 로또 1194회 대박의 비밀: 28명 1등 당첨자의 9.8억 행운 분석](https://blog.ai.dmomo.co.kr/trend/12238) <br/>
+[2025/10/21 - [뉴스] 대통령인데 욕설 들을 줄은…트럼프에 ‘파멸’ 협박 받은 이 남자](https://blog.ai.dmomo.co.kr/news/12315) <br/>
+[2025/10/21 - [뉴스] 코묻은 돈 무시할 게 아니네…10대도 이것에 10만원씩 펑펑](https://blog.ai.dmomo.co.kr/news/12312) <br/>
+[2025/10/21 - [뉴스] 패딩 꺼내야하나…0도 올가을 가장 추운 출근길](https://blog.ai.dmomo.co.kr/news/12309) <br/>
+[2025/10/20 - [뉴스] “아빠 우승 못했잖아”…8살 한마디에 트로피 거머쥐고 “아들 봤지?”](https://blog.ai.dmomo.co.kr/news/12306) <br/>
+[2025/10/20 - [뉴스] 양치할 때 이것 안 하는 사람, 췌장암 위험 3배 높아진다](https://blog.ai.dmomo.co.kr/news/12303) <br/>
+[2025/10/20 - 이이경 논란의 진실: 배우의 해명과 법적 대응의 전말](https://blog.ai.dmomo.co.kr/trend/12300) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/10/20 - The Truth Behind the Lee Ik-kyung Controversy: The Actor's Explanation and Legal Response Unfolded](https://ai.trend.dmomo.co.kr/2025/10/the-truth-behind-lee-ik-kyung.html) <br/>
+[2025/10/20 - Shocking News: NFL All-Pro Running Back Doug Martin (36) Dies Unexpectedly](https://ai.trend.dmomo.co.kr/2025/10/shocking-news-nfl-all-pro-running-back.html) <br/>
+[2025/10/20 - 5 Secrets of How Microsoft 365 Copilot Agent Mode Will Drive Work Innovation in 2025](https://ai.trend.dmomo.co.kr/2025/10/5-secrets-of-how-microsoft-365-copilot.html) <br/>
+[2025/10/20 - Getafe vs Real Madrid: The La Liga Battle of David vs Goliath - Who Will Win?](https://ai.trend.dmomo.co.kr/2025/10/getafe-vs-real-madrid-la-liga-battle-of.html) <br/>
+[2025/10/20 - NFL Week 7 Highlights: Broncos Defense Shines, Giants' Limitations Exposed](https://ai.trend.dmomo.co.kr/2025/10/nfl-week-7-highlights-broncos-defense.html) <br/>
 [2025/10/19 - The Heartbeat of Rhythm Stops: The Passing of Limp Bizkit Bassist Sam Rivers (48) and His Legacy](https://ai.trend.dmomo.co.kr/2025/10/the-heartbeat-of-rhythm-stops-passing.html) <br/>
-[2025/10/19 - The Secret to Lotto Draw 1194: Analyzing the Fortune of 28 First Prize Winners and Their 980 Million Won Jackpot](https://ai.trend.dmomo.co.kr/2025/10/the-secret-to-lotto-draw-1194-analyzing.html) <br/>
-[2025/10/19 - Alabama's Miracle, Tennessee's Nightmare: The 99-Yard Pick-Six That Changed the 'Legend of October'](https://ai.trend.dmomo.co.kr/2025/10/alabamas-miracle-tennessees-nightmare.html) <br/>
-[2025/10/19 - Edge AI Innovations in 2025: Unpacking Hybrid Architectures and Real-Time Intelligence](https://ai.trend.dmomo.co.kr/2025/10/edge-ai-innovations-in-2025-unpacking.html) <br/>
-[2025/10/19 - How Kim Min-jae's 5-Minute Appearance Changed the 'Der Klassiker': The Hidden Strategy Behind Bayern's 2-1 Victory Over Dortmund](https://ai.trend.dmomo.co.kr/2025/10/how-kim-min-jaes-5-minute-appearance.html) <br/>
-[2025/10/19 - Top 10 Matchup: Ole Miss vs. Georgia, A Critical Showdown for the SEC Title](https://ai.trend.dmomo.co.kr/2025/10/top-10-matchup-ole-miss-vs-georgia.html) <br/>
