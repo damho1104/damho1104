@@ -88,17 +88,17 @@
 [2025/10/15 - 일본의 역전승, 브라질의 '값진' 패배: 아시아 축구의 새 지평을 열다](https://dmomo.co.kr/737) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/21 - [뉴스] 대통령인데 욕설 들을 줄은…트럼프에 ‘파멸’ 협박 받은 이 남자](https://blog.ai.dmomo.co.kr/news/12315) <br/>
-[2025/10/21 - [뉴스] 코묻은 돈 무시할 게 아니네…10대도 이것에 10만원씩 펑펑](https://blog.ai.dmomo.co.kr/news/12312) <br/>
-[2025/10/21 - [뉴스] 패딩 꺼내야하나…0도 올가을 가장 추운 출근길](https://blog.ai.dmomo.co.kr/news/12309) <br/>
-[2025/10/20 - [뉴스] “아빠 우승 못했잖아”…8살 한마디에 트로피 거머쥐고 “아들 봤지?”](https://blog.ai.dmomo.co.kr/news/12306) <br/>
-[2025/10/20 - [뉴스] 양치할 때 이것 안 하는 사람, 췌장암 위험 3배 높아진다](https://blog.ai.dmomo.co.kr/news/12303) <br/>
-[2025/10/20 - 이이경 논란의 진실: 배우의 해명과 법적 대응의 전말](https://blog.ai.dmomo.co.kr/trend/12300) <br/>
+[2025/10/22 - [뉴스] “빨리 돌아가라”…나라 ‘사슴공원’서 한국인 저격한 일본女, 비난받은 이유](https://blog.ai.dmomo.co.kr/news/12384) <br/>
+[2025/10/22 - [뉴스] 18살에 120억 매출 게임으로 큰 돈 버는 Z세대들](https://blog.ai.dmomo.co.kr/news/12381) <br/>
+[2025/10/22 - [뉴스] 신 안 받으려고 1~2억 썼지만…반신마비까지 온 개그우먼](https://blog.ai.dmomo.co.kr/news/12378) <br/>
+[2025/10/22 - [뉴스] 대미 협상팀 긴급 방미…APEC 앞두고 ‘쟁점타결’ 나서](https://blog.ai.dmomo.co.kr/news/12375) <br/>
+[2025/10/21 - [뉴스] “회담 장소 누가 정했어?” “네 엄마가”…트럼프 대변인 막말에 경악](https://blog.ai.dmomo.co.kr/news/12372) <br/>
+[2025/10/21 - [뉴스] 삼성SDS·네카오·KT 슈퍼 연합체’ 나왔다 … 2번 유찰됐던 국가AI컴퓨팅센터 단독 입찰](https://blog.ai.dmomo.co.kr/news/12369) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/10/21 - A Chess Prodigy at 29: Daniel Naroditsky's Sudden Breakup and the Digital Chess Revolution He Left Behind](https://ai.trend.dmomo.co.kr/2025/10/a-chess-prodigy-at-29-daniel.html) <br/>
+[2025/10/21 - Hanwha vs Samsung PO Game 3: Ryu Hyun-jin vs Hurado Showdown, Who Will Secure the KS Ticket?](https://ai.trend.dmomo.co.kr/2025/10/hanwha-vs-samsung-po-game-3-ryu-hyun.html) <br/>
+[2025/10/21 - 2025 LLM Innovations: 5 Key Insights into Action-Oriented AI LAM and Agentic Architecture](https://ai.trend.dmomo.co.kr/2025/10/2025-llm-innovations-5-key-insights.html) <br/>
+[2025/10/21 - AWS 3.5-Hour Outage: The Risks of Cloud Dependency Exposed by the US-East-1 Downtime](https://ai.trend.dmomo.co.kr/2025/10/aws-35-hour-outage-risks-of-cloud.html) <br/>
+[2025/10/21 - Lee Ik-kyung Rumor Bomb: Agency Announces Legal Action, What’s the Truth?](https://ai.trend.dmomo.co.kr/2025/10/lee-ik-kyung-rumor-bomb-agency.html) <br/>
 [2025/10/20 - The Truth Behind the Lee Ik-kyung Controversy: The Actor's Explanation and Legal Response Unfolded](https://ai.trend.dmomo.co.kr/2025/10/the-truth-behind-lee-ik-kyung.html) <br/>
-[2025/10/20 - Shocking News: NFL All-Pro Running Back Doug Martin (36) Dies Unexpectedly](https://ai.trend.dmomo.co.kr/2025/10/shocking-news-nfl-all-pro-running-back.html) <br/>
-[2025/10/20 - 5 Secrets of How Microsoft 365 Copilot Agent Mode Will Drive Work Innovation in 2025](https://ai.trend.dmomo.co.kr/2025/10/5-secrets-of-how-microsoft-365-copilot.html) <br/>
-[2025/10/20 - Getafe vs Real Madrid: The La Liga Battle of David vs Goliath - Who Will Win?](https://ai.trend.dmomo.co.kr/2025/10/getafe-vs-real-madrid-la-liga-battle-of.html) <br/>
-[2025/10/20 - NFL Week 7 Highlights: Broncos Defense Shines, Giants' Limitations Exposed](https://ai.trend.dmomo.co.kr/2025/10/nfl-week-7-highlights-broncos-defense.html) <br/>
-[2025/10/19 - The Heartbeat of Rhythm Stops: The Passing of Limp Bizkit Bassist Sam Rivers (48) and His Legacy](https://ai.trend.dmomo.co.kr/2025/10/the-heartbeat-of-rhythm-stops-passing.html) <br/>
