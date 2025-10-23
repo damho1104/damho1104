@@ -88,17 +88,17 @@
 [2025/10/15 - 일본의 역전승, 브라질의 '값진' 패배: 아시아 축구의 새 지평을 열다](https://dmomo.co.kr/737) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/22 - [뉴스] “빨리 돌아가라”…나라 ‘사슴공원’서 한국인 저격한 일본女, 비난받은 이유](https://blog.ai.dmomo.co.kr/news/12384) <br/>
-[2025/10/22 - [뉴스] 18살에 120억 매출 게임으로 큰 돈 버는 Z세대들](https://blog.ai.dmomo.co.kr/news/12381) <br/>
-[2025/10/22 - [뉴스] 신 안 받으려고 1~2억 썼지만…반신마비까지 온 개그우먼](https://blog.ai.dmomo.co.kr/news/12378) <br/>
-[2025/10/22 - [뉴스] 대미 협상팀 긴급 방미…APEC 앞두고 ‘쟁점타결’ 나서](https://blog.ai.dmomo.co.kr/news/12375) <br/>
-[2025/10/21 - [뉴스] “회담 장소 누가 정했어?” “네 엄마가”…트럼프 대변인 막말에 경악](https://blog.ai.dmomo.co.kr/news/12372) <br/>
-[2025/10/21 - [뉴스] 삼성SDS·네카오·KT 슈퍼 연합체’ 나왔다 … 2번 유찰됐던 국가AI컴퓨팅센터 단독 입찰](https://blog.ai.dmomo.co.kr/news/12369) <br/>
+[2025/10/23 - [뉴스] 미·중 무역 갈등 쉽사리 해결 안되나, 실망감에 뉴욕증시 하락 마감 [월가월부]](https://blog.ai.dmomo.co.kr/news/12441) <br/>
+[2025/10/23 - [뉴스] 어린이용 틴더 10대들 폭로에 발칵…1600만명 몰렸다](https://blog.ai.dmomo.co.kr/news/12438) <br/>
+[2025/10/23 - [뉴스] 거기, 처음책방이 환하게 익어간다](https://blog.ai.dmomo.co.kr/news/12435) <br/>
+[2025/10/22 - [뉴스] 유노윤호 ‘땡큐’, 2021년 발표한 노래인데…갑자기 인기 끄는 이유](https://blog.ai.dmomo.co.kr/news/12432) <br/>
+[2025/10/22 - [뉴스] 수능 넉 달 남았는데…간경화 부친에 간 떼어준 효자 아들](https://blog.ai.dmomo.co.kr/news/12429) <br/>
+[2025/10/22 - 19년 만의 기적? 한화의 신성 정우주, PO 4차전 선발 등판의 비밀](https://blog.ai.dmomo.co.kr/trend/12426) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/10/22 - A Miracle After 19 Years? The Secret Behind Hanwha's Rising Star Jeong Woo-joo's Starting Pitch in Game 4 of the Playoffs](https://ai.trend.dmomo.co.kr/2025/10/a-miracle-after-19-years-secret-behind.html) <br/>
+[2025/10/22 - NBA 2025-26 Season Opener: Warriors vs Lakers, The Dawn of a New Era Without LeBron](https://ai.trend.dmomo.co.kr/2025/10/nba-2025-26-season-opener-warriors-vs.html) <br/>
+[2025/10/22 - 5 Key Strategies for the AI Agent-Driven Finance 4.0 Era and the A2A Economy](https://ai.trend.dmomo.co.kr/2025/10/5-key-strategies-for-ai-agent-driven.html) <br/>
+[2025/10/22 - 2025-26 UEFA Champions League in the USA: Expansion to 36 Teams and PSG's 7-2 Victory](https://ai.trend.dmomo.co.kr/2025/10/2025-26-uefa-champions-league-in-usa.html) <br/>
+[2025/10/22 - Night of the Goal Storm: PSG Secures 7-2 Victory Over Leverkusen with Impressive Performance by Lee Kang-in](https://ai.trend.dmomo.co.kr/2025/10/night-of-goal-storm-psg-secures-7-2.html) <br/>
 [2025/10/21 - A Chess Prodigy at 29: Daniel Naroditsky's Sudden Breakup and the Digital Chess Revolution He Left Behind](https://ai.trend.dmomo.co.kr/2025/10/a-chess-prodigy-at-29-daniel.html) <br/>
-[2025/10/21 - Hanwha vs Samsung PO Game 3: Ryu Hyun-jin vs Hurado Showdown, Who Will Secure the KS Ticket?](https://ai.trend.dmomo.co.kr/2025/10/hanwha-vs-samsung-po-game-3-ryu-hyun.html) <br/>
-[2025/10/21 - 2025 LLM Innovations: 5 Key Insights into Action-Oriented AI LAM and Agentic Architecture](https://ai.trend.dmomo.co.kr/2025/10/2025-llm-innovations-5-key-insights.html) <br/>
-[2025/10/21 - AWS 3.5-Hour Outage: The Risks of Cloud Dependency Exposed by the US-East-1 Downtime](https://ai.trend.dmomo.co.kr/2025/10/aws-35-hour-outage-risks-of-cloud.html) <br/>
-[2025/10/21 - Lee Ik-kyung Rumor Bomb: Agency Announces Legal Action, What’s the Truth?](https://ai.trend.dmomo.co.kr/2025/10/lee-ik-kyung-rumor-bomb-agency.html) <br/>
-[2025/10/20 - The Truth Behind the Lee Ik-kyung Controversy: The Actor's Explanation and Legal Response Unfolded](https://ai.trend.dmomo.co.kr/2025/10/the-truth-behind-lee-ik-kyung.html) <br/>
