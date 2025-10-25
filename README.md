@@ -88,11 +88,17 @@
 [2025/10/15 - 일본의 역전승, 브라질의 '값진' 패배: 아시아 축구의 새 지평을 열다](https://dmomo.co.kr/737) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/10/25 - [뉴스] 미국 “한국이 적절한 조건 수용하면 가능한한 빨리 무역협상 타결”](https://blog.ai.dmomo.co.kr/news/12519) <br/>
+[2025/10/25 - [뉴스] 한미약품 첫 표적단백질분해제 베일 벗었다…퍼스트 인 클래스 정조준](https://blog.ai.dmomo.co.kr/news/12516) <br/>
+[2025/10/25 - [뉴스] 사랑받는 영화 스타의 과거…짐승같은 놈 욕먹던 이유가](https://blog.ai.dmomo.co.kr/news/12513) <br/>
+[2025/10/24 - [뉴스] 美 9월 소비자물가 ‘안도’…연준, 2연속 금리인하 유력](https://blog.ai.dmomo.co.kr/news/12510) <br/>
+[2025/10/24 - [뉴스] 바가지 없는 축제, 가능할까…지자체, 신뢰 회복 총력전](https://blog.ai.dmomo.co.kr/news/12507) <br/>
+[2025/10/24 - NBA 전설 챈시 빌럽스, 불법 도박 스캔들로 체포…미국 스포츠계 충격](https://blog.ai.dmomo.co.kr/trend/12504) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/10/24 - NBA Legend Chauncey Billups Arrested in Illegal Gambling Scandal...Shockwaves in American Sports](https://ai.trend.dmomo.co.kr/2025/10/nba-legend-chauncey-billups-arrested-in.html) <br/>
+[2025/10/24 - Samsung vs Hanwha: The Thrilling Battlefield from Baseball Stadiums to Corporate Wars](https://ai.trend.dmomo.co.kr/2025/10/samsung-vs-hanwha-thrilling-battlefield.html) <br/>
 [2025/10/23 - 76ers vs Celtics: Opening Night Comeback Victory and Rookie's Miraculous Debut Record](https://ai.trend.dmomo.co.kr/2025/10/76ers-vs-celtics-opening-night-comeback.html) <br/>
 [2025/10/23 - Former Congressman Kim Young-sun at the Center of 'Captain' Controversy and Nomination Interference Allegations](https://ai.trend.dmomo.co.kr/2025/10/former-congressman-kim-young-sun-at.html) <br/>
 [2025/10/23 - Anthony Edwards' 41-Point Explosion! Timberwolves vs. Trail Blazers Season Opener Showdown](https://ai.trend.dmomo.co.kr/2025/10/anthony-edwards-41-point-explosion.html) <br/>
 [2025/10/23 - 2025 Essential Web Development: A Guide to Solving Integration Issues with Plasmo and Next.js](https://ai.trend.dmomo.co.kr/2025/10/2025-essential-web-development-guide-to.html) <br/>
-[2025/10/23 - Tottenham Holds Monaco to a 0-0 Draw Away: Vicario's Stellar Saves Secure a Point](https://ai.trend.dmomo.co.kr/2025/10/tottenham-holds-monaco-to-0-0-draw-away.html) <br/>
-[2025/10/23 - NBA 2025-26 Season Opener: Cleveland vs New York, a 'Now or Never' Match for the East's Destiny](https://ai.trend.dmomo.co.kr/2025/10/nba-2025-26-season-opener-cleveland-vs.html) <br/>
