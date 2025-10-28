@@ -88,17 +88,17 @@
 [2025/10/15 - 일본의 역전승, 브라질의 '값진' 패배: 아시아 축구의 새 지평을 열다](https://dmomo.co.kr/737) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/27 - [뉴스] 루브르 박물관 뒤흔든 보석 도난 사건…장갑서 나온 ‘이것’에 덜미](https://blog.ai.dmomo.co.kr/news/12627) <br/>
-[2025/10/27 - [뉴스] 올가을 첫 한파특보…전국 강풍에 체감온도 뚝](https://blog.ai.dmomo.co.kr/news/12624) <br/>
-[2025/10/26 - [뉴스] “미국 다음은 너희” 전세계에 싸움 거는 중국…상대방은 “모든 수단 동원”](https://blog.ai.dmomo.co.kr/news/12621) <br/>
-[2025/10/26 - [뉴스] 놓치면 1년 기다려야…가을의 보석 먹으러 호텔로 우르르](https://blog.ai.dmomo.co.kr/news/12618) <br/>
-[2025/10/26 - 한화 vs LG 한국시리즈 1차전, ‘1사 3루’가 갈라놓은 8:2 대승의 비밀](https://blog.ai.dmomo.co.kr/trend/12615) <br/>
-[2025/10/26 - [뉴스] 반도체 슈퍼 랠리·넘치는 증시자금·정책 모멘텀…이유있는 ‘4천피 시대’](https://blog.ai.dmomo.co.kr/news/12612) <br/>
+[2025/10/28 - [뉴스] “한국전력 등 컨소시엄, 사우디 리야드 풍력발전 사업 수주”](https://blog.ai.dmomo.co.kr/news/12693) <br/>
+[2025/10/28 - [뉴스] 꿈의 직장 가고싶어 단톡방도 나왔어요…네카오 어떻게 뽑나 보니](https://blog.ai.dmomo.co.kr/news/12690) <br/>
+[2025/10/28 - [뉴스] 출근길 영하 추위, 어제보다 더 춥다](https://blog.ai.dmomo.co.kr/news/12687) <br/>
+[2025/10/28 - [뉴스] 일왕, 영어로 트럼프에 인사 … 트럼프 “다시 만나 영광”](https://blog.ai.dmomo.co.kr/news/12684) <br/>
+[2025/10/27 - [뉴스] “황금 골프공 선물”…다카이치, ‘아베 후계자’로 트럼프 대응 전략](https://blog.ai.dmomo.co.kr/news/12681) <br/>
+[2025/10/27 - [뉴스] 당신은 어떤 유령과 살고 있나요?…양손프로젝트의 연극](https://blog.ai.dmomo.co.kr/news/12678) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/10/27 - NFL Shock: Cam Scantlebury's Season-Ending Injury, What's Next for the Giants?](https://ai.trend.dmomo.co.kr/2025/10/nfl-shock-cam-scantleburys-season.html) <br/>
+[2025/10/27 - [NFL Analysis] 'Rodgers' Return Match' Packers vs Steelers: Hidden Stories and Strategic Victories in a Historic Rivalry](https://ai.trend.dmomo.co.kr/2025/10/nfl-analysis-rodgers-return-match.html) <br/>
+[2025/10/27 - 2025 Low-Code Innovation: Comparing Vibe Coding and Platform-Specific Strategies with Future Insights](https://ai.trend.dmomo.co.kr/2025/10/2025-low-code-innovation-comparing-vibe.html) <br/>
+[2025/10/27 - El Clasico Showdown: Mbappe's Brilliance and the Bench Brawl, Real Madrid's 2-1 Victory](https://ai.trend.dmomo.co.kr/2025/10/el-clasico-showdown-mbappes-brilliance.html) <br/>
+[2025/10/27 - Bo Nix's Perfect Day, Broncos' 5-Game Winning Streak! Cowboys' Another Listless Defeat](https://ai.trend.dmomo.co.kr/2025/10/bo-nixs-perfect-day-broncos-5-game.html) <br/>
 [2025/10/26 - Hanwha vs LG Korean Series Game 1: The Secret Behind the 8-2 Victory Split by 'One Out, Runner on Third'](https://ai.trend.dmomo.co.kr/2025/10/hanwha-vs-lg-korean-series-game-1.html) <br/>
-[2025/10/26 - Texas A&M vs LSU: Conquering 'Death Valley' After 30 Years - The Family Drama of Marcel Reed](https://ai.trend.dmomo.co.kr/2025/10/texas-vs-lsu-conquering-death-valley.html) <br/>
-[2025/10/26 - Latest Trends in AGI Research for 2025 and Practical Applications: What Does the Future Hold for Artificial General Intelligence?](https://ai.trend.dmomo.co.kr/2025/10/latest-trends-in-agi-research-for-2025.html) <br/>
-[2025/10/26 - Lee Kang-in's Disappointment and Hakimi's Brilliance: PSG's 3-0 Victory and Reclaiming the Top of Ligue 1](https://ai.trend.dmomo.co.kr/2025/10/lee-kang-ins-disappointment-and-hakimis.html) <br/>
-[2025/10/26 - Alabama Escapes Crisis: Continuing Their Undefeated Streak with a Dramatic 4th Place Victory](https://ai.trend.dmomo.co.kr/2025/10/alabama-escapes-crisis-continuing-their.html) <br/>
-[2025/10/25 - Miracle After 32 Years: Toronto's 9-Point Explosion Overpowers Dodgers - WS Game 1 Analysis](https://ai.trend.dmomo.co.kr/2025/10/miracle-after-32-years-torontos-9-point.html) <br/>
