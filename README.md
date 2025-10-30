@@ -88,17 +88,17 @@
 [2025/10/15 - 일본의 역전승, 브라질의 '값진' 패배: 아시아 축구의 새 지평을 열다](https://dmomo.co.kr/737) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/29 - [뉴스] 골프실력 얼마나 좋길래…초청선수로 LPGA 출전하는 트럼프 손녀](https://blog.ai.dmomo.co.kr/news/12760) <br/>
-[2025/10/29 - [뉴스] AI가 의사·회계사도 대체…2040년엔 무료 진료 시대”](https://blog.ai.dmomo.co.kr/news/12757) <br/>
-[2025/10/29 - [뉴스] 벳이즈, FASAVA 2025서 유럽 수의피부과 전문가 강연…정밀 냉각기술 선봬](https://blog.ai.dmomo.co.kr/news/12754) <br/>
-[2025/10/28 - [뉴스] 전한길, 트럼프에 “난 한국의 찰리 커크…죽어가는 윤, 꼭 면회해달라”](https://blog.ai.dmomo.co.kr/news/12751) <br/>
-[2025/10/28 - [뉴스] 송가인 대표곡 가인이어라, 중학교 음악 교과서에 실렸다](https://blog.ai.dmomo.co.kr/news/12748) <br/>
-[2025/10/28 - [뉴스] 연결, 확장, 스토리텔링, 지속성…美 벤처투자기관의 투자 철학](https://blog.ai.dmomo.co.kr/news/12745) <br/>
+[2025/10/30 - [뉴스] 트럼프 떠나고 시진핑 오는 경주…연일 ‘초긴장 모드’ [경주 APEC]](https://blog.ai.dmomo.co.kr/news/12834) <br/>
+[2025/10/30 - [뉴스] 한화 이글스 유튜브 채널 사과, 19년 만에 승리했는데 무슨 일이](https://blog.ai.dmomo.co.kr/news/12831) <br/>
+[2025/10/30 - [뉴스] [속보] 연준, 2연속 금리인하…양적 긴축 3년만에 종료](https://blog.ai.dmomo.co.kr/news/12828) <br/>
+[2025/10/29 - [뉴스] [속보] 미 국방 “전작권환수 훌륭한 일…한국은 믿음직한 전투 파트너”](https://blog.ai.dmomo.co.kr/news/12825) <br/>
+[2025/10/29 - [뉴스] 방한 백악관 대변인, 한국 화장품 추천 받았나…K뷰티 쇼핑 인증](https://blog.ai.dmomo.co.kr/news/12822) <br/>
+[2025/10/29 - [뉴스] 한미 관세협상 타결에 제약·바이오 업계 최악은 면했다](https://blog.ai.dmomo.co.kr/news/12819) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/10/29 - The Warriors' Victory Over the Clippers: The Key Was Defense](https://ai.trend.dmomo.co.kr/2025/10/the-warriors-victory-over-clippers-key.html) <br/>
+[2025/10/29 - 2025 KBO Korean Series: Analysis and Championship Prediction for LG vs Hanwha Game 3](https://ai.trend.dmomo.co.kr/2025/10/2025-kbo-korean-series-analysis-and.html) <br/>
 [2025/10/28 - Who Will Win Game 3 of the 2025 World Series? A Thrilling Matchup: Blue Jays vs. Dodgers](https://ai.trend.dmomo.co.kr/2025/10/who-will-win-game-3-of-2025-world.html) <br/>
 [2025/10/28 - Ohtani's Home Run Show! Dodgers Win Thrilling Extra-Inning Battle in Game 3 of the WS... Hope for Back-to-Back Titles Revived](https://ai.trend.dmomo.co.kr/2025/10/ohtanis-home-run-show-dodgers-win.html) <br/>
 [2025/10/28 - The Rise and Fall of the London Bagel Museum: The Shocking Death Incident of a 200 Billion Won Brand](https://ai.trend.dmomo.co.kr/2025/10/the-rise-and-fall-of-london-bagel.html) <br/>
 [2025/10/28 - 5 Essential AI-Powered SBOM Innovations Revolutionizing Software Supply Chain Security in 2025](https://ai.trend.dmomo.co.kr/2025/10/5-essential-ai-powered-sbom-innovations.html) <br/>
-[2025/10/28 - [La Liga Analysis] Atletico Madrid's 2-0 Victory Over Betis: A Signal of Recovery After Champions League Setback](https://ai.trend.dmomo.co.kr/2025/10/la-liga-analysis-atletico-madrids-2-0.html) <br/>
-[2025/10/27 - NFL Shock: Cam Scantlebury's Season-Ending Injury, What's Next for the Giants?](https://ai.trend.dmomo.co.kr/2025/10/nfl-shock-cam-scantleburys-season.html) <br/>
