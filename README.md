@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/10/31 - 피에르 로버트 사망: 필라델피아 라디오 전설 DJ 70세 별세](https://dmomo.co.kr/745) <br/>
+[2025/10/31 - 런던베이글뮤지엄의 성장과 추락: 2000억 브랜드의 충격적 과로사 사건](https://dmomo.co.kr/744) <br/>
+[2025/10/31 - 손흥민 MLS 플레이오프 데뷔전 승리! LAFC가 오스틴FC 2-1 제압](https://dmomo.co.kr/743) <br/>
 [2025/10/19 - 2025년 애플 보안 바운티 프로그램 최대 200만 달러 보상 혁신 분석](https://dmomo.co.kr/742) <br/>
 [2025/10/19 - 19금 챗GPT의 충격: AI와의 '로맨스'가 가져올 윤리적 딜레마와 사회적 파장](https://dmomo.co.kr/741) <br/>
 [2025/10/19 - 김민재의 5분 출전이 바꾼 '데어 클라시커': 바이에른 vs 도르트문트 2-1 승리의 숨은 전략](https://dmomo.co.kr/740) <br/>
-[2025/10/18 - [스위스 여행] #5 취리히 호수 근처 with Drone](https://dmomo.co.kr/739) <br/>
-[2025/10/16 - YouTube 대규모 장애 발생: 미국&middot;유럽 사용자 '화면만 보고 있을 뿐'](https://dmomo.co.kr/738) <br/>
-[2025/10/15 - 일본의 역전승, 브라질의 '값진' 패배: 아시아 축구의 새 지평을 열다](https://dmomo.co.kr/737) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/30 - [뉴스] 트럼프 떠나고 시진핑 오는 경주…연일 ‘초긴장 모드’ [경주 APEC]](https://blog.ai.dmomo.co.kr/news/12834) <br/>
-[2025/10/30 - [뉴스] 한화 이글스 유튜브 채널 사과, 19년 만에 승리했는데 무슨 일이](https://blog.ai.dmomo.co.kr/news/12831) <br/>
-[2025/10/30 - [뉴스] [속보] 연준, 2연속 금리인하…양적 긴축 3년만에 종료](https://blog.ai.dmomo.co.kr/news/12828) <br/>
-[2025/10/29 - [뉴스] [속보] 미 국방 “전작권환수 훌륭한 일…한국은 믿음직한 전투 파트너”](https://blog.ai.dmomo.co.kr/news/12825) <br/>
-[2025/10/29 - [뉴스] 방한 백악관 대변인, 한국 화장품 추천 받았나…K뷰티 쇼핑 인증](https://blog.ai.dmomo.co.kr/news/12822) <br/>
-[2025/10/29 - [뉴스] 한미 관세협상 타결에 제약·바이오 업계 최악은 면했다](https://blog.ai.dmomo.co.kr/news/12819) <br/>
+[2025/10/31 - [뉴스] “절대 항복하지 않는다”…한미정상 사진 중 백악관이 주목한 이 티셔츠](https://blog.ai.dmomo.co.kr/news/12906) <br/>
+[2025/10/31 - [뉴스] 2억6000만명이 쓰는 디자인 툴 캔바, 디자인 이해하는 AI 내놨다](https://blog.ai.dmomo.co.kr/news/12903) <br/>
+[2025/10/31 - [뉴스] 가성비 좋다지만 안전 걱정 커진 동남아…겨울여행지 판도 흔든다](https://blog.ai.dmomo.co.kr/news/12900) <br/>
+[2025/10/30 - [뉴스] 승객 탑승 여부도 확인 안 하고…섬에 남겨진 호주 관광객 숨진 채 발견](https://blog.ai.dmomo.co.kr/news/12897) <br/>
+[2025/10/30 - [뉴스] 응급실 뺑뺑이 남 일 아니었네…국민 5명 중 1명 경험](https://blog.ai.dmomo.co.kr/news/12894) <br/>
+[2025/10/30 - [뉴스] 혈관 치료 강자 바스노바 5년내 점유율 21%, 18개국 진출 목표](https://blog.ai.dmomo.co.kr/news/12891) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/10/29 - The Warriors' Victory Over the Clippers: The Key Was Defense](https://ai.trend.dmomo.co.kr/2025/10/the-warriors-victory-over-clippers-key.html) <br/>
-[2025/10/29 - 2025 KBO Korean Series: Analysis and Championship Prediction for LG vs Hanwha Game 3](https://ai.trend.dmomo.co.kr/2025/10/2025-kbo-korean-series-analysis-and.html) <br/>
-[2025/10/28 - Who Will Win Game 3 of the 2025 World Series? A Thrilling Matchup: Blue Jays vs. Dodgers](https://ai.trend.dmomo.co.kr/2025/10/who-will-win-game-3-of-2025-world.html) <br/>
-[2025/10/28 - Ohtani's Home Run Show! Dodgers Win Thrilling Extra-Inning Battle in Game 3 of the WS... Hope for Back-to-Back Titles Revived](https://ai.trend.dmomo.co.kr/2025/10/ohtanis-home-run-show-dodgers-win.html) <br/>
-[2025/10/28 - The Rise and Fall of the London Bagel Museum: The Shocking Death Incident of a 200 Billion Won Brand](https://ai.trend.dmomo.co.kr/2025/10/the-rise-and-fall-of-london-bagel.html) <br/>
-[2025/10/28 - 5 Essential AI-Powered SBOM Innovations Revolutionizing Software Supply Chain Security in 2025](https://ai.trend.dmomo.co.kr/2025/10/5-essential-ai-powered-sbom-innovations.html) <br/>
+[2025/10/30 - Pierre Robert's Passing: Philadelphia Radio Legend DJ Dies at 70](https://ai.trend.dmomo.co.kr/2025/10/pierre-roberts-passing-philadelphia.html) <br/>
+[2025/10/30 - Reeves' Thrilling Buzzer Beater! Lakers Secure Dramatic Comeback Victory Over Timberwolves](https://ai.trend.dmomo.co.kr/2025/10/reeves-thrilling-buzzer-beater-lakers.html) <br/>
+[2025/10/30 - Son Heung-min's MLS Playoff Debut Victory! LAFC Defeats Austin FC 2-1](https://ai.trend.dmomo.co.kr/2025/10/son-heung-mins-mls-playoff-debut.html) <br/>
+[2025/10/30 - Microsoft Azure DNS Outage: Emergency Analysis of the Widespread Disruption from Office 365 to Xbox](https://ai.trend.dmomo.co.kr/2025/10/microsoft-azure-dns-outage-emergency.html) <br/>
+[2025/10/30 - Serverless Innovation in 2025: Analyzing CoreWeave’s Reinforcement Learning and Unkey’s Architecture Transformation案例](https://ai.trend.dmomo.co.kr/2025/10/serverless-innovation-in-2025-analyzing.html) <br/>
+[2025/10/30 - Tottenham's 0-2 Defeat to Newcastle: Is the Attack This Pathetic Without Son Heung-min?](https://ai.trend.dmomo.co.kr/2025/10/tottenhams-0-2-defeat-to-newcastle-is.html) <br/>
