@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/10/31 - 이재용 회장의 치맥 외교: AI 시대 글로벌 협력의 새 패러다임](https://dmomo.co.kr/747) <br/>
+[2025/10/31 - 백성문 변호사 별세, 52세 젊은 나이에 암으로 세상 떠나](https://dmomo.co.kr/746) <br/>
 [2025/10/31 - 피에르 로버트 사망: 필라델피아 라디오 전설 DJ 70세 별세](https://dmomo.co.kr/745) <br/>
 [2025/10/31 - 런던베이글뮤지엄의 성장과 추락: 2000억 브랜드의 충격적 과로사 사건](https://dmomo.co.kr/744) <br/>
 [2025/10/31 - 손흥민 MLS 플레이오프 데뷔전 승리! LAFC가 오스틴FC 2-1 제압](https://dmomo.co.kr/743) <br/>
 [2025/10/19 - 2025년 애플 보안 바운티 프로그램 최대 200만 달러 보상 혁신 분석](https://dmomo.co.kr/742) <br/>
-[2025/10/19 - 19금 챗GPT의 충격: AI와의 '로맨스'가 가져올 윤리적 딜레마와 사회적 파장](https://dmomo.co.kr/741) <br/>
-[2025/10/19 - 김민재의 5분 출전이 바꾼 '데어 클라시커': 바이에른 vs 도르트문트 2-1 승리의 숨은 전략](https://dmomo.co.kr/740) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/10/31 - [뉴스] “절대 항복하지 않는다”…한미정상 사진 중 백악관이 주목한 이 티셔츠](https://blog.ai.dmomo.co.kr/news/12906) <br/>
-[2025/10/31 - [뉴스] 2억6000만명이 쓰는 디자인 툴 캔바, 디자인 이해하는 AI 내놨다](https://blog.ai.dmomo.co.kr/news/12903) <br/>
-[2025/10/31 - [뉴스] 가성비 좋다지만 안전 걱정 커진 동남아…겨울여행지 판도 흔든다](https://blog.ai.dmomo.co.kr/news/12900) <br/>
-[2025/10/30 - [뉴스] 승객 탑승 여부도 확인 안 하고…섬에 남겨진 호주 관광객 숨진 채 발견](https://blog.ai.dmomo.co.kr/news/12897) <br/>
-[2025/10/30 - [뉴스] 응급실 뺑뺑이 남 일 아니었네…국민 5명 중 1명 경험](https://blog.ai.dmomo.co.kr/news/12894) <br/>
-[2025/10/30 - [뉴스] 혈관 치료 강자 바스노바 5년내 점유율 21%, 18개국 진출 목표](https://blog.ai.dmomo.co.kr/news/12891) <br/>
+[2025/11/01 - [뉴스] 10억7000만원짜리 주식, 손절하라네요…11월에 무슨 일 있길래](https://blog.ai.dmomo.co.kr/news/12981) <br/>
+[2025/11/01 - [뉴스] 때리는 男, 물어뜯는 女…쿨한줄 알았던 그 남자 반전 사연](https://blog.ai.dmomo.co.kr/news/12978) <br/>
+[2025/11/01 - [뉴스] 習, 日총리에 “침략역사 반성해야”](https://blog.ai.dmomo.co.kr/news/12975) <br/>
+[2025/10/31 - [뉴스] “이건 좀 너무”…트럼프·다카이치 다정한 ‘팔짱’에 일본 정치권 시끌](https://blog.ai.dmomo.co.kr/news/12972) <br/>
+[2025/10/31 - [뉴스] 젠슨 황도 찾더니…미슐랭셰프가 만든 한식맛 K치킨 나왔다](https://blog.ai.dmomo.co.kr/news/12969) <br/>
+[2025/10/31 - [뉴스] 빼빼로 먹는 젠슨 황](https://blog.ai.dmomo.co.kr/news/12966) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/10/30 - Pierre Robert's Passing: Philadelphia Radio Legend DJ Dies at 70](https://ai.trend.dmomo.co.kr/2025/10/pierre-roberts-passing-philadelphia.html) <br/>
-[2025/10/30 - Reeves' Thrilling Buzzer Beater! Lakers Secure Dramatic Comeback Victory Over Timberwolves](https://ai.trend.dmomo.co.kr/2025/10/reeves-thrilling-buzzer-beater-lakers.html) <br/>
-[2025/10/30 - Son Heung-min's MLS Playoff Debut Victory! LAFC Defeats Austin FC 2-1](https://ai.trend.dmomo.co.kr/2025/10/son-heung-mins-mls-playoff-debut.html) <br/>
-[2025/10/30 - Microsoft Azure DNS Outage: Emergency Analysis of the Widespread Disruption from Office 365 to Xbox](https://ai.trend.dmomo.co.kr/2025/10/microsoft-azure-dns-outage-emergency.html) <br/>
-[2025/10/30 - Serverless Innovation in 2025: Analyzing CoreWeave’s Reinforcement Learning and Unkey’s Architecture Transformation案例](https://ai.trend.dmomo.co.kr/2025/10/serverless-innovation-in-2025-analyzing.html) <br/>
-[2025/10/30 - Tottenham's 0-2 Defeat to Newcastle: Is the Attack This Pathetic Without Son Heung-min?](https://ai.trend.dmomo.co.kr/2025/10/tottenhams-0-2-defeat-to-newcastle-is.html) <br/>
+[2025/10/31 - Dolphins' Shocking Defeat! What Awaits Miami vs Marine Biology Dolphins in 2025?](https://ai.trend.dmomo.co.kr/2025/10/dolphins-shocking-defeat-what-awaits.html) <br/>
+[2025/10/31 - Lawyer Baek Seong-moon Passes Away at the Young Age of 52 due to Cancer](https://ai.trend.dmomo.co.kr/2025/10/lawyer-baek-seong-moon-passes-away-at.html) <br/>
+[2025/10/31 - Lee Jae-Yong's Chicken and Beer Diplomacy: A New Paradigm for Global Cooperation in the AI Era](https://ai.trend.dmomo.co.kr/2025/10/lee-jae-yongs-chicken-and-beer.html) <br/>
+[2025/10/31 - From 1 Win and 5 Losses to the Playoffs? A Complete Analysis of Ravens' Lamar Jackson's Comeback Game](https://ai.trend.dmomo.co.kr/2025/10/from-1-win-and-5-losses-to-playoffs.html) <br/>
+[2025/10/31 - Lamar Jackson: Will He Rewrite NFL History? 3 Key Matchup Points for Ravens vs Dolphins](https://ai.trend.dmomo.co.kr/2025/10/lamar-jackson-will-he-rewrite-nfl.html) <br/>
+[2025/10/31 - The 2025 IoT Revolution Begins: Key Insights into Amazon’s Interactive AI Device Management and the Era of 21.1 Billion Devices](https://ai.trend.dmomo.co.kr/2025/10/the-2025-iot-revolution-begins-key.html) <br/>
