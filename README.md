@@ -88,17 +88,17 @@
 [2025/10/19 - 2025년 애플 보안 바운티 프로그램 최대 200만 달러 보상 혁신 분석](https://dmomo.co.kr/742) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/01 - [뉴스] 10억7000만원짜리 주식, 손절하라네요…11월에 무슨 일 있길래](https://blog.ai.dmomo.co.kr/news/12981) <br/>
-[2025/11/01 - [뉴스] 때리는 男, 물어뜯는 女…쿨한줄 알았던 그 남자 반전 사연](https://blog.ai.dmomo.co.kr/news/12978) <br/>
-[2025/11/01 - [뉴스] 習, 日총리에 “침략역사 반성해야”](https://blog.ai.dmomo.co.kr/news/12975) <br/>
-[2025/10/31 - [뉴스] “이건 좀 너무”…트럼프·다카이치 다정한 ‘팔짱’에 일본 정치권 시끌](https://blog.ai.dmomo.co.kr/news/12972) <br/>
-[2025/10/31 - [뉴스] 젠슨 황도 찾더니…미슐랭셰프가 만든 한식맛 K치킨 나왔다](https://blog.ai.dmomo.co.kr/news/12969) <br/>
-[2025/10/31 - [뉴스] 빼빼로 먹는 젠슨 황](https://blog.ai.dmomo.co.kr/news/12966) <br/>
+[2025/11/02 - [뉴스] 50㎝ 끈으로 연결해 달리는 사람들…시각장애 러닝 붐 확산](https://blog.ai.dmomo.co.kr/news/13038) <br/>
+[2025/11/01 - [뉴스] 금관이 얼마나 좋았으면…이재명 대통령이 준 선물에 트럼프가 한 말](https://blog.ai.dmomo.co.kr/news/13035) <br/>
+[2025/11/01 - [뉴스] 1196회 로또 1등 15명…당첨금 20억163만원씩 수령](https://blog.ai.dmomo.co.kr/news/13032) <br/>
+[2025/11/01 - [뉴스] 단풍명소 검색했더니…인생샷 찍는 시간·각도 알려준다](https://blog.ai.dmomo.co.kr/news/13029) <br/>
+[2025/11/01 - 헤이디 클룸 2025 메두사 변신: 할로윈의 새로운 신화가 탄생하다](https://blog.ai.dmomo.co.kr/trend/13026) <br/>
+[2025/11/01 - LoL 신성 비디디, 젠지 쵸비 압도한 롤드컵 4강 미드 대결 완벽 분석](https://blog.ai.dmomo.co.kr/trend/13024) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/10/31 - Dolphins' Shocking Defeat! What Awaits Miami vs Marine Biology Dolphins in 2025?](https://ai.trend.dmomo.co.kr/2025/10/dolphins-shocking-defeat-what-awaits.html) <br/>
-[2025/10/31 - Lawyer Baek Seong-moon Passes Away at the Young Age of 52 due to Cancer](https://ai.trend.dmomo.co.kr/2025/10/lawyer-baek-seong-moon-passes-away-at.html) <br/>
-[2025/10/31 - Lee Jae-Yong's Chicken and Beer Diplomacy: A New Paradigm for Global Cooperation in the AI Era](https://ai.trend.dmomo.co.kr/2025/10/lee-jae-yongs-chicken-and-beer.html) <br/>
-[2025/10/31 - From 1 Win and 5 Losses to the Playoffs? A Complete Analysis of Ravens' Lamar Jackson's Comeback Game](https://ai.trend.dmomo.co.kr/2025/10/from-1-win-and-5-losses-to-playoffs.html) <br/>
-[2025/10/31 - Lamar Jackson: Will He Rewrite NFL History? 3 Key Matchup Points for Ravens vs Dolphins](https://ai.trend.dmomo.co.kr/2025/10/lamar-jackson-will-he-rewrite-nfl.html) <br/>
-[2025/10/31 - The 2025 IoT Revolution Begins: Key Insights into Amazon’s Interactive AI Device Management and the Era of 21.1 Billion Devices](https://ai.trend.dmomo.co.kr/2025/10/the-2025-iot-revolution-begins-key.html) <br/>
+[2025/11/01 - Heidi Klum's 2025 Medusa Transformation: A New Myth for Halloween Emerges](https://ai.trend.dmomo.co.kr/2025/11/heidi-klums-2025-medusa-transformation.html) <br/>
+[2025/11/01 - Analysis of the Epic Mid Lane Showdown: LoL's Divine BDD vs. Gen.G's Chovy in the World Championship Semifinals](https://ai.trend.dmomo.co.kr/2025/11/analysis-of-epic-mid-lane-showdown-lols.html) <br/>
+[2025/11/01 - Dodgers Go All-In for Game 7! Facing Toronto in a Fate-Determining Final Match](https://ai.trend.dmomo.co.kr/2025/10/dodgers-go-all-in-for-game-7-facing.html) <br/>
+[2025/11/01 - NBA Cup Opening Game: Doncic's Explosive 44 Points! What's the Secret Behind the Lakers' Victory Over the Grizzlies?](https://ai.trend.dmomo.co.kr/2025/10/nba-cup-opening-game-doncics-explosive.html) <br/>
+[2025/11/01 - ESPN Blackout Shock! YouTube TV vs Disney: 10 Million Subscribers Cut Off from Sports Viewing](https://ai.trend.dmomo.co.kr/2025/10/espn-blackout-shock-youtube-tv-vs.html) <br/>
+[2025/11/01 - Top 5 Cutting-Edge Software Security Strategies to Combat AI Ransomware Threats in 2025](https://ai.trend.dmomo.co.kr/2025/10/top-5-cutting-edge-software-security.html) <br/>
