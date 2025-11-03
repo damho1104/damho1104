@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/11/02 - 헤이디 클룸 2025 메두사 변신: 할로윈의 새로운 신화가 탄생하다](https://dmomo.co.kr/749) <br/>
+[2025/11/02 - LoL 신성 비디디, 젠지 쵸비 압도한 롤드컵 4강 미드 대결 완벽 분석](https://dmomo.co.kr/748) <br/>
 [2025/10/31 - 이재용 회장의 치맥 외교: AI 시대 글로벌 협력의 새 패러다임](https://dmomo.co.kr/747) <br/>
 [2025/10/31 - 백성문 변호사 별세, 52세 젊은 나이에 암으로 세상 떠나](https://dmomo.co.kr/746) <br/>
 [2025/10/31 - 피에르 로버트 사망: 필라델피아 라디오 전설 DJ 70세 별세](https://dmomo.co.kr/745) <br/>
 [2025/10/31 - 런던베이글뮤지엄의 성장과 추락: 2000억 브랜드의 충격적 과로사 사건](https://dmomo.co.kr/744) <br/>
-[2025/10/31 - 손흥민 MLS 플레이오프 데뷔전 승리! LAFC가 오스틴FC 2-1 제압](https://dmomo.co.kr/743) <br/>
-[2025/10/19 - 2025년 애플 보안 바운티 프로그램 최대 200만 달러 보상 혁신 분석](https://dmomo.co.kr/742) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/02 - [뉴스] 50㎝ 끈으로 연결해 달리는 사람들…시각장애 러닝 붐 확산](https://blog.ai.dmomo.co.kr/news/13038) <br/>
-[2025/11/01 - [뉴스] 금관이 얼마나 좋았으면…이재명 대통령이 준 선물에 트럼프가 한 말](https://blog.ai.dmomo.co.kr/news/13035) <br/>
-[2025/11/01 - [뉴스] 1196회 로또 1등 15명…당첨금 20억163만원씩 수령](https://blog.ai.dmomo.co.kr/news/13032) <br/>
-[2025/11/01 - [뉴스] 단풍명소 검색했더니…인생샷 찍는 시간·각도 알려준다](https://blog.ai.dmomo.co.kr/news/13029) <br/>
-[2025/11/01 - 헤이디 클룸 2025 메두사 변신: 할로윈의 새로운 신화가 탄생하다](https://blog.ai.dmomo.co.kr/trend/13026) <br/>
-[2025/11/01 - LoL 신성 비디디, 젠지 쵸비 압도한 롤드컵 4강 미드 대결 완벽 분석](https://blog.ai.dmomo.co.kr/trend/13024) <br/>
+[2025/11/03 - [뉴스] “브릭스 가입 못할 이유 없어”…무역 위해 모든 기회 활용하겠다는 말레이](https://blog.ai.dmomo.co.kr/news/13110) <br/>
+[2025/11/03 - [뉴스] 전동킥보드 사라지자…지역 시민 98% 금지 구역 확대해야](https://blog.ai.dmomo.co.kr/news/13107) <br/>
+[2025/11/02 - [뉴스] “트럼프가 너무 괴롭혀요”…위협당한 이 나라, 러시아·중국·이란에 ‘SOS’](https://blog.ai.dmomo.co.kr/news/13104) <br/>
+[2025/11/02 - [뉴스] 3일 아침 최저 영하 4도…올 가을 들어 가장 춥다](https://blog.ai.dmomo.co.kr/news/13101) <br/>
+[2025/11/02 - [뉴스] 갤럭시보다 디테일 살아있다…시진핑 선물 샤오미15 울트라 평가](https://blog.ai.dmomo.co.kr/news/13098) <br/>
+[2025/11/02 - 2025년 미국 서머타임 종료: 오늘 밤 당신의 수면을 지키는 5가지 필수 팁](https://blog.ai.dmomo.co.kr/trend/13095) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/11/01 - Heidi Klum's 2025 Medusa Transformation: A New Myth for Halloween Emerges](https://ai.trend.dmomo.co.kr/2025/11/heidi-klums-2025-medusa-transformation.html) <br/>
-[2025/11/01 - Analysis of the Epic Mid Lane Showdown: LoL's Divine BDD vs. Gen.G's Chovy in the World Championship Semifinals](https://ai.trend.dmomo.co.kr/2025/11/analysis-of-epic-mid-lane-showdown-lols.html) <br/>
-[2025/11/01 - Dodgers Go All-In for Game 7! Facing Toronto in a Fate-Determining Final Match](https://ai.trend.dmomo.co.kr/2025/10/dodgers-go-all-in-for-game-7-facing.html) <br/>
-[2025/11/01 - NBA Cup Opening Game: Doncic's Explosive 44 Points! What's the Secret Behind the Lakers' Victory Over the Grizzlies?](https://ai.trend.dmomo.co.kr/2025/10/nba-cup-opening-game-doncics-explosive.html) <br/>
-[2025/11/01 - ESPN Blackout Shock! YouTube TV vs Disney: 10 Million Subscribers Cut Off from Sports Viewing](https://ai.trend.dmomo.co.kr/2025/10/espn-blackout-shock-youtube-tv-vs.html) <br/>
-[2025/11/01 - Top 5 Cutting-Edge Software Security Strategies to Combat AI Ransomware Threats in 2025](https://ai.trend.dmomo.co.kr/2025/10/top-5-cutting-edge-software-security.html) <br/>
+[2025/11/02 - End of Daylight Saving Time in the U.S. 2025: 5 Essential Tips to Protect Your Sleep Tonight](https://ai.trend.dmomo.co.kr/2025/11/end-of-daylight-saving-time-in-us-2025.html) <br/>
+[2025/11/02 - Yoshinobu Yamamoto: The Legend of the $325 Million World Series MVP](https://ai.trend.dmomo.co.kr/2025/11/yoshinobu-yamamoto-legend-of-325.html) <br/>
+[2025/11/02 - 2025 MLB World Series: Dodgers Complete Back-to-Back Championship After 25 Years](https://ai.trend.dmomo.co.kr/2025/11/2025-mlb-world-series-dodgers-complete.html) <br/>
+[2025/11/02 - Dodgers Overcome Blue Jays 5-4 in 11-Inning Thrilling Battle! 2025 World Series Champions](https://ai.trend.dmomo.co.kr/2025/11/dodgers-overcome-blue-jays-5-4-in-11.html) <br/>
+[2025/11/02 - Comprehensive Analysis of 2025 Edge AI Breakthroughs: Hailo AI Chip Innovations and Industry Applications Strategies](https://ai.trend.dmomo.co.kr/2025/11/comprehensive-analysis-of-2025-edge-ai.html) <br/>
+[2025/11/02 - Georgia vs Florida: The Dramatic 24-20 Comeback at the 2025 Cocktail Party](https://ai.trend.dmomo.co.kr/2025/11/georgia-vs-florida-dramatic-24-20.html) <br/>
