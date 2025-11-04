@@ -88,17 +88,17 @@
 [2025/10/31 - 런던베이글뮤지엄의 성장과 추락: 2000억 브랜드의 충격적 과로사 사건](https://dmomo.co.kr/744) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/03 - [뉴스] “브릭스 가입 못할 이유 없어”…무역 위해 모든 기회 활용하겠다는 말레이](https://blog.ai.dmomo.co.kr/news/13110) <br/>
-[2025/11/03 - [뉴스] 전동킥보드 사라지자…지역 시민 98% 금지 구역 확대해야](https://blog.ai.dmomo.co.kr/news/13107) <br/>
-[2025/11/02 - [뉴스] “트럼프가 너무 괴롭혀요”…위협당한 이 나라, 러시아·중국·이란에 ‘SOS’](https://blog.ai.dmomo.co.kr/news/13104) <br/>
-[2025/11/02 - [뉴스] 3일 아침 최저 영하 4도…올 가을 들어 가장 춥다](https://blog.ai.dmomo.co.kr/news/13101) <br/>
-[2025/11/02 - [뉴스] 갤럭시보다 디테일 살아있다…시진핑 선물 샤오미15 울트라 평가](https://blog.ai.dmomo.co.kr/news/13098) <br/>
-[2025/11/02 - 2025년 미국 서머타임 종료: 오늘 밤 당신의 수면을 지키는 5가지 필수 팁](https://blog.ai.dmomo.co.kr/trend/13095) <br/>
+[2025/11/04 - [뉴스] 밀리면 끝장 빚내서라도…AI 경쟁 격화에 돈까지 빌린 구글, 얼마길래](https://blog.ai.dmomo.co.kr/news/13182) <br/>
+[2025/11/04 - [뉴스] 135만원짜리 걸레? 24시간 만에 완판된 발렌시아가 옷](https://blog.ai.dmomo.co.kr/news/13179) <br/>
+[2025/11/04 - [뉴스] “국민연금, 무조건 경영진 우호지분 아냐… 주주가치 제고 필수”](https://blog.ai.dmomo.co.kr/news/13176) <br/>
+[2025/11/04 - [뉴스] 10만명 인력 동원해도 못잡았던 살인범 드디어 잡았다…핵심 단서는](https://blog.ai.dmomo.co.kr/news/13173) <br/>
+[2025/11/04 - [뉴스] 뉴욕증시,AI관련 대규모 거래에 기술주 오름세](https://blog.ai.dmomo.co.kr/news/13170) <br/>
+[2025/11/03 - [뉴스] “12살에 결혼, 18살에 감옥” …학대 끝에 남편 살해한 이란 소녀의 비극](https://blog.ai.dmomo.co.kr/news/13167) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/11/03 - Seattle Seahawks' Dominant Victory! Crushing the Washington Commanders to Secure Playoff Spot](https://ai.trend.dmomo.co.kr/2025/11/seattle-seahawks-dominant-victory.html) <br/>
+[2025/11/03 - Son Heung-min's Winning Assist! Analyzing the MLS Playoff Victory Over LAFC and Austin FC 2-1](https://ai.trend.dmomo.co.kr/2025/11/son-heung-mins-winning-assist-analyzing.html) <br/>
+[2025/11/03 - 2025 Trends in AI-Integrated Low-Code Platforms and Strategies for Business Innovation](https://ai.trend.dmomo.co.kr/2025/11/2025-trends-in-ai-integrated-low-code.html) <br/>
+[2025/11/03 - The Incredible Comeback Drama of Bears Defeating Bengals 47-42](https://ai.trend.dmomo.co.kr/2025/11/the-incredible-comeback-drama-of-bears.html) <br/>
+[2025/11/03 - Barcelona Bounces Back with 3-1 Victory Over Elche After El Clásico Defeat](https://ai.trend.dmomo.co.kr/2025/11/barcelona-bounces-back-with-3-1-victory.html) <br/>
 [2025/11/02 - End of Daylight Saving Time in the U.S. 2025: 5 Essential Tips to Protect Your Sleep Tonight](https://ai.trend.dmomo.co.kr/2025/11/end-of-daylight-saving-time-in-us-2025.html) <br/>
-[2025/11/02 - Yoshinobu Yamamoto: The Legend of the $325 Million World Series MVP](https://ai.trend.dmomo.co.kr/2025/11/yoshinobu-yamamoto-legend-of-325.html) <br/>
-[2025/11/02 - 2025 MLB World Series: Dodgers Complete Back-to-Back Championship After 25 Years](https://ai.trend.dmomo.co.kr/2025/11/2025-mlb-world-series-dodgers-complete.html) <br/>
-[2025/11/02 - Dodgers Overcome Blue Jays 5-4 in 11-Inning Thrilling Battle! 2025 World Series Champions](https://ai.trend.dmomo.co.kr/2025/11/dodgers-overcome-blue-jays-5-4-in-11.html) <br/>
-[2025/11/02 - Comprehensive Analysis of 2025 Edge AI Breakthroughs: Hailo AI Chip Innovations and Industry Applications Strategies](https://ai.trend.dmomo.co.kr/2025/11/comprehensive-analysis-of-2025-edge-ai.html) <br/>
-[2025/11/02 - Georgia vs Florida: The Dramatic 24-20 Comeback at the 2025 Cocktail Party](https://ai.trend.dmomo.co.kr/2025/11/georgia-vs-florida-dramatic-24-20.html) <br/>
