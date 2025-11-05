@@ -88,17 +88,17 @@
 [2025/10/31 - 런던베이글뮤지엄의 성장과 추락: 2000억 브랜드의 충격적 과로사 사건](https://dmomo.co.kr/744) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/04 - [뉴스] 밀리면 끝장 빚내서라도…AI 경쟁 격화에 돈까지 빌린 구글, 얼마길래](https://blog.ai.dmomo.co.kr/news/13182) <br/>
-[2025/11/04 - [뉴스] 135만원짜리 걸레? 24시간 만에 완판된 발렌시아가 옷](https://blog.ai.dmomo.co.kr/news/13179) <br/>
-[2025/11/04 - [뉴스] “국민연금, 무조건 경영진 우호지분 아냐… 주주가치 제고 필수”](https://blog.ai.dmomo.co.kr/news/13176) <br/>
-[2025/11/04 - [뉴스] 10만명 인력 동원해도 못잡았던 살인범 드디어 잡았다…핵심 단서는](https://blog.ai.dmomo.co.kr/news/13173) <br/>
-[2025/11/04 - [뉴스] 뉴욕증시,AI관련 대규모 거래에 기술주 오름세](https://blog.ai.dmomo.co.kr/news/13170) <br/>
-[2025/11/03 - [뉴스] “12살에 결혼, 18살에 감옥” …학대 끝에 남편 살해한 이란 소녀의 비극](https://blog.ai.dmomo.co.kr/news/13167) <br/>
+[2025/11/05 - [뉴스] “승객들 안전하게 버스로 이동”…‘폭탄 위협’에 활주로 폐쇄한 이 공항](https://blog.ai.dmomo.co.kr/news/13260) <br/>
+[2025/11/05 - [뉴스] T1과 KT, 누가 이겨도 월즈 절대 징크스 깨진다](https://blog.ai.dmomo.co.kr/news/13257) <br/>
+[2025/11/05 - [뉴스] 아재 패션 아니었나요…핫템 변신 경량 패딩, 품절 대란에 웃돈까지](https://blog.ai.dmomo.co.kr/news/13254) <br/>
+[2025/11/05 - [뉴스] ‘네오콘 대부’ 딕 체니 전 美 부통령 별세](https://blog.ai.dmomo.co.kr/news/13251) <br/>
+[2025/11/04 - [뉴스] 마트서 판 파스타 먹다 ‘날벼락’…6명 식중독으로 사망한 미국](https://blog.ai.dmomo.co.kr/news/13248) <br/>
+[2025/11/04 - [뉴스] 유전자 편집 돼지 신장, 인간에 이식…정식 임상시험 FDA 첫 승인](https://blog.ai.dmomo.co.kr/news/13245) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/11/03 - Seattle Seahawks' Dominant Victory! Crushing the Washington Commanders to Secure Playoff Spot](https://ai.trend.dmomo.co.kr/2025/11/seattle-seahawks-dominant-victory.html) <br/>
-[2025/11/03 - Son Heung-min's Winning Assist! Analyzing the MLS Playoff Victory Over LAFC and Austin FC 2-1](https://ai.trend.dmomo.co.kr/2025/11/son-heung-mins-winning-assist-analyzing.html) <br/>
-[2025/11/03 - 2025 Trends in AI-Integrated Low-Code Platforms and Strategies for Business Innovation](https://ai.trend.dmomo.co.kr/2025/11/2025-trends-in-ai-integrated-low-code.html) <br/>
-[2025/11/03 - The Incredible Comeback Drama of Bears Defeating Bengals 47-42](https://ai.trend.dmomo.co.kr/2025/11/the-incredible-comeback-drama-of-bears.html) <br/>
-[2025/11/03 - Barcelona Bounces Back with 3-1 Victory Over Elche After El Clásico Defeat](https://ai.trend.dmomo.co.kr/2025/11/barcelona-bounces-back-with-3-1-victory.html) <br/>
-[2025/11/02 - End of Daylight Saving Time in the U.S. 2025: 5 Essential Tips to Protect Your Sleep Tonight](https://ai.trend.dmomo.co.kr/2025/11/end-of-daylight-saving-time-in-us-2025.html) <br/>
+[2025/11/04 - Gangwon FC vs. Sanfrecce Hiroshima: The Historic Battle for ACL Round of 16](https://ai.trend.dmomo.co.kr/2025/11/gangwon-fc-vs-sanfrecce-hiroshima.html) <br/>
+[2025/11/04 - The True Meaning of American Cowboys: A Complete Analysis from History to NFL Dallas](https://ai.trend.dmomo.co.kr/2025/11/the-true-meaning-of-american-cowboys.html) <br/>
+[2025/11/04 - The Miracle of Sunderland's Stubborn Defense! Zakha's Debut Goal Secures 1-1 Draw with Everton](https://ai.trend.dmomo.co.kr/2025/11/the-miracle-of-sunderlands-stubborn.html) <br/>
+[2025/11/04 - The Shocking Truth Behind the Betrayal of Sung Si-kyung's Manager: A Decade of Trust Shattered](https://ai.trend.dmomo.co.kr/2025/11/the-shocking-truth-behind-betrayal-of.html) <br/>
+[2025/11/04 - The Future of Development Transformed: 2025’s Latest Low-Code Innovations and AI Integration](https://ai.trend.dmomo.co.kr/2025/11/the-future-of-development-transformed.html) <br/>
+[2025/11/04 - Son Heung-min Shines with 1 Goal and 1 Assist! LA FC Dominates Austin 4-1 to Advance to MLS Quarterfinals](https://ai.trend.dmomo.co.kr/2025/11/son-heung-min-shines-with-1-goal-and-1.html) <br/>
