@@ -88,17 +88,17 @@
 [2025/10/31 - 런던베이글뮤지엄의 성장과 추락: 2000억 브랜드의 충격적 과로사 사건](https://dmomo.co.kr/744) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/05 - [뉴스] “승객들 안전하게 버스로 이동”…‘폭탄 위협’에 활주로 폐쇄한 이 공항](https://blog.ai.dmomo.co.kr/news/13260) <br/>
-[2025/11/05 - [뉴스] T1과 KT, 누가 이겨도 월즈 절대 징크스 깨진다](https://blog.ai.dmomo.co.kr/news/13257) <br/>
-[2025/11/05 - [뉴스] 아재 패션 아니었나요…핫템 변신 경량 패딩, 품절 대란에 웃돈까지](https://blog.ai.dmomo.co.kr/news/13254) <br/>
-[2025/11/05 - [뉴스] ‘네오콘 대부’ 딕 체니 전 美 부통령 별세](https://blog.ai.dmomo.co.kr/news/13251) <br/>
-[2025/11/04 - [뉴스] 마트서 판 파스타 먹다 ‘날벼락’…6명 식중독으로 사망한 미국](https://blog.ai.dmomo.co.kr/news/13248) <br/>
-[2025/11/04 - [뉴스] 유전자 편집 돼지 신장, 인간에 이식…정식 임상시험 FDA 첫 승인](https://blog.ai.dmomo.co.kr/news/13245) <br/>
+[2025/11/06 - [뉴스] ‘한국 15% 등 트럼프 관세’ 운명은?…미 대법원 변론 개시](https://blog.ai.dmomo.co.kr/news/13327) <br/>
+[2025/11/06 - [뉴스] ‘MZ 무슬림 사회주의자’ 뉴욕시장 당선…“임대료 동결·임금인상·무상보육”](https://blog.ai.dmomo.co.kr/news/13323) <br/>
+[2025/11/06 - [뉴스] “전력·데이터센터 슈퍼사이클 온다”…2경원 시장 기회 놓치지 않으려면](https://blog.ai.dmomo.co.kr/news/13322) <br/>
+[2025/11/06 - [뉴스] 中 소비자의 지갑 움직인 9.9위안의 마법…스타벅스도 못 버텼다](https://blog.ai.dmomo.co.kr/news/13316) <br/>
+[2025/11/06 - [뉴스] 중국인들, 우주에서 양념 닭날개 회식…심우주 요리 실험](https://blog.ai.dmomo.co.kr/news/13315) <br/>
+[2025/11/06 - [뉴스] 박진영 난 진보·보수진영 아닌 박진영…장관급 예우 안 받아](https://blog.ai.dmomo.co.kr/news/13312) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/11/05 - The 2025 AI Video Production Revolution: 5 Must-Know Trends You Can’t Miss](https://ai.trend.dmomo.co.kr/2025/11/the-2025-ai-video-production-revolution.html) <br/>
+[2025/11/05 - Dick Cheney's Death: The Life and Controversial Legacy of America's Most Powerful Vice President at 84](https://ai.trend.dmomo.co.kr/2025/11/dick-cheneys-death-life-and.html) <br/>
+[2025/11/05 - Tottenham's 4-0 Victory in UCL! Van der Pen's 80m Wonder Goal is a Son Heung-min Level Puskas Contender](https://ai.trend.dmomo.co.kr/2025/11/tottenhams-4-0-victory-in-ucl-van-der.html) <br/>
 [2025/11/04 - Gangwon FC vs. Sanfrecce Hiroshima: The Historic Battle for ACL Round of 16](https://ai.trend.dmomo.co.kr/2025/11/gangwon-fc-vs-sanfrecce-hiroshima.html) <br/>
 [2025/11/04 - The True Meaning of American Cowboys: A Complete Analysis from History to NFL Dallas](https://ai.trend.dmomo.co.kr/2025/11/the-true-meaning-of-american-cowboys.html) <br/>
 [2025/11/04 - The Miracle of Sunderland's Stubborn Defense! Zakha's Debut Goal Secures 1-1 Draw with Everton](https://ai.trend.dmomo.co.kr/2025/11/the-miracle-of-sunderlands-stubborn.html) <br/>
-[2025/11/04 - The Shocking Truth Behind the Betrayal of Sung Si-kyung's Manager: A Decade of Trust Shattered](https://ai.trend.dmomo.co.kr/2025/11/the-shocking-truth-behind-betrayal-of.html) <br/>
-[2025/11/04 - The Future of Development Transformed: 2025’s Latest Low-Code Innovations and AI Integration](https://ai.trend.dmomo.co.kr/2025/11/the-future-of-development-transformed.html) <br/>
-[2025/11/04 - Son Heung-min Shines with 1 Goal and 1 Assist! LA FC Dominates Austin 4-1 to Advance to MLS Quarterfinals](https://ai.trend.dmomo.co.kr/2025/11/son-heung-min-shines-with-1-goal-and-1.html) <br/>
