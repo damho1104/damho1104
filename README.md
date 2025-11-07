@@ -88,17 +88,17 @@
 [2025/10/31 - 런던베이글뮤지엄의 성장과 추락: 2000억 브랜드의 충격적 과로사 사건](https://dmomo.co.kr/744) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/06 - [뉴스] ‘한국 15% 등 트럼프 관세’ 운명은?…미 대법원 변론 개시](https://blog.ai.dmomo.co.kr/news/13327) <br/>
-[2025/11/06 - [뉴스] ‘MZ 무슬림 사회주의자’ 뉴욕시장 당선…“임대료 동결·임금인상·무상보육”](https://blog.ai.dmomo.co.kr/news/13323) <br/>
-[2025/11/06 - [뉴스] “전력·데이터센터 슈퍼사이클 온다”…2경원 시장 기회 놓치지 않으려면](https://blog.ai.dmomo.co.kr/news/13322) <br/>
-[2025/11/06 - [뉴스] 中 소비자의 지갑 움직인 9.9위안의 마법…스타벅스도 못 버텼다](https://blog.ai.dmomo.co.kr/news/13316) <br/>
-[2025/11/06 - [뉴스] 중국인들, 우주에서 양념 닭날개 회식…심우주 요리 실험](https://blog.ai.dmomo.co.kr/news/13315) <br/>
-[2025/11/06 - [뉴스] 박진영 난 진보·보수진영 아닌 박진영…장관급 예우 안 받아](https://blog.ai.dmomo.co.kr/news/13312) <br/>
+[2025/11/07 - [뉴스] “충격 받은 선수들 주저앉고 오열했다”…경기 중 감독 사망, 무슨일이](https://blog.ai.dmomo.co.kr/news/13399) <br/>
+[2025/11/07 - [뉴스] 꿈을 좇는 나비’ 비디디, 첫 월즈 우승 달성할까](https://blog.ai.dmomo.co.kr/news/13396) <br/>
+[2025/11/07 - [뉴스] 바지사장 아니다 선언한 전소미, 로고 무단 사용에 사과](https://blog.ai.dmomo.co.kr/news/13393) <br/>
+[2025/11/07 - [뉴스] 트럼프 ‘관세독재’ 제동 걸리나…보수 대법원장마저 “대통령 권한 아냐”](https://blog.ai.dmomo.co.kr/news/13390) <br/>
+[2025/11/06 - [뉴스] “러시아 공세 표적인데”…앤젤리나 졸리, 방탄복 입고 헤르손 깜짝 방문](https://blog.ai.dmomo.co.kr/news/13387) <br/>
+[2025/11/06 - 박미선 유방암 극복 후 10개월 만의 생존신고, 가짜뉴스에 일침](https://blog.ai.dmomo.co.kr/trend/13384) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/11/06 - Park Mi-sun's Survival Report 10 Months After Overcoming Breast Cancer: A Strong Retort to Fake News](https://ai.trend.dmomo.co.kr/2025/11/park-mi-suns-survival-report-10-months.html) <br/>
+[2025/11/06 - Spurs vs Lakers: Everything About the Opening of the Wemby Era and the Epic Clash for Western Conference 2nd Place](https://ai.trend.dmomo.co.kr/2025/11/spurs-vs-lakers-everything-about.html) <br/>
+[2025/11/06 - AI Innovation in 2025! What Is Amazon Bedrock’s Serverless Foundation Model Auto-Activation?](https://ai.trend.dmomo.co.kr/2025/11/ai-innovation-in-2025-what-is-amazon.html) <br/>
+[2025/11/06 - Barcelona Shock: The Naked Truth of Defensive Collapse Revealed in the 3-3 Draw Against Club Brugge](https://ai.trend.dmomo.co.kr/2025/11/barcelona-shock-naked-truth-of.html) <br/>
+[2025/11/06 - Man City 4-1 Dortmund: The Secrets Behind Haaland and Foden's Explosive UCL Victory](https://ai.trend.dmomo.co.kr/2025/11/man-city-4-1-dortmund-secrets-behind.html) <br/>
 [2025/11/05 - The 2025 AI Video Production Revolution: 5 Must-Know Trends You Can’t Miss](https://ai.trend.dmomo.co.kr/2025/11/the-2025-ai-video-production-revolution.html) <br/>
-[2025/11/05 - Dick Cheney's Death: The Life and Controversial Legacy of America's Most Powerful Vice President at 84](https://ai.trend.dmomo.co.kr/2025/11/dick-cheneys-death-life-and.html) <br/>
-[2025/11/05 - Tottenham's 4-0 Victory in UCL! Van der Pen's 80m Wonder Goal is a Son Heung-min Level Puskas Contender](https://ai.trend.dmomo.co.kr/2025/11/tottenhams-4-0-victory-in-ucl-van-der.html) <br/>
-[2025/11/04 - Gangwon FC vs. Sanfrecce Hiroshima: The Historic Battle for ACL Round of 16](https://ai.trend.dmomo.co.kr/2025/11/gangwon-fc-vs-sanfrecce-hiroshima.html) <br/>
-[2025/11/04 - The True Meaning of American Cowboys: A Complete Analysis from History to NFL Dallas](https://ai.trend.dmomo.co.kr/2025/11/the-true-meaning-of-american-cowboys.html) <br/>
-[2025/11/04 - The Miracle of Sunderland's Stubborn Defense! Zakha's Debut Goal Secures 1-1 Draw with Everton](https://ai.trend.dmomo.co.kr/2025/11/the-miracle-of-sunderlands-stubborn.html) <br/>
