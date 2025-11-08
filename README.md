@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/11/07 - Marshawn Kneeland 사망설은 가짜! NFL 신인의 진실과 Death Hoax 실체](https://dmomo.co.kr/752) <br/>
+[2025/11/07 - 박미선 유방암 극복 후 10개월 만의 생존신고, 가짜뉴스에 일침](https://dmomo.co.kr/751) <br/>
+[2025/11/07 - 전지현 남편 최준혁, '을지로 장동건' 별명의 진짜 의미는?](https://dmomo.co.kr/750) <br/>
 [2025/11/02 - 헤이디 클룸 2025 메두사 변신: 할로윈의 새로운 신화가 탄생하다](https://dmomo.co.kr/749) <br/>
 [2025/11/02 - LoL 신성 비디디, 젠지 쵸비 압도한 롤드컵 4강 미드 대결 완벽 분석](https://dmomo.co.kr/748) <br/>
 [2025/10/31 - 이재용 회장의 치맥 외교: AI 시대 글로벌 협력의 새 패러다임](https://dmomo.co.kr/747) <br/>
-[2025/10/31 - 백성문 변호사 별세, 52세 젊은 나이에 암으로 세상 떠나](https://dmomo.co.kr/746) <br/>
-[2025/10/31 - 피에르 로버트 사망: 필라델피아 라디오 전설 DJ 70세 별세](https://dmomo.co.kr/745) <br/>
-[2025/10/31 - 런던베이글뮤지엄의 성장과 추락: 2000억 브랜드의 충격적 과로사 사건](https://dmomo.co.kr/744) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/07 - [뉴스] “충격 받은 선수들 주저앉고 오열했다”…경기 중 감독 사망, 무슨일이](https://blog.ai.dmomo.co.kr/news/13399) <br/>
-[2025/11/07 - [뉴스] 꿈을 좇는 나비’ 비디디, 첫 월즈 우승 달성할까](https://blog.ai.dmomo.co.kr/news/13396) <br/>
-[2025/11/07 - [뉴스] 바지사장 아니다 선언한 전소미, 로고 무단 사용에 사과](https://blog.ai.dmomo.co.kr/news/13393) <br/>
-[2025/11/07 - [뉴스] 트럼프 ‘관세독재’ 제동 걸리나…보수 대법원장마저 “대통령 권한 아냐”](https://blog.ai.dmomo.co.kr/news/13390) <br/>
-[2025/11/06 - [뉴스] “러시아 공세 표적인데”…앤젤리나 졸리, 방탄복 입고 헤르손 깜짝 방문](https://blog.ai.dmomo.co.kr/news/13387) <br/>
-[2025/11/06 - 박미선 유방암 극복 후 10개월 만의 생존신고, 가짜뉴스에 일침](https://blog.ai.dmomo.co.kr/trend/13384) <br/>
+[2025/11/08 - [뉴스] ‘DNA의 아버지’ 제임스 왓슨…향년 97세로 별세](https://blog.ai.dmomo.co.kr/news/13474) <br/>
+[2025/11/08 - [뉴스] 2017년의 한 푼다”…월즈 쓰리핏’ 노리는 페이커](https://blog.ai.dmomo.co.kr/news/13471) <br/>
+[2025/11/08 - [뉴스] 전국 대체로 흐리고 곳곳 비…낮 최고기온 13~21도](https://blog.ai.dmomo.co.kr/news/13468) <br/>
+[2025/11/07 - [뉴스] 젠슨황 한국사랑 ‘이것’ 때문이었네…삼박자 갖춘 나라 거의 없다는데](https://blog.ai.dmomo.co.kr/news/13465) <br/>
+[2025/11/07 - [뉴스] 지지 않는다던 모델 김성찬 사망…혈액암 초기 증상은](https://blog.ai.dmomo.co.kr/news/13462) <br/>
+[2025/11/07 - [뉴스] 엔티엘헬스케어, 닥터 써비케어 CES 2026 AI부문 혁신상 수상](https://blog.ai.dmomo.co.kr/news/13459) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/11/07 - All About Kim Hye-seong's Historic World Series Victory in His MLB Rookie Year: The First Korean Position Player to Achieve This!](https://ai.trend.dmomo.co.kr/2025/11/all-about-kim-hye-seongs-historic-world.html) <br/>
+[2025/11/07 - Jeon Ji-hyun's Husband Choi Jun-hyuk: What is the True Meaning of the Nickname 'Euljiro Jang Dong-gun'?](https://ai.trend.dmomo.co.kr/2025/11/jeon-ji-hyuns-husband-choi-jun-hyuk.html) <br/>
+[2025/11/07 - 5 Edge AI Innovations in 2025: Combining Ultra-Low Power 1-3W Hardware with Agentic AI Strategies](https://ai.trend.dmomo.co.kr/2025/11/5-edge-ai-innovations-in-2025-combining.html) <br/>
+[2025/11/07 - Marshawn Kneeland Death Rumors: The Truth Behind the NFL Rookie and the Death Hoax Reality](https://ai.trend.dmomo.co.kr/2025/11/marshawn-kneeland-death-rumors-truth.html) <br/>
+[2025/11/07 - Lee Jae-sung's Theater Goal! Analysis of the Thrilling UECL Match where Mainz Defeated Fiorentina 2-1](https://ai.trend.dmomo.co.kr/2025/11/lee-jae-sungs-theater-goal-analysis-of.html) <br/>
 [2025/11/06 - Park Mi-sun's Survival Report 10 Months After Overcoming Breast Cancer: A Strong Retort to Fake News](https://ai.trend.dmomo.co.kr/2025/11/park-mi-suns-survival-report-10-months.html) <br/>
-[2025/11/06 - Spurs vs Lakers: Everything About the Opening of the Wemby Era and the Epic Clash for Western Conference 2nd Place](https://ai.trend.dmomo.co.kr/2025/11/spurs-vs-lakers-everything-about.html) <br/>
-[2025/11/06 - AI Innovation in 2025! What Is Amazon Bedrock’s Serverless Foundation Model Auto-Activation?](https://ai.trend.dmomo.co.kr/2025/11/ai-innovation-in-2025-what-is-amazon.html) <br/>
-[2025/11/06 - Barcelona Shock: The Naked Truth of Defensive Collapse Revealed in the 3-3 Draw Against Club Brugge](https://ai.trend.dmomo.co.kr/2025/11/barcelona-shock-naked-truth-of.html) <br/>
-[2025/11/06 - Man City 4-1 Dortmund: The Secrets Behind Haaland and Foden's Explosive UCL Victory](https://ai.trend.dmomo.co.kr/2025/11/man-city-4-1-dortmund-secrets-behind.html) <br/>
-[2025/11/05 - The 2025 AI Video Production Revolution: 5 Must-Know Trends You Can’t Miss](https://ai.trend.dmomo.co.kr/2025/11/the-2025-ai-video-production-revolution.html) <br/>
