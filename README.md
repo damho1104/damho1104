@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/11/07 - Marshawn Kneeland 사망설은 가짜! NFL 신인의 진실과 Death Hoax 실체](https://dmomo.co.kr/752) <br/>
-[2025/11/07 - 박미선 유방암 극복 후 10개월 만의 생존신고, 가짜뉴스에 일침](https://dmomo.co.kr/751) <br/>
-[2025/11/07 - 전지현 남편 최준혁, '을지로 장동건' 별명의 진짜 의미는?](https://dmomo.co.kr/750) <br/>
-[2025/11/02 - 헤이디 클룸 2025 메두사 변신: 할로윈의 새로운 신화가 탄생하다](https://dmomo.co.kr/749) <br/>
-[2025/11/02 - LoL 신성 비디디, 젠지 쵸비 압도한 롤드컵 4강 미드 대결 완벽 분석](https://dmomo.co.kr/748) <br/>
-[2025/10/31 - 이재용 회장의 치맥 외교: AI 시대 글로벌 협력의 새 패러다임](https://dmomo.co.kr/747) <br/>
+[2025/11/07 - Marshawn Kneeland 사망설은 가짜! NFL 신인의 진실과 Death Hoax 실체](http://dmomo.co.kr/752) <br/>
+[2025/11/07 - 박미선 유방암 극복 후 10개월 만의 생존신고, 가짜뉴스에 일침](http://dmomo.co.kr/751) <br/>
+[2025/11/07 - 전지현 남편 최준혁, '을지로 장동건' 별명의 진짜 의미는?](http://dmomo.co.kr/750) <br/>
+[2025/11/02 - 헤이디 클룸 2025 메두사 변신: 할로윈의 새로운 신화가 탄생하다](http://dmomo.co.kr/749) <br/>
+[2025/11/02 - LoL 신성 비디디, 젠지 쵸비 압도한 롤드컵 4강 미드 대결 완벽 분석](http://dmomo.co.kr/748) <br/>
+[2025/10/31 - 이재용 회장의 치맥 외교: AI 시대 글로벌 협력의 새 패러다임](http://dmomo.co.kr/747) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/08 - [뉴스] ‘DNA의 아버지’ 제임스 왓슨…향년 97세로 별세](https://blog.ai.dmomo.co.kr/news/13474) <br/>
-[2025/11/08 - [뉴스] 2017년의 한 푼다”…월즈 쓰리핏’ 노리는 페이커](https://blog.ai.dmomo.co.kr/news/13471) <br/>
-[2025/11/08 - [뉴스] 전국 대체로 흐리고 곳곳 비…낮 최고기온 13~21도](https://blog.ai.dmomo.co.kr/news/13468) <br/>
-[2025/11/07 - [뉴스] 젠슨황 한국사랑 ‘이것’ 때문이었네…삼박자 갖춘 나라 거의 없다는데](https://blog.ai.dmomo.co.kr/news/13465) <br/>
-[2025/11/07 - [뉴스] 지지 않는다던 모델 김성찬 사망…혈액암 초기 증상은](https://blog.ai.dmomo.co.kr/news/13462) <br/>
-[2025/11/07 - [뉴스] 엔티엘헬스케어, 닥터 써비케어 CES 2026 AI부문 혁신상 수상](https://blog.ai.dmomo.co.kr/news/13459) <br/>
+[2025/11/08 - [뉴스] 거울보다 충격, 온몸에 끔찍한 ‘뱀 무늬’…‘만병통치’에 속아 2천만원 쓴 중국女](https://blog.ai.dmomo.co.kr/news/13525) <br/>
+[2025/11/08 - [뉴스] 지금이 마지막 기회…국내 여행 바가지 논란에 초비상](https://blog.ai.dmomo.co.kr/news/13522) <br/>
+[2025/11/08 - 전북 vs 대전: 특별자치도와 광역시의 경제·문화 완벽 비교 분석](https://blog.ai.dmomo.co.kr/trend/13519) <br/>
+[2025/11/08 - [뉴스] “실험용으로 샀는데 1000배 ‘잭팟’…스페인 연구소, 135억 비트코인 판다”](https://blog.ai.dmomo.co.kr/news/13516) <br/>
+[2025/11/08 - [뉴스] 연말까지 놓치지 마세요…세금 148만원 돌려받은 비결](https://blog.ai.dmomo.co.kr/news/13513) <br/>
+[2025/11/08 - [뉴스] 7년째 잠든 의료데이터 5000만건…디지털헬스케어법이 깨운다](https://blog.ai.dmomo.co.kr/news/13510) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/11/07 - All About Kim Hye-seong's Historic World Series Victory in His MLB Rookie Year: The First Korean Position Player to Achieve This!](https://ai.trend.dmomo.co.kr/2025/11/all-about-kim-hye-seongs-historic-world.html) <br/>
-[2025/11/07 - Jeon Ji-hyun's Husband Choi Jun-hyuk: What is the True Meaning of the Nickname 'Euljiro Jang Dong-gun'?](https://ai.trend.dmomo.co.kr/2025/11/jeon-ji-hyuns-husband-choi-jun-hyuk.html) <br/>
-[2025/11/07 - 5 Edge AI Innovations in 2025: Combining Ultra-Low Power 1-3W Hardware with Agentic AI Strategies](https://ai.trend.dmomo.co.kr/2025/11/5-edge-ai-innovations-in-2025-combining.html) <br/>
-[2025/11/07 - Marshawn Kneeland Death Rumors: The Truth Behind the NFL Rookie and the Death Hoax Reality](https://ai.trend.dmomo.co.kr/2025/11/marshawn-kneeland-death-rumors-truth.html) <br/>
-[2025/11/07 - Lee Jae-sung's Theater Goal! Analysis of the Thrilling UECL Match where Mainz Defeated Fiorentina 2-1](https://ai.trend.dmomo.co.kr/2025/11/lee-jae-sungs-theater-goal-analysis-of.html) <br/>
-[2025/11/06 - Park Mi-sun's Survival Report 10 Months After Overcoming Breast Cancer: A Strong Retort to Fake News](https://ai.trend.dmomo.co.kr/2025/11/park-mi-suns-survival-report-10-months.html) <br/>
+[2025/11/08 - Jeonbuk vs Daejeon: A Comprehensive Comparison of Economic and Cultural Aspects Between Special Self-Governing Province and Metropolitan City](https://ai.trend.dmomo.co.kr/2025/11/jeonbuk-vs-daejeon-comprehensive.html) <br/>
+[2025/11/08 - NBA Warriors vs Nuggets: Denver Expected to Dominate Without Curry](https://ai.trend.dmomo.co.kr/2025/11/nba-warriors-vs-nuggets-denver-expected.html) <br/>
+[2025/11/08 - Will BLACKPINK's Lisa Become a Disney Princess? An Analysis of the Global Influence of a K-Pop Icon](https://ai.trend.dmomo.co.kr/2025/11/will-blackpinks-lisa-become-disney.html) <br/>
+[2025/11/08 - The 2025 Physical AI Revolution: 5 Predictions for the Future of Humanoid Robots and Industry Transformation](https://ai.trend.dmomo.co.kr/2025/11/the-2025-physical-ai-revolution-5.html) <br/>
+[2025/11/08 - Perfect Weather Guide: From Seasonal Characteristics to Smart Usage Tips](https://ai.trend.dmomo.co.kr/2025/11/perfect-weather-guide-from-seasonal.html) <br/>
+[2025/11/08 - 2026 Grammy Predictions: The New History Created by K-Pop and AI Music](https://ai.trend.dmomo.co.kr/2025/11/2026-grammy-predictions-new-history.html) <br/>
