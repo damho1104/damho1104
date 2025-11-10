@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
-[2025/11/07 - Marshawn Kneeland 사망설은 가짜! NFL 신인의 진실과 Death Hoax 실체](http://dmomo.co.kr/752) <br/>
-[2025/11/07 - 박미선 유방암 극복 후 10개월 만의 생존신고, 가짜뉴스에 일침](http://dmomo.co.kr/751) <br/>
-[2025/11/07 - 전지현 남편 최준혁, '을지로 장동건' 별명의 진짜 의미는?](http://dmomo.co.kr/750) <br/>
-[2025/11/02 - 헤이디 클룸 2025 메두사 변신: 할로윈의 새로운 신화가 탄생하다](http://dmomo.co.kr/749) <br/>
-[2025/11/02 - LoL 신성 비디디, 젠지 쵸비 압도한 롤드컵 4강 미드 대결 완벽 분석](http://dmomo.co.kr/748) <br/>
-[2025/10/31 - 이재용 회장의 치맥 외교: AI 시대 글로벌 협력의 새 패러다임](http://dmomo.co.kr/747) <br/>
+[2025/11/07 - Marshawn Kneeland 사망설은 가짜! NFL 신인의 진실과 Death Hoax 실체](https://dmomo.co.kr/752) <br/>
+[2025/11/07 - 박미선 유방암 극복 후 10개월 만의 생존신고, 가짜뉴스에 일침](https://dmomo.co.kr/751) <br/>
+[2025/11/07 - 전지현 남편 최준혁, '을지로 장동건' 별명의 진짜 의미는?](https://dmomo.co.kr/750) <br/>
+[2025/11/02 - 헤이디 클룸 2025 메두사 변신: 할로윈의 새로운 신화가 탄생하다](https://dmomo.co.kr/749) <br/>
+[2025/11/02 - LoL 신성 비디디, 젠지 쵸비 압도한 롤드컵 4강 미드 대결 완벽 분석](https://dmomo.co.kr/748) <br/>
+[2025/10/31 - 이재용 회장의 치맥 외교: AI 시대 글로벌 협력의 새 패러다임](https://dmomo.co.kr/747) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/08 - [뉴스] 거울보다 충격, 온몸에 끔찍한 ‘뱀 무늬’…‘만병통치’에 속아 2천만원 쓴 중국女](https://blog.ai.dmomo.co.kr/news/13525) <br/>
-[2025/11/08 - [뉴스] 지금이 마지막 기회…국내 여행 바가지 논란에 초비상](https://blog.ai.dmomo.co.kr/news/13522) <br/>
-[2025/11/08 - 전북 vs 대전: 특별자치도와 광역시의 경제·문화 완벽 비교 분석](https://blog.ai.dmomo.co.kr/trend/13519) <br/>
-[2025/11/08 - [뉴스] “실험용으로 샀는데 1000배 ‘잭팟’…스페인 연구소, 135억 비트코인 판다”](https://blog.ai.dmomo.co.kr/news/13516) <br/>
-[2025/11/08 - [뉴스] 연말까지 놓치지 마세요…세금 148만원 돌려받은 비결](https://blog.ai.dmomo.co.kr/news/13513) <br/>
-[2025/11/08 - [뉴스] 7년째 잠든 의료데이터 5000만건…디지털헬스케어법이 깨운다](https://blog.ai.dmomo.co.kr/news/13510) <br/>
+[2025/11/10 - [뉴스] 자고 있는 고등학생 친형 흉기로 찌른 중학생 동생](https://blog.ai.dmomo.co.kr/news/13579) <br/>
+[2025/11/10 - [뉴스] 현아, 마카오 공연 중 실신…아무 기억 안나, 미안](https://blog.ai.dmomo.co.kr/news/13576) <br/>
+[2025/11/09 - [뉴스] 해변 산책중 ‘괴물 파도’에 10여명 속수무책 당했다…3명 사망](https://blog.ai.dmomo.co.kr/news/13573) <br/>
+[2025/11/09 - [뉴스] 1분 만에 3만명 한국 러닝족 확 늘더니…놀라운 상황](https://blog.ai.dmomo.co.kr/news/13570) <br/>
+[2025/11/09 - [뉴스] 환전없는 무역 첫발…”뉴욕서 원화로 받아”](https://blog.ai.dmomo.co.kr/news/13567) <br/>
+[2025/11/09 - [뉴스] 주식비중 높여 증시 부양 vs 시장 과열 부를수도](https://blog.ai.dmomo.co.kr/news/13564) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/11/09 - Alabama vs LSU Game Analysis: 4th Ranked Crimson Tide Achieves 8th Consecutive SEC Win with 20-9 Victory](https://ai.trend.dmomo.co.kr/2025/11/alabama-vs-lsu-game-analysis-4th-ranked.html) <br/>
+[2025/11/09 - Cloud Innovations in 2025: In-Depth Analysis of Naver HyperCLOVA X Function Calling Features](https://ai.trend.dmomo.co.kr/2025/11/cloud-innovations-in-2025-in-depth.html) <br/>
+[2025/11/09 - Ohio State vs Purdue: Dominating 34-10 Victory Proves Number One Status](https://ai.trend.dmomo.co.kr/2025/11/ohio-state-vs-purdue-dominating-34-10.html) <br/>
+[2025/11/09 - Tottenham vs Man Utd 2-2 Thrilling Draw! The Dramatic Conclusion in Extra Time](https://ai.trend.dmomo.co.kr/2025/11/tottenham-vs-man-utd-2-2-thrilling-draw.html) <br/>
 [2025/11/08 - Jeonbuk vs Daejeon: A Comprehensive Comparison of Economic and Cultural Aspects Between Special Self-Governing Province and Metropolitan City](https://ai.trend.dmomo.co.kr/2025/11/jeonbuk-vs-daejeon-comprehensive.html) <br/>
 [2025/11/08 - NBA Warriors vs Nuggets: Denver Expected to Dominate Without Curry](https://ai.trend.dmomo.co.kr/2025/11/nba-warriors-vs-nuggets-denver-expected.html) <br/>
-[2025/11/08 - Will BLACKPINK's Lisa Become a Disney Princess? An Analysis of the Global Influence of a K-Pop Icon](https://ai.trend.dmomo.co.kr/2025/11/will-blackpinks-lisa-become-disney.html) <br/>
-[2025/11/08 - The 2025 Physical AI Revolution: 5 Predictions for the Future of Humanoid Robots and Industry Transformation](https://ai.trend.dmomo.co.kr/2025/11/the-2025-physical-ai-revolution-5.html) <br/>
-[2025/11/08 - Perfect Weather Guide: From Seasonal Characteristics to Smart Usage Tips](https://ai.trend.dmomo.co.kr/2025/11/perfect-weather-guide-from-seasonal.html) <br/>
-[2025/11/08 - 2026 Grammy Predictions: The New History Created by K-Pop and AI Music](https://ai.trend.dmomo.co.kr/2025/11/2026-grammy-predictions-new-history.html) <br/>
