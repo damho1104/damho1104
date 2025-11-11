@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/11/10 - 미국 역대 최장 40일 셧다운 종료, 충격적인 3가지 합의 내용](https://dmomo.co.kr/753) <br/>
 [2025/11/07 - Marshawn Kneeland 사망설은 가짜! NFL 신인의 진실과 Death Hoax 실체](https://dmomo.co.kr/752) <br/>
 [2025/11/07 - 박미선 유방암 극복 후 10개월 만의 생존신고, 가짜뉴스에 일침](https://dmomo.co.kr/751) <br/>
 [2025/11/07 - 전지현 남편 최준혁, '을지로 장동건' 별명의 진짜 의미는?](https://dmomo.co.kr/750) <br/>
 [2025/11/02 - 헤이디 클룸 2025 메두사 변신: 할로윈의 새로운 신화가 탄생하다](https://dmomo.co.kr/749) <br/>
 [2025/11/02 - LoL 신성 비디디, 젠지 쵸비 압도한 롤드컵 4강 미드 대결 완벽 분석](https://dmomo.co.kr/748) <br/>
-[2025/10/31 - 이재용 회장의 치맥 외교: AI 시대 글로벌 협력의 새 패러다임](https://dmomo.co.kr/747) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/10 - [뉴스] 자고 있는 고등학생 친형 흉기로 찌른 중학생 동생](https://blog.ai.dmomo.co.kr/news/13579) <br/>
-[2025/11/10 - [뉴스] 현아, 마카오 공연 중 실신…아무 기억 안나, 미안](https://blog.ai.dmomo.co.kr/news/13576) <br/>
-[2025/11/09 - [뉴스] 해변 산책중 ‘괴물 파도’에 10여명 속수무책 당했다…3명 사망](https://blog.ai.dmomo.co.kr/news/13573) <br/>
-[2025/11/09 - [뉴스] 1분 만에 3만명 한국 러닝족 확 늘더니…놀라운 상황](https://blog.ai.dmomo.co.kr/news/13570) <br/>
-[2025/11/09 - [뉴스] 환전없는 무역 첫발…”뉴욕서 원화로 받아”](https://blog.ai.dmomo.co.kr/news/13567) <br/>
-[2025/11/09 - [뉴스] 주식비중 높여 증시 부양 vs 시장 과열 부를수도](https://blog.ai.dmomo.co.kr/news/13564) <br/>
+[2025/11/11 - [뉴스] 영국 부커상에 英작가 솔로이 ‘플레시’…한국계 美작가 수전 최 불발](https://blog.ai.dmomo.co.kr/news/13642) <br/>
+[2025/11/11 - [뉴스] 생산라인 대부분 중단…애플, 저조한 판매량에 결국](https://blog.ai.dmomo.co.kr/news/13639) <br/>
+[2025/11/11 - [뉴스] 뜨거운 감자 된 새벽배송 금지…日은 어떻게 하나 봤더니](https://blog.ai.dmomo.co.kr/news/13636) <br/>
+[2025/11/10 - [뉴스] “희토류 갑질 또 당할거야?”…미국·일본 태평양 심해 탐사 나섰다는데](https://blog.ai.dmomo.co.kr/news/13633) <br/>
+[2025/11/10 - [뉴스] 600년 만에 빛본 조선시대 난파선 유물](https://blog.ai.dmomo.co.kr/news/13630) <br/>
+[2025/11/10 - [뉴스] 美증권사 로빈후드는 매출 20%가 코인 수수료 … ‘금가분리’ 한국선 불가능](https://blog.ai.dmomo.co.kr/news/13627) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/11/10 - End of the Historic 40-Day Government Shutdown in the U.S.: 3 Shocking Agreements Revealed](https://ai.trend.dmomo.co.kr/2025/11/end-of-historic-40-day-government.html) <br/>
+[2025/11/10 - NFL Big Match Analysis: All About the Rams vs 49ers Overtime Clash](https://ai.trend.dmomo.co.kr/2025/11/nfl-big-match-analysis-all-about-rams.html) <br/>
+[2025/11/10 - What’s Next for Naver Plus Store’s AI-Powered Personalized Shopping in 2025?](https://ai.trend.dmomo.co.kr/2025/11/whats-next-for-naver-plus-stores-ai.html) <br/>
+[2025/11/10 - Lee Kang-in Surpasses 100 Matches for PSG, Leads Team to Reclaim League Top Spot with Dramatic Assist](https://ai.trend.dmomo.co.kr/2025/11/lee-kang-in-surpasses-100-matches-for.html) <br/>
 [2025/11/09 - Alabama vs LSU Game Analysis: 4th Ranked Crimson Tide Achieves 8th Consecutive SEC Win with 20-9 Victory](https://ai.trend.dmomo.co.kr/2025/11/alabama-vs-lsu-game-analysis-4th-ranked.html) <br/>
 [2025/11/09 - Cloud Innovations in 2025: In-Depth Analysis of Naver HyperCLOVA X Function Calling Features](https://ai.trend.dmomo.co.kr/2025/11/cloud-innovations-in-2025-in-depth.html) <br/>
-[2025/11/09 - Ohio State vs Purdue: Dominating 34-10 Victory Proves Number One Status](https://ai.trend.dmomo.co.kr/2025/11/ohio-state-vs-purdue-dominating-34-10.html) <br/>
-[2025/11/09 - Tottenham vs Man Utd 2-2 Thrilling Draw! The Dramatic Conclusion in Extra Time](https://ai.trend.dmomo.co.kr/2025/11/tottenham-vs-man-utd-2-2-thrilling-draw.html) <br/>
-[2025/11/08 - Jeonbuk vs Daejeon: A Comprehensive Comparison of Economic and Cultural Aspects Between Special Self-Governing Province and Metropolitan City](https://ai.trend.dmomo.co.kr/2025/11/jeonbuk-vs-daejeon-comprehensive.html) <br/>
-[2025/11/08 - NBA Warriors vs Nuggets: Denver Expected to Dominate Without Curry](https://ai.trend.dmomo.co.kr/2025/11/nba-warriors-vs-nuggets-denver-expected.html) <br/>
