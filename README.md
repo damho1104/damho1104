@@ -88,17 +88,17 @@
 [2025/11/02 - LoL 신성 비디디, 젠지 쵸비 압도한 롤드컵 4강 미드 대결 완벽 분석](https://dmomo.co.kr/748) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/11 - [뉴스] 영국 부커상에 英작가 솔로이 ‘플레시’…한국계 美작가 수전 최 불발](https://blog.ai.dmomo.co.kr/news/13642) <br/>
-[2025/11/11 - [뉴스] 생산라인 대부분 중단…애플, 저조한 판매량에 결국](https://blog.ai.dmomo.co.kr/news/13639) <br/>
-[2025/11/11 - [뉴스] 뜨거운 감자 된 새벽배송 금지…日은 어떻게 하나 봤더니](https://blog.ai.dmomo.co.kr/news/13636) <br/>
-[2025/11/10 - [뉴스] “희토류 갑질 또 당할거야?”…미국·일본 태평양 심해 탐사 나섰다는데](https://blog.ai.dmomo.co.kr/news/13633) <br/>
-[2025/11/10 - [뉴스] 600년 만에 빛본 조선시대 난파선 유물](https://blog.ai.dmomo.co.kr/news/13630) <br/>
-[2025/11/10 - [뉴스] 美증권사 로빈후드는 매출 20%가 코인 수수료 … ‘금가분리’ 한국선 불가능](https://blog.ai.dmomo.co.kr/news/13627) <br/>
+[2025/11/12 - [뉴스] 영화 ‘안나’ 배우 샐리 커클랜드 별세…향년 84세](https://blog.ai.dmomo.co.kr/news/13714) <br/>
+[2025/11/12 - [뉴스] 백종원이 키운 골목식당 홍탁집…3년 연속 블루리본 선정됐다](https://blog.ai.dmomo.co.kr/news/13711) <br/>
+[2025/11/11 - [뉴스] 한국인 인기 여행지, 베트남서 집단 식중독…“살모넬라균 원인 추정”](https://blog.ai.dmomo.co.kr/news/13708) <br/>
+[2025/11/11 - [뉴스] 터질 게 터졌다…AI 커닝, 이미 대학가 일상?](https://blog.ai.dmomo.co.kr/news/13705) <br/>
+[2025/11/11 - [뉴스] 슈돌 첫 미혼 MC 발탁 이이경, 첫 방송 앞두고 하차…김종민 합류](https://blog.ai.dmomo.co.kr/news/13702) <br/>
+[2025/11/11 - [뉴스] “초등생 우리 아이에게 꼭 주고 싶어요”…가장 확실한 장기투자 주식 통장](https://blog.ai.dmomo.co.kr/news/13699) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/11/11 - AliExpress's Strategy for Entering Korea: Why They're Investing 700 Billion KRW in Partnership with Shinsegae](https://ai.trend.dmomo.co.kr/2025/11/aliexpresss-strategy-for-entering-korea.html) <br/>
+[2025/11/11 - Eagles' Dramatic 10-7 Victory! Latest News Roundup on NFL Philadelphia Eagles](https://ai.trend.dmomo.co.kr/2025/11/eagles-dramatic-10-7-victory-latest.html) <br/>
+[2025/11/11 - 41st Day of the U.S. Government Shutdown: Is It Finally Over? Latest Update on Senate's Progress](https://ai.trend.dmomo.co.kr/2025/11/41st-day-of-us-government-shutdown-is.html) <br/>
+[2025/11/11 - 2025 Cutting-Edge DevOps Innovations: In-Depth Analysis of ArgoCD 3.0 and AI-Powered GitOps](https://ai.trend.dmomo.co.kr/2025/11/2025-cutting-edge-devops-innovations-in.html) <br/>
+[2025/11/11 - WEMAKEPRICE Bankruptcy: The Real Reasons Behind the Fall of a 15-Year Social Commerce Giant](https://ai.trend.dmomo.co.kr/2025/11/wemakeprice-bankruptcy-real-reasons.html) <br/>
 [2025/11/10 - End of the Historic 40-Day Government Shutdown in the U.S.: 3 Shocking Agreements Revealed](https://ai.trend.dmomo.co.kr/2025/11/end-of-historic-40-day-government.html) <br/>
-[2025/11/10 - NFL Big Match Analysis: All About the Rams vs 49ers Overtime Clash](https://ai.trend.dmomo.co.kr/2025/11/nfl-big-match-analysis-all-about-rams.html) <br/>
-[2025/11/10 - What’s Next for Naver Plus Store’s AI-Powered Personalized Shopping in 2025?](https://ai.trend.dmomo.co.kr/2025/11/whats-next-for-naver-plus-stores-ai.html) <br/>
-[2025/11/10 - Lee Kang-in Surpasses 100 Matches for PSG, Leads Team to Reclaim League Top Spot with Dramatic Assist](https://ai.trend.dmomo.co.kr/2025/11/lee-kang-in-surpasses-100-matches-for.html) <br/>
-[2025/11/09 - Alabama vs LSU Game Analysis: 4th Ranked Crimson Tide Achieves 8th Consecutive SEC Win with 20-9 Victory](https://ai.trend.dmomo.co.kr/2025/11/alabama-vs-lsu-game-analysis-4th-ranked.html) <br/>
-[2025/11/09 - Cloud Innovations in 2025: In-Depth Analysis of Naver HyperCLOVA X Function Calling Features](https://ai.trend.dmomo.co.kr/2025/11/cloud-innovations-in-2025-in-depth.html) <br/>
