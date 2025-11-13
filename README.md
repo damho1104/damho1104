@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/11/12 - 뉴진스 해린&middot;혜인 어도어 복귀 결정! 남은 3명 멤버의 선택은?](https://dmomo.co.kr/754) <br/>
 [2025/11/10 - 미국 역대 최장 40일 셧다운 종료, 충격적인 3가지 합의 내용](https://dmomo.co.kr/753) <br/>
 [2025/11/07 - Marshawn Kneeland 사망설은 가짜! NFL 신인의 진실과 Death Hoax 실체](https://dmomo.co.kr/752) <br/>
 [2025/11/07 - 박미선 유방암 극복 후 10개월 만의 생존신고, 가짜뉴스에 일침](https://dmomo.co.kr/751) <br/>
 [2025/11/07 - 전지현 남편 최준혁, '을지로 장동건' 별명의 진짜 의미는?](https://dmomo.co.kr/750) <br/>
 [2025/11/02 - 헤이디 클룸 2025 메두사 변신: 할로윈의 새로운 신화가 탄생하다](https://dmomo.co.kr/749) <br/>
-[2025/11/02 - LoL 신성 비디디, 젠지 쵸비 압도한 롤드컵 4강 미드 대결 완벽 분석](https://dmomo.co.kr/748) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/12 - [뉴스] 영화 ‘안나’ 배우 샐리 커클랜드 별세…향년 84세](https://blog.ai.dmomo.co.kr/news/13714) <br/>
-[2025/11/12 - [뉴스] 백종원이 키운 골목식당 홍탁집…3년 연속 블루리본 선정됐다](https://blog.ai.dmomo.co.kr/news/13711) <br/>
-[2025/11/11 - [뉴스] 한국인 인기 여행지, 베트남서 집단 식중독…“살모넬라균 원인 추정”](https://blog.ai.dmomo.co.kr/news/13708) <br/>
-[2025/11/11 - [뉴스] 터질 게 터졌다…AI 커닝, 이미 대학가 일상?](https://blog.ai.dmomo.co.kr/news/13705) <br/>
-[2025/11/11 - [뉴스] 슈돌 첫 미혼 MC 발탁 이이경, 첫 방송 앞두고 하차…김종민 합류](https://blog.ai.dmomo.co.kr/news/13702) <br/>
-[2025/11/11 - [뉴스] “초등생 우리 아이에게 꼭 주고 싶어요”…가장 확실한 장기투자 주식 통장](https://blog.ai.dmomo.co.kr/news/13699) <br/>
+[2025/11/13 - [뉴스] 美 셧다운 해제 임박했지만 증시는 혼조…다우는 신고가 기록 [월가월부]](https://blog.ai.dmomo.co.kr/news/13786) <br/>
+[2025/11/13 - [뉴스] 살려고 치료했는데 죽을 것 같았다”…박미선, 유방암 투병 후 첫 근황](https://blog.ai.dmomo.co.kr/news/13783) <br/>
+[2025/11/12 - [뉴스] “쿠바 여행 각별히 주의”…모기 매개 전염병 확산 경보](https://blog.ai.dmomo.co.kr/news/13780) <br/>
+[2025/11/12 - [뉴스] 홈플러스 폐점 보류라더니 고별세일?…점주도 손님도 혼란](https://blog.ai.dmomo.co.kr/news/13777) <br/>
+[2025/11/12 - [뉴스] 라방이 이정도야?…3040 몰리더니 수십억 매출도 터진다](https://blog.ai.dmomo.co.kr/news/13774) <br/>
+[2025/11/12 - 미국 앨라배마까지 덮친 2025년 오로라 대폭발: 남부 주민들이 목격한 초현실 북극광](https://blog.ai.dmomo.co.kr/trend/13771) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/11/11 - AliExpress's Strategy for Entering Korea: Why They're Investing 700 Billion KRW in Partnership with Shinsegae](https://ai.trend.dmomo.co.kr/2025/11/aliexpresss-strategy-for-entering-korea.html) <br/>
-[2025/11/11 - Eagles' Dramatic 10-7 Victory! Latest News Roundup on NFL Philadelphia Eagles](https://ai.trend.dmomo.co.kr/2025/11/eagles-dramatic-10-7-victory-latest.html) <br/>
-[2025/11/11 - 41st Day of the U.S. Government Shutdown: Is It Finally Over? Latest Update on Senate's Progress](https://ai.trend.dmomo.co.kr/2025/11/41st-day-of-us-government-shutdown-is.html) <br/>
-[2025/11/11 - 2025 Cutting-Edge DevOps Innovations: In-Depth Analysis of ArgoCD 3.0 and AI-Powered GitOps](https://ai.trend.dmomo.co.kr/2025/11/2025-cutting-edge-devops-innovations-in.html) <br/>
-[2025/11/11 - WEMAKEPRICE Bankruptcy: The Real Reasons Behind the Fall of a 15-Year Social Commerce Giant](https://ai.trend.dmomo.co.kr/2025/11/wemakeprice-bankruptcy-real-reasons.html) <br/>
-[2025/11/10 - End of the Historic 40-Day Government Shutdown in the U.S.: 3 Shocking Agreements Revealed](https://ai.trend.dmomo.co.kr/2025/11/end-of-historic-40-day-government.html) <br/>
+[2025/11/12 - The 2025 Aurora Explosion: A Surreal Northern Lights Experience Witnessed by Residents in Alabama](https://ai.trend.dmomo.co.kr/2025/11/the-2025-aurora-explosion-surreal.html) <br/>
+[2025/11/12 - NewJeans' Haein and Hyelin Decide to Return! What Will the Remaining Three Members Choose?](https://ai.trend.dmomo.co.kr/2025/11/newjeans-haein-and-hyelin-decide-to.html) <br/>
+[2025/11/12 - The Ultimate Solar Flare of 2025! Comprehensive Guide to Aurora Viewing Spots Across the USA Tonight](https://ai.trend.dmomo.co.kr/2025/11/the-ultimate-solar-flare-of-2025.html) <br/>
+[2025/11/12 - Oklahoma City Thunder's Dominating 126-102 Victory! Shocking Conclusion to Curry's Comeback Game](https://ai.trend.dmomo.co.kr/2025/11/oklahoma-city-thunders-dominating-126.html) <br/>
+[2025/11/12 - How Low-Code and Generative AI Integration Will Revolutionize 2025: Innovation and Enterprise Adoption Strategies](https://ai.trend.dmomo.co.kr/2025/11/how-low-code-and-generative-ai.html) <br/>
+[2025/11/12 - Chipotle Veterans Day 2025: Complete Guide to BOGO Offers](https://ai.trend.dmomo.co.kr/2025/11/chipotle-veterans-day-2025-complete.html) <br/>
