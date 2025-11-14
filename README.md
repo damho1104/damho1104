@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/11/13 - GPT-5.1의 적응형 추론, AI 성능과 응답 속도는 어떻게 달라졌나?](https://dmomo.co.kr/756) <br/>
+[2025/11/13 - 뉴진스 어도어 복귀 결정! 348일 만의 극적 화해 전말은?](https://dmomo.co.kr/755) <br/>
 [2025/11/12 - 뉴진스 해린&middot;혜인 어도어 복귀 결정! 남은 3명 멤버의 선택은?](https://dmomo.co.kr/754) <br/>
 [2025/11/10 - 미국 역대 최장 40일 셧다운 종료, 충격적인 3가지 합의 내용](https://dmomo.co.kr/753) <br/>
 [2025/11/07 - Marshawn Kneeland 사망설은 가짜! NFL 신인의 진실과 Death Hoax 실체](https://dmomo.co.kr/752) <br/>
 [2025/11/07 - 박미선 유방암 극복 후 10개월 만의 생존신고, 가짜뉴스에 일침](https://dmomo.co.kr/751) <br/>
-[2025/11/07 - 전지현 남편 최준혁, '을지로 장동건' 별명의 진짜 의미는?](https://dmomo.co.kr/750) <br/>
-[2025/11/02 - 헤이디 클룸 2025 메두사 변신: 할로윈의 새로운 신화가 탄생하다](https://dmomo.co.kr/749) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/13 - [뉴스] 美 셧다운 해제 임박했지만 증시는 혼조…다우는 신고가 기록 [월가월부]](https://blog.ai.dmomo.co.kr/news/13786) <br/>
-[2025/11/13 - [뉴스] 살려고 치료했는데 죽을 것 같았다”…박미선, 유방암 투병 후 첫 근황](https://blog.ai.dmomo.co.kr/news/13783) <br/>
-[2025/11/12 - [뉴스] “쿠바 여행 각별히 주의”…모기 매개 전염병 확산 경보](https://blog.ai.dmomo.co.kr/news/13780) <br/>
-[2025/11/12 - [뉴스] 홈플러스 폐점 보류라더니 고별세일?…점주도 손님도 혼란](https://blog.ai.dmomo.co.kr/news/13777) <br/>
-[2025/11/12 - [뉴스] 라방이 이정도야?…3040 몰리더니 수십억 매출도 터진다](https://blog.ai.dmomo.co.kr/news/13774) <br/>
-[2025/11/12 - 미국 앨라배마까지 덮친 2025년 오로라 대폭발: 남부 주민들이 목격한 초현실 북극광](https://blog.ai.dmomo.co.kr/trend/13771) <br/>
+[2025/11/14 - [뉴스] “월급은 442만원”…18세 남녀에게 군 복무 의사 묻는다는 ‘이 나라’](https://blog.ai.dmomo.co.kr/news/13855) <br/>
+[2025/11/14 - [뉴스] 베일 벗겨지는 삼성 갤럭시S26](https://blog.ai.dmomo.co.kr/news/13852) <br/>
+[2025/11/13 - [뉴스] ‘곰 습격’에 올해만 13명 숨졌다…일본, 경찰에 소총 발포 허용](https://blog.ai.dmomo.co.kr/news/13849) <br/>
+[2025/11/13 - [뉴스] 대통령 묵은 곳…APEC 끝나자 예약문의 폭주 PRS 가보니](https://blog.ai.dmomo.co.kr/news/13846) <br/>
+[2025/11/13 - [뉴스] 코스프레에 오픈런까지 동창회 느낌…10대 꽉 잡은 지스타](https://blog.ai.dmomo.co.kr/news/13843) <br/>
+[2025/11/13 - 2026 수능 등급컷 완벽 분석: 합격 전략의 모든 것](https://blog.ai.dmomo.co.kr/trend/13840) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/11/12 - The 2025 Aurora Explosion: A Surreal Northern Lights Experience Witnessed by Residents in Alabama](https://ai.trend.dmomo.co.kr/2025/11/the-2025-aurora-explosion-surreal.html) <br/>
-[2025/11/12 - NewJeans' Haein and Hyelin Decide to Return! What Will the Remaining Three Members Choose?](https://ai.trend.dmomo.co.kr/2025/11/newjeans-haein-and-hyelin-decide-to.html) <br/>
-[2025/11/12 - The Ultimate Solar Flare of 2025! Comprehensive Guide to Aurora Viewing Spots Across the USA Tonight](https://ai.trend.dmomo.co.kr/2025/11/the-ultimate-solar-flare-of-2025.html) <br/>
-[2025/11/12 - Oklahoma City Thunder's Dominating 126-102 Victory! Shocking Conclusion to Curry's Comeback Game](https://ai.trend.dmomo.co.kr/2025/11/oklahoma-city-thunders-dominating-126.html) <br/>
-[2025/11/12 - How Low-Code and Generative AI Integration Will Revolutionize 2025: Innovation and Enterprise Adoption Strategies](https://ai.trend.dmomo.co.kr/2025/11/how-low-code-and-generative-ai.html) <br/>
-[2025/11/12 - Chipotle Veterans Day 2025: Complete Guide to BOGO Offers](https://ai.trend.dmomo.co.kr/2025/11/chipotle-veterans-day-2025-complete.html) <br/>
+[2025/11/13 - Perfect Analysis of the 2026 College Entrance Exam Cut-off Scores: Everything About Admission Strategies](https://ai.trend.dmomo.co.kr/2025/11/perfect-analysis-of-2026-college.html) <br/>
+[2025/11/13 - Valve Steam Machine 2.0: The 2026 Living Room Gaming Revolution is Here!](https://ai.trend.dmomo.co.kr/2025/11/valve-steam-machine-20-2026-living-room.html) <br/>
+[2025/11/13 - Adaptive Reasoning in GPT-5.1: How AI Performance and Response Speed Have Improved](https://ai.trend.dmomo.co.kr/2025/11/adaptive-reasoning-in-gpt-51-how-ai.html) <br/>
+[2025/11/13 - Epstein Files: 20,000 Pages of Revelations - Did Trump Really Not Know?](https://ai.trend.dmomo.co.kr/2025/11/epstein-files-20000-pages-of.html) <br/>
+[2025/11/13 - OWASP Top 10 2025: Comprehensive Analysis of Two Emerging Technologies and Security Risks](https://ai.trend.dmomo.co.kr/2025/11/owasp-top-10-2025-comprehensive.html) <br/>
+[2025/11/13 - NewJeans Ador's Comeback Decision! What Happened After 348 Days of Dramatic Reconciliation?](https://ai.trend.dmomo.co.kr/2025/11/newjeans-adors-comeback-decision-what.html) <br/>
