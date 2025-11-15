@@ -88,17 +88,17 @@
 [2025/11/07 - 박미선 유방암 극복 후 10개월 만의 생존신고, 가짜뉴스에 일침](https://dmomo.co.kr/751) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/14 - [뉴스] “월급은 442만원”…18세 남녀에게 군 복무 의사 묻는다는 ‘이 나라’](https://blog.ai.dmomo.co.kr/news/13855) <br/>
-[2025/11/14 - [뉴스] 베일 벗겨지는 삼성 갤럭시S26](https://blog.ai.dmomo.co.kr/news/13852) <br/>
-[2025/11/13 - [뉴스] ‘곰 습격’에 올해만 13명 숨졌다…일본, 경찰에 소총 발포 허용](https://blog.ai.dmomo.co.kr/news/13849) <br/>
-[2025/11/13 - [뉴스] 대통령 묵은 곳…APEC 끝나자 예약문의 폭주 PRS 가보니](https://blog.ai.dmomo.co.kr/news/13846) <br/>
-[2025/11/13 - [뉴스] 코스프레에 오픈런까지 동창회 느낌…10대 꽉 잡은 지스타](https://blog.ai.dmomo.co.kr/news/13843) <br/>
-[2025/11/13 - 2026 수능 등급컷 완벽 분석: 합격 전략의 모든 것](https://blog.ai.dmomo.co.kr/trend/13840) <br/>
+[2025/11/15 - [뉴스] “목을 베어야” “불에 타죽어”…일본 총리에 막말 쏟아내는 중국 왜](https://blog.ai.dmomo.co.kr/news/13931) <br/>
+[2025/11/15 - [뉴스] 매일 비명 질렀다…병 앓는 男, 끔찍한 고통 자초한 이유가](https://blog.ai.dmomo.co.kr/news/13928) <br/>
+[2025/11/15 - [뉴스] 쿠팡 검색 기능 한때 먹통…현재 정상 작동](https://blog.ai.dmomo.co.kr/news/13924) <br/>
+[2025/11/15 - [뉴스] ‘잭팟’ 터트린 에이비엘바이오, 투자주의종목 지정](https://blog.ai.dmomo.co.kr/news/13922) <br/>
+[2025/11/14 - [뉴스] 손흥민 프리킥 결승골·조규성 쐐기골…한국, 볼리비아에 2대0 승리](https://blog.ai.dmomo.co.kr/news/13919) <br/>
+[2025/11/14 - [뉴스] 한국어와 영어로 함께 읽는 한국 현대 서정시’](https://blog.ai.dmomo.co.kr/news/13916) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/11/13 - Perfect Analysis of the 2026 College Entrance Exam Cut-off Scores: Everything About Admission Strategies](https://ai.trend.dmomo.co.kr/2025/11/perfect-analysis-of-2026-college.html) <br/>
-[2025/11/13 - Valve Steam Machine 2.0: The 2026 Living Room Gaming Revolution is Here!](https://ai.trend.dmomo.co.kr/2025/11/valve-steam-machine-20-2026-living-room.html) <br/>
-[2025/11/13 - Adaptive Reasoning in GPT-5.1: How AI Performance and Response Speed Have Improved](https://ai.trend.dmomo.co.kr/2025/11/adaptive-reasoning-in-gpt-51-how-ai.html) <br/>
-[2025/11/13 - Epstein Files: 20,000 Pages of Revelations - Did Trump Really Not Know?](https://ai.trend.dmomo.co.kr/2025/11/epstein-files-20000-pages-of.html) <br/>
-[2025/11/13 - OWASP Top 10 2025: Comprehensive Analysis of Two Emerging Technologies and Security Risks](https://ai.trend.dmomo.co.kr/2025/11/owasp-top-10-2025-comprehensive.html) <br/>
-[2025/11/13 - NewJeans Ador's Comeback Decision! What Happened After 348 Days of Dramatic Reconciliation?](https://ai.trend.dmomo.co.kr/2025/11/newjeans-adors-comeback-decision-what.html) <br/>
+[2025/11/14 - Korea vs Bolivia Football Friendly: A Match Deciding the Fate of the 2026 World Cup Draw](https://ai.trend.dmomo.co.kr/2025/11/korea-vs-bolivia-football-friendly.html) <br/>
+[2025/11/14 - Patriots Defeat Jets 24-17! NFL Week 11 Highlights Recap](https://ai.trend.dmomo.co.kr/2025/11/patriots-defeat-jets-24-17-nfl-week-11.html) <br/>
+[2025/11/14 - Patriots vs Jets Game Analysis: New Order in AFC East and MVP Race](https://ai.trend.dmomo.co.kr/2025/11/patriots-vs-jets-game-analysis-new.html) <br/>
+[2025/11/14 - 2026 Suneung Score Breakdown: Expected Scores of 132 in Korean and 131 in Math](https://ai.trend.dmomo.co.kr/2025/11/2026-suneung-score-breakdown-expected.html) <br/>
+[2025/11/14 - Key 6 Technologies Driving the Latest 2025 RAG Trends and Agentic RAG Evolution](https://ai.trend.dmomo.co.kr/2025/11/key-6-technologies-driving-latest-2025.html) <br/>
+[2025/11/14 - 2026 World Cup European Qualifiers: Why Ireland vs. Portugal Caught America's Attention](https://ai.trend.dmomo.co.kr/2025/11/2026-world-cup-european-qualifiers-why.html) <br/>
