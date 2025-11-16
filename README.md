@@ -88,17 +88,17 @@
 [2025/11/07 - 박미선 유방암 극복 후 10개월 만의 생존신고, 가짜뉴스에 일침](https://dmomo.co.kr/751) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/15 - [뉴스] “목을 베어야” “불에 타죽어”…일본 총리에 막말 쏟아내는 중국 왜](https://blog.ai.dmomo.co.kr/news/13931) <br/>
-[2025/11/15 - [뉴스] 매일 비명 질렀다…병 앓는 男, 끔찍한 고통 자초한 이유가](https://blog.ai.dmomo.co.kr/news/13928) <br/>
-[2025/11/15 - [뉴스] 쿠팡 검색 기능 한때 먹통…현재 정상 작동](https://blog.ai.dmomo.co.kr/news/13924) <br/>
-[2025/11/15 - [뉴스] ‘잭팟’ 터트린 에이비엘바이오, 투자주의종목 지정](https://blog.ai.dmomo.co.kr/news/13922) <br/>
-[2025/11/14 - [뉴스] 손흥민 프리킥 결승골·조규성 쐐기골…한국, 볼리비아에 2대0 승리](https://blog.ai.dmomo.co.kr/news/13919) <br/>
-[2025/11/14 - [뉴스] 한국어와 영어로 함께 읽는 한국 현대 서정시’](https://blog.ai.dmomo.co.kr/news/13916) <br/>
+[2025/11/16 - [뉴스] “악당 손에 들어갈 줄 알았지”…알아도 못잡는 해킹 신무기 된 ‘이것’](https://blog.ai.dmomo.co.kr/news/13994) <br/>
+[2025/11/16 - [뉴스] 과일계의 에르메스라더니…5년 만에 가격 3분의 1로 추락](https://blog.ai.dmomo.co.kr/news/13991) <br/>
+[2025/11/16 - 2025 상생페이백 최대 30만원 받는 법! 소상공인과 함께 WIN-WIN](https://blog.ai.dmomo.co.kr/trend/13988) <br/>
+[2025/11/15 - [뉴스] “세금 아까워 네 나라로 돌아가” 현관문에 붙은 쪽지…일본 반이민 정서 논란](https://blog.ai.dmomo.co.kr/news/13985) <br/>
+[2025/11/15 - [뉴스] 지드래곤 음악에 불꽃 터지니…117만명 우루루](https://blog.ai.dmomo.co.kr/news/13982) <br/>
+[2025/11/15 - [뉴스] 한국보다 일본서 더 난리…10년 만에 대박 기회 왔다](https://blog.ai.dmomo.co.kr/news/13979) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/11/14 - Korea vs Bolivia Football Friendly: A Match Deciding the Fate of the 2026 World Cup Draw](https://ai.trend.dmomo.co.kr/2025/11/korea-vs-bolivia-football-friendly.html) <br/>
-[2025/11/14 - Patriots Defeat Jets 24-17! NFL Week 11 Highlights Recap](https://ai.trend.dmomo.co.kr/2025/11/patriots-defeat-jets-24-17-nfl-week-11.html) <br/>
-[2025/11/14 - Patriots vs Jets Game Analysis: New Order in AFC East and MVP Race](https://ai.trend.dmomo.co.kr/2025/11/patriots-vs-jets-game-analysis-new.html) <br/>
-[2025/11/14 - 2026 Suneung Score Breakdown: Expected Scores of 132 in Korean and 131 in Math](https://ai.trend.dmomo.co.kr/2025/11/2026-suneung-score-breakdown-expected.html) <br/>
-[2025/11/14 - Key 6 Technologies Driving the Latest 2025 RAG Trends and Agentic RAG Evolution](https://ai.trend.dmomo.co.kr/2025/11/key-6-technologies-driving-latest-2025.html) <br/>
-[2025/11/14 - 2026 World Cup European Qualifiers: Why Ireland vs. Portugal Caught America's Attention](https://ai.trend.dmomo.co.kr/2025/11/2026-world-cup-european-qualifiers-why.html) <br/>
+[2025/11/16 - How to Get Up to 300,000 Won in the 2025 Win-Win Payback! Together with Small Business Owners for a WIN-WIN!](https://ai.trend.dmomo.co.kr/2025/11/how-to-get-up-to-300000-won-in-2025-win.html) <br/>
+[2025/11/15 - Can Korea Break the 9-Game Losing Streak Against Japan? A Tactical Analysis of the Tokyo Dome Showdown.](https://ai.trend.dmomo.co.kr/2025/11/can-korea-break-9-game-losing-streak.html) <br/>
+[2025/11/15 - Oregon vs Minnesota CFB Game Analysis: Igniting Playoff Hopes with a Dominant Victory](https://ai.trend.dmomo.co.kr/2025/11/oregon-vs-minnesota-cfb-game-analysis.html) <br/>
+[2025/11/15 - Trump-Clinton Conflict Rekindled: Epstein Investigation and Economic Promises Trust Crisis](https://ai.trend.dmomo.co.kr/2025/11/trump-clinton-conflict-rekindled.html) <br/>
+[2025/11/15 - What’s New in OWASP Top 10 2025? In-Depth Analysis of Two Emerging Security Categories](https://ai.trend.dmomo.co.kr/2025/11/whats-new-in-owasp-top-10-2025-in-depth.html) <br/>
+[2025/11/15 - South Korea vs Bolivia 2-0 Victory: What is the True Significance of Son Heung-min's Free Kick Goal?](https://ai.trend.dmomo.co.kr/2025/11/south-korea-vs-bolivia-2-0-victory-what.html) <br/>
