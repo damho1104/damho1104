@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/11/17 - OWASP Top 10 2025 핵심 변화는? 새로운 보안 카테고리 2가지 집중 분석](https://dmomo.co.kr/759) <br/>
+[2025/11/17 - SEC 역사 새로 쓴 오클라호마, 앨라배마와 충격 대결 전반전 17-14 리드](https://dmomo.co.kr/758) <br/>
+[2025/11/17 - 브라질 2-0 세네갈: 2026 월드컵 향한 전략적 시험대 완벽 분석](https://dmomo.co.kr/757) <br/>
 [2025/11/13 - GPT-5.1의 적응형 추론, AI 성능과 응답 속도는 어떻게 달라졌나?](https://dmomo.co.kr/756) <br/>
 [2025/11/13 - 뉴진스 어도어 복귀 결정! 348일 만의 극적 화해 전말은?](https://dmomo.co.kr/755) <br/>
 [2025/11/12 - 뉴진스 해린&middot;혜인 어도어 복귀 결정! 남은 3명 멤버의 선택은?](https://dmomo.co.kr/754) <br/>
-[2025/11/10 - 미국 역대 최장 40일 셧다운 종료, 충격적인 3가지 합의 내용](https://dmomo.co.kr/753) <br/>
-[2025/11/07 - Marshawn Kneeland 사망설은 가짜! NFL 신인의 진실과 Death Hoax 실체](https://dmomo.co.kr/752) <br/>
-[2025/11/07 - 박미선 유방암 극복 후 10개월 만의 생존신고, 가짜뉴스에 일침](https://dmomo.co.kr/751) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/16 - [뉴스] “악당 손에 들어갈 줄 알았지”…알아도 못잡는 해킹 신무기 된 ‘이것’](https://blog.ai.dmomo.co.kr/news/13994) <br/>
-[2025/11/16 - [뉴스] 과일계의 에르메스라더니…5년 만에 가격 3분의 1로 추락](https://blog.ai.dmomo.co.kr/news/13991) <br/>
-[2025/11/16 - 2025 상생페이백 최대 30만원 받는 법! 소상공인과 함께 WIN-WIN](https://blog.ai.dmomo.co.kr/trend/13988) <br/>
-[2025/11/15 - [뉴스] “세금 아까워 네 나라로 돌아가” 현관문에 붙은 쪽지…일본 반이민 정서 논란](https://blog.ai.dmomo.co.kr/news/13985) <br/>
-[2025/11/15 - [뉴스] 지드래곤 음악에 불꽃 터지니…117만명 우루루](https://blog.ai.dmomo.co.kr/news/13982) <br/>
-[2025/11/15 - [뉴스] 한국보다 일본서 더 난리…10년 만에 대박 기회 왔다](https://blog.ai.dmomo.co.kr/news/13979) <br/>
+[2025/11/17 - [뉴스] “전임자는 위인전 나오고 회사 10배 키웠는데”…후임 이 남자 부담 어쩌나](https://blog.ai.dmomo.co.kr/news/14060) <br/>
+[2025/11/17 - [뉴스] AI도 사고 책임져라 오토파일럿 사고가 연 새 기준](https://blog.ai.dmomo.co.kr/news/14057) <br/>
+[2025/11/17 - [뉴스] 갑자기 강남에 열린 무료 명화전…서울옥션이 던진 승부수](https://blog.ai.dmomo.co.kr/news/14054) <br/>
+[2025/11/16 - [뉴스] 루브르 박물관 보안 수준, 정말 이정도야?…이번엔 틱톡커들이 뚫었다](https://blog.ai.dmomo.co.kr/news/14051) <br/>
+[2025/11/16 - [뉴스] 장원영도 즐겨 먹는대…요즘 난리난 두바이 쫀득쿠키](https://blog.ai.dmomo.co.kr/news/14048) <br/>
+[2025/11/16 - [뉴스] AI거품 논란에도 버핏은 베팅 … 엔비디아 실적 ‘분수령’](https://blog.ai.dmomo.co.kr/news/14045) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/11/16 - Aion 2 Complete Guide: Everything About the MMORPG Legend Returning After 16 Years](https://ai.trend.dmomo.co.kr/2025/11/aion-2-complete-guide-everything-about.html) <br/>
+[2025/11/16 - UFC 322 Shocking Results! Islam Makhachev's Double Champ Challenge and the Dawn of the Belal Muhammad Era](https://ai.trend.dmomo.co.kr/2025/11/ufc-322-shocking-results-islam.html) <br/>
+[2025/11/16 - Oklahoma Makes History in the SEC, Shocking Alabama with a 17-14 Lead at Halftime](https://ai.trend.dmomo.co.kr/2025/11/oklahoma-makes-history-in-sec-shocking.html) <br/>
+[2025/11/16 - Top 3 Breakthrough AI Infrastructure Technologies in 2025 and Their Impact on Industry: A Complete Analysis](https://ai.trend.dmomo.co.kr/2025/11/top-3-breakthrough-ai-infrastructure.html) <br/>
+[2025/11/16 - Brazil 2-0 Senegal: A Perfect Analysis of Strategic Testing for the 2026 World Cup](https://ai.trend.dmomo.co.kr/2025/11/brazil-2-0-senegal-perfect-analysis-of.html) <br/>
 [2025/11/16 - How to Get Up to 300,000 Won in the 2025 Win-Win Payback! Together with Small Business Owners for a WIN-WIN!](https://ai.trend.dmomo.co.kr/2025/11/how-to-get-up-to-300000-won-in-2025-win.html) <br/>
-[2025/11/15 - Can Korea Break the 9-Game Losing Streak Against Japan? A Tactical Analysis of the Tokyo Dome Showdown.](https://ai.trend.dmomo.co.kr/2025/11/can-korea-break-9-game-losing-streak.html) <br/>
-[2025/11/15 - Oregon vs Minnesota CFB Game Analysis: Igniting Playoff Hopes with a Dominant Victory](https://ai.trend.dmomo.co.kr/2025/11/oregon-vs-minnesota-cfb-game-analysis.html) <br/>
-[2025/11/15 - Trump-Clinton Conflict Rekindled: Epstein Investigation and Economic Promises Trust Crisis](https://ai.trend.dmomo.co.kr/2025/11/trump-clinton-conflict-rekindled.html) <br/>
-[2025/11/15 - What’s New in OWASP Top 10 2025? In-Depth Analysis of Two Emerging Security Categories](https://ai.trend.dmomo.co.kr/2025/11/whats-new-in-owasp-top-10-2025-in-depth.html) <br/>
-[2025/11/15 - South Korea vs Bolivia 2-0 Victory: What is the True Significance of Son Heung-min's Free Kick Goal?](https://ai.trend.dmomo.co.kr/2025/11/south-korea-vs-bolivia-2-0-victory-what.html) <br/>
