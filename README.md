@@ -88,17 +88,17 @@
 [2025/11/12 - 뉴진스 해린&middot;혜인 어도어 복귀 결정! 남은 3명 멤버의 선택은?](https://dmomo.co.kr/754) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/17 - [뉴스] “전임자는 위인전 나오고 회사 10배 키웠는데”…후임 이 남자 부담 어쩌나](https://blog.ai.dmomo.co.kr/news/14060) <br/>
-[2025/11/17 - [뉴스] AI도 사고 책임져라 오토파일럿 사고가 연 새 기준](https://blog.ai.dmomo.co.kr/news/14057) <br/>
-[2025/11/17 - [뉴스] 갑자기 강남에 열린 무료 명화전…서울옥션이 던진 승부수](https://blog.ai.dmomo.co.kr/news/14054) <br/>
-[2025/11/16 - [뉴스] 루브르 박물관 보안 수준, 정말 이정도야?…이번엔 틱톡커들이 뚫었다](https://blog.ai.dmomo.co.kr/news/14051) <br/>
-[2025/11/16 - [뉴스] 장원영도 즐겨 먹는대…요즘 난리난 두바이 쫀득쿠키](https://blog.ai.dmomo.co.kr/news/14048) <br/>
-[2025/11/16 - [뉴스] AI거품 논란에도 버핏은 베팅 … 엔비디아 실적 ‘분수령’](https://blog.ai.dmomo.co.kr/news/14045) <br/>
+[2025/11/18 - [뉴스] “승부차기 하는데 주술행위”…월드컵 본선 좌절된 이 나라 감독의 분노](https://blog.ai.dmomo.co.kr/news/14132) <br/>
+[2025/11/18 - [뉴스] K-배드민턴 황금기 이끈 안세영…출연연 기술사업화 뒷받침](https://blog.ai.dmomo.co.kr/news/14129) <br/>
+[2025/11/18 - [뉴스] 심정지 김수용, 귓볼에서 발견된 선명한 프랭크 징후](https://blog.ai.dmomo.co.kr/news/14126) <br/>
+[2025/11/18 - [뉴스] 50년 모기지·전국민 300만원 배당…민심 달래기에 바쁜 트럼프](https://blog.ai.dmomo.co.kr/news/14123) <br/>
+[2025/11/17 - [뉴스] 다카이치 발언에 성난 중국…15년만에 희토류 통제카드 만지작](https://blog.ai.dmomo.co.kr/news/14120) <br/>
+[2025/11/17 - [뉴스] 김치 배추 국제식품 규격에 추가…김치 종주국 위상 굳혔다](https://blog.ai.dmomo.co.kr/news/14117) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/11/16 - Aion 2 Complete Guide: Everything About the MMORPG Legend Returning After 16 Years](https://ai.trend.dmomo.co.kr/2025/11/aion-2-complete-guide-everything-about.html) <br/>
-[2025/11/16 - UFC 322 Shocking Results! Islam Makhachev's Double Champ Challenge and the Dawn of the Belal Muhammad Era](https://ai.trend.dmomo.co.kr/2025/11/ufc-322-shocking-results-islam.html) <br/>
-[2025/11/16 - Oklahoma Makes History in the SEC, Shocking Alabama with a 17-14 Lead at Halftime](https://ai.trend.dmomo.co.kr/2025/11/oklahoma-makes-history-in-sec-shocking.html) <br/>
-[2025/11/16 - Top 3 Breakthrough AI Infrastructure Technologies in 2025 and Their Impact on Industry: A Complete Analysis](https://ai.trend.dmomo.co.kr/2025/11/top-3-breakthrough-ai-infrastructure.html) <br/>
-[2025/11/16 - Brazil 2-0 Senegal: A Perfect Analysis of Strategic Testing for the 2026 World Cup](https://ai.trend.dmomo.co.kr/2025/11/brazil-2-0-senegal-perfect-analysis-of.html) <br/>
-[2025/11/16 - How to Get Up to 300,000 Won in the 2025 Win-Win Payback! Together with Small Business Owners for a WIN-WIN!](https://ai.trend.dmomo.co.kr/2025/11/how-to-get-up-to-300000-won-in-2025-win.html) <br/>
+[2025/11/17 - LCK Goddess Yoon Soo-bin Announces Wedding in December! Is Her Fiancé a Fan Three Years Older?](https://ai.trend.dmomo.co.kr/2025/11/lck-goddess-yoon-soo-bin-announces.html) <br/>
+[2025/11/17 - 2025 NFL Lions vs Eagles: NFC Championship Preview of the 16-9 Defensive Battle](https://ai.trend.dmomo.co.kr/2025/11/2025-nfl-lions-vs-eagles-nfc.html) <br/>
+[2025/11/17 - The Identity of Aero K Airlines: The Secret of In-Flight Reading Service with Toss](https://ai.trend.dmomo.co.kr/2025/11/the-identity-of-aero-k-airlines-secret.html) <br/>
+[2025/11/17 - 5 Key Features of Chungbuk's Hybrid Blockchain Technology Leading Logistics Innovation in 2025](https://ai.trend.dmomo.co.kr/2025/11/5-key-features-of-chungbuks-hybrid.html) <br/>
+[2025/11/17 - Week 11 Game Deep Dive: 49ers vs. Cardinals - A Clash that Shaped the Fate of the NFC West Division](https://ai.trend.dmomo.co.kr/2025/11/week-11-game-deep-dive-49ers-vs.html) <br/>
+[2025/11/17 - Holland's Multi-Goal Explosion! Norway Secures World Cup Qualification After 28 Years](https://ai.trend.dmomo.co.kr/2025/11/hollands-multi-goal-explosion-norway.html) <br/>
