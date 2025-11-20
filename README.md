@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/11/19 - 클라우드플레어 대규모 장애: 인터넷이 멈춘 날의 진실과 교훈](https://dmomo.co.kr/763) <br/>
+[2025/11/19 - 가나 감독 폭탄 발언 '일본은 높은 레벨, 한국은 그 정도 아냐](https://dmomo.co.kr/762) <br/>
+[2025/11/19 - 구마유시 T1 이적 충격: 월드컵 MVP가 한화생명 선택한 진짜 이유](https://dmomo.co.kr/761) <br/>
+[2025/11/19 - 클라우드플레어 대규모 장애: 전 세계 인터넷이 마비된 충격적인 24시간](https://dmomo.co.kr/760) <br/>
 [2025/11/17 - OWASP Top 10 2025 핵심 변화는? 새로운 보안 카테고리 2가지 집중 분석](https://dmomo.co.kr/759) <br/>
 [2025/11/17 - SEC 역사 새로 쓴 오클라호마, 앨라배마와 충격 대결 전반전 17-14 리드](https://dmomo.co.kr/758) <br/>
-[2025/11/17 - 브라질 2-0 세네갈: 2026 월드컵 향한 전략적 시험대 완벽 분석](https://dmomo.co.kr/757) <br/>
-[2025/11/13 - GPT-5.1의 적응형 추론, AI 성능과 응답 속도는 어떻게 달라졌나?](https://dmomo.co.kr/756) <br/>
-[2025/11/13 - 뉴진스 어도어 복귀 결정! 348일 만의 극적 화해 전말은?](https://dmomo.co.kr/755) <br/>
-[2025/11/12 - 뉴진스 해린&middot;혜인 어도어 복귀 결정! 남은 3명 멤버의 선택은?](https://dmomo.co.kr/754) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/19 - [뉴스] 엔비디아 실적 발표 D-1, 뉴욕증시는 일제히 하락 마감 [월가월부]](https://blog.ai.dmomo.co.kr/news/14192) <br/>
-[2025/11/19 - [뉴스] 스텔스 도료 냄새까지 기밀…美 핵 안보 책임질 B-21 레이더](https://blog.ai.dmomo.co.kr/news/14189) <br/>
-[2025/11/19 - [뉴스] 수요일 아침도 꽁꽁…강한바람에 체감기온 영하권으로 뚝](https://blog.ai.dmomo.co.kr/news/14186) <br/>
-[2025/11/18 - [뉴스] [인기검색TOP5] 재영솔루텍, 노랑풍선, 미래나노텍, 한국전력, 한국항공우주](https://blog.ai.dmomo.co.kr/news/14183) <br/>
-[2025/11/18 - [뉴스] 증시 빚투 열풍에…예금담보대출 6兆 돌파](https://blog.ai.dmomo.co.kr/news/14180) <br/>
-[2025/11/18 - [뉴스] 용인에 반도체 新공장 10개…당장 원전 여러개 지어도 전기부족](https://blog.ai.dmomo.co.kr/news/14177) <br/>
+[2025/11/20 - [뉴스] 일본서 30대 한국인, 부모 살해 혐의로 체포…“내가 죽였다”고 신고](https://blog.ai.dmomo.co.kr/news/14267) <br/>
+[2025/11/20 - [뉴스] 괴테의 식물 사랑, 르누아르의 터치…몽블랑이 새긴 예술가의 혼](https://blog.ai.dmomo.co.kr/news/14264) <br/>
+[2025/11/19 - [뉴스] 팽팽한 피부·풍만한 입술…성형 트렌드까지 바꾼 트럼프](https://blog.ai.dmomo.co.kr/news/14261) <br/>
+[2025/11/19 - [뉴스] 글로벌 펀드매니저 절반 “최대 리스크는 AI버블”…구글 CEO도 긴장](https://blog.ai.dmomo.co.kr/news/14258) <br/>
+[2025/11/19 - [뉴스] 비트코인 하락에 최대 비트코인 ETF서 하루새 5억달러 인출](https://blog.ai.dmomo.co.kr/news/14255) <br/>
+[2025/11/19 - [뉴스] 집에 이것 있다면 치워야… 다른 전자기기 먹통 만들 수도](https://blog.ai.dmomo.co.kr/news/14252) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/11/18 - The Shocking Transfer of Gumayusi to T1: The Real Reason Behind the World Cup MVP Choosing Hanwha Life](https://ai.trend.dmomo.co.kr/2025/11/the-shocking-transfer-of-gumayusi-to-t1.html) <br/>
-[2025/11/18 - Reinterpreting American Cowboy Identity: Latest Trends from the NFL to Black History in 2025](https://ai.trend.dmomo.co.kr/2025/11/reinterpreting-american-cowboy-identity.html) <br/>
-[2025/11/18 - What Are the Innovations and Future Prospects of the 2025 Latest Google AI Edge SDK and Gemini Nano Technology?](https://ai.trend.dmomo.co.kr/2025/11/what-are-innovations-and-future.html) <br/>
-[2025/11/18 - 2025 Game Awards Nominees Revealed: A Major Turning Point for the U.S. Gaming Industry](https://ai.trend.dmomo.co.kr/2025/11/2025-game-awards-nominees-revealed.html) <br/>
-[2025/11/18 - The Departure of Gumayusi from T1: The Shocking Exit of the 3-Time MVP and the Truth Behind the Controversy](https://ai.trend.dmomo.co.kr/2025/11/the-departure-of-gumayusi-from-t1.html) <br/>
-[2025/11/17 - LCK Goddess Yoon Soo-bin Announces Wedding in December! Is Her Fiancé a Fan Three Years Older?](https://ai.trend.dmomo.co.kr/2025/11/lck-goddess-yoon-soo-bin-announces.html) <br/>
+[2025/11/19 - Cloudflare Outage: The Truth and Lessons from the Day the Internet Stopped](https://ai.trend.dmomo.co.kr/2025/11/cloudflare-outage-truth-and-lessons.html) <br/>
+[2025/11/19 - LeBron James' 23rd Season Opener: Lakers Dominate Jazz 140-126](https://ai.trend.dmomo.co.kr/2025/11/lebron-james-23rd-season-opener-lakers.html) <br/>
+[2025/11/19 - The Shocking Reason Clay Higgins Stood Alone Against the Epstein Files Release](https://ai.trend.dmomo.co.kr/2025/11/the-shocking-reason-clay-higgins-stood.html) <br/>
+[2025/11/19 - What AI-Driven Low-Code Platforms and Future Work Automation Strategies Will Revolutionize in 2025?](https://ai.trend.dmomo.co.kr/2025/11/what-ai-driven-low-code-platforms-and.html) <br/>
+[2025/11/19 - Ghana Coach's Bombshell Statement: 'Japan is at a High Level, Korea is Not on That Level'](https://ai.trend.dmomo.co.kr/2025/11/ghana-coachs-bombshell-statement-japan.html) <br/>
+[2025/11/19 - Cloudflare Major Outage: A Shocking 24 Hours of Global Internet Disruption](https://ai.trend.dmomo.co.kr/2025/11/cloudflare-major-outage-shocking-24.html) <br/>
