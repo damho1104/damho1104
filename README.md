@@ -88,17 +88,17 @@
 [2025/11/17 - SEC 역사 새로 쓴 오클라호마, 앨라배마와 충격 대결 전반전 17-14 리드](https://dmomo.co.kr/758) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/20 - [뉴스] 일본서 30대 한국인, 부모 살해 혐의로 체포…“내가 죽였다”고 신고](https://blog.ai.dmomo.co.kr/news/14267) <br/>
-[2025/11/20 - [뉴스] 괴테의 식물 사랑, 르누아르의 터치…몽블랑이 새긴 예술가의 혼](https://blog.ai.dmomo.co.kr/news/14264) <br/>
-[2025/11/19 - [뉴스] 팽팽한 피부·풍만한 입술…성형 트렌드까지 바꾼 트럼프](https://blog.ai.dmomo.co.kr/news/14261) <br/>
-[2025/11/19 - [뉴스] 글로벌 펀드매니저 절반 “최대 리스크는 AI버블”…구글 CEO도 긴장](https://blog.ai.dmomo.co.kr/news/14258) <br/>
-[2025/11/19 - [뉴스] 비트코인 하락에 최대 비트코인 ETF서 하루새 5억달러 인출](https://blog.ai.dmomo.co.kr/news/14255) <br/>
-[2025/11/19 - [뉴스] 집에 이것 있다면 치워야… 다른 전자기기 먹통 만들 수도](https://blog.ai.dmomo.co.kr/news/14252) <br/>
+[2025/11/21 - [뉴스] 이 대통령, 2박 3일 이집트 일정 마무리…남아공 G20 정상회의 참석](https://blog.ai.dmomo.co.kr/news/14345) <br/>
+[2025/11/21 - [뉴스] AI 거품론 정면 반박 젠슨 황…AI 인프라 회사들도 일제히 버블 아니에요](https://blog.ai.dmomo.co.kr/news/14342) <br/>
+[2025/11/21 - [뉴스] 1억5000만원은 쓰셔야 합니다…백화점 VIP 문턱, 높아졌다](https://blog.ai.dmomo.co.kr/news/14339) <br/>
+[2025/11/21 - [뉴스] 美연준 위원 다수 “12월 금리동결 적절”](https://blog.ai.dmomo.co.kr/news/14336) <br/>
+[2025/11/20 - [뉴스] “파월 못말리면 베선트도 해고” 트럼프 협박에도…연준 금리동결 무게](https://blog.ai.dmomo.co.kr/news/14333) <br/>
+[2025/11/20 - [뉴스] 국민 72% 감기 치료에 항생제 도움 된다…잘못된 인식](https://blog.ai.dmomo.co.kr/news/14330) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/11/19 - Cloudflare Outage: The Truth and Lessons from the Day the Internet Stopped](https://ai.trend.dmomo.co.kr/2025/11/cloudflare-outage-truth-and-lessons.html) <br/>
-[2025/11/19 - LeBron James' 23rd Season Opener: Lakers Dominate Jazz 140-126](https://ai.trend.dmomo.co.kr/2025/11/lebron-james-23rd-season-opener-lakers.html) <br/>
-[2025/11/19 - The Shocking Reason Clay Higgins Stood Alone Against the Epstein Files Release](https://ai.trend.dmomo.co.kr/2025/11/the-shocking-reason-clay-higgins-stood.html) <br/>
-[2025/11/19 - What AI-Driven Low-Code Platforms and Future Work Automation Strategies Will Revolutionize in 2025?](https://ai.trend.dmomo.co.kr/2025/11/what-ai-driven-low-code-platforms-and.html) <br/>
-[2025/11/19 - Ghana Coach's Bombshell Statement: 'Japan is at a High Level, Korea is Not on That Level'](https://ai.trend.dmomo.co.kr/2025/11/ghana-coachs-bombshell-statement-japan.html) <br/>
-[2025/11/19 - Cloudflare Major Outage: A Shocking 24 Hours of Global Internet Disruption](https://ai.trend.dmomo.co.kr/2025/11/cloudflare-major-outage-shocking-24.html) <br/>
+[2025/11/20 - From Olympic Hero to FBI Fugitive: The Shocking Downfall of Ryan Whiting](https://ai.trend.dmomo.co.kr/2025/11/from-olympic-hero-to-fbi-fugitive.html) <br/>
+[2025/11/20 - Shin Min-a and Kim Woo-bin Tie the Knot After a Decade of Dating! The Goddess of Hometown Cha-Cha-Cha Celebrates 25 Years in Acting](https://ai.trend.dmomo.co.kr/2025/11/shin-min-and-kim-woo-bin-tie-knot-after.html) <br/>
+[2025/11/20 - Warriors' Four Key Players Miss Game, Suffering Shocking 110-96 Loss to Miami Heat](https://ai.trend.dmomo.co.kr/2025/11/warriors-four-key-players-miss-game.html) <br/>
+[2025/11/20 - The Truth and Controversies Surrounding KBO Star Kang Baek-ho's 10 Billion Won Contract Move to Hanwha](https://ai.trend.dmomo.co.kr/2025/11/the-truth-and-controversies-surrounding.html) <br/>
+[2025/11/20 - NVIDIA's Q3 Earnings Surge: AI Chip Demand Soars Off the Charts, What's the Stock Outlook?](https://ai.trend.dmomo.co.kr/2025/11/nvidias-q3-earnings-surge-ai-chip.html) <br/>
+[2025/11/20 - CES 2026 Reveals 5 Key Trends in Physical AI Innovation for 2026](https://ai.trend.dmomo.co.kr/2025/11/ces-2026-reveals-5-key-trends-in.html) <br/>
