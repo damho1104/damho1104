@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/11/21 - 엔비디아 어닝 서프라이즈, AI 버블론 잠재운 570억 달러 실적 분석](https://dmomo.co.kr/765) <br/>
+[2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 [2025/11/19 - 클라우드플레어 대규모 장애: 인터넷이 멈춘 날의 진실과 교훈](https://dmomo.co.kr/763) <br/>
 [2025/11/19 - 가나 감독 폭탄 발언 '일본은 높은 레벨, 한국은 그 정도 아냐](https://dmomo.co.kr/762) <br/>
 [2025/11/19 - 구마유시 T1 이적 충격: 월드컵 MVP가 한화생명 선택한 진짜 이유](https://dmomo.co.kr/761) <br/>
 [2025/11/19 - 클라우드플레어 대규모 장애: 전 세계 인터넷이 마비된 충격적인 24시간](https://dmomo.co.kr/760) <br/>
-[2025/11/17 - OWASP Top 10 2025 핵심 변화는? 새로운 보안 카테고리 2가지 집중 분석](https://dmomo.co.kr/759) <br/>
-[2025/11/17 - SEC 역사 새로 쓴 오클라호마, 앨라배마와 충격 대결 전반전 17-14 리드](https://dmomo.co.kr/758) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/21 - [뉴스] 이 대통령, 2박 3일 이집트 일정 마무리…남아공 G20 정상회의 참석](https://blog.ai.dmomo.co.kr/news/14345) <br/>
-[2025/11/21 - [뉴스] AI 거품론 정면 반박 젠슨 황…AI 인프라 회사들도 일제히 버블 아니에요](https://blog.ai.dmomo.co.kr/news/14342) <br/>
-[2025/11/21 - [뉴스] 1억5000만원은 쓰셔야 합니다…백화점 VIP 문턱, 높아졌다](https://blog.ai.dmomo.co.kr/news/14339) <br/>
-[2025/11/21 - [뉴스] 美연준 위원 다수 “12월 금리동결 적절”](https://blog.ai.dmomo.co.kr/news/14336) <br/>
-[2025/11/20 - [뉴스] “파월 못말리면 베선트도 해고” 트럼프 협박에도…연준 금리동결 무게](https://blog.ai.dmomo.co.kr/news/14333) <br/>
-[2025/11/20 - [뉴스] 국민 72% 감기 치료에 항생제 도움 된다…잘못된 인식](https://blog.ai.dmomo.co.kr/news/14330) <br/>
+[2025/11/22 - [뉴스] “당신 떠날때 나도, 그때까지 조용히해 돼지야”…트럼프에 막말한 이 남자](https://blog.ai.dmomo.co.kr/news/14417) <br/>
+[2025/11/22 - [뉴스] 남편 구하려면 침실로 들어와…300억원 스타의 기막힌 운명](https://blog.ai.dmomo.co.kr/news/14414) <br/>
+[2025/11/22 - [뉴스] 백악관 “우크라 종전안, 모두에게 좋아”…푸틴은 보란듯 ‘군복 행차’](https://blog.ai.dmomo.co.kr/news/14411) <br/>
+[2025/11/21 - [뉴스] “우리 만남은 운명”…‘손흥민-메시’ 7년만에 대결, 미국도 한국도 벌써부터 들썩](https://blog.ai.dmomo.co.kr/news/14408) <br/>
+[2025/11/21 - [뉴스] 성수동에 500평짜리 옷장 차린 W컨셉…온라인 숏폼을 현실로’](https://blog.ai.dmomo.co.kr/news/14405) <br/>
+[2025/11/21 - 나노바나나 AI가 포토샵을 대체하는 5가지 혁신 기능](https://blog.ai.dmomo.co.kr/trend/14402) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/11/20 - From Olympic Hero to FBI Fugitive: The Shocking Downfall of Ryan Whiting](https://ai.trend.dmomo.co.kr/2025/11/from-olympic-hero-to-fbi-fugitive.html) <br/>
-[2025/11/20 - Shin Min-a and Kim Woo-bin Tie the Knot After a Decade of Dating! The Goddess of Hometown Cha-Cha-Cha Celebrates 25 Years in Acting](https://ai.trend.dmomo.co.kr/2025/11/shin-min-and-kim-woo-bin-tie-knot-after.html) <br/>
-[2025/11/20 - Warriors' Four Key Players Miss Game, Suffering Shocking 110-96 Loss to Miami Heat](https://ai.trend.dmomo.co.kr/2025/11/warriors-four-key-players-miss-game.html) <br/>
-[2025/11/20 - The Truth and Controversies Surrounding KBO Star Kang Baek-ho's 10 Billion Won Contract Move to Hanwha](https://ai.trend.dmomo.co.kr/2025/11/the-truth-and-controversies-surrounding.html) <br/>
-[2025/11/20 - NVIDIA's Q3 Earnings Surge: AI Chip Demand Soars Off the Charts, What's the Stock Outlook?](https://ai.trend.dmomo.co.kr/2025/11/nvidias-q3-earnings-surge-ai-chip.html) <br/>
-[2025/11/20 - CES 2026 Reveals 5 Key Trends in Physical AI Innovation for 2026](https://ai.trend.dmomo.co.kr/2025/11/ces-2026-reveals-5-key-trends-in.html) <br/>
+[2025/11/21 - 5 Innovative Features of Nanobanana AI that Replace Photoshop](https://ai.trend.dmomo.co.kr/2025/11/5-innovative-features-of-nanobanana-ai.html) <br/>
+[2025/11/21 - Ultimate Guide to American Bills: From Legislation to NFL - Latest Trends for 2025](https://ai.trend.dmomo.co.kr/2025/11/ultimate-guide-to-american-bills-from.html) <br/>
+[2025/11/21 - Nanobanana Complete Guide: 7 Breakthrough Technologies Powering Google AI Image Generation](https://ai.trend.dmomo.co.kr/2025/11/nanobanana-complete-guide-7.html) <br/>
+[2025/11/21 - Texas Defense Sinks Josh Allen 8 Times, Overcoming the Bills! Analysis of the NFL Upset现场分析](https://ai.trend.dmomo.co.kr/2025/11/texas-defense-sinks-josh-allen-8-times.html) <br/>
+[2025/11/21 - 10-Millisecond Mega-Other Blockchain: The Secret to Web2-Level Speed and Its Future Prospects](https://ai.trend.dmomo.co.kr/2025/11/10-millisecond-mega-other-blockchain.html) <br/>
+[2025/11/21 - Hunger Games Prequel 'Sunrise on the Reaping' Trailer Released! Haimeach's Shocking Past](https://ai.trend.dmomo.co.kr/2025/11/hunger-games-prequel-sunrise-on-reaping.html) <br/>
