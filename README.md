@@ -88,17 +88,17 @@
 [2025/11/19 - 클라우드플레어 대규모 장애: 전 세계 인터넷이 마비된 충격적인 24시간](https://dmomo.co.kr/760) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/22 - [뉴스] “당신 떠날때 나도, 그때까지 조용히해 돼지야”…트럼프에 막말한 이 남자](https://blog.ai.dmomo.co.kr/news/14417) <br/>
-[2025/11/22 - [뉴스] 남편 구하려면 침실로 들어와…300억원 스타의 기막힌 운명](https://blog.ai.dmomo.co.kr/news/14414) <br/>
-[2025/11/22 - [뉴스] 백악관 “우크라 종전안, 모두에게 좋아”…푸틴은 보란듯 ‘군복 행차’](https://blog.ai.dmomo.co.kr/news/14411) <br/>
-[2025/11/21 - [뉴스] “우리 만남은 운명”…‘손흥민-메시’ 7년만에 대결, 미국도 한국도 벌써부터 들썩](https://blog.ai.dmomo.co.kr/news/14408) <br/>
-[2025/11/21 - [뉴스] 성수동에 500평짜리 옷장 차린 W컨셉…온라인 숏폼을 현실로’](https://blog.ai.dmomo.co.kr/news/14405) <br/>
-[2025/11/21 - 나노바나나 AI가 포토샵을 대체하는 5가지 혁신 기능](https://blog.ai.dmomo.co.kr/trend/14402) <br/>
+[2025/11/23 - [뉴스] 카톡 친구탭 내달 부활…개편 석 달 만에 원상복구](https://blog.ai.dmomo.co.kr/news/14465) <br/>
+[2025/11/22 - [뉴스] “엄마보다 나이 많다”…32살 연상 60세 남편 소개한 최연소 백악관 대변인](https://blog.ai.dmomo.co.kr/news/14462) <br/>
+[2025/11/22 - [뉴스] 로또 1199회 당첨번호 16, 24, 25, 30, 31, 32…보너스 7](https://blog.ai.dmomo.co.kr/news/14459) <br/>
+[2025/11/22 - 포항 vs 전북 시즌 최종전: 홈 피날레 승리냐, 더블 달성이냐?](https://blog.ai.dmomo.co.kr/trend/14456) <br/>
+[2025/11/22 - [뉴스] 돈 대주고 칩 파는 엔비디아…윈윈인가 버블인가](https://blog.ai.dmomo.co.kr/news/14453) <br/>
+[2025/11/22 - [뉴스] 박미선·임하룡도 축하 전화…신봉선·유민상, 직접 해명 나섰다](https://blog.ai.dmomo.co.kr/news/14450) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/11/22 - Pohang vs Jeonbuk Season Finale: Home Victory or Double Achievement?](https://ai.trend.dmomo.co.kr/2025/11/pohang-vs-jeonbuk-season-finale-home.html) <br/>
+[2025/11/22 - Majority Taylor Greene's Shocking Resignation! What’s the Real Reason Shaking Up American Politics?](https://ai.trend.dmomo.co.kr/2025/11/majority-taylor-greenes-shocking.html) <br/>
+[2025/11/22 - Dramatic Reconciliation Between Trump and Momdani? The Truth Behind the Power Game for Survival in NYC](https://ai.trend.dmomo.co.kr/2025/11/dramatic-reconciliation-between-trump.html) <br/>
+[2025/11/22 - Busan Eco-Delta Smart City 2025: Innovating the Future with IoT and AI](https://ai.trend.dmomo.co.kr/2025/11/busan-eco-delta-smart-city-2025.html) <br/>
+[2025/11/22 - Lee Yi-kyung's Personal Life Rumor Controversy: A Complete Summary From Departure of 'Amazing Saturday' to Legal Action](https://ai.trend.dmomo.co.kr/2025/11/lee-yi-kyungs-personal-life-rumor.html) <br/>
 [2025/11/21 - 5 Innovative Features of Nanobanana AI that Replace Photoshop](https://ai.trend.dmomo.co.kr/2025/11/5-innovative-features-of-nanobanana-ai.html) <br/>
-[2025/11/21 - Ultimate Guide to American Bills: From Legislation to NFL - Latest Trends for 2025](https://ai.trend.dmomo.co.kr/2025/11/ultimate-guide-to-american-bills-from.html) <br/>
-[2025/11/21 - Nanobanana Complete Guide: 7 Breakthrough Technologies Powering Google AI Image Generation](https://ai.trend.dmomo.co.kr/2025/11/nanobanana-complete-guide-7.html) <br/>
-[2025/11/21 - Texas Defense Sinks Josh Allen 8 Times, Overcoming the Bills! Analysis of the NFL Upset现场分析](https://ai.trend.dmomo.co.kr/2025/11/texas-defense-sinks-josh-allen-8-times.html) <br/>
-[2025/11/21 - 10-Millisecond Mega-Other Blockchain: The Secret to Web2-Level Speed and Its Future Prospects](https://ai.trend.dmomo.co.kr/2025/11/10-millisecond-mega-other-blockchain.html) <br/>
-[2025/11/21 - Hunger Games Prequel 'Sunrise on the Reaping' Trailer Released! Haimeach's Shocking Past](https://ai.trend.dmomo.co.kr/2025/11/hunger-games-prequel-sunrise-on-reaping.html) <br/>
