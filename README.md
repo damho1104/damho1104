@@ -88,17 +88,17 @@
 [2025/11/19 - 클라우드플레어 대규모 장애: 전 세계 인터넷이 마비된 충격적인 24시간](https://dmomo.co.kr/760) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/23 - [뉴스] 카톡 친구탭 내달 부활…개편 석 달 만에 원상복구](https://blog.ai.dmomo.co.kr/news/14465) <br/>
-[2025/11/22 - [뉴스] “엄마보다 나이 많다”…32살 연상 60세 남편 소개한 최연소 백악관 대변인](https://blog.ai.dmomo.co.kr/news/14462) <br/>
-[2025/11/22 - [뉴스] 로또 1199회 당첨번호 16, 24, 25, 30, 31, 32…보너스 7](https://blog.ai.dmomo.co.kr/news/14459) <br/>
-[2025/11/22 - 포항 vs 전북 시즌 최종전: 홈 피날레 승리냐, 더블 달성이냐?](https://blog.ai.dmomo.co.kr/trend/14456) <br/>
-[2025/11/22 - [뉴스] 돈 대주고 칩 파는 엔비디아…윈윈인가 버블인가](https://blog.ai.dmomo.co.kr/news/14453) <br/>
-[2025/11/22 - [뉴스] 박미선·임하룡도 축하 전화…신봉선·유민상, 직접 해명 나섰다](https://blog.ai.dmomo.co.kr/news/14450) <br/>
+[2025/11/24 - [뉴스] 중일간 예민한 시기에…대만 가까운 최전방 부대 방문한 일본 방위상](https://blog.ai.dmomo.co.kr/news/14534) <br/>
+[2025/11/24 - [뉴스] 시진핑이 인민복 입고 사열…딥시크가 中 전투기 편대 지휘](https://blog.ai.dmomo.co.kr/news/14531) <br/>
+[2025/11/24 - [뉴스] 이경실 4번이지만 품질좋다 주장, 좋은 계란 기준은…](https://blog.ai.dmomo.co.kr/news/14528) <br/>
+[2025/11/23 - [뉴스] “성범죄 악용 우려”…호주 이어 말레이도 아동·청소년 SNS 차단](https://blog.ai.dmomo.co.kr/news/14525) <br/>
+[2025/11/23 - [뉴스] 이광수부터 정일우까지…한국 스타들 베트남行 이유 있었네](https://blog.ai.dmomo.co.kr/news/14522) <br/>
+[2025/11/23 - [뉴스] 발목 인대 끊어졌는데 깜짝…6조 예고된 웨어러블 로봇 시장](https://blog.ai.dmomo.co.kr/news/14519) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/11/23 - MLS Cup Quarterfinals: Son Heung-min's Back-to-Back Goals vs. Thomas Müller's Vancouver, A Fateful 90 Minutes](https://ai.trend.dmomo.co.kr/2025/11/mls-cup-quarterfinals-son-heung-mins.html) <br/>
+[2025/11/23 - In-Depth Analysis of the Revolutionary Google Gemini Nano On-Device AI Technology in 2025](https://ai.trend.dmomo.co.kr/2025/11/in-depth-analysis-of-revolutionary.html) <br/>
+[2025/11/23 - JFK's Granddaughter Tatiana Reveals Terminal Leukemia Battle: 'I Have One Year Left'](https://ai.trend.dmomo.co.kr/2025/11/jfks-granddaughter-tatiana-reveals.html) <br/>
+[2025/11/23 - PSG vs Le Havre: Preview of the Ligue 1 Title Race with Lee Kang-in's Starting Appearance](https://ai.trend.dmomo.co.kr/2025/11/psg-vs-le-havre-preview-of-ligue-1.html) <br/>
 [2025/11/22 - Pohang vs Jeonbuk Season Finale: Home Victory or Double Achievement?](https://ai.trend.dmomo.co.kr/2025/11/pohang-vs-jeonbuk-season-finale-home.html) <br/>
 [2025/11/22 - Majority Taylor Greene's Shocking Resignation! What’s the Real Reason Shaking Up American Politics?](https://ai.trend.dmomo.co.kr/2025/11/majority-taylor-greenes-shocking.html) <br/>
-[2025/11/22 - Dramatic Reconciliation Between Trump and Momdani? The Truth Behind the Power Game for Survival in NYC](https://ai.trend.dmomo.co.kr/2025/11/dramatic-reconciliation-between-trump.html) <br/>
-[2025/11/22 - Busan Eco-Delta Smart City 2025: Innovating the Future with IoT and AI](https://ai.trend.dmomo.co.kr/2025/11/busan-eco-delta-smart-city-2025.html) <br/>
-[2025/11/22 - Lee Yi-kyung's Personal Life Rumor Controversy: A Complete Summary From Departure of 'Amazing Saturday' to Legal Action](https://ai.trend.dmomo.co.kr/2025/11/lee-yi-kyungs-personal-life-rumor.html) <br/>
-[2025/11/21 - 5 Innovative Features of Nanobanana AI that Replace Photoshop](https://ai.trend.dmomo.co.kr/2025/11/5-innovative-features-of-nanobanana-ai.html) <br/>
