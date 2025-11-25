@@ -88,17 +88,17 @@
 [2025/11/19 - 클라우드플레어 대규모 장애: 전 세계 인터넷이 마비된 충격적인 24시간](https://dmomo.co.kr/760) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/24 - [뉴스] 중일간 예민한 시기에…대만 가까운 최전방 부대 방문한 일본 방위상](https://blog.ai.dmomo.co.kr/news/14534) <br/>
-[2025/11/24 - [뉴스] 시진핑이 인민복 입고 사열…딥시크가 中 전투기 편대 지휘](https://blog.ai.dmomo.co.kr/news/14531) <br/>
-[2025/11/24 - [뉴스] 이경실 4번이지만 품질좋다 주장, 좋은 계란 기준은…](https://blog.ai.dmomo.co.kr/news/14528) <br/>
-[2025/11/23 - [뉴스] “성범죄 악용 우려”…호주 이어 말레이도 아동·청소년 SNS 차단](https://blog.ai.dmomo.co.kr/news/14525) <br/>
-[2025/11/23 - [뉴스] 이광수부터 정일우까지…한국 스타들 베트남行 이유 있었네](https://blog.ai.dmomo.co.kr/news/14522) <br/>
-[2025/11/23 - [뉴스] 발목 인대 끊어졌는데 깜짝…6조 예고된 웨어러블 로봇 시장](https://blog.ai.dmomo.co.kr/news/14519) <br/>
+[2025/11/25 - [뉴스] “AI가 틀려도 결국 책임은 내 몫”…부정확한 정보에 손절하는 이 업계](https://blog.ai.dmomo.co.kr/news/14597) <br/>
+[2025/11/25 - [뉴스] 침묵의 러시아 국경…핀란드, AI 방패로 가드 올렸다](https://blog.ai.dmomo.co.kr/news/14594) <br/>
+[2025/11/25 - [뉴스] 시진핑·트럼프 통화…대만 문제∙우크라 휴전 등 논의](https://blog.ai.dmomo.co.kr/news/14591) <br/>
+[2025/11/24 - [뉴스] ‘쿨러닝’ 주제가 부른 레게 전설 지미 클리프, 폐렴으로 별세](https://blog.ai.dmomo.co.kr/news/14588) <br/>
+[2025/11/24 - [뉴스] 국내 최고가 94억원에 낙찰된 샤갈…미술시장이 꿈틀댄다](https://blog.ai.dmomo.co.kr/news/14585) <br/>
+[2025/11/24 - [뉴스] “지나친 코인런 우려가 혁신 막아”](https://blog.ai.dmomo.co.kr/news/14582) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/11/24 - Baker Mayfield's Shocking Injury! Rams Secure 34-7 Victory to Solidify NFC West Lead](https://ai.trend.dmomo.co.kr/2025/11/baker-mayfields-shocking-injury-rams.html) <br/>
+[2025/11/24 - Shocking Analysis of Shedeur Sanders' NFL Debut! Browns vs Raiders](https://ai.trend.dmomo.co.kr/2025/11/shocking-analysis-of-shedeur-sanders.html) <br/>
+[2025/11/24 - The 2025 Platform Engineering Revolution: How Internal Developer Platforms Are Transforming the Future of Software Infrastructure](https://ai.trend.dmomo.co.kr/2025/11/the-2025-platform-engineering.html) <br/>
+[2025/11/24 - North London Derby Shock! The Secret Behind Arsenal's 4-1 Victory and the Impact of Son Heung-min's Absence](https://ai.trend.dmomo.co.kr/2025/11/north-london-derby-shock-secret-behind.html) <br/>
 [2025/11/23 - MLS Cup Quarterfinals: Son Heung-min's Back-to-Back Goals vs. Thomas Müller's Vancouver, A Fateful 90 Minutes](https://ai.trend.dmomo.co.kr/2025/11/mls-cup-quarterfinals-son-heung-mins.html) <br/>
 [2025/11/23 - In-Depth Analysis of the Revolutionary Google Gemini Nano On-Device AI Technology in 2025](https://ai.trend.dmomo.co.kr/2025/11/in-depth-analysis-of-revolutionary.html) <br/>
-[2025/11/23 - JFK's Granddaughter Tatiana Reveals Terminal Leukemia Battle: 'I Have One Year Left'](https://ai.trend.dmomo.co.kr/2025/11/jfks-granddaughter-tatiana-reveals.html) <br/>
-[2025/11/23 - PSG vs Le Havre: Preview of the Ligue 1 Title Race with Lee Kang-in's Starting Appearance](https://ai.trend.dmomo.co.kr/2025/11/psg-vs-le-havre-preview-of-ligue-1.html) <br/>
-[2025/11/22 - Pohang vs Jeonbuk Season Finale: Home Victory or Double Achievement?](https://ai.trend.dmomo.co.kr/2025/11/pohang-vs-jeonbuk-season-finale-home.html) <br/>
-[2025/11/22 - Majority Taylor Greene's Shocking Resignation! What’s the Real Reason Shaking Up American Politics?](https://ai.trend.dmomo.co.kr/2025/11/majority-taylor-greenes-shocking.html) <br/>
