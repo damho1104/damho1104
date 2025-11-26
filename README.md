@@ -88,17 +88,17 @@
 [2025/11/19 - 클라우드플레어 대규모 장애: 전 세계 인터넷이 마비된 충격적인 24시간](https://dmomo.co.kr/760) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/25 - [뉴스] “AI가 틀려도 결국 책임은 내 몫”…부정확한 정보에 손절하는 이 업계](https://blog.ai.dmomo.co.kr/news/14597) <br/>
-[2025/11/25 - [뉴스] 침묵의 러시아 국경…핀란드, AI 방패로 가드 올렸다](https://blog.ai.dmomo.co.kr/news/14594) <br/>
-[2025/11/25 - [뉴스] 시진핑·트럼프 통화…대만 문제∙우크라 휴전 등 논의](https://blog.ai.dmomo.co.kr/news/14591) <br/>
-[2025/11/24 - [뉴스] ‘쿨러닝’ 주제가 부른 레게 전설 지미 클리프, 폐렴으로 별세](https://blog.ai.dmomo.co.kr/news/14588) <br/>
-[2025/11/24 - [뉴스] 국내 최고가 94억원에 낙찰된 샤갈…미술시장이 꿈틀댄다](https://blog.ai.dmomo.co.kr/news/14585) <br/>
-[2025/11/24 - [뉴스] “지나친 코인런 우려가 혁신 막아”](https://blog.ai.dmomo.co.kr/news/14582) <br/>
+[2025/11/26 - [뉴스] “징역 27년 3개월을 선고한다”…쿠데타 꿈꾼 브라질 전 대통령의 최후](https://blog.ai.dmomo.co.kr/news/14669) <br/>
+[2025/11/26 - [뉴스] 바드 굴욕 2년 만의 대반전…구글, 25년 검색 내공으로 GPT 꺾었다](https://blog.ai.dmomo.co.kr/news/14666) <br/>
+[2025/11/26 - [뉴스] 곧 만나요. 거기서 또 연극해요…故 이순재 빈소 조문 행렬](https://blog.ai.dmomo.co.kr/news/14663) <br/>
+[2025/11/25 - [뉴스] “60만닉스 꿀맛 못잊어” 빚투개미 곡소리…이달 반대매매 2500억](https://blog.ai.dmomo.co.kr/news/14660) <br/>
+[2025/11/25 - [뉴스] 美,9월 소매 판매 0.2%증가…예상보다 더 둔화](https://blog.ai.dmomo.co.kr/news/14656) <br/>
+[2025/11/25 - [뉴스] “관세 부담에도 지출 이어가네”…미국 9월 소매판매 전월대비 0.2%↑](https://blog.ai.dmomo.co.kr/news/14654) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/11/25 - 49ers Playoff Probability Reaches 91.3%, But Facing the Dilemma of 26th Ranked Defense](https://ai.trend.dmomo.co.kr/2025/11/49ers-playoff-probability-reaches-913.html) <br/>
+[2025/11/25 - Analyzing ZetaChain and Bitcoin Native Cross-Chain Innovation Technologies to Watch in 2025](https://ai.trend.dmomo.co.kr/2025/11/analyzing-zetachain-and-bitcoin-native.html) <br/>
+[2025/11/25 - Legend of Korean Dramas: Actor Lee Soon-jae Passes Away at 91, Leaving a Lasting Legacy](https://ai.trend.dmomo.co.kr/2025/11/legend-of-korean-dramas-actor-lee-soon.html) <br/>
+[2025/11/25 - Legend of Reggae, Jimmy Cliff Passes Away at 81: The Final Journey of an Icon Who Sang for Freedom](https://ai.trend.dmomo.co.kr/2025/11/legend-of-reggae-jimmy-cliff-passes.html) <br/>
 [2025/11/24 - Baker Mayfield's Shocking Injury! Rams Secure 34-7 Victory to Solidify NFC West Lead](https://ai.trend.dmomo.co.kr/2025/11/baker-mayfields-shocking-injury-rams.html) <br/>
 [2025/11/24 - Shocking Analysis of Shedeur Sanders' NFL Debut! Browns vs Raiders](https://ai.trend.dmomo.co.kr/2025/11/shocking-analysis-of-shedeur-sanders.html) <br/>
-[2025/11/24 - The 2025 Platform Engineering Revolution: How Internal Developer Platforms Are Transforming the Future of Software Infrastructure](https://ai.trend.dmomo.co.kr/2025/11/the-2025-platform-engineering.html) <br/>
-[2025/11/24 - North London Derby Shock! The Secret Behind Arsenal's 4-1 Victory and the Impact of Son Heung-min's Absence](https://ai.trend.dmomo.co.kr/2025/11/north-london-derby-shock-secret-behind.html) <br/>
-[2025/11/23 - MLS Cup Quarterfinals: Son Heung-min's Back-to-Back Goals vs. Thomas Müller's Vancouver, A Fateful 90 Minutes](https://ai.trend.dmomo.co.kr/2025/11/mls-cup-quarterfinals-son-heung-mins.html) <br/>
-[2025/11/23 - In-Depth Analysis of the Revolutionary Google Gemini Nano On-Device AI Technology in 2025](https://ai.trend.dmomo.co.kr/2025/11/in-depth-analysis-of-revolutionary.html) <br/>
