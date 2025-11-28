@@ -88,17 +88,17 @@
 [2025/11/19 - 클라우드플레어 대규모 장애: 전 세계 인터넷이 마비된 충격적인 24시간](https://dmomo.co.kr/760) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/27 - [뉴스] “다른 나라면 모르겠는데 일본은 좀”…원전 속속 재가동한다는데](https://blog.ai.dmomo.co.kr/news/14747) <br/>
-[2025/11/27 - [뉴스] 전국에 비나 눈…강풍 동반 황사비](https://blog.ai.dmomo.co.kr/news/14744) <br/>
-[2025/11/27 - [뉴스] 美증시,금리인하 기대 커지며 3일째 상승](https://blog.ai.dmomo.co.kr/news/14740) <br/>
-[2025/11/27 - [뉴스] “무조건 여기부터 오른다”…월가 큰손들 줍고 있다는 ‘이 종목’은](https://blog.ai.dmomo.co.kr/news/14736) <br/>
-[2025/11/27 - [뉴스] 미용사 된 이지현, 난치병 진단 고백…뜻밖의 근황에 깜짝](https://blog.ai.dmomo.co.kr/news/14734) <br/>
-[2025/11/27 - [뉴스] 누리호 4차 발사 성공…민간 주도 뉴 스페이스 시대 열렸다](https://blog.ai.dmomo.co.kr/news/14732) <br/>
+[2025/11/28 - [뉴스] 팔짱까지 낀 사이인데…트럼프, 다카이치에 “중국 자극마라” 경고](https://blog.ai.dmomo.co.kr/news/14813) <br/>
+[2025/11/28 - [뉴스] 500만원 애플 비전프로 미리 써보니…손에 잡힐듯 생생](https://blog.ai.dmomo.co.kr/news/14810) <br/>
+[2025/11/28 - [뉴스] 혼자 오지 마세요…혼밥 거부한 한국 식당에 외신도 주목](https://blog.ai.dmomo.co.kr/news/14807) <br/>
+[2025/11/27 - [뉴스] “생후 6개월 데뷔했는데”…자택서 숨진채 발견된 아역 출신 배우 ‘충격’](https://blog.ai.dmomo.co.kr/news/14804) <br/>
+[2025/11/27 - [뉴스] 대한민국예술원, 차기 회장으로 연출가 손진책 선출](https://blog.ai.dmomo.co.kr/news/14801) <br/>
+[2025/11/27 - [뉴스] 과총 새 회장에 권오남 서울대 교수](https://blog.ai.dmomo.co.kr/news/14798) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/11/27 - Confirmed Walmart Thanksgiving 2025 Closure! The Ultimate Guide to Black Friday Shopping](https://ai.trend.dmomo.co.kr/2025/11/confirmed-walmart-thanksgiving-2025.html) <br/>
+[2025/11/27 - Top 5 Key Updates in Elastic Cloud Serverless for 2025: In-Depth Analysis](https://ai.trend.dmomo.co.kr/2025/11/top-5-key-updates-in-elastic-cloud.html) <br/>
+[2025/11/27 - Lee Kang-in's Impact: PSG Scores 3 Goals and Dramatically Beats Tottenham 5-3 in UCL Comeback!](https://ai.trend.dmomo.co.kr/2025/11/lee-kang-ins-impact-psg-scores-3-goals.html) <br/>
+[2025/11/27 - Two National Guard Members Shot Dead Near the White House: Trump's 'Safe City' Claim Crumbles in 48 Hours](https://ai.trend.dmomo.co.kr/2025/11/two-national-guard-members-shot-dead.html) <br/>
 [2025/11/26 - Ulsan HD: Giving Up on All-In Against Buriram Amidst Relegation Crisis? The Shocking Truth Behind the Rotation.](https://ai.trend.dmomo.co.kr/2025/11/ulsan-hd-giving-up-on-all-in-against.html) <br/>
 [2025/11/26 - Dancing with the Stars Season 34: The Real Reason Robert Irwin Lifted the Mirrorball Trophy](https://ai.trend.dmomo.co.kr/2025/11/dancing-with-stars-season-34-real.html) <br/>
-[2025/11/26 - What is Meta's CRV Technology? Innovative Solution to LLM Hallucination Issues in 2025](https://ai.trend.dmomo.co.kr/2025/11/what-is-metas-crv-technology-innovative.html) <br/>
-[2025/11/26 - Chelsea 3-0 Barcelona: A Night at Stamford Bridge that Took Down 10-Man Barca](https://ai.trend.dmomo.co.kr/2025/11/chelsea-3-0-barcelona-night-at-stamford.html) <br/>
-[2025/11/26 - Chelsea's Shocking 3-0 Victory Over Barcelona! Analysis of Jumping to 5th Place in UCL](https://ai.trend.dmomo.co.kr/2025/11/chelseas-shocking-3-0-victory-over.html) <br/>
-[2025/11/25 - 49ers Playoff Probability Reaches 91.3%, But Facing the Dilemma of 26th Ranked Defense](https://ai.trend.dmomo.co.kr/2025/11/49ers-playoff-probability-reaches-913.html) <br/>
