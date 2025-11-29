@@ -12,7 +12,7 @@ RSS_FEED3 = feedparser.parse(URL3)
 markdown_text = """
 # 💻 Damho Lee
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdamho1104&count_bg=%233D9CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=green&label=hits&size=small)](https://myhits.vercel.app)  
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damho1104/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:damho1104@gmail.com)
@@ -73,7 +73,7 @@ markdown_text = """
 
 
 ## :computer: Stats
-![damho1104 Stats](https://github-readme-stats.vercel.app/api?username=damho1104&hide=issues&show_icons=true&show=prs_merged,prs_merged_percentage&theme=chartreuse-dark)  
+![damho1104 Stats](https://github-readme-stats-cyyin.vercel.app/api?username=damho1104&hide=issues&show_icons=true&show=prs_merged,prs_merged_percentage&theme=chartreuse-dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damho1104&layout=compact&theme=chartreuse-dark)
 
 
