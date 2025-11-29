@@ -1,7 +1,7 @@
 
 # 💻 Damho Lee
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdamho1104&count_bg=%233D9CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=green&label=hits&size=small)](https://myhits.vercel.app)  
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damho1104/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:damho1104@gmail.com)
@@ -62,7 +62,7 @@
 
 
 ## :computer: Stats
-![damho1104 Stats](https://github-readme-stats.vercel.app/api?username=damho1104&hide=issues&show_icons=true&show=prs_merged,prs_merged_percentage&theme=chartreuse-dark)  
+![damho1104 Stats](https://github-readme-stats-cyyin.vercel.app/api?username=damho1104&hide=issues&show_icons=true&show=prs_merged,prs_merged_percentage&theme=chartreuse-dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damho1104&layout=compact&theme=chartreuse-dark)
 
 
@@ -80,25 +80,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/11/29 - 쿠팡 3,370만 고객정보 대규모 유출! 5개월간 방치된 보안 참사의 전말](https://dmomo.co.kr/767) <br/>
 [2025/11/28 - 이순재 배우 별세: 91세까지 현역으로 빛난 한국 드라마의 전설](https://dmomo.co.kr/766) <br/>
 [2025/11/21 - 엔비디아 어닝 서프라이즈, AI 버블론 잠재운 570억 달러 실적 분석](https://dmomo.co.kr/765) <br/>
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 [2025/11/19 - 클라우드플레어 대규모 장애: 인터넷이 멈춘 날의 진실과 교훈](https://dmomo.co.kr/763) <br/>
 [2025/11/19 - 가나 감독 폭탄 발언 '일본은 높은 레벨, 한국은 그 정도 아냐](https://dmomo.co.kr/762) <br/>
-[2025/11/19 - 구마유시 T1 이적 충격: 월드컵 MVP가 한화생명 선택한 진짜 이유](https://dmomo.co.kr/761) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/29 - [뉴스] 머스크, AI로 페이커에 도전장…LoL 그록 모먼트’ 오나](https://blog.ai.dmomo.co.kr/news/14888) <br/>
-[2025/11/29 - [뉴스] 극장가 붕괴인가 전환인가…2025 한국영화의 민낯](https://blog.ai.dmomo.co.kr/news/14885) <br/>
-[2025/11/28 - [뉴스] 겨울철 자동차 예열 필수? “장시간은 오히려 엔진에…”](https://blog.ai.dmomo.co.kr/news/14882) <br/>
-[2025/11/28 - [뉴스] 우주는 이제 과학이 아니라 돈으로 움직인다](https://blog.ai.dmomo.co.kr/news/14879) <br/>
-[2025/11/28 - [뉴스] 이재규 AI로 검증해 보니…진화만으로 생명체 기원 설명 못해](https://blog.ai.dmomo.co.kr/news/14876) <br/>
-[2025/11/28 - 임세령 대상그룹 부회장, 16년만에 이재용과 아들 임관식 동반 참석의 의미](https://blog.ai.dmomo.co.kr/trend/14873) <br/>
+[2025/11/29 - [뉴스] 교황, 이스탄불 ‘이슬람 사원’ 방문…신발 벗고 무슬림에 존경 표시](https://blog.ai.dmomo.co.kr/news/14942) <br/>
+[2025/11/29 - [뉴스] 스포츠 예능 너무 많다 서장훈도 지적…이거 돈 되네](https://blog.ai.dmomo.co.kr/news/14939) <br/>
+[2025/11/29 - 쿠팡 3,370만 고객정보 대규모 유출! 5개월간 방치된 보안 참사의 전말](https://blog.ai.dmomo.co.kr/trend/14936) <br/>
+[2025/11/29 - Luka 35.1점 폭주! Mavericks vs Lakers 대결이 서부 판도를 뒤흔든다](https://blog.ai.dmomo.co.kr/trend/14934) <br/>
+[2025/11/29 - [뉴스] 나도 부잣집 사모님 된 기분…3억짜리 SUV 뭐길래](https://blog.ai.dmomo.co.kr/news/14930) <br/>
+[2025/11/29 - [뉴스] 나 좀 성공했네…달콤한 트로피 된 연말 케이크에 깜짝](https://blog.ai.dmomo.co.kr/news/14927) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/11/28 - Vice Chairwoman Lim Se-ryung of Daesang Group Attends Son's Graduation Ceremony with Lee Jae-yong for the First Time in 16 Years](https://ai.trend.dmomo.co.kr/2025/11/vice-chairwoman-lim-se-ryung-of-daesang.html) <br/>
-[2025/11/28 - Google Gemini 3 Launch in 2025: Unveiling AI Innovations and All About Multimodal Capabilities](https://ai.trend.dmomo.co.kr/2025/11/google-gemini-3-launch-in-2025.html) <br/>
-[2025/11/28 - The Secret of Orbital Maneuvers Revealed by Gemini 3 Mission and 5 Keys to Apollo's Success](https://ai.trend.dmomo.co.kr/2025/11/the-secret-of-orbital-maneuvers.html) <br/>
-[2025/11/28 - Claude Opus 4.5 Release: The Secret Behind 200K Token Innovation and 15% Boost in AI Coding Performance](https://ai.trend.dmomo.co.kr/2025/11/claude-opus-45-release-secret-behind.html) <br/>
-[2025/11/28 - Bengals vs Ravens: In-Depth Analysis of the Division Showdown that Will Determine the AFC North Fate](https://ai.trend.dmomo.co.kr/2025/11/bengals-vs-ravens-in-depth-analysis-of.html) <br/>
-[2025/11/28 - Key LLMOps Technologies Driving AI Innovation in 2025 and an In-Depth Analysis of Toss's Success Story](https://ai.trend.dmomo.co.kr/2025/11/key-llmops-technologies-driving-ai.html) <br/>
+[2025/11/29 - Coupang's Massive Customer Data Leak: The Details of a Security Disaster Left Unattended for 5 Months!](https://ai.trend.dmomo.co.kr/2025/11/coupangs-massive-customer-data-leak.html) <br/>
+[2025/11/29 - Luka's Explosive 35.1 Points! Mavericks vs Lakers Clash Shakes Up the Western Conference](https://ai.trend.dmomo.co.kr/2025/11/lukas-explosive-351-points-mavericks-vs.html) <br/>
+[2025/11/29 - Luka Dončić's Trade to the Lakers? In-Depth Analysis of the 2025 NBA Big Match](https://ai.trend.dmomo.co.kr/2025/11/luka-doncics-trade-to-lakers-in-depth.html) <br/>
+[2025/11/29 - Texas Longhorns Aim for SEC Glory After Defeating Rivals A&M](https://ai.trend.dmomo.co.kr/2025/11/texas-longhorns-aim-for-sec-glory-after.html) <br/>
+[2025/11/29 - 5 Strategies for DevOps Innovation and Operational Stability Transformed by Generative AI in 2025](https://ai.trend.dmomo.co.kr/2025/11/5-strategies-for-devops-innovation-and.html) <br/>
+[2025/11/29 - The True Meaning of Chaebol Networking Demonstrated by Lim Se-ryung, Vice Chairwoman of Daesang Group](https://ai.trend.dmomo.co.kr/2025/11/the-true-meaning-of-chaebol-networking.html) <br/>
