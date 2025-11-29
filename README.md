@@ -25,6 +25,9 @@
 - [AI Blog](https://blog.ai.dmomo.co.kr/)
 - [AI EN Blog](https://ai.trend.dmomo.co.kr/)
 
+## 📣 My Service
+- [로또 번호 추천 및 당첨 알림 서비스](https://lotto.dmomo.co.kr/)  
+
 ## 💪 Technical Skills
 ### Languages & Frameworks
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -72,10 +75,6 @@
 
 
 
-
-
-## 📣 My Service
-- [로또 번호 추천 및 당첨 알림 서비스](https://lotto.dmomo.co.kr/)  
 
 
 ## ✅ Latest Blog Post
