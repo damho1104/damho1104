@@ -87,12 +87,12 @@
 [2025/11/19 - 가나 감독 폭탄 발언 '일본은 높은 레벨, 한국은 그 정도 아냐](https://dmomo.co.kr/762) <br/>
 
 ## ✅ Latest AI Blog Post
+[2025/11/30 - [뉴스] 한국 타켓 삼은 북한 해킹조직 라자루스·김수키](https://blog.ai.dmomo.co.kr/news/14951) <br/>
+[2025/11/30 - [뉴스] 스트레이 키즈·지드래곤 대상…주윤발과 묵념한 마마 어워즈](https://blog.ai.dmomo.co.kr/news/14948) <br/>
+[2025/11/30 - MS 초지능팀의 ‘인간을 위한 AI’ 비전, Reddit이 뜨겁게 반응한 이유](https://blog.ai.dmomo.co.kr/ai/14945) <br/>
 [2025/11/29 - [뉴스] 교황, 이스탄불 ‘이슬람 사원’ 방문…신발 벗고 무슬림에 존경 표시](https://blog.ai.dmomo.co.kr/news/14942) <br/>
 [2025/11/29 - [뉴스] 스포츠 예능 너무 많다 서장훈도 지적…이거 돈 되네](https://blog.ai.dmomo.co.kr/news/14939) <br/>
 [2025/11/29 - 쿠팡 3,370만 고객정보 대규모 유출! 5개월간 방치된 보안 참사의 전말](https://blog.ai.dmomo.co.kr/trend/14936) <br/>
-[2025/11/29 - Luka 35.1점 폭주! Mavericks vs Lakers 대결이 서부 판도를 뒤흔든다](https://blog.ai.dmomo.co.kr/trend/14934) <br/>
-[2025/11/29 - [뉴스] 나도 부잣집 사모님 된 기분…3억짜리 SUV 뭐길래](https://blog.ai.dmomo.co.kr/news/14930) <br/>
-[2025/11/29 - [뉴스] 나 좀 성공했네…달콤한 트로피 된 연말 케이크에 깜짝](https://blog.ai.dmomo.co.kr/news/14927) <br/>
 
 ## ✅ Latest AI EN Blog Post
 [2025/11/29 - Coupang's Massive Customer Data Leak: The Details of a Security Disaster Left Unattended for 5 Months!](https://ai.trend.dmomo.co.kr/2025/11/coupangs-massive-customer-data-leak.html) <br/>
