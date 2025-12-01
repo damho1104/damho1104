@@ -87,17 +87,17 @@
 [2025/11/19 - 가나 감독 폭탄 발언 '일본은 높은 레벨, 한국은 그 정도 아냐](https://dmomo.co.kr/762) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/11/30 - [뉴스] 한국 타켓 삼은 북한 해킹조직 라자루스·김수키](https://blog.ai.dmomo.co.kr/news/14951) <br/>
-[2025/11/30 - [뉴스] 스트레이 키즈·지드래곤 대상…주윤발과 묵념한 마마 어워즈](https://blog.ai.dmomo.co.kr/news/14948) <br/>
-[2025/11/30 - MS 초지능팀의 ‘인간을 위한 AI’ 비전, Reddit이 뜨겁게 반응한 이유](https://blog.ai.dmomo.co.kr/ai/14945) <br/>
-[2025/11/29 - [뉴스] 교황, 이스탄불 ‘이슬람 사원’ 방문…신발 벗고 무슬림에 존경 표시](https://blog.ai.dmomo.co.kr/news/14942) <br/>
-[2025/11/29 - [뉴스] 스포츠 예능 너무 많다 서장훈도 지적…이거 돈 되네](https://blog.ai.dmomo.co.kr/news/14939) <br/>
-[2025/11/29 - 쿠팡 3,370만 고객정보 대규모 유출! 5개월간 방치된 보안 참사의 전말](https://blog.ai.dmomo.co.kr/trend/14936) <br/>
+[2025/12/01 - [뉴스] “재앙적 저출산 한국, 뭘로 버티나”…세계적 석학이 꼽은 강점은](https://blog.ai.dmomo.co.kr/news/15011) <br/>
+[2025/12/01 - [뉴스] 월급이 매출 10배 개발자 몸값에 휘청…무너진 스타트업](https://blog.ai.dmomo.co.kr/news/15008) <br/>
+[2025/12/01 - [뉴스] 움츠러드는 겨울철…식물로 생기를 더하는 법](https://blog.ai.dmomo.co.kr/news/15005) <br/>
+[2025/11/30 - [뉴스] “트럼프, 관세 위헌 땐 더 난리칠 것”…경제 불확실성 경고한 이 남자](https://blog.ai.dmomo.co.kr/news/15002) <br/>
+[2025/11/30 - [뉴스] 박명수 아내 한수민, 압구정에 새 병원 오픈…화려한 개원식 눈길](https://blog.ai.dmomo.co.kr/news/14999) <br/>
+[2025/11/30 - [뉴스] 中企 AI 인재 양성도 역시 AICE 내년 5000명 교육](https://blog.ai.dmomo.co.kr/news/14996) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/11/30 - Stockton Children's Birthday Party Shooting: 4 Dead, 10 Injured, Suspect at Large](https://ai.trend.dmomo.co.kr/2025/11/stockton-childrens-birthday-party.html) <br/>
+[2025/11/30 - Alabama Football Secures SEC Championship Spot with 2025 Iron Bowl Victory](https://ai.trend.dmomo.co.kr/2025/11/alabama-football-secures-sec.html) <br/>
+[2025/11/30 - 2025 Military IoT Innovations Powered by 5G and the Latest Trends in Battlefield IoT](https://ai.trend.dmomo.co.kr/2025/11/2025-military-iot-innovations-powered.html) <br/>
+[2025/11/30 - Tottenham Shocking Home Loss to Fulham! What is the Real Reason Behind the Three-Game Losing Streak Without Son Heung-min?](https://ai.trend.dmomo.co.kr/2025/11/tottenham-shocking-home-loss-to-fulham.html) <br/>
+[2025/11/30 - Ohio State Ends Michigan's 4-Game Winning Streak, Secures 2025 CFP Spot! Shock Analysis of The Game Results](https://ai.trend.dmomo.co.kr/2025/11/ohio-state-ends-michigans-4-game.html) <br/>
 [2025/11/29 - Coupang's Massive Customer Data Leak: The Details of a Security Disaster Left Unattended for 5 Months!](https://ai.trend.dmomo.co.kr/2025/11/coupangs-massive-customer-data-leak.html) <br/>
-[2025/11/29 - Luka's Explosive 35.1 Points! Mavericks vs Lakers Clash Shakes Up the Western Conference](https://ai.trend.dmomo.co.kr/2025/11/lukas-explosive-351-points-mavericks-vs.html) <br/>
-[2025/11/29 - Luka Dončić's Trade to the Lakers? In-Depth Analysis of the 2025 NBA Big Match](https://ai.trend.dmomo.co.kr/2025/11/luka-doncics-trade-to-lakers-in-depth.html) <br/>
-[2025/11/29 - Texas Longhorns Aim for SEC Glory After Defeating Rivals A&M](https://ai.trend.dmomo.co.kr/2025/11/texas-longhorns-aim-for-sec-glory-after.html) <br/>
-[2025/11/29 - 5 Strategies for DevOps Innovation and Operational Stability Transformed by Generative AI in 2025](https://ai.trend.dmomo.co.kr/2025/11/5-strategies-for-devops-innovation-and.html) <br/>
-[2025/11/29 - The True Meaning of Chaebol Networking Demonstrated by Lim Se-ryung, Vice Chairwoman of Daesang Group](https://ai.trend.dmomo.co.kr/2025/11/the-true-meaning-of-chaebol-networking.html) <br/>
