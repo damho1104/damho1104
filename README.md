@@ -87,17 +87,17 @@
 [2025/11/19 - 가나 감독 폭탄 발언 '일본은 높은 레벨, 한국은 그 정도 아냐](https://dmomo.co.kr/762) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/01 - [뉴스] “재앙적 저출산 한국, 뭘로 버티나”…세계적 석학이 꼽은 강점은](https://blog.ai.dmomo.co.kr/news/15011) <br/>
-[2025/12/01 - [뉴스] 월급이 매출 10배 개발자 몸값에 휘청…무너진 스타트업](https://blog.ai.dmomo.co.kr/news/15008) <br/>
-[2025/12/01 - [뉴스] 움츠러드는 겨울철…식물로 생기를 더하는 법](https://blog.ai.dmomo.co.kr/news/15005) <br/>
-[2025/11/30 - [뉴스] “트럼프, 관세 위헌 땐 더 난리칠 것”…경제 불확실성 경고한 이 남자](https://blog.ai.dmomo.co.kr/news/15002) <br/>
-[2025/11/30 - [뉴스] 박명수 아내 한수민, 압구정에 새 병원 오픈…화려한 개원식 눈길](https://blog.ai.dmomo.co.kr/news/14999) <br/>
-[2025/11/30 - [뉴스] 中企 AI 인재 양성도 역시 AICE 내년 5000명 교육](https://blog.ai.dmomo.co.kr/news/14996) <br/>
+[2025/12/02 - [뉴스] “징역 1년 선고 받았다”…칸·부산 영화제 상 수상한 유명 감독의 수난](https://blog.ai.dmomo.co.kr/news/15089) <br/>
+[2025/12/02 - [뉴스] 도시의 술잔에서 자작나무 숲으로 옮겨간 시벨리우스의 고독](https://blog.ai.dmomo.co.kr/news/15086) <br/>
+[2025/12/02 - [뉴스] 구글 TPU 뜨자… 브로드컴 존재감도 급부상](https://blog.ai.dmomo.co.kr/news/15082) <br/>
+[2025/12/02 - [뉴스] “비트코인이 金 된다”…개미들 묶어놓고 먼저 던지겠다는 회장님](https://blog.ai.dmomo.co.kr/news/15079) <br/>
+[2025/12/02 - [뉴스] 삼성에 애플까지 초슬림폰 대박날 줄 알았는데…예상밖 부진 이유 봤더니](https://blog.ai.dmomo.co.kr/news/15076) <br/>
+[2025/12/02 - [뉴스] 미국 상무 “한국 자동차 관세 15%로 11월1일자 소급 인하” 공식 확인](https://blog.ai.dmomo.co.kr/news/15074) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/12/01 - Google Antigravity Deep Dive: 7 Key Features Revolutionizing Code Development with AI Agents](https://ai.trend.dmomo.co.kr/2025/12/google-antigravity-deep-dive-7-key.html) <br/>
+[2025/12/01 - Mbappe's 14th Goal Goes to Waste: The Shocking Details of Real Madrid's Draw Against Girona](https://ai.trend.dmomo.co.kr/2025/12/mbappes-14th-goal-goes-to-waste.html) <br/>
+[2025/12/01 - What is Agentic AI in 2025 and Its Impact on Business?](https://ai.trend.dmomo.co.kr/2025/11/what-is-agentic-ai-in-2025-and-its.html) <br/>
+[2025/12/01 - 49ers' Dominant 26-8 Victory! Purdy's Leadership Shines in the Snow [NFL Week 13 Analysis]](https://ai.trend.dmomo.co.kr/2025/11/49ers-dominant-26-8-victory-purdys.html) <br/>
+[2025/12/01 - Chelsea vs Arsenal London Derby: A 1-1 Epic Battle Analyzed with the Grit of 10-Man Chelsea](https://ai.trend.dmomo.co.kr/2025/11/chelsea-vs-arsenal-london-derby-1-1.html) <br/>
 [2025/11/30 - Stockton Children's Birthday Party Shooting: 4 Dead, 10 Injured, Suspect at Large](https://ai.trend.dmomo.co.kr/2025/11/stockton-childrens-birthday-party.html) <br/>
-[2025/11/30 - Alabama Football Secures SEC Championship Spot with 2025 Iron Bowl Victory](https://ai.trend.dmomo.co.kr/2025/11/alabama-football-secures-sec.html) <br/>
-[2025/11/30 - 2025 Military IoT Innovations Powered by 5G and the Latest Trends in Battlefield IoT](https://ai.trend.dmomo.co.kr/2025/11/2025-military-iot-innovations-powered.html) <br/>
-[2025/11/30 - Tottenham Shocking Home Loss to Fulham! What is the Real Reason Behind the Three-Game Losing Streak Without Son Heung-min?](https://ai.trend.dmomo.co.kr/2025/11/tottenham-shocking-home-loss-to-fulham.html) <br/>
-[2025/11/30 - Ohio State Ends Michigan's 4-Game Winning Streak, Secures 2025 CFP Spot! Shock Analysis of The Game Results](https://ai.trend.dmomo.co.kr/2025/11/ohio-state-ends-michigans-4-game.html) <br/>
-[2025/11/29 - Coupang's Massive Customer Data Leak: The Details of a Security Disaster Left Unattended for 5 Months!](https://ai.trend.dmomo.co.kr/2025/11/coupangs-massive-customer-data-leak.html) <br/>
