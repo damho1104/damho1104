@@ -87,17 +87,17 @@
 [2025/11/19 - 가나 감독 폭탄 발언 '일본은 높은 레벨, 한국은 그 정도 아냐](https://dmomo.co.kr/762) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/02 - [뉴스] “징역 1년 선고 받았다”…칸·부산 영화제 상 수상한 유명 감독의 수난](https://blog.ai.dmomo.co.kr/news/15089) <br/>
-[2025/12/02 - [뉴스] 도시의 술잔에서 자작나무 숲으로 옮겨간 시벨리우스의 고독](https://blog.ai.dmomo.co.kr/news/15086) <br/>
-[2025/12/02 - [뉴스] 구글 TPU 뜨자… 브로드컴 존재감도 급부상](https://blog.ai.dmomo.co.kr/news/15082) <br/>
-[2025/12/02 - [뉴스] “비트코인이 金 된다”…개미들 묶어놓고 먼저 던지겠다는 회장님](https://blog.ai.dmomo.co.kr/news/15079) <br/>
-[2025/12/02 - [뉴스] 삼성에 애플까지 초슬림폰 대박날 줄 알았는데…예상밖 부진 이유 봤더니](https://blog.ai.dmomo.co.kr/news/15076) <br/>
-[2025/12/02 - [뉴스] 미국 상무 “한국 자동차 관세 15%로 11월1일자 소급 인하” 공식 확인](https://blog.ai.dmomo.co.kr/news/15074) <br/>
+[2025/12/03 - [뉴스] “어린이 계좌에 9조원 기부한다”…세계 부자 10위 美부부의 정체](https://blog.ai.dmomo.co.kr/news/15161) <br/>
+[2025/12/03 - [뉴스] 삼성, 내년 엔비디아 소캠2 물량 절반 공급 [강해령의 테크앤더시티]](https://blog.ai.dmomo.co.kr/news/15158) <br/>
+[2025/12/03 - [뉴스] 출근길 전국 대부분 영하권…서해안 최대 10㎝ 폭설](https://blog.ai.dmomo.co.kr/news/15155) <br/>
+[2025/12/02 - [뉴스] “월요일의 대량학살” 트럼프, 뉴욕 이민판사 8명 무더기 해고](https://blog.ai.dmomo.co.kr/news/15152) <br/>
+[2025/12/02 - [뉴스] 하루 두 줌의 이 것 4개월 섭취한 노인들, 기억력 좋아졌다](https://blog.ai.dmomo.co.kr/news/15149) <br/>
+[2025/12/02 - [뉴스] 삼성 공세 지켜보던 애플도 참전…게이밍 아이폰 띄운다](https://blog.ai.dmomo.co.kr/news/15146) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/12/01 - Google Antigravity Deep Dive: 7 Key Features Revolutionizing Code Development with AI Agents](https://ai.trend.dmomo.co.kr/2025/12/google-antigravity-deep-dive-7-key.html) <br/>
-[2025/12/01 - Mbappe's 14th Goal Goes to Waste: The Shocking Details of Real Madrid's Draw Against Girona](https://ai.trend.dmomo.co.kr/2025/12/mbappes-14th-goal-goes-to-waste.html) <br/>
-[2025/12/01 - What is Agentic AI in 2025 and Its Impact on Business?](https://ai.trend.dmomo.co.kr/2025/11/what-is-agentic-ai-in-2025-and-its.html) <br/>
-[2025/12/01 - 49ers' Dominant 26-8 Victory! Purdy's Leadership Shines in the Snow [NFL Week 13 Analysis]](https://ai.trend.dmomo.co.kr/2025/11/49ers-dominant-26-8-victory-purdys.html) <br/>
-[2025/12/01 - Chelsea vs Arsenal London Derby: A 1-1 Epic Battle Analyzed with the Grit of 10-Man Chelsea](https://ai.trend.dmomo.co.kr/2025/11/chelsea-vs-arsenal-london-derby-1-1.html) <br/>
-[2025/11/30 - Stockton Children's Birthday Party Shooting: 4 Dead, 10 Injured, Suspect at Large](https://ai.trend.dmomo.co.kr/2025/11/stockton-childrens-birthday-party.html) <br/>
+[2025/12/02 - Galaxy Z Trifold: The Arrival of a 10-Inch Tablet in Your Pocket Priced at 3.59 Million Won](https://ai.trend.dmomo.co.kr/2025/12/galaxy-z-trifold-arrival-of-10-inch.html) <br/>
+[2025/12/02 - Patriots' Dominant 33-15 Victory! NFL's First Team to 11 Wins Achieves Overwhelming Control on Monday Night](https://ai.trend.dmomo.co.kr/2025/12/patriots-dominant-33-15-victory-nfls.html) <br/>
+[2025/12/02 - Patriots' Humiliating 11 Wins! The Shocking Reasons Behind Giants' 7-Game Losing Streak](https://ai.trend.dmomo.co.kr/2025/12/patriots-humiliating-11-wins-shocking.html) <br/>
+[2025/12/02 - Complete Guide to Personal Customs Unique Code: Essential Information for Overseas Direct Purchases in 2025](https://ai.trend.dmomo.co.kr/2025/12/complete-guide-to-personal-customs.html) <br/>
+[2025/12/02 - 5 Innovations in Stablecoin Trading Revolutionized by the Fusion of AI and Blockchain in 2025](https://ai.trend.dmomo.co.kr/2025/12/5-innovations-in-stablecoin-trading.html) <br/>
+[2025/12/02 - 6 Meanings of 'LP' in the U.S.: A Complete Guide from Roads to Investments](https://ai.trend.dmomo.co.kr/2025/12/6-meanings-of-lp-in-us-complete-guide.html) <br/>
