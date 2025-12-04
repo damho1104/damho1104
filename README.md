@@ -87,17 +87,17 @@
 [2025/11/19 - 가나 감독 폭탄 발언 '일본은 높은 레벨, 한국은 그 정도 아냐](https://dmomo.co.kr/762) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/03 - [뉴스] “어린이 계좌에 9조원 기부한다”…세계 부자 10위 美부부의 정체](https://blog.ai.dmomo.co.kr/news/15161) <br/>
-[2025/12/03 - [뉴스] 삼성, 내년 엔비디아 소캠2 물량 절반 공급 [강해령의 테크앤더시티]](https://blog.ai.dmomo.co.kr/news/15158) <br/>
-[2025/12/03 - [뉴스] 출근길 전국 대부분 영하권…서해안 최대 10㎝ 폭설](https://blog.ai.dmomo.co.kr/news/15155) <br/>
-[2025/12/02 - [뉴스] “월요일의 대량학살” 트럼프, 뉴욕 이민판사 8명 무더기 해고](https://blog.ai.dmomo.co.kr/news/15152) <br/>
-[2025/12/02 - [뉴스] 하루 두 줌의 이 것 4개월 섭취한 노인들, 기억력 좋아졌다](https://blog.ai.dmomo.co.kr/news/15149) <br/>
-[2025/12/02 - [뉴스] 삼성 공세 지켜보던 애플도 참전…게이밍 아이폰 띄운다](https://blog.ai.dmomo.co.kr/news/15146) <br/>
+[2025/12/04 - [뉴스] “성범죄자에 불륜 조언 받더니 몰락”…서머스, 전미경제학회서도 퇴출](https://blog.ai.dmomo.co.kr/news/15233) <br/>
+[2025/12/04 - [뉴스] 틱톡라이브, 라이브 스트리밍 시장 기회의 땅’으로 급부상](https://blog.ai.dmomo.co.kr/news/15230) <br/>
+[2025/12/04 - [뉴스] -14도 한파, 최고 8cm 눈까지…완전 무장 필요](https://blog.ai.dmomo.co.kr/news/15227) <br/>
+[2025/12/04 - [뉴스] “출근했더니 가게가 엉망이에요”…위스키 마시고 실신한 난봉꾼 정체](https://blog.ai.dmomo.co.kr/news/15224) <br/>
+[2025/12/03 - [뉴스] 스위스도 아파트 열풍?…알프스에 ‘65층 마천루’ 짓겠다는데](https://blog.ai.dmomo.co.kr/news/15221) <br/>
+[2025/12/03 - [뉴스] 내일 서울 영하 9도 강추위…오후 최대 5㎝ 첫눈 내린다](https://blog.ai.dmomo.co.kr/news/15218) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/12/03 - The Real Reason Susan Dell's $6.25 Billion Donation Shook the American Philanthropic Landscape](https://ai.trend.dmomo.co.kr/2025/12/the-real-reason-susan-dells-625-billion.html) <br/>
+[2025/12/03 - Tennessee Special Election Shock: The Significance of an Unexpected Contest in Republican Stronghold](https://ai.trend.dmomo.co.kr/2025/12/tennessee-special-election-shock.html) <br/>
+[2025/12/03 - 5 Key Insights into the Current State and Future Innovations of Quantum Computing Industry in 2025](https://ai.trend.dmomo.co.kr/2025/12/5-key-insights-into-current-state-and.html) <br/>
+[2025/12/03 - Barcelona 3-1 Atletico: Extending La Liga Lead to 4 Points, Title Within Reach](https://ai.trend.dmomo.co.kr/2025/12/barcelona-3-1-atletico-extending-la.html) <br/>
+[2025/12/03 - Newcastle vs Tottenham: Can Spurs Escape the Threat of a Three-Game Losing Streak Without Son Heung-min?](https://ai.trend.dmomo.co.kr/2025/12/newcastle-vs-tottenham-can-spurs-escape.html) <br/>
 [2025/12/02 - Galaxy Z Trifold: The Arrival of a 10-Inch Tablet in Your Pocket Priced at 3.59 Million Won](https://ai.trend.dmomo.co.kr/2025/12/galaxy-z-trifold-arrival-of-10-inch.html) <br/>
-[2025/12/02 - Patriots' Dominant 33-15 Victory! NFL's First Team to 11 Wins Achieves Overwhelming Control on Monday Night](https://ai.trend.dmomo.co.kr/2025/12/patriots-dominant-33-15-victory-nfls.html) <br/>
-[2025/12/02 - Patriots' Humiliating 11 Wins! The Shocking Reasons Behind Giants' 7-Game Losing Streak](https://ai.trend.dmomo.co.kr/2025/12/patriots-humiliating-11-wins-shocking.html) <br/>
-[2025/12/02 - Complete Guide to Personal Customs Unique Code: Essential Information for Overseas Direct Purchases in 2025](https://ai.trend.dmomo.co.kr/2025/12/complete-guide-to-personal-customs.html) <br/>
-[2025/12/02 - 5 Innovations in Stablecoin Trading Revolutionized by the Fusion of AI and Blockchain in 2025](https://ai.trend.dmomo.co.kr/2025/12/5-innovations-in-stablecoin-trading.html) <br/>
-[2025/12/02 - 6 Meanings of 'LP' in the U.S.: A Complete Guide from Roads to Investments](https://ai.trend.dmomo.co.kr/2025/12/6-meanings-of-lp-in-us-complete-guide.html) <br/>
