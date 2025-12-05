@@ -87,17 +87,17 @@
 [2025/11/19 - 가나 감독 폭탄 발언 '일본은 높은 레벨, 한국은 그 정도 아냐](https://dmomo.co.kr/762) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/04 - [뉴스] “성범죄자에 불륜 조언 받더니 몰락”…서머스, 전미경제학회서도 퇴출](https://blog.ai.dmomo.co.kr/news/15233) <br/>
-[2025/12/04 - [뉴스] 틱톡라이브, 라이브 스트리밍 시장 기회의 땅’으로 급부상](https://blog.ai.dmomo.co.kr/news/15230) <br/>
-[2025/12/04 - [뉴스] -14도 한파, 최고 8cm 눈까지…완전 무장 필요](https://blog.ai.dmomo.co.kr/news/15227) <br/>
-[2025/12/04 - [뉴스] “출근했더니 가게가 엉망이에요”…위스키 마시고 실신한 난봉꾼 정체](https://blog.ai.dmomo.co.kr/news/15224) <br/>
-[2025/12/03 - [뉴스] 스위스도 아파트 열풍?…알프스에 ‘65층 마천루’ 짓겠다는데](https://blog.ai.dmomo.co.kr/news/15221) <br/>
-[2025/12/03 - [뉴스] 내일 서울 영하 9도 강추위…오후 최대 5㎝ 첫눈 내린다](https://blog.ai.dmomo.co.kr/news/15218) <br/>
+[2025/12/05 - [뉴스] 회사 이름까지 바꿨는데…‘100조 손실’에 대대적 구조조정 예고한 이 회사](https://blog.ai.dmomo.co.kr/news/15311) <br/>
+[2025/12/05 - [뉴스] 국내 출시 머스크 통신 누가 쓸까 했는데…바다서도 터진다](https://blog.ai.dmomo.co.kr/news/15308) <br/>
+[2025/12/05 - [뉴스] 역사가 담긴 예술품…마리 앙투아네트의 주얼리 착용해볼까](https://blog.ai.dmomo.co.kr/news/15305) <br/>
+[2025/12/05 - [뉴스] “내 주식만 그런게 아니었네”…30년간 시장키운 기업 단 1%라는데](https://blog.ai.dmomo.co.kr/news/15302) <br/>
+[2025/12/05 - [뉴스] 中 찾은 마크롱, G7에 시진핑 초청하나](https://blog.ai.dmomo.co.kr/news/15297) <br/>
+[2025/12/05 - [뉴스] 수도권에 폭설 빙판길 주의보](https://blog.ai.dmomo.co.kr/news/15298) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/12/04 - Shocking Confession from Former Coach Ryu Jung-il: Revelation of Inappropriate Relationship Between Daughter-in-Law and High School Student](https://ai.trend.dmomo.co.kr/2025/12/shocking-confession-from-former-coach.html) <br/>
+[2025/12/04 - Monterrey vs Toluca Semifinal: The Retirement Rumors of Chicharito and Ramos' Recontracting - Why America is Taking Notice](https://ai.trend.dmomo.co.kr/2025/12/monterrey-vs-toluca-semifinal.html) <br/>
+[2025/12/04 - The 2025 Wave of AI-Integrated Low-Code Innovation and Flowise Enterprise Implementation Case Study](https://ai.trend.dmomo.co.kr/2025/12/the-2025-wave-of-ai-integrated-low-code.html) <br/>
+[2025/12/04 - Real Madrid Dominates Athletic Bilbao 3-0 with Mbappe's Brace! Leading the La Liga Race](https://ai.trend.dmomo.co.kr/2025/12/real-madrid-dominates-athletic-bilbao-3.html) <br/>
+[2025/12/04 - Union Berlin vs Bayern Munich: A DFB-Pokal Night of a 3-2 Comeback Drama](https://ai.trend.dmomo.co.kr/2025/12/union-berlin-vs-bayern-munich-dfb-pokal.html) <br/>
 [2025/12/03 - The Real Reason Susan Dell's $6.25 Billion Donation Shook the American Philanthropic Landscape](https://ai.trend.dmomo.co.kr/2025/12/the-real-reason-susan-dells-625-billion.html) <br/>
-[2025/12/03 - Tennessee Special Election Shock: The Significance of an Unexpected Contest in Republican Stronghold](https://ai.trend.dmomo.co.kr/2025/12/tennessee-special-election-shock.html) <br/>
-[2025/12/03 - 5 Key Insights into the Current State and Future Innovations of Quantum Computing Industry in 2025](https://ai.trend.dmomo.co.kr/2025/12/5-key-insights-into-current-state-and.html) <br/>
-[2025/12/03 - Barcelona 3-1 Atletico: Extending La Liga Lead to 4 Points, Title Within Reach](https://ai.trend.dmomo.co.kr/2025/12/barcelona-3-1-atletico-extending-la.html) <br/>
-[2025/12/03 - Newcastle vs Tottenham: Can Spurs Escape the Threat of a Three-Game Losing Streak Without Son Heung-min?](https://ai.trend.dmomo.co.kr/2025/12/newcastle-vs-tottenham-can-spurs-escape.html) <br/>
-[2025/12/02 - Galaxy Z Trifold: The Arrival of a 10-Inch Tablet in Your Pocket Priced at 3.59 Million Won](https://ai.trend.dmomo.co.kr/2025/12/galaxy-z-trifold-arrival-of-10-inch.html) <br/>
