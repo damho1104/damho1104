@@ -87,17 +87,17 @@
 [2025/11/19 - 가나 감독 폭탄 발언 '일본은 높은 레벨, 한국은 그 정도 아냐](https://dmomo.co.kr/762) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/05 - [뉴스] 회사 이름까지 바꿨는데…‘100조 손실’에 대대적 구조조정 예고한 이 회사](https://blog.ai.dmomo.co.kr/news/15311) <br/>
-[2025/12/05 - [뉴스] 국내 출시 머스크 통신 누가 쓸까 했는데…바다서도 터진다](https://blog.ai.dmomo.co.kr/news/15308) <br/>
-[2025/12/05 - [뉴스] 역사가 담긴 예술품…마리 앙투아네트의 주얼리 착용해볼까](https://blog.ai.dmomo.co.kr/news/15305) <br/>
-[2025/12/05 - [뉴스] “내 주식만 그런게 아니었네”…30년간 시장키운 기업 단 1%라는데](https://blog.ai.dmomo.co.kr/news/15302) <br/>
-[2025/12/05 - [뉴스] 中 찾은 마크롱, G7에 시진핑 초청하나](https://blog.ai.dmomo.co.kr/news/15297) <br/>
-[2025/12/05 - [뉴스] 수도권에 폭설 빙판길 주의보](https://blog.ai.dmomo.co.kr/news/15298) <br/>
+[2025/12/06 - [뉴스] “케데헌 인기 이 정도였어?”…올해 미국 구글 검색어 순위 보니](https://blog.ai.dmomo.co.kr/news/15383) <br/>
+[2025/12/06 - [뉴스] 여친에게 사과 메시지 보냈다가 식겁…카톡 대참사 무슨 일?](https://blog.ai.dmomo.co.kr/news/15380) <br/>
+[2025/12/06 - [뉴스] 영하 60도, 사체로 벽 쌓고 버텼다…엘리트 교수의 미친 짓](https://blog.ai.dmomo.co.kr/news/15377) <br/>
+[2025/12/05 - [뉴스] “대만방어 최우선, 한국 국방지출 늘려야”…트럼프 행정부, 새 국가안보전략 발표](https://blog.ai.dmomo.co.kr/news/15374) <br/>
+[2025/12/05 - [뉴스] 정답 없어 매력적…최재림·이승주가 말하는 타지마할의 근위병](https://blog.ai.dmomo.co.kr/news/15371) <br/>
+[2025/12/05 - 2025년 Cloudflare 대규모 장애 원인과 글로벌 인터넷 마비 7가지 교훈](https://blog.ai.dmomo.co.kr/tech/15368) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/12/04 - Shocking Confession from Former Coach Ryu Jung-il: Revelation of Inappropriate Relationship Between Daughter-in-Law and High School Student](https://ai.trend.dmomo.co.kr/2025/12/shocking-confession-from-former-coach.html) <br/>
-[2025/12/04 - Monterrey vs Toluca Semifinal: The Retirement Rumors of Chicharito and Ramos' Recontracting - Why America is Taking Notice](https://ai.trend.dmomo.co.kr/2025/12/monterrey-vs-toluca-semifinal.html) <br/>
-[2025/12/04 - The 2025 Wave of AI-Integrated Low-Code Innovation and Flowise Enterprise Implementation Case Study](https://ai.trend.dmomo.co.kr/2025/12/the-2025-wave-of-ai-integrated-low-code.html) <br/>
-[2025/12/04 - Real Madrid Dominates Athletic Bilbao 3-0 with Mbappe's Brace! Leading the La Liga Race](https://ai.trend.dmomo.co.kr/2025/12/real-madrid-dominates-athletic-bilbao-3.html) <br/>
-[2025/12/04 - Union Berlin vs Bayern Munich: A DFB-Pokal Night of a 3-2 Comeback Drama](https://ai.trend.dmomo.co.kr/2025/12/union-berlin-vs-bayern-munich-dfb-pokal.html) <br/>
-[2025/12/03 - The Real Reason Susan Dell's $6.25 Billion Donation Shook the American Philanthropic Landscape](https://ai.trend.dmomo.co.kr/2025/12/the-real-reason-susan-dells-625-billion.html) <br/>
+[2025/12/05 - The 2025 Cloudflare Outage: Causes and 7 Key Lessons from the Global Internet Crash](https://ai.trend.dmomo.co.kr/2025/12/the-2025-cloudflare-outage-causes-and-7.html) <br/>
+[2025/12/05 - Core Services of Cloudflare and the 2025 Major Outage Analysis: 5 Key Insights You Need to Know](https://ai.trend.dmomo.co.kr/2025/12/core-services-of-cloudflare-and-2025.html) <br/>
+[2025/12/05 - NFL Week 14 Highlights: A Playoff Deciding Clash Between the Lions and Cowboys](https://ai.trend.dmomo.co.kr/2025/12/nfl-week-14-highlights-playoff-deciding.html) <br/>
+[2025/12/05 - The Backstage Story of Jo Jin-woong's Award-Winning Performance in 'The Outlaws' at the Baeksang Arts Awards](https://ai.trend.dmomo.co.kr/2025/12/the-backstage-story-of-jo-jin-woongs.html) <br/>
+[2025/12/05 - Ryu Jung-il's Daughter-in-Law Shocking Confession: A Complete Overview of the Teacher-Student Affair and Legal Issues](https://ai.trend.dmomo.co.kr/2025/12/ryu-jung-ils-daughter-in-law-shocking.html) <br/>
+[2025/12/05 - Innovation in 2025: What Does the Era of AI-Integrated Low-Code Development with Flowise Mean?](https://ai.trend.dmomo.co.kr/2025/12/innovation-in-2025-what-does-era-of-ai.html) <br/>
