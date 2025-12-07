@@ -87,17 +87,17 @@
 [2025/11/19 - 가나 감독 폭탄 발언 '일본은 높은 레벨, 한국은 그 정도 아냐](https://dmomo.co.kr/762) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/06 - [뉴스] “케데헌 인기 이 정도였어?”…올해 미국 구글 검색어 순위 보니](https://blog.ai.dmomo.co.kr/news/15383) <br/>
-[2025/12/06 - [뉴스] 여친에게 사과 메시지 보냈다가 식겁…카톡 대참사 무슨 일?](https://blog.ai.dmomo.co.kr/news/15380) <br/>
-[2025/12/06 - [뉴스] 영하 60도, 사체로 벽 쌓고 버텼다…엘리트 교수의 미친 짓](https://blog.ai.dmomo.co.kr/news/15377) <br/>
-[2025/12/05 - [뉴스] “대만방어 최우선, 한국 국방지출 늘려야”…트럼프 행정부, 새 국가안보전략 발표](https://blog.ai.dmomo.co.kr/news/15374) <br/>
-[2025/12/05 - [뉴스] 정답 없어 매력적…최재림·이승주가 말하는 타지마할의 근위병](https://blog.ai.dmomo.co.kr/news/15371) <br/>
-[2025/12/05 - 2025년 Cloudflare 대규모 장애 원인과 글로벌 인터넷 마비 7가지 교훈](https://blog.ai.dmomo.co.kr/tech/15368) <br/>
+[2025/12/07 - [뉴스] “연준은 멈출까, 더 갈까”…올해 마지막 FOMC 관전 포인트는](https://blog.ai.dmomo.co.kr/news/15443) <br/>
+[2025/12/07 - [뉴스] 가족들도 돈 받거든요…유명 아이돌, 사생활 생중계하는 이유](https://blog.ai.dmomo.co.kr/news/15440) <br/>
+[2025/12/07 - META가 메타버스 포기하고 오픈소스 AI 올인? 2025 페스티벌 현장 반응](https://blog.ai.dmomo.co.kr/ai/15437) <br/>
+[2025/12/06 - [뉴스] 도자기 작가 예진옥 뉴욕서 ‘숨결의 울림’ 전시회](https://blog.ai.dmomo.co.kr/news/15434) <br/>
+[2025/12/06 - [뉴스] 틱톡 쓰세요 삼성도 손짓…MZ들 눈독 들인 틱톡샵](https://blog.ai.dmomo.co.kr/news/15431) <br/>
+[2025/12/06 - 셀틱스 126-105 레이커스 압살! 제임스 없는 LA의 몰락](https://blog.ai.dmomo.co.kr/trend/15428) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/12/05 - The 2025 Cloudflare Outage: Causes and 7 Key Lessons from the Global Internet Crash](https://ai.trend.dmomo.co.kr/2025/12/the-2025-cloudflare-outage-causes-and-7.html) <br/>
-[2025/12/05 - Core Services of Cloudflare and the 2025 Major Outage Analysis: 5 Key Insights You Need to Know](https://ai.trend.dmomo.co.kr/2025/12/core-services-of-cloudflare-and-2025.html) <br/>
-[2025/12/05 - NFL Week 14 Highlights: A Playoff Deciding Clash Between the Lions and Cowboys](https://ai.trend.dmomo.co.kr/2025/12/nfl-week-14-highlights-playoff-deciding.html) <br/>
-[2025/12/05 - The Backstage Story of Jo Jin-woong's Award-Winning Performance in 'The Outlaws' at the Baeksang Arts Awards](https://ai.trend.dmomo.co.kr/2025/12/the-backstage-story-of-jo-jin-woongs.html) <br/>
-[2025/12/05 - Ryu Jung-il's Daughter-in-Law Shocking Confession: A Complete Overview of the Teacher-Student Affair and Legal Issues](https://ai.trend.dmomo.co.kr/2025/12/ryu-jung-ils-daughter-in-law-shocking.html) <br/>
-[2025/12/05 - Innovation in 2025: What Does the Era of AI-Integrated Low-Code Development with Flowise Mean?](https://ai.trend.dmomo.co.kr/2025/12/innovation-in-2025-what-does-era-of-ai.html) <br/>
+[2025/12/06 - Celtics Dominate Lakers 126-105! The Downfall of LA Without LeBron](https://ai.trend.dmomo.co.kr/2025/12/celtics-dominate-lakers-126-105.html) <br/>
+[2025/12/06 - Gwangju vs Jeonbuk: What are the Differences and Similarities of the Two Giants of Honam?](https://ai.trend.dmomo.co.kr/2025/12/gwangju-vs-jeonbuk-what-are-differences.html) <br/>
+[2025/12/06 - 2026 FIFA World Cup Match Schedule Released for 11 US Cities! Essential Guide for Fans](https://ai.trend.dmomo.co.kr/2025/12/2026-fifa-world-cup-match-schedule.html) <br/>
+[2025/12/06 - What Are the Key Technologies Behind Akamai and NVIDIA's Latest Edge AI Inference Cloud in 2025?](https://ai.trend.dmomo.co.kr/2025/12/what-are-key-technologies-behind-akamai.html) <br/>
+[2025/12/06 - 2026 FIFA World Cup Draw Completed: America's Challenge with 48 Teams in History](https://ai.trend.dmomo.co.kr/2025/12/2026-fifa-world-cup-draw-completed.html) <br/>
+[2025/12/06 - Jo Jin-woong's Involvement in Serious Crimes During School Days - Will It Affect the Production of Signal Season 2?](https://ai.trend.dmomo.co.kr/2025/12/jo-jin-woongs-involvement-in-serious.html) <br/>
