@@ -79,25 +79,25 @@
 
 ## ✅ Latest Blog Post
 
+[2025/12/07 - 2025년 Cloudflare 대규모 장애 원인과 글로벌 인터넷 마비 7가지 교훈](https://dmomo.co.kr/769) <br/>
+[2025/12/07 - React2Shell 취약점 완전 분석과 Cloudflare 대응, 내 개발환경은 안전한가?](https://dmomo.co.kr/768) <br/>
 [2025/11/29 - 쿠팡 3,370만 고객정보 대규모 유출! 5개월간 방치된 보안 참사의 전말](https://dmomo.co.kr/767) <br/>
 [2025/11/28 - 이순재 배우 별세: 91세까지 현역으로 빛난 한국 드라마의 전설](https://dmomo.co.kr/766) <br/>
 [2025/11/21 - 엔비디아 어닝 서프라이즈, AI 버블론 잠재운 570억 달러 실적 분석](https://dmomo.co.kr/765) <br/>
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
-[2025/11/19 - 클라우드플레어 대규모 장애: 인터넷이 멈춘 날의 진실과 교훈](https://dmomo.co.kr/763) <br/>
-[2025/11/19 - 가나 감독 폭탄 발언 '일본은 높은 레벨, 한국은 그 정도 아냐](https://dmomo.co.kr/762) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/07 - [뉴스] “연준은 멈출까, 더 갈까”…올해 마지막 FOMC 관전 포인트는](https://blog.ai.dmomo.co.kr/news/15443) <br/>
-[2025/12/07 - [뉴스] 가족들도 돈 받거든요…유명 아이돌, 사생활 생중계하는 이유](https://blog.ai.dmomo.co.kr/news/15440) <br/>
-[2025/12/07 - META가 메타버스 포기하고 오픈소스 AI 올인? 2025 페스티벌 현장 반응](https://blog.ai.dmomo.co.kr/ai/15437) <br/>
-[2025/12/06 - [뉴스] 도자기 작가 예진옥 뉴욕서 ‘숨결의 울림’ 전시회](https://blog.ai.dmomo.co.kr/news/15434) <br/>
-[2025/12/06 - [뉴스] 틱톡 쓰세요 삼성도 손짓…MZ들 눈독 들인 틱톡샵](https://blog.ai.dmomo.co.kr/news/15431) <br/>
-[2025/12/06 - 셀틱스 126-105 레이커스 압살! 제임스 없는 LA의 몰락](https://blog.ai.dmomo.co.kr/trend/15428) <br/>
+[2025/12/08 - [뉴스] 미 재무장관 “올해 미국 실질 GDP성장률 3%…내년 인플레 하락 전망”](https://blog.ai.dmomo.co.kr/news/15509) <br/>
+[2025/12/08 - [뉴스] SK하이닉스, 내년 300단대 V10 낸드 낸다…하이브리드 본딩 첫 적용](https://blog.ai.dmomo.co.kr/news/15506) <br/>
+[2025/12/08 - [뉴스] 의자 서명식 위해…올 노벨상 수상자 한자리에](https://blog.ai.dmomo.co.kr/news/15503) <br/>
+[2025/12/07 - [뉴스] 입에서 시작된 외교참사, 군사갈등으로…“중국 전투기 레이더 쐈다”](https://blog.ai.dmomo.co.kr/news/15500) <br/>
+[2025/12/07 - [뉴스] 한 손의 피아니스트, 니콜라스 맥카시](https://blog.ai.dmomo.co.kr/news/15497) <br/>
+[2025/12/07 - [뉴스] 이이경은 패싱하고 유재석은 의미심장 발언](https://blog.ai.dmomo.co.kr/news/15494) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/12/06 - Celtics Dominate Lakers 126-105! The Downfall of LA Without LeBron](https://ai.trend.dmomo.co.kr/2025/12/celtics-dominate-lakers-126-105.html) <br/>
-[2025/12/06 - Gwangju vs Jeonbuk: What are the Differences and Similarities of the Two Giants of Honam?](https://ai.trend.dmomo.co.kr/2025/12/gwangju-vs-jeonbuk-what-are-differences.html) <br/>
-[2025/12/06 - 2026 FIFA World Cup Match Schedule Released for 11 US Cities! Essential Guide for Fans](https://ai.trend.dmomo.co.kr/2025/12/2026-fifa-world-cup-match-schedule.html) <br/>
-[2025/12/06 - What Are the Key Technologies Behind Akamai and NVIDIA's Latest Edge AI Inference Cloud in 2025?](https://ai.trend.dmomo.co.kr/2025/12/what-are-key-technologies-behind-akamai.html) <br/>
-[2025/12/06 - 2026 FIFA World Cup Draw Completed: America's Challenge with 48 Teams in History](https://ai.trend.dmomo.co.kr/2025/12/2026-fifa-world-cup-draw-completed.html) <br/>
-[2025/12/06 - Jo Jin-woong's Involvement in Serious Crimes During School Days - Will It Affect the Production of Signal Season 2?](https://ai.trend.dmomo.co.kr/2025/12/jo-jin-woongs-involvement-in-serious.html) <br/>
+[2025/12/07 - Indiana's Miracle After 58 Years! Defeats National No. 1 Ohio State 13-10](https://ai.trend.dmomo.co.kr/2025/12/indianas-miracle-after-58-years-defeats.html) <br/>
+[2025/12/07 - Tottenham Breaks 5-Match Winless Streak Without Son Heung-Min! Simons Shines with 1 Goal and 1 Assist](https://ai.trend.dmomo.co.kr/2025/12/tottenham-breaks-5-match-winless-streak.html) <br/>
+[2025/12/07 - In-Depth Analysis of the React2Shell Vulnerability and Cloudflare’s Response: Is My Development Environment Safe?](https://ai.trend.dmomo.co.kr/2025/12/in-depth-analysis-of-react2shell.html) <br/>
+[2025/12/07 - Innovation in 2025! Exploring the Latest Trends in Software Infrastructure: What Is Infrastructure as a Product?](https://ai.trend.dmomo.co.kr/2025/12/innovation-in-2025-exploring-latest.html) <br/>
+[2025/12/07 - 2025 SEC Championship: Georgia Shocks Alabama with a 14-0 Halftime Lead](https://ai.trend.dmomo.co.kr/2025/12/2025-sec-championship-georgia-shocks.html) <br/>
+[2025/12/07 - PSG 5-0 Rennes Victory! Why Did Lee Kang-in's False Nine Experiment Fail?](https://ai.trend.dmomo.co.kr/2025/12/psg-5-0-rennes-victory-why-did-lee-kang.html) <br/>
