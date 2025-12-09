@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/08 - [뉴스] 미 재무장관 “올해 미국 실질 GDP성장률 3%…내년 인플레 하락 전망”](https://blog.ai.dmomo.co.kr/news/15509) <br/>
-[2025/12/08 - [뉴스] SK하이닉스, 내년 300단대 V10 낸드 낸다…하이브리드 본딩 첫 적용](https://blog.ai.dmomo.co.kr/news/15506) <br/>
-[2025/12/08 - [뉴스] 의자 서명식 위해…올 노벨상 수상자 한자리에](https://blog.ai.dmomo.co.kr/news/15503) <br/>
-[2025/12/07 - [뉴스] 입에서 시작된 외교참사, 군사갈등으로…“중국 전투기 레이더 쐈다”](https://blog.ai.dmomo.co.kr/news/15500) <br/>
-[2025/12/07 - [뉴스] 한 손의 피아니스트, 니콜라스 맥카시](https://blog.ai.dmomo.co.kr/news/15497) <br/>
-[2025/12/07 - [뉴스] 이이경은 패싱하고 유재석은 의미심장 발언](https://blog.ai.dmomo.co.kr/news/15494) <br/>
+[2025/12/09 - [뉴스] 재산만 6조3000억원…4년만에 총리로 복귀한 체코 억만장자](https://blog.ai.dmomo.co.kr/news/15591) <br/>
+[2025/12/09 - [뉴스] LG유플러스, 로밍 챗봇이 사람처럼 대화…상담·가입·처리 시간 단축](https://blog.ai.dmomo.co.kr/news/15588) <br/>
+[2025/12/09 - [뉴스] 연말까지 1000명 모은다…쿠팡 상대로 연내 美 징벌소송](https://blog.ai.dmomo.co.kr/news/15582) <br/>
+[2025/12/09 - [뉴스] 트럼프 중국에 엔비디아 H200 수출 승인](https://blog.ai.dmomo.co.kr/news/15580) <br/>
+[2025/12/09 - [뉴스] 굴뚝 기업에서 AI기업으로···‘만년 저평가주’ LG전자 드디어 뜨나 [매일 돈이 보이는 습관 M+]](https://blog.ai.dmomo.co.kr/news/15579) <br/>
+[2025/12/09 - [뉴스] 어쩔수가없다 케데헌 골든글로브 작품상 후보 선정](https://blog.ai.dmomo.co.kr/news/15575) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/12/08 - K League Promotion Playoff: Intense Analysis of the Crucial Second Match - Suwon FC vs Bucheon FC](https://ai.trend.dmomo.co.kr/2025/12/k-league-promotion-playoff-intense.html) <br/>
+[2025/12/08 - From a Shocking 0-3 to a 7-Game Win Streak: But 'December Mahomes' Was Different](https://ai.trend.dmomo.co.kr/2025/12/from-shocking-0-3-to-7-game-win-streak.html) <br/>
+[2025/12/08 - 2025 Latest AWS Lambda Managed Instances: The Future of Serverless Innovation](https://ai.trend.dmomo.co.kr/2025/12/2025-latest-aws-lambda-managed.html) <br/>
+[2025/12/08 - Broncos vs Raiders: 3 Crucial Moments that Determined the Fate of the AFC West Division](https://ai.trend.dmomo.co.kr/2025/12/broncos-vs-raiders-3-crucial-moments.html) <br/>
+[2025/12/08 - Real Madrid's 19-Year Home Defeat: Shocking 0-2 Loss to Celta Vigo - Why?](https://ai.trend.dmomo.co.kr/2025/12/real-madrids-19-year-home-defeat.html) <br/>
 [2025/12/07 - Indiana's Miracle After 58 Years! Defeats National No. 1 Ohio State 13-10](https://ai.trend.dmomo.co.kr/2025/12/indianas-miracle-after-58-years-defeats.html) <br/>
-[2025/12/07 - Tottenham Breaks 5-Match Winless Streak Without Son Heung-Min! Simons Shines with 1 Goal and 1 Assist](https://ai.trend.dmomo.co.kr/2025/12/tottenham-breaks-5-match-winless-streak.html) <br/>
-[2025/12/07 - In-Depth Analysis of the React2Shell Vulnerability and Cloudflare’s Response: Is My Development Environment Safe?](https://ai.trend.dmomo.co.kr/2025/12/in-depth-analysis-of-react2shell.html) <br/>
-[2025/12/07 - Innovation in 2025! Exploring the Latest Trends in Software Infrastructure: What Is Infrastructure as a Product?](https://ai.trend.dmomo.co.kr/2025/12/innovation-in-2025-exploring-latest.html) <br/>
-[2025/12/07 - 2025 SEC Championship: Georgia Shocks Alabama with a 14-0 Halftime Lead](https://ai.trend.dmomo.co.kr/2025/12/2025-sec-championship-georgia-shocks.html) <br/>
-[2025/12/07 - PSG 5-0 Rennes Victory! Why Did Lee Kang-in's False Nine Experiment Fail?](https://ai.trend.dmomo.co.kr/2025/12/psg-5-0-rennes-victory-why-did-lee-kang.html) <br/>
