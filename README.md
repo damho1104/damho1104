@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/09 - [뉴스] 재산만 6조3000억원…4년만에 총리로 복귀한 체코 억만장자](https://blog.ai.dmomo.co.kr/news/15591) <br/>
-[2025/12/09 - [뉴스] LG유플러스, 로밍 챗봇이 사람처럼 대화…상담·가입·처리 시간 단축](https://blog.ai.dmomo.co.kr/news/15588) <br/>
-[2025/12/09 - [뉴스] 연말까지 1000명 모은다…쿠팡 상대로 연내 美 징벌소송](https://blog.ai.dmomo.co.kr/news/15582) <br/>
-[2025/12/09 - [뉴스] 트럼프 중국에 엔비디아 H200 수출 승인](https://blog.ai.dmomo.co.kr/news/15580) <br/>
-[2025/12/09 - [뉴스] 굴뚝 기업에서 AI기업으로···‘만년 저평가주’ LG전자 드디어 뜨나 [매일 돈이 보이는 습관 M+]](https://blog.ai.dmomo.co.kr/news/15579) <br/>
-[2025/12/09 - [뉴스] 어쩔수가없다 케데헌 골든글로브 작품상 후보 선정](https://blog.ai.dmomo.co.kr/news/15575) <br/>
+[2025/12/10 - [뉴스] “여러번 받아 정말 특별하다”…‘최다 타이’ 오타니가 4번이나 받은 이 상](https://blog.ai.dmomo.co.kr/news/15654) <br/>
+[2025/12/10 - [뉴스] 아 또 깜빡했다…코로나 이후 기억력 저하 이유 있었다](https://blog.ai.dmomo.co.kr/news/15651) <br/>
+[2025/12/09 - [뉴스] “아내 왔다”…불륜 발각되자 10층 외벽 탄 ‘스파이더걸’](https://blog.ai.dmomo.co.kr/news/15648) <br/>
+[2025/12/09 - [뉴스] 하얀 피부 거부?…동남아에 퍼지는 이색 챌린지](https://blog.ai.dmomo.co.kr/news/15645) <br/>
+[2025/12/09 - [뉴스] 박윤영·주형철·홍원표 KT 차기 사장 3파전](https://blog.ai.dmomo.co.kr/news/15642) <br/>
+[2025/12/09 - [뉴스] 현금비축 1년새 17% 늘린 기업들 58%가 “내년 더 보수적 재무전략”](https://blog.ai.dmomo.co.kr/news/15639) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/12/09 - Complete Recovery of the American Bald Eagle? Summary of the Latest Conservation Status in 2025](https://ai.trend.dmomo.co.kr/2025/12/complete-recovery-of-american-bald.html) <br/>
+[2025/12/09 - Top 5 Breakthrough LLMOps Strategies and Cost-Saving Tips to Watch in 2025](https://ai.trend.dmomo.co.kr/2025/12/top-5-breakthrough-llmops-strategies.html) <br/>
+[2025/12/09 - Breaking News: Japan's 7.6 Magnitude Earthquake - Concerns Over Direct Impact on U.S. Economy, Evacuation Order for 90,000 People](https://ai.trend.dmomo.co.kr/2025/12/breaking-news-japans-76-magnitude.html) <br/>
+[2025/12/09 - Wolves Suffer Shocking 8-Game Losing Streak! Hee-chan Hwang Benched in 1-4 Defeat to Man United](https://ai.trend.dmomo.co.kr/2025/12/wolves-suffer-shocking-8-game-losing.html) <br/>
 [2025/12/08 - K League Promotion Playoff: Intense Analysis of the Crucial Second Match - Suwon FC vs Bucheon FC](https://ai.trend.dmomo.co.kr/2025/12/k-league-promotion-playoff-intense.html) <br/>
 [2025/12/08 - From a Shocking 0-3 to a 7-Game Win Streak: But 'December Mahomes' Was Different](https://ai.trend.dmomo.co.kr/2025/12/from-shocking-0-3-to-7-game-win-streak.html) <br/>
-[2025/12/08 - 2025 Latest AWS Lambda Managed Instances: The Future of Serverless Innovation](https://ai.trend.dmomo.co.kr/2025/12/2025-latest-aws-lambda-managed.html) <br/>
-[2025/12/08 - Broncos vs Raiders: 3 Crucial Moments that Determined the Fate of the AFC West Division](https://ai.trend.dmomo.co.kr/2025/12/broncos-vs-raiders-3-crucial-moments.html) <br/>
-[2025/12/08 - Real Madrid's 19-Year Home Defeat: Shocking 0-2 Loss to Celta Vigo - Why?](https://ai.trend.dmomo.co.kr/2025/12/real-madrids-19-year-home-defeat.html) <br/>
-[2025/12/07 - Indiana's Miracle After 58 Years! Defeats National No. 1 Ohio State 13-10](https://ai.trend.dmomo.co.kr/2025/12/indianas-miracle-after-58-years-defeats.html) <br/>
