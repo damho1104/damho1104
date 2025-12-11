@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/10 - [뉴스] “여러번 받아 정말 특별하다”…‘최다 타이’ 오타니가 4번이나 받은 이 상](https://blog.ai.dmomo.co.kr/news/15654) <br/>
-[2025/12/10 - [뉴스] 아 또 깜빡했다…코로나 이후 기억력 저하 이유 있었다](https://blog.ai.dmomo.co.kr/news/15651) <br/>
-[2025/12/09 - [뉴스] “아내 왔다”…불륜 발각되자 10층 외벽 탄 ‘스파이더걸’](https://blog.ai.dmomo.co.kr/news/15648) <br/>
-[2025/12/09 - [뉴스] 하얀 피부 거부?…동남아에 퍼지는 이색 챌린지](https://blog.ai.dmomo.co.kr/news/15645) <br/>
-[2025/12/09 - [뉴스] 박윤영·주형철·홍원표 KT 차기 사장 3파전](https://blog.ai.dmomo.co.kr/news/15642) <br/>
-[2025/12/09 - [뉴스] 현금비축 1년새 17% 늘린 기업들 58%가 “내년 더 보수적 재무전략”](https://blog.ai.dmomo.co.kr/news/15639) <br/>
+[2025/12/11 - [뉴스] 연준 25bp 금리인하 단행에 뉴욕증시 반색…다우 1% 상승 마감 [월가월부]](https://blog.ai.dmomo.co.kr/news/15729) <br/>
+[2025/12/11 - [뉴스] 中 딥시크, 엔비디아 밀반입해 새 AI 모델 개발](https://blog.ai.dmomo.co.kr/news/15726) <br/>
+[2025/12/11 - [뉴스] 철도노조 합의 도출…KTX 등 열차 정상 운행](https://blog.ai.dmomo.co.kr/news/15723) <br/>
+[2025/12/11 - [뉴스] 국제회계기준 해석委, 일탈회계 관련 기준개정 필요없다 의견](https://blog.ai.dmomo.co.kr/news/15719) <br/>
+[2025/12/11 - [뉴스] 뉴욕증시,FOMC 매파적 금리인하예상하며 혼조세](https://blog.ai.dmomo.co.kr/news/15718) <br/>
+[2025/12/10 - [뉴스] “5년 치 SNS 내역 제출”…미국, 관광객 ‘ESTA’ 더 세게 심사한다](https://blog.ai.dmomo.co.kr/news/15714) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/12/10 - Dramatic Comeback Victory for Barcelona Over Frankfurt in Just 3 Minutes! A Positive Signal for the Champions League Round of 16](https://ai.trend.dmomo.co.kr/2025/12/dramatic-comeback-victory-for-barcelona.html) <br/>
+[2025/12/10 - Knicks vs Raptors: In-Depth Analysis and Highlights of the Emirates NBA Cup Match](https://ai.trend.dmomo.co.kr/2025/12/knicks-vs-raptors-in-depth-analysis-and.html) <br/>
+[2025/12/10 - The Secrets of AI Acceleration in NVIDIA DGX Cloud 2025 and Innovative Cloud Strategies](https://ai.trend.dmomo.co.kr/2025/12/the-secrets-of-ai-acceleration-in.html) <br/>
+[2025/12/10 - Barcelona-Frankfurt Route: The Ultimate 2025 Guide for American Travelers](https://ai.trend.dmomo.co.kr/2025/12/barcelona-frankfurt-route-ultimate-2025.html) <br/>
+[2025/12/10 - The Real Reason Tottenham Defeated Slavia Prague 3-0 on Son Heung-min's Farewell Day](https://ai.trend.dmomo.co.kr/2025/12/the-real-reason-tottenham-defeated.html) <br/>
 [2025/12/09 - Complete Recovery of the American Bald Eagle? Summary of the Latest Conservation Status in 2025](https://ai.trend.dmomo.co.kr/2025/12/complete-recovery-of-american-bald.html) <br/>
-[2025/12/09 - Top 5 Breakthrough LLMOps Strategies and Cost-Saving Tips to Watch in 2025](https://ai.trend.dmomo.co.kr/2025/12/top-5-breakthrough-llmops-strategies.html) <br/>
-[2025/12/09 - Breaking News: Japan's 7.6 Magnitude Earthquake - Concerns Over Direct Impact on U.S. Economy, Evacuation Order for 90,000 People](https://ai.trend.dmomo.co.kr/2025/12/breaking-news-japans-76-magnitude.html) <br/>
-[2025/12/09 - Wolves Suffer Shocking 8-Game Losing Streak! Hee-chan Hwang Benched in 1-4 Defeat to Man United](https://ai.trend.dmomo.co.kr/2025/12/wolves-suffer-shocking-8-game-losing.html) <br/>
-[2025/12/08 - K League Promotion Playoff: Intense Analysis of the Crucial Second Match - Suwon FC vs Bucheon FC](https://ai.trend.dmomo.co.kr/2025/12/k-league-promotion-playoff-intense.html) <br/>
-[2025/12/08 - From a Shocking 0-3 to a 7-Game Win Streak: But 'December Mahomes' Was Different](https://ai.trend.dmomo.co.kr/2025/12/from-shocking-0-3-to-7-game-win-streak.html) <br/>
