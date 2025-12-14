@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/13 - [뉴스] “회장님이 왜 공사판에 계세요?”…수백조 자산가들 한자리 모인 까닭](https://blog.ai.dmomo.co.kr/news/15878) <br/>
-[2025/12/13 - [뉴스] 써도 되나 AI 통화앱 발칵…익시오, 다운로드도 급감](https://blog.ai.dmomo.co.kr/news/15875) <br/>
-[2025/12/13 - [뉴스] 양준혁 떼돈 벌겠네…방어회 한 접시 가격 듣고 화들짝](https://blog.ai.dmomo.co.kr/news/15872) <br/>
-[2025/12/12 - [뉴스] 정의선·이재용 회장과 ‘깐부 러브샷’…젠슨 황, ‘FT 올해의 인물’로 선정돼](https://blog.ai.dmomo.co.kr/news/15869) <br/>
-[2025/12/12 - [뉴스] 샤이니 키, 나혼산·놀토 녹화 불참 혹시?…해외 투어 일정 때문](https://blog.ai.dmomo.co.kr/news/15866) <br/>
-[2025/12/12 - [뉴스] 제미나이3에 한방 맞은 오픈AI, 한 달 만에 또 신모델](https://blog.ai.dmomo.co.kr/news/15863) <br/>
+[2025/12/14 - CES 2026 혁신상 수상작 Strutt ev¹이 Reddit을 뜨겁게 달군 3가지 이유](https://blog.ai.dmomo.co.kr/ai/15926) <br/>
+[2025/12/13 - [뉴스] 규모 7.0 이상 지진 가능성 나왔다…4개 대륙판 둘러싸인 이 나라](https://blog.ai.dmomo.co.kr/news/15923) <br/>
+[2025/12/13 - [뉴스] 차인표, 또 울려 퍼진 승전보…왜 이렇게 떨릴까](https://blog.ai.dmomo.co.kr/news/15920) <br/>
+[2025/12/13 - 커리 39점 폭발에도… 팀버울브스, 워리어스에 127-120 극적 승리](https://blog.ai.dmomo.co.kr/trend/15917) <br/>
+[2025/12/13 - [뉴스] 신용카드 열심히 썼는데…190만원 손해 봤다 깜짝](https://blog.ai.dmomo.co.kr/news/15914) <br/>
+[2025/12/13 - [뉴스] 아이폰 왜 이리 많나 이재용 농담 통했나…돌변한 20대들](https://blog.ai.dmomo.co.kr/news/15911) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/12/13 - Despite Curry's Explosive 39 Points... Timberwolves Clinch Dramatic 127-120 Victory Over Warriors](https://ai.trend.dmomo.co.kr/2025/12/despite-currys-explosive-39-points.html) <br/>
+[2025/12/13 - Byun Yo-han and Tiffany Confirm Romantic Relationship! Serious Dating with Marriage in Mind.](https://ai.trend.dmomo.co.kr/2025/12/byun-yo-han-and-tiffany-confirm.html) <br/>
+[2025/12/13 - The Science of Weather: Everything About Meteorological Phenomena from Polar Whiteouts to AI Forecasting](https://ai.trend.dmomo.co.kr/2025/12/the-science-of-weather-everything-about.html) <br/>
+[2025/12/13 - Legacy of 1967: A Turning Point in History Viewed by America After 58 Years](https://ai.trend.dmomo.co.kr/2025/12/legacy-of-1967-turning-point-in-history.html) <br/>
+[2025/12/13 - The Core of Low-Code Innovation in 2025: AI Agent-Powered Autonomous Development Environment](https://ai.trend.dmomo.co.kr/2025/12/the-core-of-low-code-innovation-in-2025.html) <br/>
 [2025/12/12 - Epic Games vs Apple: How the 27% Commission Ruling Will Transform the Future of the Gaming Industry](https://ai.trend.dmomo.co.kr/2025/12/epic-games-vs-apple-how-27-commission.html) <br/>
-[2025/12/12 - Falcons 29-28 Buccaneers: A Dramatic Turnaround with a Last-Minute Field Goal in TNF Showdown](https://ai.trend.dmomo.co.kr/2025/12/falcons-29-28-buccaneers-dramatic.html) <br/>
-[2025/12/12 - Revolutionizing Defense IoT Battlefields with 5G: Real-Time Combat Transformed from 2025](https://ai.trend.dmomo.co.kr/2025/12/revolutionizing-defense-iot.html) <br/>
-[2025/12/12 - Mastering the Essential Spanish Word 'Que': A Guide for American Learners](https://ai.trend.dmomo.co.kr/2025/12/mastering-essential-spanish-word-que.html) <br/>
-[2025/12/12 - Korean Derby Winner: Cho Gue-sung's Winning Goal Secures 1-0 Victory for Midtjylland in Europa League](https://ai.trend.dmomo.co.kr/2025/12/korean-derby-winner-cho-gue-sungs.html) <br/>
-[2025/12/11 - University of Michigan Football Coach Sheron Moore Fired Over Inappropriate Relationship](https://ai.trend.dmomo.co.kr/2025/12/university-of-michigan-football-coach.html) <br/>
