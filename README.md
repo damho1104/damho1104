@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/14 - CES 2026 혁신상 수상작 Strutt ev¹이 Reddit을 뜨겁게 달군 3가지 이유](https://blog.ai.dmomo.co.kr/ai/15926) <br/>
-[2025/12/13 - [뉴스] 규모 7.0 이상 지진 가능성 나왔다…4개 대륙판 둘러싸인 이 나라](https://blog.ai.dmomo.co.kr/news/15923) <br/>
-[2025/12/13 - [뉴스] 차인표, 또 울려 퍼진 승전보…왜 이렇게 떨릴까](https://blog.ai.dmomo.co.kr/news/15920) <br/>
-[2025/12/13 - 커리 39점 폭발에도… 팀버울브스, 워리어스에 127-120 극적 승리](https://blog.ai.dmomo.co.kr/trend/15917) <br/>
-[2025/12/13 - [뉴스] 신용카드 열심히 썼는데…190만원 손해 봤다 깜짝](https://blog.ai.dmomo.co.kr/news/15914) <br/>
-[2025/12/13 - [뉴스] 아이폰 왜 이리 많나 이재용 농담 통했나…돌변한 20대들](https://blog.ai.dmomo.co.kr/news/15911) <br/>
+[2025/12/15 - [뉴스] “요즘 취업도 어려운데 이 회사 뭐야”…오픈AI, 입사 첫날부터 스톡옵션 부여](https://blog.ai.dmomo.co.kr/news/15986) <br/>
+[2025/12/15 - [뉴스] 부실 보안에 전세계 떠돈 내 정보…보상은 겨우 10만원?](https://blog.ai.dmomo.co.kr/news/15983) <br/>
+[2025/12/14 - [뉴스] “내년부터 20개씩 건설” 北 김정은, 추진 중인 시설은?](https://blog.ai.dmomo.co.kr/news/15980) <br/>
+[2025/12/14 - [뉴스] 헐벗은 카니예의 아내, 혹은 야망의 사업가?…센소리는 왜 서울에 왔나](https://blog.ai.dmomo.co.kr/news/15977) <br/>
+[2025/12/14 - [뉴스] 버려지는 팔라듐, 고효율 회수 기술 나왔다](https://blog.ai.dmomo.co.kr/news/15974) <br/>
+[2025/12/14 - 아스널 2-1 울브스: 황희찬 80분 분투에도 자책골 2개로 9연패 늪](https://blog.ai.dmomo.co.kr/trend/15971) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/12/14 - Arsenal 2-1 Wolves: Hwang Hee-chan's Struggle in 80 Minutes Results in Own Goals and 9 Consecutive Losses](https://ai.trend.dmomo.co.kr/2025/12/arsenal-2-1-wolves-hwang-hee-chans.html) <br/>
+[2025/12/14 - The Core of AI Innovation in 2025: How Agentic AI is Transforming the Future of Business](https://ai.trend.dmomo.co.kr/2025/12/the-core-of-ai-innovation-in-2025-how.html) <br/>
+[2025/12/14 - Brown University Shooting: A Shocking Warning That Ivy League Is Not Safe Either](https://ai.trend.dmomo.co.kr/2025/12/brown-university-shooting-shocking.html) <br/>
 [2025/12/13 - Despite Curry's Explosive 39 Points... Timberwolves Clinch Dramatic 127-120 Victory Over Warriors](https://ai.trend.dmomo.co.kr/2025/12/despite-currys-explosive-39-points.html) <br/>
 [2025/12/13 - Byun Yo-han and Tiffany Confirm Romantic Relationship! Serious Dating with Marriage in Mind.](https://ai.trend.dmomo.co.kr/2025/12/byun-yo-han-and-tiffany-confirm.html) <br/>
 [2025/12/13 - The Science of Weather: Everything About Meteorological Phenomena from Polar Whiteouts to AI Forecasting](https://ai.trend.dmomo.co.kr/2025/12/the-science-of-weather-everything-about.html) <br/>
-[2025/12/13 - Legacy of 1967: A Turning Point in History Viewed by America After 58 Years](https://ai.trend.dmomo.co.kr/2025/12/legacy-of-1967-turning-point-in-history.html) <br/>
-[2025/12/13 - The Core of Low-Code Innovation in 2025: AI Agent-Powered Autonomous Development Environment](https://ai.trend.dmomo.co.kr/2025/12/the-core-of-low-code-innovation-in-2025.html) <br/>
-[2025/12/12 - Epic Games vs Apple: How the 27% Commission Ruling Will Transform the Future of the Gaming Industry](https://ai.trend.dmomo.co.kr/2025/12/epic-games-vs-apple-how-27-commission.html) <br/>
