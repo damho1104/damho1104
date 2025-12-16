@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/15 - [뉴스] “요즘 취업도 어려운데 이 회사 뭐야”…오픈AI, 입사 첫날부터 스톡옵션 부여](https://blog.ai.dmomo.co.kr/news/15986) <br/>
-[2025/12/15 - [뉴스] 부실 보안에 전세계 떠돈 내 정보…보상은 겨우 10만원?](https://blog.ai.dmomo.co.kr/news/15983) <br/>
-[2025/12/14 - [뉴스] “내년부터 20개씩 건설” 北 김정은, 추진 중인 시설은?](https://blog.ai.dmomo.co.kr/news/15980) <br/>
-[2025/12/14 - [뉴스] 헐벗은 카니예의 아내, 혹은 야망의 사업가?…센소리는 왜 서울에 왔나](https://blog.ai.dmomo.co.kr/news/15977) <br/>
-[2025/12/14 - [뉴스] 버려지는 팔라듐, 고효율 회수 기술 나왔다](https://blog.ai.dmomo.co.kr/news/15974) <br/>
-[2025/12/14 - 아스널 2-1 울브스: 황희찬 80분 분투에도 자책골 2개로 9연패 늪](https://blog.ai.dmomo.co.kr/trend/15971) <br/>
+[2025/12/16 - [뉴스] 화해의 영화 찍었는데…‘미저리’ 라이너 감독 살해한 아들 체포](https://blog.ai.dmomo.co.kr/news/16055) <br/>
+[2025/12/16 - [뉴스] KT, 차기 CEO 최종 후보 나온다…해킹 사태 해결사는?](https://blog.ai.dmomo.co.kr/news/16052) <br/>
+[2025/12/16 - [뉴스] 추위 당분간 주춤…낮 최고기온 14도, 서울·경기선 미세먼지](https://blog.ai.dmomo.co.kr/news/16049) <br/>
+[2025/12/15 - [뉴스] 16명 사망 총기 난사범, 맨손으로 붙잡았다…시드니 시민영웅은 ‘무슬림’](https://blog.ai.dmomo.co.kr/news/16046) <br/>
+[2025/12/15 - [뉴스] 내년엔 올해의 색 없다?…글로벌 색채전문기업, 뜻밖의 선택](https://blog.ai.dmomo.co.kr/news/16043) <br/>
+[2025/12/15 - [뉴스] 대규모 공채 시대 끝났다…AI로 잠재적 이직자도 발굴](https://blog.ai.dmomo.co.kr/news/16040) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/12/15 - What is the Win-Win Strategy of 상생페이백? A Complete Guide to Resolving Regional Development Conflicts](https://ai.trend.dmomo.co.kr/2025/12/what-is-win-win-strategy-of-complete.html) <br/>
+[2025/12/15 - Hollywood Icon Rob Reiner Passes Away: Final Farewell of a 78-Year-Old Film Legend](https://ai.trend.dmomo.co.kr/2025/12/hollywood-icon-rob-reiner-passes-away.html) <br/>
+[2025/12/15 - Web Development Trends 2026: 5 Key Frontend Paradigm Shifts Driven by AI](https://ai.trend.dmomo.co.kr/2025/12/web-development-trends-2026-5-key.html) <br/>
+[2025/12/15 - Lee Jae-sung's Comeback Goal: Did Kim Min-jae's Bayern Munich Get Subdued? In-Depth Analysis of the Korean Derby Ending in a 2-2 Draw](https://ai.trend.dmomo.co.kr/2025/12/lee-jae-sungs-comeback-goal-did-kim-min.html) <br/>
+[2025/12/15 - 2025 Bondi Beach Terror Misinformation Warning: The Shocking Truth About Future Fake News](https://ai.trend.dmomo.co.kr/2025/12/2025-bondi-beach-terror-misinformation.html) <br/>
 [2025/12/14 - Arsenal 2-1 Wolves: Hwang Hee-chan's Struggle in 80 Minutes Results in Own Goals and 9 Consecutive Losses](https://ai.trend.dmomo.co.kr/2025/12/arsenal-2-1-wolves-hwang-hee-chans.html) <br/>
-[2025/12/14 - The Core of AI Innovation in 2025: How Agentic AI is Transforming the Future of Business](https://ai.trend.dmomo.co.kr/2025/12/the-core-of-ai-innovation-in-2025-how.html) <br/>
-[2025/12/14 - Brown University Shooting: A Shocking Warning That Ivy League Is Not Safe Either](https://ai.trend.dmomo.co.kr/2025/12/brown-university-shooting-shocking.html) <br/>
-[2025/12/13 - Despite Curry's Explosive 39 Points... Timberwolves Clinch Dramatic 127-120 Victory Over Warriors](https://ai.trend.dmomo.co.kr/2025/12/despite-currys-explosive-39-points.html) <br/>
-[2025/12/13 - Byun Yo-han and Tiffany Confirm Romantic Relationship! Serious Dating with Marriage in Mind.](https://ai.trend.dmomo.co.kr/2025/12/byun-yo-han-and-tiffany-confirm.html) <br/>
-[2025/12/13 - The Science of Weather: Everything About Meteorological Phenomena from Polar Whiteouts to AI Forecasting](https://ai.trend.dmomo.co.kr/2025/12/the-science-of-weather-everything-about.html) <br/>
