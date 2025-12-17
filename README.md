@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/16 - [뉴스] 화해의 영화 찍었는데…‘미저리’ 라이너 감독 살해한 아들 체포](https://blog.ai.dmomo.co.kr/news/16055) <br/>
-[2025/12/16 - [뉴스] KT, 차기 CEO 최종 후보 나온다…해킹 사태 해결사는?](https://blog.ai.dmomo.co.kr/news/16052) <br/>
-[2025/12/16 - [뉴스] 추위 당분간 주춤…낮 최고기온 14도, 서울·경기선 미세먼지](https://blog.ai.dmomo.co.kr/news/16049) <br/>
-[2025/12/15 - [뉴스] 16명 사망 총기 난사범, 맨손으로 붙잡았다…시드니 시민영웅은 ‘무슬림’](https://blog.ai.dmomo.co.kr/news/16046) <br/>
-[2025/12/15 - [뉴스] 내년엔 올해의 색 없다?…글로벌 색채전문기업, 뜻밖의 선택](https://blog.ai.dmomo.co.kr/news/16043) <br/>
-[2025/12/15 - [뉴스] 대규모 공채 시대 끝났다…AI로 잠재적 이직자도 발굴](https://blog.ai.dmomo.co.kr/news/16040) <br/>
+[2025/12/17 - [뉴스] 백악관 비서실장 “트럼프 관세 정책에 엄청난 내부 이견 있었어”](https://blog.ai.dmomo.co.kr/news/16135) <br/>
+[2025/12/17 - [뉴스] HBM4 퀄 논쟁, 포인트만 짚었습니다](https://blog.ai.dmomo.co.kr/news/16132) <br/>
+[2025/12/17 - [뉴스] 이이경, 놀면 뭐하니 하차에 유재석 배후설…진실은](https://blog.ai.dmomo.co.kr/news/16129) <br/>
+[2025/12/16 - [뉴스] “러시아, 우크라와 전쟁 끝내면”…핀란드 총리가 걱정하는 이유](https://blog.ai.dmomo.co.kr/news/16126) <br/>
+[2025/12/16 - [뉴스] 국립중앙박물관, 세계 3대 박물관으로 키울 것](https://blog.ai.dmomo.co.kr/news/16123) <br/>
+[2025/12/16 - [뉴스] 세 번째 도전 끝에…KT 차기 사장 후보 박윤영](https://blog.ai.dmomo.co.kr/news/16120) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/12/15 - What is the Win-Win Strategy of 상생페이백? A Complete Guide to Resolving Regional Development Conflicts](https://ai.trend.dmomo.co.kr/2025/12/what-is-win-win-strategy-of-complete.html) <br/>
-[2025/12/15 - Hollywood Icon Rob Reiner Passes Away: Final Farewell of a 78-Year-Old Film Legend](https://ai.trend.dmomo.co.kr/2025/12/hollywood-icon-rob-reiner-passes-away.html) <br/>
-[2025/12/15 - Web Development Trends 2026: 5 Key Frontend Paradigm Shifts Driven by AI](https://ai.trend.dmomo.co.kr/2025/12/web-development-trends-2026-5-key.html) <br/>
-[2025/12/15 - Lee Jae-sung's Comeback Goal: Did Kim Min-jae's Bayern Munich Get Subdued? In-Depth Analysis of the Korean Derby Ending in a 2-2 Draw](https://ai.trend.dmomo.co.kr/2025/12/lee-jae-sungs-comeback-goal-did-kim-min.html) <br/>
-[2025/12/15 - 2025 Bondi Beach Terror Misinformation Warning: The Shocking Truth About Future Fake News](https://ai.trend.dmomo.co.kr/2025/12/2025-bondi-beach-terror-misinformation.html) <br/>
-[2025/12/14 - Arsenal 2-1 Wolves: Hwang Hee-chan's Struggle in 80 Minutes Results in Own Goals and 9 Consecutive Losses](https://ai.trend.dmomo.co.kr/2025/12/arsenal-2-1-wolves-hwang-hee-chans.html) <br/>
+[2025/12/16 - Samsung Galaxy Z Tripfold: The Secret Behind Its 3-Fold Innovation and Multitasking Power](https://ai.trend.dmomo.co.kr/2025/12/samsung-galaxy-z-tripfold-secret-behind.html) <br/>
+[2025/12/16 - Shocking Family Story Revealed by Jeon Du-hwan's Grandson: The Massacre Grandfather and Trauma Webtoon](https://ai.trend.dmomo.co.kr/2025/12/shocking-family-story-revealed-by-jeon.html) <br/>
+[2025/12/16 - The Secret to Park Na-rae's Rise to the Top from Comedy Big League to Home Alone](https://ai.trend.dmomo.co.kr/2025/12/the-secret-to-park-na-raes-rise-to-top.html) <br/>
+[2025/12/16 - Coach Tomlin Ranks 10th All-Time in the NFL! Steelers' Fate with 2 Wins Left to Match Chuck Noll's Record](https://ai.trend.dmomo.co.kr/2025/12/coach-tomlin-ranks-10th-all-time-in-nfl.html) <br/>
+[2025/12/16 - Sydney Mass Shooting: The Shocking Truth Behind the Day the Myth of a Safe Nation Crumbled](https://ai.trend.dmomo.co.kr/2025/12/sydney-mass-shooting-shocking-truth.html) <br/>
+[2025/12/16 - 7 Key Internet Innovations in 2025: Future Strategies for AI Bot Wars and Security Threats](https://ai.trend.dmomo.co.kr/2025/12/7-key-internet-innovations-in-2025.html) <br/>
