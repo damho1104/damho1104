@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/17 - [뉴스] 백악관 비서실장 “트럼프 관세 정책에 엄청난 내부 이견 있었어”](https://blog.ai.dmomo.co.kr/news/16135) <br/>
-[2025/12/17 - [뉴스] HBM4 퀄 논쟁, 포인트만 짚었습니다](https://blog.ai.dmomo.co.kr/news/16132) <br/>
-[2025/12/17 - [뉴스] 이이경, 놀면 뭐하니 하차에 유재석 배후설…진실은](https://blog.ai.dmomo.co.kr/news/16129) <br/>
-[2025/12/16 - [뉴스] “러시아, 우크라와 전쟁 끝내면”…핀란드 총리가 걱정하는 이유](https://blog.ai.dmomo.co.kr/news/16126) <br/>
-[2025/12/16 - [뉴스] 국립중앙박물관, 세계 3대 박물관으로 키울 것](https://blog.ai.dmomo.co.kr/news/16123) <br/>
-[2025/12/16 - [뉴스] 세 번째 도전 끝에…KT 차기 사장 후보 박윤영](https://blog.ai.dmomo.co.kr/news/16120) <br/>
+[2025/12/18 - [뉴스] 베네수엘라 이어  에콰도르에 병력 보내는 트럼프, 무슨일이](https://blog.ai.dmomo.co.kr/news/16204) <br/>
+[2025/12/18 - [뉴스] 난리 난 MZ 성지 어디길래…2030이 꽂힌 팝업 정체는?](https://blog.ai.dmomo.co.kr/news/16201) <br/>
+[2025/12/17 - [뉴스] 철권통치 독재자도 더한 사람 앞에선…베네수엘라 원유수출길 다 막혔다](https://blog.ai.dmomo.co.kr/news/16198) <br/>
+[2025/12/17 - [뉴스] 작년 육아휴직자 역대 최대…아빠 6만명 돌파, 엄마는 줄었다](https://blog.ai.dmomo.co.kr/news/16195) <br/>
+[2025/12/17 - [뉴스] 가전도 매장서 살펴보고 라방 때 산다…몇천만원씩 불티](https://blog.ai.dmomo.co.kr/news/16192) <br/>
+[2025/12/17 - 샤이니 키 주사 이모 논란 전말: 활동 중단까지 11일간의 기록](https://blog.ai.dmomo.co.kr/trend/16189) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/12/16 - Samsung Galaxy Z Tripfold: The Secret Behind Its 3-Fold Innovation and Multitasking Power](https://ai.trend.dmomo.co.kr/2025/12/samsung-galaxy-z-tripfold-secret-behind.html) <br/>
-[2025/12/16 - Shocking Family Story Revealed by Jeon Du-hwan's Grandson: The Massacre Grandfather and Trauma Webtoon](https://ai.trend.dmomo.co.kr/2025/12/shocking-family-story-revealed-by-jeon.html) <br/>
-[2025/12/16 - The Secret to Park Na-rae's Rise to the Top from Comedy Big League to Home Alone](https://ai.trend.dmomo.co.kr/2025/12/the-secret-to-park-na-raes-rise-to-top.html) <br/>
-[2025/12/16 - Coach Tomlin Ranks 10th All-Time in the NFL! Steelers' Fate with 2 Wins Left to Match Chuck Noll's Record](https://ai.trend.dmomo.co.kr/2025/12/coach-tomlin-ranks-10th-all-time-in-nfl.html) <br/>
-[2025/12/16 - Sydney Mass Shooting: The Shocking Truth Behind the Day the Myth of a Safe Nation Crumbled](https://ai.trend.dmomo.co.kr/2025/12/sydney-mass-shooting-shocking-truth.html) <br/>
-[2025/12/16 - 7 Key Internet Innovations in 2025: Future Strategies for AI Bot Wars and Security Threats](https://ai.trend.dmomo.co.kr/2025/12/7-key-internet-innovations-in-2025.html) <br/>
+[2025/12/17 - Shinee Key's Injection Controversy: A Record of 11 Days Leading to Activity Suspension](https://ai.trend.dmomo.co.kr/2025/12/shinee-keys-injection-controversy.html) <br/>
+[2025/12/17 - The Evolution of 'Keys' in the Digital Age: A Complete Guide from APIs to AI Agents](https://ai.trend.dmomo.co.kr/2025/12/the-evolution-of-keys-in-digital-age.html) <br/>
+[2025/12/17 - Knicks Win NBA Cup After 52 Years! Brunson's 40-Point Explosion Takes Down Spurs](https://ai.trend.dmomo.co.kr/2025/12/knicks-win-nba-cup-after-52-years.html) <br/>
+[2025/12/17 - 5 Breakthrough Local Multimodal LLM Technologies to Watch in 2025 and Their Future Outlook](https://ai.trend.dmomo.co.kr/2025/12/5-breakthrough-local-multimodal-llm.html) <br/>
+[2025/12/17 - Suzie Wiles: Anatomy of Power of Trump’s First Female Senior Advisor in the White House](https://ai.trend.dmomo.co.kr/2025/12/suzie-wiles-anatomy-of-power-of-trumps.html) <br/>
+[2025/12/17 - Garbo's Multi-Goal Explosion! Chelsea Dominates Cardiff 3-1 to Reach EFL Cup Semifinals](https://ai.trend.dmomo.co.kr/2025/12/garbos-multi-goal-explosion-chelsea.html) <br/>
