@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/18 - [뉴스] 베네수엘라 이어  에콰도르에 병력 보내는 트럼프, 무슨일이](https://blog.ai.dmomo.co.kr/news/16204) <br/>
-[2025/12/18 - [뉴스] 난리 난 MZ 성지 어디길래…2030이 꽂힌 팝업 정체는?](https://blog.ai.dmomo.co.kr/news/16201) <br/>
-[2025/12/17 - [뉴스] 철권통치 독재자도 더한 사람 앞에선…베네수엘라 원유수출길 다 막혔다](https://blog.ai.dmomo.co.kr/news/16198) <br/>
-[2025/12/17 - [뉴스] 작년 육아휴직자 역대 최대…아빠 6만명 돌파, 엄마는 줄었다](https://blog.ai.dmomo.co.kr/news/16195) <br/>
-[2025/12/17 - [뉴스] 가전도 매장서 살펴보고 라방 때 산다…몇천만원씩 불티](https://blog.ai.dmomo.co.kr/news/16192) <br/>
-[2025/12/17 - 샤이니 키 주사 이모 논란 전말: 활동 중단까지 11일간의 기록](https://blog.ai.dmomo.co.kr/trend/16189) <br/>
+[2025/12/19 - [뉴스] “이제 시선은 브라질로”…이노스페이스 ‘첫 상업 로켓’ 20일 새벽 발사](https://blog.ai.dmomo.co.kr/news/16273) <br/>
+[2025/12/19 - [뉴스] 72세 맞아? 비키니 입은 할머니 깜짝’…손주들도 놀라 비결은](https://blog.ai.dmomo.co.kr/news/16270) <br/>
+[2025/12/18 - [뉴스] “전문가 예상치 밑돌았다”…미국 11월 소비자물가 둔화세](https://blog.ai.dmomo.co.kr/news/16267) <br/>
+[2025/12/18 - [뉴스] 배우 김의성 탈팡 인증 정신 좀 차리면 다시 가입할 것](https://blog.ai.dmomo.co.kr/news/16264) <br/>
+[2025/12/18 - [뉴스] 本紙 고은이 기자, KOSA 올해 기자상](https://blog.ai.dmomo.co.kr/news/16261) <br/>
+[2025/12/18 - 트럼프의 워리어 디비던드: 美 군인 145만명에 1,776달러 크리스마스 선물](https://blog.ai.dmomo.co.kr/trend/16257) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/12/17 - Shinee Key's Injection Controversy: A Record of 11 Days Leading to Activity Suspension](https://ai.trend.dmomo.co.kr/2025/12/shinee-keys-injection-controversy.html) <br/>
-[2025/12/17 - The Evolution of 'Keys' in the Digital Age: A Complete Guide from APIs to AI Agents](https://ai.trend.dmomo.co.kr/2025/12/the-evolution-of-keys-in-digital-age.html) <br/>
-[2025/12/17 - Knicks Win NBA Cup After 52 Years! Brunson's 40-Point Explosion Takes Down Spurs](https://ai.trend.dmomo.co.kr/2025/12/knicks-win-nba-cup-after-52-years.html) <br/>
-[2025/12/17 - 5 Breakthrough Local Multimodal LLM Technologies to Watch in 2025 and Their Future Outlook](https://ai.trend.dmomo.co.kr/2025/12/5-breakthrough-local-multimodal-llm.html) <br/>
-[2025/12/17 - Suzie Wiles: Anatomy of Power of Trump’s First Female Senior Advisor in the White House](https://ai.trend.dmomo.co.kr/2025/12/suzie-wiles-anatomy-of-power-of-trumps.html) <br/>
-[2025/12/17 - Garbo's Multi-Goal Explosion! Chelsea Dominates Cardiff 3-1 to Reach EFL Cup Semifinals](https://ai.trend.dmomo.co.kr/2025/12/garbos-multi-goal-explosion-chelsea.html) <br/>
+[2025/12/18 - Trump's Warrior Dividend: $1,776 Christmas Gift for 1.45 Million U.S. Soldiers](https://ai.trend.dmomo.co.kr/2025/12/trumps-warrior-dividend-1776-christmas.html) <br/>
+[2025/12/18 - Newcastle Secures EFL Cup Semifinal Spot with Late Drama Goal Against Fulham!](https://ai.trend.dmomo.co.kr/2025/12/newcastle-secures-efl-cup-semifinal.html) <br/>
+[2025/12/18 - Trump's Second Term: A Comprehensive Analysis of the Designation of Fentanyl as WMD and the 2026 Strategy](https://ai.trend.dmomo.co.kr/2025/12/trumps-second-term-comprehensive.html) <br/>
+[2025/12/18 - How AWS Security Agent is Shaping the Future of Software Security Strategies for 2026 and Beyond](https://ai.trend.dmomo.co.kr/2025/12/how-aws-security-agent-is-shaping.html) <br/>
+[2025/12/18 - Copa del Rey Match Against Talavera: Real Madrid's 3-2 Comeback Reveals Defensive Vulnerabilities](https://ai.trend.dmomo.co.kr/2025/12/copa-del-rey-match-against-talavera.html) <br/>
+[2025/12/18 - Man City Dominates Brentford 2-0 with Cherki's Wonder Goal! Advances to League Cup Semifinals](https://ai.trend.dmomo.co.kr/2025/12/man-city-dominates-brentford-2-0-with.html) <br/>
