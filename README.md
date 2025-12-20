@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/19 - [뉴스] “이제 시선은 브라질로”…이노스페이스 ‘첫 상업 로켓’ 20일 새벽 발사](https://blog.ai.dmomo.co.kr/news/16273) <br/>
-[2025/12/19 - [뉴스] 72세 맞아? 비키니 입은 할머니 깜짝’…손주들도 놀라 비결은](https://blog.ai.dmomo.co.kr/news/16270) <br/>
-[2025/12/18 - [뉴스] “전문가 예상치 밑돌았다”…미국 11월 소비자물가 둔화세](https://blog.ai.dmomo.co.kr/news/16267) <br/>
-[2025/12/18 - [뉴스] 배우 김의성 탈팡 인증 정신 좀 차리면 다시 가입할 것](https://blog.ai.dmomo.co.kr/news/16264) <br/>
-[2025/12/18 - [뉴스] 本紙 고은이 기자, KOSA 올해 기자상](https://blog.ai.dmomo.co.kr/news/16261) <br/>
-[2025/12/18 - 트럼프의 워리어 디비던드: 美 군인 145만명에 1,776달러 크리스마스 선물](https://blog.ai.dmomo.co.kr/trend/16257) <br/>
+[2025/12/20 - [뉴스] ‘전자담배 인증샷’ 올렸다가 벌금 1300만원…싱가포르 규제 강화](https://blog.ai.dmomo.co.kr/news/16336) <br/>
+[2025/12/20 - [뉴스] 많은 이야기 나눴다”…구마유시에 고마움 전한 페이커](https://blog.ai.dmomo.co.kr/news/16333) <br/>
+[2025/12/20 - [뉴스] 가족 5명 떠나보내고도 정시 출근…미쳤다던 男의 반전](https://blog.ai.dmomo.co.kr/news/16330) <br/>
+[2025/12/19 - [뉴스] “22일 오전 7시 결과 나온다”…MLB 도전 송성문, 5개팀 관심 있다는데](https://blog.ai.dmomo.co.kr/news/16327) <br/>
+[2025/12/19 - [뉴스] 프듀 출신 아이돌 학폭 폭로 터졌다…260만 유튜버 고백](https://blog.ai.dmomo.co.kr/news/16324) <br/>
+[2025/12/19 - [뉴스] 시민단체 KT, 인적 쇄신으로 대신 말라…위약금 면제 해야](https://blog.ai.dmomo.co.kr/news/16321) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/12/19 - The Passing of Yoon Seok-hwa: A Pillar of Korean Theater's 50-Year Artistic Legacy and the Life of Authenticity](https://ai.trend.dmomo.co.kr/2025/12/the-passing-of-yoon-seok-hwa-pillar-of.html) <br/>
+[2025/12/19 - Google Willow Chip Reveals Verified Quantum Supremacy: How It Achieves 13,000 Times the Speed of Supercomputers](https://ai.trend.dmomo.co.kr/2025/12/google-willow-chip-reveals-verified.html) <br/>
+[2025/12/19 - Short-Faced Sun 'Injection Emoji' Controversy Leads to Activity Suspension, Facing Trust Crisis in Mukbang World](https://ai.trend.dmomo.co.kr/2025/12/short-faced-sun-injection-emoji.html) <br/>
+[2025/12/19 - NASCAR Legend Greg Biffle Tragically Dies at 55 in Plane Crash](https://ai.trend.dmomo.co.kr/2025/12/nascar-legend-greg-biffle-tragically.html) <br/>
 [2025/12/18 - Trump's Warrior Dividend: $1,776 Christmas Gift for 1.45 Million U.S. Soldiers](https://ai.trend.dmomo.co.kr/2025/12/trumps-warrior-dividend-1776-christmas.html) <br/>
 [2025/12/18 - Newcastle Secures EFL Cup Semifinal Spot with Late Drama Goal Against Fulham!](https://ai.trend.dmomo.co.kr/2025/12/newcastle-secures-efl-cup-semifinal.html) <br/>
-[2025/12/18 - Trump's Second Term: A Comprehensive Analysis of the Designation of Fentanyl as WMD and the 2026 Strategy](https://ai.trend.dmomo.co.kr/2025/12/trumps-second-term-comprehensive.html) <br/>
-[2025/12/18 - How AWS Security Agent is Shaping the Future of Software Security Strategies for 2026 and Beyond](https://ai.trend.dmomo.co.kr/2025/12/how-aws-security-agent-is-shaping.html) <br/>
-[2025/12/18 - Copa del Rey Match Against Talavera: Real Madrid's 3-2 Comeback Reveals Defensive Vulnerabilities](https://ai.trend.dmomo.co.kr/2025/12/copa-del-rey-match-against-talavera.html) <br/>
-[2025/12/18 - Man City Dominates Brentford 2-0 with Cherki's Wonder Goal! Advances to League Cup Semifinals](https://ai.trend.dmomo.co.kr/2025/12/man-city-dominates-brentford-2-0-with.html) <br/>
