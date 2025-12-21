@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/20 - [뉴스] ‘전자담배 인증샷’ 올렸다가 벌금 1300만원…싱가포르 규제 강화](https://blog.ai.dmomo.co.kr/news/16336) <br/>
-[2025/12/20 - [뉴스] 많은 이야기 나눴다”…구마유시에 고마움 전한 페이커](https://blog.ai.dmomo.co.kr/news/16333) <br/>
-[2025/12/20 - [뉴스] 가족 5명 떠나보내고도 정시 출근…미쳤다던 男의 반전](https://blog.ai.dmomo.co.kr/news/16330) <br/>
-[2025/12/19 - [뉴스] “22일 오전 7시 결과 나온다”…MLB 도전 송성문, 5개팀 관심 있다는데](https://blog.ai.dmomo.co.kr/news/16327) <br/>
-[2025/12/19 - [뉴스] 프듀 출신 아이돌 학폭 폭로 터졌다…260만 유튜버 고백](https://blog.ai.dmomo.co.kr/news/16324) <br/>
-[2025/12/19 - [뉴스] 시민단체 KT, 인적 쇄신으로 대신 말라…위약금 면제 해야](https://blog.ai.dmomo.co.kr/news/16321) <br/>
+[2025/12/21 - [뉴스] 어쩔 수 없이 일본 가야죠…여행 미루던 직장인 한숨](https://blog.ai.dmomo.co.kr/news/16377) <br/>
+[2025/12/20 - [뉴스] 산타 도둑 “대기업 폭리로 굶주린 사람들에게 훔친 음식 나눠주겠다”](https://blog.ai.dmomo.co.kr/news/16374) <br/>
+[2025/12/20 - [뉴스] 15분간 박수갈채…콘서트 오페라 새 역사 쓴 정명훈의](https://blog.ai.dmomo.co.kr/news/16371) <br/>
+[2025/12/20 - [뉴스] 치열해지는 AI 시장…구글, 검색결과 크롤링 업체 상대 소송](https://blog.ai.dmomo.co.kr/news/16368) <br/>
+[2025/12/20 - 유튜브 스타에서 복싱 챔피언까지: 제이크 폴의 놀라운 변신 스토리](https://blog.ai.dmomo.co.kr/trend/16365) <br/>
+[2025/12/20 - [뉴스] 그냥 어린이 장난감인 줄 알았는데…개인정보 유출 가능?](https://blog.ai.dmomo.co.kr/news/16362) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/12/20 - From YouTube Star to Boxing Champion: The Incredible Transformation Story of Jake Paul](https://ai.trend.dmomo.co.kr/2025/12/from-youtube-star-to-boxing-champion.html) <br/>
+[2025/12/20 - 2025 Korea's Great Flood: Shocking Records Left by Unprecedented Rainfall and Climate Change](https://ai.trend.dmomo.co.kr/2025/12/2025-koreas-great-flood-shocking.html) <br/>
+[2025/12/20 - Alabama Football 2025: Perfect Analysis for Playoff Qualification and the Oklahoma Match](https://ai.trend.dmomo.co.kr/2025/12/alabama-football-2025-perfect-analysis.html) <br/>
 [2025/12/19 - The Passing of Yoon Seok-hwa: A Pillar of Korean Theater's 50-Year Artistic Legacy and the Life of Authenticity](https://ai.trend.dmomo.co.kr/2025/12/the-passing-of-yoon-seok-hwa-pillar-of.html) <br/>
 [2025/12/19 - Google Willow Chip Reveals Verified Quantum Supremacy: How It Achieves 13,000 Times the Speed of Supercomputers](https://ai.trend.dmomo.co.kr/2025/12/google-willow-chip-reveals-verified.html) <br/>
 [2025/12/19 - Short-Faced Sun 'Injection Emoji' Controversy Leads to Activity Suspension, Facing Trust Crisis in Mukbang World](https://ai.trend.dmomo.co.kr/2025/12/short-faced-sun-injection-emoji.html) <br/>
-[2025/12/19 - NASCAR Legend Greg Biffle Tragically Dies at 55 in Plane Crash](https://ai.trend.dmomo.co.kr/2025/12/nascar-legend-greg-biffle-tragically.html) <br/>
-[2025/12/18 - Trump's Warrior Dividend: $1,776 Christmas Gift for 1.45 Million U.S. Soldiers](https://ai.trend.dmomo.co.kr/2025/12/trumps-warrior-dividend-1776-christmas.html) <br/>
-[2025/12/18 - Newcastle Secures EFL Cup Semifinal Spot with Late Drama Goal Against Fulham!](https://ai.trend.dmomo.co.kr/2025/12/newcastle-secures-efl-cup-semifinal.html) <br/>
