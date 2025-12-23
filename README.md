@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/22 - [뉴스] 기대엔 못 미쳤지만…‘아바타3’ 개봉 첫주 5109억 벌었다](https://blog.ai.dmomo.co.kr/news/16440) <br/>
-[2025/12/22 - [뉴스] AI 광고 표기에 등돌린 소비자들…마케팅 효과 급감](https://blog.ai.dmomo.co.kr/news/16437) <br/>
-[2025/12/22 - [뉴스] 동짓날 아침 최저 영하 10도…내일부터 전국에 비](https://blog.ai.dmomo.co.kr/news/16434) <br/>
-[2025/12/21 - [뉴스] 부자면 마실 수 있다고?…70여년만에 외국인 거주자에 주류 판매 허용한 이 나라](https://blog.ai.dmomo.co.kr/news/16431) <br/>
-[2025/12/21 - [뉴스] 또 총대 멘 BTS RM, 하이브 저격? 우리한테 애정 가져줬으면](https://blog.ai.dmomo.co.kr/news/16428) <br/>
-[2025/12/21 - [뉴스] KT, 생성 AI 자격증 내놨다…AICE 제너레이티브 출시](https://blog.ai.dmomo.co.kr/news/16425) <br/>
+[2025/12/23 - [뉴스] [속보] 트럼프 “美해군 신예 호위함, 한화와 협력해 만들게 될 것”](https://blog.ai.dmomo.co.kr/news/16509) <br/>
+[2025/12/23 - [뉴스] 이노스페이스 한빛-나노 발사 시각, 오늘 오전 10시 이후로 변경](https://blog.ai.dmomo.co.kr/news/16506) <br/>
+[2025/12/23 - [뉴스] 저속노화 정희원, 라디오도 폐지…사생활 논란으로 고속 퇴장](https://blog.ai.dmomo.co.kr/news/16503) <br/>
+[2025/12/22 - [뉴스] “말린 바퀴벌레까지”…괴식 먹방 논란에 中 인플루언서 계정 차단](https://blog.ai.dmomo.co.kr/news/16500) <br/>
+[2025/12/22 - [뉴스] 제주서 겨울축제도 하네 봉화에 산타마을이?…곳곳 연말 이색축제](https://blog.ai.dmomo.co.kr/news/16497) <br/>
+[2025/12/22 - [뉴스] 조니 김 우주서 받은 김치·쌀밥 반가워](https://blog.ai.dmomo.co.kr/news/16494) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/12/22 - Villarreal vs Barcelona: Complete Overview of La Liga Big Match Record and Highlights](https://ai.trend.dmomo.co.kr/2025/12/villarreal-vs-barcelona-complete.html) <br/>
+[2025/12/22 - Aston Villa's 7-Game Winning Streak! Rodgers Scores Twice to Defeat Manchester United 2-1](https://ai.trend.dmomo.co.kr/2025/12/aston-villas-7-game-winning-streak.html) <br/>
+[2025/12/22 - 5 Digital Innovation Trends Led by the Fusion of Low-Code and AI in 2025](https://ai.trend.dmomo.co.kr/2025/12/5-digital-innovation-trends-led-by.html) <br/>
+[2025/12/22 - Bayern Munich's Dominant 4-0 Victory! What's the Secret Behind Thoroughly Crushing Heidenheim?](https://ai.trend.dmomo.co.kr/2025/12/bayern-munichs-dominant-4-0-victory.html) <br/>
+[2025/12/22 - Hollywood Actor James Ranson Passes Away at 46: The Life and Legacy of the Talented Actor Known for His Role in The Wire](https://ai.trend.dmomo.co.kr/2025/12/hollywood-actor-james-ranson-passes.html) <br/>
 [2025/12/21 - Oregon Ducks Secure CFP Victory: Orange Bowl Berth Achieved](https://ai.trend.dmomo.co.kr/2025/12/oregon-ducks-secure-cfp-victory-orange.html) <br/>
-[2025/12/21 - The Miracle of the Bears! Dramatic Comeback Victory with a Last-Minute Touchdown against the Packers](https://ai.trend.dmomo.co.kr/2025/12/the-miracle-of-bears-dramatic-comeback.html) <br/>
-[2025/12/21 - Ole Miss Achieves 11 Wins and 1 Loss: Analysis of Successful Playoff Qualification for the 2025 Season](https://ai.trend.dmomo.co.kr/2025/12/ole-miss-achieves-11-wins-and-1-loss.html) <br/>
-[2025/12/21 - Lotto 1203 Winning Numbers Announced! 21 Winners Each with 1.3 Billion Jackpot!](https://ai.trend.dmomo.co.kr/2025/12/lotto-1203-winning-numbers-announced-21.html) <br/>
-[2025/12/20 - From YouTube Star to Boxing Champion: The Incredible Transformation Story of Jake Paul](https://ai.trend.dmomo.co.kr/2025/12/from-youtube-star-to-boxing-champion.html) <br/>
-[2025/12/20 - 2025 Korea's Great Flood: Shocking Records Left by Unprecedented Rainfall and Climate Change](https://ai.trend.dmomo.co.kr/2025/12/2025-koreas-great-flood-shocking.html) <br/>
