@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/23 - [뉴스] [속보] 트럼프 “美해군 신예 호위함, 한화와 협력해 만들게 될 것”](https://blog.ai.dmomo.co.kr/news/16509) <br/>
-[2025/12/23 - [뉴스] 이노스페이스 한빛-나노 발사 시각, 오늘 오전 10시 이후로 변경](https://blog.ai.dmomo.co.kr/news/16506) <br/>
-[2025/12/23 - [뉴스] 저속노화 정희원, 라디오도 폐지…사생활 논란으로 고속 퇴장](https://blog.ai.dmomo.co.kr/news/16503) <br/>
-[2025/12/22 - [뉴스] “말린 바퀴벌레까지”…괴식 먹방 논란에 中 인플루언서 계정 차단](https://blog.ai.dmomo.co.kr/news/16500) <br/>
-[2025/12/22 - [뉴스] 제주서 겨울축제도 하네 봉화에 산타마을이?…곳곳 연말 이색축제](https://blog.ai.dmomo.co.kr/news/16497) <br/>
-[2025/12/22 - [뉴스] 조니 김 우주서 받은 김치·쌀밥 반가워](https://blog.ai.dmomo.co.kr/news/16494) <br/>
+[2025/12/24 - [뉴스] “배우였는지도 몰라”…‘치매’ 브루스 윌리스, 사후 뇌 기증한다](https://blog.ai.dmomo.co.kr/news/16584) <br/>
+[2025/12/24 - [뉴스] 韓, 내년 반도체 장비 투자 43조…전년비 27% 증가](https://blog.ai.dmomo.co.kr/news/16581) <br/>
+[2025/12/23 - [뉴스] 4.3% … 美 깜짝 성장](https://blog.ai.dmomo.co.kr/news/16578) <br/>
+[2025/12/23 - [뉴스] 반쪽짜리 집에서 온전히 살아지는 삶](https://blog.ai.dmomo.co.kr/news/16575) <br/>
+[2025/12/23 - [뉴스] 2030 웨이팅 뭔가 했더니…똘똘한 멤버십 하나에 반응 폭발](https://blog.ai.dmomo.co.kr/news/16572) <br/>
+[2025/12/23 - 스포티파이 300TB 대규모 음원 유출: 8600만곡 토렌트 배포 충격](https://blog.ai.dmomo.co.kr/trend/16566) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/12/22 - Villarreal vs Barcelona: Complete Overview of La Liga Big Match Record and Highlights](https://ai.trend.dmomo.co.kr/2025/12/villarreal-vs-barcelona-complete.html) <br/>
-[2025/12/22 - Aston Villa's 7-Game Winning Streak! Rodgers Scores Twice to Defeat Manchester United 2-1](https://ai.trend.dmomo.co.kr/2025/12/aston-villas-7-game-winning-streak.html) <br/>
-[2025/12/22 - 5 Digital Innovation Trends Led by the Fusion of Low-Code and AI in 2025](https://ai.trend.dmomo.co.kr/2025/12/5-digital-innovation-trends-led-by.html) <br/>
-[2025/12/22 - Bayern Munich's Dominant 4-0 Victory! What's the Secret Behind Thoroughly Crushing Heidenheim?](https://ai.trend.dmomo.co.kr/2025/12/bayern-munichs-dominant-4-0-victory.html) <br/>
-[2025/12/22 - Hollywood Actor James Ranson Passes Away at 46: The Life and Legacy of the Talented Actor Known for His Role in The Wire](https://ai.trend.dmomo.co.kr/2025/12/hollywood-actor-james-ranson-passes.html) <br/>
-[2025/12/21 - Oregon Ducks Secure CFP Victory: Orange Bowl Berth Achieved](https://ai.trend.dmomo.co.kr/2025/12/oregon-ducks-secure-cfp-victory-orange.html) <br/>
+[2025/12/23 - # Spotify 300TB Massive Music Leak: Shocking Torrent Distribution of 86 Million Tracks](https://ai.trend.dmomo.co.kr/2025/12/spotify-300tb-massive-music-leak.html) <br/>
+[2025/12/23 - # Spotify and Naver Join Hands to Open a Pop-Up Store in Seongsu-dong! Year-End Special Event On-Site](https://ai.trend.dmomo.co.kr/2025/12/spotify-and-naver-join-hands-to-open.html) <br/>
+[2025/12/23 - The Amazing Love Story of Ryu Si-won Remarrying a Math Teacher 19 Years His Junior in Daechi-dong](https://ai.trend.dmomo.co.kr/2025/12/the-amazing-love-story-of-ryu-si-won.html) <br/>
+[2025/12/23 - # Uncomfortable Truths About the 1480 Won to Dollar Exchange Rate from the Central Bank Governor](https://ai.trend.dmomo.co.kr/2025/12/uncomfortable-truths-about-1480-won-to.html) <br/>
+[2025/12/23 - Philip Rivers' NFL Comeback at 44: A New Energy for the Colts](https://ai.trend.dmomo.co.kr/2025/12/philip-rivers-nfl-comeback-at-44-new.html) <br/>
+[2025/12/23 - The Challenge of the Korean Private Space Industry: What Kind of Company is Innospace?](https://ai.trend.dmomo.co.kr/2025/12/the-challenge-of-korean-private-space.html) <br/>
