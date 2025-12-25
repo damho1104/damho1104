@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/24 - [뉴스] “배우였는지도 몰라”…‘치매’ 브루스 윌리스, 사후 뇌 기증한다](https://blog.ai.dmomo.co.kr/news/16584) <br/>
-[2025/12/24 - [뉴스] 韓, 내년 반도체 장비 투자 43조…전년비 27% 증가](https://blog.ai.dmomo.co.kr/news/16581) <br/>
-[2025/12/23 - [뉴스] 4.3% … 美 깜짝 성장](https://blog.ai.dmomo.co.kr/news/16578) <br/>
-[2025/12/23 - [뉴스] 반쪽짜리 집에서 온전히 살아지는 삶](https://blog.ai.dmomo.co.kr/news/16575) <br/>
-[2025/12/23 - [뉴스] 2030 웨이팅 뭔가 했더니…똘똘한 멤버십 하나에 반응 폭발](https://blog.ai.dmomo.co.kr/news/16572) <br/>
-[2025/12/23 - 스포티파이 300TB 대규모 음원 유출: 8600만곡 토렌트 배포 충격](https://blog.ai.dmomo.co.kr/trend/16566) <br/>
+[2025/12/25 - [뉴스] “금값 의심하지 말라”…‘안전자산’ 돈 몰리자 4500달러 가볍게 돌파](https://blog.ai.dmomo.co.kr/news/16656) <br/>
+[2025/12/25 - [뉴스] 오도 박사의 성탄절 선물…오너 문현준, T1과 2028년까지 동행](https://blog.ai.dmomo.co.kr/news/16653) <br/>
+[2025/12/25 - [뉴스] 더헤븐문화재단, 글로벌 K-컬처 문화대상 시상식 개최](https://blog.ai.dmomo.co.kr/news/16650) <br/>
+[2025/12/24 - [뉴스] “건물이 흔들렸다”…대만 동남부 규모 6.1 지진에 타이베이도 감지](https://blog.ai.dmomo.co.kr/news/16647) <br/>
+[2025/12/24 - [뉴스] 1인당 연간 70병 넘게 마셨다…韓 맥주 소비량 세계 15위](https://blog.ai.dmomo.co.kr/news/16644) <br/>
+[2025/12/24 - [뉴스] 해킹 불안한데 휴대폰 개통할 때 안면인증 괜찮을까?…정부 답변 보니](https://blog.ai.dmomo.co.kr/news/16641) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/12/23 - # Spotify 300TB Massive Music Leak: Shocking Torrent Distribution of 86 Million Tracks](https://ai.trend.dmomo.co.kr/2025/12/spotify-300tb-massive-music-leak.html) <br/>
-[2025/12/23 - # Spotify and Naver Join Hands to Open a Pop-Up Store in Seongsu-dong! Year-End Special Event On-Site](https://ai.trend.dmomo.co.kr/2025/12/spotify-and-naver-join-hands-to-open.html) <br/>
-[2025/12/23 - The Amazing Love Story of Ryu Si-won Remarrying a Math Teacher 19 Years His Junior in Daechi-dong](https://ai.trend.dmomo.co.kr/2025/12/the-amazing-love-story-of-ryu-si-won.html) <br/>
-[2025/12/23 - # Uncomfortable Truths About the 1480 Won to Dollar Exchange Rate from the Central Bank Governor](https://ai.trend.dmomo.co.kr/2025/12/uncomfortable-truths-about-1480-won-to.html) <br/>
-[2025/12/23 - Philip Rivers' NFL Comeback at 44: A New Energy for the Colts](https://ai.trend.dmomo.co.kr/2025/12/philip-rivers-nfl-comeback-at-44-new.html) <br/>
-[2025/12/23 - The Challenge of the Korean Private Space Industry: What Kind of Company is Innospace?](https://ai.trend.dmomo.co.kr/2025/12/the-challenge-of-korean-private-space.html) <br/>
+[2025/12/24 - Former Senator Ben Sasse's Shocking Revelation: Battling Stage 4 Pancreatic Cancer](https://ai.trend.dmomo.co.kr/2025/12/former-senator-ben-sasses-shocking.html) <br/>
+[2025/12/24 - Is the Affair Rumor About MC Mong True? Shocking Current Status of One Hundred's CEO](https://ai.trend.dmomo.co.kr/2025/12/is-affair-rumor-about-mc-mong-true.html) <br/>
+[2025/12/24 - Shinhan Card Exposes 190,000 Personal Data, Unauthorized Use of Merchant Information by Internal Employee Misconduct](https://ai.trend.dmomo.co.kr/2025/12/shinhan-card-exposes-190000-personal.html) <br/>
+[2025/12/24 - Richard Linklater: The Revolution of Film Born from a 12-Year Wait, How Did He Turn Time into Art?](https://ai.trend.dmomo.co.kr/2025/12/richard-linklater-revolution-of-film.html) <br/>
+[2025/12/24 - 2025 Web Development Innovations: Multi-Channel Strategies with Headless CMS and AI Automation](https://ai.trend.dmomo.co.kr/2025/12/2025-web-development-innovations-multi.html) <br/>
+[2025/12/24 - Arsenal vs Crystal Palace: Dramatic Penalty Shootout 8-7 in the Carabao Cup Quarterfinals](https://ai.trend.dmomo.co.kr/2025/12/arsenal-vs-crystal-palace-dramatic.html) <br/>
