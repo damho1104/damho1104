@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/25 - [뉴스] “금값 의심하지 말라”…‘안전자산’ 돈 몰리자 4500달러 가볍게 돌파](https://blog.ai.dmomo.co.kr/news/16656) <br/>
-[2025/12/25 - [뉴스] 오도 박사의 성탄절 선물…오너 문현준, T1과 2028년까지 동행](https://blog.ai.dmomo.co.kr/news/16653) <br/>
-[2025/12/25 - [뉴스] 더헤븐문화재단, 글로벌 K-컬처 문화대상 시상식 개최](https://blog.ai.dmomo.co.kr/news/16650) <br/>
-[2025/12/24 - [뉴스] “건물이 흔들렸다”…대만 동남부 규모 6.1 지진에 타이베이도 감지](https://blog.ai.dmomo.co.kr/news/16647) <br/>
-[2025/12/24 - [뉴스] 1인당 연간 70병 넘게 마셨다…韓 맥주 소비량 세계 15위](https://blog.ai.dmomo.co.kr/news/16644) <br/>
-[2025/12/24 - [뉴스] 해킹 불안한데 휴대폰 개통할 때 안면인증 괜찮을까?…정부 답변 보니](https://blog.ai.dmomo.co.kr/news/16641) <br/>
+[2025/12/26 - [뉴스] 30년 만에 최고 0.75%로 상승…일본 기준금리에 세계가 주목하는 이유는 [뉴스 쉽게보기]](https://blog.ai.dmomo.co.kr/news/16722) <br/>
+[2025/12/26 - [뉴스] 마이크로소프트 조롱한 머스크의 AI 데이터센터](https://blog.ai.dmomo.co.kr/news/16719) <br/>
+[2025/12/26 - [뉴스] K팝 아이돌도 당황…8000만원짜리 귀걸이 뭐길래](https://blog.ai.dmomo.co.kr/news/16716) <br/>
+[2025/12/25 - [뉴스] [영상]“이거 또 대지진? 놀란 시민들”…오사카 강에 대규모 ‘물고기떼’ 출몰](https://blog.ai.dmomo.co.kr/news/16713) <br/>
+[2025/12/25 - [뉴스] 장원영도 푹 빠졌다…1개 만원인데 없어서 못 판다는 디저트](https://blog.ai.dmomo.co.kr/news/16710) <br/>
+[2025/12/25 - [뉴스] 주식 말고 이거 사러 왔어요 개미들 오픈런…뜻밖의 완판](https://blog.ai.dmomo.co.kr/news/16707) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/12/25 - Remembering Music Critic Kim Young-dae: Recent Updates on Actor Kim Young-dae](https://ai.trend.dmomo.co.kr/2025/12/remembering-music-critic-kim-young-dae.html) <br/>
+[2025/12/25 - Stores Open on Christmas? A Comprehensive Guide to Holiday Hours in 2025](https://ai.trend.dmomo.co.kr/2025/12/stores-open-on-christmas-comprehensive.html) <br/>
+[2025/12/25 - Walmart's Transformation: How AI and Drone Delivery are Challenging Amazon](https://ai.trend.dmomo.co.kr/2025/12/walmarts-transformation-how-ai-and.html) <br/>
+[2025/12/25 - 2025 Edge AI Innovation: The Secrets Behind Akamai and NVIDIA’s Distributed Inference](https://ai.trend.dmomo.co.kr/2025/12/2025-edge-ai-innovation-secrets-behind.html) <br/>
+[2025/12/25 - The Truth Behind the Cheongahwan MC Mong Affair: The Details of the 12 Billion Won Scandal](https://ai.trend.dmomo.co.kr/2025/12/the-truth-behind-cheongahwan-mc-mong.html) <br/>
 [2025/12/24 - Former Senator Ben Sasse's Shocking Revelation: Battling Stage 4 Pancreatic Cancer](https://ai.trend.dmomo.co.kr/2025/12/former-senator-ben-sasses-shocking.html) <br/>
-[2025/12/24 - Is the Affair Rumor About MC Mong True? Shocking Current Status of One Hundred's CEO](https://ai.trend.dmomo.co.kr/2025/12/is-affair-rumor-about-mc-mong-true.html) <br/>
-[2025/12/24 - Shinhan Card Exposes 190,000 Personal Data, Unauthorized Use of Merchant Information by Internal Employee Misconduct](https://ai.trend.dmomo.co.kr/2025/12/shinhan-card-exposes-190000-personal.html) <br/>
-[2025/12/24 - Richard Linklater: The Revolution of Film Born from a 12-Year Wait, How Did He Turn Time into Art?](https://ai.trend.dmomo.co.kr/2025/12/richard-linklater-revolution-of-film.html) <br/>
-[2025/12/24 - 2025 Web Development Innovations: Multi-Channel Strategies with Headless CMS and AI Automation](https://ai.trend.dmomo.co.kr/2025/12/2025-web-development-innovations-multi.html) <br/>
-[2025/12/24 - Arsenal vs Crystal Palace: Dramatic Penalty Shootout 8-7 in the Carabao Cup Quarterfinals](https://ai.trend.dmomo.co.kr/2025/12/arsenal-vs-crystal-palace-dramatic.html) <br/>
