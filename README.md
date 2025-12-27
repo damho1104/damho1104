@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/26 - [뉴스] 30년 만에 최고 0.75%로 상승…일본 기준금리에 세계가 주목하는 이유는 [뉴스 쉽게보기]](https://blog.ai.dmomo.co.kr/news/16722) <br/>
-[2025/12/26 - [뉴스] 마이크로소프트 조롱한 머스크의 AI 데이터센터](https://blog.ai.dmomo.co.kr/news/16719) <br/>
-[2025/12/26 - [뉴스] K팝 아이돌도 당황…8000만원짜리 귀걸이 뭐길래](https://blog.ai.dmomo.co.kr/news/16716) <br/>
-[2025/12/25 - [뉴스] [영상]“이거 또 대지진? 놀란 시민들”…오사카 강에 대규모 ‘물고기떼’ 출몰](https://blog.ai.dmomo.co.kr/news/16713) <br/>
-[2025/12/25 - [뉴스] 장원영도 푹 빠졌다…1개 만원인데 없어서 못 판다는 디저트](https://blog.ai.dmomo.co.kr/news/16710) <br/>
-[2025/12/25 - [뉴스] 주식 말고 이거 사러 왔어요 개미들 오픈런…뜻밖의 완판](https://blog.ai.dmomo.co.kr/news/16707) <br/>
+[2025/12/27 - [뉴스] “직원 1명당 6억4000만원”…회사 매각에 보너스 지급 결정한 CEO](https://blog.ai.dmomo.co.kr/news/16794) <br/>
+[2025/12/27 - [뉴스] 팔, 다리 중 하나는 포기해라…궁지 몰린 그녀의 선택은](https://blog.ai.dmomo.co.kr/news/16791) <br/>
+[2025/12/26 - [뉴스] “택시가 신호무시 질주, 문도 안열어줘 공포”…‘빌런 운전사’ 정체는 – 매일경제](https://blog.ai.dmomo.co.kr/news/16788) <br/>
+[2025/12/26 - [뉴스] 두쫀쿠 몰라요? 언니들 분노케한 안성재 두란말이 레시피](https://blog.ai.dmomo.co.kr/news/16785) <br/>
+[2025/12/26 - [뉴스] 쥐드래곤이 부르는 트로트?…100만 찍은 콘텐츠 뭐길래](https://blog.ai.dmomo.co.kr/news/16782) <br/>
+[2025/12/26 - KCC 8연승 도전! 1위 LG의 철벽수비 뚫을 수 있을까?](https://blog.ai.dmomo.co.kr/trend/16778) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/12/25 - Remembering Music Critic Kim Young-dae: Recent Updates on Actor Kim Young-dae](https://ai.trend.dmomo.co.kr/2025/12/remembering-music-critic-kim-young-dae.html) <br/>
-[2025/12/25 - Stores Open on Christmas? A Comprehensive Guide to Holiday Hours in 2025](https://ai.trend.dmomo.co.kr/2025/12/stores-open-on-christmas-comprehensive.html) <br/>
-[2025/12/25 - Walmart's Transformation: How AI and Drone Delivery are Challenging Amazon](https://ai.trend.dmomo.co.kr/2025/12/walmarts-transformation-how-ai-and.html) <br/>
-[2025/12/25 - 2025 Edge AI Innovation: The Secrets Behind Akamai and NVIDIA’s Distributed Inference](https://ai.trend.dmomo.co.kr/2025/12/2025-edge-ai-innovation-secrets-behind.html) <br/>
-[2025/12/25 - The Truth Behind the Cheongahwan MC Mong Affair: The Details of the 12 Billion Won Scandal](https://ai.trend.dmomo.co.kr/2025/12/the-truth-behind-cheongahwan-mc-mong.html) <br/>
-[2025/12/24 - Former Senator Ben Sasse's Shocking Revelation: Battling Stage 4 Pancreatic Cancer](https://ai.trend.dmomo.co.kr/2025/12/former-senator-ben-sasses-shocking.html) <br/>
+[2025/12/26 - KCC's Challenge for an 8-Game Winning Streak! Can They Break Through LG's Strong Defense?](https://ai.trend.dmomo.co.kr/2025/12/kccs-challenge-for-8-game-winning.html) <br/>
+[2025/12/26 - Christmas Catastrophe: Shocking Game Analysis of Rockets' 119-96 Blowout of Lakers](https://ai.trend.dmomo.co.kr/2025/12/christmas-catastrophe-shocking-game.html) <br/>
+[2025/12/26 - Lakers vs. Houston: LeBron's 20th Christmas Game Appearance Sparks Discussion](https://ai.trend.dmomo.co.kr/2025/12/lakers-vs-houston-lebrons-20th.html) <br/>
+[2025/12/26 - Broncos Defeat Chiefs on Christmas Night! Achieve Remarkable Record of 13 Wins and 3 Losses](https://ai.trend.dmomo.co.kr/2025/12/broncos-defeat-chiefs-on-christmas.html) <br/>
+[2025/12/26 - Mastering Infrastructure as Code: Cutting-Edge Software Infrastructure Technologies to Watch in 2025](https://ai.trend.dmomo.co.kr/2025/12/mastering-infrastructure-as-code.html) <br/>
+[2025/12/26 - Iconic Korean Music Critic Kim Young-dae Passes Away Unexpectedly at Age 48](https://ai.trend.dmomo.co.kr/2025/12/iconic-korean-music-critic-kim-young.html) <br/>
