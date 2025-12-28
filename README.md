@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/27 - [뉴스] “직원 1명당 6억4000만원”…회사 매각에 보너스 지급 결정한 CEO](https://blog.ai.dmomo.co.kr/news/16794) <br/>
-[2025/12/27 - [뉴스] 팔, 다리 중 하나는 포기해라…궁지 몰린 그녀의 선택은](https://blog.ai.dmomo.co.kr/news/16791) <br/>
-[2025/12/26 - [뉴스] “택시가 신호무시 질주, 문도 안열어줘 공포”…‘빌런 운전사’ 정체는 – 매일경제](https://blog.ai.dmomo.co.kr/news/16788) <br/>
-[2025/12/26 - [뉴스] 두쫀쿠 몰라요? 언니들 분노케한 안성재 두란말이 레시피](https://blog.ai.dmomo.co.kr/news/16785) <br/>
-[2025/12/26 - [뉴스] 쥐드래곤이 부르는 트로트?…100만 찍은 콘텐츠 뭐길래](https://blog.ai.dmomo.co.kr/news/16782) <br/>
-[2025/12/26 - KCC 8연승 도전! 1위 LG의 철벽수비 뚫을 수 있을까?](https://blog.ai.dmomo.co.kr/trend/16778) <br/>
+[2025/12/28 - [뉴스] 울오빠 보이면 지갑 열죠…아이돌 나서자 게임도 대박](https://blog.ai.dmomo.co.kr/news/16840) <br/>
+[2025/12/28 - [뉴스] 치킨 프랜차이즈 가맹점 3만개 돌파…업게는 이미 포화 상태](https://blog.ai.dmomo.co.kr/news/16837) <br/>
+[2025/12/27 - [뉴스] “거긴 IS 없어요”…트럼프 성탄절 폭격 ‘헛방’ 의문](https://blog.ai.dmomo.co.kr/news/16834) <br/>
+[2025/12/27 - [뉴스] 국내여행은 아껴 쓰고 해외선 펑펑…관광 적자 이유 있었네](https://blog.ai.dmomo.co.kr/news/16831) <br/>
+[2025/12/27 - [뉴스] “올해 번 돈, 내꺼 아냐…집 마련 서두르고 ‘초분산 투자’ 시작해야” [인터뷰]](https://blog.ai.dmomo.co.kr/news/16828) <br/>
+[2025/12/27 - [뉴스] SK하이닉스, 내년에 무엇을 준비할까](https://blog.ai.dmomo.co.kr/news/16825) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/12/27 - Big Brother Star Mickey Lee Passes Away at 35 Due to Flu Complications](https://ai.trend.dmomo.co.kr/2025/12/big-brother-star-mickey-lee-passes-away.html) <br/>
+[2025/12/27 - 5 Breakthrough Impacts of Quantum Machine Learning (QML) and AI Integration to Watch in 2025](https://ai.trend.dmomo.co.kr/2025/12/5-breakthrough-impacts-of-quantum.html) <br/>
+[2025/12/27 - Kyle Whittingham Leaves Utah After 21 Years, Joins Michigan as Head Coach](https://ai.trend.dmomo.co.kr/2025/12/kyle-whittingham-leaves-utah-after-21.html) <br/>
 [2025/12/26 - KCC's Challenge for an 8-Game Winning Streak! Can They Break Through LG's Strong Defense?](https://ai.trend.dmomo.co.kr/2025/12/kccs-challenge-for-8-game-winning.html) <br/>
 [2025/12/26 - Christmas Catastrophe: Shocking Game Analysis of Rockets' 119-96 Blowout of Lakers](https://ai.trend.dmomo.co.kr/2025/12/christmas-catastrophe-shocking-game.html) <br/>
 [2025/12/26 - Lakers vs. Houston: LeBron's 20th Christmas Game Appearance Sparks Discussion](https://ai.trend.dmomo.co.kr/2025/12/lakers-vs-houston-lebrons-20th.html) <br/>
-[2025/12/26 - Broncos Defeat Chiefs on Christmas Night! Achieve Remarkable Record of 13 Wins and 3 Losses](https://ai.trend.dmomo.co.kr/2025/12/broncos-defeat-chiefs-on-christmas.html) <br/>
-[2025/12/26 - Mastering Infrastructure as Code: Cutting-Edge Software Infrastructure Technologies to Watch in 2025](https://ai.trend.dmomo.co.kr/2025/12/mastering-infrastructure-as-code.html) <br/>
-[2025/12/26 - Iconic Korean Music Critic Kim Young-dae Passes Away Unexpectedly at Age 48](https://ai.trend.dmomo.co.kr/2025/12/iconic-korean-music-critic-kim-young.html) <br/>
