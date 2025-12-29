@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/28 - [뉴스] 울오빠 보이면 지갑 열죠…아이돌 나서자 게임도 대박](https://blog.ai.dmomo.co.kr/news/16840) <br/>
-[2025/12/28 - [뉴스] 치킨 프랜차이즈 가맹점 3만개 돌파…업게는 이미 포화 상태](https://blog.ai.dmomo.co.kr/news/16837) <br/>
-[2025/12/27 - [뉴스] “거긴 IS 없어요”…트럼프 성탄절 폭격 ‘헛방’ 의문](https://blog.ai.dmomo.co.kr/news/16834) <br/>
-[2025/12/27 - [뉴스] 국내여행은 아껴 쓰고 해외선 펑펑…관광 적자 이유 있었네](https://blog.ai.dmomo.co.kr/news/16831) <br/>
-[2025/12/27 - [뉴스] “올해 번 돈, 내꺼 아냐…집 마련 서두르고 ‘초분산 투자’ 시작해야” [인터뷰]](https://blog.ai.dmomo.co.kr/news/16828) <br/>
-[2025/12/27 - [뉴스] SK하이닉스, 내년에 무엇을 준비할까](https://blog.ai.dmomo.co.kr/news/16825) <br/>
+[2025/12/29 - [뉴스] 대놓고 무역전쟁법 만든 중국…“우리 경제에 기여 못하면 수출제한”](https://blog.ai.dmomo.co.kr/news/16904) <br/>
+[2025/12/29 - [뉴스] 린, 이수와 이혼 4개월 만에 내가 부서지더라도 품고 싶었다](https://blog.ai.dmomo.co.kr/news/16901) <br/>
+[2025/12/28 - [뉴스] “한국은 개고기를 먹어 야만적”…프랑스 배우 브리지트 바르도 별세](https://blog.ai.dmomo.co.kr/news/16898) <br/>
+[2025/12/28 - [뉴스] 월요일 전국 대체로 흐림…수도권 눈 또는 비](https://blog.ai.dmomo.co.kr/news/16895) <br/>
+[2025/12/28 - [뉴스] 머스크의 AI 연산 패권 야심…세계 최강 컴퓨팅 인프라 확보](https://blog.ai.dmomo.co.kr/news/16892) <br/>
+[2025/12/28 - Houston, 14점차 뒤집고 LSU를 38-35로 제압한 Texas Bowl 역전극](https://blog.ai.dmomo.co.kr/trend/16889) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/12/27 - Big Brother Star Mickey Lee Passes Away at 35 Due to Flu Complications](https://ai.trend.dmomo.co.kr/2025/12/big-brother-star-mickey-lee-passes-away.html) <br/>
-[2025/12/27 - 5 Breakthrough Impacts of Quantum Machine Learning (QML) and AI Integration to Watch in 2025](https://ai.trend.dmomo.co.kr/2025/12/5-breakthrough-impacts-of-quantum.html) <br/>
-[2025/12/27 - Kyle Whittingham Leaves Utah After 21 Years, Joins Michigan as Head Coach](https://ai.trend.dmomo.co.kr/2025/12/kyle-whittingham-leaves-utah-after-21.html) <br/>
-[2025/12/26 - KCC's Challenge for an 8-Game Winning Streak! Can They Break Through LG's Strong Defense?](https://ai.trend.dmomo.co.kr/2025/12/kccs-challenge-for-8-game-winning.html) <br/>
-[2025/12/26 - Christmas Catastrophe: Shocking Game Analysis of Rockets' 119-96 Blowout of Lakers](https://ai.trend.dmomo.co.kr/2025/12/christmas-catastrophe-shocking-game.html) <br/>
-[2025/12/26 - Lakers vs. Houston: LeBron's 20th Christmas Game Appearance Sparks Discussion](https://ai.trend.dmomo.co.kr/2025/12/lakers-vs-houston-lebrons-20th.html) <br/>
+[2025/12/28 - Texas Bowl Comeback: Texas Triumphs Over LSU 38-35 After Trailing by 14 Points](https://ai.trend.dmomo.co.kr/2025/12/texas-bowl-comeback-texas-triumphs-over.html) <br/>
+[2025/12/28 - Lee Hye-hoon: From Conservative Economist to Key Figure in Progressive Government](https://ai.trend.dmomo.co.kr/2025/12/lee-hye-hoon-from-conservative.html) <br/>
+[2025/12/28 - Hot Topic in the USA! An In-Depth Analysis of Ravens' Remarkable Intelligence and Ecological Role](https://ai.trend.dmomo.co.kr/2025/12/hot-topic-in-usa-in-depth-analysis-of.html) <br/>
+[2025/12/28 - Key Technologies for 2025: Vibe Coding and the AI-Driven Revolution in Low-Code Development](https://ai.trend.dmomo.co.kr/2025/12/key-technologies-for-2025-vibe-coding.html) <br/>
+[2025/12/28 - Liverpool vs Wolverhampton: What Was the Result of the Anfield Match Against the Bottom Team with 11 Straight Losses?](https://ai.trend.dmomo.co.kr/2025/12/liverpool-vs-wolverhampton-what-was.html) <br/>
+[2025/12/28 - 2024 Wild Card Rematch! Chargers vs Texans Week 17 Game Predictions](https://ai.trend.dmomo.co.kr/2025/12/2024-wild-card-rematch-chargers-vs.html) <br/>
