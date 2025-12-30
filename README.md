@@ -26,7 +26,7 @@
 - [AI EN Blog](https://ai.trend.dmomo.co.kr/)
 
 ## 📣 My Service
-- [로또 매니저(로또 번호 AI 추천 및 당첨 알림 서비스 App)](https://lotto.dmomo.co.kr/)  
+- [로또 매니저(로또 번호 AI 추천 및 당첨 알림 서비스 App)](https://lotto.dmomo.ai.kr/)  
 
 ## 💪 Technical Skills
 ### Languages & Frameworks
@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/30 - [뉴스] “올해 산타랠리는 없다” 기술주 약세에 뉴욕증시 일제히 하락 마감 [월가월부]](https://blog.ai.dmomo.co.kr/news/16979) <br/>
-[2025/12/30 - [뉴스] 삼성전자, BMW 신형 전기차에 인포테인먼트 칩 공급](https://blog.ai.dmomo.co.kr/news/16976) <br/>
-[2025/12/30 - [뉴스] 이값이면 차라리…점심값 뛰자 직장인들 몰려간 곳](https://blog.ai.dmomo.co.kr/news/16973) <br/>
-[2025/12/29 - 뉴진스 다니엘 계약해지: 348일 분쟁 끝에 그룹 완전체 활동 불가능](https://blog.ai.dmomo.co.kr/trend/16970) <br/>
-[2025/12/29 - [뉴스] 용암 500m 치솟았다…28년만에 또 터진 이탈리아 화산, 대규모 분화](https://blog.ai.dmomo.co.kr/news/16967) <br/>
-[2025/12/29 - [뉴스] 청소년 난청주의보…4년 새 10대 난청 환자 40%↑](https://blog.ai.dmomo.co.kr/news/16964) <br/>
+[2025/12/30 - [뉴스] “아저씨와 조카딸, 결혼 못해”…우즈베키스탄, 유전자 변이 우려에 금지법 마련](https://blog.ai.dmomo.co.kr/news/17021) <br/>
+[2025/12/30 - 유재석 9번째 MBC 대상·김연경 6관왕, 2025 방송연예대상 완전정복](https://blog.ai.dmomo.co.kr/trend/17018) <br/>
+[2025/12/30 - 매의 세계: 하늘의 최강 사냥꾼이 보여주는 경이로운 비행 기술](https://blog.ai.dmomo.co.kr/trend/17015) <br/>
+[2025/12/30 - 트로트 가수 숙행, 상간녀 의혹 자필 사과문 공개한 진짜 이유](https://blog.ai.dmomo.co.kr/trend/17013) <br/>
+[2025/12/30 - [뉴스] 교보증권, AI·디지털자산 중심 조직개편 단행…미래전략파트 신설](https://blog.ai.dmomo.co.kr/news/17009) <br/>
+[2025/12/30 - [뉴스] 아파트 층간소음 방지책 강화…소음 검사대상 세대 늘린다](https://blog.ai.dmomo.co.kr/news/17006) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/12/29 - NewJeans' Daniel Contract Termination: Full Group Activities Impossible After 348 Days of Dispute](https://ai.trend.dmomo.co.kr/2025/12/newjeans-daniel-contract-termination.html) <br/>
-[2025/12/29 - Giants vs Raiders: Analyzing NY's 34-10 Victory That Ended the 9-Game Losing Streak](https://ai.trend.dmomo.co.kr/2025/12/giants-vs-raiders-analyzing-nys-34-10.html) <br/>
-[2025/12/29 - The Amazing Courage and Wisdom of Daniel Who Kept His Faith Before Power](https://ai.trend.dmomo.co.kr/2025/12/the-amazing-courage-and-wisdom-of.html) <br/>
-[2025/12/29 - 49ers Secure Playoff Spot! Brock Purdy Rushes for TD to Achieve 11th Win](https://ai.trend.dmomo.co.kr/2025/12/49ers-secure-playoff-spot-brock-purdy.html) <br/>
-[2025/12/29 - The Browns' Stunning Reversal! Steelers' AFC North Championship Dreams Shattered 13-6](https://ai.trend.dmomo.co.kr/2025/12/the-browns-stunning-reversal-steelers.html) <br/>
-[2025/12/29 - Cloud Innovations in 2025: How Agentic AI and Accelerated Computing Will Transform the Future](https://ai.trend.dmomo.co.kr/2025/12/cloud-innovations-in-2025-how-agentic.html) <br/>
+[2025/12/30 - Yoo Jae-seok's 9th MBC Award & Kim Yeon-koung's 6th Crown: Complete Conquest of the 2025 Broadcasting Entertainment Awards](https://ai.trend.dmomo.co.kr/2025/12/yoo-jae-seoks-9th-mbc-award-kim-yeon.html) <br/>
+[2025/12/30 - The World of Eagles: Stunning Flight Skills of the Sky's Ultimate Hunters](https://ai.trend.dmomo.co.kr/2025/12/the-world-of-eagles-stunning-flight.html) <br/>
+[2025/12/30 - Trot Singer Sukhyung Reveals Real Reason Behind Handwritten Apology for Adultery Allegations](https://ai.trend.dmomo.co.kr/2025/12/trot-singer-sukhyung-reveals-real.html) <br/>
+[2025/12/30 - Korean Semiconductor Revolution 2025: How PIM Technology is Transforming AI Infrastructure](https://ai.trend.dmomo.co.kr/2025/12/korean-semiconductor-revolution-2025.html) <br/>
+[2025/12/30 - Anthony Joshua Nigeria Car Accident: 2 Dead, Boxer Sustains Minor Injuries](https://ai.trend.dmomo.co.kr/2025/12/anthony-joshua-nigeria-car-accident-2.html) <br/>
+[2025/12/30 - From Daniel's Seventy Weeks Prophecy to New Jeans: The Influence of Biblical Figures on Modern Culture](https://ai.trend.dmomo.co.kr/2025/12/from-daniels-seventy-weeks-prophecy-to.html) <br/>
