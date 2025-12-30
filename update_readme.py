@@ -37,7 +37,7 @@ markdown_text = """
 - [AI EN Blog](https://ai.trend.dmomo.co.kr/)
 
 ## 📣 My Service
-- [로또 매니저(로또 번호 AI 추천 및 당첨 알림 서비스 App)](https://lotto.dmomo.co.kr/)  
+- [로또 매니저(로또 번호 AI 추천 및 당첨 알림 서비스 App)](https://lotto.dmomo.ai.kr/)  
 
 ## 💪 Technical Skills
 ### Languages & Frameworks
