@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/29 - [뉴스] 대놓고 무역전쟁법 만든 중국…“우리 경제에 기여 못하면 수출제한”](https://blog.ai.dmomo.co.kr/news/16904) <br/>
-[2025/12/29 - [뉴스] 린, 이수와 이혼 4개월 만에 내가 부서지더라도 품고 싶었다](https://blog.ai.dmomo.co.kr/news/16901) <br/>
-[2025/12/28 - [뉴스] “한국은 개고기를 먹어 야만적”…프랑스 배우 브리지트 바르도 별세](https://blog.ai.dmomo.co.kr/news/16898) <br/>
-[2025/12/28 - [뉴스] 월요일 전국 대체로 흐림…수도권 눈 또는 비](https://blog.ai.dmomo.co.kr/news/16895) <br/>
-[2025/12/28 - [뉴스] 머스크의 AI 연산 패권 야심…세계 최강 컴퓨팅 인프라 확보](https://blog.ai.dmomo.co.kr/news/16892) <br/>
-[2025/12/28 - Houston, 14점차 뒤집고 LSU를 38-35로 제압한 Texas Bowl 역전극](https://blog.ai.dmomo.co.kr/trend/16889) <br/>
+[2025/12/30 - [뉴스] “올해 산타랠리는 없다” 기술주 약세에 뉴욕증시 일제히 하락 마감 [월가월부]](https://blog.ai.dmomo.co.kr/news/16979) <br/>
+[2025/12/30 - [뉴스] 삼성전자, BMW 신형 전기차에 인포테인먼트 칩 공급](https://blog.ai.dmomo.co.kr/news/16976) <br/>
+[2025/12/30 - [뉴스] 이값이면 차라리…점심값 뛰자 직장인들 몰려간 곳](https://blog.ai.dmomo.co.kr/news/16973) <br/>
+[2025/12/29 - 뉴진스 다니엘 계약해지: 348일 분쟁 끝에 그룹 완전체 활동 불가능](https://blog.ai.dmomo.co.kr/trend/16970) <br/>
+[2025/12/29 - [뉴스] 용암 500m 치솟았다…28년만에 또 터진 이탈리아 화산, 대규모 분화](https://blog.ai.dmomo.co.kr/news/16967) <br/>
+[2025/12/29 - [뉴스] 청소년 난청주의보…4년 새 10대 난청 환자 40%↑](https://blog.ai.dmomo.co.kr/news/16964) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/12/28 - Texas Bowl Comeback: Texas Triumphs Over LSU 38-35 After Trailing by 14 Points](https://ai.trend.dmomo.co.kr/2025/12/texas-bowl-comeback-texas-triumphs-over.html) <br/>
-[2025/12/28 - Lee Hye-hoon: From Conservative Economist to Key Figure in Progressive Government](https://ai.trend.dmomo.co.kr/2025/12/lee-hye-hoon-from-conservative.html) <br/>
-[2025/12/28 - Hot Topic in the USA! An In-Depth Analysis of Ravens' Remarkable Intelligence and Ecological Role](https://ai.trend.dmomo.co.kr/2025/12/hot-topic-in-usa-in-depth-analysis-of.html) <br/>
-[2025/12/28 - Key Technologies for 2025: Vibe Coding and the AI-Driven Revolution in Low-Code Development](https://ai.trend.dmomo.co.kr/2025/12/key-technologies-for-2025-vibe-coding.html) <br/>
-[2025/12/28 - Liverpool vs Wolverhampton: What Was the Result of the Anfield Match Against the Bottom Team with 11 Straight Losses?](https://ai.trend.dmomo.co.kr/2025/12/liverpool-vs-wolverhampton-what-was.html) <br/>
-[2025/12/28 - 2024 Wild Card Rematch! Chargers vs Texans Week 17 Game Predictions](https://ai.trend.dmomo.co.kr/2025/12/2024-wild-card-rematch-chargers-vs.html) <br/>
+[2025/12/29 - NewJeans' Daniel Contract Termination: Full Group Activities Impossible After 348 Days of Dispute](https://ai.trend.dmomo.co.kr/2025/12/newjeans-daniel-contract-termination.html) <br/>
+[2025/12/29 - Giants vs Raiders: Analyzing NY's 34-10 Victory That Ended the 9-Game Losing Streak](https://ai.trend.dmomo.co.kr/2025/12/giants-vs-raiders-analyzing-nys-34-10.html) <br/>
+[2025/12/29 - The Amazing Courage and Wisdom of Daniel Who Kept His Faith Before Power](https://ai.trend.dmomo.co.kr/2025/12/the-amazing-courage-and-wisdom-of.html) <br/>
+[2025/12/29 - 49ers Secure Playoff Spot! Brock Purdy Rushes for TD to Achieve 11th Win](https://ai.trend.dmomo.co.kr/2025/12/49ers-secure-playoff-spot-brock-purdy.html) <br/>
+[2025/12/29 - The Browns' Stunning Reversal! Steelers' AFC North Championship Dreams Shattered 13-6](https://ai.trend.dmomo.co.kr/2025/12/the-browns-stunning-reversal-steelers.html) <br/>
+[2025/12/29 - Cloud Innovations in 2025: How Agentic AI and Accelerated Computing Will Transform the Future](https://ai.trend.dmomo.co.kr/2025/12/cloud-innovations-in-2025-how-agentic.html) <br/>
