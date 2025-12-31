@@ -87,12 +87,12 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/30 - [뉴스] “아저씨와 조카딸, 결혼 못해”…우즈베키스탄, 유전자 변이 우려에 금지법 마련](https://blog.ai.dmomo.co.kr/news/17021) <br/>
-[2025/12/30 - 유재석 9번째 MBC 대상·김연경 6관왕, 2025 방송연예대상 완전정복](https://blog.ai.dmomo.co.kr/trend/17018) <br/>
-[2025/12/30 - 매의 세계: 하늘의 최강 사냥꾼이 보여주는 경이로운 비행 기술](https://blog.ai.dmomo.co.kr/trend/17015) <br/>
-[2025/12/30 - 트로트 가수 숙행, 상간녀 의혹 자필 사과문 공개한 진짜 이유](https://blog.ai.dmomo.co.kr/trend/17013) <br/>
-[2025/12/30 - [뉴스] 교보증권, AI·디지털자산 중심 조직개편 단행…미래전략파트 신설](https://blog.ai.dmomo.co.kr/news/17009) <br/>
-[2025/12/30 - [뉴스] 아파트 층간소음 방지책 강화…소음 검사대상 세대 늘린다](https://blog.ai.dmomo.co.kr/news/17006) <br/>
+[2025/12/31 - [뉴스] 딸 출산 후 희귀암 진단…케네디 외손녀 35세 젊은 나이에 별세](https://blog.ai.dmomo.co.kr/news/17051) <br/>
+[2025/12/31 - [뉴스] 삼성은 0a D램을 어떻게 만들까 (feat. IGO)](https://blog.ai.dmomo.co.kr/news/17048) <br/>
+[2025/12/31 - [뉴스] 모의타격에 해상돌격까지…中, 대만 포위훈련에 전폭기·구축함 다 동원](https://blog.ai.dmomo.co.kr/news/17045) <br/>
+[2025/12/30 - [뉴스] 대만 압박 수위 높이는 中 … 역대 가장 가까운 곳서 실탄 사격](https://blog.ai.dmomo.co.kr/news/17042) <br/>
+[2025/12/30 - [뉴스] 설거지 귀찮아서 미뤘다가 사망 위험 질환까지…전문가 경고](https://blog.ai.dmomo.co.kr/news/17039) <br/>
+[2025/12/30 - [뉴스] KT, 4500억 규모 보상안 발표…통신요금 할인은 제외](https://blog.ai.dmomo.co.kr/news/17036) <br/>
 
 ## ✅ Latest AI EN Blog Post
 [2025/12/30 - Yoo Jae-seok's 9th MBC Award & Kim Yeon-koung's 6th Crown: Complete Conquest of the 2025 Broadcasting Entertainment Awards](https://ai.trend.dmomo.co.kr/2025/12/yoo-jae-seoks-9th-mbc-award-kim-yeon.html) <br/>
