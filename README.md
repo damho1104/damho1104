@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2025/12/31 - [뉴스] 딸 출산 후 희귀암 진단…케네디 외손녀 35세 젊은 나이에 별세](https://blog.ai.dmomo.co.kr/news/17051) <br/>
-[2025/12/31 - [뉴스] 삼성은 0a D램을 어떻게 만들까 (feat. IGO)](https://blog.ai.dmomo.co.kr/news/17048) <br/>
-[2025/12/31 - [뉴스] 모의타격에 해상돌격까지…中, 대만 포위훈련에 전폭기·구축함 다 동원](https://blog.ai.dmomo.co.kr/news/17045) <br/>
-[2025/12/30 - [뉴스] 대만 압박 수위 높이는 中 … 역대 가장 가까운 곳서 실탄 사격](https://blog.ai.dmomo.co.kr/news/17042) <br/>
-[2025/12/30 - [뉴스] 설거지 귀찮아서 미뤘다가 사망 위험 질환까지…전문가 경고](https://blog.ai.dmomo.co.kr/news/17039) <br/>
-[2025/12/30 - [뉴스] KT, 4500억 규모 보상안 발표…통신요금 할인은 제외](https://blog.ai.dmomo.co.kr/news/17036) <br/>
+[2026/01/01 - [뉴스] “재산 2조? 일시불 1000억 세금 내라”…억만장자 대탈출 일어난 동네](https://blog.ai.dmomo.co.kr/news/17120) <br/>
+[2026/01/01 - [뉴스] 오픈AI 직원 평균 21억원치 주식 받았다…역대 빅테크 최고](https://blog.ai.dmomo.co.kr/news/17117) <br/>
+[2026/01/01 - [뉴스] 얼굴 붓고, 체력 안 따라주고…20대 문가영 건강 이상](https://blog.ai.dmomo.co.kr/news/17114) <br/>
+[2025/12/31 - [뉴스] “가전제품 사면 보조금 줄게”…돈 쏟아부은 중국, 제조업 일단 반등](https://blog.ai.dmomo.co.kr/news/17111) <br/>
+[2025/12/31 - [뉴스] 주 150분 이상 1년 넘게 운동하면…우울증 위험 낮춘다](https://blog.ai.dmomo.co.kr/news/17108) <br/>
+[2025/12/31 - [뉴스] HLB그룹, 김태한 전 삼성바이오 대표 영입…바이오 총괄 회장 취임](https://blog.ai.dmomo.co.kr/news/17105) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2025/12/31 - 8 New Year Traditions Around the World: From Eating Grapes to Visiting Graves](https://ai.trend.dmomo.co.kr/2025/12/8-new-year-traditions-around-world-from.html) <br/>
+[2025/12/31 - The Rise and Fall of Hyun Woo-jin: The 20 Billion Won Salary Myth in Mathematics](https://ai.trend.dmomo.co.kr/2025/12/the-rise-and-fall-of-hyun-woo-jin-20.html) <br/>
+[2025/12/31 - 5 Essential Changes You Must Know About 2025’s Infrastructure as Code Automation Revolution](https://ai.trend.dmomo.co.kr/2025/12/5-essential-changes-you-must-know-about.html) <br/>
+[2025/12/31 - 35-Year-Old Tatiana Schlossberg, Kennedy Family Environmental Journalist, Shares Heartbreaking Battle with Illness](https://ai.trend.dmomo.co.kr/2025/12/35-year-old-tatiana-schlossberg-kennedy.html) <br/>
+[2025/12/31 - Shock Draw: Man United vs Wolves! Summary of Match Results with Hee-chan Hwang Starting](https://ai.trend.dmomo.co.kr/2025/12/shock-draw-man-united-vs-wolves-summary.html) <br/>
 [2025/12/30 - Yoo Jae-seok's 9th MBC Award & Kim Yeon-koung's 6th Crown: Complete Conquest of the 2025 Broadcasting Entertainment Awards](https://ai.trend.dmomo.co.kr/2025/12/yoo-jae-seoks-9th-mbc-award-kim-yeon.html) <br/>
-[2025/12/30 - The World of Eagles: Stunning Flight Skills of the Sky's Ultimate Hunters](https://ai.trend.dmomo.co.kr/2025/12/the-world-of-eagles-stunning-flight.html) <br/>
-[2025/12/30 - Trot Singer Sukhyung Reveals Real Reason Behind Handwritten Apology for Adultery Allegations](https://ai.trend.dmomo.co.kr/2025/12/trot-singer-sukhyung-reveals-real.html) <br/>
-[2025/12/30 - Korean Semiconductor Revolution 2025: How PIM Technology is Transforming AI Infrastructure](https://ai.trend.dmomo.co.kr/2025/12/korean-semiconductor-revolution-2025.html) <br/>
-[2025/12/30 - Anthony Joshua Nigeria Car Accident: 2 Dead, Boxer Sustains Minor Injuries](https://ai.trend.dmomo.co.kr/2025/12/anthony-joshua-nigeria-car-accident-2.html) <br/>
-[2025/12/30 - From Daniel's Seventy Weeks Prophecy to New Jeans: The Influence of Biblical Figures on Modern Culture](https://ai.trend.dmomo.co.kr/2025/12/from-daniels-seventy-weeks-prophecy-to.html) <br/>
