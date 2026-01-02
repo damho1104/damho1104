@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/01 - [뉴스] “재산 2조? 일시불 1000억 세금 내라”…억만장자 대탈출 일어난 동네](https://blog.ai.dmomo.co.kr/news/17120) <br/>
-[2026/01/01 - [뉴스] 오픈AI 직원 평균 21억원치 주식 받았다…역대 빅테크 최고](https://blog.ai.dmomo.co.kr/news/17117) <br/>
-[2026/01/01 - [뉴스] 얼굴 붓고, 체력 안 따라주고…20대 문가영 건강 이상](https://blog.ai.dmomo.co.kr/news/17114) <br/>
-[2025/12/31 - [뉴스] “가전제품 사면 보조금 줄게”…돈 쏟아부은 중국, 제조업 일단 반등](https://blog.ai.dmomo.co.kr/news/17111) <br/>
-[2025/12/31 - [뉴스] 주 150분 이상 1년 넘게 운동하면…우울증 위험 낮춘다](https://blog.ai.dmomo.co.kr/news/17108) <br/>
-[2025/12/31 - [뉴스] HLB그룹, 김태한 전 삼성바이오 대표 영입…바이오 총괄 회장 취임](https://blog.ai.dmomo.co.kr/news/17105) <br/>
+[2026/01/02 - [뉴스] 워렌 버핏에게 2000억원을 받아 낸 남자…네이버 블로그 경제분야 1위 메르 [김유신의 딥 머니 토크]](https://blog.ai.dmomo.co.kr/news/17189) <br/>
+[2026/01/02 - [뉴스] 안성재 셰프 모수, 42만원에 주차도 안 돼…허위 AI 리뷰 주의보](https://blog.ai.dmomo.co.kr/news/17186) <br/>
+[2026/01/02 - [뉴스] 올해부터 뇌에 컴퓨터 심는 세상…머스크 “양산 돌입, 수술도 자동화”](https://blog.ai.dmomo.co.kr/news/17183) <br/>
+[2026/01/01 - [뉴스] 미국 피츠버그·한국 창원, 굴뚝 도시의 ‘반전 드라마’…주연은 AI](https://blog.ai.dmomo.co.kr/news/17180) <br/>
+[2026/01/01 - [뉴스] 엄마, 케데헌 사줘…장난감 사주러 갔다가 깜짝](https://blog.ai.dmomo.co.kr/news/17177) <br/>
+[2026/01/01 - [뉴스] 삼성, 원가 부담에도 갤럭시 S26 가격 동결한다](https://blog.ai.dmomo.co.kr/news/17174) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2025/12/31 - 8 New Year Traditions Around the World: From Eating Grapes to Visiting Graves](https://ai.trend.dmomo.co.kr/2025/12/8-new-year-traditions-around-world-from.html) <br/>
-[2025/12/31 - The Rise and Fall of Hyun Woo-jin: The 20 Billion Won Salary Myth in Mathematics](https://ai.trend.dmomo.co.kr/2025/12/the-rise-and-fall-of-hyun-woo-jin-20.html) <br/>
-[2025/12/31 - 5 Essential Changes You Must Know About 2025’s Infrastructure as Code Automation Revolution](https://ai.trend.dmomo.co.kr/2025/12/5-essential-changes-you-must-know-about.html) <br/>
-[2025/12/31 - 35-Year-Old Tatiana Schlossberg, Kennedy Family Environmental Journalist, Shares Heartbreaking Battle with Illness](https://ai.trend.dmomo.co.kr/2025/12/35-year-old-tatiana-schlossberg-kennedy.html) <br/>
-[2025/12/31 - Shock Draw: Man United vs Wolves! Summary of Match Results with Hee-chan Hwang Starting](https://ai.trend.dmomo.co.kr/2025/12/shock-draw-man-united-vs-wolves-summary.html) <br/>
-[2025/12/30 - Yoo Jae-seok's 9th MBC Award & Kim Yeon-koung's 6th Crown: Complete Conquest of the 2025 Broadcasting Entertainment Awards](https://ai.trend.dmomo.co.kr/2025/12/yoo-jae-seoks-9th-mbc-award-kim-yeon.html) <br/>
+[2026/01/01 - Tesla's Sudden Price Cut: 3 Hidden Strategies for Model Y to Enter the 40 Million KRW Range!](https://ai.trend.dmomo.co.kr/2026/01/teslas-sudden-price-cut-3-hidden.html) <br/>
+[2026/01/01 - Miami Hurricanes Shockingly Defeat Ohio State Buckeyes at CFP Cotton Bowl](https://ai.trend.dmomo.co.kr/2026/01/miami-hurricanes-shockingly-defeat-ohio.html) <br/>
+[2026/01/01 - Ohio State Football 2026: The Buckeyes' New Ascendancy and Latest Outlook Analysis](https://ai.trend.dmomo.co.kr/2025/12/ohio-state-football-2026-buckeyes-new.html) <br/>
+[2026/01/01 - 2026 Michigan vs Texas Citrus Bowl: Longhorns Projected to Have a 62% Win Rate](https://ai.trend.dmomo.co.kr/2025/12/2026-michigan-vs-texas-citrus-bowl.html) <br/>
+[2026/01/01 - Cybersecurity Innovation Strategies for Autonomous SOC and Agentic AI You Must Know in 2026](https://ai.trend.dmomo.co.kr/2025/12/cybersecurity-innovation-strategies-for.html) <br/>
+[2026/01/01 - How Will the World Celebrate the New Year on January 1st, 2026, the Year of the Fire Horse?](https://ai.trend.dmomo.co.kr/2025/12/how-will-world-celebrate-new-year-on.html) <br/>
