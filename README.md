@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/02 - [뉴스] 워렌 버핏에게 2000억원을 받아 낸 남자…네이버 블로그 경제분야 1위 메르 [김유신의 딥 머니 토크]](https://blog.ai.dmomo.co.kr/news/17189) <br/>
-[2026/01/02 - [뉴스] 안성재 셰프 모수, 42만원에 주차도 안 돼…허위 AI 리뷰 주의보](https://blog.ai.dmomo.co.kr/news/17186) <br/>
-[2026/01/02 - [뉴스] 올해부터 뇌에 컴퓨터 심는 세상…머스크 “양산 돌입, 수술도 자동화”](https://blog.ai.dmomo.co.kr/news/17183) <br/>
-[2026/01/01 - [뉴스] 미국 피츠버그·한국 창원, 굴뚝 도시의 ‘반전 드라마’…주연은 AI](https://blog.ai.dmomo.co.kr/news/17180) <br/>
-[2026/01/01 - [뉴스] 엄마, 케데헌 사줘…장난감 사주러 갔다가 깜짝](https://blog.ai.dmomo.co.kr/news/17177) <br/>
-[2026/01/01 - [뉴스] 삼성, 원가 부담에도 갤럭시 S26 가격 동결한다](https://blog.ai.dmomo.co.kr/news/17174) <br/>
+[2026/01/03 - [뉴스] 아동성착취 이미지 올렸다 삭제됐다…안전장치 구멍난 ‘그록’](https://blog.ai.dmomo.co.kr/news/17255) <br/>
+[2026/01/03 - [뉴스] 고객 신뢰 먹고 자란 쿠팡…경쟁법 칼날 드리워진다](https://blog.ai.dmomo.co.kr/news/17252) <br/>
+[2026/01/03 - [뉴스] 추워도 너무 춥다…새해 첫 주말 아침 맹추위](https://blog.ai.dmomo.co.kr/news/17249) <br/>
+[2026/01/03 - [뉴스] 정초부터 또 무역전쟁…싸움닭 중국 “EU 탄소국경세 맞대응하겠다”](https://blog.ai.dmomo.co.kr/news/17246) <br/>
+[2026/01/02 - [뉴스] “3% 넘는 고성장시대, 이젠 불가능”…올해 세계경제 최대 위협 요소는?](https://blog.ai.dmomo.co.kr/news/17243) <br/>
+[2026/01/02 - [뉴스] 강추위 뇌졸중 주의보…증상 보이면 골든타임 4시간 30분](https://blog.ai.dmomo.co.kr/news/17240) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/01/02 - UpsStage Solar-Open-100B Controversy: Is the Allegation of Copying a Chinese Model True?](https://ai.trend.dmomo.co.kr/2026/01/upsstage-solar-open-100b-controversy-is.html) <br/>
+[2026/01/02 - Ole Miss's First Championship Challenge Since 1962: The Miraculous Journey Led by QB Chambliss](https://ai.trend.dmomo.co.kr/2026/01/ole-misss-first-championship-challenge.html) <br/>
+[2026/01/02 - Edge AI Innovations in 2026: Akamai's Distributed Inference and the Future of Physical AI](https://ai.trend.dmomo.co.kr/2026/01/edge-ai-innovations-in-2026-akamais.html) <br/>
+[2026/01/02 - 2026 Rose Bowl: A Comprehensive Analysis of the Clash Between Alabama and Indiana](https://ai.trend.dmomo.co.kr/2026/01/2026-rose-bowl-comprehensive-analysis.html) <br/>
+[2026/01/02 - Tottenham 0-0 Brentford: Spurs in Crisis with Just 2 Goals in 4 Matches Without Son Heung-min](https://ai.trend.dmomo.co.kr/2026/01/tottenham-0-0-brentford-spurs-in-crisis.html) <br/>
 [2026/01/01 - Tesla's Sudden Price Cut: 3 Hidden Strategies for Model Y to Enter the 40 Million KRW Range!](https://ai.trend.dmomo.co.kr/2026/01/teslas-sudden-price-cut-3-hidden.html) <br/>
-[2026/01/01 - Miami Hurricanes Shockingly Defeat Ohio State Buckeyes at CFP Cotton Bowl](https://ai.trend.dmomo.co.kr/2026/01/miami-hurricanes-shockingly-defeat-ohio.html) <br/>
-[2026/01/01 - Ohio State Football 2026: The Buckeyes' New Ascendancy and Latest Outlook Analysis](https://ai.trend.dmomo.co.kr/2025/12/ohio-state-football-2026-buckeyes-new.html) <br/>
-[2026/01/01 - 2026 Michigan vs Texas Citrus Bowl: Longhorns Projected to Have a 62% Win Rate](https://ai.trend.dmomo.co.kr/2025/12/2026-michigan-vs-texas-citrus-bowl.html) <br/>
-[2026/01/01 - Cybersecurity Innovation Strategies for Autonomous SOC and Agentic AI You Must Know in 2026](https://ai.trend.dmomo.co.kr/2025/12/cybersecurity-innovation-strategies-for.html) <br/>
-[2026/01/01 - How Will the World Celebrate the New Year on January 1st, 2026, the Year of the Fire Horse?](https://ai.trend.dmomo.co.kr/2025/12/how-will-world-celebrate-new-year-on.html) <br/>
