@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/03 - [뉴스] 아동성착취 이미지 올렸다 삭제됐다…안전장치 구멍난 ‘그록’](https://blog.ai.dmomo.co.kr/news/17255) <br/>
-[2026/01/03 - [뉴스] 고객 신뢰 먹고 자란 쿠팡…경쟁법 칼날 드리워진다](https://blog.ai.dmomo.co.kr/news/17252) <br/>
-[2026/01/03 - [뉴스] 추워도 너무 춥다…새해 첫 주말 아침 맹추위](https://blog.ai.dmomo.co.kr/news/17249) <br/>
-[2026/01/03 - [뉴스] 정초부터 또 무역전쟁…싸움닭 중국 “EU 탄소국경세 맞대응하겠다”](https://blog.ai.dmomo.co.kr/news/17246) <br/>
-[2026/01/02 - [뉴스] “3% 넘는 고성장시대, 이젠 불가능”…올해 세계경제 최대 위협 요소는?](https://blog.ai.dmomo.co.kr/news/17243) <br/>
-[2026/01/02 - [뉴스] 강추위 뇌졸중 주의보…증상 보이면 골든타임 4시간 30분](https://blog.ai.dmomo.co.kr/news/17240) <br/>
+[2026/01/04 - [뉴스] [속보] 마두로 부부 압송 비행기, 뉴욕 군공항에 도착](https://blog.ai.dmomo.co.kr/news/17326) <br/>
+[2026/01/04 - [뉴스] 데뷔하자마자 터졌다…올데프, 안무가까지 대세라는데](https://blog.ai.dmomo.co.kr/news/17323) <br/>
+[2026/01/04 - [뉴스] 트럼프 “2차대전 이후 최대 공격…정권이양때까지 베네수 주둔·운영”](https://blog.ai.dmomo.co.kr/news/17320) <br/>
+[2026/01/04 - 2026년 첫 주 IT 커뮤니티 핫 게시글 TOP 10이 궁금하다면?](https://blog.ai.dmomo.co.kr/ai/17317) <br/>
+[2026/01/04 - Oh-My-OpenCode로 자동화하는 LLM 기반 코드 린터 혁신 비밀 5가지](https://blog.ai.dmomo.co.kr/tech/17312) <br/>
+[2026/01/03 - [뉴스] ‘700억대 현상금’ 마두로, 미국 법정서 형사재판](https://blog.ai.dmomo.co.kr/news/17309) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/01/02 - UpsStage Solar-Open-100B Controversy: Is the Allegation of Copying a Chinese Model True?](https://ai.trend.dmomo.co.kr/2026/01/upsstage-solar-open-100b-controversy-is.html) <br/>
-[2026/01/02 - Ole Miss's First Championship Challenge Since 1962: The Miraculous Journey Led by QB Chambliss](https://ai.trend.dmomo.co.kr/2026/01/ole-misss-first-championship-challenge.html) <br/>
-[2026/01/02 - Edge AI Innovations in 2026: Akamai's Distributed Inference and the Future of Physical AI](https://ai.trend.dmomo.co.kr/2026/01/edge-ai-innovations-in-2026-akamais.html) <br/>
-[2026/01/02 - 2026 Rose Bowl: A Comprehensive Analysis of the Clash Between Alabama and Indiana](https://ai.trend.dmomo.co.kr/2026/01/2026-rose-bowl-comprehensive-analysis.html) <br/>
-[2026/01/02 - Tottenham 0-0 Brentford: Spurs in Crisis with Just 2 Goals in 4 Matches Without Son Heung-min](https://ai.trend.dmomo.co.kr/2026/01/tottenham-0-0-brentford-spurs-in-crisis.html) <br/>
-[2026/01/01 - Tesla's Sudden Price Cut: 3 Hidden Strategies for Model Y to Enter the 40 Million KRW Range!](https://ai.trend.dmomo.co.kr/2026/01/teslas-sudden-price-cut-3-hidden.html) <br/>
+[2026/01/04 - 5 Secrets to Revolutionizing Code Linters with LLM-Based Automation Using Oh-My-OpenCode](https://ai.trend.dmomo.co.kr/2026/01/5-secrets-to-revolutionizing-code.html) <br/>
+[2026/01/03 - Invasion of Venezuela 2026: The Day the U.S. Captured Maduro](https://ai.trend.dmomo.co.kr/2026/01/invasion-of-venezuela-2026-day-us.html) <br/>
+[2026/01/03 - Venezuela Airstrike Update: Shocking Reasons Behind the US Bombing of Caracas with 7 Missiles](https://ai.trend.dmomo.co.kr/2026/01/venezuela-airstrike-update-shocking.html) <br/>
+[2026/01/03 - 2026 Holiday Bowl: Prediction Analysis of the Big Matchup - Arizona vs SMU](https://ai.trend.dmomo.co.kr/2026/01/2026-holiday-bowl-prediction-analysis.html) <br/>
+[2026/01/03 - IoT Edge Router Technologies to Watch in 2026 and the Secrets Behind Smart Factory Innovation](https://ai.trend.dmomo.co.kr/2026/01/iot-edge-router-technologies-to-watch.html) <br/>
+[2026/01/03 - Tommy Lee Jones' Daughter Victoria Found Dead at San Francisco Hotel](https://ai.trend.dmomo.co.kr/2026/01/tommy-lee-jones-daughter-victoria-found.html) <br/>
