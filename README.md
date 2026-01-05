@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/04 - [뉴스] [속보] 마두로 부부 압송 비행기, 뉴욕 군공항에 도착](https://blog.ai.dmomo.co.kr/news/17326) <br/>
-[2026/01/04 - [뉴스] 데뷔하자마자 터졌다…올데프, 안무가까지 대세라는데](https://blog.ai.dmomo.co.kr/news/17323) <br/>
-[2026/01/04 - [뉴스] 트럼프 “2차대전 이후 최대 공격…정권이양때까지 베네수 주둔·운영”](https://blog.ai.dmomo.co.kr/news/17320) <br/>
-[2026/01/04 - 2026년 첫 주 IT 커뮤니티 핫 게시글 TOP 10이 궁금하다면?](https://blog.ai.dmomo.co.kr/ai/17317) <br/>
-[2026/01/04 - Oh-My-OpenCode로 자동화하는 LLM 기반 코드 린터 혁신 비밀 5가지](https://blog.ai.dmomo.co.kr/tech/17312) <br/>
-[2026/01/03 - [뉴스] ‘700억대 현상금’ 마두로, 미국 법정서 형사재판](https://blog.ai.dmomo.co.kr/news/17309) <br/>
+[2026/01/05 - [뉴스] “법대생을 비싼 돈 주고 뽑을 필요 있나”…통계가 입증한 ‘전문직 종말’](https://blog.ai.dmomo.co.kr/news/17389) <br/>
+[2026/01/05 - [뉴스] 상상이 현실로 되는 순간 K-로봇의 탄생](https://blog.ai.dmomo.co.kr/news/17386) <br/>
+[2026/01/05 - [뉴스] 150㎏ 드는 여자, 본 적 있나요…힘’의 세계에 매료된 사람들](https://blog.ai.dmomo.co.kr/news/17383) <br/>
+[2026/01/04 - [뉴스] “괴한 공격에 주민 30명 사망”…발칵 뒤집힌 ‘이 나라’, 대체 무슨 일](https://blog.ai.dmomo.co.kr/news/17380) <br/>
+[2026/01/04 - [뉴스] 소한 출근길 맹추위…아침 영하 9도까지 뚝](https://blog.ai.dmomo.co.kr/news/17377) <br/>
+[2026/01/04 - [뉴스] 韓 로봇 OS 스타트업, 글로벌 무대 도전장](https://blog.ai.dmomo.co.kr/news/17374) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/01/04 - 5 Secrets to Revolutionizing Code Linters with LLM-Based Automation Using Oh-My-OpenCode](https://ai.trend.dmomo.co.kr/2026/01/5-secrets-to-revolutionizing-code.html) <br/>
-[2026/01/03 - Invasion of Venezuela 2026: The Day the U.S. Captured Maduro](https://ai.trend.dmomo.co.kr/2026/01/invasion-of-venezuela-2026-day-us.html) <br/>
-[2026/01/03 - Venezuela Airstrike Update: Shocking Reasons Behind the US Bombing of Caracas with 7 Missiles](https://ai.trend.dmomo.co.kr/2026/01/venezuela-airstrike-update-shocking.html) <br/>
-[2026/01/03 - 2026 Holiday Bowl: Prediction Analysis of the Big Matchup - Arizona vs SMU](https://ai.trend.dmomo.co.kr/2026/01/2026-holiday-bowl-prediction-analysis.html) <br/>
-[2026/01/03 - IoT Edge Router Technologies to Watch in 2026 and the Secrets Behind Smart Factory Innovation](https://ai.trend.dmomo.co.kr/2026/01/iot-edge-router-technologies-to-watch.html) <br/>
-[2026/01/03 - Tommy Lee Jones' Daughter Victoria Found Dead at San Francisco Hotel](https://ai.trend.dmomo.co.kr/2026/01/tommy-lee-jones-daughter-victoria-found.html) <br/>
+[2026/01/04 - Lim Jae-bum's 40-Year Music Journey Comes to an End: Shock Retirement Announcement of a Legend](https://ai.trend.dmomo.co.kr/2026/01/lim-jae-bums-40-year-music-journey.html) <br/>
+[2026/01/04 - Lotto 1205: 10 Winners for the 1st Prize! Who are the Winners of the 3.2 Billion Won Jackpot?](https://ai.trend.dmomo.co.kr/2026/01/lotto-1205-10-winners-for-1st-prize-who.html) <br/>
+[2026/01/04 - Carolina Panthers vs Tampa Bay Buccaneers: A Comeback Drama That Decided the NFC South Fate](https://ai.trend.dmomo.co.kr/2026/01/carolina-panthers-vs-tampa-bay.html) <br/>
+[2026/01/04 - Essential Security Innovations for 2026: The Complete Guide to Zero Trust Network Access with SDP](https://ai.trend.dmomo.co.kr/2026/01/essential-security-innovations-for-2026.html) <br/>
+[2026/01/04 - The Collapse of Venezuela: 27 Years of Decline from Oil Riches to U.S. Intervention](https://ai.trend.dmomo.co.kr/2026/01/the-collapse-of-venezuela-27-years-of.html) <br/>
+[2026/01/04 - Maduro's Arrest: The Shocking End of 13 Years of Dictatorship in Venezuela](https://ai.trend.dmomo.co.kr/2026/01/maduros-arrest-shocking-end-of-13-years.html) <br/>
