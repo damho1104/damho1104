@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/05 - [뉴스] “법대생을 비싼 돈 주고 뽑을 필요 있나”…통계가 입증한 ‘전문직 종말’](https://blog.ai.dmomo.co.kr/news/17389) <br/>
-[2026/01/05 - [뉴스] 상상이 현실로 되는 순간 K-로봇의 탄생](https://blog.ai.dmomo.co.kr/news/17386) <br/>
-[2026/01/05 - [뉴스] 150㎏ 드는 여자, 본 적 있나요…힘’의 세계에 매료된 사람들](https://blog.ai.dmomo.co.kr/news/17383) <br/>
-[2026/01/04 - [뉴스] “괴한 공격에 주민 30명 사망”…발칵 뒤집힌 ‘이 나라’, 대체 무슨 일](https://blog.ai.dmomo.co.kr/news/17380) <br/>
-[2026/01/04 - [뉴스] 소한 출근길 맹추위…아침 영하 9도까지 뚝](https://blog.ai.dmomo.co.kr/news/17377) <br/>
-[2026/01/04 - [뉴스] 韓 로봇 OS 스타트업, 글로벌 무대 도전장](https://blog.ai.dmomo.co.kr/news/17374) <br/>
+[2026/01/06 - [뉴스] “베네수엘라 다음은 우리 아니야?”…트럼프 입방아 올랐던 이 나라 초긴장](https://blog.ai.dmomo.co.kr/news/17455) <br/>
+[2026/01/06 - [뉴스] 아마존 AI 비서 웹에서도 사용 가능…챗GPT와 본격 경쟁](https://blog.ai.dmomo.co.kr/news/17452) <br/>
+[2026/01/06 - [뉴스] 구본창이 기록한 안성기의 그때 그 시절…여섯 장의 흑백사진](https://blog.ai.dmomo.co.kr/news/17449) <br/>
+[2026/01/05 - [뉴스] ‘수의 차림’ 마두로 이송에 헬기·장갑차까지…뉴욕 맨해튼 연방법원 도착](https://blog.ai.dmomo.co.kr/news/17446) <br/>
+[2026/01/05 - [뉴스] 中, 한국엔 무비자 열고 일본엔 여행 자제…온도차 뚜렷](https://blog.ai.dmomo.co.kr/news/17443) <br/>
+[2026/01/05 - 뉴욕 자이언츠, 댈러스 카우보이 34-17 격파! 9연패 끝내고 드래프트 순위 뒤흔들어](https://blog.ai.dmomo.co.kr/trend/17440) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/01/05 - New York Giants Defeat Dallas Cowboys 34-17! End 9-Game Losing Streak and Shake Up Draft Rankings](https://ai.trend.dmomo.co.kr/2026/01/new-york-giants-defeat-dallas-cowboys.html) <br/>
+[2026/01/05 - Steelers Claim AFC North Championship! Moment of Triumph in the 2026 Season](https://ai.trend.dmomo.co.kr/2026/01/steelers-claim-afc-north-championship.html) <br/>
+[2026/01/05 - Lions vs Bears: Perfect Analysis Guide for NFL Week 18 Big Matchup](https://ai.trend.dmomo.co.kr/2026/01/lions-vs-bears-perfect-analysis-guide.html) <br/>
+[2026/01/05 - The 2026 AI Agent Revolution: How Will the Future of Business Automation Transform?](https://ai.trend.dmomo.co.kr/2026/01/the-2026-ai-agent-revolution-how-will.html) <br/>
+[2026/01/05 - PSG Accelerates League Title Race with 2-1 Victory in Paris Derby After 48 Years](https://ai.trend.dmomo.co.kr/2026/01/psg-accelerates-league-title-race-with.html) <br/>
 [2026/01/04 - Lim Jae-bum's 40-Year Music Journey Comes to an End: Shock Retirement Announcement of a Legend](https://ai.trend.dmomo.co.kr/2026/01/lim-jae-bums-40-year-music-journey.html) <br/>
-[2026/01/04 - Lotto 1205: 10 Winners for the 1st Prize! Who are the Winners of the 3.2 Billion Won Jackpot?](https://ai.trend.dmomo.co.kr/2026/01/lotto-1205-10-winners-for-1st-prize-who.html) <br/>
-[2026/01/04 - Carolina Panthers vs Tampa Bay Buccaneers: A Comeback Drama That Decided the NFC South Fate](https://ai.trend.dmomo.co.kr/2026/01/carolina-panthers-vs-tampa-bay.html) <br/>
-[2026/01/04 - Essential Security Innovations for 2026: The Complete Guide to Zero Trust Network Access with SDP](https://ai.trend.dmomo.co.kr/2026/01/essential-security-innovations-for-2026.html) <br/>
-[2026/01/04 - The Collapse of Venezuela: 27 Years of Decline from Oil Riches to U.S. Intervention](https://ai.trend.dmomo.co.kr/2026/01/the-collapse-of-venezuela-27-years-of.html) <br/>
-[2026/01/04 - Maduro's Arrest: The Shocking End of 13 Years of Dictatorship in Venezuela](https://ai.trend.dmomo.co.kr/2026/01/maduros-arrest-shocking-end-of-13-years.html) <br/>
