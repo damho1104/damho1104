@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/06 - [뉴스] “베네수엘라 다음은 우리 아니야?”…트럼프 입방아 올랐던 이 나라 초긴장](https://blog.ai.dmomo.co.kr/news/17455) <br/>
-[2026/01/06 - [뉴스] 아마존 AI 비서 웹에서도 사용 가능…챗GPT와 본격 경쟁](https://blog.ai.dmomo.co.kr/news/17452) <br/>
-[2026/01/06 - [뉴스] 구본창이 기록한 안성기의 그때 그 시절…여섯 장의 흑백사진](https://blog.ai.dmomo.co.kr/news/17449) <br/>
-[2026/01/05 - [뉴스] ‘수의 차림’ 마두로 이송에 헬기·장갑차까지…뉴욕 맨해튼 연방법원 도착](https://blog.ai.dmomo.co.kr/news/17446) <br/>
-[2026/01/05 - [뉴스] 中, 한국엔 무비자 열고 일본엔 여행 자제…온도차 뚜렷](https://blog.ai.dmomo.co.kr/news/17443) <br/>
-[2026/01/05 - 뉴욕 자이언츠, 댈러스 카우보이 34-17 격파! 9연패 끝내고 드래프트 순위 뒤흔들어](https://blog.ai.dmomo.co.kr/trend/17440) <br/>
+[2026/01/07 - [뉴스] 안젤리나 졸리, 355억 저택 매각…미국 떠나 캄보디아 간다](https://blog.ai.dmomo.co.kr/news/17527) <br/>
+[2026/01/07 - [뉴스] 한 번 일어나면 끝이지…버스 자리 양보했다가 봉변](https://blog.ai.dmomo.co.kr/news/17524) <br/>
+[2026/01/07 - [뉴스] 마트·백화점에 뜨면 인기 폭발…흥행 보증수표 아이돌의 정체](https://blog.ai.dmomo.co.kr/news/17521) <br/>
+[2026/01/06 - [뉴스] 마두로 체포에 두쪽난 세계…중·러 “미국, 주권국 짓밟아” 이때다 비판](https://blog.ai.dmomo.co.kr/news/17518) <br/>
+[2026/01/06 - [뉴스] 제주 3박4일 일정 만들어줘 한마디면…손품 팔던 시대 끝났다](https://blog.ai.dmomo.co.kr/news/17515) <br/>
+[2026/01/06 - 울산 현대모비스 vs 부산 KCC, 홈 8연패 탈출 가능할까?](https://blog.ai.dmomo.co.kr/trend/17512) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/01/05 - New York Giants Defeat Dallas Cowboys 34-17! End 9-Game Losing Streak and Shake Up Draft Rankings](https://ai.trend.dmomo.co.kr/2026/01/new-york-giants-defeat-dallas-cowboys.html) <br/>
-[2026/01/05 - Steelers Claim AFC North Championship! Moment of Triumph in the 2026 Season](https://ai.trend.dmomo.co.kr/2026/01/steelers-claim-afc-north-championship.html) <br/>
-[2026/01/05 - Lions vs Bears: Perfect Analysis Guide for NFL Week 18 Big Matchup](https://ai.trend.dmomo.co.kr/2026/01/lions-vs-bears-perfect-analysis-guide.html) <br/>
-[2026/01/05 - The 2026 AI Agent Revolution: How Will the Future of Business Automation Transform?](https://ai.trend.dmomo.co.kr/2026/01/the-2026-ai-agent-revolution-how-will.html) <br/>
-[2026/01/05 - PSG Accelerates League Title Race with 2-1 Victory in Paris Derby After 48 Years](https://ai.trend.dmomo.co.kr/2026/01/psg-accelerates-league-title-race-with.html) <br/>
-[2026/01/04 - Lim Jae-bum's 40-Year Music Journey Comes to an End: Shock Retirement Announcement of a Legend](https://ai.trend.dmomo.co.kr/2026/01/lim-jae-bums-40-year-music-journey.html) <br/>
+[2026/01/06 - Ulsan Hyundai Mobis vs Busan KCC: Can They Break the 8-Game Home Losing Streak?](https://ai.trend.dmomo.co.kr/2026/01/ulsan-hyundai-mobis-vs-busan-kcc-can.html) <br/>
+[2026/01/06 - Analysis of the Thrilling Clash: Clippers Defeat Warriors 103-102](https://ai.trend.dmomo.co.kr/2026/01/analysis-of-thrilling-clash-clippers.html) <br/>
+[2026/01/06 - LA Clippers vs Golden State Warriors: Will the 36-Win Warriors Dominate the 12-Win Clippers?](https://ai.trend.dmomo.co.kr/2026/01/la-clippers-vs-golden-state-warriors.html) <br/>
+[2026/01/06 - Why Did the Montana State University Football Team Win the FCS Championship?](https://ai.trend.dmomo.co.kr/2026/01/why-did-montana-state-university.html) <br/>
+[2026/01/06 - The Reasons for Ruben Amorim's Failure as Manchester United Manager: A 15th Place Disaster Caused by Sticking to 3-4-3 and Lack of Communication](https://ai.trend.dmomo.co.kr/2026/01/the-reasons-for-ruben-amorims-failure.html) <br/>
+[2026/01/06 - 5 Breakthrough Technologies Driving Quantum Computing and AI Integration in Pharma in 2026](https://ai.trend.dmomo.co.kr/2026/01/5-breakthrough-technologies-driving.html) <br/>
