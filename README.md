@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/07 - [뉴스] 안젤리나 졸리, 355억 저택 매각…미국 떠나 캄보디아 간다](https://blog.ai.dmomo.co.kr/news/17527) <br/>
-[2026/01/07 - [뉴스] 한 번 일어나면 끝이지…버스 자리 양보했다가 봉변](https://blog.ai.dmomo.co.kr/news/17524) <br/>
-[2026/01/07 - [뉴스] 마트·백화점에 뜨면 인기 폭발…흥행 보증수표 아이돌의 정체](https://blog.ai.dmomo.co.kr/news/17521) <br/>
-[2026/01/06 - [뉴스] 마두로 체포에 두쪽난 세계…중·러 “미국, 주권국 짓밟아” 이때다 비판](https://blog.ai.dmomo.co.kr/news/17518) <br/>
-[2026/01/06 - [뉴스] 제주 3박4일 일정 만들어줘 한마디면…손품 팔던 시대 끝났다](https://blog.ai.dmomo.co.kr/news/17515) <br/>
-[2026/01/06 - 울산 현대모비스 vs 부산 KCC, 홈 8연패 탈출 가능할까?](https://blog.ai.dmomo.co.kr/trend/17512) <br/>
+[2026/01/08 - [뉴스] 트럼프, 유엔 산하기관 등 66개 국제기구 탈퇴 서명](https://blog.ai.dmomo.co.kr/news/17596) <br/>
+[2026/01/08 - [뉴스] 아직도 남아 계세요?…KT 위약금 면제에 공포 마케팅 반복](https://blog.ai.dmomo.co.kr/news/17593) <br/>
+[2026/01/08 - [뉴스] 하면 된다…1년간 17kg 감량한 52세 정치인, 복근 공개](https://blog.ai.dmomo.co.kr/news/17590) <br/>
+[2026/01/08 - [뉴스] 젠슨황 기조연설서 “엄청나다” 샤라웃한 K기업…나사 하나까지 완벽](https://blog.ai.dmomo.co.kr/news/17587) <br/>
+[2026/01/07 - [뉴스] “美, 베네수와 연계된 러시아 유조선 나포···제재 위반 혐의”](https://blog.ai.dmomo.co.kr/news/17584) <br/>
+[2026/01/07 - [뉴스] 안성재 셰프가 화교? 공산당?…흑백요리사 제작진 칼 뽑았다](https://blog.ai.dmomo.co.kr/news/17581) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/01/06 - Ulsan Hyundai Mobis vs Busan KCC: Can They Break the 8-Game Home Losing Streak?](https://ai.trend.dmomo.co.kr/2026/01/ulsan-hyundai-mobis-vs-busan-kcc-can.html) <br/>
-[2026/01/06 - Analysis of the Thrilling Clash: Clippers Defeat Warriors 103-102](https://ai.trend.dmomo.co.kr/2026/01/analysis-of-thrilling-clash-clippers.html) <br/>
-[2026/01/06 - LA Clippers vs Golden State Warriors: Will the 36-Win Warriors Dominate the 12-Win Clippers?](https://ai.trend.dmomo.co.kr/2026/01/la-clippers-vs-golden-state-warriors.html) <br/>
-[2026/01/06 - Why Did the Montana State University Football Team Win the FCS Championship?](https://ai.trend.dmomo.co.kr/2026/01/why-did-montana-state-university.html) <br/>
-[2026/01/06 - The Reasons for Ruben Amorim's Failure as Manchester United Manager: A 15th Place Disaster Caused by Sticking to 3-4-3 and Lack of Communication](https://ai.trend.dmomo.co.kr/2026/01/the-reasons-for-ruben-amorims-failure.html) <br/>
-[2026/01/06 - 5 Breakthrough Technologies Driving Quantum Computing and AI Integration in Pharma in 2026](https://ai.trend.dmomo.co.kr/2026/01/5-breakthrough-technologies-driving.html) <br/>
+[2026/01/07 - Recall of 2080 Toothpaste: The Reason Why a National Toothpaste is in Crisis Due to Detected Triclosan](https://ai.trend.dmomo.co.kr/2026/01/recall-of-2080-toothpaste-reason-why.html) <br/>
+[2026/01/07 - Nottingham Forest's Hope of Escaping Relegation with 2-1 Comeback Victory Against West Ham](https://ai.trend.dmomo.co.kr/2026/01/nottingham-forests-hope-of-escaping.html) <br/>
+[2026/01/07 - Lakers Pull Off a Comeback Victory Against Pelicans 111-103 in the Fourth Quarter](https://ai.trend.dmomo.co.kr/2026/01/lakers-pull-off-comeback-victory.html) <br/>
+[2026/01/07 - 2026 Edge AI Innovations: How Physical AI and VLA Models Are Transforming the Era of Robotic Labor](https://ai.trend.dmomo.co.kr/2026/01/2026-edge-ai-innovations-how-physical.html) <br/>
+[2026/01/07 - Sassuolo vs Juventus: Will the 4th Place Juventus Dominate the 10th Place Home Team?](https://ai.trend.dmomo.co.kr/2026/01/sassuolo-vs-juventus-will-4th-place.html) <br/>
+[2026/01/07 - The Legendary John Harbaugh: Why NFL Teams are Lining Up After His Departure from the Ravens](https://ai.trend.dmomo.co.kr/2026/01/the-legendary-john-harbaugh-why-nfl.html) <br/>
