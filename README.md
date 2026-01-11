@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/10 - [뉴스] [속보] “미 대법원, 트럼프 관세판결 오늘 선고 안해”](https://blog.ai.dmomo.co.kr/news/17713) <br/>
-[2026/01/09 - [뉴스] 트럼프 “무슨 수를 써서라도, 그린란드 사겠다”…가격 산출 어떻게 하나](https://blog.ai.dmomo.co.kr/news/17710) <br/>
-[2026/01/09 - [뉴스] 마두로 침실서 춤추는 트럼프…조회수 5000만 터진 영상 정체](https://blog.ai.dmomo.co.kr/news/17707) <br/>
-[2026/01/09 - 아스널 vs 리버풀 0-0 무승부, EPL 선두 아스널 2위와 격차 6점 유지](https://blog.ai.dmomo.co.kr/trend/17704) <br/>
-[2026/01/09 - [뉴스] 5천피 앞당길 3종 세트 띄운다…장기투자 稅혜택도 크게 늘려](https://blog.ai.dmomo.co.kr/news/17701) <br/>
-[2026/01/09 - [뉴스] 稅혜택 3종 패키지로 오천피 앞당긴다](https://blog.ai.dmomo.co.kr/news/17698) <br/>
+[2026/01/11 - [뉴스] 李대통령 다녀간 후 예약 폭주…가성비 여행지 입소문에 인기 폭발](https://blog.ai.dmomo.co.kr/news/17771) <br/>
+[2026/01/10 - [뉴스] “희토류 안판다”…중국, 신규계약 거부 방침에 일본 기업 ‘전전긍긍’](https://blog.ai.dmomo.co.kr/news/17768) <br/>
+[2026/01/10 - [뉴스] 여기 루이비통 매장 맞아요?…쇼핑하러 갔다가 깜짝](https://blog.ai.dmomo.co.kr/news/17765) <br/>
+[2026/01/10 - [뉴스] 아기 헬멧, 요즘 육아 필수템?…300만원 고가에도 불티](https://blog.ai.dmomo.co.kr/news/17762) <br/>
+[2026/01/10 - [뉴스] 스마트폰 두뇌의 왕 퀄컴, 로봇 겨냥한다](https://blog.ai.dmomo.co.kr/news/17759) <br/>
+[2026/01/10 - [뉴스] 日 대신 강원도 가려고 연차 쓴다…직장인들 돌변한 이유가](https://blog.ai.dmomo.co.kr/news/17756) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/01/10 - Wrexham Achieves FA Cup Upset by Defeating Nottingham in 27 Years First Premier League Match](https://ai.trend.dmomo.co.kr/2026/01/wrexham-achieves-fa-cup-upset-by.html) <br/>
+[2026/01/10 - Indiana Football Advances to National Championship with Perfect 14-0 Record, Defeating Oregon](https://ai.trend.dmomo.co.kr/2026/01/indiana-football-advances-to-national.html) <br/>
+[2026/01/10 - From Impeachment to Treason Trial: The Story of South Korea's Second Presidential Impeachment in History](https://ai.trend.dmomo.co.kr/2026/01/from-impeachment-to-treason-trial-story.html) <br/>
 [2026/01/09 - Arsenal vs Liverpool Ends in 0-0 Draw; Arsenal Maintains 6-Point Lead Over Second-Place Team in EPL](https://ai.trend.dmomo.co.kr/2026/01/arsenal-vs-liverpool-ends-in-0-0-draw.html) <br/>
 [2026/01/09 - University of Miami: Dramatic Comeback Advances to Finals! The Miraculous Playoff Journey of the 10th Seed](https://ai.trend.dmomo.co.kr/2026/01/university-of-miami-dramatic-comeback.html) <br/>
 [2026/01/09 - How Will Low-Code Platforms Revolutionize AI-Powered Development in 2026? Top 5 Key Trends](https://ai.trend.dmomo.co.kr/2026/01/how-will-low-code-platforms.html) <br/>
-[2026/01/09 - PSG Wins 2025 Super Cup with Dramatic Equalizer and 4-1 Victory in Penalty Shootout](https://ai.trend.dmomo.co.kr/2026/01/psg-wins-2025-super-cup-with-dramatic.html) <br/>
-[2026/01/09 - The Solera Aging System of Marsala Wine: The Secret Behind Its Complex Flavors](https://ai.trend.dmomo.co.kr/2026/01/the-solera-aging-system-of-marsala-wine.html) <br/>
-[2026/01/08 - Top 5 Essential Infrastructure as Code (IaC) Technologies and How to Master Them in 2024](https://ai.trend.dmomo.co.kr/2026/01/top-5-essential-infrastructure-as-code.html) <br/>
