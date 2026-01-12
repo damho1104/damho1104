@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/11 - [뉴스] 李대통령 다녀간 후 예약 폭주…가성비 여행지 입소문에 인기 폭발](https://blog.ai.dmomo.co.kr/news/17771) <br/>
-[2026/01/10 - [뉴스] “희토류 안판다”…중국, 신규계약 거부 방침에 일본 기업 ‘전전긍긍’](https://blog.ai.dmomo.co.kr/news/17768) <br/>
-[2026/01/10 - [뉴스] 여기 루이비통 매장 맞아요?…쇼핑하러 갔다가 깜짝](https://blog.ai.dmomo.co.kr/news/17765) <br/>
-[2026/01/10 - [뉴스] 아기 헬멧, 요즘 육아 필수템?…300만원 고가에도 불티](https://blog.ai.dmomo.co.kr/news/17762) <br/>
-[2026/01/10 - [뉴스] 스마트폰 두뇌의 왕 퀄컴, 로봇 겨냥한다](https://blog.ai.dmomo.co.kr/news/17759) <br/>
-[2026/01/10 - [뉴스] 日 대신 강원도 가려고 연차 쓴다…직장인들 돌변한 이유가](https://blog.ai.dmomo.co.kr/news/17756) <br/>
+[2026/01/12 - [뉴스] “미국 해군력 강화에 K조선 슈퍼파워 필요”…美민주당도 초당적 지지](https://blog.ai.dmomo.co.kr/news/17841) <br/>
+[2026/01/12 - [뉴스] 씨어스, 모니터링’ 병상 1만개 돌파…매출 1000억’ 시대 연다](https://blog.ai.dmomo.co.kr/news/17838) <br/>
+[2026/01/12 - [뉴스] 푸바오 동생 판다, 광주로 갈까… 우치동물원에 이미 벽화도](https://blog.ai.dmomo.co.kr/news/17835) <br/>
+[2026/01/12 - [뉴스] “미국의 베네수엘라 공습, 한반도엔 위험신호”…美상원의원의 경고](https://blog.ai.dmomo.co.kr/news/17832) <br/>
+[2026/01/11 - [뉴스] “트럼프·김정은 만나 한국 불리한 상황 동의할수도”…美상원의원의 우려](https://blog.ai.dmomo.co.kr/news/17829) <br/>
+[2026/01/11 - [뉴스] 손가락 잘릴 뻔했다…김수용 살린 김숙·임형준 아찔](https://blog.ai.dmomo.co.kr/news/17826) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/01/10 - Wrexham Achieves FA Cup Upset by Defeating Nottingham in 27 Years First Premier League Match](https://ai.trend.dmomo.co.kr/2026/01/wrexham-achieves-fa-cup-upset-by.html) <br/>
-[2026/01/10 - Indiana Football Advances to National Championship with Perfect 14-0 Record, Defeating Oregon](https://ai.trend.dmomo.co.kr/2026/01/indiana-football-advances-to-national.html) <br/>
-[2026/01/10 - From Impeachment to Treason Trial: The Story of South Korea's Second Presidential Impeachment in History](https://ai.trend.dmomo.co.kr/2026/01/from-impeachment-to-treason-trial-story.html) <br/>
-[2026/01/09 - Arsenal vs Liverpool Ends in 0-0 Draw; Arsenal Maintains 6-Point Lead Over Second-Place Team in EPL](https://ai.trend.dmomo.co.kr/2026/01/arsenal-vs-liverpool-ends-in-0-0-draw.html) <br/>
-[2026/01/09 - University of Miami: Dramatic Comeback Advances to Finals! The Miraculous Playoff Journey of the 10th Seed](https://ai.trend.dmomo.co.kr/2026/01/university-of-miami-dramatic-comeback.html) <br/>
-[2026/01/09 - How Will Low-Code Platforms Revolutionize AI-Powered Development in 2026? Top 5 Key Trends](https://ai.trend.dmomo.co.kr/2026/01/how-will-low-code-platforms.html) <br/>
+[2026/01/11 - Bob Weir: Legendary Guitarist of the Grateful Dead Passes Away at 78](https://ai.trend.dmomo.co.kr/2026/01/bob-weir-legendary-guitarist-of.html) <br/>
+[2026/01/11 - Lotto 1206 Winning Results: 15 Winners Each Received 1.8 Billion! Analysis of Seoul and Gyeonggi's Dominance](https://ai.trend.dmomo.co.kr/2026/01/lotto-1206-winning-results-15-winners.html) <br/>
+[2026/01/11 - Tottenham's Shocking Exit in FA Cup Round of 64... A Humiliation After 11 Seasons](https://ai.trend.dmomo.co.kr/2026/01/tottenhams-shocking-exit-in-fa-cup.html) <br/>
+[2026/01/11 - 5 Key Innovations and Practical Applications of Generative AI Agents Transforming 2026](https://ai.trend.dmomo.co.kr/2026/01/5-key-innovations-and-practical.html) <br/>
+[2026/01/11 - Hwang Hee-chan's Third Assist of the Season! Wolverhampton Secures 6-1 Victory in FA Cup](https://ai.trend.dmomo.co.kr/2026/01/hwang-hee-chans-third-assist-of-season.html) <br/>
+[2026/01/11 - Panthers vs Rams Wild Card: Highlights of a Playoff Return After 8 Years](https://ai.trend.dmomo.co.kr/2026/01/panthers-vs-rams-wild-card-highlights.html) <br/>
