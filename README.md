@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/12 - [뉴스] “미국 해군력 강화에 K조선 슈퍼파워 필요”…美민주당도 초당적 지지](https://blog.ai.dmomo.co.kr/news/17841) <br/>
-[2026/01/12 - [뉴스] 씨어스, 모니터링’ 병상 1만개 돌파…매출 1000억’ 시대 연다](https://blog.ai.dmomo.co.kr/news/17838) <br/>
-[2026/01/12 - [뉴스] 푸바오 동생 판다, 광주로 갈까… 우치동물원에 이미 벽화도](https://blog.ai.dmomo.co.kr/news/17835) <br/>
-[2026/01/12 - [뉴스] “미국의 베네수엘라 공습, 한반도엔 위험신호”…美상원의원의 경고](https://blog.ai.dmomo.co.kr/news/17832) <br/>
-[2026/01/11 - [뉴스] “트럼프·김정은 만나 한국 불리한 상황 동의할수도”…美상원의원의 우려](https://blog.ai.dmomo.co.kr/news/17829) <br/>
-[2026/01/11 - [뉴스] 손가락 잘릴 뻔했다…김수용 살린 김숙·임형준 아찔](https://blog.ai.dmomo.co.kr/news/17826) <br/>
+[2026/01/13 - [뉴스] OECD 사무총장 “한국, 고숙련 이민자 받고 정년 늘리며 연금 개혁을”](https://blog.ai.dmomo.co.kr/news/17907) <br/>
+[2026/01/13 - [뉴스] 다산콜 통화 중인데…서울 무료 셔틀버스 정보 어디서?](https://blog.ai.dmomo.co.kr/news/17904) <br/>
+[2026/01/12 - [뉴스] “이란 가만두면 안될 거 같다”…트럼프 으름장에 하메네이 대답은](https://blog.ai.dmomo.co.kr/news/17901) <br/>
+[2026/01/12 - [뉴스] 고물가에 연말 특수 실종됐는데…예전만 못하다던 팸레의 반전](https://blog.ai.dmomo.co.kr/news/17898) <br/>
+[2026/01/12 - 유지태는 누구? 남편으로만 언급되는 배우의 숨겨진 정체](https://blog.ai.dmomo.co.kr/trend/17895) <br/>
+[2026/01/12 - [뉴스] M7 두달새 4% 떨어졌지만…美대표지수는 올랐다](https://blog.ai.dmomo.co.kr/news/17892) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/01/11 - Bob Weir: Legendary Guitarist of the Grateful Dead Passes Away at 78](https://ai.trend.dmomo.co.kr/2026/01/bob-weir-legendary-guitarist-of.html) <br/>
-[2026/01/11 - Lotto 1206 Winning Results: 15 Winners Each Received 1.8 Billion! Analysis of Seoul and Gyeonggi's Dominance](https://ai.trend.dmomo.co.kr/2026/01/lotto-1206-winning-results-15-winners.html) <br/>
-[2026/01/11 - Tottenham's Shocking Exit in FA Cup Round of 64... A Humiliation After 11 Seasons](https://ai.trend.dmomo.co.kr/2026/01/tottenhams-shocking-exit-in-fa-cup.html) <br/>
-[2026/01/11 - 5 Key Innovations and Practical Applications of Generative AI Agents Transforming 2026](https://ai.trend.dmomo.co.kr/2026/01/5-key-innovations-and-practical.html) <br/>
-[2026/01/11 - Hwang Hee-chan's Third Assist of the Season! Wolverhampton Secures 6-1 Victory in FA Cup](https://ai.trend.dmomo.co.kr/2026/01/hwang-hee-chans-third-assist-of-season.html) <br/>
-[2026/01/11 - Panthers vs Rams Wild Card: Highlights of a Playoff Return After 8 Years](https://ai.trend.dmomo.co.kr/2026/01/panthers-vs-rams-wild-card-highlights.html) <br/>
+[2026/01/12 - Who is Yoo Ji-tae? The Hidden Identity of the Actor Often Mentioned as Just a Husband](https://ai.trend.dmomo.co.kr/2026/01/who-is-yoo-ji-tae-hidden-identity-of.html) <br/>
+[2026/01/12 - Patriots Secure Home Playoff Berth After 6 Years! Coach Brable's Four H's Strategy](https://ai.trend.dmomo.co.kr/2026/01/patriots-secure-home-playoff-berth.html) <br/>
+[2026/01/12 - 7 Key Differences Between AI Coding Innovations in the Agent Era: OpenCode vs. Oh My OpenCode](https://ai.trend.dmomo.co.kr/2026/01/7-key-differences-between-ai-coding.html) <br/>
+[2026/01/12 - 5 Breakthrough AWS DevOps Agent AI Innovations to Watch in 2026](https://ai.trend.dmomo.co.kr/2026/01/5-breakthrough-aws-devops-agent-ai.html) <br/>
+[2026/01/12 - Barcelona Wins 16th Spanish Supercup with 3-2 Victory in El Clasico](https://ai.trend.dmomo.co.kr/2026/01/barcelona-wins-16th-spanish-supercup.html) <br/>
+[2026/01/12 - Eagles Can Lift 24kg? The Incredible Abilities of Raptors Protected by the U.S.](https://ai.trend.dmomo.co.kr/2026/01/eagles-can-lift-24kg-incredible.html) <br/>
