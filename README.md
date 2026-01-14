@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/13 - [뉴스] OECD 사무총장 “한국, 고숙련 이민자 받고 정년 늘리며 연금 개혁을”](https://blog.ai.dmomo.co.kr/news/17907) <br/>
-[2026/01/13 - [뉴스] 다산콜 통화 중인데…서울 무료 셔틀버스 정보 어디서?](https://blog.ai.dmomo.co.kr/news/17904) <br/>
-[2026/01/12 - [뉴스] “이란 가만두면 안될 거 같다”…트럼프 으름장에 하메네이 대답은](https://blog.ai.dmomo.co.kr/news/17901) <br/>
-[2026/01/12 - [뉴스] 고물가에 연말 특수 실종됐는데…예전만 못하다던 팸레의 반전](https://blog.ai.dmomo.co.kr/news/17898) <br/>
-[2026/01/12 - 유지태는 누구? 남편으로만 언급되는 배우의 숨겨진 정체](https://blog.ai.dmomo.co.kr/trend/17895) <br/>
-[2026/01/12 - [뉴스] M7 두달새 4% 떨어졌지만…美대표지수는 올랐다](https://blog.ai.dmomo.co.kr/news/17892) <br/>
+[2026/01/14 - [뉴스] 2026 LCK컵, 오늘 개막…첫날부터 코치 보이스 등장할까](https://blog.ai.dmomo.co.kr/news/17979) <br/>
+[2026/01/14 - [뉴스] 카다이프 아니라 멸치인 줄…두쫀쿠 사기 매물 속출](https://blog.ai.dmomo.co.kr/news/17976) <br/>
+[2026/01/14 - [뉴스] 다이먼 연준 독립 흔들리면 금리 더 오를 것](https://blog.ai.dmomo.co.kr/news/17973) <br/>
+[2026/01/14 - [뉴스] 다카이치 일본총리와 드럼치는 이재명 대통령](https://blog.ai.dmomo.co.kr/news/17970) <br/>
+[2026/01/13 - [뉴스] [속보] 미 작년 12월 소비자물가 전년대비 2.7%↑…전망 부합](https://blog.ai.dmomo.co.kr/news/17967) <br/>
+[2026/01/13 - [뉴스] 美,12월 소비자물가 0.3%p 올라 연 2.7%…예상부합](https://blog.ai.dmomo.co.kr/news/17964) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/01/13 - Steelers: Six Consecutive Playoff Losses Since 2016... Aaron Rodgers Fails to Save the Day](https://ai.trend.dmomo.co.kr/2026/01/steelers-six-consecutive-playoff-losses.html) <br/>
+[2026/01/13 - What is an AWS DevOps Agent? 5 Key Features of 24/7 Autonomous AI-Driven Innovation](https://ai.trend.dmomo.co.kr/2026/01/what-is-aws-devops-agent-5-key-features.html) <br/>
+[2026/01/13 - 2026 Golden Globe Complete Overview: Major Winning Works of Emily Blunt and Timothée Chalamet?](https://ai.trend.dmomo.co.kr/2026/01/2026-golden-globe-complete-overview.html) <br/>
+[2026/01/13 - Seoul City Bus Strike Imminent: Commute Chaos Looms Over Wage Dispute](https://ai.trend.dmomo.co.kr/2026/01/seoul-city-bus-strike-imminent-commute.html) <br/>
 [2026/01/12 - Who is Yoo Ji-tae? The Hidden Identity of the Actor Often Mentioned as Just a Husband](https://ai.trend.dmomo.co.kr/2026/01/who-is-yoo-ji-tae-hidden-identity-of.html) <br/>
 [2026/01/12 - Patriots Secure Home Playoff Berth After 6 Years! Coach Brable's Four H's Strategy](https://ai.trend.dmomo.co.kr/2026/01/patriots-secure-home-playoff-berth.html) <br/>
-[2026/01/12 - 7 Key Differences Between AI Coding Innovations in the Agent Era: OpenCode vs. Oh My OpenCode](https://ai.trend.dmomo.co.kr/2026/01/7-key-differences-between-ai-coding.html) <br/>
-[2026/01/12 - 5 Breakthrough AWS DevOps Agent AI Innovations to Watch in 2026](https://ai.trend.dmomo.co.kr/2026/01/5-breakthrough-aws-devops-agent-ai.html) <br/>
-[2026/01/12 - Barcelona Wins 16th Spanish Supercup with 3-2 Victory in El Clasico](https://ai.trend.dmomo.co.kr/2026/01/barcelona-wins-16th-spanish-supercup.html) <br/>
-[2026/01/12 - Eagles Can Lift 24kg? The Incredible Abilities of Raptors Protected by the U.S.](https://ai.trend.dmomo.co.kr/2026/01/eagles-can-lift-24kg-incredible.html) <br/>
