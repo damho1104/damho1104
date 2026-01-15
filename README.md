@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/14 - [뉴스] 2026 LCK컵, 오늘 개막…첫날부터 코치 보이스 등장할까](https://blog.ai.dmomo.co.kr/news/17979) <br/>
-[2026/01/14 - [뉴스] 카다이프 아니라 멸치인 줄…두쫀쿠 사기 매물 속출](https://blog.ai.dmomo.co.kr/news/17976) <br/>
-[2026/01/14 - [뉴스] 다이먼 연준 독립 흔들리면 금리 더 오를 것](https://blog.ai.dmomo.co.kr/news/17973) <br/>
-[2026/01/14 - [뉴스] 다카이치 일본총리와 드럼치는 이재명 대통령](https://blog.ai.dmomo.co.kr/news/17970) <br/>
-[2026/01/13 - [뉴스] [속보] 미 작년 12월 소비자물가 전년대비 2.7%↑…전망 부합](https://blog.ai.dmomo.co.kr/news/17967) <br/>
-[2026/01/13 - [뉴스] 美,12월 소비자물가 0.3%p 올라 연 2.7%…예상부합](https://blog.ai.dmomo.co.kr/news/17964) <br/>
+[2026/01/15 - [뉴스] 中 겨냥한 트럼프 관세폭탄은 불발탄?…중국 작년 무역흑자 역대 최대](https://blog.ai.dmomo.co.kr/news/18051) <br/>
+[2026/01/15 - [뉴스] LG CNS, 의료·바이오 AX 진출…차바이오와 글로벌 헬스케어 공략](https://blog.ai.dmomo.co.kr/news/18048) <br/>
+[2026/01/15 - [뉴스] 두쫀쿠에 무릎 꿇은 안성재, 잘못했어? 눈치까지…](https://blog.ai.dmomo.co.kr/news/18045) <br/>
+[2026/01/15 - [뉴스] 美증시,양호한 데이터에도 이틀째 하락](https://blog.ai.dmomo.co.kr/news/18042) <br/>
+[2026/01/15 - [뉴스] AI 반도체 기업 모빌린트, SDT와 양자 암호 연구 협력](https://blog.ai.dmomo.co.kr/news/18039) <br/>
+[2026/01/14 - [뉴스] “아이들 고통 상상할 수 없어”…곳곳서 머리카락 기부 캠페인 이어진 이 나라](https://blog.ai.dmomo.co.kr/news/18036) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/01/14 - Scott Adams, Creator of Dilbert, Passes Away - Legendary Cartoonist Who Satirized Corporate Culture for 30 Years](https://ai.trend.dmomo.co.kr/2026/01/scott-adams-creator-of-dilbert-passes.html) <br/>
+[2026/01/14 - 5 Innovations in Incident Response Transformed by AI-Powered Autonomous DevOps Agents in 2026](https://ai.trend.dmomo.co.kr/2026/01/5-innovations-in-incident-response.html) <br/>
+[2026/01/14 - Prosecution of Death Penalty for Yoon Suk-yeol: First Time in Korean Constitutional History to Judge a Sitting President for Insurrection](https://ai.trend.dmomo.co.kr/2026/01/prosecution-of-death-penalty-for-yoon.html) <br/>
+[2026/01/14 - NFL Legend Mike Tomlin Leaves Steelers After Record 19 Seasons Without a Losing Record](https://ai.trend.dmomo.co.kr/2026/01/nfl-legend-mike-tomlin-leaves-steelers.html) <br/>
 [2026/01/13 - Steelers: Six Consecutive Playoff Losses Since 2016... Aaron Rodgers Fails to Save the Day](https://ai.trend.dmomo.co.kr/2026/01/steelers-six-consecutive-playoff-losses.html) <br/>
 [2026/01/13 - What is an AWS DevOps Agent? 5 Key Features of 24/7 Autonomous AI-Driven Innovation](https://ai.trend.dmomo.co.kr/2026/01/what-is-aws-devops-agent-5-key-features.html) <br/>
-[2026/01/13 - 2026 Golden Globe Complete Overview: Major Winning Works of Emily Blunt and Timothée Chalamet?](https://ai.trend.dmomo.co.kr/2026/01/2026-golden-globe-complete-overview.html) <br/>
-[2026/01/13 - Seoul City Bus Strike Imminent: Commute Chaos Looms Over Wage Dispute](https://ai.trend.dmomo.co.kr/2026/01/seoul-city-bus-strike-imminent-commute.html) <br/>
-[2026/01/12 - Who is Yoo Ji-tae? The Hidden Identity of the Actor Often Mentioned as Just a Husband](https://ai.trend.dmomo.co.kr/2026/01/who-is-yoo-ji-tae-hidden-identity-of.html) <br/>
-[2026/01/12 - Patriots Secure Home Playoff Berth After 6 Years! Coach Brable's Four H's Strategy](https://ai.trend.dmomo.co.kr/2026/01/patriots-secure-home-playoff-berth.html) <br/>
