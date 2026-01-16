@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/15 - [뉴스] 中 겨냥한 트럼프 관세폭탄은 불발탄?…중국 작년 무역흑자 역대 최대](https://blog.ai.dmomo.co.kr/news/18051) <br/>
-[2026/01/15 - [뉴스] LG CNS, 의료·바이오 AX 진출…차바이오와 글로벌 헬스케어 공략](https://blog.ai.dmomo.co.kr/news/18048) <br/>
-[2026/01/15 - [뉴스] 두쫀쿠에 무릎 꿇은 안성재, 잘못했어? 눈치까지…](https://blog.ai.dmomo.co.kr/news/18045) <br/>
-[2026/01/15 - [뉴스] 美증시,양호한 데이터에도 이틀째 하락](https://blog.ai.dmomo.co.kr/news/18042) <br/>
-[2026/01/15 - [뉴스] AI 반도체 기업 모빌린트, SDT와 양자 암호 연구 협력](https://blog.ai.dmomo.co.kr/news/18039) <br/>
-[2026/01/14 - [뉴스] “아이들 고통 상상할 수 없어”…곳곳서 머리카락 기부 캠페인 이어진 이 나라](https://blog.ai.dmomo.co.kr/news/18036) <br/>
+[2026/01/16 - [뉴스] 트럼프 “꼭 필요해” 그린란드 “미국령 안돼”…빈손으로 끝난 회담](https://blog.ai.dmomo.co.kr/news/18126) <br/>
+[2026/01/16 - [뉴스] 美 법원도 파라마운트 외면, 워너·넷플 정보 공개 청구 기각](https://blog.ai.dmomo.co.kr/news/18123) <br/>
+[2026/01/16 - [뉴스] 선생님 내려놓고 드레서로… 송승환이 증명한 배우의 품격](https://blog.ai.dmomo.co.kr/news/18120) <br/>
+[2026/01/16 - [뉴스] 목표보다 여정이 더 중요한 이유](https://blog.ai.dmomo.co.kr/news/18116) <br/>
+[2026/01/16 - [뉴스] K-AI 기업 탈락한 네이버클라우드…요리괴물 스톡 논란 닮은꼴](https://blog.ai.dmomo.co.kr/news/18112) <br/>
+[2026/01/16 - [뉴스] “이제 현대차 담기엔 부담되는데”…‘형제’ 우선주·기아 대신 줍줍할까](https://blog.ai.dmomo.co.kr/news/18110) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/01/15 - Mastering Home Tax: Easy Tax Management with Online Tax Services](https://ai.trend.dmomo.co.kr/2026/01/mastering-home-tax-easy-tax-management.html) <br/>
+[2026/01/15 - What Is Physical AI in 2026 and 5 Ways It Will Impact Industries](https://ai.trend.dmomo.co.kr/2026/01/what-is-physical-ai-in-2026-and-5-ways.html) <br/>
+[2026/01/15 - Chelsea vs Arsenal: Arsenal Claims 3-2 Victory in Carabao Cup Semi-Final First Leg](https://ai.trend.dmomo.co.kr/2026/01/chelsea-vs-arsenal-arsenal-claims-3-2.html) <br/>
+[2026/01/15 - Verizon's 170,000 Network Outage: The 5-Hour Communication Crisis Across the U.S.](https://ai.trend.dmomo.co.kr/2026/01/verizons-170000-network-outage-5-hour.html) <br/>
 [2026/01/14 - Scott Adams, Creator of Dilbert, Passes Away - Legendary Cartoonist Who Satirized Corporate Culture for 30 Years](https://ai.trend.dmomo.co.kr/2026/01/scott-adams-creator-of-dilbert-passes.html) <br/>
 [2026/01/14 - 5 Innovations in Incident Response Transformed by AI-Powered Autonomous DevOps Agents in 2026](https://ai.trend.dmomo.co.kr/2026/01/5-innovations-in-incident-response.html) <br/>
-[2026/01/14 - Prosecution of Death Penalty for Yoon Suk-yeol: First Time in Korean Constitutional History to Judge a Sitting President for Insurrection](https://ai.trend.dmomo.co.kr/2026/01/prosecution-of-death-penalty-for-yoon.html) <br/>
-[2026/01/14 - NFL Legend Mike Tomlin Leaves Steelers After Record 19 Seasons Without a Losing Record](https://ai.trend.dmomo.co.kr/2026/01/nfl-legend-mike-tomlin-leaves-steelers.html) <br/>
-[2026/01/13 - Steelers: Six Consecutive Playoff Losses Since 2016... Aaron Rodgers Fails to Save the Day](https://ai.trend.dmomo.co.kr/2026/01/steelers-six-consecutive-playoff-losses.html) <br/>
-[2026/01/13 - What is an AWS DevOps Agent? 5 Key Features of 24/7 Autonomous AI-Driven Innovation](https://ai.trend.dmomo.co.kr/2026/01/what-is-aws-devops-agent-5-key-features.html) <br/>
