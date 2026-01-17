@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/16 - [뉴스] 트럼프 “꼭 필요해” 그린란드 “미국령 안돼”…빈손으로 끝난 회담](https://blog.ai.dmomo.co.kr/news/18126) <br/>
-[2026/01/16 - [뉴스] 美 법원도 파라마운트 외면, 워너·넷플 정보 공개 청구 기각](https://blog.ai.dmomo.co.kr/news/18123) <br/>
-[2026/01/16 - [뉴스] 선생님 내려놓고 드레서로… 송승환이 증명한 배우의 품격](https://blog.ai.dmomo.co.kr/news/18120) <br/>
-[2026/01/16 - [뉴스] 목표보다 여정이 더 중요한 이유](https://blog.ai.dmomo.co.kr/news/18116) <br/>
-[2026/01/16 - [뉴스] K-AI 기업 탈락한 네이버클라우드…요리괴물 스톡 논란 닮은꼴](https://blog.ai.dmomo.co.kr/news/18112) <br/>
-[2026/01/16 - [뉴스] “이제 현대차 담기엔 부담되는데”…‘형제’ 우선주·기아 대신 줍줍할까](https://blog.ai.dmomo.co.kr/news/18110) <br/>
+[2026/01/17 - [뉴스] “대규모 공격으론 이란 안무너져”…역효과 보고에 트럼프 일단 관망](https://blog.ai.dmomo.co.kr/news/18201) <br/>
+[2026/01/17 - [뉴스] KT 롤스터의 고스트 매직’, 젠지에도 통할까](https://blog.ai.dmomo.co.kr/news/18198) <br/>
+[2026/01/17 - [뉴스] 지금 일본에선…다시(出汁)를 마시러 카페에 갑니다](https://blog.ai.dmomo.co.kr/news/18195) <br/>
+[2026/01/17 - [뉴스] 죽을 때까지 화장 고친다 욕먹은 완벽女…속사정 봤더니](https://blog.ai.dmomo.co.kr/news/18192) <br/>
+[2026/01/17 - [뉴스] 금융위 ‘생산적 금융·자본시장 혁신’ 성과 공무원 대거 포상](https://blog.ai.dmomo.co.kr/news/18188) <br/>
+[2026/01/17 - [뉴스] 컴백하면 1조…걸어다니는 기업 BTS 귀환에 쏠린 눈](https://blog.ai.dmomo.co.kr/news/18187) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/01/16 - Guryong Village, A Slum in the Heart of Gangnam, Evacuated Over 100 People Due to Large Fire](https://ai.trend.dmomo.co.kr/2026/01/guryong-village-slum-in-heart-of.html) <br/>
+[2026/01/16 - Trump Deploys Military to Minnesota? The Dangerous Truth About the Insurrection Act](https://ai.trend.dmomo.co.kr/2026/01/trump-deploys-military-to-minnesota.html) <br/>
+[2026/01/16 - 5 Key AI Infrastructure Technologies in 2026 and Enterprise Adoption Strategies](https://ai.trend.dmomo.co.kr/2026/01/5-key-ai-infrastructure-technologies-in.html) <br/>
+[2026/01/16 - 30-Year Decline in Seoul's Air Pollution: But What's the Real Impact We've Overlooked?](https://ai.trend.dmomo.co.kr/2026/01/30-year-decline-in-seouls-air-pollution.html) <br/>
 [2026/01/15 - Mastering Home Tax: Easy Tax Management with Online Tax Services](https://ai.trend.dmomo.co.kr/2026/01/mastering-home-tax-easy-tax-management.html) <br/>
 [2026/01/15 - What Is Physical AI in 2026 and 5 Ways It Will Impact Industries](https://ai.trend.dmomo.co.kr/2026/01/what-is-physical-ai-in-2026-and-5-ways.html) <br/>
-[2026/01/15 - Chelsea vs Arsenal: Arsenal Claims 3-2 Victory in Carabao Cup Semi-Final First Leg](https://ai.trend.dmomo.co.kr/2026/01/chelsea-vs-arsenal-arsenal-claims-3-2.html) <br/>
-[2026/01/15 - Verizon's 170,000 Network Outage: The 5-Hour Communication Crisis Across the U.S.](https://ai.trend.dmomo.co.kr/2026/01/verizons-170000-network-outage-5-hour.html) <br/>
-[2026/01/14 - Scott Adams, Creator of Dilbert, Passes Away - Legendary Cartoonist Who Satirized Corporate Culture for 30 Years](https://ai.trend.dmomo.co.kr/2026/01/scott-adams-creator-of-dilbert-passes.html) <br/>
-[2026/01/14 - 5 Innovations in Incident Response Transformed by AI-Powered Autonomous DevOps Agents in 2026](https://ai.trend.dmomo.co.kr/2026/01/5-innovations-in-incident-response.html) <br/>
