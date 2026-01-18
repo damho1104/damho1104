@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/17 - [뉴스] “대규모 공격으론 이란 안무너져”…역효과 보고에 트럼프 일단 관망](https://blog.ai.dmomo.co.kr/news/18201) <br/>
-[2026/01/17 - [뉴스] KT 롤스터의 고스트 매직’, 젠지에도 통할까](https://blog.ai.dmomo.co.kr/news/18198) <br/>
-[2026/01/17 - [뉴스] 지금 일본에선…다시(出汁)를 마시러 카페에 갑니다](https://blog.ai.dmomo.co.kr/news/18195) <br/>
-[2026/01/17 - [뉴스] 죽을 때까지 화장 고친다 욕먹은 완벽女…속사정 봤더니](https://blog.ai.dmomo.co.kr/news/18192) <br/>
-[2026/01/17 - [뉴스] 금융위 ‘생산적 금융·자본시장 혁신’ 성과 공무원 대거 포상](https://blog.ai.dmomo.co.kr/news/18188) <br/>
-[2026/01/17 - [뉴스] 컴백하면 1조…걸어다니는 기업 BTS 귀환에 쏠린 눈](https://blog.ai.dmomo.co.kr/news/18187) <br/>
+[2026/01/18 - [뉴스] 맑고 포근한 일요일…낮 최고 14도, 평년 보다 높아](https://blog.ai.dmomo.co.kr/news/18255) <br/>
+[2026/01/18 - [뉴스] 트럼프, 그린란드 파병 유럽국가에 “내달부터 10% 대미 관세”](https://blog.ai.dmomo.co.kr/news/18252) <br/>
+[2026/01/17 - [뉴스] 내 아내 때려줘 고맙다?…임신 못하면 남편 앞에서 ‘몽둥이 찜질’, 중국에 있었다는데](https://blog.ai.dmomo.co.kr/news/18249) <br/>
+[2026/01/17 - [뉴스] 비싸서 여행 못갔는데…절반 돌려드립니다 파격 선언한 곳](https://blog.ai.dmomo.co.kr/news/18246) <br/>
+[2026/01/17 - 33세 Nickelodeon 스타 Kianna Underwood, 뺑소니 사고로 비극적 사망](https://blog.ai.dmomo.co.kr/trend/18243) <br/>
+[2026/01/17 - [뉴스] 성수동에서 LA로…콜랩코리아, K컬처 스타트업 美 진출 돕는다](https://blog.ai.dmomo.co.kr/news/18240) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/01/17 - 33-Year-Old Nickelodeon Star Kianna Underwood Tragically Killed in Hit-and-Run Accident](https://ai.trend.dmomo.co.kr/2026/01/33-year-old-nickelodeon-star-kianna.html) <br/>
+[2026/01/17 - Netflix 'The Rip': The Shocking Truth Matt Damon Faced with $20 Million](https://ai.trend.dmomo.co.kr/2026/01/netflix-rip-shocking-truth-matt-damon.html) <br/>
+[2026/01/17 - MLOps Innovation in 2026: What is Physical AI-Based Collective Robot Control Architecture?](https://ai.trend.dmomo.co.kr/2026/01/mlops-innovation-in-2026-what-is.html) <br/>
+[2026/01/17 - LaMelo Ball's 9 Three-Pointers Erupt! Hornets Crush Lakers 135-117](https://ai.trend.dmomo.co.kr/2026/01/lamelo-balls-9-three-pointers-erupt.html) <br/>
+[2026/01/17 - PSG Secures 3-0 Victory Over Lille with Dembélé's Brace, Regains Ligue 1 Top Spot!](https://ai.trend.dmomo.co.kr/2026/01/psg-secures-3-0-victory-over-lille-with.html) <br/>
 [2026/01/16 - Guryong Village, A Slum in the Heart of Gangnam, Evacuated Over 100 People Due to Large Fire](https://ai.trend.dmomo.co.kr/2026/01/guryong-village-slum-in-heart-of.html) <br/>
-[2026/01/16 - Trump Deploys Military to Minnesota? The Dangerous Truth About the Insurrection Act](https://ai.trend.dmomo.co.kr/2026/01/trump-deploys-military-to-minnesota.html) <br/>
-[2026/01/16 - 5 Key AI Infrastructure Technologies in 2026 and Enterprise Adoption Strategies](https://ai.trend.dmomo.co.kr/2026/01/5-key-ai-infrastructure-technologies-in.html) <br/>
-[2026/01/16 - 30-Year Decline in Seoul's Air Pollution: But What's the Real Impact We've Overlooked?](https://ai.trend.dmomo.co.kr/2026/01/30-year-decline-in-seouls-air-pollution.html) <br/>
-[2026/01/15 - Mastering Home Tax: Easy Tax Management with Online Tax Services](https://ai.trend.dmomo.co.kr/2026/01/mastering-home-tax-easy-tax-management.html) <br/>
-[2026/01/15 - What Is Physical AI in 2026 and 5 Ways It Will Impact Industries](https://ai.trend.dmomo.co.kr/2026/01/what-is-physical-ai-in-2026-and-5-ways.html) <br/>
