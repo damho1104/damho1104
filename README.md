@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/18 - [뉴스] 맑고 포근한 일요일…낮 최고 14도, 평년 보다 높아](https://blog.ai.dmomo.co.kr/news/18255) <br/>
-[2026/01/18 - [뉴스] 트럼프, 그린란드 파병 유럽국가에 “내달부터 10% 대미 관세”](https://blog.ai.dmomo.co.kr/news/18252) <br/>
-[2026/01/17 - [뉴스] 내 아내 때려줘 고맙다?…임신 못하면 남편 앞에서 ‘몽둥이 찜질’, 중국에 있었다는데](https://blog.ai.dmomo.co.kr/news/18249) <br/>
-[2026/01/17 - [뉴스] 비싸서 여행 못갔는데…절반 돌려드립니다 파격 선언한 곳](https://blog.ai.dmomo.co.kr/news/18246) <br/>
-[2026/01/17 - 33세 Nickelodeon 스타 Kianna Underwood, 뺑소니 사고로 비극적 사망](https://blog.ai.dmomo.co.kr/trend/18243) <br/>
-[2026/01/17 - [뉴스] 성수동에서 LA로…콜랩코리아, K컬처 스타트업 美 진출 돕는다](https://blog.ai.dmomo.co.kr/news/18240) <br/>
+[2026/01/19 - [뉴스] “1만8천명이나 죽었다”…‘반정부 시위’ 미국 이스라엘 탓이라는 이란, 왜?](https://blog.ai.dmomo.co.kr/news/18321) <br/>
+[2026/01/19 - [뉴스] 전국 흐리고 곳곳 눈·비…출근길 살얼음·빙판길 주의](https://blog.ai.dmomo.co.kr/news/18318) <br/>
+[2026/01/18 - [뉴스] 그린란드에 꽂힌 트럼프, EU와 했던 무역합의도 ‘무시’](https://blog.ai.dmomo.co.kr/news/18315) <br/>
+[2026/01/18 - [뉴스] 화려한 영상미 극대화…佛 누벨 이마주 거장](https://blog.ai.dmomo.co.kr/news/18312) <br/>
+[2026/01/18 - [뉴스] 중국 반도체 추격 따돌릴 해법’ 찾았다…강유전체 표준 선점해야](https://blog.ai.dmomo.co.kr/news/18309) <br/>
+[2026/01/18 - Bo Nix 발목 골절로 플레이오프 아웃: 덴버 브롱코스의 AFC 챔피언십 위기](https://blog.ai.dmomo.co.kr/trend/18306) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/01/17 - 33-Year-Old Nickelodeon Star Kianna Underwood Tragically Killed in Hit-and-Run Accident](https://ai.trend.dmomo.co.kr/2026/01/33-year-old-nickelodeon-star-kianna.html) <br/>
-[2026/01/17 - Netflix 'The Rip': The Shocking Truth Matt Damon Faced with $20 Million](https://ai.trend.dmomo.co.kr/2026/01/netflix-rip-shocking-truth-matt-damon.html) <br/>
-[2026/01/17 - MLOps Innovation in 2026: What is Physical AI-Based Collective Robot Control Architecture?](https://ai.trend.dmomo.co.kr/2026/01/mlops-innovation-in-2026-what-is.html) <br/>
-[2026/01/17 - LaMelo Ball's 9 Three-Pointers Erupt! Hornets Crush Lakers 135-117](https://ai.trend.dmomo.co.kr/2026/01/lamelo-balls-9-three-pointers-erupt.html) <br/>
-[2026/01/17 - PSG Secures 3-0 Victory Over Lille with Dembélé's Brace, Regains Ligue 1 Top Spot!](https://ai.trend.dmomo.co.kr/2026/01/psg-secures-3-0-victory-over-lille-with.html) <br/>
-[2026/01/16 - Guryong Village, A Slum in the Heart of Gangnam, Evacuated Over 100 People Due to Large Fire](https://ai.trend.dmomo.co.kr/2026/01/guryong-village-slum-in-heart-of.html) <br/>
+[2026/01/18 - Bo Nix's Ankle Fracture: Denver Broncos Face AFC Championship Crisis](https://ai.trend.dmomo.co.kr/2026/01/bo-nixs-ankle-fracture-denver-broncos.html) <br/>
+[2026/01/18 - 17 Winners of Lotto 1207! Who Are the Lucky Recipients of 1.7 Billion Won Prize?](https://ai.trend.dmomo.co.kr/2026/01/17-winners-of-lotto-1207-who-are-lucky.html) <br/>
+[2026/01/18 - Three Shocking Reasons Why the Seahawks Dominated the 49ers 41-6](https://ai.trend.dmomo.co.kr/2026/01/three-shocking-reasons-why-seahawks.html) <br/>
+[2026/01/18 - What’s the Secret Behind POSTECH’s 2026 Breakthrough Making Blockchain Transactions 3x Faster?](https://ai.trend.dmomo.co.kr/2026/01/whats-secret-behind-postechs-2026.html) <br/>
+[2026/01/18 - Denver Broncos Achieve +45 Record for Highest Sack Difference in NFL History](https://ai.trend.dmomo.co.kr/2026/01/denver-broncos-achieve-45-record-for.html) <br/>
+[2026/01/18 - Tottenham's Shocking Defeat! 1-2 Comeback Loss to Relegation Zone West Ham... Stuck in a Winless Streak for 5 Matches](https://ai.trend.dmomo.co.kr/2026/01/tottenhams-shocking-defeat-1-2-comeback.html) <br/>
