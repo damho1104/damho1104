@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/19 - [뉴스] “1만8천명이나 죽었다”…‘반정부 시위’ 미국 이스라엘 탓이라는 이란, 왜?](https://blog.ai.dmomo.co.kr/news/18321) <br/>
-[2026/01/19 - [뉴스] 전국 흐리고 곳곳 눈·비…출근길 살얼음·빙판길 주의](https://blog.ai.dmomo.co.kr/news/18318) <br/>
-[2026/01/18 - [뉴스] 그린란드에 꽂힌 트럼프, EU와 했던 무역합의도 ‘무시’](https://blog.ai.dmomo.co.kr/news/18315) <br/>
-[2026/01/18 - [뉴스] 화려한 영상미 극대화…佛 누벨 이마주 거장](https://blog.ai.dmomo.co.kr/news/18312) <br/>
-[2026/01/18 - [뉴스] 중국 반도체 추격 따돌릴 해법’ 찾았다…강유전체 표준 선점해야](https://blog.ai.dmomo.co.kr/news/18309) <br/>
-[2026/01/18 - Bo Nix 발목 골절로 플레이오프 아웃: 덴버 브롱코스의 AFC 챔피언십 위기](https://blog.ai.dmomo.co.kr/trend/18306) <br/>
+[2026/01/20 - [뉴스] 트럼프 “그린란드 통제할 것”…이유가 노벨평화상 못 받아서?](https://blog.ai.dmomo.co.kr/news/18393) <br/>
+[2026/01/20 - [뉴스] 한국, 전 세계 AI 쓰레기통 될까…저질 콘텐츠 소비 1위](https://blog.ai.dmomo.co.kr/news/18390) <br/>
+[2026/01/20 - [뉴스] 물 들어왔다…쿠팡 공백 파고든 경쟁사들, 주문·이용자 급증](https://blog.ai.dmomo.co.kr/news/18387) <br/>
+[2026/01/19 - [뉴스] 美공화당마저 “트럼프 심각한 실수”…‘80년 동맹’ 깰 관세전쟁 비판](https://blog.ai.dmomo.co.kr/news/18384) <br/>
+[2026/01/19 - [뉴스] 최준희, 母 흔적에 뭉클…아직 세상에 엄마가 남아있어 행복](https://blog.ai.dmomo.co.kr/news/18381) <br/>
+[2026/01/19 - 2026년 마틴 루터 킹 데이: 국립공원 무료입장 폐지가 던진 형평성 논란](https://blog.ai.dmomo.co.kr/trend/18378) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/01/18 - Bo Nix's Ankle Fracture: Denver Broncos Face AFC Championship Crisis](https://ai.trend.dmomo.co.kr/2026/01/bo-nixs-ankle-fracture-denver-broncos.html) <br/>
-[2026/01/18 - 17 Winners of Lotto 1207! Who Are the Lucky Recipients of 1.7 Billion Won Prize?](https://ai.trend.dmomo.co.kr/2026/01/17-winners-of-lotto-1207-who-are-lucky.html) <br/>
-[2026/01/18 - Three Shocking Reasons Why the Seahawks Dominated the 49ers 41-6](https://ai.trend.dmomo.co.kr/2026/01/three-shocking-reasons-why-seahawks.html) <br/>
-[2026/01/18 - What’s the Secret Behind POSTECH’s 2026 Breakthrough Making Blockchain Transactions 3x Faster?](https://ai.trend.dmomo.co.kr/2026/01/whats-secret-behind-postechs-2026.html) <br/>
-[2026/01/18 - Denver Broncos Achieve +45 Record for Highest Sack Difference in NFL History](https://ai.trend.dmomo.co.kr/2026/01/denver-broncos-achieve-45-record-for.html) <br/>
-[2026/01/18 - Tottenham's Shocking Defeat! 1-2 Comeback Loss to Relegation Zone West Ham... Stuck in a Winless Streak for 5 Matches](https://ai.trend.dmomo.co.kr/2026/01/tottenhams-shocking-defeat-1-2-comeback.html) <br/>
+[2026/01/19 - Barcelona's 9-Game Winning Streak Ends! Shocking Defeat with 3 Goals Disallowed and 3 Shots Hit the Crossbar](https://ai.trend.dmomo.co.kr/2026/01/barcelonas-9-game-winning-streak-ends.html) <br/>
+[2026/01/19 - Martin Luther King Day 2026: The Controversy Over Ending Free Admission to National Parks](https://ai.trend.dmomo.co.kr/2026/01/martin-luther-king-day-2026-controversy.html) <br/>
+[2026/01/19 - Im Seong-geun's Drunk Driving Confession: What is the Truth Behind the Court Ruling?](https://ai.trend.dmomo.co.kr/2026/01/im-seong-geuns-drunk-driving-confession.html) <br/>
+[2026/01/19 - Rams Advance to NFC Championship with Overtime Field Goal! Defeat Bears 20-17](https://ai.trend.dmomo.co.kr/2026/01/rams-advance-to-nfc-championship-with.html) <br/>
+[2026/01/19 - The 2026 Agentic AI Revolution: 7 Essential Technologies Transforming Business Automation with Microsoft 365 Copilot](https://ai.trend.dmomo.co.kr/2026/01/the-2026-agentic-ai-revolution-7.html) <br/>
+[2026/01/19 - Wolverhampton vs Newcastle: Will the Relegation-Struggling Wolves Take Down a Top Team?](https://ai.trend.dmomo.co.kr/2026/01/wolverhampton-vs-newcastle-will.html) <br/>
