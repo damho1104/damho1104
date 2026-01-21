@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/20 - [뉴스] 트럼프 “그린란드 통제할 것”…이유가 노벨평화상 못 받아서?](https://blog.ai.dmomo.co.kr/news/18393) <br/>
-[2026/01/20 - [뉴스] 한국, 전 세계 AI 쓰레기통 될까…저질 콘텐츠 소비 1위](https://blog.ai.dmomo.co.kr/news/18390) <br/>
-[2026/01/20 - [뉴스] 물 들어왔다…쿠팡 공백 파고든 경쟁사들, 주문·이용자 급증](https://blog.ai.dmomo.co.kr/news/18387) <br/>
-[2026/01/19 - [뉴스] 美공화당마저 “트럼프 심각한 실수”…‘80년 동맹’ 깰 관세전쟁 비판](https://blog.ai.dmomo.co.kr/news/18384) <br/>
-[2026/01/19 - [뉴스] 최준희, 母 흔적에 뭉클…아직 세상에 엄마가 남아있어 행복](https://blog.ai.dmomo.co.kr/news/18381) <br/>
-[2026/01/19 - 2026년 마틴 루터 킹 데이: 국립공원 무료입장 폐지가 던진 형평성 논란](https://blog.ai.dmomo.co.kr/trend/18378) <br/>
+[2026/01/21 - [뉴스] “아이 건강, 7월 말 아들 만난다”…넷째 임신 소식 전한 美부통령](https://blog.ai.dmomo.co.kr/news/18465) <br/>
+[2026/01/21 - [뉴스] 대박 난 흑백요리사 일냈다…17조 잭팟 터뜨린 넷플릭스](https://blog.ai.dmomo.co.kr/news/18462) <br/>
+[2026/01/21 - [뉴스] 권상우 만취 방송 논란, 결국 사과](https://blog.ai.dmomo.co.kr/news/18459) <br/>
+[2026/01/21 - [뉴스] 미 대법원의  ‘트럼프 관세판결’, 20일에도 안나와…최소 한달 더 걸릴듯](https://blog.ai.dmomo.co.kr/news/18456) <br/>
+[2026/01/20 - [뉴스] 국민 여배우인데…‘마약 투약 혐의’로 검찰 송치된 日 요네쿠라 료코](https://blog.ai.dmomo.co.kr/news/18453) <br/>
+[2026/01/20 - [뉴스] 헌혈의 집에 등장한 두쫀쿠…헌혈자 감소하자 선착순 증정](https://blog.ai.dmomo.co.kr/news/18450) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/01/20 - Korea-Japan Showdown: Baseball Faces 10-Game Losing Streak, Soccer Aims for 3rd Consecutive Victory](https://ai.trend.dmomo.co.kr/2026/01/korea-japan-showdown-baseball-faces-10.html) <br/>
+[2026/01/20 - Perfect Guide to Fully Utilizing the 2026 Year-End Tax Adjustment Simplification Service: 4 Deduction Items You Don't Want to Miss](https://ai.trend.dmomo.co.kr/2026/01/perfect-guide-to-fully-utilizing-2026.html) <br/>
+[2026/01/20 - 5 Innovations in Cloud Data Streaming and the Secrets of Apache Kafka](https://ai.trend.dmomo.co.kr/2026/01/5-innovations-in-cloud-data-streaming.html) <br/>
+[2026/01/20 - Martin Luther King Jr. Day 2026: Changes to Federal Holidays Excluding Free National Park Entry](https://ai.trend.dmomo.co.kr/2026/01/martin-luther-king-jr-day-2026-changes.html) <br/>
+[2026/01/20 - Djokovic Achieves 100 Wins at Australian Open! Aiming for 25th Major Title](https://ai.trend.dmomo.co.kr/2026/01/djokovic-achieves-100-wins-at.html) <br/>
 [2026/01/19 - Barcelona's 9-Game Winning Streak Ends! Shocking Defeat with 3 Goals Disallowed and 3 Shots Hit the Crossbar](https://ai.trend.dmomo.co.kr/2026/01/barcelonas-9-game-winning-streak-ends.html) <br/>
-[2026/01/19 - Martin Luther King Day 2026: The Controversy Over Ending Free Admission to National Parks](https://ai.trend.dmomo.co.kr/2026/01/martin-luther-king-day-2026-controversy.html) <br/>
-[2026/01/19 - Im Seong-geun's Drunk Driving Confession: What is the Truth Behind the Court Ruling?](https://ai.trend.dmomo.co.kr/2026/01/im-seong-geuns-drunk-driving-confession.html) <br/>
-[2026/01/19 - Rams Advance to NFC Championship with Overtime Field Goal! Defeat Bears 20-17](https://ai.trend.dmomo.co.kr/2026/01/rams-advance-to-nfc-championship-with.html) <br/>
-[2026/01/19 - The 2026 Agentic AI Revolution: 7 Essential Technologies Transforming Business Automation with Microsoft 365 Copilot](https://ai.trend.dmomo.co.kr/2026/01/the-2026-agentic-ai-revolution-7.html) <br/>
-[2026/01/19 - Wolverhampton vs Newcastle: Will the Relegation-Struggling Wolves Take Down a Top Team?](https://ai.trend.dmomo.co.kr/2026/01/wolverhampton-vs-newcastle-will.html) <br/>
