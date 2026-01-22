@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/21 - [뉴스] “아이 건강, 7월 말 아들 만난다”…넷째 임신 소식 전한 美부통령](https://blog.ai.dmomo.co.kr/news/18465) <br/>
-[2026/01/21 - [뉴스] 대박 난 흑백요리사 일냈다…17조 잭팟 터뜨린 넷플릭스](https://blog.ai.dmomo.co.kr/news/18462) <br/>
-[2026/01/21 - [뉴스] 권상우 만취 방송 논란, 결국 사과](https://blog.ai.dmomo.co.kr/news/18459) <br/>
-[2026/01/21 - [뉴스] 미 대법원의  ‘트럼프 관세판결’, 20일에도 안나와…최소 한달 더 걸릴듯](https://blog.ai.dmomo.co.kr/news/18456) <br/>
-[2026/01/20 - [뉴스] 국민 여배우인데…‘마약 투약 혐의’로 검찰 송치된 日 요네쿠라 료코](https://blog.ai.dmomo.co.kr/news/18453) <br/>
-[2026/01/20 - [뉴스] 헌혈의 집에 등장한 두쫀쿠…헌혈자 감소하자 선착순 증정](https://blog.ai.dmomo.co.kr/news/18450) <br/>
+[2026/01/22 - [뉴스] “한국·일본서 막대한 자금 확보”…맥락없이 자화자찬 쏟아낸 美대통령](https://blog.ai.dmomo.co.kr/news/18531) <br/>
+[2026/01/22 - [뉴스] 로또 당첨 돼도 강남 아파트 못 사…눈높이 껑충](https://blog.ai.dmomo.co.kr/news/18528) <br/>
+[2026/01/22 - [뉴스] 구글 딥마인드 CEO “휴대폰시대 끝난다”…요리·길안내 AI안경이 대체”](https://blog.ai.dmomo.co.kr/news/18525) <br/>
+[2026/01/21 - [뉴스] “관세가 불법? 그럼 수수료로 이름 바꾼다”…트럼프, 대법원에 으름장](https://blog.ai.dmomo.co.kr/news/18522) <br/>
+[2026/01/21 - [뉴스] 치매 가족 지역 이탈하면 삐…보호자에 알려주는 스마트 신발](https://blog.ai.dmomo.co.kr/news/18519) <br/>
+[2026/01/21 - [뉴스] 배송만 하루 2만개…원조 두쫀쿠 43억 쓸어담은 비결](https://blog.ai.dmomo.co.kr/news/18516) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/01/21 - Southern U.S. Winter Storm Warning: Catastrophic Icy Conditions from Texas to Carolina](https://ai.trend.dmomo.co.kr/2026/01/southern-us-winter-storm-warning.html) <br/>
+[2026/01/21 - Usha Vance, the First Indian-American Second Lady of the U.S., Makes History with Announcement of Her Fourth Pregnancy](https://ai.trend.dmomo.co.kr/2026/01/usha-vance-first-indian-american-second.html) <br/>
+[2026/01/21 - Revolutionizing IoT Cold Chain Monitoring in 2026 and Optimizing Logistics with 5G](https://ai.trend.dmomo.co.kr/2026/01/revolutionizing-iot-cold-chain.html) <br/>
+[2026/01/21 - Tottenham Overcomes Crisis with 2-0 Victory over Dortmund, Saving Coach Frank's Job](https://ai.trend.dmomo.co.kr/2026/01/tottenham-overcomes-crisis-with-2-0.html) <br/>
 [2026/01/20 - Korea-Japan Showdown: Baseball Faces 10-Game Losing Streak, Soccer Aims for 3rd Consecutive Victory](https://ai.trend.dmomo.co.kr/2026/01/korea-japan-showdown-baseball-faces-10.html) <br/>
 [2026/01/20 - Perfect Guide to Fully Utilizing the 2026 Year-End Tax Adjustment Simplification Service: 4 Deduction Items You Don't Want to Miss](https://ai.trend.dmomo.co.kr/2026/01/perfect-guide-to-fully-utilizing-2026.html) <br/>
-[2026/01/20 - 5 Innovations in Cloud Data Streaming and the Secrets of Apache Kafka](https://ai.trend.dmomo.co.kr/2026/01/5-innovations-in-cloud-data-streaming.html) <br/>
-[2026/01/20 - Martin Luther King Jr. Day 2026: Changes to Federal Holidays Excluding Free National Park Entry](https://ai.trend.dmomo.co.kr/2026/01/martin-luther-king-jr-day-2026-changes.html) <br/>
-[2026/01/20 - Djokovic Achieves 100 Wins at Australian Open! Aiming for 25th Major Title](https://ai.trend.dmomo.co.kr/2026/01/djokovic-achieves-100-wins-at.html) <br/>
-[2026/01/19 - Barcelona's 9-Game Winning Streak Ends! Shocking Defeat with 3 Goals Disallowed and 3 Shots Hit the Crossbar](https://ai.trend.dmomo.co.kr/2026/01/barcelonas-9-game-winning-streak-ends.html) <br/>
