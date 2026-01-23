@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/22 - [뉴스] “한국·일본서 막대한 자금 확보”…맥락없이 자화자찬 쏟아낸 美대통령](https://blog.ai.dmomo.co.kr/news/18531) <br/>
-[2026/01/22 - [뉴스] 로또 당첨 돼도 강남 아파트 못 사…눈높이 껑충](https://blog.ai.dmomo.co.kr/news/18528) <br/>
-[2026/01/22 - [뉴스] 구글 딥마인드 CEO “휴대폰시대 끝난다”…요리·길안내 AI안경이 대체”](https://blog.ai.dmomo.co.kr/news/18525) <br/>
-[2026/01/21 - [뉴스] “관세가 불법? 그럼 수수료로 이름 바꾼다”…트럼프, 대법원에 으름장](https://blog.ai.dmomo.co.kr/news/18522) <br/>
-[2026/01/21 - [뉴스] 치매 가족 지역 이탈하면 삐…보호자에 알려주는 스마트 신발](https://blog.ai.dmomo.co.kr/news/18519) <br/>
-[2026/01/21 - [뉴스] 배송만 하루 2만개…원조 두쫀쿠 43억 쓸어담은 비결](https://blog.ai.dmomo.co.kr/news/18516) <br/>
+[2026/01/23 - [뉴스] 트럼프 ‘리사 쿡 해임’ 무리수에…보수 대법관도 “연준 독립성 훼손”](https://blog.ai.dmomo.co.kr/news/18603) <br/>
+[2026/01/23 - [뉴스] 반도체기술학회장에 박재근 한양대 교수](https://blog.ai.dmomo.co.kr/news/18600) <br/>
+[2026/01/23 - [뉴스] 1박 67만원 BTS 공연날 숙박비 천정부지…부산시, 총력 대응](https://blog.ai.dmomo.co.kr/news/18597) <br/>
+[2026/01/22 - [뉴스] [속보] ‘케데헌’ 골든, 아카데미 주제가상 후보 지명](https://blog.ai.dmomo.co.kr/news/18594) <br/>
+[2026/01/22 - [뉴스] 4시간 기다려서 먹었어요…이번엔 쫀득 감자다](https://blog.ai.dmomo.co.kr/news/18591) <br/>
+[2026/01/22 - [뉴스] MS도 피지컬 AI 뒤늦게 참전…지능에 촉각까지 더했다](https://blog.ai.dmomo.co.kr/news/18588) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/01/22 - Barcelona, Dramatic Comeback Victory 4-2 Against Slavia Prague Puts Round of 16 Within Reach](https://ai.trend.dmomo.co.kr/2026/01/barcelona-dramatic-comeback-victory-4-2.html) <br/>
+[2026/01/22 - What’s the Core Strategy Behind the High-Performance, Lightweight Local AI Innovation GLM-4.7-Flash with 20GB VRAM?](https://ai.trend.dmomo.co.kr/2026/01/whats-core-strategy-behind-high.html) <br/>
+[2026/01/22 - Edge AI Innovations to Watch in 2026: Unveiling the Secrets of Physical AI and VLA Models](https://ai.trend.dmomo.co.kr/2026/01/edge-ai-innovations-to-watch-in-2026.html) <br/>
 [2026/01/21 - Southern U.S. Winter Storm Warning: Catastrophic Icy Conditions from Texas to Carolina](https://ai.trend.dmomo.co.kr/2026/01/southern-us-winter-storm-warning.html) <br/>
 [2026/01/21 - Usha Vance, the First Indian-American Second Lady of the U.S., Makes History with Announcement of Her Fourth Pregnancy](https://ai.trend.dmomo.co.kr/2026/01/usha-vance-first-indian-american-second.html) <br/>
 [2026/01/21 - Revolutionizing IoT Cold Chain Monitoring in 2026 and Optimizing Logistics with 5G](https://ai.trend.dmomo.co.kr/2026/01/revolutionizing-iot-cold-chain.html) <br/>
-[2026/01/21 - Tottenham Overcomes Crisis with 2-0 Victory over Dortmund, Saving Coach Frank's Job](https://ai.trend.dmomo.co.kr/2026/01/tottenham-overcomes-crisis-with-2-0.html) <br/>
-[2026/01/20 - Korea-Japan Showdown: Baseball Faces 10-Game Losing Streak, Soccer Aims for 3rd Consecutive Victory](https://ai.trend.dmomo.co.kr/2026/01/korea-japan-showdown-baseball-faces-10.html) <br/>
-[2026/01/20 - Perfect Guide to Fully Utilizing the 2026 Year-End Tax Adjustment Simplification Service: 4 Deduction Items You Don't Want to Miss](https://ai.trend.dmomo.co.kr/2026/01/perfect-guide-to-fully-utilizing-2026.html) <br/>
