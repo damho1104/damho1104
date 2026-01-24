@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/23 - [뉴스] 트럼프 ‘리사 쿡 해임’ 무리수에…보수 대법관도 “연준 독립성 훼손”](https://blog.ai.dmomo.co.kr/news/18603) <br/>
-[2026/01/23 - [뉴스] 반도체기술학회장에 박재근 한양대 교수](https://blog.ai.dmomo.co.kr/news/18600) <br/>
-[2026/01/23 - [뉴스] 1박 67만원 BTS 공연날 숙박비 천정부지…부산시, 총력 대응](https://blog.ai.dmomo.co.kr/news/18597) <br/>
-[2026/01/22 - [뉴스] [속보] ‘케데헌’ 골든, 아카데미 주제가상 후보 지명](https://blog.ai.dmomo.co.kr/news/18594) <br/>
-[2026/01/22 - [뉴스] 4시간 기다려서 먹었어요…이번엔 쫀득 감자다](https://blog.ai.dmomo.co.kr/news/18591) <br/>
-[2026/01/22 - [뉴스] MS도 피지컬 AI 뒤늦게 참전…지능에 촉각까지 더했다](https://blog.ai.dmomo.co.kr/news/18588) <br/>
+[2026/01/24 - [뉴스] 명곡 ‘윈드 오브 체인지’ 스콜피온스 베이시스트 암 투병 끝에 별세](https://blog.ai.dmomo.co.kr/news/18690) <br/>
+[2026/01/24 - [뉴스] 아이폰만 7년 썼는데 갈아탑니다…2030 폰심 흔들린 이유](https://blog.ai.dmomo.co.kr/news/18687) <br/>
+[2026/01/24 - [뉴스] 3000원 가성비 두쫀쿠에 난리…3시간 전부터 오픈런](https://blog.ai.dmomo.co.kr/news/18684) <br/>
+[2026/01/23 - [뉴스] 미국·러시아·우크라 종전안 논의…트럼프 “갈길 멀다” 한숨 쉰 까닭은](https://blog.ai.dmomo.co.kr/news/18681) <br/>
+[2026/01/23 - [뉴스] 한국 딜로이트, 차기 총괄대표 길기완 경영자문 대표 확정](https://blog.ai.dmomo.co.kr/news/18677) <br/>
+[2026/01/23 - [뉴스] 극한 한파에 내린 기습 폭설…수도권 대설주의보 발령](https://blog.ai.dmomo.co.kr/news/18676) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/01/22 - Barcelona, Dramatic Comeback Victory 4-2 Against Slavia Prague Puts Round of 16 Within Reach](https://ai.trend.dmomo.co.kr/2026/01/barcelona-dramatic-comeback-victory-4-2.html) <br/>
-[2026/01/22 - What’s the Core Strategy Behind the High-Performance, Lightweight Local AI Innovation GLM-4.7-Flash with 20GB VRAM?](https://ai.trend.dmomo.co.kr/2026/01/whats-core-strategy-behind-high.html) <br/>
-[2026/01/22 - Edge AI Innovations to Watch in 2026: Unveiling the Secrets of Physical AI and VLA Models](https://ai.trend.dmomo.co.kr/2026/01/edge-ai-innovations-to-watch-in-2026.html) <br/>
-[2026/01/21 - Southern U.S. Winter Storm Warning: Catastrophic Icy Conditions from Texas to Carolina](https://ai.trend.dmomo.co.kr/2026/01/southern-us-winter-storm-warning.html) <br/>
-[2026/01/21 - Usha Vance, the First Indian-American Second Lady of the U.S., Makes History with Announcement of Her Fourth Pregnancy](https://ai.trend.dmomo.co.kr/2026/01/usha-vance-first-indian-american-second.html) <br/>
-[2026/01/21 - Revolutionizing IoT Cold Chain Monitoring in 2026 and Optimizing Logistics with 5G](https://ai.trend.dmomo.co.kr/2026/01/revolutionizing-iot-cold-chain.html) <br/>
+[2026/01/23 - Cha Eun-woo's 20 Billion Won Tax Evasion Allegations: Record Seizure and Termination of Advertising Contracts](https://ai.trend.dmomo.co.kr/2026/01/cha-eun-woos-20-billion-won-tax-evasion.html) <br/>
+[2026/01/23 - Ivan Raiklin: The Shocking Actions of the Far-Right Activist Who Claims to be Trump's Revenge Minister](https://ai.trend.dmomo.co.kr/2026/01/ivan-raiklin-shocking-actions-of-far.html) <br/>
+[2026/01/23 - Park Min-jeong ♥ Song Hyung-joo: From Dating to Marriage! A Couple of Maxim Model and 760K YouTuber Has Arisen](https://ai.trend.dmomo.co.kr/2026/01/park-min-jeong-song-hyung-joo-from.html) <br/>
+[2026/01/23 - 2026 Oscars: 'Shinners' Breaks Academy History with 16 Nominations](https://ai.trend.dmomo.co.kr/2026/01/2026-oscars-shinners-breaks-academy.html) <br/>
+[2026/01/23 - 5 Innovative Core Strategies for Web Development Transformed by AI Agents in 2026](https://ai.trend.dmomo.co.kr/2026/01/5-innovative-core-strategies-for-web.html) <br/>
+[2026/01/23 - Who is Park Min-jeong? The Ultimate Guide to Distinguishing Between Namesakes](https://ai.trend.dmomo.co.kr/2026/01/who-is-park-min-jeong-ultimate-guide-to.html) <br/>
