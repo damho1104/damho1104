@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/24 - [뉴스] 명곡 ‘윈드 오브 체인지’ 스콜피온스 베이시스트 암 투병 끝에 별세](https://blog.ai.dmomo.co.kr/news/18690) <br/>
-[2026/01/24 - [뉴스] 아이폰만 7년 썼는데 갈아탑니다…2030 폰심 흔들린 이유](https://blog.ai.dmomo.co.kr/news/18687) <br/>
-[2026/01/24 - [뉴스] 3000원 가성비 두쫀쿠에 난리…3시간 전부터 오픈런](https://blog.ai.dmomo.co.kr/news/18684) <br/>
-[2026/01/23 - [뉴스] 미국·러시아·우크라 종전안 논의…트럼프 “갈길 멀다” 한숨 쉰 까닭은](https://blog.ai.dmomo.co.kr/news/18681) <br/>
-[2026/01/23 - [뉴스] 한국 딜로이트, 차기 총괄대표 길기완 경영자문 대표 확정](https://blog.ai.dmomo.co.kr/news/18677) <br/>
-[2026/01/23 - [뉴스] 극한 한파에 내린 기습 폭설…수도권 대설주의보 발령](https://blog.ai.dmomo.co.kr/news/18676) <br/>
+[2026/01/25 - [뉴스] “엔비디아 줘도 안씁니다” 자존심 대결에…매출 4348% 뛴 이 기업](https://blog.ai.dmomo.co.kr/news/18741) <br/>
+[2026/01/24 - [뉴스] “가슴만지고 껴안았다”…인도 공항서 한국인 여성 성추행한 남성의 정체](https://blog.ai.dmomo.co.kr/news/18738) <br/>
+[2026/01/24 - [뉴스] 1208회 로또 1등 6·27·30·36·38·42…보너스 번호 25](https://blog.ai.dmomo.co.kr/news/18735) <br/>
+[2026/01/24 - 이해찬 전 총리 위독, 선거의 제왕이 남긴 한국 정치 50년 발자취](https://blog.ai.dmomo.co.kr/trend/18732) <br/>
+[2026/01/24 - [뉴스] 175만원 날렸어요…아내에게 주식 넘겼다가 낭패](https://blog.ai.dmomo.co.kr/news/18729) <br/>
+[2026/01/24 - [뉴스] 젠슨 황의 신비로운 메모리 플랫폼…삼성·SK 기회 잡나 [강해령의 테크앤더시티]](https://blog.ai.dmomo.co.kr/news/18726) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/01/24 - Former Prime Minister Lee Hae-chan in Critical Condition: The Legacy of 50 Years in Korean Politics by the King of Elections](https://ai.trend.dmomo.co.kr/2026/01/former-prime-minister-lee-hae-chan-in.html) <br/>
+[2026/01/24 - From Olympic Snowboarder to Drug Kingpin: The Shocking Saga of Ryan Wedding After a Decade-Long FBI Manhunt](https://ai.trend.dmomo.co.kr/2026/01/from-olympic-snowboarder-to-drug.html) <br/>
+[2026/01/24 - 2026 Financial Cloud SaaS Regulation Easing: The Secret to Korea’s Financial Industry Innovation?](https://ai.trend.dmomo.co.kr/2026/01/2026-financial-cloud-saas-regulation.html) <br/>
+[2026/01/24 - Former NFL Star Kevin Johnson Found Murdered at LA Homeless Camp](https://ai.trend.dmomo.co.kr/2026/01/former-nfl-star-kevin-johnson-found.html) <br/>
+[2026/01/24 - Korea U-23 Suffers First Defeat to Vietnam... Shocking Penalty Shootout in AFC Asian Cup](https://ai.trend.dmomo.co.kr/2026/01/korea-u-23-suffers-first-defeat-to.html) <br/>
 [2026/01/23 - Cha Eun-woo's 20 Billion Won Tax Evasion Allegations: Record Seizure and Termination of Advertising Contracts](https://ai.trend.dmomo.co.kr/2026/01/cha-eun-woos-20-billion-won-tax-evasion.html) <br/>
-[2026/01/23 - Ivan Raiklin: The Shocking Actions of the Far-Right Activist Who Claims to be Trump's Revenge Minister](https://ai.trend.dmomo.co.kr/2026/01/ivan-raiklin-shocking-actions-of-far.html) <br/>
-[2026/01/23 - Park Min-jeong ♥ Song Hyung-joo: From Dating to Marriage! A Couple of Maxim Model and 760K YouTuber Has Arisen](https://ai.trend.dmomo.co.kr/2026/01/park-min-jeong-song-hyung-joo-from.html) <br/>
-[2026/01/23 - 2026 Oscars: 'Shinners' Breaks Academy History with 16 Nominations](https://ai.trend.dmomo.co.kr/2026/01/2026-oscars-shinners-breaks-academy.html) <br/>
-[2026/01/23 - 5 Innovative Core Strategies for Web Development Transformed by AI Agents in 2026](https://ai.trend.dmomo.co.kr/2026/01/5-innovative-core-strategies-for-web.html) <br/>
-[2026/01/23 - Who is Park Min-jeong? The Ultimate Guide to Distinguishing Between Namesakes](https://ai.trend.dmomo.co.kr/2026/01/who-is-park-min-jeong-ultimate-guide-to.html) <br/>
