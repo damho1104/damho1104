@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/25 - [뉴스] “엔비디아 줘도 안씁니다” 자존심 대결에…매출 4348% 뛴 이 기업](https://blog.ai.dmomo.co.kr/news/18741) <br/>
-[2026/01/24 - [뉴스] “가슴만지고 껴안았다”…인도 공항서 한국인 여성 성추행한 남성의 정체](https://blog.ai.dmomo.co.kr/news/18738) <br/>
-[2026/01/24 - [뉴스] 1208회 로또 1등 6·27·30·36·38·42…보너스 번호 25](https://blog.ai.dmomo.co.kr/news/18735) <br/>
-[2026/01/24 - 이해찬 전 총리 위독, 선거의 제왕이 남긴 한국 정치 50년 발자취](https://blog.ai.dmomo.co.kr/trend/18732) <br/>
-[2026/01/24 - [뉴스] 175만원 날렸어요…아내에게 주식 넘겼다가 낭패](https://blog.ai.dmomo.co.kr/news/18729) <br/>
-[2026/01/24 - [뉴스] 젠슨 황의 신비로운 메모리 플랫폼…삼성·SK 기회 잡나 [강해령의 테크앤더시티]](https://blog.ai.dmomo.co.kr/news/18726) <br/>
+[2026/01/26 - [뉴스] 2025년 세계 1위 양산 로봇은 테슬라가 아니었다, 애지봇 [중국과 글로벌 투자]](https://blog.ai.dmomo.co.kr/news/18801) <br/>
+[2026/01/26 - [뉴스] 월요일 출근길 영하 10도 안팎 강추위…밤부터 충남·제주 눈](https://blog.ai.dmomo.co.kr/news/18798) <br/>
+[2026/01/25 - [뉴스] 옥동식 “흑백요리사 결승갔다면 이 요리 했을것…K푸드 단짠으론 한계”](https://blog.ai.dmomo.co.kr/news/18795) <br/>
+[2026/01/25 - [뉴스] 냉동고 한파도 못 말렸다…쇼핑 1번지에 외국인 바글바글](https://blog.ai.dmomo.co.kr/news/18792) <br/>
+[2026/01/25 - [뉴스] 돈 있어도 못 사요…유튜버 잇섭도 혀 내두른 제품 뭐길래](https://blog.ai.dmomo.co.kr/news/18789) <br/>
+[2026/01/25 - [뉴스] 펀드매니저 10명 중 9명 “코스피 연내 10~20% 조정 가능성”](https://blog.ai.dmomo.co.kr/news/18786) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/01/25 - Who is Alex Pretti? Unraveling the Mystery of an Elusive Figure](https://ai.trend.dmomo.co.kr/2026/01/who-is-alex-pretti-unraveling-mystery.html) <br/>
+[2026/01/25 - Minnesota ICE Agent Shooting Incident: Intensifying Controversy Over Trump Policies](https://ai.trend.dmomo.co.kr/2026/01/minnesota-ice-agent-shooting-incident.html) <br/>
+[2026/01/25 - Edge AI Innovations in 2026: How Physical AI and VLA Models Are Transforming the Future](https://ai.trend.dmomo.co.kr/2026/01/edge-ai-innovations-in-2026-how.html) <br/>
+[2026/01/25 - Tottenham vs Burnley 2-2 Draw: Fans Erupt in Anger Amid Relegation Battle](https://ai.trend.dmomo.co.kr/2026/01/tottenham-vs-burnley-2-2-draw-fans.html) <br/>
 [2026/01/24 - Former Prime Minister Lee Hae-chan in Critical Condition: The Legacy of 50 Years in Korean Politics by the King of Elections](https://ai.trend.dmomo.co.kr/2026/01/former-prime-minister-lee-hae-chan-in.html) <br/>
 [2026/01/24 - From Olympic Snowboarder to Drug Kingpin: The Shocking Saga of Ryan Wedding After a Decade-Long FBI Manhunt](https://ai.trend.dmomo.co.kr/2026/01/from-olympic-snowboarder-to-drug.html) <br/>
-[2026/01/24 - 2026 Financial Cloud SaaS Regulation Easing: The Secret to Korea’s Financial Industry Innovation?](https://ai.trend.dmomo.co.kr/2026/01/2026-financial-cloud-saas-regulation.html) <br/>
-[2026/01/24 - Former NFL Star Kevin Johnson Found Murdered at LA Homeless Camp](https://ai.trend.dmomo.co.kr/2026/01/former-nfl-star-kevin-johnson-found.html) <br/>
-[2026/01/24 - Korea U-23 Suffers First Defeat to Vietnam... Shocking Penalty Shootout in AFC Asian Cup](https://ai.trend.dmomo.co.kr/2026/01/korea-u-23-suffers-first-defeat-to.html) <br/>
-[2026/01/23 - Cha Eun-woo's 20 Billion Won Tax Evasion Allegations: Record Seizure and Termination of Advertising Contracts](https://ai.trend.dmomo.co.kr/2026/01/cha-eun-woos-20-billion-won-tax-evasion.html) <br/>
