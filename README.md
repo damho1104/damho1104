@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/26 - [뉴스] 2025년 세계 1위 양산 로봇은 테슬라가 아니었다, 애지봇 [중국과 글로벌 투자]](https://blog.ai.dmomo.co.kr/news/18801) <br/>
-[2026/01/26 - [뉴스] 월요일 출근길 영하 10도 안팎 강추위…밤부터 충남·제주 눈](https://blog.ai.dmomo.co.kr/news/18798) <br/>
-[2026/01/25 - [뉴스] 옥동식 “흑백요리사 결승갔다면 이 요리 했을것…K푸드 단짠으론 한계”](https://blog.ai.dmomo.co.kr/news/18795) <br/>
-[2026/01/25 - [뉴스] 냉동고 한파도 못 말렸다…쇼핑 1번지에 외국인 바글바글](https://blog.ai.dmomo.co.kr/news/18792) <br/>
-[2026/01/25 - [뉴스] 돈 있어도 못 사요…유튜버 잇섭도 혀 내두른 제품 뭐길래](https://blog.ai.dmomo.co.kr/news/18789) <br/>
-[2026/01/25 - [뉴스] 펀드매니저 10명 중 9명 “코스피 연내 10~20% 조정 가능성”](https://blog.ai.dmomo.co.kr/news/18786) <br/>
+[2026/01/27 - [뉴스] “BTS 공연 확대 요청”…멕시코 대통령, 한국 대통령에 공식 서한](https://blog.ai.dmomo.co.kr/news/18861) <br/>
+[2026/01/27 - [뉴스] 3상 줄줄이 마치는 RNA 치료제…2030년 시장 규모 42조원](https://blog.ai.dmomo.co.kr/news/18858) <br/>
+[2026/01/27 - [뉴스] 까르띠에도 가격 올렸다…연초 명품업계 가격 인상 행렬](https://blog.ai.dmomo.co.kr/news/18855) <br/>
+[2026/01/26 - [뉴스] “남자 최초 피겨 메달 도전”…동계 올림픽서 태극기 들고 입장하는 ‘꽃미남’](https://blog.ai.dmomo.co.kr/news/18852) <br/>
+[2026/01/26 - [뉴스] 中 여행 증가세 日 앞질러…무비자·정상외교 훈풍에 날개](https://blog.ai.dmomo.co.kr/news/18849) <br/>
+[2026/01/26 - [뉴스] 천스닥·5천피 틈타 불법 리딩방 ‘활개’…금감원 “AI기술로 전문가 사칭” 경고](https://blog.ai.dmomo.co.kr/news/18846) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/01/26 - The Miracle of 3 Minutes: Man Utd Breaks Arsenal's Home Unbeaten Streak and Alters the Title Race](https://ai.trend.dmomo.co.kr/2026/01/the-miracle-of-3-minutes-man-utd-breaks.html) <br/>
+[2026/01/26 - 2026 NFC Championship: Rams vs Seahawks Big Match Comprehensive Analysis](https://ai.trend.dmomo.co.kr/2026/01/2026-nfc-championship-rams-vs-seahawks.html) <br/>
+[2026/01/26 - Top 5 Infrastructure as Code (IaC) Trends to Watch in 2024](https://ai.trend.dmomo.co.kr/2026/01/top-5-infrastructure-as-code-iac-trends.html) <br/>
 [2026/01/25 - Who is Alex Pretti? Unraveling the Mystery of an Elusive Figure](https://ai.trend.dmomo.co.kr/2026/01/who-is-alex-pretti-unraveling-mystery.html) <br/>
 [2026/01/25 - Minnesota ICE Agent Shooting Incident: Intensifying Controversy Over Trump Policies](https://ai.trend.dmomo.co.kr/2026/01/minnesota-ice-agent-shooting-incident.html) <br/>
 [2026/01/25 - Edge AI Innovations in 2026: How Physical AI and VLA Models Are Transforming the Future](https://ai.trend.dmomo.co.kr/2026/01/edge-ai-innovations-in-2026-how.html) <br/>
-[2026/01/25 - Tottenham vs Burnley 2-2 Draw: Fans Erupt in Anger Amid Relegation Battle](https://ai.trend.dmomo.co.kr/2026/01/tottenham-vs-burnley-2-2-draw-fans.html) <br/>
-[2026/01/24 - Former Prime Minister Lee Hae-chan in Critical Condition: The Legacy of 50 Years in Korean Politics by the King of Elections](https://ai.trend.dmomo.co.kr/2026/01/former-prime-minister-lee-hae-chan-in.html) <br/>
-[2026/01/24 - From Olympic Snowboarder to Drug Kingpin: The Shocking Saga of Ryan Wedding After a Decade-Long FBI Manhunt](https://ai.trend.dmomo.co.kr/2026/01/from-olympic-snowboarder-to-drug.html) <br/>
