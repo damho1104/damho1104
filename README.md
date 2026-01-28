@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/27 - [뉴스] “BTS 공연 확대 요청”…멕시코 대통령, 한국 대통령에 공식 서한](https://blog.ai.dmomo.co.kr/news/18861) <br/>
-[2026/01/27 - [뉴스] 3상 줄줄이 마치는 RNA 치료제…2030년 시장 규모 42조원](https://blog.ai.dmomo.co.kr/news/18858) <br/>
-[2026/01/27 - [뉴스] 까르띠에도 가격 올렸다…연초 명품업계 가격 인상 행렬](https://blog.ai.dmomo.co.kr/news/18855) <br/>
-[2026/01/26 - [뉴스] “남자 최초 피겨 메달 도전”…동계 올림픽서 태극기 들고 입장하는 ‘꽃미남’](https://blog.ai.dmomo.co.kr/news/18852) <br/>
-[2026/01/26 - [뉴스] 中 여행 증가세 日 앞질러…무비자·정상외교 훈풍에 날개](https://blog.ai.dmomo.co.kr/news/18849) <br/>
-[2026/01/26 - [뉴스] 천스닥·5천피 틈타 불법 리딩방 ‘활개’…금감원 “AI기술로 전문가 사칭” 경고](https://blog.ai.dmomo.co.kr/news/18846) <br/>
+[2026/01/28 - [뉴스] 트럼프, 韓 관세인상 질문에 “한국과 해결책 마련할 것”](https://blog.ai.dmomo.co.kr/news/18933) <br/>
+[2026/01/28 - [뉴스] 소캠 전선 확장된다…엔비디아 이어 퀄컴·AMD까지 도입 추진 [강해령의 테크앤더시티]](https://blog.ai.dmomo.co.kr/news/18930) <br/>
+[2026/01/28 - [뉴스] 서울시립미술관, 2030년엔 덕수궁 정동길서 바로 입장’](https://blog.ai.dmomo.co.kr/news/18927) <br/>
+[2026/01/27 - [뉴스] 이민단속 총격 수습나선 트럼프…막말러 자르고 국경 차르 급파](https://blog.ai.dmomo.co.kr/news/18924) <br/>
+[2026/01/27 - [뉴스] 일주일 음주량 14잔 넘는다면…직장암 발생 위험 압도적](https://blog.ai.dmomo.co.kr/news/18921) <br/>
+[2026/01/27 - [뉴스] 제미나이 성능 미쳤다 입소문…대반전 챗GPT까지 제쳤다](https://blog.ai.dmomo.co.kr/news/18918) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/01/26 - The Miracle of 3 Minutes: Man Utd Breaks Arsenal's Home Unbeaten Streak and Alters the Title Race](https://ai.trend.dmomo.co.kr/2026/01/the-miracle-of-3-minutes-man-utd-breaks.html) <br/>
-[2026/01/26 - 2026 NFC Championship: Rams vs Seahawks Big Match Comprehensive Analysis](https://ai.trend.dmomo.co.kr/2026/01/2026-nfc-championship-rams-vs-seahawks.html) <br/>
-[2026/01/26 - Top 5 Infrastructure as Code (IaC) Trends to Watch in 2024](https://ai.trend.dmomo.co.kr/2026/01/top-5-infrastructure-as-code-iac-trends.html) <br/>
-[2026/01/25 - Who is Alex Pretti? Unraveling the Mystery of an Elusive Figure](https://ai.trend.dmomo.co.kr/2026/01/who-is-alex-pretti-unraveling-mystery.html) <br/>
-[2026/01/25 - Minnesota ICE Agent Shooting Incident: Intensifying Controversy Over Trump Policies](https://ai.trend.dmomo.co.kr/2026/01/minnesota-ice-agent-shooting-incident.html) <br/>
-[2026/01/25 - Edge AI Innovations in 2026: How Physical AI and VLA Models Are Transforming the Future](https://ai.trend.dmomo.co.kr/2026/01/edge-ai-innovations-in-2026-how.html) <br/>
+[2026/01/27 - Who is Han Ki-joo? The Identity of an Unfamiliar Figure You Can’t Find Online](https://ai.trend.dmomo.co.kr/2026/01/who-is-han-ki-joo-identity-of.html) <br/>
+[2026/01/27 - NBA Moment of Silence: Minnesota's Tears and Curry's Historic 26-Point Victory](https://ai.trend.dmomo.co.kr/2026/01/nba-moment-of-silence-minnesotas-tears.html) <br/>
+[2026/01/27 - Border Patrol Chief Bobino Demoted After Deaths of Two Officers](https://ai.trend.dmomo.co.kr/2026/01/border-patrol-chief-bobino-demoted.html) <br/>
+[2026/01/27 - 5 Automation Platform Trends Revolutionized by Agentic AI and Low-Code](https://ai.trend.dmomo.co.kr/2026/01/5-automation-platform-trends.html) <br/>
+[2026/01/27 - New Challenges of Goa's Cultural Heritage Tour and Energy Week in 2026](https://ai.trend.dmomo.co.kr/2026/01/new-challenges-of-goas-cultural.html) <br/>
+[2026/01/27 - KOSDAQ Surpasses 1000 Points! What Are the Investment Strategies for the 'Thousand-Dock' Era?](https://ai.trend.dmomo.co.kr/2026/01/kosdaq-surpasses-1000-points-what-are.html) <br/>
