@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/28 - [뉴스] 트럼프, 韓 관세인상 질문에 “한국과 해결책 마련할 것”](https://blog.ai.dmomo.co.kr/news/18933) <br/>
-[2026/01/28 - [뉴스] 소캠 전선 확장된다…엔비디아 이어 퀄컴·AMD까지 도입 추진 [강해령의 테크앤더시티]](https://blog.ai.dmomo.co.kr/news/18930) <br/>
-[2026/01/28 - [뉴스] 서울시립미술관, 2030년엔 덕수궁 정동길서 바로 입장’](https://blog.ai.dmomo.co.kr/news/18927) <br/>
-[2026/01/27 - [뉴스] 이민단속 총격 수습나선 트럼프…막말러 자르고 국경 차르 급파](https://blog.ai.dmomo.co.kr/news/18924) <br/>
-[2026/01/27 - [뉴스] 일주일 음주량 14잔 넘는다면…직장암 발생 위험 압도적](https://blog.ai.dmomo.co.kr/news/18921) <br/>
-[2026/01/27 - [뉴스] 제미나이 성능 미쳤다 입소문…대반전 챗GPT까지 제쳤다](https://blog.ai.dmomo.co.kr/news/18918) <br/>
+[2026/01/29 - [뉴스] “시력 잃은 사람, 내가 보게 해주마”…머스크 “기술 규제 승인 대기 중”](https://blog.ai.dmomo.co.kr/news/19002) <br/>
+[2026/01/29 - [뉴스] 1020 청소년·대학생이 사가는 줄 알았는데…초저가 화장품의 반전](https://blog.ai.dmomo.co.kr/news/18999) <br/>
+[2026/01/29 - [뉴스] 대통령이 환율포기 선언…선거 앞두고 제조업 살리기 올인한 트럼프](https://blog.ai.dmomo.co.kr/news/18996) <br/>
+[2026/01/28 - [뉴스] 미국 이민당국 또 총 쐈다…이번엔 애리조나에서 1명 중태](https://blog.ai.dmomo.co.kr/news/18993) <br/>
+[2026/01/28 - [뉴스] 식당서 설거지까지…개그우먼 노유정, 깜짝 포착된 곳이](https://blog.ai.dmomo.co.kr/news/18990) <br/>
+[2026/01/28 - 연예어쿠스틱 콜라보 보컬 모수진, 2026년 1월 25일 별세 소식](https://blog.ai.dmomo.co.kr/trend/18987) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/01/27 - Who is Han Ki-joo? The Identity of an Unfamiliar Figure You Can’t Find Online](https://ai.trend.dmomo.co.kr/2026/01/who-is-han-ki-joo-identity-of.html) <br/>
-[2026/01/27 - NBA Moment of Silence: Minnesota's Tears and Curry's Historic 26-Point Victory](https://ai.trend.dmomo.co.kr/2026/01/nba-moment-of-silence-minnesotas-tears.html) <br/>
-[2026/01/27 - Border Patrol Chief Bobino Demoted After Deaths of Two Officers](https://ai.trend.dmomo.co.kr/2026/01/border-patrol-chief-bobino-demoted.html) <br/>
-[2026/01/27 - 5 Automation Platform Trends Revolutionized by Agentic AI and Low-Code](https://ai.trend.dmomo.co.kr/2026/01/5-automation-platform-trends.html) <br/>
-[2026/01/27 - New Challenges of Goa's Cultural Heritage Tour and Energy Week in 2026](https://ai.trend.dmomo.co.kr/2026/01/new-challenges-of-goas-cultural.html) <br/>
-[2026/01/27 - KOSDAQ Surpasses 1000 Points! What Are the Investment Strategies for the 'Thousand-Dock' Era?](https://ai.trend.dmomo.co.kr/2026/01/kosdaq-surpasses-1000-points-what-are.html) <br/>
+[2026/01/28 - Celebrity Acoustic Collaboration Vocalist Mo Su-jin Passes Away on January 25, 2026](https://ai.trend.dmomo.co.kr/2026/01/celebrity-acoustic-collaboration.html) <br/>
+[2026/01/28 - Claude Bot: The Revolution of an AI Assistant Where You Control Your Data](https://ai.trend.dmomo.co.kr/2026/01/claude-bot-revolution-of-ai-assistant.html) <br/>
+[2026/01/28 - 7 Innovations of Clawdbot Local AI Agent and the Arrival of the Era of User Sovereignty?](https://ai.trend.dmomo.co.kr/2026/01/7-innovations-of-clawdbot-local-ai.html) <br/>
+[2026/01/28 - 2026: The Fateful Clock at 89 Seconds - Humanity's Closest Moment to Extinction in History](https://ai.trend.dmomo.co.kr/2026/01/2026-fateful-clock-at-89-seconds.html) <br/>
+[2026/01/28 - 5 Ways Agentic AI and Multi-Agent Systems Will Revolutionize Work in 2026](https://ai.trend.dmomo.co.kr/2026/01/5-ways-agentic-ai-and-multi-agent.html) <br/>
+[2026/01/28 - The Reality of the Deadly Nipah Virus with a 75% Fatality Rate: Easily Mistaken for a Common Cold](https://ai.trend.dmomo.co.kr/2026/01/the-reality-of-deadly-nipah-virus-with.html) <br/>
