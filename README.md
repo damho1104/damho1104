@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/30 - [뉴스] AI ‘구루’ 와튼스쿨 교수가 전하는 반가운 미래…“AI가 대체하는건 직업 아닌 작업” [김유신의 딥 머니 토크]](https://blog.ai.dmomo.co.kr/news/19077) <br/>
-[2026/01/30 - [뉴스] 바다 속에서 시작된 대만의 반격…中 겨냥한 잠수함 테스트](https://blog.ai.dmomo.co.kr/news/19074) <br/>
-[2026/01/30 - [뉴스] 86만 닉스에 소환된 전원버핏…2만원대에 샀다는데](https://blog.ai.dmomo.co.kr/news/19071) <br/>
-[2026/01/30 - [뉴스] 마음 흔들리는 날엔 풍죽’을 [고두현의 아침 시편]](https://blog.ai.dmomo.co.kr/news/19067) <br/>
-[2026/01/30 - [뉴스] 재산 385억’ 금감원장이 투자한 주식은 LGD·기업銀·美 리커젼](https://blog.ai.dmomo.co.kr/news/19064) <br/>
-[2026/01/30 - [뉴스] “AI가 지갑 열고 10원씩 결제한다”… 돈이 잠들지 않는 시대가 온다](https://blog.ai.dmomo.co.kr/news/19062) <br/>
+[2026/01/31 - [뉴스] ‘나홀로 집에’ 케빈 엄마역 캐서린 오하라 별세…매컬리 컬킨 애도](https://blog.ai.dmomo.co.kr/news/19143) <br/>
+[2026/01/31 - [뉴스] LCK컵 그룹 배틀 승자, 결국 머리 대전’서 정해진다](https://blog.ai.dmomo.co.kr/news/19140) <br/>
+[2026/01/30 - [뉴스] 美연준 차기 의장에 월가출신 케빈 워시](https://blog.ai.dmomo.co.kr/news/19137) <br/>
+[2026/01/30 - [뉴스] 그 김건모 맞아?…6년 만의 복귀 근황에 화들짝](https://blog.ai.dmomo.co.kr/news/19134) <br/>
+[2026/01/30 - 췌장암 완치 가능성 열렸다: 실험쥐 종양 100% 제거한 삼중 약물 요법](https://blog.ai.dmomo.co.kr/trend/19130) <br/>
+[2026/01/30 - MC몽의 전성기부터 몰락까지: 병역 논란이 바꾼 한국 힙합 스타의 운명](https://blog.ai.dmomo.co.kr/trend/19129) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/01/29 - Nicki Minaj: The Success Story of the Hip-Hop Queen Rising from Trinidad](https://ai.trend.dmomo.co.kr/2026/01/nicki-minaj-success-story-of-hip-hop.html) <br/>
-[2026/01/29 - Beyond RAG: The OAG Revolution – 5 Key Innovations in Enterprise AI Implementation and Security](https://ai.trend.dmomo.co.kr/2026/01/beyond-rag-oag-revolution-5-key.html) <br/>
-[2026/01/29 - Tottenham Dominates Frankfurt 2-0! Secures Ticket to Champions League Round of 16!](https://ai.trend.dmomo.co.kr/2026/01/tottenham-dominates-frankfurt-2-0.html) <br/>
-[2026/01/29 - Goalkeeper Scores Header in 98th Minute! Benfica Defeats Real Madrid 4-2](https://ai.trend.dmomo.co.kr/2026/01/goalkeeper-scores-header-in-98th-minute.html) <br/>
-[2026/01/28 - Celebrity Acoustic Collaboration Vocalist Mo Su-jin Passes Away on January 25, 2026](https://ai.trend.dmomo.co.kr/2026/01/celebrity-acoustic-collaboration.html) <br/>
-[2026/01/28 - Claude Bot: The Revolution of an AI Assistant Where You Control Your Data](https://ai.trend.dmomo.co.kr/2026/01/claude-bot-revolution-of-ai-assistant.html) <br/>
+[2026/01/30 - Possibility of Curing Pancreatic Cancer: Triple Drug Therapy Completely Eliminates Tumors in Experimental Mice](https://ai.trend.dmomo.co.kr/2026/01/possibility-of-curing-pancreatic-cancer.html) <br/>
+[2026/01/30 - The Rise and Fall of MC Mong: How Military Controversy Changed the Fate of a Korean Hip-Hop Star](https://ai.trend.dmomo.co.kr/2026/01/the-rise-and-fall-of-mc-mong-how.html) <br/>
+[2026/01/30 - The Hidden Meaning of 'Ward' in Bridgerton Season 4: Sophie Beck's Cinderella Story](https://ai.trend.dmomo.co.kr/2026/01/the-hidden-meaning-of-ward-in.html) <br/>
+[2026/01/30 - Sean Mannion, 33-Year-Old Coach Without NFL Experience Becomes Offensive Coordinator for Philadelphia Eagles](https://ai.trend.dmomo.co.kr/2026/01/sean-mannion-33-year-old-coach-without.html) <br/>
+[2026/01/30 - 2026 Ambient IoT Revolution: Ushering in a Battery-Free Internet of Things Era?](https://ai.trend.dmomo.co.kr/2026/01/2026-ambient-iot-revolution-ushering-in.html) <br/>
+[2026/01/30 - Restoration of a Public Holiday After 18 Years on Constitution Day! It Will Be a Day Off Again Starting from 2026.](https://ai.trend.dmomo.co.kr/2026/01/restoration-of-public-holiday-after-18.html) <br/>
