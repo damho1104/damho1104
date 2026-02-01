@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/01/31 - [뉴스] ‘나홀로 집에’ 케빈 엄마역 캐서린 오하라 별세…매컬리 컬킨 애도](https://blog.ai.dmomo.co.kr/news/19143) <br/>
-[2026/01/31 - [뉴스] LCK컵 그룹 배틀 승자, 결국 머리 대전’서 정해진다](https://blog.ai.dmomo.co.kr/news/19140) <br/>
-[2026/01/30 - [뉴스] 美연준 차기 의장에 월가출신 케빈 워시](https://blog.ai.dmomo.co.kr/news/19137) <br/>
-[2026/01/30 - [뉴스] 그 김건모 맞아?…6년 만의 복귀 근황에 화들짝](https://blog.ai.dmomo.co.kr/news/19134) <br/>
-[2026/01/30 - 췌장암 완치 가능성 열렸다: 실험쥐 종양 100% 제거한 삼중 약물 요법](https://blog.ai.dmomo.co.kr/trend/19130) <br/>
-[2026/01/30 - MC몽의 전성기부터 몰락까지: 병역 논란이 바꾼 한국 힙합 스타의 운명](https://blog.ai.dmomo.co.kr/trend/19129) <br/>
+[2026/02/01 - [뉴스] “유로화 강세는 반갑지만, 수출 타격 어쩌나”…‘달러 딜레마’ 닮아가는 유로화](https://blog.ai.dmomo.co.kr/news/19200) <br/>
+[2026/02/01 - [뉴스] 한국 시조 프랑스 정형시’로 공식화](https://blog.ai.dmomo.co.kr/news/19197) <br/>
+[2026/01/31 - [뉴스] “징역 1년 이상 받으면 가차 없이 추방”…이민정책 강화하는 덴마크](https://blog.ai.dmomo.co.kr/news/19194) <br/>
+[2026/01/31 - [뉴스] 금고가 한국은행 수준…장윤정 120억 펜트하우스 내부 첫 공개](https://blog.ai.dmomo.co.kr/news/19191) <br/>
+[2026/01/31 - [뉴스] 반값 AI 승부수…저가경쟁 불사 챗GPT vs 구글 맞붙었다](https://blog.ai.dmomo.co.kr/news/19188) <br/>
+[2026/01/31 - 2026년 금값 전망: 온스당 7,615달러 돌파할까? 전문가 분석 총정리](https://blog.ai.dmomo.co.kr/trend/19185) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/01/30 - Possibility of Curing Pancreatic Cancer: Triple Drug Therapy Completely Eliminates Tumors in Experimental Mice](https://ai.trend.dmomo.co.kr/2026/01/possibility-of-curing-pancreatic-cancer.html) <br/>
-[2026/01/30 - The Rise and Fall of MC Mong: How Military Controversy Changed the Fate of a Korean Hip-Hop Star](https://ai.trend.dmomo.co.kr/2026/01/the-rise-and-fall-of-mc-mong-how.html) <br/>
-[2026/01/30 - The Hidden Meaning of 'Ward' in Bridgerton Season 4: Sophie Beck's Cinderella Story](https://ai.trend.dmomo.co.kr/2026/01/the-hidden-meaning-of-ward-in.html) <br/>
-[2026/01/30 - Sean Mannion, 33-Year-Old Coach Without NFL Experience Becomes Offensive Coordinator for Philadelphia Eagles](https://ai.trend.dmomo.co.kr/2026/01/sean-mannion-33-year-old-coach-without.html) <br/>
-[2026/01/30 - 2026 Ambient IoT Revolution: Ushering in a Battery-Free Internet of Things Era?](https://ai.trend.dmomo.co.kr/2026/01/2026-ambient-iot-revolution-ushering-in.html) <br/>
-[2026/01/30 - Restoration of a Public Holiday After 18 Years on Constitution Day! It Will Be a Day Off Again Starting from 2026.](https://ai.trend.dmomo.co.kr/2026/01/restoration-of-public-holiday-after-18.html) <br/>
+[2026/01/31 - 2026 Gold Price Outlook: Will It Surpass $7,615 per Ounce? Expert Analysis Summary](https://ai.trend.dmomo.co.kr/2026/01/2026-gold-price-outlook-will-it-surpass.html) <br/>
+[2026/01/31 - 7 Key Features of Clawdbot, Your Personal AI Assistant Working Across 13 Messaging Apps](https://ai.trend.dmomo.co.kr/2026/01/7-key-features-of-clawdbot-your.html) <br/>
+[2026/01/31 - The Endless Transformation of DJ Kloon Gu Jun-yeob Thriving as a Club DJ in His 50s](https://ai.trend.dmomo.co.kr/2026/01/the-endless-transformation-of-dj-kloon.html) <br/>
+[2026/01/31 - Edge AI GR00T to Watch in 2026: Innovations in Multimodal Artificial Intelligence](https://ai.trend.dmomo.co.kr/2026/01/edge-ai-gr00t-to-watch-in-2026.html) <br/>
+[2026/01/31 - Catherine O'Hara Passes Away at 71... Known for Her Role as Moira Rose in Schitt's Creek](https://ai.trend.dmomo.co.kr/2026/01/catherine-ohara-passes-away-at-71-known.html) <br/>
+[2026/01/31 - Who is Kevin Warsh, the Next Federal Reserve Chair Chosen by Trump?](https://ai.trend.dmomo.co.kr/2026/01/who-is-kevin-warsh-next-federal-reserve.html) <br/>
