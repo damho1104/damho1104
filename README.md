@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/01 - [뉴스] “유로화 강세는 반갑지만, 수출 타격 어쩌나”…‘달러 딜레마’ 닮아가는 유로화](https://blog.ai.dmomo.co.kr/news/19200) <br/>
-[2026/02/01 - [뉴스] 한국 시조 프랑스 정형시’로 공식화](https://blog.ai.dmomo.co.kr/news/19197) <br/>
-[2026/01/31 - [뉴스] “징역 1년 이상 받으면 가차 없이 추방”…이민정책 강화하는 덴마크](https://blog.ai.dmomo.co.kr/news/19194) <br/>
-[2026/01/31 - [뉴스] 금고가 한국은행 수준…장윤정 120억 펜트하우스 내부 첫 공개](https://blog.ai.dmomo.co.kr/news/19191) <br/>
-[2026/01/31 - [뉴스] 반값 AI 승부수…저가경쟁 불사 챗GPT vs 구글 맞붙었다](https://blog.ai.dmomo.co.kr/news/19188) <br/>
-[2026/01/31 - 2026년 금값 전망: 온스당 7,615달러 돌파할까? 전문가 분석 총정리](https://blog.ai.dmomo.co.kr/trend/19185) <br/>
+[2026/02/02 - [뉴스] 에너지 시설 공격 멈춘 러시아, 통근버스 무차별 공격…민간인 17명 사망](https://blog.ai.dmomo.co.kr/news/19260) <br/>
+[2026/02/02 - [뉴스] 머스크 파운드리 선언…삼성전자 긴장할 수 밖에 없는 이유](https://blog.ai.dmomo.co.kr/news/19257) <br/>
+[2026/02/02 - [뉴스] 밤사이 내린 눈으로 출근길 빙판길 조심…최저 영하 10도](https://blog.ai.dmomo.co.kr/news/19254) <br/>
+[2026/02/01 - [뉴스] 트럼프 ‘예스맨’ 워시, 연준의장 되자…치솟던 銀 30% 폭락](https://blog.ai.dmomo.co.kr/news/19251) <br/>
+[2026/02/01 - [뉴스] 법적 대응 하겠다 예고하자…유준원, 무단 팬미팅 연기](https://blog.ai.dmomo.co.kr/news/19248) <br/>
+[2026/02/01 - [뉴스] 비트코인 급락에…큰손 스트레티지도 흔들](https://blog.ai.dmomo.co.kr/news/19245) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/02/01 - UFC 325: A Complete Analysis of the Rematch Between Volkanovski and Lopez 2](https://ai.trend.dmomo.co.kr/2026/01/ufc-325-complete-analysis-of-rematch.html) <br/>
+[2026/02/01 - Liverpool Breaks 5-Game Winless Streak with 4-1 Victory Over Newcastle! Konaté's Emotional Comeback Goal](https://ai.trend.dmomo.co.kr/2026/01/liverpool-breaks-5-game-winless-streak.html) <br/>
+[2026/02/01 - The Key to Multi-Cloud Security: 7 Essential Data Isolation and Management Techniques You Need to Know](https://ai.trend.dmomo.co.kr/2026/01/the-key-to-multi-cloud-security-7.html) <br/>
+[2026/02/01 - Arsenal Secures 4-0 Victory Over Leeds, Solidifying EPL Lead](https://ai.trend.dmomo.co.kr/2026/01/arsenal-secures-4-0-victory-over-leeds.html) <br/>
+[2026/02/01 - Demond Wilson, 79, of Sanford and Son Passes Away](https://ai.trend.dmomo.co.kr/2026/01/demond-wilson-79-of-sanford-and-son.html) <br/>
 [2026/01/31 - 2026 Gold Price Outlook: Will It Surpass $7,615 per Ounce? Expert Analysis Summary](https://ai.trend.dmomo.co.kr/2026/01/2026-gold-price-outlook-will-it-surpass.html) <br/>
-[2026/01/31 - 7 Key Features of Clawdbot, Your Personal AI Assistant Working Across 13 Messaging Apps](https://ai.trend.dmomo.co.kr/2026/01/7-key-features-of-clawdbot-your.html) <br/>
-[2026/01/31 - The Endless Transformation of DJ Kloon Gu Jun-yeob Thriving as a Club DJ in His 50s](https://ai.trend.dmomo.co.kr/2026/01/the-endless-transformation-of-dj-kloon.html) <br/>
-[2026/01/31 - Edge AI GR00T to Watch in 2026: Innovations in Multimodal Artificial Intelligence](https://ai.trend.dmomo.co.kr/2026/01/edge-ai-gr00t-to-watch-in-2026.html) <br/>
-[2026/01/31 - Catherine O'Hara Passes Away at 71... Known for Her Role as Moira Rose in Schitt's Creek](https://ai.trend.dmomo.co.kr/2026/01/catherine-ohara-passes-away-at-71-known.html) <br/>
-[2026/01/31 - Who is Kevin Warsh, the Next Federal Reserve Chair Chosen by Trump?](https://ai.trend.dmomo.co.kr/2026/01/who-is-kevin-warsh-next-federal-reserve.html) <br/>
