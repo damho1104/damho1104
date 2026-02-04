@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/03 - [뉴스] 호실적인데 불안감 안 끝났다…밥 아이거 퇴임 소식에 디즈니 7% 급락 [월가월부]](https://blog.ai.dmomo.co.kr/news/19326) <br/>
-[2026/02/03 - [뉴스] 건대 부동산대학원 테크포크…AI 교육 통했다](https://blog.ai.dmomo.co.kr/news/19323) <br/>
-[2026/02/03 - [뉴스] 음주운전 임성근 새 식당 앞에 매매 현수막…개업 취소되나](https://blog.ai.dmomo.co.kr/news/19320) <br/>
-[2026/02/02 - [뉴스] ‘이민자가 만든 나라’가 이민자 쫓아내더니…미국 첫 인구감소 위기](https://blog.ai.dmomo.co.kr/news/19317) <br/>
-[2026/02/02 - [뉴스] 설 연휴, 5일간 궁·능으로 오세요 세화 행사도 진행](https://blog.ai.dmomo.co.kr/news/19314) <br/>
-[2026/02/02 - [뉴스] 중국인 댓글공작 잡겠다는데…IT업계 고개 젓는 이유](https://blog.ai.dmomo.co.kr/news/19311) <br/>
+[2026/02/04 - [뉴스] “최근 유능한 인재 영입했다”…젠슨 황 엔비디아에 도전장 내민 인텔 CEO](https://blog.ai.dmomo.co.kr/news/19386) <br/>
+[2026/02/04 - [뉴스] 삼성전자, MX사업부에 삼성리서치·메타 출신 반도체 전문가 전진 배치](https://blog.ai.dmomo.co.kr/news/19383) <br/>
+[2026/02/03 - [뉴스] 머스크 야심…AI 패권 잡으려 우주에 데이터센터 띄운다 – 매일경제](https://blog.ai.dmomo.co.kr/news/19380) <br/>
+[2026/02/03 - [뉴스] 아동복 안 입을래요…중고생 따라하던 아이돌 패션 초딩도 입는다](https://blog.ai.dmomo.co.kr/news/19377) <br/>
+[2026/02/03 - 84세 사바나 거스리 모친 실종, 범죄 가능성 조사중](https://blog.ai.dmomo.co.kr/trend/19374) <br/>
+[2026/02/03 - [뉴스] [단독] 헤지펀드 거물 “하이닉스 여전히 저평가, 美증시 간접상장해야”](https://blog.ai.dmomo.co.kr/news/19371) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/02/02 - 2026 Grammy Awards: Kendrick Lamar and Bad Bunny Dominate Major Categories](https://ai.trend.dmomo.co.kr/2026/02/2026-grammy-awards-kendrick-lamar-and.html) <br/>
-[2026/02/02 - Software Security Innovations to Watch in 2026: What Is Secure by Design?](https://ai.trend.dmomo.co.kr/2026/02/software-security-innovations-to-watch.html) <br/>
-[2026/02/02 - Solanki's Multi-Goal Explosion! Tottenham vs Manchester City Dramatic 2-2 Draw Highlights](https://ai.trend.dmomo.co.kr/2026/02/solankis-multi-goal-explosion-tottenham.html) <br/>
-[2026/02/02 - 2026 Grammy Awards: K-Pop Makes History with First Major Category Nomination](https://ai.trend.dmomo.co.kr/2026/02/2026-grammy-awards-k-pop-makes-history.html) <br/>
-[2026/02/01 - UFC 325: A Complete Analysis of the Rematch Between Volkanovski and Lopez 2](https://ai.trend.dmomo.co.kr/2026/01/ufc-325-complete-analysis-of-rematch.html) <br/>
-[2026/02/01 - Liverpool Breaks 5-Game Winless Streak with 4-1 Victory Over Newcastle! Konaté's Emotional Comeback Goal](https://ai.trend.dmomo.co.kr/2026/01/liverpool-breaks-5-game-winless-streak.html) <br/>
+[2026/02/03 - 84-Year-Old Savannah Guster's Mother Missing, Investigating Possible Crime](https://ai.trend.dmomo.co.kr/2026/02/84-year-old-savannah-gusters-mother.html) <br/>
+[2026/02/03 - Perfect Guide to Korea Student Aid Foundation: Everything from Student Loans to Scholarships](https://ai.trend.dmomo.co.kr/2026/02/perfect-guide-to-korea-student-aid.html) <br/>
+[2026/02/03 - The Influence of Savannah Guthrie's Mother on Her Success as an NBC Today Show Anchor](https://ai.trend.dmomo.co.kr/2026/02/the-influence-of-savannah-guthries.html) <br/>
+[2026/02/03 - Top 3 Must-Know MLOps Technologies in 2026: A Comprehensive Guide to Automated AI Governance](https://ai.trend.dmomo.co.kr/2026/02/top-3-must-know-mlops-technologies-in.html) <br/>
+[2026/02/03 - How Chappelle Owned the Grammy Red Carpet Photographers](https://ai.trend.dmomo.co.kr/2026/02/how-chappelle-owned-grammy-red-carpet.html) <br/>
+[2026/02/03 - How Did Kang Won-ki Revive MapleStory Over 8 Years? The Secret of the 700 Billion Myth](https://ai.trend.dmomo.co.kr/2026/02/how-did-kang-won-ki-revive-maplestory.html) <br/>
