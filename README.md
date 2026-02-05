@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/04 - [뉴스] “최근 유능한 인재 영입했다”…젠슨 황 엔비디아에 도전장 내민 인텔 CEO](https://blog.ai.dmomo.co.kr/news/19386) <br/>
-[2026/02/04 - [뉴스] 삼성전자, MX사업부에 삼성리서치·메타 출신 반도체 전문가 전진 배치](https://blog.ai.dmomo.co.kr/news/19383) <br/>
-[2026/02/03 - [뉴스] 머스크 야심…AI 패권 잡으려 우주에 데이터센터 띄운다 – 매일경제](https://blog.ai.dmomo.co.kr/news/19380) <br/>
-[2026/02/03 - [뉴스] 아동복 안 입을래요…중고생 따라하던 아이돌 패션 초딩도 입는다](https://blog.ai.dmomo.co.kr/news/19377) <br/>
-[2026/02/03 - 84세 사바나 거스리 모친 실종, 범죄 가능성 조사중](https://blog.ai.dmomo.co.kr/trend/19374) <br/>
-[2026/02/03 - [뉴스] [단독] 헤지펀드 거물 “하이닉스 여전히 저평가, 美증시 간접상장해야”](https://blog.ai.dmomo.co.kr/news/19371) <br/>
+[2026/02/05 - [뉴스] “왜 무명가수 때문에 우나” 멕시코 방송서 BTS 폄하 논란](https://blog.ai.dmomo.co.kr/news/19468) <br/>
+[2026/02/05 - [뉴스] 생(生)은 내 의지가 아니었지만 사(死)는 내 뜻대로](https://blog.ai.dmomo.co.kr/news/19465) <br/>
+[2026/02/05 - [뉴스] 시진핑 “양국 관계의 새 청사진 그리길”…푸틴 “다자체제서도 공조”](https://blog.ai.dmomo.co.kr/news/19462) <br/>
+[2026/02/04 - [뉴스] 140만닉스 제시한 씨티증권…“외국인 눈엔  K반도체 아직 저평가”](https://blog.ai.dmomo.co.kr/news/19459) <br/>
+[2026/02/04 - [뉴스] 美 1월 민간고용 2만2천명 증가…예상치 절반 그쳐](https://blog.ai.dmomo.co.kr/news/19455) <br/>
+[2026/02/04 - [뉴스] [속보] “시진핑, 트럼프와 통화”](https://blog.ai.dmomo.co.kr/news/19453) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/02/03 - 84-Year-Old Savannah Guster's Mother Missing, Investigating Possible Crime](https://ai.trend.dmomo.co.kr/2026/02/84-year-old-savannah-gusters-mother.html) <br/>
-[2026/02/03 - Perfect Guide to Korea Student Aid Foundation: Everything from Student Loans to Scholarships](https://ai.trend.dmomo.co.kr/2026/02/perfect-guide-to-korea-student-aid.html) <br/>
-[2026/02/03 - The Influence of Savannah Guthrie's Mother on Her Success as an NBC Today Show Anchor](https://ai.trend.dmomo.co.kr/2026/02/the-influence-of-savannah-guthries.html) <br/>
-[2026/02/03 - Top 3 Must-Know MLOps Technologies in 2026: A Comprehensive Guide to Automated AI Governance](https://ai.trend.dmomo.co.kr/2026/02/top-3-must-know-mlops-technologies-in.html) <br/>
-[2026/02/03 - How Chappelle Owned the Grammy Red Carpet Photographers](https://ai.trend.dmomo.co.kr/2026/02/how-chappelle-owned-grammy-red-carpet.html) <br/>
-[2026/02/03 - How Did Kang Won-ki Revive MapleStory Over 8 Years? The Secret of the 700 Billion Myth](https://ai.trend.dmomo.co.kr/2026/02/how-did-kang-won-ki-revive-maplestory.html) <br/>
+[2026/02/04 - 2026 Milano Cortina Winter Olympics Mascot Unveiled! Opening on February 6 Approaches](https://ai.trend.dmomo.co.kr/2026/02/2026-milano-cortina-winter-olympics.html) <br/>
+[2026/02/04 - Mastering Notepad++ Hacking: The Latest 2024 Security Vulnerabilities and Defense Strategies](https://ai.trend.dmomo.co.kr/2026/02/mastering-notepad-hacking-latest-2024.html) <br/>
+[2026/02/04 - Top 10 Essential Notepad++ Tips and Plugin Recommendations for Developers](https://ai.trend.dmomo.co.kr/2026/02/top-10-essential-notepad-tips-and.html) <br/>
+[2026/02/04 - What Is OpenClaw? Analyzing the Key Technology Driving AI Automation Revolution in 2026](https://ai.trend.dmomo.co.kr/2026/02/what-is-openclaw-analyzing-key.html) <br/>
+[2026/02/04 - Top 5 Software Supply Chain Security Challenges and Automation Strategies in 2026](https://ai.trend.dmomo.co.kr/2026/02/top-5-software-supply-chain-security.html) <br/>
+[2026/02/04 - 2026 Milan Winter Olympics: The Challenge of 3,500 Athletes from 93 Countries Amid the Climate Crisis](https://ai.trend.dmomo.co.kr/2026/02/2026-milan-winter-olympics-challenge-of.html) <br/>
