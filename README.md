@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/05 - [뉴스] “왜 무명가수 때문에 우나” 멕시코 방송서 BTS 폄하 논란](https://blog.ai.dmomo.co.kr/news/19468) <br/>
-[2026/02/05 - [뉴스] 생(生)은 내 의지가 아니었지만 사(死)는 내 뜻대로](https://blog.ai.dmomo.co.kr/news/19465) <br/>
-[2026/02/05 - [뉴스] 시진핑 “양국 관계의 새 청사진 그리길”…푸틴 “다자체제서도 공조”](https://blog.ai.dmomo.co.kr/news/19462) <br/>
-[2026/02/04 - [뉴스] 140만닉스 제시한 씨티증권…“외국인 눈엔  K반도체 아직 저평가”](https://blog.ai.dmomo.co.kr/news/19459) <br/>
-[2026/02/04 - [뉴스] 美 1월 민간고용 2만2천명 증가…예상치 절반 그쳐](https://blog.ai.dmomo.co.kr/news/19455) <br/>
-[2026/02/04 - [뉴스] [속보] “시진핑, 트럼프와 통화”](https://blog.ai.dmomo.co.kr/news/19453) <br/>
+[2026/02/06 - [뉴스] “대화할 준비 돼 있다”…유명 여성 앵커 모친 납치 사건, 미국 ‘발칵’](https://blog.ai.dmomo.co.kr/news/19540) <br/>
+[2026/02/06 - [뉴스] 조커의 신탁 사라진 DRX, 이번에도 브리온 잡을까](https://blog.ai.dmomo.co.kr/news/19537) <br/>
+[2026/02/06 - [뉴스] 한낮의 월드뮤직 여행… 성남아트센터 2026 오후의 콘서트](https://blog.ai.dmomo.co.kr/news/19534) <br/>
+[2026/02/05 - [뉴스] 콜드플레이 콘서트 그 불륜女, 위기관리 강연자로 변신한다](https://blog.ai.dmomo.co.kr/news/19531) <br/>
+[2026/02/05 - [뉴스] 내일 출근길 다시 강추위…황사까지 덮친다](https://blog.ai.dmomo.co.kr/news/19528) <br/>
+[2026/02/05 - [뉴스] 한 달에 1600만원 벌었다…수만명 열광한 미녀 모델 정체](https://blog.ai.dmomo.co.kr/news/19525) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/02/04 - 2026 Milano Cortina Winter Olympics Mascot Unveiled! Opening on February 6 Approaches](https://ai.trend.dmomo.co.kr/2026/02/2026-milano-cortina-winter-olympics.html) <br/>
-[2026/02/04 - Mastering Notepad++ Hacking: The Latest 2024 Security Vulnerabilities and Defense Strategies](https://ai.trend.dmomo.co.kr/2026/02/mastering-notepad-hacking-latest-2024.html) <br/>
-[2026/02/04 - Top 10 Essential Notepad++ Tips and Plugin Recommendations for Developers](https://ai.trend.dmomo.co.kr/2026/02/top-10-essential-notepad-tips-and.html) <br/>
-[2026/02/04 - What Is OpenClaw? Analyzing the Key Technology Driving AI Automation Revolution in 2026](https://ai.trend.dmomo.co.kr/2026/02/what-is-openclaw-analyzing-key.html) <br/>
-[2026/02/04 - Top 5 Software Supply Chain Security Challenges and Automation Strategies in 2026](https://ai.trend.dmomo.co.kr/2026/02/top-5-software-supply-chain-security.html) <br/>
-[2026/02/04 - 2026 Milan Winter Olympics: The Challenge of 3,500 Athletes from 93 Countries Amid the Climate Crisis](https://ai.trend.dmomo.co.kr/2026/02/2026-milan-winter-olympics-challenge-of.html) <br/>
+[2026/02/05 - Man City Dominates Newcastle 3-1 with Multiple Goals from Mahrmoush… Advances to EFL Cup Final](https://ai.trend.dmomo.co.kr/2026/02/man-city-dominates-newcastle-3-1-with.html) <br/>
+[2026/02/05 - One Day to the 2026 Milan-Cortina Winter Olympics: Everything You Need to Know](https://ai.trend.dmomo.co.kr/2026/02/one-day-to-2026-milan-cortina-winter.html) <br/>
+[2026/02/05 - Claude Cowork vs OpenClaw: 5 Key Differences in AI Automation Tools](https://ai.trend.dmomo.co.kr/2026/02/claude-cowork-vs-openclaw-5-key.html) <br/>
+[2026/02/05 - 5 Secrets to Collaborative Innovation with Claude AI and Winning Teamwork Strategies](https://ai.trend.dmomo.co.kr/2026/02/5-secrets-to-collaborative-innovation.html) <br/>
+[2026/02/05 - Top 5 Key Trends and Future Technologies in AI for 2024](https://ai.trend.dmomo.co.kr/2026/02/top-5-key-trends-and-future.html) <br/>
+[2026/02/05 - A New Paradigm of Villains in Korean Dramas Showcased by Penthouse's Cha Jung-won](https://ai.trend.dmomo.co.kr/2026/02/a-new-paradigm-of-villains-in-korean.html) <br/>
