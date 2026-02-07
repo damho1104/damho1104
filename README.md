@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/06 - [뉴스] “대화할 준비 돼 있다”…유명 여성 앵커 모친 납치 사건, 미국 ‘발칵’](https://blog.ai.dmomo.co.kr/news/19540) <br/>
-[2026/02/06 - [뉴스] 조커의 신탁 사라진 DRX, 이번에도 브리온 잡을까](https://blog.ai.dmomo.co.kr/news/19537) <br/>
-[2026/02/06 - [뉴스] 한낮의 월드뮤직 여행… 성남아트센터 2026 오후의 콘서트](https://blog.ai.dmomo.co.kr/news/19534) <br/>
-[2026/02/05 - [뉴스] 콜드플레이 콘서트 그 불륜女, 위기관리 강연자로 변신한다](https://blog.ai.dmomo.co.kr/news/19531) <br/>
-[2026/02/05 - [뉴스] 내일 출근길 다시 강추위…황사까지 덮친다](https://blog.ai.dmomo.co.kr/news/19528) <br/>
-[2026/02/05 - [뉴스] 한 달에 1600만원 벌었다…수만명 열광한 미녀 모델 정체](https://blog.ai.dmomo.co.kr/news/19525) <br/>
+[2026/02/07 - [뉴스] 쿠팡 피해자, 미국서 김범석에 집단소송…징벌적 손해배상 청구](https://blog.ai.dmomo.co.kr/news/19627) <br/>
+[2026/02/06 - [뉴스] 글로벌OTA 공세 속 토종 플랫폼의 반격 카드 오픈 플랫폼](https://blog.ai.dmomo.co.kr/news/19622) <br/>
+[2026/02/06 - [뉴스] 미국 국무 차관 “중국, 핵폭발 실험 숨겨…600기 핵탄두 보유” 주장](https://blog.ai.dmomo.co.kr/news/19620) <br/>
+[2026/02/06 - [뉴스] “지갑에 2000 비트코인이 꽂혔다”… 빗썸 ‘초유의 오입금’ 사태](https://blog.ai.dmomo.co.kr/news/19619) <br/>
+[2026/02/06 - [뉴스] 중국 벗어난 K뷰티만 웃었다…흔들리는 화장품 3강 구도](https://blog.ai.dmomo.co.kr/news/19615) <br/>
+[2026/02/06 - [뉴스] 비트센싱, 버스·트럭용 ADAS 키트 출시](https://blog.ai.dmomo.co.kr/news/19612) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/02/05 - Man City Dominates Newcastle 3-1 with Multiple Goals from Mahrmoush… Advances to EFL Cup Final](https://ai.trend.dmomo.co.kr/2026/02/man-city-dominates-newcastle-3-1-with.html) <br/>
-[2026/02/05 - One Day to the 2026 Milan-Cortina Winter Olympics: Everything You Need to Know](https://ai.trend.dmomo.co.kr/2026/02/one-day-to-2026-milan-cortina-winter.html) <br/>
-[2026/02/05 - Claude Cowork vs OpenClaw: 5 Key Differences in AI Automation Tools](https://ai.trend.dmomo.co.kr/2026/02/claude-cowork-vs-openclaw-5-key.html) <br/>
-[2026/02/05 - 5 Secrets to Collaborative Innovation with Claude AI and Winning Teamwork Strategies](https://ai.trend.dmomo.co.kr/2026/02/5-secrets-to-collaborative-innovation.html) <br/>
-[2026/02/05 - Top 5 Key Trends and Future Technologies in AI for 2024](https://ai.trend.dmomo.co.kr/2026/02/top-5-key-trends-and-future.html) <br/>
-[2026/02/05 - A New Paradigm of Villains in Korean Dramas Showcased by Penthouse's Cha Jung-won](https://ai.trend.dmomo.co.kr/2026/02/a-new-paradigm-of-villains-in-korean.html) <br/>
+[2026/02/06 - Launch of TrumpRx: The Truth Behind Trump's Prescription Drug Direct Purchase Platform?](https://ai.trend.dmomo.co.kr/2026/02/launch-of-trumprx-truth-behind-trumps.html) <br/>
+[2026/02/06 - Copa del Rey Quarterfinals: Real Betis vs Atletico Madrid Big Match Preview](https://ai.trend.dmomo.co.kr/2026/02/copa-del-rey-quarterfinals-real-betis.html) <br/>
+[2026/02/06 - When Will Claude Opus 4.6 Be Released? Latest Updates and Comprehensive Model Comparison](https://ai.trend.dmomo.co.kr/2026/02/when-will-claude-opus-46-be-released.html) <br/>
+[2026/02/06 - How to Check the Game Schedule and Results for LA Lakers vs 76ers](https://ai.trend.dmomo.co.kr/2026/02/how-to-check-game-schedule-and-results.html) <br/>
+[2026/02/06 - 5 Essential Strategies for Building a Modern Design System with React, Radix UI, and Tailwind CSS](https://ai.trend.dmomo.co.kr/2026/02/5-essential-strategies-for-building.html) <br/>
+[2026/02/06 - The Secret of Bitcoin's 4-Year Cycle: A Perfect Analysis of Price Patterns Created by Halving](https://ai.trend.dmomo.co.kr/2026/02/the-secret-of-bitcoins-4-year-cycle.html) <br/>
