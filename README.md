@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/08 - 3 Doors Down 리드싱어 Brad Arnold, 47세 나이로 갑작스런 별세](https://blog.ai.dmomo.co.kr/trend/19689) <br/>
-[2026/02/08 - [뉴스] 살아남으려면 팔란티어처럼 테크업계에 부는 현장 엔지니어 바람](https://blog.ai.dmomo.co.kr/news/19684) <br/>
-[2026/02/08 - [뉴스] 세금 추징금만 수십억…연예인은 뭘로 그렇게 돈 벌었을까](https://blog.ai.dmomo.co.kr/news/19681) <br/>
-[2026/02/07 - [뉴스] 반려견에 놀라 17cm 숟가락 삼킨 벨기에 여성…엑스레이 사진 보니 ‘아찔’](https://blog.ai.dmomo.co.kr/news/19678) <br/>
-[2026/02/07 - [뉴스] 1210회 로또 1등 1, 7, 9, 17, 27, 38](https://blog.ai.dmomo.co.kr/news/19675) <br/>
-[2026/02/07 - AI가 답변할 수 없는 최신 정보를 요청했을 때 대처하는 방법](https://blog.ai.dmomo.co.kr/trend/19672) <br/>
+[2026/02/09 - [뉴스] 대만 무기판매 놓고 미중관계 급랭우려…中, 4월회담 ‘탈선’ 언급도](https://blog.ai.dmomo.co.kr/news/19735) <br/>
+[2026/02/09 - [뉴스] 지아이이노베이션 면역항암제 GI-102, 70대 말기 암환자에서 부분관해](https://blog.ai.dmomo.co.kr/news/19732) <br/>
+[2026/02/09 - [뉴스] 티웨이 항공기, 대만 공항에서 타이어 분리…안전 착륙](https://blog.ai.dmomo.co.kr/news/19729) <br/>
+[2026/02/08 - [뉴스] 日 다카이치 “기존 내각 전원 유임…소비세율 인하 속도” [일본 총선]](https://blog.ai.dmomo.co.kr/news/19726) <br/>
+[2026/02/08 - [뉴스] 흰색 쪽지 슥 건넸다…오일 머니의 수백억 은밀한 쇼핑](https://blog.ai.dmomo.co.kr/news/19723) <br/>
+[2026/02/08 - [뉴스] 韓증시 시가총액, 독일 이어 대만도 추월](https://blog.ai.dmomo.co.kr/news/19720) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/02/08 - What Are the Key Strategies for Software Supply Chain Security and SBOM to Watch in 2026?](https://ai.trend.dmomo.co.kr/2026/02/what-are-key-strategies-for-software.html) <br/>
+[2026/02/08 - Manchester United Claims 2-0 Victory Over Tottenham, Extends Winning Streak to 4 Matches](https://ai.trend.dmomo.co.kr/2026/02/manchester-united-claims-2-0-victory.html) <br/>
+[2026/02/08 - Brad Arnold, Lead Singer of 3 Doors Down, Passes Away at 47](https://ai.trend.dmomo.co.kr/2026/02/brad-arnold-lead-singer-of-3-doors-down.html) <br/>
 [2026/02/07 - How to Handle Requests for the Latest Information that AI Can't Answer](https://ai.trend.dmomo.co.kr/2026/02/how-to-handle-requests-for-latest.html) <br/>
 [2026/02/07 - Netherlands vs Pakistan: From Which Perspective Do You Compare?](https://ai.trend.dmomo.co.kr/2026/02/netherlands-vs-pakistan-from-which.html) <br/>
 [2026/02/07 - Bithumb's 200 Billion Won Payment Error per Person: What Actually Happened?](https://ai.trend.dmomo.co.kr/2026/02/bithumbs-200-billion-won-payment-error.html) <br/>
-[2026/02/07 - 5 Reasons Why Mariah Carey Will Still Reign Supreme in the U.S. Music Scene in 2026](https://ai.trend.dmomo.co.kr/2026/02/5-reasons-why-mariah-carey-will-still.html) <br/>
-[2026/02/07 - 5 Essential React Optimization Tips for the AI Era: Cutting-Edge Web Development Standards from Vercel](https://ai.trend.dmomo.co.kr/2026/02/5-essential-react-optimization-tips-for.html) <br/>
-[2026/02/07 - The Colorful Transformations of Michelle Yeoh in Star Trek: Her Hidden Story](https://ai.trend.dmomo.co.kr/2026/02/the-colorful-transformations-of.html) <br/>
