@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/10 - RAG 최신 기술, Dify 하이브리드 검색이 AI 검색 성능을 바꾸는 이유는?](https://blog.ai.dmomo.co.kr/tech/19807) <br/>
-[2026/02/10 - 2025년 이상기후 실화? 봄에 겨울과 여름이 일주일 만에 교체된 충격적 날씨](https://blog.ai.dmomo.co.kr/trend/19805) <br/>
-[2026/02/10 - 리키 마틴, 54세 나이에 Super Bowl 첫 무대 섰다! 라틴팝 레전드의 귀환](https://blog.ai.dmomo.co.kr/trend/19803) <br/>
-[2026/02/10 - [뉴스] “임신 준비가 변질”…이혼 사유 밝힌 유명 성인배우 출신 일본女](https://blog.ai.dmomo.co.kr/news/19798) <br/>
-[2026/02/10 - [뉴스] 쪽박 난 오페라를 구한 베를리오즈의 로마 카니발](https://blog.ai.dmomo.co.kr/news/19795) <br/>
-[2026/02/10 - [뉴스] 금 이어 또 ‘불안한 안전자산’…中, 은행에 “美국채 줄여라” 지침](https://blog.ai.dmomo.co.kr/news/19792) <br/>
+[2026/02/11 - 토트넘 충격 16위 추락, 강등권 5점차 위기 속 8경기 무승 굴욕](https://blog.ai.dmomo.co.kr/trend/19879) <br/>
+[2026/02/11 - RAG 최신 기술 5가지: 하이브리드 검색부터 에이전트 통합까지 알아보기](https://blog.ai.dmomo.co.kr/tech/19877) <br/>
+[2026/02/11 - 웨스트햄 vs 맨유: 96분 극장골로 1-1 무승부, 강등권 탈출 실패](https://blog.ai.dmomo.co.kr/trend/19875) <br/>
+[2026/02/11 - [뉴스] 제7차 유라시아 대륙횡단 도전과 대한민국의 선택](https://blog.ai.dmomo.co.kr/news/19870) <br/>
+[2026/02/11 - [뉴스] SK하이닉스, HBF 활용한 AI 칩 콘셉트 공개…전성비 2.69배 개선](https://blog.ai.dmomo.co.kr/news/19867) <br/>
+[2026/02/11 - [뉴스] 젊은 건축가 찾아라”…서울건축포럼, 네 번째 비평회 연다](https://blog.ai.dmomo.co.kr/news/19864) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/02/10 - Shocking Weather: Winter and Summer Swapped Within a Week in Spring 2025?](https://ai.trend.dmomo.co.kr/2026/02/shocking-weather-winter-and-summer.html) <br/>
-[2026/02/10 - Ricky Martin Takes the Super Bowl Stage at 54! The Return of a Latin Pop Legend](https://ai.trend.dmomo.co.kr/2026/02/ricky-martin-takes-super-bowl-stage-at.html) <br/>
-[2026/02/09 - PSG Crushes Marseille 5-0! Lee Kang-in Scores Return Goal in Just 6 Minutes](https://ai.trend.dmomo.co.kr/2026/02/psg-crushes-marseille-5-0-lee-kang-in.html) <br/>
-[2026/02/09 - 5 Secrets to Revolutionizing AI Search with the Latest 2026 RAG Hybrid Search Technology](https://ai.trend.dmomo.co.kr/2026/02/5-secrets-to-revolutionizing-ai-search.html) <br/>
-[2026/02/09 - Man City Intensifies Arsenal Chase with First Anfield Victory in 89 Years](https://ai.trend.dmomo.co.kr/2026/02/man-city-intensifies-arsenal-chase-with.html) <br/>
-[2026/02/09 - Super Bowl LX 2026: Patriots vs Seahawks, Expected Economic Impact of $250 Million](https://ai.trend.dmomo.co.kr/2026/02/super-bowl-lx-2026-patriots-vs-seahawks.html) <br/>
+[2026/02/11 - Top 5 Cutting-Edge RAG Technologies: From Hybrid Search to Agent Integration Explained](https://ai.trend.dmomo.co.kr/2026/02/top-5-cutting-edge-rag-technologies.html) <br/>
+[2026/02/11 - Tottenham's Shocking Fall to 16th Place: 8 Matches Without a Win and Just 5 Points Above the Relegation Zone](https://ai.trend.dmomo.co.kr/2026/02/tottenhams-shocking-fall-to-16th-place.html) <br/>
+[2026/02/11 - West Ham vs Manchester United: Last-Minute Drama Ends in 1-1 Draw, Relegation Battle Continues](https://ai.trend.dmomo.co.kr/2026/02/west-ham-vs-manchester-united-last.html) <br/>
+[2026/02/10 - Hwang Dae-heon vs Lin Shaojun: A Fateful Rivalry at the Olympics After 8 Years](https://ai.trend.dmomo.co.kr/2026/02/hwang-dae-heon-vs-lin-shaojun-fateful.html) <br/>
+[2026/02/10 - 5 Early Symptoms of Pulmonary Embolism: Cancer Patients Face a 10% Surge in Mortality Risk](https://ai.trend.dmomo.co.kr/2026/02/5-early-symptoms-of-pulmonary-embolism.html) <br/>
+[2026/02/10 - Why the Latest RAG Technology and Dify Hybrid Search Are Transforming AI Search Performance](https://ai.trend.dmomo.co.kr/2026/02/why-latest-rag-technology-and-dify.html) <br/>
