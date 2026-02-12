@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/11 - 토트넘 충격 16위 추락, 강등권 5점차 위기 속 8경기 무승 굴욕](https://blog.ai.dmomo.co.kr/trend/19879) <br/>
-[2026/02/11 - RAG 최신 기술 5가지: 하이브리드 검색부터 에이전트 통합까지 알아보기](https://blog.ai.dmomo.co.kr/tech/19877) <br/>
-[2026/02/11 - 웨스트햄 vs 맨유: 96분 극장골로 1-1 무승부, 강등권 탈출 실패](https://blog.ai.dmomo.co.kr/trend/19875) <br/>
-[2026/02/11 - [뉴스] 제7차 유라시아 대륙횡단 도전과 대한민국의 선택](https://blog.ai.dmomo.co.kr/news/19870) <br/>
-[2026/02/11 - [뉴스] SK하이닉스, HBF 활용한 AI 칩 콘셉트 공개…전성비 2.69배 개선](https://blog.ai.dmomo.co.kr/news/19867) <br/>
-[2026/02/11 - [뉴스] 젊은 건축가 찾아라”…서울건축포럼, 네 번째 비평회 연다](https://blog.ai.dmomo.co.kr/news/19864) <br/>
+[2026/02/12 - [뉴스] 다리 공사비 한푼 안 내고 “수익 절반 나누자”…‘막가파’ 작정한 트럼프](https://blog.ai.dmomo.co.kr/news/19939) <br/>
+[2026/02/12 - [뉴스] 플인 돌풍 DN 수퍼스와 DRX, PO서도 이변 만들까](https://blog.ai.dmomo.co.kr/news/19936) <br/>
+[2026/02/12 - [뉴스] “주담대 이자 더는 못 내겠어요”…저소득층 빚폭탄 감당 안되는 미국](https://blog.ai.dmomo.co.kr/news/19933) <br/>
+[2026/02/11 - [뉴스] “직원 최대 6000명 줄인다”…맥주 안 팔리자 대규모 감원 나선 이 회사](https://blog.ai.dmomo.co.kr/news/19930) <br/>
+[2026/02/11 - [뉴스] 이제 동남아도 가성비 아니네…설연휴 여행 가려다 한숨](https://blog.ai.dmomo.co.kr/news/19927) <br/>
+[2026/02/11 - [뉴스] 카카오, 정신아 재선임 의결…다음달 주총서 최종 확정](https://blog.ai.dmomo.co.kr/news/19924) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/02/11 - The Shocking Disappearance of 84-Year-Old Nancy Gutherie: A $6 Million Bitcoin Extortion Case](https://ai.trend.dmomo.co.kr/2026/02/the-shocking-disappearance-of-84-year.html) <br/>
+[2026/02/11 - Why Is Open-Source Use Prohibited? The Real Reason Behind the AI Productivity and Security Conflict](https://ai.trend.dmomo.co.kr/2026/02/why-is-open-source-use-prohibited-real.html) <br/>
 [2026/02/11 - Top 5 Cutting-Edge RAG Technologies: From Hybrid Search to Agent Integration Explained](https://ai.trend.dmomo.co.kr/2026/02/top-5-cutting-edge-rag-technologies.html) <br/>
 [2026/02/11 - Tottenham's Shocking Fall to 16th Place: 8 Matches Without a Win and Just 5 Points Above the Relegation Zone](https://ai.trend.dmomo.co.kr/2026/02/tottenhams-shocking-fall-to-16th-place.html) <br/>
 [2026/02/11 - West Ham vs Manchester United: Last-Minute Drama Ends in 1-1 Draw, Relegation Battle Continues](https://ai.trend.dmomo.co.kr/2026/02/west-ham-vs-manchester-united-last.html) <br/>
 [2026/02/10 - Hwang Dae-heon vs Lin Shaojun: A Fateful Rivalry at the Olympics After 8 Years](https://ai.trend.dmomo.co.kr/2026/02/hwang-dae-heon-vs-lin-shaojun-fateful.html) <br/>
-[2026/02/10 - 5 Early Symptoms of Pulmonary Embolism: Cancer Patients Face a 10% Surge in Mortality Risk](https://ai.trend.dmomo.co.kr/2026/02/5-early-symptoms-of-pulmonary-embolism.html) <br/>
-[2026/02/10 - Why the Latest RAG Technology and Dify Hybrid Search Are Transforming AI Search Performance](https://ai.trend.dmomo.co.kr/2026/02/why-latest-rag-technology-and-dify.html) <br/>
