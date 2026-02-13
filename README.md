@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/12 - [뉴스] 다리 공사비 한푼 안 내고 “수익 절반 나누자”…‘막가파’ 작정한 트럼프](https://blog.ai.dmomo.co.kr/news/19939) <br/>
-[2026/02/12 - [뉴스] 플인 돌풍 DN 수퍼스와 DRX, PO서도 이변 만들까](https://blog.ai.dmomo.co.kr/news/19936) <br/>
-[2026/02/12 - [뉴스] “주담대 이자 더는 못 내겠어요”…저소득층 빚폭탄 감당 안되는 미국](https://blog.ai.dmomo.co.kr/news/19933) <br/>
-[2026/02/11 - [뉴스] “직원 최대 6000명 줄인다”…맥주 안 팔리자 대규모 감원 나선 이 회사](https://blog.ai.dmomo.co.kr/news/19930) <br/>
-[2026/02/11 - [뉴스] 이제 동남아도 가성비 아니네…설연휴 여행 가려다 한숨](https://blog.ai.dmomo.co.kr/news/19927) <br/>
-[2026/02/11 - [뉴스] 카카오, 정신아 재선임 의결…다음달 주총서 최종 확정](https://blog.ai.dmomo.co.kr/news/19924) <br/>
+[2026/02/13 - [뉴스] AI발 파괴 전방위 확산에 뉴욕증시 급락 [월가월부]](https://blog.ai.dmomo.co.kr/news/20011) <br/>
+[2026/02/13 - [뉴스] 진실을 말하라. 하지만 비스듬하게](https://blog.ai.dmomo.co.kr/news/20008) <br/>
+[2026/02/13 - [뉴스] 내달 한일 정상회담 성사되나 “양국정부 다카이치 방한 조율”](https://blog.ai.dmomo.co.kr/news/20005) <br/>
+[2026/02/12 - [뉴스] “제로 음료 매일 마셨는데”…대체 감미료 ‘뇌졸중 위험’ 높일 수도?](https://blog.ai.dmomo.co.kr/news/20002) <br/>
+[2026/02/12 - [뉴스] 영겁의 시간을 넘어 파라오를 마주하다](https://blog.ai.dmomo.co.kr/news/19999) <br/>
+[2026/02/12 - [뉴스] 램리서치 반도체 장비 80%, 3년내 로봇이 관리](https://blog.ai.dmomo.co.kr/news/19996) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/02/11 - The Shocking Disappearance of 84-Year-Old Nancy Gutherie: A $6 Million Bitcoin Extortion Case](https://ai.trend.dmomo.co.kr/2026/02/the-shocking-disappearance-of-84-year.html) <br/>
-[2026/02/11 - Why Is Open-Source Use Prohibited? The Real Reason Behind the AI Productivity and Security Conflict](https://ai.trend.dmomo.co.kr/2026/02/why-is-open-source-use-prohibited-real.html) <br/>
-[2026/02/11 - Top 5 Cutting-Edge RAG Technologies: From Hybrid Search to Agent Integration Explained](https://ai.trend.dmomo.co.kr/2026/02/top-5-cutting-edge-rag-technologies.html) <br/>
-[2026/02/11 - Tottenham's Shocking Fall to 16th Place: 8 Matches Without a Win and Just 5 Points Above the Relegation Zone](https://ai.trend.dmomo.co.kr/2026/02/tottenhams-shocking-fall-to-16th-place.html) <br/>
-[2026/02/11 - West Ham vs Manchester United: Last-Minute Drama Ends in 1-1 Draw, Relegation Battle Continues](https://ai.trend.dmomo.co.kr/2026/02/west-ham-vs-manchester-united-last.html) <br/>
-[2026/02/10 - Hwang Dae-heon vs Lin Shaojun: A Fateful Rivalry at the Olympics After 8 Years](https://ai.trend.dmomo.co.kr/2026/02/hwang-dae-heon-vs-lin-shaojun-fateful.html) <br/>
+[2026/02/12 - Windows Notepad Remote Code Execution Vulnerability CVE-2026-20841: Is Your PC Safe?](https://ai.trend.dmomo.co.kr/2026/02/windows-notepad-remote-code-execution.html) <br/>
+[2026/02/12 - Diablo 30th Anniversary: Three New Games Featuring the Demomancer Class Released Simultaneously](https://ai.trend.dmomo.co.kr/2026/02/diablo-30th-anniversary-three-new-games.html) <br/>
+[2026/02/12 - Blizzard's Diablo 30th Anniversary Event and Special Content Overview](https://ai.trend.dmomo.co.kr/2026/02/blizzards-diablo-30th-anniversary-event.html) <br/>
+[2026/02/12 - The 2026 AI Agent Revolution: 5 Industry-Shaping Changes Driven by Autonomous AI](https://ai.trend.dmomo.co.kr/2026/02/the-2026-ai-agent-revolution-5-industry.html) <br/>
+[2026/02/12 - 2026 Winter Olympics: Who Will Take the Halfpipe Gold Medal, Choi Ga-On or Chloe Kim?](https://ai.trend.dmomo.co.kr/2026/02/2026-winter-olympics-who-will-take.html) <br/>
+[2026/02/12 - Hollywood Star James Van Der Beek Passes Away at 48 After Battling Colon Cancer](https://ai.trend.dmomo.co.kr/2026/02/hollywood-star-james-van-der-beek.html) <br/>
