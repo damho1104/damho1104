@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/13 - [뉴스] AI발 파괴 전방위 확산에 뉴욕증시 급락 [월가월부]](https://blog.ai.dmomo.co.kr/news/20011) <br/>
-[2026/02/13 - [뉴스] 진실을 말하라. 하지만 비스듬하게](https://blog.ai.dmomo.co.kr/news/20008) <br/>
-[2026/02/13 - [뉴스] 내달 한일 정상회담 성사되나 “양국정부 다카이치 방한 조율”](https://blog.ai.dmomo.co.kr/news/20005) <br/>
-[2026/02/12 - [뉴스] “제로 음료 매일 마셨는데”…대체 감미료 ‘뇌졸중 위험’ 높일 수도?](https://blog.ai.dmomo.co.kr/news/20002) <br/>
-[2026/02/12 - [뉴스] 영겁의 시간을 넘어 파라오를 마주하다](https://blog.ai.dmomo.co.kr/news/19999) <br/>
-[2026/02/12 - [뉴스] 램리서치 반도체 장비 80%, 3년내 로봇이 관리](https://blog.ai.dmomo.co.kr/news/19996) <br/>
+[2026/02/14 - [뉴스] “여섯째와 62살 차이”…52살 연하 아내와 결혼 90대男, 득녀 ‘화제’](https://blog.ai.dmomo.co.kr/news/20069) <br/>
+[2026/02/14 - [뉴스] 어떻게 사랑이 변하니…눈을 감으면 문득 그리운 봄날의 기억](https://blog.ai.dmomo.co.kr/news/20065) <br/>
+[2026/02/13 - [뉴스] 미국 물가 2.4% 상승…금리인하 언제 재개될까](https://blog.ai.dmomo.co.kr/news/20062) <br/>
+[2026/02/13 - [뉴스] 연휴가 3주나 된다고?…베트남이 특별한 설을 보내는 법](https://blog.ai.dmomo.co.kr/news/20059) <br/>
+[2026/02/13 - 쿼드 악셀 유일 성공자 말리닌, 오늘 2026 올림픽 금메달 확정 짓나?](https://blog.ai.dmomo.co.kr/trend/20056) <br/>
+[2026/02/13 - [뉴스] 비자, “스테이블코인, 기존 화폐 대체 아닌 ‘보완재’… 결제·정산 동시 해결”](https://blog.ai.dmomo.co.kr/news/20053) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/02/14 - From Ancient Times to the Middle Ages: The History of Codices and 7 Amazing Secrets of Manuscripts](https://ai.trend.dmomo.co.kr/2026/02/from-ancient-times-to-middle-ages.html) <br/>
+[2026/02/13 - Quad Axel: Malinin, the Sole Successor, Securing Gold at the 2026 Olympics Today?](https://ai.trend.dmomo.co.kr/2026/02/quad-axel-malinin-sole-successor.html) <br/>
+[2026/02/13 - How the DevSecOps Shift Left Strategy Cuts Software Security Costs by 50%](https://ai.trend.dmomo.co.kr/2026/02/how-devsecops-shift-left-strategy-cuts.html) <br/>
+[2026/02/13 - 2026 Olympics Women's Snowboarding: The Day Choi Gaon Stopped Chloe Kim's Three-Peat](https://ai.trend.dmomo.co.kr/2026/02/2026-olympics-womens-snowboarding-day.html) <br/>
+[2026/02/13 - Cha Jun-hwan, 6th Place in Milan Winter Olympics Short Track... Medal Challenge Continues](https://ai.trend.dmomo.co.kr/2026/02/cha-jun-hwan-6th-place-in-milan-winter.html) <br/>
 [2026/02/12 - Windows Notepad Remote Code Execution Vulnerability CVE-2026-20841: Is Your PC Safe?](https://ai.trend.dmomo.co.kr/2026/02/windows-notepad-remote-code-execution.html) <br/>
-[2026/02/12 - Diablo 30th Anniversary: Three New Games Featuring the Demomancer Class Released Simultaneously](https://ai.trend.dmomo.co.kr/2026/02/diablo-30th-anniversary-three-new-games.html) <br/>
-[2026/02/12 - Blizzard's Diablo 30th Anniversary Event and Special Content Overview](https://ai.trend.dmomo.co.kr/2026/02/blizzards-diablo-30th-anniversary-event.html) <br/>
-[2026/02/12 - The 2026 AI Agent Revolution: 5 Industry-Shaping Changes Driven by Autonomous AI](https://ai.trend.dmomo.co.kr/2026/02/the-2026-ai-agent-revolution-5-industry.html) <br/>
-[2026/02/12 - 2026 Winter Olympics: Who Will Take the Halfpipe Gold Medal, Choi Ga-On or Chloe Kim?](https://ai.trend.dmomo.co.kr/2026/02/2026-winter-olympics-who-will-take.html) <br/>
-[2026/02/12 - Hollywood Star James Van Der Beek Passes Away at 48 After Battling Colon Cancer](https://ai.trend.dmomo.co.kr/2026/02/hollywood-star-james-van-der-beek.html) <br/>
