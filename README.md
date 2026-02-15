@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/14 - [뉴스] “여섯째와 62살 차이”…52살 연하 아내와 결혼 90대男, 득녀 ‘화제’](https://blog.ai.dmomo.co.kr/news/20069) <br/>
-[2026/02/14 - [뉴스] 어떻게 사랑이 변하니…눈을 감으면 문득 그리운 봄날의 기억](https://blog.ai.dmomo.co.kr/news/20065) <br/>
-[2026/02/13 - [뉴스] 미국 물가 2.4% 상승…금리인하 언제 재개될까](https://blog.ai.dmomo.co.kr/news/20062) <br/>
-[2026/02/13 - [뉴스] 연휴가 3주나 된다고?…베트남이 특별한 설을 보내는 법](https://blog.ai.dmomo.co.kr/news/20059) <br/>
-[2026/02/13 - 쿼드 악셀 유일 성공자 말리닌, 오늘 2026 올림픽 금메달 확정 짓나?](https://blog.ai.dmomo.co.kr/trend/20056) <br/>
-[2026/02/13 - [뉴스] 비자, “스테이블코인, 기존 화폐 대체 아닌 ‘보완재’… 결제·정산 동시 해결”](https://blog.ai.dmomo.co.kr/news/20053) <br/>
+[2026/02/15 - [뉴스] 도로 위 코끼리까지 대비…똑똑해지는 웨이모 자율주행](https://blog.ai.dmomo.co.kr/news/20138) <br/>
+[2026/02/15 - [뉴스] 근대 조선에 상륙한 댄스뮤직…꽁꽁타령과 춤춰봐요](https://blog.ai.dmomo.co.kr/news/20135) <br/>
+[2026/02/14 - [뉴스] 올림픽부터 F1까지 천문학적 돈 쏟아붓는다…스포츠 후원에 꽂힌 명품시계](https://blog.ai.dmomo.co.kr/news/20132) <br/>
+[2026/02/14 - [뉴스] 로또 1등 당첨자 14명, 23억씩…한 명 빼고 모두 자동 당첨](https://blog.ai.dmomo.co.kr/news/20129) <br/>
+[2026/02/14 - [뉴스] 마두로 체포, AI가 지휘…미군, 앤트로픽 클로드 실전 투입](https://blog.ai.dmomo.co.kr/news/20126) <br/>
+[2026/02/14 - 카자흐스탄 첫 금메달! 무명 스케이터가 일으킨 올림픽 최대 이변](https://blog.ai.dmomo.co.kr/trend/20123) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/02/14 - From Ancient Times to the Middle Ages: The History of Codices and 7 Amazing Secrets of Manuscripts](https://ai.trend.dmomo.co.kr/2026/02/from-ancient-times-to-middle-ages.html) <br/>
-[2026/02/13 - Quad Axel: Malinin, the Sole Successor, Securing Gold at the 2026 Olympics Today?](https://ai.trend.dmomo.co.kr/2026/02/quad-axel-malinin-sole-successor.html) <br/>
-[2026/02/13 - How the DevSecOps Shift Left Strategy Cuts Software Security Costs by 50%](https://ai.trend.dmomo.co.kr/2026/02/how-devsecops-shift-left-strategy-cuts.html) <br/>
-[2026/02/13 - 2026 Olympics Women's Snowboarding: The Day Choi Gaon Stopped Chloe Kim's Three-Peat](https://ai.trend.dmomo.co.kr/2026/02/2026-olympics-womens-snowboarding-day.html) <br/>
-[2026/02/13 - Cha Jun-hwan, 6th Place in Milan Winter Olympics Short Track... Medal Challenge Continues](https://ai.trend.dmomo.co.kr/2026/02/cha-jun-hwan-6th-place-in-milan-winter.html) <br/>
-[2026/02/12 - Windows Notepad Remote Code Execution Vulnerability CVE-2026-20841: Is Your PC Safe?](https://ai.trend.dmomo.co.kr/2026/02/windows-notepad-remote-code-execution.html) <br/>
+[2026/02/14 - Kazakhstan's First Gold Medal! Unsung Skater Causes the Biggest Upset in Olympic History](https://ai.trend.dmomo.co.kr/2026/02/kazakhstans-first-gold-medal-unsung.html) <br/>
+[2026/02/14 - 2026 Milan Winter Olympics Ski Jumping Large Hill Final Clash on February 14](https://ai.trend.dmomo.co.kr/2026/02/2026-milan-winter-olympics-ski-jumping.html) <br/>
+[2026/02/14 - Five Key Innovations in AI Coding Automation from OpenAI Codex-1 to GPT-5.3](https://ai.trend.dmomo.co.kr/2026/02/five-key-innovations-in-ai-coding.html) <br/>
+[2026/02/14 - How Bluetooth 6.0/6.1 Innovations Are Transforming the IoT World: What’s Changing?](https://ai.trend.dmomo.co.kr/2026/02/how-bluetooth-6061-innovations-are.html) <br/>
+[2026/02/14 - 7 Key Features of the Latest GPT-5.3-Codex Cloud Agent Platform in 2026](https://ai.trend.dmomo.co.kr/2026/02/7-key-features-of-latest-gpt-53-codex.html) <br/>
+[2026/02/14 - 2026 Winter Olympics: Malinin Makes Figure Skating History with Quad Axel](https://ai.trend.dmomo.co.kr/2026/02/2026-winter-olympics-malinin-makes.html) <br/>
