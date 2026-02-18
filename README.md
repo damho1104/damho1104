@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/17 - [뉴스] ‘대부’·‘지옥의 묵시록’ 배우 로버트 듀발 별세…향년 95세](https://blog.ai.dmomo.co.kr/news/20258) <br/>
-[2026/02/17 - [뉴스] IT기업 판교 밀집 역효과?…너도나도 본사만큼 임금 올려달라](https://blog.ai.dmomo.co.kr/news/20255) <br/>
-[2026/02/17 - [뉴스] 박정민·박강현 그리고 박찬양…박수 쏟아진 새 얼굴의 파이](https://blog.ai.dmomo.co.kr/news/20252) <br/>
-[2026/02/16 - [뉴스] 젠슨 황, 예기치 못한 사정 뭐길래…인도 AI 임팩트 서밋 최종 불참](https://blog.ai.dmomo.co.kr/news/20249) <br/>
-[2026/02/16 - 마야 호크, 뮤지션 크리스천 리 헛슨과 발렌타인데이 결혼식 올려](https://blog.ai.dmomo.co.kr/trend/20246) <br/>
-[2026/02/16 - [뉴스] “실물자산토큰화 관건은 ‘속도’…K컬처가 기회될 것”](https://blog.ai.dmomo.co.kr/news/20243) <br/>
+[2026/02/18 - [뉴스] 트럼프, 일본 대미투자 첫 사업 발표…“에너지·발전·핵심광물 3개 사업”](https://blog.ai.dmomo.co.kr/news/20318) <br/>
+[2026/02/18 - [뉴스] 자연과의 공생, 오감의 미학…현대미술을 품은 살아있는 컬렉션](https://blog.ai.dmomo.co.kr/news/20315) <br/>
+[2026/02/17 - [뉴스] [속보] “이란, 해군 훈련으로 호르무즈 해협 수시간 폐쇄”](https://blog.ai.dmomo.co.kr/news/20312) <br/>
+[2026/02/17 - [뉴스] 아침엔 쌀쌀, 낮엔 포근…연휴 마지막 날도 맑은 하늘](https://blog.ai.dmomo.co.kr/news/20309) <br/>
+[2026/02/17 - [뉴스] 글로벌 제약사 원형 RNA 베팅…알지노믹스는 자가원형화 특허로 참전](https://blog.ai.dmomo.co.kr/news/20306) <br/>
+[2026/02/17 - 2026년 음력 새해는 언제? 불의 말띠 해가 가져올 15일간의 대축제](https://blog.ai.dmomo.co.kr/trend/20303) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/02/17 - When is the Lunar New Year 2026? A 15-Day Grand Festival of the Fire Horse Year](https://ai.trend.dmomo.co.kr/2026/02/when-is-lunar-new-year-2026-15-day.html) <br/>
+[2026/02/17 - Girona vs Barcelona: The Ultimate Guide to the Catalonia Derby Analysis](https://ai.trend.dmomo.co.kr/2026/02/girona-vs-barcelona-ultimate-guide-to.html) <br/>
+[2026/02/17 - 2026 Software Infrastructure Innovations and Trends in AI & Edge Computing](https://ai.trend.dmomo.co.kr/2026/02/2026-software-infrastructure.html) <br/>
+[2026/02/17 - The Secret Behind Lunar New Year Surviving 2000 Years: Our Holiday Preserved Even During the Japanese Occupation](https://ai.trend.dmomo.co.kr/2026/02/the-secret-behind-lunar-new-year.html) <br/>
+[2026/02/17 - Legendary Filmmaker Robert Duvall Passes Away at 95... Renowned Actor from 'The Godfather' and 'Apocalypse Now'](https://ai.trend.dmomo.co.kr/2026/02/legendary-filmmaker-robert-duvall.html) <br/>
 [2026/02/16 - Maya Hawke Marries Musician Christian Lee Hutson on Valentine's Day](https://ai.trend.dmomo.co.kr/2026/02/maya-hawke-marries-musician-christian.html) <br/>
-[2026/02/16 - Truth Behind Choi Jin-sil's Daughter Choi Jun-hee's Rumored May Marriage to Her 11-Year-Older Boyfriend?](https://ai.trend.dmomo.co.kr/2026/02/truth-behind-choi-jin-sils-daughter.html) <br/>
-[2026/02/16 - MLOps Innovations in 2026: 7 Secrets to Driving Automation and Growth with Agentic AI Integration](https://ai.trend.dmomo.co.kr/2026/02/mlops-innovations-in-2026-7-secrets-to.html) <br/>
-[2026/02/16 - 2026 Milan Winter Olympics: What to Expect from the US Alpine Ski Team's Medal Chances?](https://ai.trend.dmomo.co.kr/2026/02/2026-milan-winter-olympics-what-to.html) <br/>
-[2026/02/16 - Bae Jun-ho's Season 2nd Goal Not Enough as Stoke Falls to Fulham 1-2 in FA Cup Exit](https://ai.trend.dmomo.co.kr/2026/02/bae-jun-hos-season-2nd-goal-not-enough.html) <br/>
-[2026/02/15 - 2026 Milan-Cortina Winter Olympics: Alpine Skiing Status and America's Medal Prospects](https://ai.trend.dmomo.co.kr/2026/02/2026-milan-cortina-winter-olympics.html) <br/>
