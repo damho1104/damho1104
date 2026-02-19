@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/18 - [뉴스] 트럼프, 일본 대미투자 첫 사업 발표…“에너지·발전·핵심광물 3개 사업”](https://blog.ai.dmomo.co.kr/news/20318) <br/>
-[2026/02/18 - [뉴스] 자연과의 공생, 오감의 미학…현대미술을 품은 살아있는 컬렉션](https://blog.ai.dmomo.co.kr/news/20315) <br/>
-[2026/02/17 - [뉴스] [속보] “이란, 해군 훈련으로 호르무즈 해협 수시간 폐쇄”](https://blog.ai.dmomo.co.kr/news/20312) <br/>
-[2026/02/17 - [뉴스] 아침엔 쌀쌀, 낮엔 포근…연휴 마지막 날도 맑은 하늘](https://blog.ai.dmomo.co.kr/news/20309) <br/>
-[2026/02/17 - [뉴스] 글로벌 제약사 원형 RNA 베팅…알지노믹스는 자가원형화 특허로 참전](https://blog.ai.dmomo.co.kr/news/20306) <br/>
-[2026/02/17 - 2026년 음력 새해는 언제? 불의 말띠 해가 가져올 15일간의 대축제](https://blog.ai.dmomo.co.kr/trend/20303) <br/>
+[2026/02/19 - [뉴스] “너희 엄마, 어때?”…노출심한 비키니女, 사원 출입 제지 당하자 한 말](https://blog.ai.dmomo.co.kr/news/20390) <br/>
+[2026/02/19 - [뉴스] 韓, 페로브스카이트 양산의 벽 넘었다…中 추격 봉쇄](https://blog.ai.dmomo.co.kr/news/20387) <br/>
+[2026/02/19 - [뉴스] BTS 온다 하니 검색량 2375% 폭등…외국인 관광객 몰려오나](https://blog.ai.dmomo.co.kr/news/20384) <br/>
+[2026/02/19 - [뉴스] 다카이치 내각 2.0 시동 …”헌법 개정안 신속히 발의할 것”](https://blog.ai.dmomo.co.kr/news/20381) <br/>
+[2026/02/18 - [뉴스] 전임 대통령 탄핵 4개월만에 또 탄핵…페루 의회, 또 쫓아냈다는데](https://blog.ai.dmomo.co.kr/news/20378) <br/>
+[2026/02/18 - [뉴스] 임성근 셰프, 전과 논란 정면 돌파…유튜브 활동 재개](https://blog.ai.dmomo.co.kr/news/20375) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/02/17 - When is the Lunar New Year 2026? A 15-Day Grand Festival of the Fire Horse Year](https://ai.trend.dmomo.co.kr/2026/02/when-is-lunar-new-year-2026-15-day.html) <br/>
-[2026/02/17 - Girona vs Barcelona: The Ultimate Guide to the Catalonia Derby Analysis](https://ai.trend.dmomo.co.kr/2026/02/girona-vs-barcelona-ultimate-guide-to.html) <br/>
-[2026/02/17 - 2026 Software Infrastructure Innovations and Trends in AI & Edge Computing](https://ai.trend.dmomo.co.kr/2026/02/2026-software-infrastructure.html) <br/>
-[2026/02/17 - The Secret Behind Lunar New Year Surviving 2000 Years: Our Holiday Preserved Even During the Japanese Occupation](https://ai.trend.dmomo.co.kr/2026/02/the-secret-behind-lunar-new-year.html) <br/>
-[2026/02/17 - Legendary Filmmaker Robert Duvall Passes Away at 95... Renowned Actor from 'The Godfather' and 'Apocalypse Now'](https://ai.trend.dmomo.co.kr/2026/02/legendary-filmmaker-robert-duvall.html) <br/>
-[2026/02/16 - Maya Hawke Marries Musician Christian Lee Hutson on Valentine's Day](https://ai.trend.dmomo.co.kr/2026/02/maya-hawke-marries-musician-christian.html) <br/>
+[2026/02/18 - YouTube's Major Outage Recovery Completed: The Full Story Behind Over 30,000 Users Unable to Access the Platform](https://ai.trend.dmomo.co.kr/2026/02/youtubes-major-outage-recovery.html) <br/>
+[2026/02/18 - YouTube Global Outage: 320,000 Reports Due to Recommendation System Failure in One Hour](https://ai.trend.dmomo.co.kr/2026/02/youtube-global-outage-320000-reports.html) <br/>
+[2026/02/18 - Schedule for the 2026 Winter Olympics Snowboard Slopestyle Finals Moved Up by One Hour](https://ai.trend.dmomo.co.kr/2026/02/schedule-for-2026-winter-olympics.html) <br/>
+[2026/02/18 - Blockchain Revolution to Watch in 2026: The Future of Web3 Finance and On-Chain Assets](https://ai.trend.dmomo.co.kr/2026/02/blockchain-revolution-to-watch-in-2026.html) <br/>
+[2026/02/18 - Jesse Jackson: The Immortal Legacy of a Giant in the American Civil Rights Movement](https://ai.trend.dmomo.co.kr/2026/02/jesse-jackson-immortal-legacy-of-giant.html) <br/>
+[2026/02/18 - PSG's Comeback from 0-2 to 3-2 Victory Against AS Monaco! A Strong Signal for Champions League Round of 16 Qualification](https://ai.trend.dmomo.co.kr/2026/02/psgs-comeback-from-0-2-to-3-2-victory.html) <br/>
