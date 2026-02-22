@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/21 - [뉴스] 취임 직후 ‘상호관세’ 밀어붙인 트럼프…위법 판결에 타격 불가피](https://blog.ai.dmomo.co.kr/news/20534) <br/>
-[2026/02/21 - [뉴스] 들어오면 죽는다 전세계 놀래킨 충격 협박…진실 파보니](https://blog.ai.dmomo.co.kr/news/20531) <br/>
-[2026/02/21 - [뉴스] 트럼프, 대법원 상호관세 위법판결에 “수치…대체수단 염두”](https://blog.ai.dmomo.co.kr/news/20528) <br/>
-[2026/02/20 - [뉴스] [속보] 미 작년 12월 PCE물가, 전년보다 2.9%↑…전망 상회](https://blog.ai.dmomo.co.kr/news/20525) <br/>
-[2026/02/20 - [뉴스] 40억 자산 전원주 두 아들, 인감도장 왜 이렇게 달래](https://blog.ai.dmomo.co.kr/news/20522) <br/>
-[2026/02/20 - [뉴스] 삼성에 칭찬 좀 필요해요…사막서 10년, 멀쩡한 삼성폰](https://blog.ai.dmomo.co.kr/news/20519) <br/>
+[2026/02/22 - [뉴스] 트럼프, 글로벌 관세 10→15%로 인상… “몇달 내 새 관세 발표”](https://blog.ai.dmomo.co.kr/news/20588) <br/>
+[2026/02/21 - [뉴스] 미국인도 ‘트럼프 관세’에 싸늘…대법 판결 전 조사서 64% “지지 안해”](https://blog.ai.dmomo.co.kr/news/20585) <br/>
+[2026/02/21 - [뉴스] 당연히 같이 가야죠…반려동물 비행기 동반탑승 확 늘었다](https://blog.ai.dmomo.co.kr/news/20582) <br/>
+[2026/02/21 - 미국 동북부 대형 눈폭풍 경보: 뉴욕·보스턴 최대 45cm 적설 예상](https://blog.ai.dmomo.co.kr/trend/20579) <br/>
+[2026/02/21 - [뉴스] 내 퇴직연금은 내 손으로…6년새 DB 비중 51→15% 뚝](https://blog.ai.dmomo.co.kr/news/20576) <br/>
+[2026/02/21 - [뉴스] 빌보드 1위 휩쓸었는데…박효신은 못 따라해 알고 보니](https://blog.ai.dmomo.co.kr/news/20573) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/02/20 - Everything about Eric Dane: The Career and Recent Updates of the Grey's Anatomy Star](https://ai.trend.dmomo.co.kr/2026/02/everything-about-eric-dane-career-and.html) <br/>
-[2026/02/20 - Google Gemini 3.1 Pro Unveiled: A Multimodal AI Breakthrough with Twice the Performance](https://ai.trend.dmomo.co.kr/2026/02/google-gemini-31-pro-unveiled.html) <br/>
-[2026/02/20 - 2026 Milan Winter Olympics Ice Hockey: Canada vs USA Gold Medal Showdown Imminent?](https://ai.trend.dmomo.co.kr/2026/02/2026-milan-winter-olympics-ice-hockey.html) <br/>
-[2026/02/20 - Analyzing the Feasibility of AGI by 2026 and 5 Key Issues Shaping the Future of AI](https://ai.trend.dmomo.co.kr/2026/02/analyzing-feasibility-of-agi-by-2026.html) <br/>
-[2026/02/20 - 2026 Milan Winter Olympics Women's Figure Skating Singles: Who Will Take the Gold? Complete Analysis of Free Skating](https://ai.trend.dmomo.co.kr/2026/02/2026-milan-winter-olympics-womens.html) <br/>
-[2026/02/20 - Yoon Seok-yeol's Life Imprisonment for Rebellion: The Truth Behind the Historic Ruling by Judge Ji Gwi-yeon](https://ai.trend.dmomo.co.kr/2026/02/yoon-seok-yeols-life-imprisonment-for.html) <br/>
+[2026/02/21 - Northeast US Major Snowstorm Warning: Up to 45cm of Snow Expected in New York and Boston](https://ai.trend.dmomo.co.kr/2026/02/northeast-us-major-snowstorm-warning-up.html) <br/>
+[2026/02/21 - Reasons and Solutions for Inaccessible Information on Puebla vs América Match](https://ai.trend.dmomo.co.kr/2026/02/reasons-and-solutions-for-inaccessible.html) <br/>
+[2026/02/21 - Kimi K2.5 Multimodal AI Revolution: The Secret Behind the Next-Gen 15 Trillion Token Agent](https://ai.trend.dmomo.co.kr/2026/02/kimi-k25-multimodal-ai-revolution.html) <br/>
+[2026/02/21 - 5 Key Innovations of Vibe Coding: Unlocking AI-Powered Automated Code Generation with Natural Language](https://ai.trend.dmomo.co.kr/2026/02/5-key-innovations-of-vibe-coding.html) <br/>
+[2026/02/21 - Lee Seung-hoon Becomes the First Korean to Reach Olympic Freestyle Ski Halfpipe Final](https://ai.trend.dmomo.co.kr/2026/02/lee-seung-hoon-becomes-first-korean-to.html) <br/>
+[2026/02/21 - Grey's Anatomy Star Eric Dane Passes Away at 53 After Battling ALS](https://ai.trend.dmomo.co.kr/2026/02/greys-anatomy-star-eric-dane-passes.html) <br/>
