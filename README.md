@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/22 - [뉴스] 트럼프, 글로벌 관세 10→15%로 인상… “몇달 내 새 관세 발표”](https://blog.ai.dmomo.co.kr/news/20588) <br/>
-[2026/02/21 - [뉴스] 미국인도 ‘트럼프 관세’에 싸늘…대법 판결 전 조사서 64% “지지 안해”](https://blog.ai.dmomo.co.kr/news/20585) <br/>
-[2026/02/21 - [뉴스] 당연히 같이 가야죠…반려동물 비행기 동반탑승 확 늘었다](https://blog.ai.dmomo.co.kr/news/20582) <br/>
-[2026/02/21 - 미국 동북부 대형 눈폭풍 경보: 뉴욕·보스턴 최대 45cm 적설 예상](https://blog.ai.dmomo.co.kr/trend/20579) <br/>
-[2026/02/21 - [뉴스] 내 퇴직연금은 내 손으로…6년새 DB 비중 51→15% 뚝](https://blog.ai.dmomo.co.kr/news/20576) <br/>
-[2026/02/21 - [뉴스] 빌보드 1위 휩쓸었는데…박효신은 못 따라해 알고 보니](https://blog.ai.dmomo.co.kr/news/20573) <br/>
+[2026/02/23 - [뉴스] “국민 존엄과 자존심 문제”…美, 우라늄 농축 중단 요구에 이란의 입장](https://blog.ai.dmomo.co.kr/news/20654) <br/>
+[2026/02/23 - [뉴스] 美당국 “마러라고 불법침입 무장한 20대 男 사살”…트럼프, 워싱턴 체류](https://blog.ai.dmomo.co.kr/news/20651) <br/>
+[2026/02/22 - [뉴스] “사고 안 나는게 이상”…1만명 몰린 ‘日 알몸’ 축제서 의식불명 속출](https://blog.ai.dmomo.co.kr/news/20648) <br/>
+[2026/02/22 - [뉴스] 어느새 활짝 핀 매화…성큼 찾아온 봄](https://blog.ai.dmomo.co.kr/news/20645) <br/>
+[2026/02/22 - Dell RecoverPoint 치명적 하드코딩 자격증명 취약점, 6.0.3.1 패치 필수 이유는?](https://blog.ai.dmomo.co.kr/tech/20642) <br/>
+[2026/02/22 - [뉴스] 이준익·이병헌도 뛰어 들었다…뭉칫돈 몰리는 신흥 대세 정체](https://blog.ai.dmomo.co.kr/news/20639) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/02/21 - Northeast US Major Snowstorm Warning: Up to 45cm of Snow Expected in New York and Boston](https://ai.trend.dmomo.co.kr/2026/02/northeast-us-major-snowstorm-warning-up.html) <br/>
-[2026/02/21 - Reasons and Solutions for Inaccessible Information on Puebla vs América Match](https://ai.trend.dmomo.co.kr/2026/02/reasons-and-solutions-for-inaccessible.html) <br/>
-[2026/02/21 - Kimi K2.5 Multimodal AI Revolution: The Secret Behind the Next-Gen 15 Trillion Token Agent](https://ai.trend.dmomo.co.kr/2026/02/kimi-k25-multimodal-ai-revolution.html) <br/>
-[2026/02/21 - 5 Key Innovations of Vibe Coding: Unlocking AI-Powered Automated Code Generation with Natural Language](https://ai.trend.dmomo.co.kr/2026/02/5-key-innovations-of-vibe-coding.html) <br/>
-[2026/02/21 - Lee Seung-hoon Becomes the First Korean to Reach Olympic Freestyle Ski Halfpipe Final](https://ai.trend.dmomo.co.kr/2026/02/lee-seung-hoon-becomes-first-korean-to.html) <br/>
-[2026/02/21 - Grey's Anatomy Star Eric Dane Passes Away at 53 After Battling ALS](https://ai.trend.dmomo.co.kr/2026/02/greys-anatomy-star-eric-dane-passes.html) <br/>
+[2026/02/22 - Critical Hardcoded Credential Vulnerability in Dell RecoverPoint: Why the 6.0.3.1 Patch Is Essential](https://ai.trend.dmomo.co.kr/2026/02/critical-hardcoded-credential.html) <br/>
+[2026/02/22 - The Shocking Message of NFL Star Rondale Moore's Tragic Death](https://ai.trend.dmomo.co.kr/2026/02/the-shocking-message-of-nfl-star.html) <br/>
+[2026/02/22 - Son Heung-min vs Messi: Major Clash Set for 2026 MLS Opening Match! In-Depth Analysis of LA FC vs Inter Miami](https://ai.trend.dmomo.co.kr/2026/02/son-heung-min-vs-messi-major-clash-set.html) <br/>
+[2026/02/22 - Edge AI Innovation in 2026! The Secret to Boosting Both Performance and Security with Distributed Inference](https://ai.trend.dmomo.co.kr/2026/02/edge-ai-innovation-in-2026-secret-to.html) <br/>
+[2026/02/22 - Lee Kang-in's Return from Injury with Corner Kick Assist! PSG Retakes Ligue 1 Lead with 3-0 Win Over Metz](https://ai.trend.dmomo.co.kr/2026/02/lee-kang-ins-return-from-injury-with.html) <br/>
+[2026/02/22 - 2026 Milan Winter Olympics: Italy Dominates Ski Cross with Gold and Silver!](https://ai.trend.dmomo.co.kr/2026/02/2026-milan-winter-olympics-italy.html) <br/>
