@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/23 - [뉴스] “국민 존엄과 자존심 문제”…美, 우라늄 농축 중단 요구에 이란의 입장](https://blog.ai.dmomo.co.kr/news/20654) <br/>
-[2026/02/23 - [뉴스] 美당국 “마러라고 불법침입 무장한 20대 男 사살”…트럼프, 워싱턴 체류](https://blog.ai.dmomo.co.kr/news/20651) <br/>
-[2026/02/22 - [뉴스] “사고 안 나는게 이상”…1만명 몰린 ‘日 알몸’ 축제서 의식불명 속출](https://blog.ai.dmomo.co.kr/news/20648) <br/>
-[2026/02/22 - [뉴스] 어느새 활짝 핀 매화…성큼 찾아온 봄](https://blog.ai.dmomo.co.kr/news/20645) <br/>
-[2026/02/22 - Dell RecoverPoint 치명적 하드코딩 자격증명 취약점, 6.0.3.1 패치 필수 이유는?](https://blog.ai.dmomo.co.kr/tech/20642) <br/>
-[2026/02/22 - [뉴스] 이준익·이병헌도 뛰어 들었다…뭉칫돈 몰리는 신흥 대세 정체](https://blog.ai.dmomo.co.kr/news/20639) <br/>
+[2026/02/24 - [뉴스] “결정권 자는 나야”…‘장군들 이란 공격 반대’ 보도에 발끈한 트럼프](https://blog.ai.dmomo.co.kr/news/20711) <br/>
+[2026/02/24 - [뉴스] 눈·비 펑펑, 우산 챙기고 빙판길 조심해야](https://blog.ai.dmomo.co.kr/news/20708) <br/>
+[2026/02/23 - [뉴스] 재산이 무려 ‘12해2762경원’…세계 최고 부자, 알고 보니 카페 실수](https://blog.ai.dmomo.co.kr/news/20705) <br/>
+[2026/02/23 - [뉴스] 전현무, 순직 경찰관 사인 비하…예를 다하지 못해 진심으로 죄송](https://blog.ai.dmomo.co.kr/news/20702) <br/>
+[2026/02/23 - [뉴스] 코스피 불장 놓친 개미들…코스닥으로 진격](https://blog.ai.dmomo.co.kr/news/20699) <br/>
+[2026/02/23 - [뉴스] 몸값-체력 괴리…매출·이익 증가율은 10% 안팎](https://blog.ai.dmomo.co.kr/news/20696) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/02/23 - Serverless Innovation 2026: Cutting Cold Start Times by 80% and the Latest Optimization Techniques](https://ai.trend.dmomo.co.kr/2026/02/serverless-innovation-2026-cutting-cold.html) <br/>
+[2026/02/23 - Tottenham Suffers a 1-4 Defeat in North London Derby: A Nightmare Debut for Tudor Amidst 12 Players Absent](https://ai.trend.dmomo.co.kr/2026/02/tottenham-suffers-1-4-defeat-in-north.html) <br/>
+[2026/02/23 - The Death of the World's Worst Drug Kingpin El Mencho: Will it Mark a Turning Point in the U.S. Fentanyl Crisis?](https://ai.trend.dmomo.co.kr/2026/02/the-death-of-worlds-worst-drug-kingpin.html) <br/>
 [2026/02/22 - Critical Hardcoded Credential Vulnerability in Dell RecoverPoint: Why the 6.0.3.1 Patch Is Essential](https://ai.trend.dmomo.co.kr/2026/02/critical-hardcoded-credential.html) <br/>
 [2026/02/22 - The Shocking Message of NFL Star Rondale Moore's Tragic Death](https://ai.trend.dmomo.co.kr/2026/02/the-shocking-message-of-nfl-star.html) <br/>
 [2026/02/22 - Son Heung-min vs Messi: Major Clash Set for 2026 MLS Opening Match! In-Depth Analysis of LA FC vs Inter Miami](https://ai.trend.dmomo.co.kr/2026/02/son-heung-min-vs-messi-major-clash-set.html) <br/>
-[2026/02/22 - Edge AI Innovation in 2026! The Secret to Boosting Both Performance and Security with Distributed Inference](https://ai.trend.dmomo.co.kr/2026/02/edge-ai-innovation-in-2026-secret-to.html) <br/>
-[2026/02/22 - Lee Kang-in's Return from Injury with Corner Kick Assist! PSG Retakes Ligue 1 Lead with 3-0 Win Over Metz](https://ai.trend.dmomo.co.kr/2026/02/lee-kang-ins-return-from-injury-with.html) <br/>
-[2026/02/22 - 2026 Milan Winter Olympics: Italy Dominates Ski Cross with Gold and Silver!](https://ai.trend.dmomo.co.kr/2026/02/2026-milan-winter-olympics-italy.html) <br/>
