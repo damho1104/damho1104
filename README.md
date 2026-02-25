@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/24 - [뉴스] “결정권 자는 나야”…‘장군들 이란 공격 반대’ 보도에 발끈한 트럼프](https://blog.ai.dmomo.co.kr/news/20711) <br/>
-[2026/02/24 - [뉴스] 눈·비 펑펑, 우산 챙기고 빙판길 조심해야](https://blog.ai.dmomo.co.kr/news/20708) <br/>
-[2026/02/23 - [뉴스] 재산이 무려 ‘12해2762경원’…세계 최고 부자, 알고 보니 카페 실수](https://blog.ai.dmomo.co.kr/news/20705) <br/>
-[2026/02/23 - [뉴스] 전현무, 순직 경찰관 사인 비하…예를 다하지 못해 진심으로 죄송](https://blog.ai.dmomo.co.kr/news/20702) <br/>
-[2026/02/23 - [뉴스] 코스피 불장 놓친 개미들…코스닥으로 진격](https://blog.ai.dmomo.co.kr/news/20699) <br/>
-[2026/02/23 - [뉴스] 몸값-체력 괴리…매출·이익 증가율은 10% 안팎](https://blog.ai.dmomo.co.kr/news/20696) <br/>
+[2026/02/25 - 할리우드 전설 로버트 캐러다인, 양극성 장애 투병 끝에 71세로 별세](https://blog.ai.dmomo.co.kr/trend/20792) <br/>
+[2026/02/25 - [뉴스] “기적 믿어”…미국 유명 앵커, 실종 모친에 14억 현상금 걸었다](https://blog.ai.dmomo.co.kr/news/20787) <br/>
+[2026/02/25 - [뉴스] 다음 엔비디아는 여기 AI에이전트 열풍에 CPU도 동난다](https://blog.ai.dmomo.co.kr/news/20784) <br/>
+[2026/02/25 - [뉴스] 김규리, 이하늘 곱창집서 춤춘 후…댓글 조작단에 강경대응](https://blog.ai.dmomo.co.kr/news/20781) <br/>
+[2026/02/24 - [뉴스] “탄약 부족한데 전쟁이요?” 합참의장 경고에도…트럼프 “내가 결정”](https://blog.ai.dmomo.co.kr/news/20778) <br/>
+[2026/02/24 - [뉴스] 10.7조 가덕도신공항 공사, 대우건설 컨소와 수의계약 추진](https://blog.ai.dmomo.co.kr/news/20775) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/02/23 - Serverless Innovation 2026: Cutting Cold Start Times by 80% and the Latest Optimization Techniques](https://ai.trend.dmomo.co.kr/2026/02/serverless-innovation-2026-cutting-cold.html) <br/>
-[2026/02/23 - Tottenham Suffers a 1-4 Defeat in North London Derby: A Nightmare Debut for Tudor Amidst 12 Players Absent](https://ai.trend.dmomo.co.kr/2026/02/tottenham-suffers-1-4-defeat-in-north.html) <br/>
-[2026/02/23 - The Death of the World's Worst Drug Kingpin El Mencho: Will it Mark a Turning Point in the U.S. Fentanyl Crisis?](https://ai.trend.dmomo.co.kr/2026/02/the-death-of-worlds-worst-drug-kingpin.html) <br/>
-[2026/02/22 - Critical Hardcoded Credential Vulnerability in Dell RecoverPoint: Why the 6.0.3.1 Patch Is Essential](https://ai.trend.dmomo.co.kr/2026/02/critical-hardcoded-credential.html) <br/>
-[2026/02/22 - The Shocking Message of NFL Star Rondale Moore's Tragic Death](https://ai.trend.dmomo.co.kr/2026/02/the-shocking-message-of-nfl-star.html) <br/>
-[2026/02/22 - Son Heung-min vs Messi: Major Clash Set for 2026 MLS Opening Match! In-Depth Analysis of LA FC vs Inter Miami](https://ai.trend.dmomo.co.kr/2026/02/son-heung-min-vs-messi-major-clash-set.html) <br/>
+[2026/02/24 - Hollywood Actor Robert Carradine Passes Away at 71 After Battling Bipolar Disorder](https://ai.trend.dmomo.co.kr/2026/02/hollywood-actor-robert-carradine-passes.html) <br/>
+[2026/02/24 - 23-Year-Old Rapper Luci4 Passes Away: Empty Wallet and Family's Suspicions... What Happened?](https://ai.trend.dmomo.co.kr/2026/02/23-year-old-rapper-luci4-passes-away.html) <br/>
+[2026/02/24 - Sesko's Winning Goal! Man Utd Overcomes Everton 1-0, Extending Unbeaten Streak to 6 Matches](https://ai.trend.dmomo.co.kr/2026/02/seskos-winning-goal-man-utd-overcomes.html) <br/>
+[2026/02/24 - The U.S. AI Technology Speech Hijacking Incident Involving 16 Million Conversations: A Comprehensive National Security Alert](https://ai.trend.dmomo.co.kr/2026/02/the-us-ai-technology-speech-hijacking.html) <br/>
+[2026/02/24 - MLOps Innovation in 2026: How MCP Boosts AI Model Reliability by 5x?](https://ai.trend.dmomo.co.kr/2026/02/mlops-innovation-in-2026-how-mcp-boosts.html) <br/>
+[2026/02/24 - Trump's 2026 State of the Union: Immigration and Trade Policies to be Announced Before Midterm Elections](https://ai.trend.dmomo.co.kr/2026/02/trumps-2026-state-of-union-immigration.html) <br/>
