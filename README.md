@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/25 - 할리우드 전설 로버트 캐러다인, 양극성 장애 투병 끝에 71세로 별세](https://blog.ai.dmomo.co.kr/trend/20792) <br/>
-[2026/02/25 - [뉴스] “기적 믿어”…미국 유명 앵커, 실종 모친에 14억 현상금 걸었다](https://blog.ai.dmomo.co.kr/news/20787) <br/>
-[2026/02/25 - [뉴스] 다음 엔비디아는 여기 AI에이전트 열풍에 CPU도 동난다](https://blog.ai.dmomo.co.kr/news/20784) <br/>
-[2026/02/25 - [뉴스] 김규리, 이하늘 곱창집서 춤춘 후…댓글 조작단에 강경대응](https://blog.ai.dmomo.co.kr/news/20781) <br/>
-[2026/02/24 - [뉴스] “탄약 부족한데 전쟁이요?” 합참의장 경고에도…트럼프 “내가 결정”](https://blog.ai.dmomo.co.kr/news/20778) <br/>
-[2026/02/24 - [뉴스] 10.7조 가덕도신공항 공사, 대우건설 컨소와 수의계약 추진](https://blog.ai.dmomo.co.kr/news/20775) <br/>
+[2026/02/26 - [뉴스] 탈원전 강행하고 中에 지나친 의존…獨, 제조업 고수하다 산업전환 실패](https://blog.ai.dmomo.co.kr/news/20862) <br/>
+[2026/02/26 - [뉴스] 인벤티지랩 히알루로니다제 넘는 SC 변경 플랫폼 확보](https://blog.ai.dmomo.co.kr/news/20859) <br/>
+[2026/02/26 - [뉴스] 배부름을 느끼지 못했다…허가윤, 폭식증 고백](https://blog.ai.dmomo.co.kr/news/20856) <br/>
+[2026/02/25 - [뉴스] “구독자한테 물량 다 떠넘기고 슈퍼카”…‘코인팔이’ 유튜버들 철퇴 맞는다](https://blog.ai.dmomo.co.kr/news/20851) <br/>
+[2026/02/25 - [뉴스] ‘185억’ 당첨 편의점 직원…그런데, 손님이 버린 복권이라면?](https://blog.ai.dmomo.co.kr/news/20850) <br/>
+[2026/02/25 - [뉴스] 그리어 USTR대표,일부국가 관세율 10%→15%이상 될 것](https://blog.ai.dmomo.co.kr/news/20849) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/02/25 - LAFC Dominates Inter Miami 3-0, Aiming for Champions Cup Round of 16 Advance](https://ai.trend.dmomo.co.kr/2026/02/lafc-dominates-inter-miami-3-0-aiming.html) <br/>
+[2026/02/25 - Comedian Martin Short's Daughter Katherine Passes Away Suddenly at Age 42](https://ai.trend.dmomo.co.kr/2026/02/comedian-martin-shorts-daughter.html) <br/>
+[2026/02/25 - Why Low-Code AI Integration in 2026 Will Accelerate Development and Cut Costs by Over 5 Times](https://ai.trend.dmomo.co.kr/2026/02/why-low-code-ai-integration-in-2026.html) <br/>
+[2026/02/25 - Newcastle Secures Round of 16 in Champions League with a Dominant 9-3 Victory Over Karabakh](https://ai.trend.dmomo.co.kr/2026/02/newcastle-secures-round-of-16-in.html) <br/>
+[2026/02/25 - Hollywood Legend Robert Carradine Passes Away at 71 After Battling Bipolar Disorder](https://ai.trend.dmomo.co.kr/2026/02/hollywood-legend-robert-carradine.html) <br/>
 [2026/02/24 - Hollywood Actor Robert Carradine Passes Away at 71 After Battling Bipolar Disorder](https://ai.trend.dmomo.co.kr/2026/02/hollywood-actor-robert-carradine-passes.html) <br/>
-[2026/02/24 - 23-Year-Old Rapper Luci4 Passes Away: Empty Wallet and Family's Suspicions... What Happened?](https://ai.trend.dmomo.co.kr/2026/02/23-year-old-rapper-luci4-passes-away.html) <br/>
-[2026/02/24 - Sesko's Winning Goal! Man Utd Overcomes Everton 1-0, Extending Unbeaten Streak to 6 Matches](https://ai.trend.dmomo.co.kr/2026/02/seskos-winning-goal-man-utd-overcomes.html) <br/>
-[2026/02/24 - The U.S. AI Technology Speech Hijacking Incident Involving 16 Million Conversations: A Comprehensive National Security Alert](https://ai.trend.dmomo.co.kr/2026/02/the-us-ai-technology-speech-hijacking.html) <br/>
-[2026/02/24 - MLOps Innovation in 2026: How MCP Boosts AI Model Reliability by 5x?](https://ai.trend.dmomo.co.kr/2026/02/mlops-innovation-in-2026-how-mcp-boosts.html) <br/>
-[2026/02/24 - Trump's 2026 State of the Union: Immigration and Trade Policies to be Announced Before Midterm Elections](https://ai.trend.dmomo.co.kr/2026/02/trumps-2026-state-of-union-immigration.html) <br/>
