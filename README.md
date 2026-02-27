@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/26 - [뉴스] 탈원전 강행하고 中에 지나친 의존…獨, 제조업 고수하다 산업전환 실패](https://blog.ai.dmomo.co.kr/news/20862) <br/>
-[2026/02/26 - [뉴스] 인벤티지랩 히알루로니다제 넘는 SC 변경 플랫폼 확보](https://blog.ai.dmomo.co.kr/news/20859) <br/>
-[2026/02/26 - [뉴스] 배부름을 느끼지 못했다…허가윤, 폭식증 고백](https://blog.ai.dmomo.co.kr/news/20856) <br/>
-[2026/02/25 - [뉴스] “구독자한테 물량 다 떠넘기고 슈퍼카”…‘코인팔이’ 유튜버들 철퇴 맞는다](https://blog.ai.dmomo.co.kr/news/20851) <br/>
-[2026/02/25 - [뉴스] ‘185억’ 당첨 편의점 직원…그런데, 손님이 버린 복권이라면?](https://blog.ai.dmomo.co.kr/news/20850) <br/>
-[2026/02/25 - [뉴스] 그리어 USTR대표,일부국가 관세율 10%→15%이상 될 것](https://blog.ai.dmomo.co.kr/news/20849) <br/>
+[2026/02/27 - [뉴스] “세번 만났다”…다보스포럼 수장까지 날린 ‘엡스타인 파일’, 브렌데 총재 사임](https://blog.ai.dmomo.co.kr/news/20952) <br/>
+[2026/02/27 - [뉴스] 롯데하이마트, 전국 매장·온라인몰서 갤S26 구매 혜택](https://blog.ai.dmomo.co.kr/news/20949) <br/>
+[2026/02/27 - [뉴스] 이부진 아들부터 신동엽 딸까지…서울대서 포착된 재계·연예계 자녀](https://blog.ai.dmomo.co.kr/news/20946) <br/>
+[2026/02/27 - [뉴스] 백악관 “트럼프, 김정은과 조건없는 대화에 열려있어”](https://blog.ai.dmomo.co.kr/news/20943) <br/>
+[2026/02/26 - [뉴스] 경기 중 축구공 맞고 쓰러진 갈매기…선수 CPR에 ‘벌떡’](https://blog.ai.dmomo.co.kr/news/20940) <br/>
+[2026/02/26 - [뉴스] 챗GPT와 면접 연습했죠”… 연세대 교수 부임하는 스타 첼리스트’ 문태국](https://blog.ai.dmomo.co.kr/news/20937) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/02/25 - LAFC Dominates Inter Miami 3-0, Aiming for Champions Cup Round of 16 Advance](https://ai.trend.dmomo.co.kr/2026/02/lafc-dominates-inter-miami-3-0-aiming.html) <br/>
-[2026/02/25 - Comedian Martin Short's Daughter Katherine Passes Away Suddenly at Age 42](https://ai.trend.dmomo.co.kr/2026/02/comedian-martin-shorts-daughter.html) <br/>
-[2026/02/25 - Why Low-Code AI Integration in 2026 Will Accelerate Development and Cut Costs by Over 5 Times](https://ai.trend.dmomo.co.kr/2026/02/why-low-code-ai-integration-in-2026.html) <br/>
-[2026/02/25 - Newcastle Secures Round of 16 in Champions League with a Dominant 9-3 Victory Over Karabakh](https://ai.trend.dmomo.co.kr/2026/02/newcastle-secures-round-of-16-in.html) <br/>
-[2026/02/25 - Hollywood Legend Robert Carradine Passes Away at 71 After Battling Bipolar Disorder](https://ai.trend.dmomo.co.kr/2026/02/hollywood-legend-robert-carradine.html) <br/>
-[2026/02/24 - Hollywood Actor Robert Carradine Passes Away at 71 After Battling Bipolar Disorder](https://ai.trend.dmomo.co.kr/2026/02/hollywood-actor-robert-carradine-passes.html) <br/>
+[2026/02/26 - Galaxy S26 Ultra Release Date Confirmed! Price in the 1,800,000 Won Range and 2nm Chipset Specs Summary](https://ai.trend.dmomo.co.kr/2026/02/galaxy-s26-ultra-release-date-confirmed.html) <br/>
+[2026/02/26 - Mary Cosby's 23-Year-Old Son Passes Away Unexpectedly, Shocking the American Entertainment Industry](https://ai.trend.dmomo.co.kr/2026/02/mary-cosbys-23-year-old-son-passes-away.html) <br/>
+[2026/02/26 - PSG Advances to UCL Round of 16 by Defeating Monaco! Achieving 14 Consecutive Seasons Record](https://ai.trend.dmomo.co.kr/2026/02/psg-advances-to-ucl-round-of-16-by.html) <br/>
+[2026/02/26 - Mastering Claude Code Remote Control: 7 Practical Ways to Remotely Manage Your Local Environment](https://ai.trend.dmomo.co.kr/2026/02/mastering-claude-code-remote-control-7.html) <br/>
+[2026/02/26 - RWA Real Asset Tokenization to Watch in 2026: Revolutionary Technology Driving Micro-Investments to Payments](https://ai.trend.dmomo.co.kr/2026/02/rwa-real-asset-tokenization-to-watch-in.html) <br/>
+[2026/02/26 - Real Madrid Advances to Champions League Round of 16 by Defeating Benfica! Valverde Shines with Two Assists](https://ai.trend.dmomo.co.kr/2026/02/real-madrid-advances-to-champions.html) <br/>
