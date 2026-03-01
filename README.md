@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/02/28 - [뉴스] “미국민, 이란 가지마”…미 국무, 이란 ‘부당구금지원국’ 지정](https://blog.ai.dmomo.co.kr/news/21024) <br/>
-[2026/02/28 - [뉴스] 결승 티켓은 한 장”…DK VS BNK 처음이자 마지막 승부’](https://blog.ai.dmomo.co.kr/news/21021) <br/>
-[2026/02/28 - [뉴스] 나들이 하기 좋은 주말…전국 낮 17도 포근](https://blog.ai.dmomo.co.kr/news/21018) <br/>
-[2026/02/27 - [뉴스] 美·이란 제네바 핵협상 종료 … 이란 “핵심 요소 대부분 합의”](https://blog.ai.dmomo.co.kr/news/21015) <br/>
-[2026/02/27 - [뉴스] 블로그 추천 맛집 안 믿어요…식당·숙소 찾을 때도 유튜브 본다](https://blog.ai.dmomo.co.kr/news/21012) <br/>
-[2026/02/27 - 이준석 vs 전한길, 부정선거 음모론 무제한 토론 전격 개최](https://blog.ai.dmomo.co.kr/trend/21009) <br/>
+[2026/03/01 - [뉴스] [속보] 트럼프 “하메네이 사망…정밀폭격 지속될 것”](https://blog.ai.dmomo.co.kr/news/21090) <br/>
+[2026/03/01 - [뉴스] 테슬라, 현대차 붙자 … 車전쟁까지 나서는 샤오미, 하이퍼카 내놨다](https://blog.ai.dmomo.co.kr/news/21087) <br/>
+[2026/03/01 - [뉴스] 로제, 英 브릿어워즈 인터내셔널 올해의 노래 수상](https://blog.ai.dmomo.co.kr/news/21084) <br/>
+[2026/03/01 - [뉴스] “하메네이 축출시 이슬람 혁명수비대가 권력공백 메울 가능성”](https://blog.ai.dmomo.co.kr/news/21081) <br/>
+[2026/02/28 - [뉴스] “월요일이 두렵다” 패닉셀 벌어지나 …이란 공습에 요동](https://blog.ai.dmomo.co.kr/news/21078) <br/>
+[2026/02/28 - [뉴스] 서울 몰빵 이대론 안된다…오키나와 키운 일본식 해법](https://blog.ai.dmomo.co.kr/news/21075) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/02/28 - Israel-U.S. Coalition Strikes Iranian IRGC Bases... Growing Concerns Over Nuclear Program Resurgence](https://ai.trend.dmomo.co.kr/2026/02/israel-us-coalition-strikes-iranian.html) <br/>
+[2026/02/28 - Iran: The Fall of the Theocratic Regime After 47 Years from the 1979 Revolution to the 2026 Crisis](https://ai.trend.dmomo.co.kr/2026/02/iran-fall-of-theocratic-regime-after-47.html) <br/>
+[2026/02/28 - 5 Essential Secrets to Automated RAG Technology Optimization with AutoRAG](https://ai.trend.dmomo.co.kr/2026/02/5-essential-secrets-to-automated-rag.html) <br/>
+[2026/02/28 - Legendary Neil Sedaka Passes Away at 86, 'Breaking Up Is Hard to Do' Forever](https://ai.trend.dmomo.co.kr/2026/02/legendary-neil-sedaka-passes-away-at-86.html) <br/>
+[2026/02/28 - Wolverhampton Overcomes Aston Villa 2-0! Shakes Off the Title of Premier League's Worst Team](https://ai.trend.dmomo.co.kr/2026/02/wolverhampton-overcomes-aston-villa-2-0.html) <br/>
 [2026/02/27 - Lee Jun-seok vs Jeon Han-gil, Unlimited Debate on Election Fraud Conspiracy Theory to be Held](https://ai.trend.dmomo.co.kr/2026/02/lee-jun-seok-vs-jeon-han-gil-unlimited.html) <br/>
-[2026/02/27 - Actor Lim Joo-hwan's Reported Work at Coupang Logistics Center Confirmed as True](https://ai.trend.dmomo.co.kr/2026/02/actor-lim-joo-hwans-reported-work-at.html) <br/>
-[2026/02/27 - Phoenix Suns Defeats Lakers 113-110 with O'Neal's Dramatic Three-Pointer](https://ai.trend.dmomo.co.kr/2026/02/phoenix-suns-defeats-lakers-113-110.html) <br/>
-[2026/02/27 - What Is an AirSnitch Attack? 5 Hidden Threats to Wireless Communication Security](https://ai.trend.dmomo.co.kr/2026/02/what-is-airsnitch-attack-5-hidden.html) <br/>
-[2026/02/27 - 7 Common Public Wi-Fi Security Risks and Essential Strategies to Prevent Hacking](https://ai.trend.dmomo.co.kr/2026/02/7-common-public-wi-fi-security-risks.html) <br/>
-[2026/02/27 - AI-Powered DevOps Innovation in 2026: 5 Key Changes Driven by Agent-Based AI Transforming the Development Pipeline](https://ai.trend.dmomo.co.kr/2026/02/ai-powered-devops-innovation-in-2026-5.html) <br/>
