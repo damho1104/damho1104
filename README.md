@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/03/01 - [뉴스] [속보] 트럼프 “하메네이 사망…정밀폭격 지속될 것”](https://blog.ai.dmomo.co.kr/news/21090) <br/>
-[2026/03/01 - [뉴스] 테슬라, 현대차 붙자 … 車전쟁까지 나서는 샤오미, 하이퍼카 내놨다](https://blog.ai.dmomo.co.kr/news/21087) <br/>
-[2026/03/01 - [뉴스] 로제, 英 브릿어워즈 인터내셔널 올해의 노래 수상](https://blog.ai.dmomo.co.kr/news/21084) <br/>
-[2026/03/01 - [뉴스] “하메네이 축출시 이슬람 혁명수비대가 권력공백 메울 가능성”](https://blog.ai.dmomo.co.kr/news/21081) <br/>
-[2026/02/28 - [뉴스] “월요일이 두렵다” 패닉셀 벌어지나 …이란 공습에 요동](https://blog.ai.dmomo.co.kr/news/21078) <br/>
-[2026/02/28 - [뉴스] 서울 몰빵 이대론 안된다…오키나와 키운 일본식 해법](https://blog.ai.dmomo.co.kr/news/21075) <br/>
+[2026/03/02 - [뉴스] 이란 목표물에 폭탄 성공적 투하…3조원짜리 폭격기 보낸 트럼프](https://blog.ai.dmomo.co.kr/news/21147) <br/>
+[2026/03/02 - [뉴스] 상반기 세계 최고 성능 AI 모델 나온다 … SK와 AI 전면전 나서는 LG](https://blog.ai.dmomo.co.kr/news/21144) <br/>
+[2026/03/02 - [뉴스] 무신사 뚫은 중국 화장품…한국시장 노리는 속내는](https://blog.ai.dmomo.co.kr/news/21141) <br/>
+[2026/03/02 - [뉴스] 트럼프 “이란 새 지도부, 대화 원해…나도 대화에 동의”](https://blog.ai.dmomo.co.kr/news/21138) <br/>
+[2026/03/01 - [뉴스] ‘이란 봉쇄’ 호르무즈해협서 선박 잇단 피격 침몰…해협 150척 선박 정박](https://blog.ai.dmomo.co.kr/news/21135) <br/>
+[2026/03/01 - 레이커스, 커리 없는 워리어스에 129-101 대승! 3연패 탈출 성공](https://blog.ai.dmomo.co.kr/trend/21132) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/03/01 - Lakers Achieve Impressive 129-101 Victory Over Warriors Without Curry: Break Free from Three-Game Losing Streak!](https://ai.trend.dmomo.co.kr/2026/03/lakers-achieve-impressive-129-101.html) <br/>
+[2026/03/01 - LAFC Son Heung-min Sparks Back-to-Back Red Cards Against Houston, Leading to Season Opening Two Wins](https://ai.trend.dmomo.co.kr/2026/02/lafc-son-heung-min-sparks-back-to-back.html) <br/>
+[2026/03/01 - 5 Key Ways Physical AI and Humanoid Robots Will Revolutionize Industry in 2026](https://ai.trend.dmomo.co.kr/2026/02/5-key-ways-physical-ai-and-humanoid.html) <br/>
+[2026/03/01 - 2026 US-Israel Airstrike on Iran: Is a Full-Scale War in the Middle East Beginning?](https://ai.trend.dmomo.co.kr/2026/02/2026-us-israel-airstrike-on-iran-is.html) <br/>
+[2026/03/01 - Iran's 70 Years of Turbulent History: From America's Embrace to War Threats](https://ai.trend.dmomo.co.kr/2026/02/irans-70-years-of-turbulent-history.html) <br/>
 [2026/02/28 - Israel-U.S. Coalition Strikes Iranian IRGC Bases... Growing Concerns Over Nuclear Program Resurgence](https://ai.trend.dmomo.co.kr/2026/02/israel-us-coalition-strikes-iranian.html) <br/>
-[2026/02/28 - Iran: The Fall of the Theocratic Regime After 47 Years from the 1979 Revolution to the 2026 Crisis](https://ai.trend.dmomo.co.kr/2026/02/iran-fall-of-theocratic-regime-after-47.html) <br/>
-[2026/02/28 - 5 Essential Secrets to Automated RAG Technology Optimization with AutoRAG](https://ai.trend.dmomo.co.kr/2026/02/5-essential-secrets-to-automated-rag.html) <br/>
-[2026/02/28 - Legendary Neil Sedaka Passes Away at 86, 'Breaking Up Is Hard to Do' Forever](https://ai.trend.dmomo.co.kr/2026/02/legendary-neil-sedaka-passes-away-at-86.html) <br/>
-[2026/02/28 - Wolverhampton Overcomes Aston Villa 2-0! Shakes Off the Title of Premier League's Worst Team](https://ai.trend.dmomo.co.kr/2026/02/wolverhampton-overcomes-aston-villa-2-0.html) <br/>
-[2026/02/27 - Lee Jun-seok vs Jeon Han-gil, Unlimited Debate on Election Fraud Conspiracy Theory to be Held](https://ai.trend.dmomo.co.kr/2026/02/lee-jun-seok-vs-jeon-han-gil-unlimited.html) <br/>
