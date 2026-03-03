@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/03/02 - [뉴스] 이란 목표물에 폭탄 성공적 투하…3조원짜리 폭격기 보낸 트럼프](https://blog.ai.dmomo.co.kr/news/21147) <br/>
-[2026/03/02 - [뉴스] 상반기 세계 최고 성능 AI 모델 나온다 … SK와 AI 전면전 나서는 LG](https://blog.ai.dmomo.co.kr/news/21144) <br/>
-[2026/03/02 - [뉴스] 무신사 뚫은 중국 화장품…한국시장 노리는 속내는](https://blog.ai.dmomo.co.kr/news/21141) <br/>
-[2026/03/02 - [뉴스] 트럼프 “이란 새 지도부, 대화 원해…나도 대화에 동의”](https://blog.ai.dmomo.co.kr/news/21138) <br/>
-[2026/03/01 - [뉴스] ‘이란 봉쇄’ 호르무즈해협서 선박 잇단 피격 침몰…해협 150척 선박 정박](https://blog.ai.dmomo.co.kr/news/21135) <br/>
-[2026/03/01 - 레이커스, 커리 없는 워리어스에 129-101 대승! 3연패 탈출 성공](https://blog.ai.dmomo.co.kr/trend/21132) <br/>
+[2026/03/03 - [뉴스] “나 아니었으면 이란은 이미 핵무기 확보”…오바마 비판한 트럼프, 왜?](https://blog.ai.dmomo.co.kr/news/21204) <br/>
+[2026/03/03 - [뉴스] 속도 혁신 재확인한 스페이스X 스타링크, 내년 중 5G 수준 속도 내겠다](https://blog.ai.dmomo.co.kr/news/21201) <br/>
+[2026/03/03 - [뉴스] 트럼프, 이란 작전 “4~5주 예상했지만 더 오래 할 능력 있어”](https://blog.ai.dmomo.co.kr/news/21198) <br/>
+[2026/03/02 - [뉴스] [속보] 美 “카타르·UAE·쿠웨이트·요르단·사우디가 방공포대 지원”](https://blog.ai.dmomo.co.kr/news/21195) <br/>
+[2026/03/02 - [뉴스] 김지수, 프라하서 깜짝 근황 알렸다…여행사 대표로 새 출발](https://blog.ai.dmomo.co.kr/news/21192) <br/>
+[2026/03/02 - [뉴스] 처음 만난 SKT-삼성전자 수장 … 정재헌 갤럭시 때문에 보호필름 회사 다 망하겠다](https://blog.ai.dmomo.co.kr/news/21189) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/03/02 - Austin Shooting: 3 Dead Amid Terrorism Links, FBI Launches Urgent Investigation](https://ai.trend.dmomo.co.kr/2026/03/austin-shooting-3-dead-amid-terrorism.html) <br/>
+[2026/03/02 - Physical AI Innovations to Watch in 2026: Future of Autonomous Driving and Robotics Technology](https://ai.trend.dmomo.co.kr/2026/03/physical-ai-innovations-to-watch-in.html) <br/>
+[2026/03/02 - Austin Shooting Terror: 3 Dead, 14 Injured, FBI Investigating Links to Iran](https://ai.trend.dmomo.co.kr/2026/03/austin-shooting-terror-3-dead-14.html) <br/>
+[2026/03/02 - Fulham Overcomes Tottenham 2-1... Spurs Stuck in a Winless Streak for 10 Matches](https://ai.trend.dmomo.co.kr/2026/03/fulham-overcomes-tottenham-2-1-spurs.html) <br/>
 [2026/03/01 - Lakers Achieve Impressive 129-101 Victory Over Warriors Without Curry: Break Free from Three-Game Losing Streak!](https://ai.trend.dmomo.co.kr/2026/03/lakers-achieve-impressive-129-101.html) <br/>
 [2026/03/01 - LAFC Son Heung-min Sparks Back-to-Back Red Cards Against Houston, Leading to Season Opening Two Wins](https://ai.trend.dmomo.co.kr/2026/02/lafc-son-heung-min-sparks-back-to-back.html) <br/>
-[2026/03/01 - 5 Key Ways Physical AI and Humanoid Robots Will Revolutionize Industry in 2026](https://ai.trend.dmomo.co.kr/2026/02/5-key-ways-physical-ai-and-humanoid.html) <br/>
-[2026/03/01 - 2026 US-Israel Airstrike on Iran: Is a Full-Scale War in the Middle East Beginning?](https://ai.trend.dmomo.co.kr/2026/02/2026-us-israel-airstrike-on-iran-is.html) <br/>
-[2026/03/01 - Iran's 70 Years of Turbulent History: From America's Embrace to War Threats](https://ai.trend.dmomo.co.kr/2026/02/irans-70-years-of-turbulent-history.html) <br/>
-[2026/02/28 - Israel-U.S. Coalition Strikes Iranian IRGC Bases... Growing Concerns Over Nuclear Program Resurgence](https://ai.trend.dmomo.co.kr/2026/02/israel-us-coalition-strikes-iranian.html) <br/>
