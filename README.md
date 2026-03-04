@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/03/03 - [뉴스] “나 아니었으면 이란은 이미 핵무기 확보”…오바마 비판한 트럼프, 왜?](https://blog.ai.dmomo.co.kr/news/21204) <br/>
-[2026/03/03 - [뉴스] 속도 혁신 재확인한 스페이스X 스타링크, 내년 중 5G 수준 속도 내겠다](https://blog.ai.dmomo.co.kr/news/21201) <br/>
-[2026/03/03 - [뉴스] 트럼프, 이란 작전 “4~5주 예상했지만 더 오래 할 능력 있어”](https://blog.ai.dmomo.co.kr/news/21198) <br/>
-[2026/03/02 - [뉴스] [속보] 美 “카타르·UAE·쿠웨이트·요르단·사우디가 방공포대 지원”](https://blog.ai.dmomo.co.kr/news/21195) <br/>
-[2026/03/02 - [뉴스] 김지수, 프라하서 깜짝 근황 알렸다…여행사 대표로 새 출발](https://blog.ai.dmomo.co.kr/news/21192) <br/>
-[2026/03/02 - [뉴스] 처음 만난 SKT-삼성전자 수장 … 정재헌 갤럭시 때문에 보호필름 회사 다 망하겠다](https://blog.ai.dmomo.co.kr/news/21189) <br/>
+[2026/03/04 - [뉴스] “‘이란 참수작전’ 본 김정은, 겁먹었다 생각하겠지만”…美 전문가의 진단](https://blog.ai.dmomo.co.kr/news/21261) <br/>
+[2026/03/04 - [뉴스] 젠지, 2026 LCK컵 전승우승…다음 목표는 FST 제패](https://blog.ai.dmomo.co.kr/news/21258) <br/>
+[2026/03/03 - [뉴스] 막무가내 이란 “선박 다 불태울 것”…원유·가스 초비상](https://blog.ai.dmomo.co.kr/news/21255) <br/>
+[2026/03/03 - [뉴스] 봄동 비빔밥 열풍에 봄동 가격 무려 30% 치솟았다](https://blog.ai.dmomo.co.kr/news/21252) <br/>
+[2026/03/03 - [뉴스] 이부진 아들 폰 끊고 서울대 갔대…韓도 SNS 금지령 나올까](https://blog.ai.dmomo.co.kr/news/21249) <br/>
+[2026/03/03 - [뉴스] 외국인, 삼전닉스 4.4조 ‘매도 폭격’… 방산·정유株는 급등](https://blog.ai.dmomo.co.kr/news/21246) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/03/03 - Blood Moon on March 3, 2026: The Last Total Lunar Eclipse in the U.S. Will Paint the Sky Red for Three Years](https://ai.trend.dmomo.co.kr/2026/03/blood-moon-on-march-3-2026-last-total.html) <br/>
+[2026/03/03 - 5 Reasons to Prepare Now for How AI Agents Will Transform Business Automation in 2026](https://ai.trend.dmomo.co.kr/2026/03/5-reasons-to-prepare-now-for-how-ai.html) <br/>
+[2026/03/03 - Bernabeu's Humiliation After 18 Years: Real Madrid Suffers Shocking 0-1 Loss to Getafe](https://ai.trend.dmomo.co.kr/2026/03/bernabeus-humiliation-after-18-years.html) <br/>
+[2026/03/03 - Zendaya and Tom Holland's Secret Marriage! Shocking Revelation from the Spider-Man Couple](https://ai.trend.dmomo.co.kr/2026/03/zendaya-and-tom-hollands-secret.html) <br/>
 [2026/03/02 - Austin Shooting: 3 Dead Amid Terrorism Links, FBI Launches Urgent Investigation](https://ai.trend.dmomo.co.kr/2026/03/austin-shooting-3-dead-amid-terrorism.html) <br/>
 [2026/03/02 - Physical AI Innovations to Watch in 2026: Future of Autonomous Driving and Robotics Technology](https://ai.trend.dmomo.co.kr/2026/03/physical-ai-innovations-to-watch-in.html) <br/>
-[2026/03/02 - Austin Shooting Terror: 3 Dead, 14 Injured, FBI Investigating Links to Iran](https://ai.trend.dmomo.co.kr/2026/03/austin-shooting-terror-3-dead-14.html) <br/>
-[2026/03/02 - Fulham Overcomes Tottenham 2-1... Spurs Stuck in a Winless Streak for 10 Matches](https://ai.trend.dmomo.co.kr/2026/03/fulham-overcomes-tottenham-2-1-spurs.html) <br/>
-[2026/03/01 - Lakers Achieve Impressive 129-101 Victory Over Warriors Without Curry: Break Free from Three-Game Losing Streak!](https://ai.trend.dmomo.co.kr/2026/03/lakers-achieve-impressive-129-101.html) <br/>
-[2026/03/01 - LAFC Son Heung-min Sparks Back-to-Back Red Cards Against Houston, Leading to Season Opening Two Wins](https://ai.trend.dmomo.co.kr/2026/02/lafc-son-heung-min-sparks-back-to-back.html) <br/>
