@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/03/06 - 양자컴퓨팅 시대 암호 보안 위협과 2026년 양자 내성 암호화 전략은?](https://blog.ai.dmomo.co.kr/tech/21405) <br/>
-[2026/03/06 - 토트넘 EPL 5연패 충격: 손흥민 없는 팀, 강등권 1점차 위기](https://blog.ai.dmomo.co.kr/trend/21403) <br/>
-[2026/03/06 - 마크웨인 물린은 누구? 오클라호마 상원의원의 모든 것](https://blog.ai.dmomo.co.kr/trend/21401) <br/>
-[2026/03/06 - [뉴스] “난 중동지역 국가 아닌데 왜?”…이란이 공격 나선 ‘뜻밖의 나라’](https://blog.ai.dmomo.co.kr/news/21396) <br/>
-[2026/03/06 - [뉴스] 넷플릭스, AI 영상 제작 강화… 벤 애플렉 손 잡았다](https://blog.ai.dmomo.co.kr/news/21393) <br/>
-[2026/03/06 - [뉴스] 왕과 사는 남자 돌풍, 도서관도 단종 앓이](https://blog.ai.dmomo.co.kr/news/21390) <br/>
+[2026/03/07 - [뉴스] “3천개 목표물 타격, 함정 43척 파괴”…이란 전쟁 일주일 성과 발표한 미국](https://blog.ai.dmomo.co.kr/news/21473) <br/>
+[2026/03/07 - [뉴스] 국회의원들 무조건 바꾸겠네…갤S26에 쏟아진 반응 왜?](https://blog.ai.dmomo.co.kr/news/21470) <br/>
+[2026/03/07 - [뉴스] 내가 죽였어…전쟁터에 아들 보냈던 어머니 절규한 이유](https://blog.ai.dmomo.co.kr/news/21467) <br/>
+[2026/03/07 - [뉴스] 미국도 오일쇼크 공포…트럼프 행정부 “모든 대책 검토”](https://blog.ai.dmomo.co.kr/news/21464) <br/>
+[2026/03/06 - [뉴스] 美고용 9만2천명 감소 커지는 경기침체 공포](https://blog.ai.dmomo.co.kr/news/21461) <br/>
+[2026/03/06 - [뉴스] 상상도 못했던 일”…왕과 사는 남자’ 역대 34번째 1000만 돌파](https://blog.ai.dmomo.co.kr/news/21458) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/03/06 - 2026 Milan Winter Paralympics: The New Challenge of the U.S. Wheelchair Curling Team](https://ai.trend.dmomo.co.kr/2026/03/2026-milan-winter-paralympics-new.html) <br/>
+[2026/03/06 - 7 Groundbreaking Features of GPT-5.4 and the Secrets Behind AI Agent Computer Control Revealed](https://ai.trend.dmomo.co.kr/2026/03/7-groundbreaking-features-of-gpt-54-and.html) <br/>
+[2026/03/06 - Miss Trot 4 Winner Lee So Na Claims 300 Million Won Prize with Heo Chan Mi](https://ai.trend.dmomo.co.kr/2026/03/miss-trot-4-winner-lee-so-na-claims-300.html) <br/>
 [2026/03/06 - Quantum Computing Era: Encryption Security Threats and Post-Quantum Cryptography Strategies by 2026](https://ai.trend.dmomo.co.kr/2026/03/quantum-computing-era-encryption.html) <br/>
 [2026/03/06 - Tottenham's Shocking EPL 5-Game Losing Streak: Team in Danger Just One Point Above Relegation Without Son Heung-min](https://ai.trend.dmomo.co.kr/2026/03/tottenhams-shocking-epl-5-game-losing.html) <br/>
 [2026/03/06 - Who is Markwayne Mullin? Everything about the Oklahoma Senator](https://ai.trend.dmomo.co.kr/2026/03/who-is-markwayne-mullin-everything.html) <br/>
-[2026/03/05 - The Autonomous AI Agent Revolution: 5 Key Technologies and Industry-Specific Implementation Strategies](https://ai.trend.dmomo.co.kr/2026/03/the-autonomous-ai-agent-revolution-5.html) <br/>
-[2026/03/05 - Lou Holtz: The Immortal Legacy of the Legendary Coach Who Elevated Notre Dame to Glory](https://ai.trend.dmomo.co.kr/2026/03/lou-holtz-immortal-legacy-of-legendary.html) <br/>
-[2026/03/05 - Newcastle vs Manchester United: A Comprehensive Analysis of the Premier League Northern Rivalry](https://ai.trend.dmomo.co.kr/2026/03/newcastle-vs-manchester-united.html) <br/>
