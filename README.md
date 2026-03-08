@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/03/07 - [뉴스] “3천개 목표물 타격, 함정 43척 파괴”…이란 전쟁 일주일 성과 발표한 미국](https://blog.ai.dmomo.co.kr/news/21473) <br/>
-[2026/03/07 - [뉴스] 국회의원들 무조건 바꾸겠네…갤S26에 쏟아진 반응 왜?](https://blog.ai.dmomo.co.kr/news/21470) <br/>
-[2026/03/07 - [뉴스] 내가 죽였어…전쟁터에 아들 보냈던 어머니 절규한 이유](https://blog.ai.dmomo.co.kr/news/21467) <br/>
-[2026/03/07 - [뉴스] 미국도 오일쇼크 공포…트럼프 행정부 “모든 대책 검토”](https://blog.ai.dmomo.co.kr/news/21464) <br/>
-[2026/03/06 - [뉴스] 美고용 9만2천명 감소 커지는 경기침체 공포](https://blog.ai.dmomo.co.kr/news/21461) <br/>
-[2026/03/06 - [뉴스] 상상도 못했던 일”…왕과 사는 남자’ 역대 34번째 1000만 돌파](https://blog.ai.dmomo.co.kr/news/21458) <br/>
+[2026/03/08 - [뉴스] 美·이스라엘·이란 모두 “공격 앞으로”…트럼프 “쿠르드족 참전 원치 않아”](https://blog.ai.dmomo.co.kr/news/21524) <br/>
+[2026/03/08 - [뉴스] 레이디 두아처럼…진짜를 꿈꾼 가짜 소년](https://blog.ai.dmomo.co.kr/news/21521) <br/>
+[2026/03/07 - [뉴스] 7회초까지 5-5 팽팽했는데…한국 야구, 일본에 6-8 역전패](https://blog.ai.dmomo.co.kr/news/21518) <br/>
+[2026/03/07 - [뉴스] 아이돌 손등 키스, 만찬 BGM으로…K팝이 만든 외교 명장면](https://blog.ai.dmomo.co.kr/news/21515) <br/>
+[2026/03/07 - 고영표가 일본 타선과 맞붙는다! 잠수함 에이스의 2026 WBC 도전](https://blog.ai.dmomo.co.kr/trend/21512) <br/>
+[2026/03/07 - 미시간 토네이도로 3명 사망, 유니언시티 초토화된 현장 긴급 리포트](https://blog.ai.dmomo.co.kr/trend/21510) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/03/07 - Go Young-Pyo Takes on Japan's Batters! The Submarine Ace's Challenge at the 2026 WBC](https://ai.trend.dmomo.co.kr/2026/03/go-young-pyo-takes-on-japans-batters.html) <br/>
+[2026/03/07 - Emergency Report: Devastating Tornado in Michigan Claims 3 Lives, Union City Left in Ruins](https://ai.trend.dmomo.co.kr/2026/03/emergency-report-devastating-tornado-in.html) <br/>
+[2026/03/07 - 5 Key Quantum Computing Technologies and Security Innovations to Watch in 2026](https://ai.trend.dmomo.co.kr/2026/03/5-key-quantum-computing-technologies.html) <br/>
+[2026/03/07 - Bayern Munich vs Borussia Mönchengladbach: Clash at Allianz Arena Predicted](https://ai.trend.dmomo.co.kr/2026/03/bayern-munich-vs-borussia.html) <br/>
+[2026/03/07 - 2026 Milan Cortina Winter Paralympics: Historic Opening at Verona Arena](https://ai.trend.dmomo.co.kr/2026/03/2026-milan-cortina-winter-paralympics.html) <br/>
 [2026/03/06 - 2026 Milan Winter Paralympics: The New Challenge of the U.S. Wheelchair Curling Team](https://ai.trend.dmomo.co.kr/2026/03/2026-milan-winter-paralympics-new.html) <br/>
-[2026/03/06 - 7 Groundbreaking Features of GPT-5.4 and the Secrets Behind AI Agent Computer Control Revealed](https://ai.trend.dmomo.co.kr/2026/03/7-groundbreaking-features-of-gpt-54-and.html) <br/>
-[2026/03/06 - Miss Trot 4 Winner Lee So Na Claims 300 Million Won Prize with Heo Chan Mi](https://ai.trend.dmomo.co.kr/2026/03/miss-trot-4-winner-lee-so-na-claims-300.html) <br/>
-[2026/03/06 - Quantum Computing Era: Encryption Security Threats and Post-Quantum Cryptography Strategies by 2026](https://ai.trend.dmomo.co.kr/2026/03/quantum-computing-era-encryption.html) <br/>
-[2026/03/06 - Tottenham's Shocking EPL 5-Game Losing Streak: Team in Danger Just One Point Above Relegation Without Son Heung-min](https://ai.trend.dmomo.co.kr/2026/03/tottenhams-shocking-epl-5-game-losing.html) <br/>
-[2026/03/06 - Who is Markwayne Mullin? Everything about the Oklahoma Senator](https://ai.trend.dmomo.co.kr/2026/03/who-is-markwayne-mullin-everything.html) <br/>
