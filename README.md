@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/03/09 - [뉴스] [속보] 유가 100달러 돌파…4년만에 다시 오일쇼크](https://blog.ai.dmomo.co.kr/news/21581) <br/>
-[2026/03/09 - [뉴스] 인간 유일 알파고 1승 이세돌, 10년 만에 AI와 한 무대](https://blog.ai.dmomo.co.kr/news/21578) <br/>
-[2026/03/08 - [뉴스] 전쟁 장기화땐 석유 감산 도미노…국내 석화업계 “셧다운까지 고려해야”](https://blog.ai.dmomo.co.kr/news/21575) <br/>
-[2026/03/08 - 2026년 일광절약시간제 시작: 3월 8일 새벽 2시 시계 조정 필수](https://blog.ai.dmomo.co.kr/trend/21572) <br/>
-[2026/03/08 - [뉴스] K방산株 고공행진 … 한화, LG 제치고 그룹시총 4위로](https://blog.ai.dmomo.co.kr/news/21569) <br/>
-[2026/03/08 - [뉴스] 주식에 80억 투자했는데…120억 번 40대女 대표의 고민](https://blog.ai.dmomo.co.kr/news/21566) <br/>
+[2026/03/10 - [뉴스] 트럼프, 이란 전쟁 “매우 곧 끝날 것…푸틴도 돕겠다 했다”](https://blog.ai.dmomo.co.kr/news/21653) <br/>
+[2026/03/10 - [뉴스] 경우의 수 뚫은 이정후, 반짝이던 1500만원 행운의 목걸이](https://blog.ai.dmomo.co.kr/news/21650) <br/>
+[2026/03/10 - [뉴스] [단독] 김민석 총리, 한달 반만에 또 미국행…밴스 또 만나나](https://blog.ai.dmomo.co.kr/news/21647) <br/>
+[2026/03/09 - [뉴스] “AI 허브의 꿈 날아갔다”…400조 투입 계획, 전쟁 포화에 묻힌 중동 – 매일경제](https://blog.ai.dmomo.co.kr/news/21644) <br/>
+[2026/03/09 - [뉴스] 케이블카보다 빵지순례…여행 판 바꾸는 로컬 콘텐츠](https://blog.ai.dmomo.co.kr/news/21641) <br/>
+[2026/03/09 - [뉴스] 갤럭시S26보러 원신 카페가요…삼성도 눈독들인 1030 오타쿠](https://blog.ai.dmomo.co.kr/news/21638) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/03/09 - Gangbuk Motel Serial Murder: 20-Year-Old Suspect Kim So-young's Troubled Past Revealed](https://ai.trend.dmomo.co.kr/2026/03/gangbuk-motel-serial-murder-20-year-old.html) <br/>
+[2026/03/09 - Ghostbusters Actress Jennifer Runyon Passes Away at 65 After Battling Cancer](https://ai.trend.dmomo.co.kr/2026/03/ghostbusters-actress-jennifer-runyon.html) <br/>
+[2026/03/09 - What Are 3 Breakthrough Technologies in Distributed MLOps and Their Applications in Finance and Healthcare?](https://ai.trend.dmomo.co.kr/2026/03/what-are-3-breakthrough-technologies-in.html) <br/>
+[2026/03/09 - LAFC vs FC Dallas Match Schedule Confirmed for March 8, 2026 at BMO Stadium](https://ai.trend.dmomo.co.kr/2026/03/lafc-vs-fc-dallas-match-schedule.html) <br/>
+[2026/03/09 - The Immortal Legacy and Influence of Rafael Nadal on the American Tennis Market](https://ai.trend.dmomo.co.kr/2026/03/the-immortal-legacy-and-influence-of.html) <br/>
 [2026/03/08 - Start of Daylight Saving Time in 2026: Adjust Clocks at 2 AM on March 8](https://ai.trend.dmomo.co.kr/2026/03/start-of-daylight-saving-time-in-2026.html) <br/>
-[2026/03/08 - 5 Breakthrough Secrets of Next-Generation Edge AI Digital Fabric Powered by 6G and AI](https://ai.trend.dmomo.co.kr/2026/03/5-breakthrough-secrets-of-next.html) <br/>
-[2026/03/08 - International Women's Day, March 8: 117 Years of Struggle and Solidarity for Gender Equality and Democracy](https://ai.trend.dmomo.co.kr/2026/03/international-womens-day-march-8-117.html) <br/>
-[2026/03/08 - March 8, 2026: The Start of Daylight Saving Time - A Day Americans Lose an Hour](https://ai.trend.dmomo.co.kr/2026/03/march-8-2026-start-of-daylight-saving.html) <br/>
-[2026/03/07 - Go Young-Pyo Takes on Japan's Batters! The Submarine Ace's Challenge at the 2026 WBC](https://ai.trend.dmomo.co.kr/2026/03/go-young-pyo-takes-on-japans-batters.html) <br/>
-[2026/03/07 - Emergency Report: Devastating Tornado in Michigan Claims 3 Lives, Union City Left in Ruins](https://ai.trend.dmomo.co.kr/2026/03/emergency-report-devastating-tornado-in.html) <br/>
