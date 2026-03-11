@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/03/10 - [뉴스] 트럼프, 이란 전쟁 “매우 곧 끝날 것…푸틴도 돕겠다 했다”](https://blog.ai.dmomo.co.kr/news/21653) <br/>
-[2026/03/10 - [뉴스] 경우의 수 뚫은 이정후, 반짝이던 1500만원 행운의 목걸이](https://blog.ai.dmomo.co.kr/news/21650) <br/>
-[2026/03/10 - [뉴스] [단독] 김민석 총리, 한달 반만에 또 미국행…밴스 또 만나나](https://blog.ai.dmomo.co.kr/news/21647) <br/>
-[2026/03/09 - [뉴스] “AI 허브의 꿈 날아갔다”…400조 투입 계획, 전쟁 포화에 묻힌 중동 – 매일경제](https://blog.ai.dmomo.co.kr/news/21644) <br/>
-[2026/03/09 - [뉴스] 케이블카보다 빵지순례…여행 판 바꾸는 로컬 콘텐츠](https://blog.ai.dmomo.co.kr/news/21641) <br/>
-[2026/03/09 - [뉴스] 갤럭시S26보러 원신 카페가요…삼성도 눈독들인 1030 오타쿠](https://blog.ai.dmomo.co.kr/news/21638) <br/>
+[2026/03/11 - [뉴스] ‘이란 무조건 항복’ 뿐이라더니…종전 시점 묻자 말 바꾼 백악관](https://blog.ai.dmomo.co.kr/news/21719) <br/>
+[2026/03/11 - [뉴스] 시골에서나 갤럭시 쓰죠…이재용 농담 경고음 되나](https://blog.ai.dmomo.co.kr/news/21716) <br/>
+[2026/03/10 - [뉴스] UAE 국영 석유사 정유단지 드론 공습으로 화재…“가동 중단”](https://blog.ai.dmomo.co.kr/news/21713) <br/>
+[2026/03/10 - [뉴스] 과자 한 곽이 무려 2만5천원? 단종 소식에 웃돈 붙었다](https://blog.ai.dmomo.co.kr/news/21710) <br/>
+[2026/03/10 - [뉴스] K팝 4.7배 수출효자 현실은…부정적 인식에다 홀대 논란](https://blog.ai.dmomo.co.kr/news/21707) <br/>
+[2026/03/10 - 엔하이픈 희승 독립 선언, 6인 체제로 새 출발하는 이유는?](https://blog.ai.dmomo.co.kr/trend/21704) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/03/10 - ENHYPEN Heeseung's Independence Declaration: Why They Are Starting Anew as a 6-Member Group?](https://ai.trend.dmomo.co.kr/2026/03/enhypen-heeseungs-independence.html) <br/>
+[2026/03/10 - 2026 WBC: USA Defeats Mexico for the First Time in 20 Years! Judge and Anthony's Home Run Show Leads to 5-3 Victory](https://ai.trend.dmomo.co.kr/2026/03/2026-wbc-usa-defeats-mexico-for-first.html) <br/>
+[2026/03/10 - 5 Groundbreaking Ways AI-Powered DevOps Will Transform Software Development in 2026](https://ai.trend.dmomo.co.kr/2026/03/5-groundbreaking-ways-ai-powered-devops.html) <br/>
+[2026/03/10 - Mike Evans Joins the 49ers! The True Meaning Behind the $60 Million 3-Year Contract](https://ai.trend.dmomo.co.kr/2026/03/mike-evans-joins-49ers-true-meaning.html) <br/>
+[2026/03/10 - The Shocking Details of the Serial Murder Case at a Gangbuk Motel Involving the Youngest 20-Year-Old Suspect, Kim So-young](https://ai.trend.dmomo.co.kr/2026/03/the-shocking-details-of-serial-murder.html) <br/>
 [2026/03/09 - Gangbuk Motel Serial Murder: 20-Year-Old Suspect Kim So-young's Troubled Past Revealed](https://ai.trend.dmomo.co.kr/2026/03/gangbuk-motel-serial-murder-20-year-old.html) <br/>
-[2026/03/09 - Ghostbusters Actress Jennifer Runyon Passes Away at 65 After Battling Cancer](https://ai.trend.dmomo.co.kr/2026/03/ghostbusters-actress-jennifer-runyon.html) <br/>
-[2026/03/09 - What Are 3 Breakthrough Technologies in Distributed MLOps and Their Applications in Finance and Healthcare?](https://ai.trend.dmomo.co.kr/2026/03/what-are-3-breakthrough-technologies-in.html) <br/>
-[2026/03/09 - LAFC vs FC Dallas Match Schedule Confirmed for March 8, 2026 at BMO Stadium](https://ai.trend.dmomo.co.kr/2026/03/lafc-vs-fc-dallas-match-schedule.html) <br/>
-[2026/03/09 - The Immortal Legacy and Influence of Rafael Nadal on the American Tennis Market](https://ai.trend.dmomo.co.kr/2026/03/the-immortal-legacy-and-influence-of.html) <br/>
-[2026/03/08 - Start of Daylight Saving Time in 2026: Adjust Clocks at 2 AM on March 8](https://ai.trend.dmomo.co.kr/2026/03/start-of-daylight-saving-time-in-2026.html) <br/>
