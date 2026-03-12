@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/03/11 - [뉴스] ‘이란 무조건 항복’ 뿐이라더니…종전 시점 묻자 말 바꾼 백악관](https://blog.ai.dmomo.co.kr/news/21719) <br/>
-[2026/03/11 - [뉴스] 시골에서나 갤럭시 쓰죠…이재용 농담 경고음 되나](https://blog.ai.dmomo.co.kr/news/21716) <br/>
-[2026/03/10 - [뉴스] UAE 국영 석유사 정유단지 드론 공습으로 화재…“가동 중단”](https://blog.ai.dmomo.co.kr/news/21713) <br/>
-[2026/03/10 - [뉴스] 과자 한 곽이 무려 2만5천원? 단종 소식에 웃돈 붙었다](https://blog.ai.dmomo.co.kr/news/21710) <br/>
-[2026/03/10 - [뉴스] K팝 4.7배 수출효자 현실은…부정적 인식에다 홀대 논란](https://blog.ai.dmomo.co.kr/news/21707) <br/>
-[2026/03/10 - 엔하이픈 희승 독립 선언, 6인 체제로 새 출발하는 이유는?](https://blog.ai.dmomo.co.kr/trend/21704) <br/>
+[2026/03/12 - [뉴스] “전략 비축유 ‘조금’ 줄이겠다”…방출 시사한 트럼프, 얼마나 풀까](https://blog.ai.dmomo.co.kr/news/21794) <br/>
+[2026/03/12 - [뉴스] 애들은 갤럭시 안 사요…4년 전 아이폰, 삼성 눌렀다](https://blog.ai.dmomo.co.kr/news/21791) <br/>
+[2026/03/12 - [뉴스] 냉혹한 꽃샘 추위… 영하권 출근길, 강원 산지 20㎝ 폭설도](https://blog.ai.dmomo.co.kr/news/21788) <br/>
+[2026/03/12 - [뉴스] 트럼프, 이란 전쟁에 “내가 끝내고 싶을 때 끝낼 것”](https://blog.ai.dmomo.co.kr/news/21785) <br/>
+[2026/03/11 - [뉴스] 분리과세 소득 건보료 적용 ‘헷갈리네’…부과면제 방침 법근거 없어](https://blog.ai.dmomo.co.kr/news/21780) <br/>
+[2026/03/11 - [뉴스] “내 돈 가져가세요”…창업 석달된 기업에 10억달러 투자, 뭐하는 곳이길래 – 매일경제](https://blog.ai.dmomo.co.kr/news/21779) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/03/11 - LAFC Draws 1-1 with Alajuelense, Son Heung-min Provides One Assist in Round of 16 First Leg](https://ai.trend.dmomo.co.kr/2026/03/lafc-draws-1-1-with-alajuelense-son.html) <br/>
+[2026/03/11 - Bam Adebayo's Explosive 83 Points! The Day He Achieved the 2nd Highest Scoring Record in NBA History](https://ai.trend.dmomo.co.kr/2026/03/bam-adebayos-explosive-83-points-day-he.html) <br/>
+[2026/03/11 - Will Low-code AI/ML Integration Make Enterprise Development 10 Times Faster by 2026?](https://ai.trend.dmomo.co.kr/2026/03/will-low-code-aiml-integration-make.html) <br/>
+[2026/03/11 - Tottenham's UCL Nightmare: Goalkeeper Kinski Concedes 3 Goals in 15 Minutes, Suffering a 2-5 Defeat to Atletico](https://ai.trend.dmomo.co.kr/2026/03/tottenhams-ucl-nightmare-goalkeeper.html) <br/>
+[2026/03/11 - Newcastle vs Barcelona Champions League Round of 16 First Leg Tactical Analysis: 1-1 Draw](https://ai.trend.dmomo.co.kr/2026/03/newcastle-vs-barcelona-champions-league.html) <br/>
 [2026/03/10 - ENHYPEN Heeseung's Independence Declaration: Why They Are Starting Anew as a 6-Member Group?](https://ai.trend.dmomo.co.kr/2026/03/enhypen-heeseungs-independence.html) <br/>
-[2026/03/10 - 2026 WBC: USA Defeats Mexico for the First Time in 20 Years! Judge and Anthony's Home Run Show Leads to 5-3 Victory](https://ai.trend.dmomo.co.kr/2026/03/2026-wbc-usa-defeats-mexico-for-first.html) <br/>
-[2026/03/10 - 5 Groundbreaking Ways AI-Powered DevOps Will Transform Software Development in 2026](https://ai.trend.dmomo.co.kr/2026/03/5-groundbreaking-ways-ai-powered-devops.html) <br/>
-[2026/03/10 - Mike Evans Joins the 49ers! The True Meaning Behind the $60 Million 3-Year Contract](https://ai.trend.dmomo.co.kr/2026/03/mike-evans-joins-49ers-true-meaning.html) <br/>
-[2026/03/10 - The Shocking Details of the Serial Murder Case at a Gangbuk Motel Involving the Youngest 20-Year-Old Suspect, Kim So-young](https://ai.trend.dmomo.co.kr/2026/03/the-shocking-details-of-serial-murder.html) <br/>
-[2026/03/09 - Gangbuk Motel Serial Murder: 20-Year-Old Suspect Kim So-young's Troubled Past Revealed](https://ai.trend.dmomo.co.kr/2026/03/gangbuk-motel-serial-murder-20-year-old.html) <br/>
