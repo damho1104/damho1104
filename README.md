@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/03/12 - [뉴스] “전략 비축유 ‘조금’ 줄이겠다”…방출 시사한 트럼프, 얼마나 풀까](https://blog.ai.dmomo.co.kr/news/21794) <br/>
-[2026/03/12 - [뉴스] 애들은 갤럭시 안 사요…4년 전 아이폰, 삼성 눌렀다](https://blog.ai.dmomo.co.kr/news/21791) <br/>
-[2026/03/12 - [뉴스] 냉혹한 꽃샘 추위… 영하권 출근길, 강원 산지 20㎝ 폭설도](https://blog.ai.dmomo.co.kr/news/21788) <br/>
-[2026/03/12 - [뉴스] 트럼프, 이란 전쟁에 “내가 끝내고 싶을 때 끝낼 것”](https://blog.ai.dmomo.co.kr/news/21785) <br/>
-[2026/03/11 - [뉴스] 분리과세 소득 건보료 적용 ‘헷갈리네’…부과면제 방침 법근거 없어](https://blog.ai.dmomo.co.kr/news/21780) <br/>
-[2026/03/11 - [뉴스] “내 돈 가져가세요”…창업 석달된 기업에 10억달러 투자, 뭐하는 곳이길래 – 매일경제](https://blog.ai.dmomo.co.kr/news/21779) <br/>
+[2026/03/13 - [뉴스] “유가 10%나 급등했다”…트럼프 보다 입김 센 이란 최고지도자의 한마디](https://blog.ai.dmomo.co.kr/news/21857) <br/>
+[2026/03/13 - [뉴스] 한미약품 대표에 황상연 내정…첫 외부 출신 CEO](https://blog.ai.dmomo.co.kr/news/21854) <br/>
+[2026/03/13 - [뉴스] BTS 공연 앞두고 5성급 호텔도 방 없음…숙박 수요 강남·잠실로 확산](https://blog.ai.dmomo.co.kr/news/21851) <br/>
+[2026/03/12 - [뉴스] 장관 불륜 스캔들 감싸안은 다카이치…“일로 보답해 주길”](https://blog.ai.dmomo.co.kr/news/21848) <br/>
+[2026/03/12 - [뉴스] 병원 식대 무서워서 결핵치료 포기한 60대…정부가 나섰다](https://blog.ai.dmomo.co.kr/news/21845) <br/>
+[2026/03/12 - Stryker 사이버 공격: 이란 해커가 20만 시스템 파괴한 충격적 실상](https://blog.ai.dmomo.co.kr/trend/21842) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/03/12 - Stryker Cyber Attack: Shocking Reality of Iranian Hackers Destroying 200,000 Systems](https://ai.trend.dmomo.co.kr/2026/03/stryker-cyber-attack-shocking-reality.html) <br/>
+[2026/03/12 - FBI Warning: Iran Planned Drone Attack in California? America's Response](https://ai.trend.dmomo.co.kr/2026/03/fbi-warning-iran-planned-drone-attack.html) <br/>
+[2026/03/12 - How Quantum Urbanism Technologies Will Revolutionize City Planning in 2026](https://ai.trend.dmomo.co.kr/2026/03/how-quantum-urbanism-technologies-will.html) <br/>
+[2026/03/12 - PSG Dominates Chelsea with a 5-2 Victory! Kvaratskhelia Shines with 2 Goals in UCL Round of 16 First Leg](https://ai.trend.dmomo.co.kr/2026/03/psg-dominates-chelsea-with-5-2-victory.html) <br/>
+[2026/03/12 - Bam Adebayo Shatters NBA History with 83-Point Explosion! Achieves Historic 2nd All-Time Record](https://ai.trend.dmomo.co.kr/2026/03/bam-adebayo-shatters-nba-history-with.html) <br/>
 [2026/03/11 - LAFC Draws 1-1 with Alajuelense, Son Heung-min Provides One Assist in Round of 16 First Leg](https://ai.trend.dmomo.co.kr/2026/03/lafc-draws-1-1-with-alajuelense-son.html) <br/>
-[2026/03/11 - Bam Adebayo's Explosive 83 Points! The Day He Achieved the 2nd Highest Scoring Record in NBA History](https://ai.trend.dmomo.co.kr/2026/03/bam-adebayos-explosive-83-points-day-he.html) <br/>
-[2026/03/11 - Will Low-code AI/ML Integration Make Enterprise Development 10 Times Faster by 2026?](https://ai.trend.dmomo.co.kr/2026/03/will-low-code-aiml-integration-make.html) <br/>
-[2026/03/11 - Tottenham's UCL Nightmare: Goalkeeper Kinski Concedes 3 Goals in 15 Minutes, Suffering a 2-5 Defeat to Atletico](https://ai.trend.dmomo.co.kr/2026/03/tottenhams-ucl-nightmare-goalkeeper.html) <br/>
-[2026/03/11 - Newcastle vs Barcelona Champions League Round of 16 First Leg Tactical Analysis: 1-1 Draw](https://ai.trend.dmomo.co.kr/2026/03/newcastle-vs-barcelona-champions-league.html) <br/>
-[2026/03/10 - ENHYPEN Heeseung's Independence Declaration: Why They Are Starting Anew as a 6-Member Group?](https://ai.trend.dmomo.co.kr/2026/03/enhypen-heeseungs-independence.html) <br/>
