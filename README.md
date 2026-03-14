@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/03/13 - [뉴스] “유가 10%나 급등했다”…트럼프 보다 입김 센 이란 최고지도자의 한마디](https://blog.ai.dmomo.co.kr/news/21857) <br/>
-[2026/03/13 - [뉴스] 한미약품 대표에 황상연 내정…첫 외부 출신 CEO](https://blog.ai.dmomo.co.kr/news/21854) <br/>
-[2026/03/13 - [뉴스] BTS 공연 앞두고 5성급 호텔도 방 없음…숙박 수요 강남·잠실로 확산](https://blog.ai.dmomo.co.kr/news/21851) <br/>
-[2026/03/12 - [뉴스] 장관 불륜 스캔들 감싸안은 다카이치…“일로 보답해 주길”](https://blog.ai.dmomo.co.kr/news/21848) <br/>
-[2026/03/12 - [뉴스] 병원 식대 무서워서 결핵치료 포기한 60대…정부가 나섰다](https://blog.ai.dmomo.co.kr/news/21845) <br/>
-[2026/03/12 - Stryker 사이버 공격: 이란 해커가 20만 시스템 파괴한 충격적 실상](https://blog.ai.dmomo.co.kr/trend/21842) <br/>
+[2026/03/14 - [뉴스] 자고 일어나니 60만원 ‘껑충’…항공권 가격에 비행기 못탄다 ‘비명’](https://blog.ai.dmomo.co.kr/news/21929) <br/>
+[2026/03/14 - [뉴스] 다이소 또 일냈다…5000원짜리 내놓자마자 바로 품절 대란](https://blog.ai.dmomo.co.kr/news/21926) <br/>
+[2026/03/13 - [뉴스] 코스모신소재, 350억원 증자한다](https://blog.ai.dmomo.co.kr/news/21922) <br/>
+[2026/03/13 - [뉴스] 고유가·저성장 이중고 … 美 금리인하 딜레마 커져](https://blog.ai.dmomo.co.kr/news/21920) <br/>
+[2026/03/13 - [뉴스] 이러니 수도권에만 몰리지…지역 관광은 언더투어리즘](https://blog.ai.dmomo.co.kr/news/21917) <br/>
+[2026/03/13 - [뉴스] 저 사람 맞아요…익선동 포차서 이색 인증](https://blog.ai.dmomo.co.kr/news/21914) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/03/13 - The Future Transformed: How Autonomous Agent AI Will Drive Core Innovations in 2026](https://ai.trend.dmomo.co.kr/2026/03/the-future-transformed-how-autonomous.html) <br/>
+[2026/03/13 - Old Dominion University Shooting: ROTC Students Subdue ISIS-linked Gunman](https://ai.trend.dmomo.co.kr/2026/03/old-dominion-university-shooting-rotc.html) <br/>
+[2026/03/13 - Jo Gyu-sung's Return from Injury: A Goalless Draw Against Nottingham Forest in the Europa League Round of 16 Second Leg](https://ai.trend.dmomo.co.kr/2026/03/jo-gyu-sungs-return-from-injury.html) <br/>
 [2026/03/12 - Stryker Cyber Attack: Shocking Reality of Iranian Hackers Destroying 200,000 Systems](https://ai.trend.dmomo.co.kr/2026/03/stryker-cyber-attack-shocking-reality.html) <br/>
 [2026/03/12 - FBI Warning: Iran Planned Drone Attack in California? America's Response](https://ai.trend.dmomo.co.kr/2026/03/fbi-warning-iran-planned-drone-attack.html) <br/>
 [2026/03/12 - How Quantum Urbanism Technologies Will Revolutionize City Planning in 2026](https://ai.trend.dmomo.co.kr/2026/03/how-quantum-urbanism-technologies-will.html) <br/>
-[2026/03/12 - PSG Dominates Chelsea with a 5-2 Victory! Kvaratskhelia Shines with 2 Goals in UCL Round of 16 First Leg](https://ai.trend.dmomo.co.kr/2026/03/psg-dominates-chelsea-with-5-2-victory.html) <br/>
-[2026/03/12 - Bam Adebayo Shatters NBA History with 83-Point Explosion! Achieves Historic 2nd All-Time Record](https://ai.trend.dmomo.co.kr/2026/03/bam-adebayo-shatters-nba-history-with.html) <br/>
-[2026/03/11 - LAFC Draws 1-1 with Alajuelense, Son Heung-min Provides One Assist in Round of 16 First Leg](https://ai.trend.dmomo.co.kr/2026/03/lafc-draws-1-1-with-alajuelense-son.html) <br/>
