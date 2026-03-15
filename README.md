@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/03/14 - [뉴스] 자고 일어나니 60만원 ‘껑충’…항공권 가격에 비행기 못탄다 ‘비명’](https://blog.ai.dmomo.co.kr/news/21929) <br/>
-[2026/03/14 - [뉴스] 다이소 또 일냈다…5000원짜리 내놓자마자 바로 품절 대란](https://blog.ai.dmomo.co.kr/news/21926) <br/>
-[2026/03/13 - [뉴스] 코스모신소재, 350억원 증자한다](https://blog.ai.dmomo.co.kr/news/21922) <br/>
-[2026/03/13 - [뉴스] 고유가·저성장 이중고 … 美 금리인하 딜레마 커져](https://blog.ai.dmomo.co.kr/news/21920) <br/>
-[2026/03/13 - [뉴스] 이러니 수도권에만 몰리지…지역 관광은 언더투어리즘](https://blog.ai.dmomo.co.kr/news/21917) <br/>
-[2026/03/13 - [뉴스] 저 사람 맞아요…익선동 포차서 이색 인증](https://blog.ai.dmomo.co.kr/news/21914) <br/>
+[2026/03/15 - [뉴스] [속보] 트럼프, 한국 등 5개국에 호르무즈 군함파견 요구](https://blog.ai.dmomo.co.kr/news/21989) <br/>
+[2026/03/14 - [뉴스] 63세 여성, ‘시험관 시술’로 딸 출산…“숨진 외아들이 살아돌아온 것같아”](https://blog.ai.dmomo.co.kr/news/21986) <br/>
+[2026/03/14 - [뉴스] 전자레인지에 오래 돌리면 위험…화학과 교수의 경고](https://blog.ai.dmomo.co.kr/news/21983) <br/>
+[2026/03/14 - [뉴스] 법카로 10만원씩 긁는다…챗GPT 밀어내고 기업 싹쓸이](https://blog.ai.dmomo.co.kr/news/21980) <br/>
+[2026/03/14 - 카르크 섬: 이란 석유 90%가 흐르는 미국이 주목하는 화약고](https://blog.ai.dmomo.co.kr/trend/21977) <br/>
+[2026/03/14 - 수원삼성, 정호연-헤이스 골로 전남 2-0 완파! K리그2 개막 3연승 질주](https://blog.ai.dmomo.co.kr/trend/21975) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/03/13 - The Future Transformed: How Autonomous Agent AI Will Drive Core Innovations in 2026](https://ai.trend.dmomo.co.kr/2026/03/the-future-transformed-how-autonomous.html) <br/>
-[2026/03/13 - Old Dominion University Shooting: ROTC Students Subdue ISIS-linked Gunman](https://ai.trend.dmomo.co.kr/2026/03/old-dominion-university-shooting-rotc.html) <br/>
-[2026/03/13 - Jo Gyu-sung's Return from Injury: A Goalless Draw Against Nottingham Forest in the Europa League Round of 16 Second Leg](https://ai.trend.dmomo.co.kr/2026/03/jo-gyu-sungs-return-from-injury.html) <br/>
-[2026/03/12 - Stryker Cyber Attack: Shocking Reality of Iranian Hackers Destroying 200,000 Systems](https://ai.trend.dmomo.co.kr/2026/03/stryker-cyber-attack-shocking-reality.html) <br/>
-[2026/03/12 - FBI Warning: Iran Planned Drone Attack in California? America's Response](https://ai.trend.dmomo.co.kr/2026/03/fbi-warning-iran-planned-drone-attack.html) <br/>
-[2026/03/12 - How Quantum Urbanism Technologies Will Revolutionize City Planning in 2026](https://ai.trend.dmomo.co.kr/2026/03/how-quantum-urbanism-technologies-will.html) <br/>
+[2026/03/14 - Kark Island: The Powder Keg Where 90% of Iran's Oil Flows, Captivating American Attention](https://ai.trend.dmomo.co.kr/2026/03/kark-island-powder-keg-where-90-of.html) <br/>
+[2026/03/14 - Suwon Samsung Dominates Jeonnam 2-0 with Goals from Jung Ho-yeon and Hayes! K League 2 Opens with Three Consecutive Wins](https://ai.trend.dmomo.co.kr/2026/03/suwon-samsung-dominates-jeonnam-2-0.html) <br/>
+[2026/03/14 - Timberwolves vs Warriors March 13 Game Highlights: Clash at Chase Center](https://ai.trend.dmomo.co.kr/2026/03/timberwolves-vs-warriors-march-13-game.html) <br/>
+[2026/03/14 - 2026 WBC Quarterfinals: South Korea Shockingly Loses 0-10 to Dominican Republic in Cold Game](https://ai.trend.dmomo.co.kr/2026/03/2026-wbc-quarterfinals-south-korea.html) <br/>
+[2026/03/14 - AI-Powered DevOps Automation in 2026: The Secret to Boosting Work Efficiency by 5x](https://ai.trend.dmomo.co.kr/2026/03/ai-powered-devops-automation-in-2026.html) <br/>
+[2026/03/14 - The Secret Behind Chipotle's Stock Surge: 704% Increase in Institutional Investor Purchases and Strong Earnings](https://ai.trend.dmomo.co.kr/2026/03/the-secret-behind-chipotles-stock-surge.html) <br/>
