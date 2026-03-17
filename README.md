@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/03/16 - 리버풀 vs 토트넘: 6연패 끝 강등권 토트넘의 안필드 기적](https://blog.ai.dmomo.co.kr/trend/22059) <br/>
-[2026/03/16 - 2026 오스카 완벽 시청 가이드: ABC와 Hulu로 즐기는 제98회 아카데미 시상식](https://blog.ai.dmomo.co.kr/trend/22057) <br/>
-[2026/03/16 - [뉴스] “완전히 파괴했다”…미국, 이란 하르그섬 공격하자 5000억원 몰린 곳](https://blog.ai.dmomo.co.kr/news/22052) <br/>
-[2026/03/16 - [뉴스] 월요일 아침 출근길, 전국 영하권…미세먼지 나쁨](https://blog.ai.dmomo.co.kr/news/22049) <br/>
-[2026/03/15 - [뉴스] “어머니를 기억하며”…윌리엄 왕세자, 미공개 다이애나빈 사진 공개](https://blog.ai.dmomo.co.kr/news/22046) <br/>
-[2026/03/15 - [뉴스] 임성한, 역시 막장의 대모…소개팅서 애도 베일·파인다이닝 저격까지](https://blog.ai.dmomo.co.kr/news/22043) <br/>
+[2026/03/17 - [뉴스] UAE 아부다비 내륙 유전까지 때렸다…드론 공격에 화재 발생](https://blog.ai.dmomo.co.kr/news/22118) <br/>
+[2026/03/17 - [뉴스] 젠슨 황 삼성에 감사…깐부는 계속된다, 새 협력까지](https://blog.ai.dmomo.co.kr/news/22115) <br/>
+[2026/03/16 - [뉴스] 러, 텔레그램에 과징금 6.5억원 부과…“금지 콘텐츠 안 지워”](https://blog.ai.dmomo.co.kr/news/22112) <br/>
+[2026/03/16 - [뉴스] 친구랑 파자마 파티 할래요…초등학생까지 번진 MZ 코드](https://blog.ai.dmomo.co.kr/news/22109) <br/>
+[2026/03/16 - [뉴스] 판매량 줄어도 돈은 더 번다…삼성·애플 태블릿 전략 바꿨다](https://blog.ai.dmomo.co.kr/news/22106) <br/>
+[2026/03/16 - 아이폰 Coruna 해킹 경고 23개 취약점 복합공격 방어법은?](https://blog.ai.dmomo.co.kr/tech/22103) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/03/15 - Lakers vs Nuggets: Thrilling 127-125 Overtime Victory](https://ai.trend.dmomo.co.kr/2026/03/lakers-vs-nuggets-thrilling-127-125.html) <br/>
-[2026/03/15 - LAFC Dominates Saint Louis 2-0 with Shoeniere's Multiple Goals! Riding a Three-Game Winning Streak](https://ai.trend.dmomo.co.kr/2026/03/lafc-dominates-saint-louis-2-0-with.html) <br/>
-[2026/03/15 - Multimodal RAG Innovation: Discover the 5 Key Secrets of AI-Enhanced Generative Search](https://ai.trend.dmomo.co.kr/2026/03/multimodal-rag-innovation-discover-5.html) <br/>
-[2026/03/15 - Pi Day March 14: Everything About the Global Math Festival Celebrating 3.14](https://ai.trend.dmomo.co.kr/2026/03/pi-day-march-14-everything-about-global.html) <br/>
-[2026/03/15 - 2025 Korea Weather Overview: An Unprecedented Year of Extreme Heat and Volatility](https://ai.trend.dmomo.co.kr/2026/03/2025-korea-weather-overview.html) <br/>
-[2026/03/14 - Kark Island: The Powder Keg Where 90% of Iran's Oil Flows, Captivating American Attention](https://ai.trend.dmomo.co.kr/2026/03/kark-island-powder-keg-where-90-of.html) <br/>
+[2026/03/16 - iPhone Coruna Hacking Alert: How to Defend Against 23 Vulnerabilities and Complex Attacks](https://ai.trend.dmomo.co.kr/2026/03/iphone-coruna-hacking-alert-how-to.html) <br/>
+[2026/03/16 - 2026 Academy Awards: One Battle After Another Achieves 6 Wins](https://ai.trend.dmomo.co.kr/2026/03/2026-academy-awards-one-battle-after.html) <br/>
+[2026/03/16 - 2026 Oscar Best Picture Showdown: 'One Battle After Another' at 77% vs. 'Singers' with 16 Nominations](https://ai.trend.dmomo.co.kr/2026/03/2026-oscar-best-picture-showdown-one.html) <br/>
+[2026/03/16 - 5 Key Edge AI Technologies Driving IoT Innovation in 2026](https://ai.trend.dmomo.co.kr/2026/03/5-key-edge-ai-technologies-driving-iot.html) <br/>
+[2026/03/16 - The Perfect Viewing Guide to the 2026 Oscars: Enjoying the 98th Academy Awards on ABC and Hulu](https://ai.trend.dmomo.co.kr/2026/03/the-perfect-viewing-guide-to-2026.html) <br/>
+[2026/03/16 - Liverpool vs Tottenham: The Anfield Miracle Ends Tottenham's 6-Game Losing Streak](https://ai.trend.dmomo.co.kr/2026/03/liverpool-vs-tottenham-anfield-miracle.html) <br/>
