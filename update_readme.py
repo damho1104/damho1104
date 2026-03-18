@@ -112,13 +112,18 @@ markdown_text += """
 ## ✅ Latest AI Blog Post
 """
 # list of blog posts will be appended here
-for idx, feed in enumerate(RSS_FEED2['entries']):
-    if idx > MAX_POST:
+rss_feed2_counter = 0
+for _, feed in enumerate(RSS_FEED2['entries']):
+    if rss_feed2_counter == MAX_POST:
         break
+
+    if feed['title'].strip().startswith('[뉴스]'):
+        continue
     else:
         # feed_date = feed['published_parsed']
         feed_date = datetime.fromtimestamp(time.mktime(feed['published_parsed'])) + timedelta(hours=9)
         markdown_text += f"[{feed_date.strftime('%Y/%m/%d')} - {feed['title']}]({feed['link']}) <br/>\n"
+        rss_feed2_counter += 1
 
 markdown_text += """
 ## ✅ Latest AI EN Blog Post
