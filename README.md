@@ -87,17 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/03/18 - 2026년 주목할 IoT 기반 산업용 메타버스와 디지털 트윈 핵심 기술 5가지](https://blog.ai.dmomo.co.kr/tech/22209) <br/>
+[2026/03/18 - 미국 테러대응 수장 Joe Kent, 이란 전쟁 반대로 전격 사임](https://blog.ai.dmomo.co.kr/trend/22207) <br/>
 [2026/03/18 - PSG, 첼시 3-0 완파! 합계 8-2로 챔피언스리그 8강 진출 확정](https://blog.ai.dmomo.co.kr/trend/22205) <br/>
-[2026/03/18 - [뉴스] 42년간 통치해 왔는데…득표율 94.82%로 5연임 성공한 대통령](https://blog.ai.dmomo.co.kr/news/22200) <br/>
-[2026/03/18 - [뉴스] 차세대 모달리티는 유전자 치료제…빅파마, 지난해 이후 50조원 투자](https://blog.ai.dmomo.co.kr/news/22197) <br/>
-[2026/03/18 - [뉴스] 세계 최고도 기네스북 오른 청라하늘대교 전망대 다음달 개장](https://blog.ai.dmomo.co.kr/news/22194) <br/>
-[2026/03/18 - [뉴스] [속보] 트럼프 “나토 도움 필요 없다…일본·한국도 마찬가지”](https://blog.ai.dmomo.co.kr/news/22191) <br/>
-[2026/03/17 - [뉴스] 뉴욕증시, 중동 정세 불안에도 상승 출발…다우지수 0.93%↑](https://blog.ai.dmomo.co.kr/news/22188) <br/>
+[2026/03/17 - LG U+ IMSI 보안 이슈, 1100만 고객 유심 교체는 충분할까?](https://blog.ai.dmomo.co.kr/tech/22182) <br/>
+[2026/03/17 - 김천상무 vs 광주FC, 첫 승 놓고 격돌! 4라운드 빅매치 전망](https://blog.ai.dmomo.co.kr/trend/22172) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/03/18 - Top 5 IoT-Based Industrial Metaverse and Digital Twin Technologies to Watch in 2026](https://ai.trend.dmomo.co.kr/2026/03/top-5-iot-based-industrial-metaverse.html) <br/>
+[2026/03/18 - Joe Kent, Head of US Counterterrorism, Resigns in Opposition to War with Iran](https://ai.trend.dmomo.co.kr/2026/03/joe-kent-head-of-us-counterterrorism.html) <br/>
+[2026/03/18 - PSG Dominates Chelsea 3-0! Advances to Champions League Quarterfinals with Aggregate Score of 8-2](https://ai.trend.dmomo.co.kr/2026/03/psg-dominates-chelsea-3-0-advances-to.html) <br/>
 [2026/03/17 - LG U+ IMSI Security Issue: Is Replacing SIM Cards for 11 Million Customers Enough?](https://ai.trend.dmomo.co.kr/2026/03/lg-u-imsi-security-issue-is-replacing.html) <br/>
 [2026/03/17 - Gimcheon Sangmu vs Gwangju FC: Clash for First Victory! Preview of the Big Match in Round 4](https://ai.trend.dmomo.co.kr/2026/03/gimcheon-sangmu-vs-gwangju-fc-clash-for.html) <br/>
 [2026/03/17 - Houston vs Lakers: A Big Matchup Preview of the Top 5 Teams in the Western Conference with a 5-Game Winning Streak](https://ai.trend.dmomo.co.kr/2026/03/houston-vs-lakers-big-matchup-preview.html) <br/>
-[2026/03/17 - Lakers vs Rockets: 3 Secret Strategies Behind the Lakers' 8-1 Surge](https://ai.trend.dmomo.co.kr/2026/03/lakers-vs-rockets-3-secret-strategies.html) <br/>
-[2026/03/17 - AIOps Leading IT Innovation in 2026: Unlocking the Secrets of AI-Powered Automated Operations](https://ai.trend.dmomo.co.kr/2026/03/aiops-leading-it-innovation-in-2026.html) <br/>
-[2026/03/17 - Who is Banksy? Everything about the Anonymous Street Artist](https://ai.trend.dmomo.co.kr/2026/03/who-is-banksy-everything-about.html) <br/>
