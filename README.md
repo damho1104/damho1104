@@ -87,17 +87,17 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/03/17 - [뉴스] UAE 아부다비 내륙 유전까지 때렸다…드론 공격에 화재 발생](https://blog.ai.dmomo.co.kr/news/22118) <br/>
-[2026/03/17 - [뉴스] 젠슨 황 삼성에 감사…깐부는 계속된다, 새 협력까지](https://blog.ai.dmomo.co.kr/news/22115) <br/>
-[2026/03/16 - [뉴스] 러, 텔레그램에 과징금 6.5억원 부과…“금지 콘텐츠 안 지워”](https://blog.ai.dmomo.co.kr/news/22112) <br/>
-[2026/03/16 - [뉴스] 친구랑 파자마 파티 할래요…초등학생까지 번진 MZ 코드](https://blog.ai.dmomo.co.kr/news/22109) <br/>
-[2026/03/16 - [뉴스] 판매량 줄어도 돈은 더 번다…삼성·애플 태블릿 전략 바꿨다](https://blog.ai.dmomo.co.kr/news/22106) <br/>
-[2026/03/16 - 아이폰 Coruna 해킹 경고 23개 취약점 복합공격 방어법은?](https://blog.ai.dmomo.co.kr/tech/22103) <br/>
+[2026/03/18 - PSG, 첼시 3-0 완파! 합계 8-2로 챔피언스리그 8강 진출 확정](https://blog.ai.dmomo.co.kr/trend/22205) <br/>
+[2026/03/18 - [뉴스] 42년간 통치해 왔는데…득표율 94.82%로 5연임 성공한 대통령](https://blog.ai.dmomo.co.kr/news/22200) <br/>
+[2026/03/18 - [뉴스] 차세대 모달리티는 유전자 치료제…빅파마, 지난해 이후 50조원 투자](https://blog.ai.dmomo.co.kr/news/22197) <br/>
+[2026/03/18 - [뉴스] 세계 최고도 기네스북 오른 청라하늘대교 전망대 다음달 개장](https://blog.ai.dmomo.co.kr/news/22194) <br/>
+[2026/03/18 - [뉴스] [속보] 트럼프 “나토 도움 필요 없다…일본·한국도 마찬가지”](https://blog.ai.dmomo.co.kr/news/22191) <br/>
+[2026/03/17 - [뉴스] 뉴욕증시, 중동 정세 불안에도 상승 출발…다우지수 0.93%↑](https://blog.ai.dmomo.co.kr/news/22188) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/03/16 - iPhone Coruna Hacking Alert: How to Defend Against 23 Vulnerabilities and Complex Attacks](https://ai.trend.dmomo.co.kr/2026/03/iphone-coruna-hacking-alert-how-to.html) <br/>
-[2026/03/16 - 2026 Academy Awards: One Battle After Another Achieves 6 Wins](https://ai.trend.dmomo.co.kr/2026/03/2026-academy-awards-one-battle-after.html) <br/>
-[2026/03/16 - 2026 Oscar Best Picture Showdown: 'One Battle After Another' at 77% vs. 'Singers' with 16 Nominations](https://ai.trend.dmomo.co.kr/2026/03/2026-oscar-best-picture-showdown-one.html) <br/>
-[2026/03/16 - 5 Key Edge AI Technologies Driving IoT Innovation in 2026](https://ai.trend.dmomo.co.kr/2026/03/5-key-edge-ai-technologies-driving-iot.html) <br/>
-[2026/03/16 - The Perfect Viewing Guide to the 2026 Oscars: Enjoying the 98th Academy Awards on ABC and Hulu](https://ai.trend.dmomo.co.kr/2026/03/the-perfect-viewing-guide-to-2026.html) <br/>
-[2026/03/16 - Liverpool vs Tottenham: The Anfield Miracle Ends Tottenham's 6-Game Losing Streak](https://ai.trend.dmomo.co.kr/2026/03/liverpool-vs-tottenham-anfield-miracle.html) <br/>
+[2026/03/17 - LG U+ IMSI Security Issue: Is Replacing SIM Cards for 11 Million Customers Enough?](https://ai.trend.dmomo.co.kr/2026/03/lg-u-imsi-security-issue-is-replacing.html) <br/>
+[2026/03/17 - Gimcheon Sangmu vs Gwangju FC: Clash for First Victory! Preview of the Big Match in Round 4](https://ai.trend.dmomo.co.kr/2026/03/gimcheon-sangmu-vs-gwangju-fc-clash-for.html) <br/>
+[2026/03/17 - Houston vs Lakers: A Big Matchup Preview of the Top 5 Teams in the Western Conference with a 5-Game Winning Streak](https://ai.trend.dmomo.co.kr/2026/03/houston-vs-lakers-big-matchup-preview.html) <br/>
+[2026/03/17 - Lakers vs Rockets: 3 Secret Strategies Behind the Lakers' 8-1 Surge](https://ai.trend.dmomo.co.kr/2026/03/lakers-vs-rockets-3-secret-strategies.html) <br/>
+[2026/03/17 - AIOps Leading IT Innovation in 2026: Unlocking the Secrets of AI-Powered Automated Operations](https://ai.trend.dmomo.co.kr/2026/03/aiops-leading-it-innovation-in-2026.html) <br/>
+[2026/03/17 - Who is Banksy? Everything about the Anonymous Street Artist](https://ai.trend.dmomo.co.kr/2026/03/who-is-banksy-everything-about.html) <br/>
