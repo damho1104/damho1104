@@ -76,8 +76,8 @@ markdown_text = """
 
 
 ## :computer: Stats
-![damho1104 Stats](https://github-readme-stats-cyyin.vercel.app/api?username=damho1104&hide=issues&show_icons=true&show=prs_merged,prs_merged_percentage&theme=chartreuse-dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damho1104&layout=compact&theme=chartreuse-dark)
+![damho1104 Stats](https://github-readme-stats-cyyin.vercel.app/api?username=damho1104&hide=issues&show_icons=true&show=prs_merged,prs_merged_percentage&bg_color=00000000)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damho1104&layout=compact&bg_color=00000000)
 
 
 ## My Infra
