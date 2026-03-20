@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/03/18 - 2026년 주목할 IoT 기반 산업용 메타버스와 디지털 트윈 핵심 기술 5가지](https://blog.ai.dmomo.co.kr/tech/22209) <br/>
-[2026/03/18 - 미국 테러대응 수장 Joe Kent, 이란 전쟁 반대로 전격 사임](https://blog.ai.dmomo.co.kr/trend/22207) <br/>
-[2026/03/18 - PSG, 첼시 3-0 완파! 합계 8-2로 챔피언스리그 8강 진출 확정](https://blog.ai.dmomo.co.kr/trend/22205) <br/>
-[2026/03/17 - LG U+ IMSI 보안 이슈, 1100만 고객 유심 교체는 충분할까?](https://blog.ai.dmomo.co.kr/tech/22182) <br/>
-[2026/03/17 - 김천상무 vs 광주FC, 첫 승 놓고 격돌! 4라운드 빅매치 전망](https://blog.ai.dmomo.co.kr/trend/22172) <br/>
+[2026/03/19 - CVE-2026-32746 telnetd 취약점, 사전 인증 원격 코드 실행 위험 6가지 포인트](https://blog.ai.dmomo.co.kr/tech/22332) <br/>
+[2026/03/19 - 2026 March Madness: Duke, Michigan 등 1번 시드 확정! Florida 연패 도전](https://blog.ai.dmomo.co.kr/trend/22299) <br/>
+[2026/03/19 - 중국 정부의 오픈클로 AI 금지, 프롬프트 주입 공격 실체와 대응 전략은?](https://blog.ai.dmomo.co.kr/tech/22275) <br/>
+[2026/03/19 - 2026년 AI Agent 최신 동향과 미래 혁신 5가지 핵심 트렌드 분석](https://blog.ai.dmomo.co.kr/tech/22272) <br/>
+[2026/03/19 - 토트넘 챔피언스리그 탈락! 아틀레티코에 합산 5-7 패배로 8강 좌절](https://blog.ai.dmomo.co.kr/trend/22270) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/03/18 - Top 5 IoT-Based Industrial Metaverse and Digital Twin Technologies to Watch in 2026](https://ai.trend.dmomo.co.kr/2026/03/top-5-iot-based-industrial-metaverse.html) <br/>
-[2026/03/18 - Joe Kent, Head of US Counterterrorism, Resigns in Opposition to War with Iran](https://ai.trend.dmomo.co.kr/2026/03/joe-kent-head-of-us-counterterrorism.html) <br/>
-[2026/03/18 - PSG Dominates Chelsea 3-0! Advances to Champions League Quarterfinals with Aggregate Score of 8-2](https://ai.trend.dmomo.co.kr/2026/03/psg-dominates-chelsea-3-0-advances-to.html) <br/>
-[2026/03/17 - LG U+ IMSI Security Issue: Is Replacing SIM Cards for 11 Million Customers Enough?](https://ai.trend.dmomo.co.kr/2026/03/lg-u-imsi-security-issue-is-replacing.html) <br/>
-[2026/03/17 - Gimcheon Sangmu vs Gwangju FC: Clash for First Victory! Preview of the Big Match in Round 4](https://ai.trend.dmomo.co.kr/2026/03/gimcheon-sangmu-vs-gwangju-fc-clash-for.html) <br/>
-[2026/03/17 - Houston vs Lakers: A Big Matchup Preview of the Top 5 Teams in the Western Conference with a 5-Game Winning Streak](https://ai.trend.dmomo.co.kr/2026/03/houston-vs-lakers-big-matchup-preview.html) <br/>
+[2026/03/19 - CVE-2026-32746 Telnetd Vulnerability: 6 Key Points on Pre-Authentication Remote Code Execution Risk](https://ai.trend.dmomo.co.kr/2026/03/cve-2026-32746-telnetd-vulnerability-6.html) <br/>
+[2026/03/19 - 2026 March Madness: No. 1 Seeds Confirmed for Duke, Michigan, and More! Florida's Streak Challenge](https://ai.trend.dmomo.co.kr/2026/03/2026-march-madness-no-1-seeds-confirmed.html) <br/>
+[2026/03/19 - China’s Ban on OpenAI, the Reality of Prompt Injection Attacks, and How to Defend Against Them](https://ai.trend.dmomo.co.kr/2026/03/chinas-ban-on-openai-reality-of-prompt.html) <br/>
+[2026/03/19 - 2026 AI Agents: Top 5 Emerging Trends and Future Innovations Explained](https://ai.trend.dmomo.co.kr/2026/03/2026-ai-agents-top-5-emerging-trends.html) <br/>
+[2026/03/19 - Tottenham Eliminated from Champions League! Knocked Out by Atletico with a 5-7 Aggregate Loss in Quarterfinals](https://ai.trend.dmomo.co.kr/2026/03/tottenham-eliminated-from-champions_0142526988.html) <br/>
+[2026/03/19 - Tottenham Eliminated from Champions League Round of 16: Defeated by Atletico with a 5-7 Aggregate Score](https://ai.trend.dmomo.co.kr/2026/03/tottenham-eliminated-from-champions.html) <br/>
