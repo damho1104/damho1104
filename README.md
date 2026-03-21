@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/03/19 - CVE-2026-32746 telnetd 취약점, 사전 인증 원격 코드 실행 위험 6가지 포인트](https://blog.ai.dmomo.co.kr/tech/22332) <br/>
-[2026/03/19 - 2026 March Madness: Duke, Michigan 등 1번 시드 확정! Florida 연패 도전](https://blog.ai.dmomo.co.kr/trend/22299) <br/>
-[2026/03/19 - 중국 정부의 오픈클로 AI 금지, 프롬프트 주입 공격 실체와 대응 전략은?](https://blog.ai.dmomo.co.kr/tech/22275) <br/>
-[2026/03/19 - 2026년 AI Agent 최신 동향과 미래 혁신 5가지 핵심 트렌드 분석](https://blog.ai.dmomo.co.kr/tech/22272) <br/>
-[2026/03/19 - 토트넘 챔피언스리그 탈락! 아틀레티코에 합산 5-7 패배로 8강 좌절](https://blog.ai.dmomo.co.kr/trend/22270) <br/>
+[2026/03/20 - 대전 자동차부품공장 대형화재: 50명 사상, 14명 연락두절 긴급상황](https://blog.ai.dmomo.co.kr/trend/22401) <br/>
+[2026/03/20 - 2026 NCAA 여성 농구 March Madness: 하위 시드의 반란이 시작됐다](https://blog.ai.dmomo.co.kr/trend/22399) <br/>
+[2026/03/20 - 테일러 프랭키 폴 ‘배첼러렛’ 시즌, 폭력 영상 공개로 전격 취소](https://blog.ai.dmomo.co.kr/trend/22380) <br/>
+[2026/03/20 - 애스턴 빌라, 릴 3-0 완파! 유로파리그 7연승으로 8강 진출](https://blog.ai.dmomo.co.kr/trend/22378) <br/>
+[2026/03/20 - 2026년 AI 통합 클라우드 혁명, GPU 인프라가 시장을 바꾸는 5가지 이유](https://blog.ai.dmomo.co.kr/tech/22355) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/03/19 - CVE-2026-32746 Telnetd Vulnerability: 6 Key Points on Pre-Authentication Remote Code Execution Risk](https://ai.trend.dmomo.co.kr/2026/03/cve-2026-32746-telnetd-vulnerability-6.html) <br/>
-[2026/03/19 - 2026 March Madness: No. 1 Seeds Confirmed for Duke, Michigan, and More! Florida's Streak Challenge](https://ai.trend.dmomo.co.kr/2026/03/2026-march-madness-no-1-seeds-confirmed.html) <br/>
-[2026/03/19 - China’s Ban on OpenAI, the Reality of Prompt Injection Attacks, and How to Defend Against Them](https://ai.trend.dmomo.co.kr/2026/03/chinas-ban-on-openai-reality-of-prompt.html) <br/>
-[2026/03/19 - 2026 AI Agents: Top 5 Emerging Trends and Future Innovations Explained](https://ai.trend.dmomo.co.kr/2026/03/2026-ai-agents-top-5-emerging-trends.html) <br/>
-[2026/03/19 - Tottenham Eliminated from Champions League! Knocked Out by Atletico with a 5-7 Aggregate Loss in Quarterfinals](https://ai.trend.dmomo.co.kr/2026/03/tottenham-eliminated-from-champions_0142526988.html) <br/>
-[2026/03/19 - Tottenham Eliminated from Champions League Round of 16: Defeated by Atletico with a 5-7 Aggregate Score](https://ai.trend.dmomo.co.kr/2026/03/tottenham-eliminated-from-champions.html) <br/>
+[2026/03/20 - Large Fire at Daejeon Auto Parts Factory: 50 Casualties, 14 Missing in Emergency Situation](https://ai.trend.dmomo.co.kr/2026/03/large-fire-at-daejeon-auto-parts.html) <br/>
+[2026/03/20 - 2026 NCAA Women's Basketball March Madness: The Upset Revolution Begins](https://ai.trend.dmomo.co.kr/2026/03/2026-ncaa-womens-basketball-march.html) <br/>
+[2026/03/20 - Taylor Frankie Paul 'Bachelorette' Season Canceled Due to Released Violence Footage](https://ai.trend.dmomo.co.kr/2026/03/taylor-frankie-paul-bachelorette-season.html) <br/>
+[2026/03/20 - Aston Villa Crush Lille 3-0! Advances to Quarterfinals with 7 Consecutive Wins in Europa League](https://ai.trend.dmomo.co.kr/2026/03/aston-villa-crush-lille-3-0-advances-to.html) <br/>
+[2026/03/20 - Why There's No Information on the Europa League Round of 16 Match Between Meatwillan and Nottingham Forest](https://ai.trend.dmomo.co.kr/2026/03/why-theres-no-information-on-europa.html) <br/>
+[2026/03/20 - The 2026 AI-Powered Cloud Revolution: 5 Ways GPU Infrastructure is Transforming the Market](https://ai.trend.dmomo.co.kr/2026/03/the-2026-ai-powered-cloud-revolution-5.html) <br/>
