@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/03/21 - 척 노리스 86세 급작스런 사망, 사인은 끝내 미스터리로 남아](https://blog.ai.dmomo.co.kr/trend/22437) <br/>
+[2026/03/21 - 2026년 LLM 긴급 정렬 오류란 무엇인가? 최신 연구 5가지 핵심 발견](https://blog.ai.dmomo.co.kr/tech/22425) <br/>
+[2026/03/21 - 본머스 vs 맨유: 최근 5경기 무승, 충격적인 xG 역설의 진실](https://blog.ai.dmomo.co.kr/trend/22422) <br/>
+[2026/03/21 - 2026 여자 NCAA: Olivia Miles의 역사적 트리플더블과 March Madness 개막](https://blog.ai.dmomo.co.kr/trend/22421) <br/>
 [2026/03/20 - 대전 자동차부품공장 대형화재: 50명 사상, 14명 연락두절 긴급상황](https://blog.ai.dmomo.co.kr/trend/22401) <br/>
-[2026/03/20 - 2026 NCAA 여성 농구 March Madness: 하위 시드의 반란이 시작됐다](https://blog.ai.dmomo.co.kr/trend/22399) <br/>
-[2026/03/20 - 테일러 프랭키 폴 ‘배첼러렛’ 시즌, 폭력 영상 공개로 전격 취소](https://blog.ai.dmomo.co.kr/trend/22380) <br/>
-[2026/03/20 - 애스턴 빌라, 릴 3-0 완파! 유로파리그 7연승으로 8강 진출](https://blog.ai.dmomo.co.kr/trend/22378) <br/>
-[2026/03/20 - 2026년 AI 통합 클라우드 혁명, GPU 인프라가 시장을 바꾸는 5가지 이유](https://blog.ai.dmomo.co.kr/tech/22355) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/03/21 - Chuck Norris, 86, Passes Away Suddenly; Cause of Death Remains a Mystery](https://ai.trend.dmomo.co.kr/2026/03/chuck-norris-86-passes-away-suddenly.html) <br/>
+[2026/03/21 - What Are the 2026 LLM Emergency Alignment Errors? 5 Key Insights from the Latest Research](https://ai.trend.dmomo.co.kr/2026/03/what-are-2026-llm-emergency-alignment.html) <br/>
+[2026/03/21 - Bournemouth vs Manchester United: The Truth Behind the Shocking xG Paradox of Their Last 5 Winless Matches](https://ai.trend.dmomo.co.kr/2026/03/bournemouth-vs-manchester-united-truth.html) <br/>
+[2026/03/21 - 2026 Women's NCAA: Olivia Miles' Historic Triple-Double and the Kickoff of March Madness](https://ai.trend.dmomo.co.kr/2026/03/2026-womens-ncaa-olivia-miles-historic.html) <br/>
 [2026/03/20 - Large Fire at Daejeon Auto Parts Factory: 50 Casualties, 14 Missing in Emergency Situation](https://ai.trend.dmomo.co.kr/2026/03/large-fire-at-daejeon-auto-parts.html) <br/>
 [2026/03/20 - 2026 NCAA Women's Basketball March Madness: The Upset Revolution Begins](https://ai.trend.dmomo.co.kr/2026/03/2026-ncaa-womens-basketball-march.html) <br/>
-[2026/03/20 - Taylor Frankie Paul 'Bachelorette' Season Canceled Due to Released Violence Footage](https://ai.trend.dmomo.co.kr/2026/03/taylor-frankie-paul-bachelorette-season.html) <br/>
-[2026/03/20 - Aston Villa Crush Lille 3-0! Advances to Quarterfinals with 7 Consecutive Wins in Europa League](https://ai.trend.dmomo.co.kr/2026/03/aston-villa-crush-lille-3-0-advances-to.html) <br/>
-[2026/03/20 - Why There's No Information on the Europa League Round of 16 Match Between Meatwillan and Nottingham Forest](https://ai.trend.dmomo.co.kr/2026/03/why-theres-no-information-on-europa.html) <br/>
-[2026/03/20 - The 2026 AI-Powered Cloud Revolution: 5 Ways GPU Infrastructure is Transforming the Market](https://ai.trend.dmomo.co.kr/2026/03/the-2026-ai-powered-cloud-revolution-5.html) <br/>
