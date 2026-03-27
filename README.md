@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/03/27 - 필리스, 개막전서 텍사스 2-0 완봉승! 슈워버 홈런 폭발](https://blog.ai.dmomo.co.kr/trend/22820) <br/>
+[2026/03/26 - 서인영: 쥬얼리 탈퇴 후 솔로 가수로 더 성공한 비결은?](https://blog.ai.dmomo.co.kr/trend/22797) <br/>
+[2026/03/26 - 구글 터보퀀트 AI 메모리 3비트 압축 기술이 반도체 시장에 미친 충격](https://blog.ai.dmomo.co.kr/trend/22779) <br/>
 [2026/03/26 - 2026년 피지컬 AI와 산업 특화 MLOps 플랫폼의 혁신 전략 5가지](https://blog.ai.dmomo.co.kr/tech/22755) <br/>
 [2026/03/26 - KF21 검색 오류: 왜 한국 전투기 정보를 찾을 수 없을까?](https://blog.ai.dmomo.co.kr/trend/22752) <br/>
-[2026/03/26 - 2026 MLB 개막전: Yankees vs Giants 맥스 프라이드-로건 웹 빅매치 전망](https://blog.ai.dmomo.co.kr/trend/22751) <br/>
-[2026/03/25 - 트럼프 집 앞마당 뒤집은 민주당 엄마 사업가의 51% 대역전극](https://blog.ai.dmomo.co.kr/trend/22722) <br/>
-[2026/03/25 - 필리핀 마약왕 박왕열 국내송환, 그는 누구인가?](https://blog.ai.dmomo.co.kr/trend/22703) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/03/26 - Seo In-young: What Are the Secrets to Her Success as a Solo Artist After Leaving Jewelry?](https://ai.trend.dmomo.co.kr/2026/03/seo-in-young-what-are-secrets-to-her.html) <br/>
+[2026/03/26 - The Impact of Google TurboQuant AI Memory's 3-Bit Compression Technology on the Semiconductor Market](https://ai.trend.dmomo.co.kr/2026/03/the-impact-of-google-turboquant-ai.html) <br/>
+[2026/03/26 - 5 Innovative Strategies for Physical AI and Industry-Specific MLOps Platforms in 2026](https://ai.trend.dmomo.co.kr/2026/03/5-innovative-strategies-for-physical-ai.html) <br/>
 [2026/03/26 - KF21 Search Error: Why Can't We Find Information on South Korean Fighter Jets?](https://ai.trend.dmomo.co.kr/2026/03/kf21-search-error-why-cant-we-find.html) <br/>
 [2026/03/26 - 2026 MLB Opening Day: Yankees vs Giants - Max Fried vs Logan Webb Big Matchup Preview](https://ai.trend.dmomo.co.kr/2026/03/2026-mlb-opening-day-yankees-vs-giants.html) <br/>
 [2026/03/25 - The Democratic Mom Entrepreneur’s 51% Upset that Turned Trump’s Front Yard Upside Down](https://ai.trend.dmomo.co.kr/2026/03/the-democratic-mom-entrepreneurs-51.html) <br/>
-[2026/03/25 - NBA Nuggets vs Suns: A Battle of Fate for Playoff Survival](https://ai.trend.dmomo.co.kr/2026/03/nba-nuggets-vs-suns-battle-of-fate-for.html) <br/>
-[2026/03/25 - The Return of the Philippine Drug Lord Park Wang-yeol: Who Is He?](https://ai.trend.dmomo.co.kr/2026/03/the-return-of-philippine-drug-lord-park.html) <br/>
-[2026/03/25 - 5 Key Innovations in Autonomous Driving Technology for 2026 and Analysis of the Global Competitive Landscape](https://ai.trend.dmomo.co.kr/2026/03/5-key-innovations-in-autonomous-driving.html) <br/>
