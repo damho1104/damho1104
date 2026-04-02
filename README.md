@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/04/02 - 아르테미스 II: 50년 만에 인류가 다시 달 궤도로 향하는 역사적 도전](https://blog.ai.dmomo.co.kr/trend/23227) <br/>
+[2026/04/02 - 아르테미스 II: 50년 만에 달로 떠나는 인류의 도전](https://blog.ai.dmomo.co.kr/trend/23225) <br/>
+[2026/04/01 - 크리스티 놈 남편의 여장 스캔들: 2만5천 달러 송금 의혹까지](https://blog.ai.dmomo.co.kr/trend/23199) <br/>
+[2026/04/01 - Claude Code CLI 50만 줄 소스코드 NPM 패키지 유출 사고의 전모는?](https://blog.ai.dmomo.co.kr/tech/23160) <br/>
 [2026/04/01 - 오스트리아 vs 한국: 홈 13경기 무패 도전하는 랑닉 감독의 속내는?](https://blog.ai.dmomo.co.kr/trend/23157) <br/>
-[2026/04/01 - 2026년 서버리스 혁명: Cloudflare Workers와 D1로 엣지 컴퓨팅 완전 정복하기](https://blog.ai.dmomo.co.kr/tech/23154) <br/>
-[2026/04/01 - 크리스티 노엠 남편 여장 논란: 반LGBTQ+ 정치인의 충격적 이중성](https://blog.ai.dmomo.co.kr/trend/23153) <br/>
-[2026/03/31 - 가디언스, 다저스 완벽한 시즌 시작 저지! 4-2 승리로 연승 마감](https://blog.ai.dmomo.co.kr/trend/23130) <br/>
-[2026/03/31 - 기아 vs LG전자: 2025년 인력 변화로 본 두 기업의 엇갈린 운명](https://blog.ai.dmomo.co.kr/trend/23128) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/04/01 - Christy Nom's Husband's Cross-Dressing Scandal: Allegations of a $25,000 Transfer](https://ai.trend.dmomo.co.kr/2026/04/christy-noms-husbands-cross-dressing.html) <br/>
+[2026/04/01 - The Full Story Behind the Claude Code CLI 500,000 Lines Source Code NPM Package Leak Incident](https://ai.trend.dmomo.co.kr/2026/03/the-full-story-behind-claude-code-cli.html) <br/>
 [2026/04/01 - The Serverless Revolution of 2026: Mastering Edge Computing with Cloudflare Workers and D1](https://ai.trend.dmomo.co.kr/2026/03/the-serverless-revolution-of-2026.html) <br/>
 [2026/04/01 - Austria vs South Korea: What's Behind Coach Rangnick's Quest for an Unbeaten Home Record in 13 Matches?](https://ai.trend.dmomo.co.kr/2026/03/austria-vs-south-korea-whats-behind.html) <br/>
 [2026/04/01 - Kristi Noem's Husband in Drag Controversy: The Shocking Hypocrisy of an Anti-LGBTQ+ Politician](https://ai.trend.dmomo.co.kr/2026/03/kristi-noems-husband-in-drag.html) <br/>
 [2026/03/31 - Kia vs LG Electronics: Diverging Fates of Two Companies Through Workforce Changes in 2025](https://ai.trend.dmomo.co.kr/2026/03/kia-vs-lg-electronics-diverging-fates.html) <br/>
-[2026/03/31 - Guardians and Dodgers Perfect Season Stopped! Winning Streak Ends with 4-2 Victory](https://ai.trend.dmomo.co.kr/2026/03/guardians-and-dodgers-perfect-season.html) <br/>
-[2026/03/31 - The Reason Why Samchundang Pharmaceutical's Stock Plummeted 25% Despite Securing a $100 Million Contract for GLP-1 Generics in the U.S.](https://ai.trend.dmomo.co.kr/2026/03/the-reason-why-samchundang.html) <br/>
