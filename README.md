@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/04/02 - 아르테미스 II: 50년 만에 인류가 다시 달 궤도로 향하는 역사적 도전](https://blog.ai.dmomo.co.kr/trend/23227) <br/>
-[2026/04/02 - 아르테미스 II: 50년 만에 달로 떠나는 인류의 도전](https://blog.ai.dmomo.co.kr/trend/23225) <br/>
-[2026/04/01 - 크리스티 놈 남편의 여장 스캔들: 2만5천 달러 송금 의혹까지](https://blog.ai.dmomo.co.kr/trend/23199) <br/>
-[2026/04/01 - Claude Code CLI 50만 줄 소스코드 NPM 패키지 유출 사고의 전모는?](https://blog.ai.dmomo.co.kr/tech/23160) <br/>
-[2026/04/01 - 오스트리아 vs 한국: 홈 13경기 무패 도전하는 랑닉 감독의 속내는?](https://blog.ai.dmomo.co.kr/trend/23157) <br/>
+[2026/04/03 - 2026년 에이전틱 AI 혁명: 자율 LLM이 바꾸는 비즈니스 미래 5가지](https://blog.ai.dmomo.co.kr/tech/23292) <br/>
+[2026/04/03 - 김하온, 고등래퍼2 이어 쇼미더머니12 우승으로 두 개의 왕관 차지](https://blog.ai.dmomo.co.kr/trend/23290) <br/>
+[2026/04/03 - Todd Blanche: 트럼프 개인 변호사에서 美 법무장관 권한대행까지](https://blog.ai.dmomo.co.kr/trend/23288) <br/>
+[2026/04/02 - 트럼프, 이란 종전 대신 2~3주 추가 공격 예고한 충격 연설](https://blog.ai.dmomo.co.kr/trend/23268) <br/>
+[2026/04/02 - 챌린저호 폭발 40년: NASA가 얻은 7가지 안전 교훈과 우주 탐사의 미래](https://blog.ai.dmomo.co.kr/trend/23266) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/04/01 - Christy Nom's Husband's Cross-Dressing Scandal: Allegations of a $25,000 Transfer](https://ai.trend.dmomo.co.kr/2026/04/christy-noms-husbands-cross-dressing.html) <br/>
-[2026/04/01 - The Full Story Behind the Claude Code CLI 500,000 Lines Source Code NPM Package Leak Incident](https://ai.trend.dmomo.co.kr/2026/03/the-full-story-behind-claude-code-cli.html) <br/>
-[2026/04/01 - The Serverless Revolution of 2026: Mastering Edge Computing with Cloudflare Workers and D1](https://ai.trend.dmomo.co.kr/2026/03/the-serverless-revolution-of-2026.html) <br/>
-[2026/04/01 - Austria vs South Korea: What's Behind Coach Rangnick's Quest for an Unbeaten Home Record in 13 Matches?](https://ai.trend.dmomo.co.kr/2026/03/austria-vs-south-korea-whats-behind.html) <br/>
-[2026/04/01 - Kristi Noem's Husband in Drag Controversy: The Shocking Hypocrisy of an Anti-LGBTQ+ Politician](https://ai.trend.dmomo.co.kr/2026/03/kristi-noems-husband-in-drag.html) <br/>
-[2026/03/31 - Kia vs LG Electronics: Diverging Fates of Two Companies Through Workforce Changes in 2025](https://ai.trend.dmomo.co.kr/2026/03/kia-vs-lg-electronics-diverging-fates.html) <br/>
+[2026/04/03 - Kim Ha-on Wins His Second Crown with 'Show Me the Money 12' After 'High School Rapper 2'](https://ai.trend.dmomo.co.kr/2026/04/kim-ha-on-wins-his-second-crown-with.html) <br/>
+[2026/04/03 - Todd Blanche: From Trump's Personal Lawyer to Acting Attorney General of the U.S.](https://ai.trend.dmomo.co.kr/2026/04/todd-blanche-from-trumps-personal.html) <br/>
+[2026/04/02 - Shocking Speech by Trump: Warning of 2-3 Weeks of Additional Attacks Instead of Peace with Iran](https://ai.trend.dmomo.co.kr/2026/04/shocking-speech-by-trump-warning-of-2-3.html) <br/>
+[2026/04/02 - 40 Years Since the Challenger Explosion: 7 Safety Lessons NASA Learned for the Future of Space Exploration](https://ai.trend.dmomo.co.kr/2026/04/40-years-since-challenger-explosion-7.html) <br/>
+[2026/04/02 - Trump Threatens to Turn Iran Back to the Stone Age... Massive Attack Expected in 2-3 Weeks](https://ai.trend.dmomo.co.kr/2026/04/trump-threatens-to-turn-iran-back-to.html) <br/>
+[2026/04/02 - Top 5 Key Insights on Early 2026 Long-Context LLMs and OWASP Security Innovations](https://ai.trend.dmomo.co.kr/2026/04/top-5-key-insights-on-early-2026-long.html) <br/>
