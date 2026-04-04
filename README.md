@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/04/04 - Cubs vs Guardians: 금요일 밤 승부 예측, Cubs가 51% 확률로 우세](https://blog.ai.dmomo.co.kr/trend/23351) <br/>
+[2026/04/03 - 한화 vs 두산, 307억 4번타자의 부진 속 잠실 맞대결 승자는?](https://blog.ai.dmomo.co.kr/trend/23328) <br/>
+[2026/04/03 - 이정후, 2경기 연속 무안타에도 1타점 1득점으로 자이언츠 7-2 승리 견인](https://blog.ai.dmomo.co.kr/trend/23315) <br/>
+[2026/04/03 - 레이커스 vs 썬더: 플레이오프 앞두고 썬더가 43점 차 대승](https://blog.ai.dmomo.co.kr/trend/23314) <br/>
 [2026/04/03 - 2026년 에이전틱 AI 혁명: 자율 LLM이 바꾸는 비즈니스 미래 5가지](https://blog.ai.dmomo.co.kr/tech/23292) <br/>
-[2026/04/03 - 김하온, 고등래퍼2 이어 쇼미더머니12 우승으로 두 개의 왕관 차지](https://blog.ai.dmomo.co.kr/trend/23290) <br/>
-[2026/04/03 - Todd Blanche: 트럼프 개인 변호사에서 美 법무장관 권한대행까지](https://blog.ai.dmomo.co.kr/trend/23288) <br/>
-[2026/04/02 - 트럼프, 이란 종전 대신 2~3주 추가 공격 예고한 충격 연설](https://blog.ai.dmomo.co.kr/trend/23268) <br/>
-[2026/04/02 - 챌린저호 폭발 40년: NASA가 얻은 7가지 안전 교훈과 우주 탐사의 미래](https://blog.ai.dmomo.co.kr/trend/23266) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/04/03 - Hanwha vs Doosan: Who Will Win in the Jamsil Showdown Amidst the Struggles of 4th Batter Worth 30.7 Billion Won?](https://ai.trend.dmomo.co.kr/2026/04/hanwha-vs-doosan-who-will-win-in-jamsil.html) <br/>
+[2026/04/03 - Lakers vs Thunder: Thunder Secures a 43-Point Victory Before the Playoffs](https://ai.trend.dmomo.co.kr/2026/04/lakers-vs-thunder-thunder-secures-43.html) <br/>
+[2026/04/03 - Lee Jung-hoo Leads Giants to 7-2 Victory with 1 RBI and 1 Run Despite Back-to-Back Hitless Games](https://ai.trend.dmomo.co.kr/2026/04/lee-jung-hoo-leads-giants-to-7-2.html) <br/>
+[2026/04/03 - The 2026 Agentic AI Revolution: 5 Ways Autonomous LLMs Are Transforming the Future of Business](https://ai.trend.dmomo.co.kr/2026/04/the-2026-agentic-ai-revolution-5-ways.html) <br/>
 [2026/04/03 - Kim Ha-on Wins His Second Crown with 'Show Me the Money 12' After 'High School Rapper 2'](https://ai.trend.dmomo.co.kr/2026/04/kim-ha-on-wins-his-second-crown-with.html) <br/>
 [2026/04/03 - Todd Blanche: From Trump's Personal Lawyer to Acting Attorney General of the U.S.](https://ai.trend.dmomo.co.kr/2026/04/todd-blanche-from-trumps-personal.html) <br/>
-[2026/04/02 - Shocking Speech by Trump: Warning of 2-3 Weeks of Additional Attacks Instead of Peace with Iran](https://ai.trend.dmomo.co.kr/2026/04/shocking-speech-by-trump-warning-of-2-3.html) <br/>
-[2026/04/02 - 40 Years Since the Challenger Explosion: 7 Safety Lessons NASA Learned for the Future of Space Exploration](https://ai.trend.dmomo.co.kr/2026/04/40-years-since-challenger-explosion-7.html) <br/>
-[2026/04/02 - Trump Threatens to Turn Iran Back to the Stone Age... Massive Attack Expected in 2-3 Weeks](https://ai.trend.dmomo.co.kr/2026/04/trump-threatens-to-turn-iran-back-to.html) <br/>
-[2026/04/02 - Top 5 Key Insights on Early 2026 Long-Context LLMs and OWASP Security Innovations](https://ai.trend.dmomo.co.kr/2026/04/top-5-key-insights-on-early-2026-long.html) <br/>
