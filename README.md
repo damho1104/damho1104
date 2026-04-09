@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/04/08 - 2026년 주목할 IoT 혁신 기술 Edge AI 플랫폼의 5가지 핵심 장점](https://blog.ai.dmomo.co.kr/tech/23595) <br/>
-[2026/04/08 - 퇴직 후 20년 더 사는 시대, 당신의 노후 준비는 안전한가요?](https://blog.ai.dmomo.co.kr/trend/23593) <br/>
-[2026/04/08 - Offset 플로리다 카지노 총격 사건, 현재 병원서 안정 상태](https://blog.ai.dmomo.co.kr/trend/23591) <br/>
-[2026/04/07 - 화장실 변기보다 10배 더러운 당신의 휴대폰, 세균 관리법 총정리](https://blog.ai.dmomo.co.kr/trend/23580) <br/>
-[2026/04/07 - 오프셋, 플로리다 호텔 밖에서 총격 당해 병원 입원 중](https://blog.ai.dmomo.co.kr/trend/23577) <br/>
+[2026/04/09 - 2026년 로우코드 혁신: AI-네이티브 자동화가 바꾸는 개발 패러다임 5가지](https://blog.ai.dmomo.co.kr/tech/23649) <br/>
+[2026/04/09 - LA FC 손흥민, 11경기 침묵 깨고 크루스 아술전 선제골로 4강 진출 발판 마련](https://blog.ai.dmomo.co.kr/trend/23647) <br/>
+[2026/04/09 - 오브리 플라자, 전남편 사망 1년 만에 첫 임신 소식 전해](https://blog.ai.dmomo.co.kr/trend/23645) <br/>
+[2026/04/08 - NFL 기자와 패트리어츠 감독의 애리조나 리조트 사진 논란 전말](https://blog.ai.dmomo.co.kr/trend/23625) <br/>
+[2026/04/08 - 미국-이란 전쟁 위기: 트럼프의 충격 위협과 2주 휴전 합의의 전말](https://blog.ai.dmomo.co.kr/trend/23607) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/04/09 - Aubrey Plaza Reports First Pregnancy News One Year After Husband's Death](https://ai.trend.dmomo.co.kr/2026/04/aubrey-plaza-reports-first-pregnancy.html) <br/>
+[2026/04/08 - The Controversy Behind the NFL Reporter and Patriots Coach's Arizona Resort Photo](https://ai.trend.dmomo.co.kr/2026/04/the-controversy-behind-nfl-reporter-and.html) <br/>
+[2026/04/08 - US-Iran War Crisis: Trump's Shocking Threats and the Details of the Two-Week Ceasefire Agreement](https://ai.trend.dmomo.co.kr/2026/04/us-iran-war-crisis-trumps-shocking.html) <br/>
+[2026/04/08 - Son Heung-min Scores After 12 Matches! LA FC Dominates Cruz Azul 3-0 to Secure Quarterfinal Spot in the North America Cup](https://ai.trend.dmomo.co.kr/2026/04/son-heung-min-scores-after-12-matches.html) <br/>
 [2026/04/08 - 5 Key Advantages of Edge AI Platforms Driving IoT Innovation in 2026](https://ai.trend.dmomo.co.kr/2026/04/5-key-advantages-of-edge-ai-platforms.html) <br/>
 [2026/04/08 - Is Your Retirement Planning Safe in an Era Where We Live 20 Years After Retirement?](https://ai.trend.dmomo.co.kr/2026/04/is-your-retirement-planning-safe-in-era.html) <br/>
-[2026/04/08 - Offset Florida Casino Shooting: Currently in Stable Condition at Hospital](https://ai.trend.dmomo.co.kr/2026/04/offset-florida-casino-shooting.html) <br/>
-[2026/04/07 - Your Phone is 10 Times Dirtier than a Toilet: Comprehensive Guide to Bacteria Management](https://ai.trend.dmomo.co.kr/2026/04/your-phone-is-10-times-dirtier-than.html) <br/>
-[2026/04/07 - Shooting Outside Hotel in Offutt, Florida: Hospitalized](https://ai.trend.dmomo.co.kr/2026/04/shooting-outside-hotel-in-offutt.html) <br/>
-[2026/04/07 - Google Gemma 4: How the Lightweight Model Boosts AI Performance by 200% on Local and Edge Devices](https://ai.trend.dmomo.co.kr/2026/04/google-gemma-4-how-lightweight-model.html) <br/>
