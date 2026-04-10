@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/04/09 - 2026년 로우코드 혁신: AI-네이티브 자동화가 바꾸는 개발 패러다임 5가지](https://blog.ai.dmomo.co.kr/tech/23649) <br/>
-[2026/04/09 - LA FC 손흥민, 11경기 침묵 깨고 크루스 아술전 선제골로 4강 진출 발판 마련](https://blog.ai.dmomo.co.kr/trend/23647) <br/>
-[2026/04/09 - 오브리 플라자, 전남편 사망 1년 만에 첫 임신 소식 전해](https://blog.ai.dmomo.co.kr/trend/23645) <br/>
-[2026/04/08 - NFL 기자와 패트리어츠 감독의 애리조나 리조트 사진 논란 전말](https://blog.ai.dmomo.co.kr/trend/23625) <br/>
-[2026/04/08 - 미국-이란 전쟁 위기: 트럼프의 충격 위협과 2주 휴전 합의의 전말](https://blog.ai.dmomo.co.kr/trend/23607) <br/>
+[2026/04/10 - 2026년 AI-Native 웹 표준이 바꾸는 접근성의 미래 5가지 핵심 특징](https://blog.ai.dmomo.co.kr/tech/23721) <br/>
+[2026/04/10 - 2026 마스터스 골프 대회: 맥길로이 2연패 도전과 번즈-로리 공동 선두](https://blog.ai.dmomo.co.kr/trend/23719) <br/>
+[2026/04/10 - 개그맨 이진호, 도박과 음주운전 후 뇌출혈로 중환자실 입원](https://blog.ai.dmomo.co.kr/trend/23717) <br/>
+[2026/04/09 - 개그맨 이진호, 급성 뇌출혈로 중환자실 입원… 현재 의식 회복 중](https://blog.ai.dmomo.co.kr/trend/23694) <br/>
+[2026/04/09 - 바르셀로나 홈에서 충격패! 아틀레티코가 18년 만에 캠프 노우 정복](https://blog.ai.dmomo.co.kr/trend/23676) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/04/09 - Aubrey Plaza Reports First Pregnancy News One Year After Husband's Death](https://ai.trend.dmomo.co.kr/2026/04/aubrey-plaza-reports-first-pregnancy.html) <br/>
-[2026/04/08 - The Controversy Behind the NFL Reporter and Patriots Coach's Arizona Resort Photo](https://ai.trend.dmomo.co.kr/2026/04/the-controversy-behind-nfl-reporter-and.html) <br/>
-[2026/04/08 - US-Iran War Crisis: Trump's Shocking Threats and the Details of the Two-Week Ceasefire Agreement](https://ai.trend.dmomo.co.kr/2026/04/us-iran-war-crisis-trumps-shocking.html) <br/>
-[2026/04/08 - Son Heung-min Scores After 12 Matches! LA FC Dominates Cruz Azul 3-0 to Secure Quarterfinal Spot in the North America Cup](https://ai.trend.dmomo.co.kr/2026/04/son-heung-min-scores-after-12-matches.html) <br/>
-[2026/04/08 - 5 Key Advantages of Edge AI Platforms Driving IoT Innovation in 2026](https://ai.trend.dmomo.co.kr/2026/04/5-key-advantages-of-edge-ai-platforms.html) <br/>
-[2026/04/08 - Is Your Retirement Planning Safe in an Era Where We Live 20 Years After Retirement?](https://ai.trend.dmomo.co.kr/2026/04/is-your-retirement-planning-safe-in-era.html) <br/>
+[2026/04/10 - 5 Key Features Shaping the Future of Accessibility in the AI-Native Web Standard of 2026](https://ai.trend.dmomo.co.kr/2026/04/5-key-features-shaping-future-of.html) <br/>
+[2026/04/10 - 2026 Masters Golf Tournament: McIlroy's Bid for Back-to-Back Wins and Burns-Lauri Tie for the Lead](https://ai.trend.dmomo.co.kr/2026/04/2026-masters-golf-tournament-mcilroys.html) <br/>
+[2026/04/10 - Comedian Lee Jin-ho Hospitalized in Intensive Care Due to Brain Hemorrhage After Gambling and DUI](https://ai.trend.dmomo.co.kr/2026/04/comedian-lee-jin-ho-hospitalized-in.html) <br/>
+[2026/04/09 - Comedian Lee Jin-ho Hospitalized in ICU Due to Acute Brain Hemorrhage... Currently Recovering Consciousness](https://ai.trend.dmomo.co.kr/2026/04/comedian-lee-jin-ho-hospitalized-in-icu.html) <br/>
+[2026/04/09 - Barcelona Shock Defeat at Home! Atletico Conquers Camp Nou After 18 Years](https://ai.trend.dmomo.co.kr/2026/04/barcelona-shock-defeat-at-home-atletico.html) <br/>
+[2026/04/09 - The Ultimate Guide to Salt: From Types to Health Effects Explained](https://ai.trend.dmomo.co.kr/2026/04/the-ultimate-guide-to-salt-from-types.html) <br/>
