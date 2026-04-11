@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/04/10 - 2026년 AI-Native 웹 표준이 바꾸는 접근성의 미래 5가지 핵심 특징](https://blog.ai.dmomo.co.kr/tech/23721) <br/>
-[2026/04/10 - 2026 마스터스 골프 대회: 맥길로이 2연패 도전과 번즈-로리 공동 선두](https://blog.ai.dmomo.co.kr/trend/23719) <br/>
-[2026/04/10 - 개그맨 이진호, 도박과 음주운전 후 뇌출혈로 중환자실 입원](https://blog.ai.dmomo.co.kr/trend/23717) <br/>
-[2026/04/09 - 개그맨 이진호, 급성 뇌출혈로 중환자실 입원… 현재 의식 회복 중](https://blog.ai.dmomo.co.kr/trend/23694) <br/>
-[2026/04/09 - 바르셀로나 홈에서 충격패! 아틀레티코가 18년 만에 캠프 노우 정복](https://blog.ai.dmomo.co.kr/trend/23676) <br/>
+[2026/04/11 - Amazon Aurora PostgreSQL Serverless Express로 초 단위 데이터베이스 생성하는 방법 5가지](https://blog.ai.dmomo.co.kr/tech/23794) <br/>
+[2026/04/11 - 윤여정 아들 조늘, LA에서 힙합 컨설턴트로 활동 중인 사연](https://blog.ai.dmomo.co.kr/trend/23793) <br/>
+[2026/04/11 - NASA Artemis II 우주선 지구 귀환 실시간 중계 – 오늘 밤 8시 7분 태평양 착수](https://blog.ai.dmomo.co.kr/trend/23792) <br/>
+[2026/04/10 - CVE-2026-34040 최신 대응법과 신뢰할 수 있는 정보 찾는 4가지 팁](https://blog.ai.dmomo.co.kr/tech/23775) <br/>
+[2026/04/10 - 윤여정 아들 조늘, LA에서 힙합 매니저로 활동 중인 근황 공개](https://blog.ai.dmomo.co.kr/trend/23763) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/04/10 - 5 Key Features Shaping the Future of Accessibility in the AI-Native Web Standard of 2026](https://ai.trend.dmomo.co.kr/2026/04/5-key-features-shaping-future-of.html) <br/>
-[2026/04/10 - 2026 Masters Golf Tournament: McIlroy's Bid for Back-to-Back Wins and Burns-Lauri Tie for the Lead](https://ai.trend.dmomo.co.kr/2026/04/2026-masters-golf-tournament-mcilroys.html) <br/>
-[2026/04/10 - Comedian Lee Jin-ho Hospitalized in Intensive Care Due to Brain Hemorrhage After Gambling and DUI](https://ai.trend.dmomo.co.kr/2026/04/comedian-lee-jin-ho-hospitalized-in.html) <br/>
-[2026/04/09 - Comedian Lee Jin-ho Hospitalized in ICU Due to Acute Brain Hemorrhage... Currently Recovering Consciousness](https://ai.trend.dmomo.co.kr/2026/04/comedian-lee-jin-ho-hospitalized-in-icu.html) <br/>
-[2026/04/09 - Barcelona Shock Defeat at Home! Atletico Conquers Camp Nou After 18 Years](https://ai.trend.dmomo.co.kr/2026/04/barcelona-shock-defeat-at-home-atletico.html) <br/>
-[2026/04/09 - The Ultimate Guide to Salt: From Types to Health Effects Explained](https://ai.trend.dmomo.co.kr/2026/04/the-ultimate-guide-to-salt-from-types.html) <br/>
+[2026/04/11 - 5 Ways to Create an Amazon Aurora PostgreSQL Serverless Express Database in Seconds](https://ai.trend.dmomo.co.kr/2026/04/5-ways-to-create-amazon-aurora.html) <br/>
+[2026/04/11 - NASA Artemis II Spaceship Earth Return Live Broadcast - Pacific Splashdown at 8:07 PM Tonight](https://ai.trend.dmomo.co.kr/2026/04/nasa-artemis-ii-spaceship-earth-return.html) <br/>
+[2026/04/11 - Youn Yeo-jung's Son, Jo-nul: Story of His Career as a Hip-Hop Consultant in LA](https://ai.trend.dmomo.co.kr/2026/04/youn-yeo-jungs-son-jo-nul-story-of-his.html) <br/>
+[2026/04/10 - CVE-2026-34040: Latest Response Strategies and 4 Tips for Finding Reliable Information](https://ai.trend.dmomo.co.kr/2026/04/cve-2026-34040-latest-response.html) <br/>
+[2026/04/10 - Youn Yuh-jung's Son Jo-neul Shares Updates on His Life as a Hip-Hop Manager in LA](https://ai.trend.dmomo.co.kr/2026/04/youn-yuh-jungs-son-jo-neul-shares.html) <br/>
+[2026/04/10 - Korean Fraud Crimes Surge 80% Over 10 Years: Why Are They More Dangerous Than Theft?](https://ai.trend.dmomo.co.kr/2026/04/korean-fraud-crimes-surge-80-over-10.html) <br/>
