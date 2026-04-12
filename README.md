@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/04/11 - Amazon Aurora PostgreSQL Serverless Express로 초 단위 데이터베이스 생성하는 방법 5가지](https://blog.ai.dmomo.co.kr/tech/23794) <br/>
-[2026/04/11 - 윤여정 아들 조늘, LA에서 힙합 컨설턴트로 활동 중인 사연](https://blog.ai.dmomo.co.kr/trend/23793) <br/>
-[2026/04/11 - NASA Artemis II 우주선 지구 귀환 실시간 중계 – 오늘 밤 8시 7분 태평양 착수](https://blog.ai.dmomo.co.kr/trend/23792) <br/>
-[2026/04/10 - CVE-2026-34040 최신 대응법과 신뢰할 수 있는 정보 찾는 4가지 팁](https://blog.ai.dmomo.co.kr/tech/23775) <br/>
-[2026/04/10 - 윤여정 아들 조늘, LA에서 힙합 매니저로 활동 중인 근황 공개](https://blog.ai.dmomo.co.kr/trend/23763) <br/>
+[2026/04/12 - 2026년 웹 접근성 현황과 WCAG 2.2 준수 실패 실태 8년 분석 보고서](https://blog.ai.dmomo.co.kr/tech/23847) <br/>
+[2026/04/12 - 포틀랜드, LAFC 2-1 제압! 손흥민 없는 사이 시즌 첫 패배](https://blog.ai.dmomo.co.kr/trend/23845) <br/>
+[2026/04/12 - Tigres vs Chivas: 2026 클라우수라 리그 정상 대결의 모든 것](https://blog.ai.dmomo.co.kr/trend/23843) <br/>
+[2026/04/11 - 3차 민생지원금 지급일 총정리: 고유가 지원금 최대 60만원 받는 방법](https://blog.ai.dmomo.co.kr/trend/23832) <br/>
+[2026/04/11 - 에릭 스왈웰 성폭력 혐의: 캘리포니아 주지사 선거 판도가 뒤집히나?](https://blog.ai.dmomo.co.kr/trend/23817) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/04/12 - 2026 Web Accessibility Status and an 8-Year Analysis of WCAG 2.2 Compliance Failures](https://ai.trend.dmomo.co.kr/2026/04/2026-web-accessibility-status-and-8.html) <br/>
+[2026/04/12 - Portland Triumphs 2-1 Over LAFC: First Loss of the Season Without Son Heung-min](https://ai.trend.dmomo.co.kr/2026/04/portland-triumphs-2-1-over-lafc-first.html) <br/>
+[2026/04/12 - Tigres vs Chivas: Everything About the 2026 Clausura League Showdown](https://ai.trend.dmomo.co.kr/2026/04/tigres-vs-chivas-everything-about-2026.html) <br/>
+[2026/04/11 - Comprehensive Guide to the Third Living Support Fund Payment: How to Receive Up to 600,000 Won in Fuel Cost Assistance](https://ai.trend.dmomo.co.kr/2026/04/comprehensive-guide-to-third-living.html) <br/>
+[2026/04/11 - Eric Swalwell's Sexual Assault Allegations: Will the California Governor Race Be Turned Upside Down?](https://ai.trend.dmomo.co.kr/2026/04/eric-swalwells-sexual-assault.html) <br/>
 [2026/04/11 - 5 Ways to Create an Amazon Aurora PostgreSQL Serverless Express Database in Seconds](https://ai.trend.dmomo.co.kr/2026/04/5-ways-to-create-amazon-aurora.html) <br/>
-[2026/04/11 - NASA Artemis II Spaceship Earth Return Live Broadcast - Pacific Splashdown at 8:07 PM Tonight](https://ai.trend.dmomo.co.kr/2026/04/nasa-artemis-ii-spaceship-earth-return.html) <br/>
-[2026/04/11 - Youn Yeo-jung's Son, Jo-nul: Story of His Career as a Hip-Hop Consultant in LA](https://ai.trend.dmomo.co.kr/2026/04/youn-yeo-jungs-son-jo-nul-story-of-his.html) <br/>
-[2026/04/10 - CVE-2026-34040: Latest Response Strategies and 4 Tips for Finding Reliable Information](https://ai.trend.dmomo.co.kr/2026/04/cve-2026-34040-latest-response.html) <br/>
-[2026/04/10 - Youn Yuh-jung's Son Jo-neul Shares Updates on His Life as a Hip-Hop Manager in LA](https://ai.trend.dmomo.co.kr/2026/04/youn-yuh-jungs-son-jo-neul-shares.html) <br/>
-[2026/04/10 - Korean Fraud Crimes Surge 80% Over 10 Years: Why Are They More Dangerous Than Theft?](https://ai.trend.dmomo.co.kr/2026/04/korean-fraud-crimes-surge-80-over-10.html) <br/>
