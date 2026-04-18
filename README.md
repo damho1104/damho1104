@@ -87,23 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/04/18 - 인구감소지역 지원금 최대 25만원, 우리 동네는 얼마나 받을까?](https://blog.ai.dmomo.co.kr/trend/24252) <br/>
+[2026/04/18 - 에인절스 전설 게릿 앤더슨 53세 별세: 2002 월드시리즈 영웅의 마지막 안녕](https://blog.ai.dmomo.co.kr/trend/24250) <br/>
 [2026/04/18 - 2026년 AI 기반 Vibe Coding과 시민 개발자가 바꾸는 Low-code 혁명 핵심 트렌드](https://blog.ai.dmomo.co.kr/tech/24235) <br/>
-[2026/04/18 - 죄송하지만 제공된 컨텐츠가 ‘아현’에 대한 정보 부재를 설명하는 내용이어서, 실제 블로그 제목을 생성하기에는 적절한 주제나 내용이 없습니다.
-
-블로그 제목을 생성하려면 다음과 같은 구체적인 컨텐츠가 필요합니다:
-– 특정 주제에 대한 정보나 설명
-– 팁, 가이드, 리뷰 등의 실질적인 내용
-– 독자에게 가치를 제공할 수 있는 콘텐츠
-
-현재 내용은 검색 결과 부재에 대한 안내문이므로, 실제 주제에 대한 컨텐츠를 제공해주시면 매력적이고 SEO 최적화된 제목을 생성해드리겠습니다.](https://blog.ai.dmomo.co.kr/trend/24233) <br/>
 [2026/04/18 - D4vd 체포 충격: 14세 소녀 살인 혐의로 구금된 TikTok 스타 가수의 몰락](https://blog.ai.dmomo.co.kr/trend/24231) <br/>
 [2026/04/17 - 2026년 4월 오늘의 핵심 뉴스: 이재명 대통령 호르무즈 회의 참석, 중동 휴전 합의](https://blog.ai.dmomo.co.kr/trend/24205) <br/>
-[2026/04/17 - 안선영 남편과 별거 후 삶의 변화: 큰집 버리고 명품백까지 정리한 이유](https://blog.ai.dmomo.co.kr/trend/24187) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/04/18 - Support Fund for Declining Population Areas: Up to 250,000 Won – How Much Will Our Neighborhood Receive?](https://ai.trend.dmomo.co.kr/2026/04/support-fund-for-declining-population.html) <br/>
+[2026/04/18 - Angels Legend Garrett Anderson, 53, Passes Away: Farewell to the 2002 World Series Hero](https://ai.trend.dmomo.co.kr/2026/04/angels-legend-garrett-anderson-53.html) <br/>
 [2026/04/18 - 2026 AI-Powered Vibe Coding and Citizen Developers: Core Trends Driving the Low-Code Revolution](https://ai.trend.dmomo.co.kr/2026/04/2026-ai-powered-vibe-coding-and-citizen.html) <br/>
 [2026/04/18 - D4vd Arrest Shock: The Fall of the TikTok Star Singer Detained for the Murder of a 14-Year-Old Girl](https://ai.trend.dmomo.co.kr/2026/04/d4vd-arrest-shock-fall-of-tiktok-star.html) <br/>
 [2026/04/17 - April 2026 Key News: President Lee Jae-myung Attends Hormuz Meeting, Middle East Ceasefire Agreement](https://ai.trend.dmomo.co.kr/2026/04/april-2026-key-news-president-lee-jae.html) <br/>
 [2026/04/17 - Changes in Life After Separation from Husband: The Reason Behind Leaving the Big House and Decluttering Luxury Bags](https://ai.trend.dmomo.co.kr/2026/04/changes-in-life-after-separation-from.html) <br/>
-[2026/04/17 - 2026 Latest Google Code Wiki: 5 Secrets How AI is Revolutionizing DevOps Documentation Automation](https://ai.trend.dmomo.co.kr/2026/04/2026-latest-google-code-wiki-5-secrets.html) <br/>
-[2026/04/17 - The Tragic Conclusion: The Justin Fairfax Murder-Suicide Incident of Former Virginia Lieutenant Governor](https://ai.trend.dmomo.co.kr/2026/04/the-tragic-conclusion-justin-fairfax.html) <br/>
