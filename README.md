@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/04/18 - 인구감소지역 지원금 최대 25만원, 우리 동네는 얼마나 받을까?](https://blog.ai.dmomo.co.kr/trend/24252) <br/>
-[2026/04/18 - 에인절스 전설 게릿 앤더슨 53세 별세: 2002 월드시리즈 영웅의 마지막 안녕](https://blog.ai.dmomo.co.kr/trend/24250) <br/>
-[2026/04/18 - 2026년 AI 기반 Vibe Coding과 시민 개발자가 바꾸는 Low-code 혁명 핵심 트렌드](https://blog.ai.dmomo.co.kr/tech/24235) <br/>
-[2026/04/18 - D4vd 체포 충격: 14세 소녀 살인 혐의로 구금된 TikTok 스타 가수의 몰락](https://blog.ai.dmomo.co.kr/trend/24231) <br/>
-[2026/04/17 - 2026년 4월 오늘의 핵심 뉴스: 이재명 대통령 호르무즈 회의 참석, 중동 휴전 합의](https://blog.ai.dmomo.co.kr/trend/24205) <br/>
+[2026/04/19 - 30일 연속 운용 가능한 Deep Researcher Agent의 LLM 자율 딥러닝 실험 혁신](https://blog.ai.dmomo.co.kr/tech/24285) <br/>
+[2026/04/19 - 토트넘 15경기 연속 무승, 브라이턴과 2-2 무승부로 강등권 위기 심화](https://blog.ai.dmomo.co.kr/trend/24282) <br/>
+[2026/04/19 - 레알 소시에다드, 아틀레티코 마드리드 꺾고 4번째 코파 델 레이 우승](https://blog.ai.dmomo.co.kr/trend/24281) <br/>
+[2026/04/19 - 검색 결과가 엉뚱한 내용만? IT 정보 찾기 실패 사례와 해결법](https://blog.ai.dmomo.co.kr/ai/24273) <br/>
+[2026/04/18 - 수학여행의 진짜 의미: 단순 관광이 아닌 살아있는 교육 현장 체험기](https://blog.ai.dmomo.co.kr/trend/24264) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/04/19 - Deep Researcher Agent: Pioneering Autonomous Deep Learning Experiments with 30 Days of Continuous Operation](https://ai.trend.dmomo.co.kr/2026/04/deep-researcher-agent-pioneering.html) <br/>
+[2026/04/19 - Tottenham's 15-Match Winless Streak Deepens Relegation Threat with 2-2 Draw Against Brighton](https://ai.trend.dmomo.co.kr/2026/04/tottenhams-15-match-winless-streak.html) <br/>
+[2026/04/19 - Real Sociedad Triumphs Over Atletico Madrid to Secure Fourth Copa del Rey Title](https://ai.trend.dmomo.co.kr/2026/04/real-sociedad-triumphs-over-atletico.html) <br/>
+[2026/04/18 - The True Meaning of School Trips: An Educational Experience Beyond Simple Tourism](https://ai.trend.dmomo.co.kr/2026/04/the-true-meaning-of-school-trips.html) <br/>
 [2026/04/18 - Support Fund for Declining Population Areas: Up to 250,000 Won – How Much Will Our Neighborhood Receive?](https://ai.trend.dmomo.co.kr/2026/04/support-fund-for-declining-population.html) <br/>
 [2026/04/18 - Angels Legend Garrett Anderson, 53, Passes Away: Farewell to the 2002 World Series Hero](https://ai.trend.dmomo.co.kr/2026/04/angels-legend-garrett-anderson-53.html) <br/>
-[2026/04/18 - 2026 AI-Powered Vibe Coding and Citizen Developers: Core Trends Driving the Low-Code Revolution](https://ai.trend.dmomo.co.kr/2026/04/2026-ai-powered-vibe-coding-and-citizen.html) <br/>
-[2026/04/18 - D4vd Arrest Shock: The Fall of the TikTok Star Singer Detained for the Murder of a 14-Year-Old Girl](https://ai.trend.dmomo.co.kr/2026/04/d4vd-arrest-shock-fall-of-tiktok-star.html) <br/>
-[2026/04/17 - April 2026 Key News: President Lee Jae-myung Attends Hormuz Meeting, Middle East Ceasefire Agreement](https://ai.trend.dmomo.co.kr/2026/04/april-2026-key-news-president-lee-jae.html) <br/>
-[2026/04/17 - Changes in Life After Separation from Husband: The Reason Behind Leaving the Big House and Decluttering Luxury Bags](https://ai.trend.dmomo.co.kr/2026/04/changes-in-life-after-separation-from.html) <br/>
