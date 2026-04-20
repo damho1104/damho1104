@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/04/19 - 30일 연속 운용 가능한 Deep Researcher Agent의 LLM 자율 딥러닝 실험 혁신](https://blog.ai.dmomo.co.kr/tech/24285) <br/>
-[2026/04/19 - 토트넘 15경기 연속 무승, 브라이턴과 2-2 무승부로 강등권 위기 심화](https://blog.ai.dmomo.co.kr/trend/24282) <br/>
-[2026/04/19 - 레알 소시에다드, 아틀레티코 마드리드 꺾고 4번째 코파 델 레이 우승](https://blog.ai.dmomo.co.kr/trend/24281) <br/>
-[2026/04/19 - 검색 결과가 엉뚱한 내용만? IT 정보 찾기 실패 사례와 해결법](https://blog.ai.dmomo.co.kr/ai/24273) <br/>
-[2026/04/18 - 수학여행의 진짜 의미: 단순 관광이 아닌 살아있는 교육 현장 체험기](https://blog.ai.dmomo.co.kr/trend/24264) <br/>
+[2026/04/20 - LA FC vs 산호세: 2026 MLS 플레이오프 격돌 프리뷰](https://blog.ai.dmomo.co.kr/trend/24337) <br/>
+[2026/04/20 - LightRAG 혁신기술: 지식 그래프 기반 RAG로 성능 2배 높이려면?](https://blog.ai.dmomo.co.kr/tech/24336) <br/>
+[2026/04/20 - 루이지애나 집단 총격: 8명 어린이 살해, 2년 만에 최악의 참사](https://blog.ai.dmomo.co.kr/trend/24335) <br/>
+[2026/04/19 - 전현무 2027년 5월 결혼 발표! 1000명 하객 초대 예정](https://blog.ai.dmomo.co.kr/trend/24315) <br/>
+[2026/04/19 - NBA 플레이오프 2026: Rockets vs Lakers 부상 악재 속 격돌 분석](https://blog.ai.dmomo.co.kr/trend/24300) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/04/20 - LightRAG Innovation: How to Double Performance with Knowledge Graph-Based RAG](https://ai.trend.dmomo.co.kr/2026/04/lightrag-innovation-how-to-double.html) <br/>
+[2026/04/20 - LA FC vs San Jose: 2026 MLS Playoff Showdown Preview](https://ai.trend.dmomo.co.kr/2026/04/la-fc-vs-san-jose-2026-mls-playoff.html) <br/>
+[2026/04/20 - Louisiana Mass Shooting: 8 Children Killed in Worst Tragedy in 2 Years](https://ai.trend.dmomo.co.kr/2026/04/louisiana-mass-shooting-8-children.html) <br/>
+[2026/04/19 - Jeon Hyun-moo to Announce Wedding in May 2027! Planning to Invite 1,000 Guests](https://ai.trend.dmomo.co.kr/2026/04/jeon-hyun-moo-to-announce-wedding-in.html) <br/>
+[2026/04/19 - NBA Playoffs 2026: Clash Analysis of Rockets vs Lakers Amid Injury Setbacks](https://ai.trend.dmomo.co.kr/2026/04/nba-playoffs-2026-clash-analysis-of.html) <br/>
 [2026/04/19 - Deep Researcher Agent: Pioneering Autonomous Deep Learning Experiments with 30 Days of Continuous Operation](https://ai.trend.dmomo.co.kr/2026/04/deep-researcher-agent-pioneering.html) <br/>
-[2026/04/19 - Tottenham's 15-Match Winless Streak Deepens Relegation Threat with 2-2 Draw Against Brighton](https://ai.trend.dmomo.co.kr/2026/04/tottenhams-15-match-winless-streak.html) <br/>
-[2026/04/19 - Real Sociedad Triumphs Over Atletico Madrid to Secure Fourth Copa del Rey Title](https://ai.trend.dmomo.co.kr/2026/04/real-sociedad-triumphs-over-atletico.html) <br/>
-[2026/04/18 - The True Meaning of School Trips: An Educational Experience Beyond Simple Tourism](https://ai.trend.dmomo.co.kr/2026/04/the-true-meaning-of-school-trips.html) <br/>
-[2026/04/18 - Support Fund for Declining Population Areas: Up to 250,000 Won – How Much Will Our Neighborhood Receive?](https://ai.trend.dmomo.co.kr/2026/04/support-fund-for-declining-population.html) <br/>
-[2026/04/18 - Angels Legend Garrett Anderson, 53, Passes Away: Farewell to the 2002 World Series Hero](https://ai.trend.dmomo.co.kr/2026/04/angels-legend-garrett-anderson-53.html) <br/>
