@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/04/21 - 2026년 최신 Edge AI 기술 혁신, SiMa.ai Modalix SoM의 비밀은 무엇인가](https://blog.ai.dmomo.co.kr/tech/24405) <br/>
+[2026/04/21 - 2025년 연금투자 완벽가이드: 생애주기별 72개 추천상품 대공개](https://blog.ai.dmomo.co.kr/trend/24403) <br/>
+[2026/04/21 - 드라마 스타 패트릭 멀둔, 57세 나이로 심장마비로 갑작스럽게 사망](https://blog.ai.dmomo.co.kr/trend/24401) <br/>
+[2026/04/20 - 미국 역사상 최악의 가정폭력, 8명 어린이 희생된 루이지애나 총격 사건의 전말](https://blog.ai.dmomo.co.kr/trend/24360) <br/>
 [2026/04/20 - LA FC vs 산호세: 2026 MLS 플레이오프 격돌 프리뷰](https://blog.ai.dmomo.co.kr/trend/24337) <br/>
-[2026/04/20 - LightRAG 혁신기술: 지식 그래프 기반 RAG로 성능 2배 높이려면?](https://blog.ai.dmomo.co.kr/tech/24336) <br/>
-[2026/04/20 - 루이지애나 집단 총격: 8명 어린이 살해, 2년 만에 최악의 참사](https://blog.ai.dmomo.co.kr/trend/24335) <br/>
-[2026/04/19 - 전현무 2027년 5월 결혼 발표! 1000명 하객 초대 예정](https://blog.ai.dmomo.co.kr/trend/24315) <br/>
-[2026/04/19 - NBA 플레이오프 2026: Rockets vs Lakers 부상 악재 속 격돌 분석](https://blog.ai.dmomo.co.kr/trend/24300) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/04/21 - 2026 Cutting-Edge Edge AI Innovations: The Secrets Behind SiMa.ai Modalix SoM](https://ai.trend.dmomo.co.kr/2026/04/2026-cutting-edge-edge-ai-innovations.html) <br/>
+[2026/04/21 - The Ultimate Guide to Retirement Investment in 2025: Unveiling 72 Recommended Products by Life Stage](https://ai.trend.dmomo.co.kr/2026/04/the-ultimate-guide-to-retirement.html) <br/>
+[2026/04/21 - Drama Star Patrick Muldoon Passes Away Suddenly at Age 57 from Heart Attack](https://ai.trend.dmomo.co.kr/2026/04/drama-star-patrick-muldoon-passes-away.html) <br/>
+[2026/04/20 - The Horrific Louisiana Shooting: A Deep Dive into America's Deadliest Domestic Violence Case with Eight Child Victims](https://ai.trend.dmomo.co.kr/2026/04/the-horrific-louisiana-shooting-deep.html) <br/>
 [2026/04/20 - LightRAG Innovation: How to Double Performance with Knowledge Graph-Based RAG](https://ai.trend.dmomo.co.kr/2026/04/lightrag-innovation-how-to-double.html) <br/>
 [2026/04/20 - LA FC vs San Jose: 2026 MLS Playoff Showdown Preview](https://ai.trend.dmomo.co.kr/2026/04/la-fc-vs-san-jose-2026-mls-playoff.html) <br/>
-[2026/04/20 - Louisiana Mass Shooting: 8 Children Killed in Worst Tragedy in 2 Years](https://ai.trend.dmomo.co.kr/2026/04/louisiana-mass-shooting-8-children.html) <br/>
-[2026/04/19 - Jeon Hyun-moo to Announce Wedding in May 2027! Planning to Invite 1,000 Guests](https://ai.trend.dmomo.co.kr/2026/04/jeon-hyun-moo-to-announce-wedding-in.html) <br/>
-[2026/04/19 - NBA Playoffs 2026: Clash Analysis of Rockets vs Lakers Amid Injury Setbacks](https://ai.trend.dmomo.co.kr/2026/04/nba-playoffs-2026-clash-analysis-of.html) <br/>
-[2026/04/19 - Deep Researcher Agent: Pioneering Autonomous Deep Learning Experiments with 30 Days of Continuous Operation](https://ai.trend.dmomo.co.kr/2026/04/deep-researcher-agent-pioneering.html) <br/>
