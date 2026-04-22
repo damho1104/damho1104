@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/04/21 - 2026년 최신 Edge AI 기술 혁신, SiMa.ai Modalix SoM의 비밀은 무엇인가](https://blog.ai.dmomo.co.kr/tech/24405) <br/>
-[2026/04/21 - 2025년 연금투자 완벽가이드: 생애주기별 72개 추천상품 대공개](https://blog.ai.dmomo.co.kr/trend/24403) <br/>
-[2026/04/21 - 드라마 스타 패트릭 멀둔, 57세 나이로 심장마비로 갑작스럽게 사망](https://blog.ai.dmomo.co.kr/trend/24401) <br/>
-[2026/04/20 - 미국 역사상 최악의 가정폭력, 8명 어린이 희생된 루이지애나 총격 사건의 전말](https://blog.ai.dmomo.co.kr/trend/24360) <br/>
-[2026/04/20 - LA FC vs 산호세: 2026 MLS 플레이오프 격돌 프리뷰](https://blog.ai.dmomo.co.kr/trend/24337) <br/>
+[2026/04/22 - 2026년 DevOps 혁신 이끄는 Google Code Wiki AI 문서 자동 생성 비밀은?](https://blog.ai.dmomo.co.kr/tech/24475) <br/>
+[2026/04/22 - 2026년 5월 4일 임시공휴일 지정 가능성과 정부 공식 입장 총정리](https://blog.ai.dmomo.co.kr/trend/24473) <br/>
+[2026/04/22 - 버지니아 재선거구 획정 국민투표: 민주당의 도전과 2026 중간선거의 운명](https://blog.ai.dmomo.co.kr/trend/24471) <br/>
+[2026/04/21 - 5월 4일 임시공휴일 지정 안 한다! 대통령실 공식 입장 발표](https://blog.ai.dmomo.co.kr/trend/24447) <br/>
+[2026/04/21 - 팀 쿡 애플 CEO 15년 만에 전격 사임, 후임자는 누구?](https://blog.ai.dmomo.co.kr/trend/24445) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/04/21 - 2026 Cutting-Edge Edge AI Innovations: The Secrets Behind SiMa.ai Modalix SoM](https://ai.trend.dmomo.co.kr/2026/04/2026-cutting-edge-edge-ai-innovations.html) <br/>
-[2026/04/21 - The Ultimate Guide to Retirement Investment in 2025: Unveiling 72 Recommended Products by Life Stage](https://ai.trend.dmomo.co.kr/2026/04/the-ultimate-guide-to-retirement.html) <br/>
-[2026/04/21 - Drama Star Patrick Muldoon Passes Away Suddenly at Age 57 from Heart Attack](https://ai.trend.dmomo.co.kr/2026/04/drama-star-patrick-muldoon-passes-away.html) <br/>
-[2026/04/20 - The Horrific Louisiana Shooting: A Deep Dive into America's Deadliest Domestic Violence Case with Eight Child Victims](https://ai.trend.dmomo.co.kr/2026/04/the-horrific-louisiana-shooting-deep.html) <br/>
-[2026/04/20 - LightRAG Innovation: How to Double Performance with Knowledge Graph-Based RAG](https://ai.trend.dmomo.co.kr/2026/04/lightrag-innovation-how-to-double.html) <br/>
-[2026/04/20 - LA FC vs San Jose: 2026 MLS Playoff Showdown Preview](https://ai.trend.dmomo.co.kr/2026/04/la-fc-vs-san-jose-2026-mls-playoff.html) <br/>
+[2026/04/22 - What’s the Secret Behind Google Code Wiki’s AI-Powered Automated Docs Driving DevOps Innovation in 2026?](https://ai.trend.dmomo.co.kr/2026/04/whats-secret-behind-google-code-wikis.html) <br/>
+[2026/04/22 - Possibility of May 4, 2026, Being Designated as a Temporary Holiday: A Comprehensive Overview of the Government's Official Stance](https://ai.trend.dmomo.co.kr/2026/04/possibility-of-may-4-2026-being.html) <br/>
+[2026/04/22 - Virginia Redistricting Referendum: The Democratic Challenge and the Fate of the 2026 Midterms](https://ai.trend.dmomo.co.kr/2026/04/virginia-redistricting-referendum.html) <br/>
+[2026/04/21 - No Temporary Holiday Designation on May 4th! Official Statement from the Presidential Office](https://ai.trend.dmomo.co.kr/2026/04/no-temporary-holiday-designation-on-may.html) <br/>
+[2026/04/21 - Tim Cook, Apple CEO Resigns After 15 Years: Who Will Succeed Him?](https://ai.trend.dmomo.co.kr/2026/04/tim-cook-apple-ceo-resigns-after-15.html) <br/>
+[2026/04/21 - No Substitute for Labor Day 2026! Complete Guide to the Changed Public Holiday System](https://ai.trend.dmomo.co.kr/2026/04/no-substitute-for-labor-day-2026.html) <br/>
