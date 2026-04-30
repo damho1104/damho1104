@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/04/29 - PSG vs 바이에른 챔스 4강 대결: 김민재와 이강인의 운명은?](https://blog.ai.dmomo.co.kr/trend/24893) <br/>
-[2026/04/29 - 2026년 Serverless GPU 컴퓨팅 혁신, AI Runtime의 모든 것 분석](https://blog.ai.dmomo.co.kr/tech/24891) <br/>
-[2026/04/29 - PSG, 바이에른 뮌헨 5-4 제압! 챔피언스리그 역대급 9골 난타전](https://blog.ai.dmomo.co.kr/trend/24889) <br/>
-[2026/04/28 - 디아블로4 증오의 군주 확장팩: 메타크리틱 83점 달성한 신규 콘텐츠 총정리](https://blog.ai.dmomo.co.kr/trend/24869) <br/>
-[2026/04/28 - 한상진 3년 연속 가족 비극, 부산 새 프로그램으로 희망 찾다](https://blog.ai.dmomo.co.kr/trend/24866) <br/>
+[2026/04/30 - 2026년 AIoT 혁신: 스마트 산업과 도시를 바꾸는 지능형 IoT 기술](https://blog.ai.dmomo.co.kr/tech/24959) <br/>
+[2026/04/30 - 로버트 기요사키가 경고한 2027년 대공황, 위기를 기회로 만드는 투자 전략](https://blog.ai.dmomo.co.kr/trend/24957) <br/>
+[2026/04/30 - 141년 역사 텍사스 람메스 캔디, 충격적인 폐업 결정의 진짜 이유](https://blog.ai.dmomo.co.kr/trend/24955) <br/>
+[2026/04/29 - 로버트 기요사키의 2026년 대공황 경고: 위기를 기회로 바꾸는 투자 전략](https://blog.ai.dmomo.co.kr/trend/24932) <br/>
+[2026/04/29 - 코스트코 핫도그 콤보 40년 만에 대변화! 물 옵션 추가로 논란 가열](https://blog.ai.dmomo.co.kr/trend/24914) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/04/30 - AIoT Innovation 2026: Intelligent IoT Technologies Transforming Smart Industries and Cities](https://ai.trend.dmomo.co.kr/2026/04/aiot-innovation-2026-intelligent-iot.html) <br/>
+[2026/04/30 - Robert Kiyosaki's Warning: The 2027 Great Depression and Investment Strategies to Turn Crisis into Opportunity](https://ai.trend.dmomo.co.kr/2026/04/robert-kiyosakis-warning-2027-great.html) <br/>
+[2026/04/30 - The Shocking Truth Behind the Closure of 141-Year-Old Texas Rammus Candy](https://ai.trend.dmomo.co.kr/2026/04/the-shocking-truth-behind-closure-of.html) <br/>
+[2026/04/29 - Robert Kiyosaki's Warning of the 2026 Great Depression: Investment Strategies to Turn Crisis into Opportunity](https://ai.trend.dmomo.co.kr/2026/04/robert-kiyosakis-warning-of-2026-great.html) <br/>
 [2026/04/29 - PSG vs Bayern: Champions League Semifinal Showdown - What’s at Stake for Kim Min-jae and Lee Kang-in?](https://ai.trend.dmomo.co.kr/2026/04/psg-vs-bayern-champions-league.html) <br/>
 [2026/04/29 - The 2026 Revolution in Serverless GPU Computing: A Comprehensive Analysis of AI Runtime](https://ai.trend.dmomo.co.kr/2026/04/the-2026-revolution-in-serverless-gpu.html) <br/>
-[2026/04/29 - PSG Triumphs Over Bayern Munich 5-4! A Historic 9-Goal Clash in the Champions League](https://ai.trend.dmomo.co.kr/2026/04/psg-triumphs-over-bayern-munich-5-4.html) <br/>
-[2026/04/28 - Diablo 4: Lord of Hatred Expansion - Comprehensive Overview of New Content Achieving a Metacritic Score of 83](https://ai.trend.dmomo.co.kr/2026/04/diablo-4-lord-of-hatred-expansion.html) <br/>
-[2026/04/28 - Han Sang-jin: Finding Hope Through New Program Amidst Family Tragedy for Three Consecutive Years](https://ai.trend.dmomo.co.kr/2026/04/han-sang-jin-finding-hope-through-new.html) <br/>
-[2026/04/28 - Jimmy Kimmel's Shocking Statement: What’s the Real Reason He Called Melania a 'Widow'?](https://ai.trend.dmomo.co.kr/2026/04/jimmy-kimmels-shocking-statement-whats.html) <br/>
