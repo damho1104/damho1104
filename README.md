@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/04/30 - 2026년 AIoT 혁신: 스마트 산업과 도시를 바꾸는 지능형 IoT 기술](https://blog.ai.dmomo.co.kr/tech/24959) <br/>
-[2026/04/30 - 로버트 기요사키가 경고한 2027년 대공황, 위기를 기회로 만드는 투자 전략](https://blog.ai.dmomo.co.kr/trend/24957) <br/>
-[2026/04/30 - 141년 역사 텍사스 람메스 캔디, 충격적인 폐업 결정의 진짜 이유](https://blog.ai.dmomo.co.kr/trend/24955) <br/>
-[2026/04/29 - 로버트 기요사키의 2026년 대공황 경고: 위기를 기회로 바꾸는 투자 전략](https://blog.ai.dmomo.co.kr/trend/24932) <br/>
-[2026/04/29 - 코스트코 핫도그 콤보 40년 만에 대변화! 물 옵션 추가로 논란 가열](https://blog.ai.dmomo.co.kr/trend/24914) <br/>
+[2026/05/01 - 2026년 AI가 바꾸는 소프트웨어 보안: 자율 취약점 발견의 혁신 전략](https://blog.ai.dmomo.co.kr/tech/25031) <br/>
+[2026/05/01 - 주스 아저씨 박동빈, 56세 나이로 별세…그가 남긴 특별한 유산](https://blog.ai.dmomo.co.kr/trend/25029) <br/>
+[2026/05/01 - 데이비드 앨런 코: 86세로 별세한 아웃로 컨트리의 전설적 싱어송라이터](https://blog.ai.dmomo.co.kr/trend/25027) <br/>
+[2026/04/30 - 주스 아저씨 박동빈, 오렌지 주스 한 잔이 만든 전설의 탄생과 이별](https://blog.ai.dmomo.co.kr/trend/25004) <br/>
+[2026/04/30 - 손흥민 2도움 폭발! LA FC, 톨루카에 2-1 극적 역전승](https://blog.ai.dmomo.co.kr/trend/24989) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/04/30 - AIoT Innovation 2026: Intelligent IoT Technologies Transforming Smart Industries and Cities](https://ai.trend.dmomo.co.kr/2026/04/aiot-innovation-2026-intelligent-iot.html) <br/>
-[2026/04/30 - Robert Kiyosaki's Warning: The 2027 Great Depression and Investment Strategies to Turn Crisis into Opportunity](https://ai.trend.dmomo.co.kr/2026/04/robert-kiyosakis-warning-2027-great.html) <br/>
-[2026/04/30 - The Shocking Truth Behind the Closure of 141-Year-Old Texas Rammus Candy](https://ai.trend.dmomo.co.kr/2026/04/the-shocking-truth-behind-closure-of.html) <br/>
-[2026/04/29 - Robert Kiyosaki's Warning of the 2026 Great Depression: Investment Strategies to Turn Crisis into Opportunity](https://ai.trend.dmomo.co.kr/2026/04/robert-kiyosakis-warning-of-2026-great.html) <br/>
-[2026/04/29 - PSG vs Bayern: Champions League Semifinal Showdown - What’s at Stake for Kim Min-jae and Lee Kang-in?](https://ai.trend.dmomo.co.kr/2026/04/psg-vs-bayern-champions-league.html) <br/>
-[2026/04/29 - The 2026 Revolution in Serverless GPU Computing: A Comprehensive Analysis of AI Runtime](https://ai.trend.dmomo.co.kr/2026/04/the-2026-revolution-in-serverless-gpu.html) <br/>
+[2026/05/01 - Software Security Transformed by AI in 2026: Innovative Strategies for Autonomous Vulnerability Detection](https://ai.trend.dmomo.co.kr/2026/04/software-security-transformed-by-ai-in.html) <br/>
+[2026/05/01 - David Allan Coe: Legendary Outlaw Country Singer-Songwriter Passes Away at 86](https://ai.trend.dmomo.co.kr/2026/04/david-allan-coe-legendary-outlaw.html) <br/>
+[2026/05/01 - Juice Uncle Park Dong-bin Passes Away at 56 - His Special Legacy Left Behind](https://ai.trend.dmomo.co.kr/2026/04/juice-uncle-park-dong-bin-passes-away.html) <br/>
+[2026/04/30 - The Legend of Juice Uncle Park Dong-bin: The Birth and Farewell of an Orange Juice Story](https://ai.trend.dmomo.co.kr/2026/04/the-legend-of-juice-uncle-park-dong-bin.html) <br/>
+[2026/04/30 - Son Heung-min's Two Assists Explosion! LA FC's Dramatic Comeback Victory Over Toluca 2-1](https://ai.trend.dmomo.co.kr/2026/04/son-heung-mins-two-assists-explosion-la.html) <br/>
+[2026/04/30 - Country Music Legend David Allan Coe Passes Away at 86](https://ai.trend.dmomo.co.kr/2026/04/country-music-legend-david-allan-coe.html) <br/>
