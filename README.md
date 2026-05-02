@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/05/01 - 2026년 AI가 바꾸는 소프트웨어 보안: 자율 취약점 발견의 혁신 전략](https://blog.ai.dmomo.co.kr/tech/25031) <br/>
-[2026/05/01 - 주스 아저씨 박동빈, 56세 나이로 별세…그가 남긴 특별한 유산](https://blog.ai.dmomo.co.kr/trend/25029) <br/>
-[2026/05/01 - 데이비드 앨런 코: 86세로 별세한 아웃로 컨트리의 전설적 싱어송라이터](https://blog.ai.dmomo.co.kr/trend/25027) <br/>
-[2026/04/30 - 주스 아저씨 박동빈, 오렌지 주스 한 잔이 만든 전설의 탄생과 이별](https://blog.ai.dmomo.co.kr/trend/25004) <br/>
-[2026/04/30 - 손흥민 2도움 폭발! LA FC, 톨루카에 2-1 극적 역전승](https://blog.ai.dmomo.co.kr/trend/24989) <br/>
+[2026/05/02 - 2026년 AI 시대를 여는 페타바이트급 Serverless Java 메모리 혁신 전략](https://blog.ai.dmomo.co.kr/tech/25103) <br/>
+[2026/05/02 - 윤여정 넷플릭스 성난사람들2 송강호와 할리우드 진출 화제](https://blog.ai.dmomo.co.kr/trend/25101) <br/>
+[2026/05/02 - Spirit Airlines 폐업 위기: 이란 분쟁 연료비 급등으로 5억달러 구제 협상 결렬](https://blog.ai.dmomo.co.kr/trend/25099) <br/>
+[2026/05/01 - Taylor Swift의 미스터리 카운트다운: Toy Story 5 사운드트랙 참여 루머 분석](https://blog.ai.dmomo.co.kr/trend/25076) <br/>
+[2026/05/01 - 미네소타, 덴버 너겟츠 110-98 격파! 플레이오프 서부 준결승 진출](https://blog.ai.dmomo.co.kr/trend/25058) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/05/01 - Software Security Transformed by AI in 2026: Innovative Strategies for Autonomous Vulnerability Detection](https://ai.trend.dmomo.co.kr/2026/04/software-security-transformed-by-ai-in.html) <br/>
-[2026/05/01 - David Allan Coe: Legendary Outlaw Country Singer-Songwriter Passes Away at 86](https://ai.trend.dmomo.co.kr/2026/04/david-allan-coe-legendary-outlaw.html) <br/>
-[2026/05/01 - Juice Uncle Park Dong-bin Passes Away at 56 - His Special Legacy Left Behind](https://ai.trend.dmomo.co.kr/2026/04/juice-uncle-park-dong-bin-passes-away.html) <br/>
-[2026/04/30 - The Legend of Juice Uncle Park Dong-bin: The Birth and Farewell of an Orange Juice Story](https://ai.trend.dmomo.co.kr/2026/04/the-legend-of-juice-uncle-park-dong-bin.html) <br/>
-[2026/04/30 - Son Heung-min's Two Assists Explosion! LA FC's Dramatic Comeback Victory Over Toluca 2-1](https://ai.trend.dmomo.co.kr/2026/04/son-heung-mins-two-assists-explosion-la.html) <br/>
-[2026/04/30 - Country Music Legend David Allan Coe Passes Away at 86](https://ai.trend.dmomo.co.kr/2026/04/country-music-legend-david-allan-coe.html) <br/>
+[2026/05/02 - Petabyte-Scale Serverless Java Memory Innovation Strategies for the AI Era of 2026](https://ai.trend.dmomo.co.kr/2026/05/petabyte-scale-serverless-java-memory.html) <br/>
+[2026/05/02 - Spirit Airlines on the Brink of Bankruptcy: Failed Negotiations for $500 Million Bailout Amid Soaring Fuel Prices Due to Iranian Conflict](https://ai.trend.dmomo.co.kr/2026/05/spirit-airlines-on-brink-of-bankruptcy.html) <br/>
+[2026/05/02 - Youn Yuh-jung Joins Netflix's Angry People 2 with Song Kang-ho: A Hollywood Breakthrough](https://ai.trend.dmomo.co.kr/2026/05/youn-yuh-jung-joins-netflixs-angry.html) <br/>
+[2026/05/01 - Taylor Swift's Mystery Countdown: Analyzing Rumors of Her Involvement in the Toy Story 5 Soundtrack](https://ai.trend.dmomo.co.kr/2026/05/taylor-swifts-mystery-countdown.html) <br/>
+[2026/05/01 - Minnesota Defeats Denver Nuggets 110-98! Advances to Western Conference Semifinals](https://ai.trend.dmomo.co.kr/2026/04/minnesota-defeats-denver-nuggets-110-98.html) <br/>
+[2026/05/01 - Labor Day Finally Becomes a Legal Holiday in 2026: A Return After 63 Years](https://ai.trend.dmomo.co.kr/2026/04/labor-day-finally-becomes-legal-holiday.html) <br/>
