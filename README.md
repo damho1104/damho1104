@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/05/02 - 2026년 AI 시대를 여는 페타바이트급 Serverless Java 메모리 혁신 전략](https://blog.ai.dmomo.co.kr/tech/25103) <br/>
-[2026/05/02 - 윤여정 넷플릭스 성난사람들2 송강호와 할리우드 진출 화제](https://blog.ai.dmomo.co.kr/trend/25101) <br/>
-[2026/05/02 - Spirit Airlines 폐업 위기: 이란 분쟁 연료비 급등으로 5억달러 구제 협상 결렬](https://blog.ai.dmomo.co.kr/trend/25099) <br/>
-[2026/05/01 - Taylor Swift의 미스터리 카운트다운: Toy Story 5 사운드트랙 참여 루머 분석](https://blog.ai.dmomo.co.kr/trend/25076) <br/>
-[2026/05/01 - 미네소타, 덴버 너겟츠 110-98 격파! 플레이오프 서부 준결승 진출](https://blog.ai.dmomo.co.kr/trend/25058) <br/>
+[2026/05/03 - 2026년 AI 영업 자동화 혁신 7가지 유형과 Agentic AI 핵심 성공 전략](https://blog.ai.dmomo.co.kr/tech/25160) <br/>
+[2026/05/03 - 살림남2 환희가 어머니 영정사진 앞에서 오열한 진짜 이유](https://blog.ai.dmomo.co.kr/trend/25158) <br/>
+[2026/05/03 - 켄터키더비 2026: 여성 조련사 최초 우승의 역사적 순간](https://blog.ai.dmomo.co.kr/trend/25156) <br/>
+[2026/05/03 - IT 커뮤니티 인기글 분석: 검색 결과가 알려주는 의외의 진실](https://blog.ai.dmomo.co.kr/ai/25145) <br/>
+[2026/05/02 - 환희의 진정한 의미: 기쁨 너머 숨겨진 감정의 이중성](https://blog.ai.dmomo.co.kr/trend/25136) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/05/02 - Petabyte-Scale Serverless Java Memory Innovation Strategies for the AI Era of 2026](https://ai.trend.dmomo.co.kr/2026/05/petabyte-scale-serverless-java-memory.html) <br/>
-[2026/05/02 - Spirit Airlines on the Brink of Bankruptcy: Failed Negotiations for $500 Million Bailout Amid Soaring Fuel Prices Due to Iranian Conflict](https://ai.trend.dmomo.co.kr/2026/05/spirit-airlines-on-brink-of-bankruptcy.html) <br/>
-[2026/05/02 - Youn Yuh-jung Joins Netflix's Angry People 2 with Song Kang-ho: A Hollywood Breakthrough](https://ai.trend.dmomo.co.kr/2026/05/youn-yuh-jung-joins-netflixs-angry.html) <br/>
-[2026/05/01 - Taylor Swift's Mystery Countdown: Analyzing Rumors of Her Involvement in the Toy Story 5 Soundtrack](https://ai.trend.dmomo.co.kr/2026/05/taylor-swifts-mystery-countdown.html) <br/>
-[2026/05/01 - Minnesota Defeats Denver Nuggets 110-98! Advances to Western Conference Semifinals](https://ai.trend.dmomo.co.kr/2026/04/minnesota-defeats-denver-nuggets-110-98.html) <br/>
-[2026/05/01 - Labor Day Finally Becomes a Legal Holiday in 2026: A Return After 63 Years](https://ai.trend.dmomo.co.kr/2026/04/labor-day-finally-becomes-legal-holiday.html) <br/>
+[2026/05/03 - 7 Types of AI Sales Automation Innovations in 2026 and Key Success Strategies for Agentic AI](https://ai.trend.dmomo.co.kr/2026/05/7-types-of-ai-sales-automation.html) <br/>
+[2026/05/03 - Kentucky Derby 2026: A Historic Moment of Victory for a Female Trainer](https://ai.trend.dmomo.co.kr/2026/05/kentucky-derby-2026-historic-moment-of.html) <br/>
+[2026/05/03 - The Real Reason Hwanhee Wept Before His Mother's Portrait in Salimnam 2](https://ai.trend.dmomo.co.kr/2026/05/the-real-reason-hwanhee-wept-before-his.html) <br/>
+[2026/05/02 - The True Meaning of Joy: The Duality of Hidden Emotions Beyond Happiness](https://ai.trend.dmomo.co.kr/2026/05/the-true-meaning-of-joy-duality-of.html) <br/>
+[2026/05/02 - Lakers Defeat Rockets With LeBron's 28 Points, Advance to Western Conference Semifinals After 3 Years](https://ai.trend.dmomo.co.kr/2026/05/lakers-defeat-rockets-with-lebrons-28.html) <br/>
+[2026/05/02 - Dramatic Moment: Lotte Triumphs Over SSG 10-7 After 10-Inning Battle!](https://ai.trend.dmomo.co.kr/2026/05/dramatic-moment-lotte-triumphs-over-ssg.html) <br/>
