@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/05/03 - 2026년 AI 영업 자동화 혁신 7가지 유형과 Agentic AI 핵심 성공 전략](https://blog.ai.dmomo.co.kr/tech/25160) <br/>
-[2026/05/03 - 살림남2 환희가 어머니 영정사진 앞에서 오열한 진짜 이유](https://blog.ai.dmomo.co.kr/trend/25158) <br/>
-[2026/05/03 - 켄터키더비 2026: 여성 조련사 최초 우승의 역사적 순간](https://blog.ai.dmomo.co.kr/trend/25156) <br/>
-[2026/05/03 - IT 커뮤니티 인기글 분석: 검색 결과가 알려주는 의외의 진실](https://blog.ai.dmomo.co.kr/ai/25145) <br/>
-[2026/05/02 - 환희의 진정한 의미: 기쁨 너머 숨겨진 감정의 이중성](https://blog.ai.dmomo.co.kr/trend/25136) <br/>
+[2026/05/04 - 2026년 클라우드 보안 혁신, Cloud Detection and Response(CDR)란 무엇인가?](https://blog.ai.dmomo.co.kr/tech/25217) <br/>
+[2026/05/04 - 김수현 수척해진 근황, 법적 분쟁과 미성년자 논란의 진실은?](https://blog.ai.dmomo.co.kr/trend/25215) <br/>
+[2026/05/04 - 미국 한타바이러스 사망률 38%, 사슴쥐가 전파하는 치명적 폐증후군 HPS 주의보](https://blog.ai.dmomo.co.kr/trend/25213) <br/>
+[2026/05/03 - 2026 켄터키 더비: 여성 조련사 최초 우승의 역사적 순간](https://blog.ai.dmomo.co.kr/trend/25181) <br/>
+[2026/05/03 - 손흥민 MLS 도움 1위, LA FC 극장골로 샌디에이고와 2-2 무승부](https://blog.ai.dmomo.co.kr/trend/25179) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/05/04 - Cloud Security Innovations in 2026: What is Cloud Detection and Response (CDR)?](https://ai.trend.dmomo.co.kr/2026/05/cloud-security-innovations-in-2026-what.html) <br/>
+[2026/05/04 - Kim Soo-hyun's Recent Transformation: The Truth Behind Legal Disputes and Controversies Involving Minors?](https://ai.trend.dmomo.co.kr/2026/05/kim-soo-hyuns-recent-transformation.html) <br/>
+[2026/05/04 - Alert: Hantavirus in the U.S. Has a 38% Mortality Rate, Associated with Deadly Hantavirus Pulmonary Syndrome (HPS) Carried by Deer Mice](https://ai.trend.dmomo.co.kr/2026/05/alert-hantavirus-in-us-has-38-mortality.html) <br/>
+[2026/05/03 - Son Heung-min Leads MLS in Assists, LA FC Draws 2-2 with San Diego in Dramatic Finish](https://ai.trend.dmomo.co.kr/2026/05/son-heung-min-leads-mls-in-assists-la.html) <br/>
+[2026/05/03 - 2026 Kentucky Derby: A Historic Moment for the First Female Trainer's Victory](https://ai.trend.dmomo.co.kr/2026/05/2026-kentucky-derby-historic-moment-for.html) <br/>
 [2026/05/03 - 7 Types of AI Sales Automation Innovations in 2026 and Key Success Strategies for Agentic AI](https://ai.trend.dmomo.co.kr/2026/05/7-types-of-ai-sales-automation.html) <br/>
-[2026/05/03 - Kentucky Derby 2026: A Historic Moment of Victory for a Female Trainer](https://ai.trend.dmomo.co.kr/2026/05/kentucky-derby-2026-historic-moment-of.html) <br/>
-[2026/05/03 - The Real Reason Hwanhee Wept Before His Mother's Portrait in Salimnam 2](https://ai.trend.dmomo.co.kr/2026/05/the-real-reason-hwanhee-wept-before-his.html) <br/>
-[2026/05/02 - The True Meaning of Joy: The Duality of Hidden Emotions Beyond Happiness](https://ai.trend.dmomo.co.kr/2026/05/the-true-meaning-of-joy-duality-of.html) <br/>
-[2026/05/02 - Lakers Defeat Rockets With LeBron's 28 Points, Advance to Western Conference Semifinals After 3 Years](https://ai.trend.dmomo.co.kr/2026/05/lakers-defeat-rockets-with-lebrons-28.html) <br/>
-[2026/05/02 - Dramatic Moment: Lotte Triumphs Over SSG 10-7 After 10-Inning Battle!](https://ai.trend.dmomo.co.kr/2026/05/dramatic-moment-lotte-triumphs-over-ssg.html) <br/>
