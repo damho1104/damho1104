@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/05/05 - 2026년 AI가 자동 생성한 보안 패치가 소프트웨어 보안을 혁신하는 방법은?](https://blog.ai.dmomo.co.kr/tech/25271) <br/>
+[2026/05/05 - 김준호가 레전드 개그맨이 된 3가지 이유와 최근 근황](https://blog.ai.dmomo.co.kr/trend/25269) <br/>
+[2026/05/05 - 2026 Met Gala 최신 소식: 테마부터 참석 스타까지 완벽 정리](https://blog.ai.dmomo.co.kr/trend/25267) <br/>
 [2026/05/04 - 2026년 클라우드 보안 혁신, Cloud Detection and Response(CDR)란 무엇인가?](https://blog.ai.dmomo.co.kr/tech/25217) <br/>
 [2026/05/04 - 김수현 수척해진 근황, 법적 분쟁과 미성년자 논란의 진실은?](https://blog.ai.dmomo.co.kr/trend/25215) <br/>
-[2026/05/04 - 미국 한타바이러스 사망률 38%, 사슴쥐가 전파하는 치명적 폐증후군 HPS 주의보](https://blog.ai.dmomo.co.kr/trend/25213) <br/>
-[2026/05/03 - 2026 켄터키 더비: 여성 조련사 최초 우승의 역사적 순간](https://blog.ai.dmomo.co.kr/trend/25181) <br/>
-[2026/05/03 - 손흥민 MLS 도움 1위, LA FC 극장골로 샌디에이고와 2-2 무승부](https://blog.ai.dmomo.co.kr/trend/25179) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/05/05 - How AI-Generated Security Patches in 2026 Will Revolutionize Software Security](https://ai.trend.dmomo.co.kr/2026/05/how-ai-generated-security-patches-in.html) <br/>
+[2026/05/05 - Three Reasons Why Kim Jun-ho Became a Legendary Comedian and His Recent Updates](https://ai.trend.dmomo.co.kr/2026/05/three-reasons-why-kim-jun-ho-became.html) <br/>
+[2026/05/05 - Latest Updates on the 2026 Met Gala: Complete Overview of the Theme and Attending Stars](https://ai.trend.dmomo.co.kr/2026/05/latest-updates-on-2026-met-gala.html) <br/>
 [2026/05/04 - Cloud Security Innovations in 2026: What is Cloud Detection and Response (CDR)?](https://ai.trend.dmomo.co.kr/2026/05/cloud-security-innovations-in-2026-what.html) <br/>
 [2026/05/04 - Kim Soo-hyun's Recent Transformation: The Truth Behind Legal Disputes and Controversies Involving Minors?](https://ai.trend.dmomo.co.kr/2026/05/kim-soo-hyuns-recent-transformation.html) <br/>
 [2026/05/04 - Alert: Hantavirus in the U.S. Has a 38% Mortality Rate, Associated with Deadly Hantavirus Pulmonary Syndrome (HPS) Carried by Deer Mice](https://ai.trend.dmomo.co.kr/2026/05/alert-hantavirus-in-us-has-38-mortality.html) <br/>
-[2026/05/03 - Son Heung-min Leads MLS in Assists, LA FC Draws 2-2 with San Diego in Dramatic Finish](https://ai.trend.dmomo.co.kr/2026/05/son-heung-min-leads-mls-in-assists-la.html) <br/>
-[2026/05/03 - 2026 Kentucky Derby: A Historic Moment for the First Female Trainer's Victory](https://ai.trend.dmomo.co.kr/2026/05/2026-kentucky-derby-historic-moment-for.html) <br/>
-[2026/05/03 - 7 Types of AI Sales Automation Innovations in 2026 and Key Success Strategies for Agentic AI](https://ai.trend.dmomo.co.kr/2026/05/7-types-of-ai-sales-automation.html) <br/>
