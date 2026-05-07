@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/05/06 - 2026년 클라우드 보안 혁신, 자동화된 Cloud Detection and Response(CDR)란?](https://blog.ai.dmomo.co.kr/tech/25341) <br/>
-[2026/05/06 - 갤럭시 S26 진짜 살만할까? 2개월 사용 후 솔직 리뷰와 5월 할인 정보](https://blog.ai.dmomo.co.kr/trend/25339) <br/>
-[2026/05/06 - 2026 NBA 플레이오프: Cavaliers vs Pistons 준결승 1차전 심층 분석](https://blog.ai.dmomo.co.kr/trend/25337) <br/>
-[2026/05/05 - 기아 타이거즈, 한화 이글스에 12-7 대승! 어린이날 특별 경기 하이라이트](https://blog.ai.dmomo.co.kr/trend/25311) <br/>
-[2026/05/05 - Timberwolves가 Spurs 꺾고 플레이오프 준결승 1승 선취](https://blog.ai.dmomo.co.kr/trend/25293) <br/>
+[2026/05/07 - 2026 AI Agent 시장 지도: Agent Washing 실체와 엔터프라이즈 필수 평가 기준](https://blog.ai.dmomo.co.kr/tech/25413) <br/>
+[2026/05/07 - 현대 아이오닉 2026: 전기차 라인업 완성과 N 브랜드 확장 전략 분석](https://blog.ai.dmomo.co.kr/trend/25411) <br/>
+[2026/05/07 - CNN 창립자 테드 터너 87세로 별세: 미디어 혁명가의 마지막 인사](https://blog.ai.dmomo.co.kr/trend/25409) <br/>
+[2026/05/06 - 현대 아이오닉 V 중국 전용 전기차 공개, 1회 충전 600km 주행 가능](https://blog.ai.dmomo.co.kr/trend/25386) <br/>
+[2026/05/06 - 7세 소녀 살해한 FedEx 배송기사, 텍사스 법원 사형 선고 받아](https://blog.ai.dmomo.co.kr/trend/25368) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/05/06 - Cloud Security Innovations in 2026: What Is Automated Cloud Detection and Response (CDR)?](https://ai.trend.dmomo.co.kr/2026/05/cloud-security-innovations-in-2026-what_0655254415.html) <br/>
-[2026/05/06 - Is the Galaxy S26 Really Worth Buying? Honest Review After 2 Months of Use and May Discount Information](https://ai.trend.dmomo.co.kr/2026/05/is-galaxy-s26-really-worth-buying.html) <br/>
-[2026/05/06 - 2026 NBA Playoffs: In-Depth Analysis of Game 1 Semifinals - Cavaliers vs Pistons](https://ai.trend.dmomo.co.kr/2026/05/2026-nba-playoffs-in-depth-analysis-of.html) <br/>
-[2026/05/05 - Kia Tigers Secure a Major Victory Against Hanwha Eagles 12-7! Highlights from the Children's Day Special Match](https://ai.trend.dmomo.co.kr/2026/05/kia-tigers-secure-major-victory-against.html) <br/>
-[2026/05/05 - Timberwolves Secure Game 1 Victory Over Spurs in Playoff Semifinals](https://ai.trend.dmomo.co.kr/2026/05/timberwolves-secure-game-1-victory-over.html) <br/>
-[2026/05/05 - Cider Host Lee Ho-sun's Family Counseling Techniques as a Psychological Investigator](https://ai.trend.dmomo.co.kr/2026/05/cider-host-lee-ho-suns-family.html) <br/>
+[2026/05/07 - 2026 AI Agent Market Map: Unveiling Agent Washing and Essential Enterprise Evaluation Criteria](https://ai.trend.dmomo.co.kr/2026/05/2026-ai-agent-market-map-unveiling.html) <br/>
+[2026/05/07 - 2026 Hyundai Ioniq: Analysis of Electric Vehicle Lineup Completion and N Brand Expansion Strategy](https://ai.trend.dmomo.co.kr/2026/05/2026-hyundai-ioniq-analysis-of-electric.html) <br/>
+[2026/05/07 - CNN Founder Ted Turner Passes Away at 87: A Final Farewell from the Media Revolutionary](https://ai.trend.dmomo.co.kr/2026/05/cnn-founder-ted-turner-passes-away-at.html) <br/>
+[2026/05/06 - Hyundai Ioniq V Unveiled as China-Exclusive Electric Vehicle with 600km Range on a Single Charge](https://ai.trend.dmomo.co.kr/2026/05/hyundai-ioniq-v-unveiled-as-china.html) <br/>
+[2026/05/06 - FedEx Delivery Driver Sentenced to Death by Texas Court for Murdering 7-Year-Old Girl](https://ai.trend.dmomo.co.kr/2026/05/fedex-delivery-driver-sentenced-to.html) <br/>
+[2026/05/06 - Judge Shin Jong-oh Who Chooses Extreme Measures After Kim Geon-hee's Verdict: What Led Him to His Death?](https://ai.trend.dmomo.co.kr/2026/05/judge-shin-jong-oh-who-chooses-extreme.html) <br/>
