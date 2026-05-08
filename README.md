@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/05/07 - 2026 AI Agent 시장 지도: Agent Washing 실체와 엔터프라이즈 필수 평가 기준](https://blog.ai.dmomo.co.kr/tech/25413) <br/>
-[2026/05/07 - 현대 아이오닉 2026: 전기차 라인업 완성과 N 브랜드 확장 전략 분석](https://blog.ai.dmomo.co.kr/trend/25411) <br/>
-[2026/05/07 - CNN 창립자 테드 터너 87세로 별세: 미디어 혁명가의 마지막 인사](https://blog.ai.dmomo.co.kr/trend/25409) <br/>
-[2026/05/06 - 현대 아이오닉 V 중국 전용 전기차 공개, 1회 충전 600km 주행 가능](https://blog.ai.dmomo.co.kr/trend/25386) <br/>
-[2026/05/06 - 7세 소녀 살해한 FedEx 배송기사, 텍사스 법원 사형 선고 받아](https://blog.ai.dmomo.co.kr/trend/25368) <br/>
+[2026/05/08 - 2026년 양자컴퓨팅 안정성 혁명과 실용적 응용 3가지 핵심 포인트](https://blog.ai.dmomo.co.kr/tech/25479) <br/>
+[2026/05/08 - 손흥민 0슈팅 충격! LAFC 톨루카에 2-5 완패로 북중미컵 탈락](https://blog.ai.dmomo.co.kr/trend/25477) <br/>
+[2026/05/08 - Canvas 해킹: 2억명 데이터 유출, 미국 교육 시스템 전체가 위험에 빠졌다](https://blog.ai.dmomo.co.kr/trend/25475) <br/>
+[2026/05/07 - 손흥민 LAFC, 톨루카에 0-4 참패로 챔피언스컵 4강 탈락](https://blog.ai.dmomo.co.kr/trend/25455) <br/>
+[2026/05/07 - 농지 투기 근절: AI가 바꾸는 2026년 농업 지형도](https://blog.ai.dmomo.co.kr/trend/25437) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/05/08 - The 2026 Quantum Computing Stability Revolution: 3 Key Practical Applications](https://ai.trend.dmomo.co.kr/2026/05/the-2026-quantum-computing-stability.html) <br/>
+[2026/05/08 - Canvas Hack: 200 Million Data Breach Puts Entire U.S. Education System at Risk](https://ai.trend.dmomo.co.kr/2026/05/canvas-hack-200-million-data-breach.html) <br/>
+[2026/05/08 - Son Heung-min's Shocking 0 Shots! LAFC Loses 2-5 to Toluca, Eliminated from the North America Cup](https://ai.trend.dmomo.co.kr/2026/05/son-heung-mins-shocking-0-shots-lafc.html) <br/>
+[2026/05/07 - Son Heung-min and LAFC Eliminated from Champions Cup Semi-Finals after 0-4 Defeat to Toluca](https://ai.trend.dmomo.co.kr/2026/05/son-heung-min-and-lafc-eliminated-from.html) <br/>
+[2026/05/07 - Eliminating Agricultural Speculation: How AI Will Transform the 2026 Agricultural Landscape](https://ai.trend.dmomo.co.kr/2026/05/eliminating-agricultural-speculation.html) <br/>
 [2026/05/07 - 2026 AI Agent Market Map: Unveiling Agent Washing and Essential Enterprise Evaluation Criteria](https://ai.trend.dmomo.co.kr/2026/05/2026-ai-agent-market-map-unveiling.html) <br/>
-[2026/05/07 - 2026 Hyundai Ioniq: Analysis of Electric Vehicle Lineup Completion and N Brand Expansion Strategy](https://ai.trend.dmomo.co.kr/2026/05/2026-hyundai-ioniq-analysis-of-electric.html) <br/>
-[2026/05/07 - CNN Founder Ted Turner Passes Away at 87: A Final Farewell from the Media Revolutionary](https://ai.trend.dmomo.co.kr/2026/05/cnn-founder-ted-turner-passes-away-at.html) <br/>
-[2026/05/06 - Hyundai Ioniq V Unveiled as China-Exclusive Electric Vehicle with 600km Range on a Single Charge](https://ai.trend.dmomo.co.kr/2026/05/hyundai-ioniq-v-unveiled-as-china.html) <br/>
-[2026/05/06 - FedEx Delivery Driver Sentenced to Death by Texas Court for Murdering 7-Year-Old Girl](https://ai.trend.dmomo.co.kr/2026/05/fedex-delivery-driver-sentenced-to.html) <br/>
-[2026/05/06 - Judge Shin Jong-oh Who Chooses Extreme Measures After Kim Geon-hee's Verdict: What Led Him to His Death?](https://ai.trend.dmomo.co.kr/2026/05/judge-shin-jong-oh-who-chooses-extreme.html) <br/>
