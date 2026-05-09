@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/05/09 - 2026년 Serverless 혁신: Cloud Run Worker Pools가 바꾸는 분산 워크로드 관리 비밀](https://blog.ai.dmomo.co.kr/tech/25539) <br/>
+[2026/05/09 - 김현태 전 707특임단장, 계양을 보궐선거 무소속 출마 선언](https://blog.ai.dmomo.co.kr/trend/25537) <br/>
+[2026/05/09 - 트럼프 정부, 역사상 최대 규모 UFO 비밀문서 공개 시작](https://blog.ai.dmomo.co.kr/trend/25535) <br/>
+[2026/05/08 - 이서진이 백상예술대상 예능상 후보? 멀티테이너의 새로운 정의](https://blog.ai.dmomo.co.kr/trend/25500) <br/>
 [2026/05/08 - 2026년 양자컴퓨팅 안정성 혁명과 실용적 응용 3가지 핵심 포인트](https://blog.ai.dmomo.co.kr/tech/25479) <br/>
-[2026/05/08 - 손흥민 0슈팅 충격! LAFC 톨루카에 2-5 완패로 북중미컵 탈락](https://blog.ai.dmomo.co.kr/trend/25477) <br/>
-[2026/05/08 - Canvas 해킹: 2억명 데이터 유출, 미국 교육 시스템 전체가 위험에 빠졌다](https://blog.ai.dmomo.co.kr/trend/25475) <br/>
-[2026/05/07 - 손흥민 LAFC, 톨루카에 0-4 참패로 챔피언스컵 4강 탈락](https://blog.ai.dmomo.co.kr/trend/25455) <br/>
-[2026/05/07 - 농지 투기 근절: AI가 바꾸는 2026년 농업 지형도](https://blog.ai.dmomo.co.kr/trend/25437) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/05/09 - 2026 Serverless Revolution: How Cloud Run Worker Pools Transform Distributed Workload Management](https://ai.trend.dmomo.co.kr/2026/05/2026-serverless-revolution-how-cloud.html) <br/>
+[2026/05/09 - Former 707th Special Mission Unit Commander Kim Hyun-tae Announces Independent Candidacy for Gyeyang-eul By-election](https://ai.trend.dmomo.co.kr/2026/05/former-707th-special-mission-unit.html) <br/>
+[2026/05/09 - Trump Administration Begins Release of Largest UFO Secret Document in History](https://ai.trend.dmomo.co.kr/2026/05/trump-administration-begins-release-of.html) <br/>
+[2026/05/08 - Is Lee Seo-jin a Candidate for the Baeksang Arts Awards in the Entertainment Category? The New Definition of a Multi-Entertainer.](https://ai.trend.dmomo.co.kr/2026/05/is-lee-seo-jin-candidate-for-baeksang.html) <br/>
 [2026/05/08 - The 2026 Quantum Computing Stability Revolution: 3 Key Practical Applications](https://ai.trend.dmomo.co.kr/2026/05/the-2026-quantum-computing-stability.html) <br/>
 [2026/05/08 - Canvas Hack: 200 Million Data Breach Puts Entire U.S. Education System at Risk](https://ai.trend.dmomo.co.kr/2026/05/canvas-hack-200-million-data-breach.html) <br/>
-[2026/05/08 - Son Heung-min's Shocking 0 Shots! LAFC Loses 2-5 to Toluca, Eliminated from the North America Cup](https://ai.trend.dmomo.co.kr/2026/05/son-heung-mins-shocking-0-shots-lafc.html) <br/>
-[2026/05/07 - Son Heung-min and LAFC Eliminated from Champions Cup Semi-Finals after 0-4 Defeat to Toluca](https://ai.trend.dmomo.co.kr/2026/05/son-heung-min-and-lafc-eliminated-from.html) <br/>
-[2026/05/07 - Eliminating Agricultural Speculation: How AI Will Transform the 2026 Agricultural Landscape](https://ai.trend.dmomo.co.kr/2026/05/eliminating-agricultural-speculation.html) <br/>
-[2026/05/07 - 2026 AI Agent Market Map: Unveiling Agent Washing and Essential Enterprise Evaluation Criteria](https://ai.trend.dmomo.co.kr/2026/05/2026-ai-agent-market-map-unveiling.html) <br/>
