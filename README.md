@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/05/11 - 2026년 최신 Serverless GPU 혁신과 AI 통합의 모든 것](https://blog.ai.dmomo.co.kr/tech/25666) <br/>
-[2026/05/11 - 2026 NBA 드래프트 로또 결과: OKC 썬더 12순위 획득, 워싱턴 1순위 행운](https://blog.ai.dmomo.co.kr/trend/25664) <br/>
-[2026/05/10 - 영국의 3가지 얼굴: 존 디부터 AUKUS까지 이어지는 글로벌 파워의 진화](https://blog.ai.dmomo.co.kr/trend/25644) <br/>
-[2026/05/10 - 2026년 정부 대변혁: AI 활용 4배 폭증과 UFO 파일 공개가 알려주는 미래](https://blog.ai.dmomo.co.kr/trend/25626) <br/>
-[2026/05/10 - UFC 최신 동향: NFL 스타부터 감동 스토리까지 미국 격투기 시장의 3대 변화](https://blog.ai.dmomo.co.kr/trend/25624) <br/>
+[2026/05/12 - 2026년 Edge AI 혁명: Physical AI와 On-Device LLMs가 만드는 산업별 혁신 사례 5선](https://blog.ai.dmomo.co.kr/tech/25732) <br/>
+[2026/05/12 - 토트넘 vs 리즈 유나이티드: 영국 축구 최고의 라이벌전 완벽 분석](https://blog.ai.dmomo.co.kr/trend/25730) <br/>
+[2026/05/12 - Chelsea Handler vs Shane Gillis: Netflix 로스트에서 터진 충격 논란의 전말](https://blog.ai.dmomo.co.kr/trend/25728) <br/>
+[2026/05/11 - 배우 강성연, 이혼 3년 만에 의사와 재혼… 기적 같은 사랑 이야기](https://blog.ai.dmomo.co.kr/trend/25708) <br/>
+[2026/05/11 - 손흥민 9호 도움에도 LAFC, 휴스턴에 1-4 충격패… 3경기 연속 무승 늪](https://blog.ai.dmomo.co.kr/trend/25693) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/05/11 - The Latest 2026 Innovations in Serverless GPU Technology and AI Integration](https://ai.trend.dmomo.co.kr/2026/05/the-latest-2026-innovations-in.html) <br/>
-[2026/05/11 - 2026 NBA Draft Lottery Results: OKC Thunder Secures 12th Pick, Washington Wins 1st Pick Luck](https://ai.trend.dmomo.co.kr/2026/05/2026-nba-draft-lottery-results-okc.html) <br/>
-[2026/05/10 - The Three Faces of Britain: From John Dee to AUKUS - The Evolution of Global Power](https://ai.trend.dmomo.co.kr/2026/05/the-three-faces-of-britain-from-john.html) <br/>
-[2026/05/10 - Government Revolution in 2026: What the 4x Surge in AI Utilization and UFO File Disclosure Reveal About the Future](https://ai.trend.dmomo.co.kr/2026/05/government-revolution-in-2026-what-4x.html) <br/>
-[2026/05/10 - UFC Latest Trends: Three Major Changes in the U.S. Fighting Market from NFL Stars to Inspiring Stories](https://ai.trend.dmomo.co.kr/2026/05/ufc-latest-trends-three-major-changes.html) <br/>
-[2026/05/10 - Latest Software Security Trends in 2026: Analyzing Cloudflare AI Domain Threat Detection Technology](https://ai.trend.dmomo.co.kr/2026/05/latest-software-security-trends-in-2026.html) <br/>
+[2026/05/12 - The 2026 Edge AI Revolution: 5 Industry Breakthroughs Powered by Physical AI and On-Device LLMs](https://ai.trend.dmomo.co.kr/2026/05/the-2026-edge-ai-revolution-5-industry.html) <br/>
+[2026/05/12 - Tottenham vs Leeds United: A Complete Analysis of the Premier British Football Rivalry](https://ai.trend.dmomo.co.kr/2026/05/tottenham-vs-leeds-united-complete.html) <br/>
+[2026/05/12 - Chelsea Handler vs Shane Gillis: The Shocking Controversy That Erupted on Netflix's Lost](https://ai.trend.dmomo.co.kr/2026/05/chelsea-handler-vs-shane-gillis.html) <br/>
+[2026/05/11 - Actress Kang Seong-yeon Remarries a Doctor After 3 Years of Divorce: A Miracle Love Story](https://ai.trend.dmomo.co.kr/2026/05/actress-kang-seong-yeon-remarries.html) <br/>
+[2026/05/11 - Son Heung-min's 9th Assist Not Enough as LAFC Suffers a Shocking 1-4 Defeat to Houston... Winless Streak Extends to 3 Games](https://ai.trend.dmomo.co.kr/2026/05/son-heung-mins-9th-assist-not-enough-as.html) <br/>
+[2026/05/11 - Stunning Analysis of How Pumas Dominated América in the Liga MX Quarterfinals in Just 25 Minutes](https://ai.trend.dmomo.co.kr/2026/05/stunning-analysis-of-how-pumas.html) <br/>
