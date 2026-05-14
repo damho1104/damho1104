@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/05/14 - 2024년 클라우드 혁신, Google Vertex AI Gemini 1.5로 바뀌는 LLM 생태계 핵심 전략](https://blog.ai.dmomo.co.kr/tech/25858) <br/>
+[2026/05/14 - 아이유가 증명한 것: 스타 캐스팅도 작품의 한계를 넘을 수 없다](https://blog.ai.dmomo.co.kr/trend/25856) <br/>
+[2026/05/14 - 알렉스 머독 살인 유죄 파기: 미국 사법부가 던진 충격적 메시지](https://blog.ai.dmomo.co.kr/trend/25854) <br/>
+[2026/05/13 - 이혼은 실패가 아니다: 달라진 한국의 결혼관과 현실적 선택](https://blog.ai.dmomo.co.kr/trend/25834) <br/>
 [2026/05/13 - 미 국방부의 Agent Designer 출시, 330만 사용자 AI 에이전트 혁명 실현](https://blog.ai.dmomo.co.kr/tech/25795) <br/>
-[2026/05/13 - 땅집고가 알려주는 2024 부동산 투자의 모든 것: 초보자도 성공하는 비법](https://blog.ai.dmomo.co.kr/trend/25793) <br/>
-[2026/05/13 - Brandon Clarke 29세 급사: NBA Memphis Grizzlies 스타의 충격적 별세](https://blog.ai.dmomo.co.kr/trend/25791) <br/>
-[2026/05/12 - 류현진 vs 배동현, 한화-키움 오늘 고척 빅매치 3가지 관전포인트](https://blog.ai.dmomo.co.kr/trend/25774) <br/>
-[2026/05/12 - 2026 American Idol 우승자 한나 하퍼: 20년 만의 여성 컨트리 가수 등극](https://blog.ai.dmomo.co.kr/trend/25772) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/05/14 - Cloud Innovation in 2024: Core Strategies Transforming the LLM Ecosystem with Google Vertex AI Gemini 1.5](https://ai.trend.dmomo.co.kr/2026/05/cloud-innovation-in-2024-core.html) <br/>
+[2026/05/14 - What IU Proved: Star Casting Can't Overcome the Limits of a Work](https://ai.trend.dmomo.co.kr/2026/05/what-iu-proved-star-casting-cant.html) <br/>
+[2026/05/14 - Alex Murdaugh Murder Conviction Overturned: A Shocking Message from the U.S. Justice System](https://ai.trend.dmomo.co.kr/2026/05/alex-murdaugh-murder-conviction.html) <br/>
+[2026/05/13 - Divorce Is Not a Failure: Changing Perspectives on Marriage in Korea and Realistic Choices](https://ai.trend.dmomo.co.kr/2026/05/divorce-is-not-failure-changing.html) <br/>
 [2026/05/13 - U.S. Department of Defense Launches Agent Designer, Sparking AI Agent Revolution with 3.3 Million Users](https://ai.trend.dmomo.co.kr/2026/05/us-department-of-defense-launches-agent.html) <br/>
 [2026/05/13 - Everything You Need to Know About Real Estate Investment in 2024: Tips for Beginners to Succeed](https://ai.trend.dmomo.co.kr/2026/05/everything-you-need-to-know-about-real.html) <br/>
-[2026/05/13 - Brandon Clarke, 29, Passes Away: Shocking Death of NBA Memphis Grizzlies Star](https://ai.trend.dmomo.co.kr/2026/05/brandon-clarke-29-passes-away-shocking.html) <br/>
-[2026/05/12 - Ryu Hyun-jin vs Bae Dong-hyun: Three Key Points to Watch in Today's Big Match between Hanwha and Kiwoom at Gocheok Stadium](https://ai.trend.dmomo.co.kr/2026/05/ryu-hyun-jin-vs-bae-dong-hyun-three-key.html) <br/>
-[2026/05/12 - 2026 American Idol Winner Hannah Harper: A Woman Country Singer Rising After 20 Years](https://ai.trend.dmomo.co.kr/2026/05/2026-american-idol-winner-hannah-harper.html) <br/>
-[2026/05/12 - Lakers on the Brink: Is This the End of the LeBron Era?](https://ai.trend.dmomo.co.kr/2026/05/lakers-on-brink-is-this-end-of-lebron.html) <br/>
