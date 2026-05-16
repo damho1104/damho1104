@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/05/15 - 2026년 대규모 AI 학습을 좌우하는 분산 Workload Scheduling 핵심 전략](https://blog.ai.dmomo.co.kr/tech/25933) <br/>
-[2026/05/15 - 배우 손승원 5번째 음주운전, 징역 4년 구형받은 충격적 진실](https://blog.ai.dmomo.co.kr/trend/25931) <br/>
-[2026/05/15 - 레알 마드리드 2-0 승리: 벨링엄 4개월만의 부활골과 페레즈 퇴진 시위 동시 발생](https://blog.ai.dmomo.co.kr/trend/25929) <br/>
-[2026/05/14 - 대장암 예방의 진실: AI가 밝힌 수술 성공률과 생활습관의 비밀](https://blog.ai.dmomo.co.kr/trend/25903) <br/>
-[2026/05/14 - 세인트루이스 시티 SC vs LAFC: 압박 vs 점유, 정반대 스타일의 격돌](https://blog.ai.dmomo.co.kr/trend/25885) <br/>
+[2026/05/16 - AWS DevOps Agent로 알아보는 자율형 SRE 도입 전략과 성공 포인트 5가지](https://blog.ai.dmomo.co.kr/tech/26002) <br/>
+[2026/05/16 - 에어포스원의 비밀: 트럼프가 타는 하늘 위 백악관의 모든 것](https://blog.ai.dmomo.co.kr/trend/26000) <br/>
+[2026/05/16 - FBI 현상금 20만 달러! 이란 망명 미 공군 정보요원 Monica Witt 추적전](https://blog.ai.dmomo.co.kr/trend/25998) <br/>
+[2026/05/15 - 전직 美 공군 정보원, 이란 배신 13년째 FBI 20만 달러 현상금 건 이유](https://blog.ai.dmomo.co.kr/trend/25978) <br/>
+[2026/05/15 - KIA vs 삼성: 격일제 만루포 신화와 5위 쟁탈전의 운명은?](https://blog.ai.dmomo.co.kr/trend/25976) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/05/15 - Key Strategies for Distributed Workload Scheduling Shaping Large-Scale AI Training in 2026](https://ai.trend.dmomo.co.kr/2026/05/key-strategies-for-distributed-workload.html) <br/>
-[2026/05/15 - Shocking Truth Behind Actor Son Seung-won's 5th DUI and 4-Year Imprisonment Recommendation](https://ai.trend.dmomo.co.kr/2026/05/shocking-truth-behind-actor-son-seung.html) <br/>
-[2026/05/15 - Real Madrid's 2-0 Victory: Bellingham's Comeback Goal After 4 Months and Pérez Protest Occurs Simultaneously](https://ai.trend.dmomo.co.kr/2026/05/real-madrids-2-0-victory-bellinghams.html) <br/>
-[2026/05/14 - The Truth About Colon Cancer Prevention: Secrets of Surgical Success Rates and Lifestyle Unveiled by AI](https://ai.trend.dmomo.co.kr/2026/05/the-truth-about-colon-cancer-prevention.html) <br/>
-[2026/05/14 - St. Louis City SC vs LAFC: Clash of Opposing Styles - Pressing vs Possession](https://ai.trend.dmomo.co.kr/2026/05/st-louis-city-sc-vs-lafc-clash-of.html) <br/>
-[2026/05/14 - Cruz Azul vs Chivas Semifinal Shock: A 2-2 Comeback Despite FIFA Virus](https://ai.trend.dmomo.co.kr/2026/05/cruz-azul-vs-chivas-semifinal-shock-2-2.html) <br/>
+[2026/05/16 - 5 Key Strategies and Success Factors for Implementing Autonomous SRE with AWS DevOps Agent](https://ai.trend.dmomo.co.kr/2026/05/5-key-strategies-and-success-factors.html) <br/>
+[2026/05/16 - The Secrets of Air Force One: Everything About Trump's Flying White House](https://ai.trend.dmomo.co.kr/2026/05/the-secrets-of-air-force-one-everything.html) <br/>
+[2026/05/16 - $200,000 FBI Reward! The Hunt for Iranian Defector and Former U.S. Air Force Intelligence Officer Monica Witt](https://ai.trend.dmomo.co.kr/2026/05/200000-fbi-reward-hunt-for-iranian.html) <br/>
+[2026/05/15 - Former US Air Force Intelligence Officer Betrays Iran: FBI Offers $200,000 Bounty for 13 Years](https://ai.trend.dmomo.co.kr/2026/05/former-us-air-force-intelligence.html) <br/>
+[2026/05/15 - KIA vs Samsung: The Fate of the Alternate Day Home Run Myth and the Battle for 5th Place?](https://ai.trend.dmomo.co.kr/2026/05/kia-vs-samsung-fate-of-alternate-day.html) <br/>
+[2026/05/15 - Pachuca's 1-0 Victory! Comprehensive Analysis of Liga MX Semifinal First Leg](https://ai.trend.dmomo.co.kr/2026/05/pachucas-1-0-victory-comprehensive.html) <br/>
