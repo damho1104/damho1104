@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/05/18 - 2024년 핵심 기술 온디바이스 AI, 스마트폰과 PC의 AI 플랫폼 전쟁 전망은?](https://blog.ai.dmomo.co.kr/tech/26113) <br/>
+[2026/05/18 - 브루노 20호 어시스트! 맨유 노팅엄에 3-2 승리로 리그 3위 확정](https://blog.ai.dmomo.co.kr/trend/26111) <br/>
+[2026/05/18 - 바르사 홈 19전 전승! 라리가 역사 새로 쓴 3-1 완벽 피날레](https://blog.ai.dmomo.co.kr/trend/26109) <br/>
+[2026/05/17 - 넷플릭스 첫 라이브 MMA ‘MVP MMA’가 미국 격투기판을 뒤흔드는 5가지 이유](https://blog.ai.dmomo.co.kr/trend/26077) <br/>
 [2026/05/17 - 프론티어 AI가 바꾸는 소프트웨어 보안, AI 기반 자율 취약점 탐색 7단계 전략](https://blog.ai.dmomo.co.kr/tech/26062) <br/>
-[2026/05/17 - 2026 프리크니스 스테이크스 정확한 출발 시간은? Post Time 완벽 정리](https://blog.ai.dmomo.co.kr/trend/26059) <br/>
-[2026/05/17 - 배당의 모든 것: 현금흐름부터 국민배당까지 완벽 정리](https://blog.ai.dmomo.co.kr/trend/26058) <br/>
-[2026/05/16 - 미 공군 출신 간첩 Monica Witt, FBI 20만 달러 현상금 건 충격적 이유](https://blog.ai.dmomo.co.kr/trend/26038) <br/>
-[2026/05/16 - 토론 실종된 지방선거, 후보 검증 없이 공약만 믿고 뽑을 건가요?](https://blog.ai.dmomo.co.kr/trend/26035) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/05/18 - Key Technologies of 2024: On-Device AI and the Battle for AI Platforms on Smartphones and PCs](https://ai.trend.dmomo.co.kr/2026/05/key-technologies-of-2024-on-device-ai.html) <br/>
+[2026/05/18 - Bruno's 20th Assist! Man Utd Secures 3rd Place in the League with 3-2 Victory over Nottingham](https://ai.trend.dmomo.co.kr/2026/05/brunos-20th-assist-man-utd-secures-3rd.html) <br/>
+[2026/05/18 - Perfect Finale: Barcelona's Historic 19 Home Wins in La Liga!](https://ai.trend.dmomo.co.kr/2026/05/perfect-finale-barcelonas-historic-19.html) <br/>
+[2026/05/17 - 5 Reasons Why Netflix's First Live MMA 'MVP MMA' is Shaking Up the American Fighting Scene](https://ai.trend.dmomo.co.kr/2026/05/5-reasons-why-netflixs-first-live-mma.html) <br/>
 [2026/05/17 - How Frontier AI is Revolutionizing Software Security: A 7-Step AI-Driven Autonomous Vulnerability Discovery Strategy](https://ai.trend.dmomo.co.kr/2026/05/how-frontier-ai-is-revolutionizing.html) <br/>
 [2026/05/17 - What is the Exact Start Time for the 2026 Preakness Stakes? Complete Overview of Post Time](https://ai.trend.dmomo.co.kr/2026/05/what-is-exact-start-time-for-2026.html) <br/>
-[2026/05/17 - Everything About Dividends: A Complete Guide from Cash Flow to Universal Basic Dividend](https://ai.trend.dmomo.co.kr/2026/05/everything-about-dividends-complete.html) <br/>
-[2026/05/16 - Shocking Reason Behind $200,000 Reward for Monica Witt, Ex-Air Force Spy](https://ai.trend.dmomo.co.kr/2026/05/shocking-reason-behind-200000-reward.html) <br/>
-[2026/05/16 - Missing Local Elections: Will You Vote Based Solely on Promises Without Candidate Verification?](https://ai.trend.dmomo.co.kr/2026/05/missing-local-elections-will-you-vote.html) <br/>
-[2026/05/16 - Hanwha vs KT Showdown: A Clash of eSports and Baseball in a Dramatic Upset](https://ai.trend.dmomo.co.kr/2026/05/hanwha-vs-kt-showdown-clash-of-esports.html) <br/>
