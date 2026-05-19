@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/05/18 - 2024년 핵심 기술 온디바이스 AI, 스마트폰과 PC의 AI 플랫폼 전쟁 전망은?](https://blog.ai.dmomo.co.kr/tech/26113) <br/>
-[2026/05/18 - 브루노 20호 어시스트! 맨유 노팅엄에 3-2 승리로 리그 3위 확정](https://blog.ai.dmomo.co.kr/trend/26111) <br/>
-[2026/05/18 - 바르사 홈 19전 전승! 라리가 역사 새로 쓴 3-1 완벽 피날레](https://blog.ai.dmomo.co.kr/trend/26109) <br/>
-[2026/05/17 - 넷플릭스 첫 라이브 MMA ‘MVP MMA’가 미국 격투기판을 뒤흔드는 5가지 이유](https://blog.ai.dmomo.co.kr/trend/26077) <br/>
-[2026/05/17 - 프론티어 AI가 바꾸는 소프트웨어 보안, AI 기반 자율 취약점 탐색 7단계 전략](https://blog.ai.dmomo.co.kr/tech/26062) <br/>
+[2026/05/19 - 2026년 고체 네온 큐비트의 잡음 혁명, 양자컴퓨팅 다크호스 될까?](https://blog.ai.dmomo.co.kr/tech/26179) <br/>
+[2026/05/19 - MC몽 병역 논란부터 2026년 폭로전까지: 논란의 아이콘이 된 뮤지션의 생존법](https://blog.ai.dmomo.co.kr/trend/26177) <br/>
+[2026/05/19 - 샌디에이고 이슬람 센터 총격: 10대 용의자가 일으킨 증오범죄의 전말](https://blog.ai.dmomo.co.kr/trend/26175) <br/>
+[2026/05/18 - Pumas 극적 결승행! 멕시코 리가MX 준결승서 Pachuca 1-0 제압](https://blog.ai.dmomo.co.kr/trend/26155) <br/>
+[2026/05/18 - 김영옥 남편 별세, 국민할머니가 견뎌온 60년 연기인생과 가족사](https://blog.ai.dmomo.co.kr/trend/26137) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/05/19 - The 2026 Noise Revolution of Solid Neon Qubits: The Dark Horse of Quantum Computing?](https://ai.trend.dmomo.co.kr/2026/05/the-2026-noise-revolution-of-solid-neon.html) <br/>
+[2026/05/19 - San Diego Islamic Center Shooting: The Details of a Hate Crime Committed by a Teenager](https://ai.trend.dmomo.co.kr/2026/05/san-diego-islamic-center-shooting.html) <br/>
+[2026/05/19 - From MC Mong's Military Service Controversy to the 2026 Exposé: How a Controversial Iconic Musician Survives](https://ai.trend.dmomo.co.kr/2026/05/from-mc-mongs-military-service.html) <br/>
+[2026/05/18 - Pumas Dramatically Advances to the Finals! Defeats Pachuca 1-0 in Liga MX Semifinals](https://ai.trend.dmomo.co.kr/2026/05/pumas-dramatically-advances-to-finals.html) <br/>
+[2026/05/18 - Kim Young-ok's Husband Passes Away: The 60-Year Acting Career and Family Story of the National Grandmother](https://ai.trend.dmomo.co.kr/2026/05/kim-young-oks-husband-passes-away-60.html) <br/>
 [2026/05/18 - Key Technologies of 2024: On-Device AI and the Battle for AI Platforms on Smartphones and PCs](https://ai.trend.dmomo.co.kr/2026/05/key-technologies-of-2024-on-device-ai.html) <br/>
-[2026/05/18 - Bruno's 20th Assist! Man Utd Secures 3rd Place in the League with 3-2 Victory over Nottingham](https://ai.trend.dmomo.co.kr/2026/05/brunos-20th-assist-man-utd-secures-3rd.html) <br/>
-[2026/05/18 - Perfect Finale: Barcelona's Historic 19 Home Wins in La Liga!](https://ai.trend.dmomo.co.kr/2026/05/perfect-finale-barcelonas-historic-19.html) <br/>
-[2026/05/17 - 5 Reasons Why Netflix's First Live MMA 'MVP MMA' is Shaking Up the American Fighting Scene](https://ai.trend.dmomo.co.kr/2026/05/5-reasons-why-netflixs-first-live-mma.html) <br/>
-[2026/05/17 - How Frontier AI is Revolutionizing Software Security: A 7-Step AI-Driven Autonomous Vulnerability Discovery Strategy](https://ai.trend.dmomo.co.kr/2026/05/how-frontier-ai-is-revolutionizing.html) <br/>
-[2026/05/17 - What is the Exact Start Time for the 2026 Preakness Stakes? Complete Overview of Post Time](https://ai.trend.dmomo.co.kr/2026/05/what-is-exact-start-time-for-2026.html) <br/>
