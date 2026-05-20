@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/05/19 - 2026년 고체 네온 큐비트의 잡음 혁명, 양자컴퓨팅 다크호스 될까?](https://blog.ai.dmomo.co.kr/tech/26179) <br/>
-[2026/05/19 - MC몽 병역 논란부터 2026년 폭로전까지: 논란의 아이콘이 된 뮤지션의 생존법](https://blog.ai.dmomo.co.kr/trend/26177) <br/>
-[2026/05/19 - 샌디에이고 이슬람 센터 총격: 10대 용의자가 일으킨 증오범죄의 전말](https://blog.ai.dmomo.co.kr/trend/26175) <br/>
-[2026/05/18 - Pumas 극적 결승행! 멕시코 리가MX 준결승서 Pachuca 1-0 제압](https://blog.ai.dmomo.co.kr/trend/26155) <br/>
-[2026/05/18 - 김영옥 남편 별세, 국민할머니가 견뎌온 60년 연기인생과 가족사](https://blog.ai.dmomo.co.kr/trend/26137) <br/>
+[2026/05/20 - 2026년 로우코드 혁신, AI 기반 Vibe coding으로 앱 개발 10배 빠르게 하는 법](https://blog.ai.dmomo.co.kr/tech/26242) <br/>
+[2026/05/20 - 최진실이 바꾼 한국 대중문화: 국민배우가 남긴 질문들](https://blog.ai.dmomo.co.kr/trend/26240) <br/>
+[2026/05/20 - 본머스 충격 무승부로 맨시티 우승 꿈 무너지다: 아스날 챔피언 확정](https://blog.ai.dmomo.co.kr/trend/26238) <br/>
+[2026/05/19 - 최진실이 남긴 질문들: 국민배우에서 시대의 거울이 된 한 여인의 삶](https://blog.ai.dmomo.co.kr/trend/26218) <br/>
+[2026/05/19 - 2026 서부 파이널: 스퍼스 vs 썬더, Fox 부상이 바꾼 시리즈 판도](https://blog.ai.dmomo.co.kr/trend/26200) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/05/20 - Low-Code Innovation in 2026: How AI-Powered Vibe Coding Accelerates App Development by 10x](https://ai.trend.dmomo.co.kr/2026/05/low-code-innovation-in-2026-how-ai.html) <br/>
+[2026/05/20 - The Impact of Choi Jin-sil on Korean Pop Culture: Questions Left by a National Star](https://ai.trend.dmomo.co.kr/2026/05/the-impact-of-choi-jin-sil-on-korean.html) <br/>
+[2026/05/20 - Bournemouth Shocks with Draw, Shattering Man City's Title Hopes: Arsenal Crowned Champions](https://ai.trend.dmomo.co.kr/2026/05/bournemouth-shocks-with-draw-shattering.html) <br/>
+[2026/05/19 - The Questions Left by Choi Jin-sil: The Life of a Woman Who Became a Reflection of an Era from National Actress to Symbol](https://ai.trend.dmomo.co.kr/2026/05/the-questions-left-by-choi-jin-sil-life.html) <br/>
+[2026/05/19 - 2026 Western Finals: Spurs vs Thunder, How Fox's Injury Changed the Series Dynamics](https://ai.trend.dmomo.co.kr/2026/05/2026-western-finals-spurs-vs-thunder.html) <br/>
 [2026/05/19 - The 2026 Noise Revolution of Solid Neon Qubits: The Dark Horse of Quantum Computing?](https://ai.trend.dmomo.co.kr/2026/05/the-2026-noise-revolution-of-solid-neon.html) <br/>
-[2026/05/19 - San Diego Islamic Center Shooting: The Details of a Hate Crime Committed by a Teenager](https://ai.trend.dmomo.co.kr/2026/05/san-diego-islamic-center-shooting.html) <br/>
-[2026/05/19 - From MC Mong's Military Service Controversy to the 2026 Exposé: How a Controversial Iconic Musician Survives](https://ai.trend.dmomo.co.kr/2026/05/from-mc-mongs-military-service.html) <br/>
-[2026/05/18 - Pumas Dramatically Advances to the Finals! Defeats Pachuca 1-0 in Liga MX Semifinals](https://ai.trend.dmomo.co.kr/2026/05/pumas-dramatically-advances-to-finals.html) <br/>
-[2026/05/18 - Kim Young-ok's Husband Passes Away: The 60-Year Acting Career and Family Story of the National Grandmother](https://ai.trend.dmomo.co.kr/2026/05/kim-young-oks-husband-passes-away-60.html) <br/>
-[2026/05/18 - Key Technologies of 2024: On-Device AI and the Battle for AI Platforms on Smartphones and PCs](https://ai.trend.dmomo.co.kr/2026/05/key-technologies-of-2024-on-device-ai.html) <br/>
