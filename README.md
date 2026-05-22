@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/05/21 - 삼성전기가 AI 부품주로 급부상한 3가지 이유 (MLCC부터 실리콘 커패시터까지)](https://blog.ai.dmomo.co.kr/trend/26353) <br/>
+[2026/05/21 - 금양 상장폐지 충격: 23만 투자자가 놓친 의견거절의 경고](https://blog.ai.dmomo.co.kr/trend/26335) <br/>
+[2026/05/21 - Survivor 50 우승자는 누구? 레드카펫 사진이 암시하는 충격적 스포일러](https://blog.ai.dmomo.co.kr/trend/26333) <br/>
 [2026/05/21 - AWS AgentCore로 5분 만에 프로덕션급 에이전트 만드는 비법은 무엇일까?](https://blog.ai.dmomo.co.kr/tech/26311) <br/>
 [2026/05/21 - 강동원이 Y2K 아이돌로 변신? 45세에 헤드스핀 도전한 진짜 이유](https://blog.ai.dmomo.co.kr/trend/26309) <br/>
-[2026/05/21 - Caitlin Clark 결장 충격! 인디애나 vs 포틀랜드 WNBA 빅매치 전격 분석](https://blog.ai.dmomo.co.kr/trend/26307) <br/>
-[2026/05/20 - 닉스 vs 캐벌리어스 동부 파이널 G1: 22점 대역전극으로 미국이 발칵 뒤집힌 이유](https://blog.ai.dmomo.co.kr/trend/26269) <br/>
-[2026/05/20 - 첼시 2-1 토트넘: 런던 더비가 갈라놓은 유럽행과 강등 위기의 운명](https://blog.ai.dmomo.co.kr/trend/26267) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/05/21 - 3 Reasons Why Samsung Electro-Mechanics is Rapidly Rising as an AI Component Stock (from MLCCs to Silicon Capacitors)](https://ai.trend.dmomo.co.kr/2026/05/3-reasons-why-samsung-electro-mechanics.html) <br/>
+[2026/05/21 - The Shock of Geumyang's Delisting: A Warning of Rejected Opinions Ignored by 230,000 Investors](https://ai.trend.dmomo.co.kr/2026/05/the-shock-of-geumyangs-delisting.html) <br/>
+[2026/05/21 - Who is the Winner of Survivor 50? Shocking Spoilers Suggested by Red Carpet Photos](https://ai.trend.dmomo.co.kr/2026/05/who-is-winner-of-survivor-50-shocking.html) <br/>
 [2026/05/21 - Caitlin Clark's Shocking Absence! In-Depth Analysis of the Indiana vs Portland WNBA Big Match](https://ai.trend.dmomo.co.kr/2026/05/caitlin-clarks-shocking-absence-in.html) <br/>
 [2026/05/20 - Nets vs Cavaliers Eastern Finals Game 1: The Shocking 22-Point Comeback That Turned America Upside Down](https://ai.trend.dmomo.co.kr/2026/05/nets-vs-cavaliers-eastern-finals-game-1.html) <br/>
 [2026/05/20 - Chelsea 2-1 Tottenham: A London Derby That Divides Destiny Between European Dreams and Relegation Threats](https://ai.trend.dmomo.co.kr/2026/05/chelsea-2-1-tottenham-london-derby-that.html) <br/>
-[2026/05/20 - Low-Code Innovation in 2026: How AI-Powered Vibe Coding Accelerates App Development by 10x](https://ai.trend.dmomo.co.kr/2026/05/low-code-innovation-in-2026-how-ai.html) <br/>
-[2026/05/20 - The Impact of Choi Jin-sil on Korean Pop Culture: Questions Left by a National Star](https://ai.trend.dmomo.co.kr/2026/05/the-impact-of-choi-jin-sil-on-korean.html) <br/>
-[2026/05/20 - Bournemouth Shocks with Draw, Shattering Man City's Title Hopes: Arsenal Crowned Champions](https://ai.trend.dmomo.co.kr/2026/05/bournemouth-shocks-with-draw-shattering.html) <br/>
