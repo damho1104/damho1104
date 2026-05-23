@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/05/21 - 삼성전기가 AI 부품주로 급부상한 3가지 이유 (MLCC부터 실리콘 커패시터까지)](https://blog.ai.dmomo.co.kr/trend/26353) <br/>
-[2026/05/21 - 금양 상장폐지 충격: 23만 투자자가 놓친 의견거절의 경고](https://blog.ai.dmomo.co.kr/trend/26335) <br/>
-[2026/05/21 - Survivor 50 우승자는 누구? 레드카펫 사진이 암시하는 충격적 스포일러](https://blog.ai.dmomo.co.kr/trend/26333) <br/>
-[2026/05/21 - AWS AgentCore로 5분 만에 프로덕션급 에이전트 만드는 비법은 무엇일까?](https://blog.ai.dmomo.co.kr/tech/26311) <br/>
-[2026/05/21 - 강동원이 Y2K 아이돌로 변신? 45세에 헤드스핀 도전한 진짜 이유](https://blog.ai.dmomo.co.kr/trend/26309) <br/>
+[2026/05/23 - GraphRAG이란? Microsoft가 제시한 그래프 기반 RAG의 5가지 핵심 비밀과 활용법](https://blog.ai.dmomo.co.kr/tech/26440) <br/>
+[2026/05/23 - 힙합 레전드 Rob Base 59세 사망: ‘It Takes Two’가 남긴 불멸의 유산](https://blog.ai.dmomo.co.kr/trend/26438) <br/>
+[2026/05/22 - 동명이인 ‘김승현’이 검색창에서 만드는 디지털 정체성의 혼란](https://blog.ai.dmomo.co.kr/trend/26416) <br/>
+[2026/05/22 - Mars가 선택한 Google Cloud Gemini Enterprise, AI 운영체제 경쟁 승자는 누구인가](https://blog.ai.dmomo.co.kr/tech/26377) <br/>
+[2026/05/22 - NASCAR 레전드 Kyle Busch(41) 급작스런 사망, 미국 모터스포츠계 충격](https://blog.ai.dmomo.co.kr/trend/26375) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/05/21 - 3 Reasons Why Samsung Electro-Mechanics is Rapidly Rising as an AI Component Stock (from MLCCs to Silicon Capacitors)](https://ai.trend.dmomo.co.kr/2026/05/3-reasons-why-samsung-electro-mechanics.html) <br/>
-[2026/05/21 - The Shock of Geumyang's Delisting: A Warning of Rejected Opinions Ignored by 230,000 Investors](https://ai.trend.dmomo.co.kr/2026/05/the-shock-of-geumyangs-delisting.html) <br/>
-[2026/05/21 - Who is the Winner of Survivor 50? Shocking Spoilers Suggested by Red Carpet Photos](https://ai.trend.dmomo.co.kr/2026/05/who-is-winner-of-survivor-50-shocking.html) <br/>
-[2026/05/21 - Caitlin Clark's Shocking Absence! In-Depth Analysis of the Indiana vs Portland WNBA Big Match](https://ai.trend.dmomo.co.kr/2026/05/caitlin-clarks-shocking-absence-in.html) <br/>
-[2026/05/20 - Nets vs Cavaliers Eastern Finals Game 1: The Shocking 22-Point Comeback That Turned America Upside Down](https://ai.trend.dmomo.co.kr/2026/05/nets-vs-cavaliers-eastern-finals-game-1.html) <br/>
-[2026/05/20 - Chelsea 2-1 Tottenham: A London Derby That Divides Destiny Between European Dreams and Relegation Threats](https://ai.trend.dmomo.co.kr/2026/05/chelsea-2-1-tottenham-london-derby-that.html) <br/>
+[2026/05/23 - What is GraphRAG? Microsoft’s 5 Key Secrets and Applications of Graph-Based RAG](https://ai.trend.dmomo.co.kr/2026/05/what-is-graphrag-microsofts-5-key.html) <br/>
+[2026/05/23 - Hip Hop Legend Rob Base Passes Away at 59: The Immortal Legacy of 'It Takes Two'](https://ai.trend.dmomo.co.kr/2026/05/hip-hop-legend-rob-base-passes-away-at.html) <br/>
+[2026/05/22 - The Confusion of Digital Identity Created by Namesake 'Kim Seung-hyun' in Search Engines](https://ai.trend.dmomo.co.kr/2026/05/the-confusion-of-digital-identity.html) <br/>
+[2026/05/22 - Mars Chooses Google Cloud Gemini Enterprise: Who Wins the AI Operating System Race?](https://ai.trend.dmomo.co.kr/2026/05/mars-chooses-google-cloud-gemini.html) <br/>
+[2026/05/22 - NASCAR Legend Kyle Busch (41) Passes Away Unexpectedly, Shocking the American Motorsports Community](https://ai.trend.dmomo.co.kr/2026/05/nascar-legend-kyle-busch-41-passes-away.html) <br/>
+[2026/05/22 - Mike Tyson: Journey from Fear in the Ring to Human Icon](https://ai.trend.dmomo.co.kr/2026/05/mike-tyson-journey-from-fear-in-ring-to.html) <br/>
