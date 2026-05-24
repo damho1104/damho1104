@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/05/23 - 최준희 결혼식 불청객 논란: 초대받지 않은 당신, 정말 괜찮은가요?](https://blog.ai.dmomo.co.kr/trend/26473) <br/>
 [2026/05/23 - GraphRAG이란? Microsoft가 제시한 그래프 기반 RAG의 5가지 핵심 비밀과 활용법](https://blog.ai.dmomo.co.kr/tech/26440) <br/>
 [2026/05/23 - 힙합 레전드 Rob Base 59세 사망: ‘It Takes Two’가 남긴 불멸의 유산](https://blog.ai.dmomo.co.kr/trend/26438) <br/>
 [2026/05/22 - 동명이인 ‘김승현’이 검색창에서 만드는 디지털 정체성의 혼란](https://blog.ai.dmomo.co.kr/trend/26416) <br/>
 [2026/05/22 - Mars가 선택한 Google Cloud Gemini Enterprise, AI 운영체제 경쟁 승자는 누구인가](https://blog.ai.dmomo.co.kr/tech/26377) <br/>
-[2026/05/22 - NASCAR 레전드 Kyle Busch(41) 급작스런 사망, 미국 모터스포츠계 충격](https://blog.ai.dmomo.co.kr/trend/26375) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/05/23 - Controversy Over Choi Jun-hee's Wedding Crashers: Are You Really Okay with Uninvited Guests?](https://ai.trend.dmomo.co.kr/2026/05/controversy-over-choi-jun-hees-wedding.html) <br/>
 [2026/05/23 - What is GraphRAG? Microsoft’s 5 Key Secrets and Applications of Graph-Based RAG](https://ai.trend.dmomo.co.kr/2026/05/what-is-graphrag-microsofts-5-key.html) <br/>
 [2026/05/23 - Hip Hop Legend Rob Base Passes Away at 59: The Immortal Legacy of 'It Takes Two'](https://ai.trend.dmomo.co.kr/2026/05/hip-hop-legend-rob-base-passes-away-at.html) <br/>
 [2026/05/22 - The Confusion of Digital Identity Created by Namesake 'Kim Seung-hyun' in Search Engines](https://ai.trend.dmomo.co.kr/2026/05/the-confusion-of-digital-identity.html) <br/>
 [2026/05/22 - Mars Chooses Google Cloud Gemini Enterprise: Who Wins the AI Operating System Race?](https://ai.trend.dmomo.co.kr/2026/05/mars-chooses-google-cloud-gemini.html) <br/>
 [2026/05/22 - NASCAR Legend Kyle Busch (41) Passes Away Unexpectedly, Shocking the American Motorsports Community](https://ai.trend.dmomo.co.kr/2026/05/nascar-legend-kyle-busch-41-passes-away.html) <br/>
-[2026/05/22 - Mike Tyson: Journey from Fear in the Ring to Human Icon](https://ai.trend.dmomo.co.kr/2026/05/mike-tyson-journey-from-fear-in-ring-to.html) <br/>
