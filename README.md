@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/05/26 - Databricks MLOps Stacks로 시작하는 AI 모델 개발 프로세스 코드화 5단계 핵심 가이드](https://blog.ai.dmomo.co.kr/tech/26614) <br/>
-[2026/05/26 - 날씨가 경제와 생태계를 움직이는 실시간 엔진인 이유](https://blog.ai.dmomo.co.kr/trend/26612) <br/>
-[2026/05/26 - 2026 메모리얼 데이 완벽 가이드: 5월 25일 추모와 여름의 시작](https://blog.ai.dmomo.co.kr/trend/26610) <br/>
-[2026/05/25 - 햄버거 할아버지 최현석, MZ 셰프 윤남노에게 농락당하다?](https://blog.ai.dmomo.co.kr/trend/26590) <br/>
-[2026/05/25 - 2026 미국 메모리얼 데이: 건국 250주년과 9/11 25주기가 만나는 특별한 추모의 날](https://blog.ai.dmomo.co.kr/trend/26588) <br/>
+[2026/05/27 - TI TDA4VM 기반 BeagleBone AI‑64로 구현하는 실시간 저전력 Edge AI 가속 분석법](https://blog.ai.dmomo.co.kr/tech/26680) <br/>
+[2026/05/27 - 월마트 파마산 랜치 리콜: 지금 당장 냉장고를 확인해야 하는 이유](https://blog.ai.dmomo.co.kr/trend/26678) <br/>
+[2026/05/26 - 뉴욕 닉스 27년 만의 NBA 파이널 진출! 캐벌리어스 4-0 완파의 충격](https://blog.ai.dmomo.co.kr/trend/26659) <br/>
+[2026/05/26 - 뇌졸중 의심 증상 5가지, 놓치면 생명 위험! FAST 체크법으로 골든타임 사수하기](https://blog.ai.dmomo.co.kr/trend/26641) <br/>
+[2026/05/26 - Knicks 25년 만의 NBA 파이널 진출! 캐벌리어스 4-0 스윕의 충격](https://blog.ai.dmomo.co.kr/trend/26639) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/05/27 - Real-Time Low-Power Edge AI Acceleration Analysis Using TI TDA4VM-Based BeagleBone AI-64](https://ai.trend.dmomo.co.kr/2026/05/real-time-low-power-edge-ai.html) <br/>
+[2026/05/27 - Walmart Parmesan Ranch Recall: Here's Why You Need to Check Your Fridge Right Now](https://ai.trend.dmomo.co.kr/2026/05/walmart-parmesan-ranch-recall-heres-why.html) <br/>
+[2026/05/26 - New York Knicks Make NBA Finals for the First Time in 27 Years! Shocking 4-0 Sweep of the Cavaliers](https://ai.trend.dmomo.co.kr/2026/05/new-york-knicks-make-nba-finals-for.html) <br/>
+[2026/05/26 - 5 Symptoms of Stroke You Shouldn't Ignore: Save Lives with the FAST Check Method!](https://ai.trend.dmomo.co.kr/2026/05/5-symptoms-of-stroke-you-shouldnt.html) <br/>
+[2026/05/26 - Knicks' Shocking 4-0 Sweep of Cavaliers: 25 Years Since Last NBA Finals!](https://ai.trend.dmomo.co.kr/2026/05/knicks-shocking-4-0-sweep-of-cavaliers.html) <br/>
 [2026/05/26 - 5 Essential Steps to Code Your AI Model Development Process with Databricks MLOps Stacks](https://ai.trend.dmomo.co.kr/2026/05/5-essential-steps-to-code-your-ai-model.html) <br/>
-[2026/05/26 - Why Weather is a Real-Time Engine that Drives the Economy and Ecosystem](https://ai.trend.dmomo.co.kr/2026/05/why-weather-is-real-time-engine-that.html) <br/>
-[2026/05/26 - 2026 Memorial Day Perfect Guide: Honoring on May 25 and the Start of Summer](https://ai.trend.dmomo.co.kr/2026/05/2026-memorial-day-perfect-guide.html) <br/>
-[2026/05/25 - Grandpa Hamburger Choi Hyun-seok, Humiliated by MZ Chef Yoon Nam-no?](https://ai.trend.dmomo.co.kr/2026/05/grandpa-hamburger-choi-hyun-seok.html) <br/>
-[2026/05/25 - 2026 Memorial Day: A Special Day of Remembrance Marking the 250th Anniversary of the Nation and the 25th Anniversary of 9/11](https://ai.trend.dmomo.co.kr/2026/05/2026-memorial-day-special-day-of.html) <br/>
-[2026/05/25 - Mexico City Derby Final: Cruz Azul Defeats Pumas to Win the 2026 Clausura](https://ai.trend.dmomo.co.kr/2026/05/mexico-city-derby-final-cruz-azul.html) <br/>
