@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/05/27 - TI TDA4VM 기반 BeagleBone AI‑64로 구현하는 실시간 저전력 Edge AI 가속 분석법](https://blog.ai.dmomo.co.kr/tech/26680) <br/>
-[2026/05/27 - 월마트 파마산 랜치 리콜: 지금 당장 냉장고를 확인해야 하는 이유](https://blog.ai.dmomo.co.kr/trend/26678) <br/>
-[2026/05/26 - 뉴욕 닉스 27년 만의 NBA 파이널 진출! 캐벌리어스 4-0 완파의 충격](https://blog.ai.dmomo.co.kr/trend/26659) <br/>
-[2026/05/26 - 뇌졸중 의심 증상 5가지, 놓치면 생명 위험! FAST 체크법으로 골든타임 사수하기](https://blog.ai.dmomo.co.kr/trend/26641) <br/>
-[2026/05/26 - Knicks 25년 만의 NBA 파이널 진출! 캐벌리어스 4-0 스윕의 충격](https://blog.ai.dmomo.co.kr/trend/26639) <br/>
+[2026/05/28 - 2024년 주목할 온디바이스 생성형 AI 핵심 기술과 미래 전망 7가지](https://blog.ai.dmomo.co.kr/tech/26750) <br/>
+[2026/05/28 - 2026년 제6호 태풍 장미 북상 중! 한반도 영향과 완벽 대비법 총정리](https://blog.ai.dmomo.co.kr/trend/26747) <br/>
+[2026/05/28 - 트럼프 측근 팸 본디, 갑상선암 투병 후 AI 정책 자문위원 복귀](https://blog.ai.dmomo.co.kr/trend/26746) <br/>
+[2026/05/27 - 태풍의 모든 것: 발생 원리부터 기후변화 영향까지 완벽 정리](https://blog.ai.dmomo.co.kr/trend/26725) <br/>
+[2026/05/27 - 2025 기초연금법 개정: 탈락자 3.8만명 자동지급 시작되는 혁명적 변화](https://blog.ai.dmomo.co.kr/trend/26707) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/05/27 - Real-Time Low-Power Edge AI Acceleration Analysis Using TI TDA4VM-Based BeagleBone AI-64](https://ai.trend.dmomo.co.kr/2026/05/real-time-low-power-edge-ai.html) <br/>
-[2026/05/27 - Walmart Parmesan Ranch Recall: Here's Why You Need to Check Your Fridge Right Now](https://ai.trend.dmomo.co.kr/2026/05/walmart-parmesan-ranch-recall-heres-why.html) <br/>
-[2026/05/26 - New York Knicks Make NBA Finals for the First Time in 27 Years! Shocking 4-0 Sweep of the Cavaliers](https://ai.trend.dmomo.co.kr/2026/05/new-york-knicks-make-nba-finals-for.html) <br/>
-[2026/05/26 - 5 Symptoms of Stroke You Shouldn't Ignore: Save Lives with the FAST Check Method!](https://ai.trend.dmomo.co.kr/2026/05/5-symptoms-of-stroke-you-shouldnt.html) <br/>
-[2026/05/26 - Knicks' Shocking 4-0 Sweep of Cavaliers: 25 Years Since Last NBA Finals!](https://ai.trend.dmomo.co.kr/2026/05/knicks-shocking-4-0-sweep-of-cavaliers.html) <br/>
-[2026/05/26 - 5 Essential Steps to Code Your AI Model Development Process with Databricks MLOps Stacks](https://ai.trend.dmomo.co.kr/2026/05/5-essential-steps-to-code-your-ai-model.html) <br/>
+[2026/05/28 - 7 Key On-Device Generative AI Technologies to Watch in 2024 and Their Future Prospects](https://ai.trend.dmomo.co.kr/2026/05/7-key-on-device-generative-ai.html) <br/>
+[2026/05/28 - Trump's Aide Pam Bondi Returns as AI Policy Advisor After Battling Thyroid Cancer](https://ai.trend.dmomo.co.kr/2026/05/trumps-aide-pam-bondi-returns-as-ai.html) <br/>
+[2026/05/28 - Typhoon Jangmi No. 6 Approaching in 2026! Comprehensive Guide to Its Impact on the Korean Peninsula and How to Prepare Perfectly](https://ai.trend.dmomo.co.kr/2026/05/typhoon-jangmi-no-6-approaching-in-2026.html) <br/>
+[2026/05/27 - Everything About Typhoons: From Formation Principles to Climate Change Effects Explained Perfectly](https://ai.trend.dmomo.co.kr/2026/05/everything-about-typhoons-from.html) <br/>
+[2026/05/27 - Revolutionary Change: Automatic Payments Begin for 38,000 Excluded Individuals Under the 2025 Basic Pension Law Amendment](https://ai.trend.dmomo.co.kr/2026/05/revolutionary-change-automatic-payments.html) <br/>
+[2026/05/27 - NFL Star Josh Jacobs Arrested on Domestic Violence Charges… Dark Cloud Over Packers Season?](https://ai.trend.dmomo.co.kr/2026/05/nfl-star-josh-jacobs-arrested-on.html) <br/>
