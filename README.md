@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/05/29 - 선거법 위반 논란, 허위사실공표죄와 표현의 자유 사이 어디까지 허용될까?](https://blog.ai.dmomo.co.kr/trend/26818) <br/>
-[2026/05/29 - Meta Manus: 스스로 계획·연구·코딩·완성하는 자율형 AI 에이전트란 무엇일까?](https://blog.ai.dmomo.co.kr/tech/26817) <br/>
-[2026/05/29 - NHL 전설 클로드 르뮈 60세 사망: 4번의 스탠리컵과 논란의 아이콘](https://blog.ai.dmomo.co.kr/trend/26815) <br/>
-[2026/05/28 - 형사재판 무죄 판결의 진짜 의미: 윤석열과 강병삼 사례로 본 입증 실패의 법리](https://blog.ai.dmomo.co.kr/trend/26795) <br/>
-[2026/05/28 - 태풍 장미의 4번 재림: 꽃 이름 붙은 태풍이 한국에 미친 영향은?](https://blog.ai.dmomo.co.kr/trend/26777) <br/>
+[2026/05/30 - 아시아 최초 Pinecone 서버리스 리전 오픈, AI 벡터 DB 시장 판도 바뀌나?](https://blog.ai.dmomo.co.kr/tech/26882) <br/>
+[2026/05/30 - K-드라마가 세계를 사로잡은 비밀: 편성표에서 글로벌 IP로의 진화](https://blog.ai.dmomo.co.kr/trend/26880) <br/>
+[2026/05/30 - Blue Origin 폭발 사고: 유튜브 루머 vs 2022년 NS-23 실제 사건 팩트체크](https://blog.ai.dmomo.co.kr/trend/26878) <br/>
+[2026/05/29 - KIA vs LG 프로야구 라이벌전: 전통 강호와 수도권 명문의 자존심 대결](https://blog.ai.dmomo.co.kr/trend/26861) <br/>
+[2026/05/29 - 서울식물원 완벽 가이드: 마곡 도심 속 열대정원부터 호수까지 한번에 즐기는 법](https://blog.ai.dmomo.co.kr/trend/26843) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/05/30 - Asia’s First Pinecone Serverless Region Launch: Will It Transform the AI Vector DB Market?](https://ai.trend.dmomo.co.kr/2026/05/asias-first-pinecone-serverless-region.html) <br/>
+[2026/05/30 - The Secret Behind K-Dramas Captivating the World: Evolution from Broadcast Schedule to Global IP](https://ai.trend.dmomo.co.kr/2026/05/the-secret-behind-k-dramas-captivating.html) <br/>
+[2026/05/30 - Blue Origin Explosion Incident: YouTube Rumors vs. Fact-Checking the 2022 NS-23 Actual Event](https://ai.trend.dmomo.co.kr/2026/05/blue-origin-explosion-incident-youtube.html) <br/>
+[2026/05/29 - Perfect Guide to Seoul Botanical Garden: Enjoying Tropical Gardens and Lakes in the Heart of Magok](https://ai.trend.dmomo.co.kr/2026/05/perfect-guide-to-seoul-botanical-garden.html) <br/>
 [2026/05/29 - Controversy Over Election Law Violations: How Far Can We Go Between False Facts and Freedom of Expression?](https://ai.trend.dmomo.co.kr/2026/05/controversy-over-election-law.html) <br/>
 [2026/05/29 - Meta Manus: What Is a Self-Directed AI Agent That Plans, Researches, Codes, and Completes Tasks Independently?](https://ai.trend.dmomo.co.kr/2026/05/meta-manus-what-is-self-directed-ai.html) <br/>
-[2026/05/29 - NHL Legend Claude Lemieux Passes Away at 60: A Controversial Icon with 4 Stanley Cups](https://ai.trend.dmomo.co.kr/2026/05/nhl-legend-claude-lemieux-passes-away.html) <br/>
-[2026/05/28 - The True Meaning of Not Guilty Verdicts in Criminal Trials: A Legal Perspective on Evidence Failure through the Cases of Yoon Suk-yeol and Kang Byeong-sam](https://ai.trend.dmomo.co.kr/2026/05/the-true-meaning-of-not-guilty-verdicts.html) <br/>
-[2026/05/28 - Typhoon Jangmi's Fourth Coming: What Impact Did the Flower-Named Typhoon Have on Korea?](https://ai.trend.dmomo.co.kr/2026/05/typhoon-jangmis-fourth-coming-what.html) <br/>
-[2026/05/28 - Violet Affleck, Ben Affleck's Daughter, Shocking Reason for Using Crutches as a Yale Student](https://ai.trend.dmomo.co.kr/2026/05/violet-affleck-ben-afflecks-daughter.html) <br/>
