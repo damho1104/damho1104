@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/05/30 - 아시아 최초 Pinecone 서버리스 리전 오픈, AI 벡터 DB 시장 판도 바뀌나?](https://blog.ai.dmomo.co.kr/tech/26882) <br/>
-[2026/05/30 - K-드라마가 세계를 사로잡은 비밀: 편성표에서 글로벌 IP로의 진화](https://blog.ai.dmomo.co.kr/trend/26880) <br/>
-[2026/05/30 - Blue Origin 폭발 사고: 유튜브 루머 vs 2022년 NS-23 실제 사건 팩트체크](https://blog.ai.dmomo.co.kr/trend/26878) <br/>
-[2026/05/29 - KIA vs LG 프로야구 라이벌전: 전통 강호와 수도권 명문의 자존심 대결](https://blog.ai.dmomo.co.kr/trend/26861) <br/>
-[2026/05/29 - 서울식물원 완벽 가이드: 마곡 도심 속 열대정원부터 호수까지 한번에 즐기는 법](https://blog.ai.dmomo.co.kr/trend/26843) <br/>
+[2026/05/31 - 2024년 주목할 최신 AI 코딩 에이전트, Chrome DevTools MCP란 무엇인가](https://blog.ai.dmomo.co.kr/tech/26930) <br/>
+[2026/05/31 - 면허가 없으면 못하는 일들: 운전부터 낚시까지 우리 삶을 지배하는 라이선스의 모든 것](https://blog.ai.dmomo.co.kr/trend/26928) <br/>
+[2026/05/31 - PSG, 아스널 꺾고 챔피언스리그 2연패 달성! 승부차기 드라마의 전말](https://blog.ai.dmomo.co.kr/trend/26926) <br/>
+[2026/05/30 - 오타니 시즌 10호 홈런! 다저스 vs 필리스 복수전 하이라이트 총정리](https://blog.ai.dmomo.co.kr/trend/26903) <br/>
+[2026/05/30 - 면허가 만드는 기회와 장벽: 운전면허부터 전문직까지 한국사회 면허 완전정복](https://blog.ai.dmomo.co.kr/trend/26901) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/05/31 - Cutting-Edge AI Coding Agents to Watch in 2024: What Is Chrome DevTools MCP?](https://ai.trend.dmomo.co.kr/2026/05/cutting-edge-ai-coding-agents-to-watch.html) <br/>
+[2026/05/31 - Things You Can't Do Without a License: Everything About Licenses That Govern Our Lives from Driving to Fishing](https://ai.trend.dmomo.co.kr/2026/05/things-you-cant-do-without-license.html) <br/>
+[2026/05/31 - PSG Triumphs Over Arsenal to Achieve Back-to-Back Champions League Titles! The Drama Behind the Penalty Shootout](https://ai.trend.dmomo.co.kr/2026/05/psg-triumphs-over-arsenal-to-achieve.html) <br/>
+[2026/05/30 - Opportunities and Barriers in Licensing: Mastering Licenses in Korean Society from Driver's Licenses to Professional Credentials](https://ai.trend.dmomo.co.kr/2026/05/opportunities-and-barriers-in-licensing.html) <br/>
+[2026/05/30 - Ohtani Hits Season 10 Home Run! Highlights Recap of Dodgers vs. Phillies Rematch](https://ai.trend.dmomo.co.kr/2026/05/ohtani-hits-season-10-home-run.html) <br/>
 [2026/05/30 - Asia’s First Pinecone Serverless Region Launch: Will It Transform the AI Vector DB Market?](https://ai.trend.dmomo.co.kr/2026/05/asias-first-pinecone-serverless-region.html) <br/>
-[2026/05/30 - The Secret Behind K-Dramas Captivating the World: Evolution from Broadcast Schedule to Global IP](https://ai.trend.dmomo.co.kr/2026/05/the-secret-behind-k-dramas-captivating.html) <br/>
-[2026/05/30 - Blue Origin Explosion Incident: YouTube Rumors vs. Fact-Checking the 2022 NS-23 Actual Event](https://ai.trend.dmomo.co.kr/2026/05/blue-origin-explosion-incident-youtube.html) <br/>
-[2026/05/29 - Perfect Guide to Seoul Botanical Garden: Enjoying Tropical Gardens and Lakes in the Heart of Magok](https://ai.trend.dmomo.co.kr/2026/05/perfect-guide-to-seoul-botanical-garden.html) <br/>
-[2026/05/29 - Controversy Over Election Law Violations: How Far Can We Go Between False Facts and Freedom of Expression?](https://ai.trend.dmomo.co.kr/2026/05/controversy-over-election-law.html) <br/>
-[2026/05/29 - Meta Manus: What Is a Self-Directed AI Agent That Plans, Researches, Codes, and Completes Tasks Independently?](https://ai.trend.dmomo.co.kr/2026/05/meta-manus-what-is-self-directed-ai.html) <br/>
