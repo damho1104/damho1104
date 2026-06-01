@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/05/31 - 2024년 주목할 최신 AI 코딩 에이전트, Chrome DevTools MCP란 무엇인가](https://blog.ai.dmomo.co.kr/tech/26930) <br/>
-[2026/05/31 - 면허가 없으면 못하는 일들: 운전부터 낚시까지 우리 삶을 지배하는 라이선스의 모든 것](https://blog.ai.dmomo.co.kr/trend/26928) <br/>
-[2026/05/31 - PSG, 아스널 꺾고 챔피언스리그 2연패 달성! 승부차기 드라마의 전말](https://blog.ai.dmomo.co.kr/trend/26926) <br/>
-[2026/05/30 - 오타니 시즌 10호 홈런! 다저스 vs 필리스 복수전 하이라이트 총정리](https://blog.ai.dmomo.co.kr/trend/26903) <br/>
-[2026/05/30 - 면허가 만드는 기회와 장벽: 운전면허부터 전문직까지 한국사회 면허 완전정복](https://blog.ai.dmomo.co.kr/trend/26901) <br/>
+[2026/06/01 - Google AI Edge Gallery와 Gemma 4로 엣지 AI 시대의 온디바이스 LLM 혁신을 경험하라](https://blog.ai.dmomo.co.kr/tech/26984) <br/>
+[2026/06/01 - 한국 축구 5-0 완승! 고지대 적응 첫 시험에서 트리니다드 토바고 격파](https://blog.ai.dmomo.co.kr/trend/26982) <br/>
+[2026/06/01 - 2026 NBA 파이널 확정! 닉스 vs 스퍼스, 27년 만의 리매치 성사](https://blog.ai.dmomo.co.kr/trend/26980) <br/>
+[2026/05/31 - 톨루카, 티그레스 꺾고 CONCACAF 챔피언스컵 우승! 페널티 드라마의 전말](https://blog.ai.dmomo.co.kr/trend/26954) <br/>
+[2026/05/31 - 손흥민 골 가뭄 끝낼까? 한국 vs 트리니다드토바고 월드컵 D-12 고지대 평가전 전격 분석](https://blog.ai.dmomo.co.kr/trend/26952) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/06/01 - Experience On-Device LLM Innovation in the Edge AI Era with Google AI Edge Gallery and Gemma 4](https://ai.trend.dmomo.co.kr/2026/05/experience-on-device-llm-innovation-in.html) <br/>
+[2026/06/01 - Korea's 5-0 Victory! Dominating Trinidad and Tobago in Their First High-Altitude Challenge](https://ai.trend.dmomo.co.kr/2026/05/koreas-5-0-victory-dominating-trinidad.html) <br/>
+[2026/06/01 - 2026 NBA Finals Confirmed! Knicks vs Spurs, A Rematch After 27 Years](https://ai.trend.dmomo.co.kr/2026/05/2026-nba-finals-confirmed-knicks-vs.html) <br/>
+[2026/05/31 - Toluca Claims CONCACAF Champions Cup Victory, Overcoming Tigres in Penalty Drama!](https://ai.trend.dmomo.co.kr/2026/05/toluca-claims-concacaf-champions-cup.html) <br/>
+[2026/05/31 - Will Son Heung-min End His Goal Drought? In-Depth Analysis of Korea vs Trinidad and Tobago Pre-World Cup Match 12 Days to Go](https://ai.trend.dmomo.co.kr/2026/05/will-son-heung-min-end-his-goal-drought.html) <br/>
 [2026/05/31 - Cutting-Edge AI Coding Agents to Watch in 2024: What Is Chrome DevTools MCP?](https://ai.trend.dmomo.co.kr/2026/05/cutting-edge-ai-coding-agents-to-watch.html) <br/>
-[2026/05/31 - Things You Can't Do Without a License: Everything About Licenses That Govern Our Lives from Driving to Fishing](https://ai.trend.dmomo.co.kr/2026/05/things-you-cant-do-without-license.html) <br/>
-[2026/05/31 - PSG Triumphs Over Arsenal to Achieve Back-to-Back Champions League Titles! The Drama Behind the Penalty Shootout](https://ai.trend.dmomo.co.kr/2026/05/psg-triumphs-over-arsenal-to-achieve.html) <br/>
-[2026/05/30 - Opportunities and Barriers in Licensing: Mastering Licenses in Korean Society from Driver's Licenses to Professional Credentials](https://ai.trend.dmomo.co.kr/2026/05/opportunities-and-barriers-in-licensing.html) <br/>
-[2026/05/30 - Ohtani Hits Season 10 Home Run! Highlights Recap of Dodgers vs. Phillies Rematch](https://ai.trend.dmomo.co.kr/2026/05/ohtani-hits-season-10-home-run.html) <br/>
-[2026/05/30 - Asia’s First Pinecone Serverless Region Launch: Will It Transform the AI Vector DB Market?](https://ai.trend.dmomo.co.kr/2026/05/asias-first-pinecone-serverless-region.html) <br/>
