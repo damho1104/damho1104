@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/01 - Google AI Edge Gallery와 Gemma 4로 엣지 AI 시대의 온디바이스 LLM 혁신을 경험하라](https://blog.ai.dmomo.co.kr/tech/26984) <br/>
-[2026/06/01 - 한국 축구 5-0 완승! 고지대 적응 첫 시험에서 트리니다드 토바고 격파](https://blog.ai.dmomo.co.kr/trend/26982) <br/>
-[2026/06/01 - 2026 NBA 파이널 확정! 닉스 vs 스퍼스, 27년 만의 리매치 성사](https://blog.ai.dmomo.co.kr/trend/26980) <br/>
-[2026/05/31 - 톨루카, 티그레스 꺾고 CONCACAF 챔피언스컵 우승! 페널티 드라마의 전말](https://blog.ai.dmomo.co.kr/trend/26954) <br/>
-[2026/05/31 - 손흥민 골 가뭄 끝낼까? 한국 vs 트리니다드토바고 월드컵 D-12 고지대 평가전 전격 분석](https://blog.ai.dmomo.co.kr/trend/26952) <br/>
+[2026/06/02 - 2026년 주목할 브라우저·컴퓨터 사용 에이전트 5가지 핵심 기술과 위험은?](https://blog.ai.dmomo.co.kr/tech/27047) <br/>
+[2026/06/02 - 한화에어로스페이스 대전공장 또 폭발, 8년간 3번째 참사로 13명 사망](https://blog.ai.dmomo.co.kr/trend/27045) <br/>
+[2026/06/02 - NFL 충격: 클리블랜드 마일스 개럿, LA 램스로 초대형 트레이드 임박](https://blog.ai.dmomo.co.kr/trend/27043) <br/>
+[2026/06/01 - 한화에어로스페이스 대전공장 폭발 사고, 6명 사상…화약 세척 중 발생 추정](https://blog.ai.dmomo.co.kr/trend/27011) <br/>
+[2026/06/01 - 칼럼 터너(Callum Turner): 두아 리파와 결혼한 영국 배우의 모든 것](https://blog.ai.dmomo.co.kr/trend/27009) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/06/02 - Top 5 Emerging Browser and Computer User Agent Technologies and Risks to Watch in 2026](https://ai.trend.dmomo.co.kr/2026/06/top-5-emerging-browser-and-computer.html) <br/>
+[2026/06/02 - Hanwha Aerospace Daejeon Factory Explosion: 13 Dead in Third Tragedy in 8 Years](https://ai.trend.dmomo.co.kr/2026/06/hanwha-aerospace-daejeon-factory.html) <br/>
+[2026/06/02 - NFL Shock: Cleveland's Myles Garrett on the Brink of a Major Trade to the LA Rams](https://ai.trend.dmomo.co.kr/2026/06/nfl-shock-clevelands-myles-garrett-on.html) <br/>
+[2026/06/01 - Hanwha Aerospace Daejeon Factory Explosion: 6 Casualties... Presumed to Occur During Explosive Cleaning Process](https://ai.trend.dmomo.co.kr/2026/05/hanwha-aerospace-daejeon-factory.html) <br/>
+[2026/06/01 - Callum Turner: Everything About the British Actor Married to Dua Lipa](https://ai.trend.dmomo.co.kr/2026/05/callum-turner-everything-about-british.html) <br/>
 [2026/06/01 - Experience On-Device LLM Innovation in the Edge AI Era with Google AI Edge Gallery and Gemma 4](https://ai.trend.dmomo.co.kr/2026/05/experience-on-device-llm-innovation-in.html) <br/>
-[2026/06/01 - Korea's 5-0 Victory! Dominating Trinidad and Tobago in Their First High-Altitude Challenge](https://ai.trend.dmomo.co.kr/2026/05/koreas-5-0-victory-dominating-trinidad.html) <br/>
-[2026/06/01 - 2026 NBA Finals Confirmed! Knicks vs Spurs, A Rematch After 27 Years](https://ai.trend.dmomo.co.kr/2026/05/2026-nba-finals-confirmed-knicks-vs.html) <br/>
-[2026/05/31 - Toluca Claims CONCACAF Champions Cup Victory, Overcoming Tigres in Penalty Drama!](https://ai.trend.dmomo.co.kr/2026/05/toluca-claims-concacaf-champions-cup.html) <br/>
-[2026/05/31 - Will Son Heung-min End His Goal Drought? In-Depth Analysis of Korea vs Trinidad and Tobago Pre-World Cup Match 12 Days to Go](https://ai.trend.dmomo.co.kr/2026/05/will-son-heung-min-end-his-goal-drought.html) <br/>
-[2026/05/31 - Cutting-Edge AI Coding Agents to Watch in 2024: What Is Chrome DevTools MCP?](https://ai.trend.dmomo.co.kr/2026/05/cutting-edge-ai-coding-agents-to-watch.html) <br/>
