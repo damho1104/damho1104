@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/02 - 2026년 주목할 브라우저·컴퓨터 사용 에이전트 5가지 핵심 기술과 위험은?](https://blog.ai.dmomo.co.kr/tech/27047) <br/>
-[2026/06/02 - 한화에어로스페이스 대전공장 또 폭발, 8년간 3번째 참사로 13명 사망](https://blog.ai.dmomo.co.kr/trend/27045) <br/>
-[2026/06/02 - NFL 충격: 클리블랜드 마일스 개럿, LA 램스로 초대형 트레이드 임박](https://blog.ai.dmomo.co.kr/trend/27043) <br/>
-[2026/06/01 - 한화에어로스페이스 대전공장 폭발 사고, 6명 사상…화약 세척 중 발생 추정](https://blog.ai.dmomo.co.kr/trend/27011) <br/>
-[2026/06/01 - 칼럼 터너(Callum Turner): 두아 리파와 결혼한 영국 배우의 모든 것](https://blog.ai.dmomo.co.kr/trend/27009) <br/>
+[2026/06/03 - 2026년 대비 필수 전략, OWASP A03 맞춤 소프트웨어 공급망 보안 플랫폼 완벽 가이드](https://blog.ai.dmomo.co.kr/tech/27119) <br/>
+[2026/06/03 - 정년 60세 시대, 당신의 진짜 퇴직 나이는 몇 살일까?](https://blog.ai.dmomo.co.kr/trend/27117) <br/>
+[2026/06/03 - Fox News 오늘의 5대 이슈: 트럼프 중동외교부터 NVIDIA AI 혁명까지](https://blog.ai.dmomo.co.kr/trend/27115) <br/>
+[2026/06/02 - 2026 KBO 한화 vs 두산, 강백호는 벤자민을 넘어설 수 있을까?](https://blog.ai.dmomo.co.kr/trend/27089) <br/>
+[2026/06/02 - LA 다저스 vs 애리조나: 빅마켓 왕조와 사막 언더독의 뜨거운 서부지구 라이벌전](https://blog.ai.dmomo.co.kr/trend/27071) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/06/03 - Essential Strategies for 2026: The Ultimate Guide to OWASP A03 Customized Software Supply Chain Security Platforms](https://ai.trend.dmomo.co.kr/2026/06/essential-strategies-for-2026-ultimate.html) <br/>
+[2026/06/03 - In the Era of Retirement at 60, What is Your Real Retirement Age?](https://ai.trend.dmomo.co.kr/2026/06/in-era-of-retirement-at-60-what-is-your.html) <br/>
+[2026/06/03 - Fox News Today’s Top 5 Issues: From Trump’s Middle East Diplomacy to the NVIDIA AI Revolution](https://ai.trend.dmomo.co.kr/2026/06/fox-news-todays-top-5-issues-from.html) <br/>
+[2026/06/02 - 2026 KBO Hanwha vs Doosan: Can Kang Baek-ho Surpass Benjamin?](https://ai.trend.dmomo.co.kr/2026/06/2026-kbo-hanwha-vs-doosan-can-kang-baek.html) <br/>
+[2026/06/02 - LA Dodgers vs Arizona: A Hot Rivalry in the West Between the Big Market Dynasty and the Desert Underdog](https://ai.trend.dmomo.co.kr/2026/06/la-dodgers-vs-arizona-hot-rivalry-in.html) <br/>
 [2026/06/02 - Top 5 Emerging Browser and Computer User Agent Technologies and Risks to Watch in 2026](https://ai.trend.dmomo.co.kr/2026/06/top-5-emerging-browser-and-computer.html) <br/>
-[2026/06/02 - Hanwha Aerospace Daejeon Factory Explosion: 13 Dead in Third Tragedy in 8 Years](https://ai.trend.dmomo.co.kr/2026/06/hanwha-aerospace-daejeon-factory.html) <br/>
-[2026/06/02 - NFL Shock: Cleveland's Myles Garrett on the Brink of a Major Trade to the LA Rams](https://ai.trend.dmomo.co.kr/2026/06/nfl-shock-clevelands-myles-garrett-on.html) <br/>
-[2026/06/01 - Hanwha Aerospace Daejeon Factory Explosion: 6 Casualties... Presumed to Occur During Explosive Cleaning Process](https://ai.trend.dmomo.co.kr/2026/05/hanwha-aerospace-daejeon-factory.html) <br/>
-[2026/06/01 - Callum Turner: Everything About the British Actor Married to Dua Lipa](https://ai.trend.dmomo.co.kr/2026/05/callum-turner-everything-about-british.html) <br/>
-[2026/06/01 - Experience On-Device LLM Innovation in the Edge AI Era with Google AI Edge Gallery and Gemma 4](https://ai.trend.dmomo.co.kr/2026/05/experience-on-device-llm-innovation-in.html) <br/>
