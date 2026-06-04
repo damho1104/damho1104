@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/03 - 2026년 대비 필수 전략, OWASP A03 맞춤 소프트웨어 공급망 보안 플랫폼 완벽 가이드](https://blog.ai.dmomo.co.kr/tech/27119) <br/>
-[2026/06/03 - 정년 60세 시대, 당신의 진짜 퇴직 나이는 몇 살일까?](https://blog.ai.dmomo.co.kr/trend/27117) <br/>
-[2026/06/03 - Fox News 오늘의 5대 이슈: 트럼프 중동외교부터 NVIDIA AI 혁명까지](https://blog.ai.dmomo.co.kr/trend/27115) <br/>
-[2026/06/02 - 2026 KBO 한화 vs 두산, 강백호는 벤자민을 넘어설 수 있을까?](https://blog.ai.dmomo.co.kr/trend/27089) <br/>
-[2026/06/02 - LA 다저스 vs 애리조나: 빅마켓 왕조와 사막 언더독의 뜨거운 서부지구 라이벌전](https://blog.ai.dmomo.co.kr/trend/27071) <br/>
+[2026/06/04 - 실시간 멀티모달 AI 어시스턴트가 바꾸는 컴퓨팅 미래와 5가지 핵심 기술](https://blog.ai.dmomo.co.kr/tech/27182) <br/>
+[2026/06/04 - 서울시장이 준대통령급? 2026년 지방선거 핵심 포인트 총정리](https://blog.ai.dmomo.co.kr/trend/27180) <br/>
+[2026/06/04 - 2026 NBA 파이널: Wemby vs Brunson, 28년 만의 최고 시청률 드라마](https://blog.ai.dmomo.co.kr/trend/27178) <br/>
+[2026/06/03 - 2026 캘리포니아 프라이머리: 민주당 압승 속 공화당 반격의 신호는?](https://blog.ai.dmomo.co.kr/trend/27139) <br/>
+[2026/06/03 - 배우라는 직업의 본질: 예술가와 노동자 사이에서 살아가는 사람들](https://blog.ai.dmomo.co.kr/trend/27138) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/06/04 - The Future of Computing Transformed by Real-Time Multimodal AI Assistants and 5 Key Technologies](https://ai.trend.dmomo.co.kr/2026/06/the-future-of-computing-transformed-by.html) <br/>
+[2026/06/04 - Is the Mayor of Seoul on Par with a Presidential Level? Key Points Summary for the 2026 Local Elections](https://ai.trend.dmomo.co.kr/2026/06/is-mayor-of-seoul-on-par-with.html) <br/>
+[2026/06/04 - 2026 NBA Finals: Wemby vs Brunson, The Ultimate Ratings Drama in 28 Years](https://ai.trend.dmomo.co.kr/2026/06/2026-nba-finals-wemby-vs-brunson.html) <br/>
+[2026/06/03 - 2026 California Primary: Signals of a Republican Comeback Amidst a Democratic Landslide?](https://ai.trend.dmomo.co.kr/2026/06/2026-california-primary-signals-of.html) <br/>
+[2026/06/03 - The Essence of Being an Actor: Individuals Living Between Artists and Workers](https://ai.trend.dmomo.co.kr/2026/06/the-essence-of-being-actor-individuals.html) <br/>
 [2026/06/03 - Essential Strategies for 2026: The Ultimate Guide to OWASP A03 Customized Software Supply Chain Security Platforms](https://ai.trend.dmomo.co.kr/2026/06/essential-strategies-for-2026-ultimate.html) <br/>
-[2026/06/03 - In the Era of Retirement at 60, What is Your Real Retirement Age?](https://ai.trend.dmomo.co.kr/2026/06/in-era-of-retirement-at-60-what-is-your.html) <br/>
-[2026/06/03 - Fox News Today’s Top 5 Issues: From Trump’s Middle East Diplomacy to the NVIDIA AI Revolution](https://ai.trend.dmomo.co.kr/2026/06/fox-news-todays-top-5-issues-from.html) <br/>
-[2026/06/02 - 2026 KBO Hanwha vs Doosan: Can Kang Baek-ho Surpass Benjamin?](https://ai.trend.dmomo.co.kr/2026/06/2026-kbo-hanwha-vs-doosan-can-kang-baek.html) <br/>
-[2026/06/02 - LA Dodgers vs Arizona: A Hot Rivalry in the West Between the Big Market Dynasty and the Desert Underdog](https://ai.trend.dmomo.co.kr/2026/06/la-dodgers-vs-arizona-hot-rivalry-in.html) <br/>
-[2026/06/02 - Top 5 Emerging Browser and Computer User Agent Technologies and Risks to Watch in 2026](https://ai.trend.dmomo.co.kr/2026/06/top-5-emerging-browser-and-computer.html) <br/>
