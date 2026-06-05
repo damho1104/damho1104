@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/04 - 실시간 멀티모달 AI 어시스턴트가 바꾸는 컴퓨팅 미래와 5가지 핵심 기술](https://blog.ai.dmomo.co.kr/tech/27182) <br/>
-[2026/06/04 - 서울시장이 준대통령급? 2026년 지방선거 핵심 포인트 총정리](https://blog.ai.dmomo.co.kr/trend/27180) <br/>
-[2026/06/04 - 2026 NBA 파이널: Wemby vs Brunson, 28년 만의 최고 시청률 드라마](https://blog.ai.dmomo.co.kr/trend/27178) <br/>
-[2026/06/03 - 2026 캘리포니아 프라이머리: 민주당 압승 속 공화당 반격의 신호는?](https://blog.ai.dmomo.co.kr/trend/27139) <br/>
-[2026/06/03 - 배우라는 직업의 본질: 예술가와 노동자 사이에서 살아가는 사람들](https://blog.ai.dmomo.co.kr/trend/27138) <br/>
+[2026/06/05 - AWS 서버리스 페이로드 1MB 상향, 설계 패턴과 비용 효율 어떻게 달라질까?](https://blog.ai.dmomo.co.kr/tech/27252) <br/>
+[2026/06/05 - 한국 엘살바도르전 1-0 승리, 월드컵 D-7 마지막 점검 완료](https://blog.ai.dmomo.co.kr/trend/27250) <br/>
+[2026/06/05 - WNBA 화제의 대결: 클락 vs 리스 첫 맞대결이 펼쳐진다](https://blog.ai.dmomo.co.kr/trend/27248) <br/>
+[2026/06/04 - 2026 NBA 파이널: 뉴욕이 닉스 얘기만 하는 이유](https://blog.ai.dmomo.co.kr/trend/27228) <br/>
+[2026/06/04 - 이동경 프리킥 결승골로 엘살바도르 제압, 월드컵 D-7 마지막 점검 완료](https://blog.ai.dmomo.co.kr/trend/27209) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/06/04 - The Future of Computing Transformed by Real-Time Multimodal AI Assistants and 5 Key Technologies](https://ai.trend.dmomo.co.kr/2026/06/the-future-of-computing-transformed-by.html) <br/>
-[2026/06/04 - Is the Mayor of Seoul on Par with a Presidential Level? Key Points Summary for the 2026 Local Elections](https://ai.trend.dmomo.co.kr/2026/06/is-mayor-of-seoul-on-par-with.html) <br/>
-[2026/06/04 - 2026 NBA Finals: Wemby vs Brunson, The Ultimate Ratings Drama in 28 Years](https://ai.trend.dmomo.co.kr/2026/06/2026-nba-finals-wemby-vs-brunson.html) <br/>
-[2026/06/03 - 2026 California Primary: Signals of a Republican Comeback Amidst a Democratic Landslide?](https://ai.trend.dmomo.co.kr/2026/06/2026-california-primary-signals-of.html) <br/>
-[2026/06/03 - The Essence of Being an Actor: Individuals Living Between Artists and Workers](https://ai.trend.dmomo.co.kr/2026/06/the-essence-of-being-actor-individuals.html) <br/>
-[2026/06/03 - Essential Strategies for 2026: The Ultimate Guide to OWASP A03 Customized Software Supply Chain Security Platforms](https://ai.trend.dmomo.co.kr/2026/06/essential-strategies-for-2026-ultimate.html) <br/>
+[2026/06/05 - AWS Serverless Payload Increased to 1MB: How Will Design Patterns and Cost Efficiency Change?](https://ai.trend.dmomo.co.kr/2026/06/aws-serverless-payload-increased-to-1mb.html) <br/>
+[2026/06/05 - Korea's 1-0 Victory Against El Salvador: Final Check Before the World Cup in 7 Days](https://ai.trend.dmomo.co.kr/2026/06/koreas-1-0-victory-against-el-salvador.html) <br/>
+[2026/06/05 - WNBA Showdown: The First Face-off Between Clark and Reece](https://ai.trend.dmomo.co.kr/2026/06/wnba-showdown-first-face-off-between.html) <br/>
+[2026/06/04 - 2026 NBA Finals: Why Everyone is Talking About the New York Knicks](https://ai.trend.dmomo.co.kr/2026/06/2026-nba-finals-why-everyone-is-talking.html) <br/>
+[2026/06/04 - Lee Dong-kyung's Free Kick Secures Victory Over El Salvador, Final Check-up Before World Cup D-7](https://ai.trend.dmomo.co.kr/2026/06/lee-dong-kyungs-free-kick-secures.html) <br/>
+[2026/06/04 - Jalen Brunson Overcomes Knee Injury Scare in NBA Finals to Score 30 Points! Key Player in New York Knicks' Game 1 Victory](https://ai.trend.dmomo.co.kr/2026/06/jalen-brunson-overcomes-knee-injury.html) <br/>
