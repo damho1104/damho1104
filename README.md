@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/05 - AWS 서버리스 페이로드 1MB 상향, 설계 패턴과 비용 효율 어떻게 달라질까?](https://blog.ai.dmomo.co.kr/tech/27252) <br/>
-[2026/06/05 - 한국 엘살바도르전 1-0 승리, 월드컵 D-7 마지막 점검 완료](https://blog.ai.dmomo.co.kr/trend/27250) <br/>
-[2026/06/05 - WNBA 화제의 대결: 클락 vs 리스 첫 맞대결이 펼쳐진다](https://blog.ai.dmomo.co.kr/trend/27248) <br/>
-[2026/06/04 - 2026 NBA 파이널: 뉴욕이 닉스 얘기만 하는 이유](https://blog.ai.dmomo.co.kr/trend/27228) <br/>
-[2026/06/04 - 이동경 프리킥 결승골로 엘살바도르 제압, 월드컵 D-7 마지막 점검 완료](https://blog.ai.dmomo.co.kr/trend/27209) <br/>
+[2026/06/06 - AWS Lambda·SQS·EventBridge 페이로드 1MB가 서버리스 아키텍처에 미치는 7가지 변화](https://blog.ai.dmomo.co.kr/tech/27320) <br/>
+[2026/06/06 - 버피의 멘토에서 테드 라소의 악당까지, 앤서니 헤드 72세 별세](https://blog.ai.dmomo.co.kr/trend/27319) <br/>
+[2026/06/06 - 조선 최고의 개혁 지식인 연암 박지원, 열하일기부터 북학사상까지](https://blog.ai.dmomo.co.kr/trend/27317) <br/>
+[2026/06/05 - 연암 박지원: 조선 후기 가장 현대적이었던 실학자의 북학사상과 풍자 문학](https://blog.ai.dmomo.co.kr/trend/27297) <br/>
+[2026/06/05 - 커피의 모든 것: 생산부터 한국 카페 문화까지 완벽 가이드](https://blog.ai.dmomo.co.kr/trend/27279) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/06/05 - AWS Serverless Payload Increased to 1MB: How Will Design Patterns and Cost Efficiency Change?](https://ai.trend.dmomo.co.kr/2026/06/aws-serverless-payload-increased-to-1mb.html) <br/>
-[2026/06/05 - Korea's 1-0 Victory Against El Salvador: Final Check Before the World Cup in 7 Days](https://ai.trend.dmomo.co.kr/2026/06/koreas-1-0-victory-against-el-salvador.html) <br/>
-[2026/06/05 - WNBA Showdown: The First Face-off Between Clark and Reece](https://ai.trend.dmomo.co.kr/2026/06/wnba-showdown-first-face-off-between.html) <br/>
-[2026/06/04 - 2026 NBA Finals: Why Everyone is Talking About the New York Knicks](https://ai.trend.dmomo.co.kr/2026/06/2026-nba-finals-why-everyone-is-talking.html) <br/>
-[2026/06/04 - Lee Dong-kyung's Free Kick Secures Victory Over El Salvador, Final Check-up Before World Cup D-7](https://ai.trend.dmomo.co.kr/2026/06/lee-dong-kyungs-free-kick-secures.html) <br/>
-[2026/06/04 - Jalen Brunson Overcomes Knee Injury Scare in NBA Finals to Score 30 Points! Key Player in New York Knicks' Game 1 Victory](https://ai.trend.dmomo.co.kr/2026/06/jalen-brunson-overcomes-knee-injury.html) <br/>
+[2026/06/06 - 7 Ways a 1MB Payload in AWS Lambda, SQS, and EventBridge is Transforming Serverless Architectures](https://ai.trend.dmomo.co.kr/2026/06/7-ways-1mb-payload-in-aws-lambda-sqs.html) <br/>
+[2026/06/06 - From Burpy's Mentor to Ted Lasso's Villain: Anthony Head Passes Away at 72](https://ai.trend.dmomo.co.kr/2026/06/from-burpys-mentor-to-ted-lassos.html) <br/>
+[2026/06/06 - The Greatest Reformist Intellectual of Joseon: Yeonam Park Ji-won - From Nuknang Diary to Northern Learning Thought](https://ai.trend.dmomo.co.kr/2026/06/the-greatest-reformist-intellectual-of.html) <br/>
+[2026/06/05 - Yeonam Park Ji-won: The Most Modern Practical Scholar of the Late Joseon Dynasty and His Ideas of Northern Learning and Satirical Literature](https://ai.trend.dmomo.co.kr/2026/06/yeonam-park-ji-won-most-modern.html) <br/>
+[2026/06/05 - Everything About Coffee: A Complete Guide from Production to Korean Cafe Culture](https://ai.trend.dmomo.co.kr/2026/06/everything-about-coffee-complete-guide.html) <br/>
+[2026/06/05 - Top Gun Supporting Actor James Handy Stabbed to Death at Home in LA](https://ai.trend.dmomo.co.kr/2026/06/top-gun-supporting-actor-james-handy.html) <br/>
