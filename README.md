@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/06 - 슈퍼 태풍 완벽 정리: 정의·발생 조건·한반도 대비법까지](https://blog.ai.dmomo.co.kr/trend/27351) <br/>
-[2026/06/06 - AWS Lambda·SQS·EventBridge 페이로드 1MB가 서버리스 아키텍처에 미치는 7가지 변화](https://blog.ai.dmomo.co.kr/tech/27320) <br/>
-[2026/06/06 - 버피의 멘토에서 테드 라소의 악당까지, 앤서니 헤드 72세 별세](https://blog.ai.dmomo.co.kr/trend/27319) <br/>
-[2026/06/06 - 조선 최고의 개혁 지식인 연암 박지원, 열하일기부터 북학사상까지](https://blog.ai.dmomo.co.kr/trend/27317) <br/>
-[2026/06/05 - 연암 박지원: 조선 후기 가장 현대적이었던 실학자의 북학사상과 풍자 문학](https://blog.ai.dmomo.co.kr/trend/27297) <br/>
+[2026/06/08 - Microsoft Entra Internet Access로 완성하는 5단계 ID 기반 클라우드 SWG 전략](https://blog.ai.dmomo.co.kr/tech/27432) <br/>
+[2026/06/08 - 한성숙 국무총리 후보자: 네이버 첫 여성 CEO의 223억 재산과 AI 총리의 꿈](https://blog.ai.dmomo.co.kr/trend/27430) <br/>
+[2026/06/08 - 시카고의 목소리 스테이시 킹 별세, 59세로 생을 마감한 불스 레전드](https://blog.ai.dmomo.co.kr/trend/27428) <br/>
+[2026/06/07 - 네이버 CEO에서 총리까지, 한성숙은 누구인가](https://blog.ai.dmomo.co.kr/trend/27408) <br/>
+[2026/06/07 - 아이유(IU) 완벽 분석: 데뷔부터 현재까지 그녀가 사랑받는 4가지 이유](https://blog.ai.dmomo.co.kr/trend/27390) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/06/06 - Super Typhoon Complete Guide: Definition, Formation Conditions, and Preparedness for the Korean Peninsula](https://ai.trend.dmomo.co.kr/2026/06/super-typhoon-complete-guide-definition.html) <br/>
-[2026/06/06 - 7 Ways a 1MB Payload in AWS Lambda, SQS, and EventBridge is Transforming Serverless Architectures](https://ai.trend.dmomo.co.kr/2026/06/7-ways-1mb-payload-in-aws-lambda-sqs.html) <br/>
-[2026/06/06 - From Burpy's Mentor to Ted Lasso's Villain: Anthony Head Passes Away at 72](https://ai.trend.dmomo.co.kr/2026/06/from-burpys-mentor-to-ted-lassos.html) <br/>
-[2026/06/06 - The Greatest Reformist Intellectual of Joseon: Yeonam Park Ji-won - From Nuknang Diary to Northern Learning Thought](https://ai.trend.dmomo.co.kr/2026/06/the-greatest-reformist-intellectual-of.html) <br/>
-[2026/06/05 - Yeonam Park Ji-won: The Most Modern Practical Scholar of the Late Joseon Dynasty and His Ideas of Northern Learning and Satirical Literature](https://ai.trend.dmomo.co.kr/2026/06/yeonam-park-ji-won-most-modern.html) <br/>
-[2026/06/05 - Everything About Coffee: A Complete Guide from Production to Korean Cafe Culture](https://ai.trend.dmomo.co.kr/2026/06/everything-about-coffee-complete-guide.html) <br/>
+[2026/06/08 - 5 Steps to Building an ID-Based Cloud SWG Strategy with Microsoft Entra Internet Access](https://ai.trend.dmomo.co.kr/2026/06/5-steps-to-building-id-based-cloud-swg.html) <br/>
+[2026/06/08 - Han Seong-sook, Prime Minister Nominee: The First Female CEO of Naver with a 22.3 Billion Won Fortune and the Dream of an AI Prime Minister](https://ai.trend.dmomo.co.kr/2026/06/han-seong-sook-prime-minister-nominee.html) <br/>
+[2026/06/08 - Chicago's Voice: Bulls Legend Stacey King Passes Away at 59](https://ai.trend.dmomo.co.kr/2026/06/chicagos-voice-bulls-legend-stacey-king.html) <br/>
+[2026/06/07 - From Naver CEO to Prime Minister: Who is Han Seong-sook?](https://ai.trend.dmomo.co.kr/2026/06/from-naver-ceo-to-prime-minister-who-is.html) <br/>
+[2026/06/07 - An In-Depth Analysis of IU: Four Reasons Why She Has Captivated Hearts from Debut to Present](https://ai.trend.dmomo.co.kr/2026/06/an-in-depth-analysis-of-iu-four-reasons.html) <br/>
+[2026/06/07 - Hurricanes vs Golden Knights: A Series Defining Game 3 Filled with Upsets](https://ai.trend.dmomo.co.kr/2026/06/hurricanes-vs-golden-knights-series.html) <br/>
