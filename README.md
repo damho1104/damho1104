@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/06/09 - Qiskit QuantumKatas로 본 2026년 최신 LLM 양자 코딩 능력 평가와 한계 핵심 분석](https://blog.ai.dmomo.co.kr/tech/27489) <br/>
+[2026/06/09 - 오마이뉴스 완전분석: 시민기자제부터 AI시대 생존전략까지](https://blog.ai.dmomo.co.kr/trend/27487) <br/>
+[2026/06/09 - Fever vs Mystics 프리뷰: Caitlin Clark 클러치와 베팅 핵심 분석](https://blog.ai.dmomo.co.kr/trend/27485) <br/>
+[2026/06/08 - 제헌절의 진짜 의미: 국경일인데 왜 쉬지 않을까?](https://blog.ai.dmomo.co.kr/trend/27453) <br/>
 [2026/06/08 - Microsoft Entra Internet Access로 완성하는 5단계 ID 기반 클라우드 SWG 전략](https://blog.ai.dmomo.co.kr/tech/27432) <br/>
-[2026/06/08 - 한성숙 국무총리 후보자: 네이버 첫 여성 CEO의 223억 재산과 AI 총리의 꿈](https://blog.ai.dmomo.co.kr/trend/27430) <br/>
-[2026/06/08 - 시카고의 목소리 스테이시 킹 별세, 59세로 생을 마감한 불스 레전드](https://blog.ai.dmomo.co.kr/trend/27428) <br/>
-[2026/06/07 - 네이버 CEO에서 총리까지, 한성숙은 누구인가](https://blog.ai.dmomo.co.kr/trend/27408) <br/>
-[2026/06/07 - 아이유(IU) 완벽 분석: 데뷔부터 현재까지 그녀가 사랑받는 4가지 이유](https://blog.ai.dmomo.co.kr/trend/27390) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/06/09 - Evaluating 2026's Latest LLM Quantum Coding Skills and Limitations Through Qiskit QuantumKatas](https://ai.trend.dmomo.co.kr/2026/06/evaluating-2026s-latest-llm-quantum.html) <br/>
+[2026/06/09 - In-Depth Analysis of OhmyNews: From Citizen Journalism to Survival Strategies in the AI Era](https://ai.trend.dmomo.co.kr/2026/06/in-depth-analysis-of-ohmynews-from.html) <br/>
+[2026/06/09 - Fever vs Mystics Preview: Key Analysis on Caitlin Clark's Clutch Performance and Betting Insights](https://ai.trend.dmomo.co.kr/2026/06/fever-vs-mystics-preview-key-analysis.html) <br/>
+[2026/06/08 - The True Meaning of Constitution Day: Why Isn't It a Public Holiday?](https://ai.trend.dmomo.co.kr/2026/06/the-true-meaning-of-constitution-day.html) <br/>
 [2026/06/08 - 5 Steps to Building an ID-Based Cloud SWG Strategy with Microsoft Entra Internet Access](https://ai.trend.dmomo.co.kr/2026/06/5-steps-to-building-id-based-cloud-swg.html) <br/>
 [2026/06/08 - Han Seong-sook, Prime Minister Nominee: The First Female CEO of Naver with a 22.3 Billion Won Fortune and the Dream of an AI Prime Minister](https://ai.trend.dmomo.co.kr/2026/06/han-seong-sook-prime-minister-nominee.html) <br/>
-[2026/06/08 - Chicago's Voice: Bulls Legend Stacey King Passes Away at 59](https://ai.trend.dmomo.co.kr/2026/06/chicagos-voice-bulls-legend-stacey-king.html) <br/>
-[2026/06/07 - From Naver CEO to Prime Minister: Who is Han Seong-sook?](https://ai.trend.dmomo.co.kr/2026/06/from-naver-ceo-to-prime-minister-who-is.html) <br/>
-[2026/06/07 - An In-Depth Analysis of IU: Four Reasons Why She Has Captivated Hearts from Debut to Present](https://ai.trend.dmomo.co.kr/2026/06/an-in-depth-analysis-of-iu-four-reasons.html) <br/>
-[2026/06/07 - Hurricanes vs Golden Knights: A Series Defining Game 3 Filled with Upsets](https://ai.trend.dmomo.co.kr/2026/06/hurricanes-vs-golden-knights-series.html) <br/>
