@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/06/11 - AI 기반 자동 취약점 탐지와 실시간 패치 기술 AutoPatch AI 3.0 분석과 전망](https://blog.ai.dmomo.co.kr/tech/27627) <br/>
+[2026/06/11 - 상장폐지 완전정복: 원인부터 투자자 대응법까지 총정리](https://blog.ai.dmomo.co.kr/trend/27625) <br/>
+[2026/06/11 - 잉글랜드, 폭풍 뚫고 코스타리카 3-0 완파! 월드컵 최종 점검 완료](https://blog.ai.dmomo.co.kr/trend/27623) <br/>
+[2026/06/10 - 투표함 사라진 상자 하나가 흔든 민주주의 신뢰의 민낯](https://blog.ai.dmomo.co.kr/trend/27597) <br/>
 [2026/06/10 - 2026년 AI 검색 혁신! Google Agentic RAG로 복합 질의 완벽 해결법은?](https://blog.ai.dmomo.co.kr/tech/27558) <br/>
-[2026/06/10 - 정경호·최수영 14년 열애의 끝, 결별 이유와 근황 총정리](https://blog.ai.dmomo.co.kr/trend/27556) <br/>
-[2026/06/10 - 텍사스 고교 트랙 대회 살인 사건: 카멜로 앤소니 유죄 평결의 모든 것](https://blog.ai.dmomo.co.kr/trend/27554) <br/>
-[2026/06/09 - 정경호 필모그래피 총정리: 14년 열애 결별 후 차기작까지](https://blog.ai.dmomo.co.kr/trend/27534) <br/>
-[2026/06/09 - 시어머니 갈등의 모든 것: 원인, 구조, 그리고 해결 전략](https://blog.ai.dmomo.co.kr/trend/27516) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/06/11 - Mastering Delisting: Comprehensive Guide from Causes to Investor Responses](https://ai.trend.dmomo.co.kr/2026/06/mastering-delisting-comprehensive-guide.html) <br/>
+[2026/06/11 - AutoPatch AI 3.0: Analyzing and Forecasting AI-Powered Automated Vulnerability Detection and Real-Time Patch Technology](https://ai.trend.dmomo.co.kr/2026/06/autopatch-ai-30-analyzing-and.html) <br/>
+[2026/06/11 - England Dominates Costa Rica 3-0 Through the Storm! Final World Cup Tune-Up Complete](https://ai.trend.dmomo.co.kr/2026/06/england-dominates-costa-rica-3-0.html) <br/>
+[2026/06/10 - The Shocking Truth Behind the Disappearance of a Ballot Box that Shook Trust in Democracy](https://ai.trend.dmomo.co.kr/2026/06/the-shocking-truth-behind-disappearance.html) <br/>
 [2026/06/10 - AI Search Revolution 2026: Mastering Complex Queries with Google Agentic RAG](https://ai.trend.dmomo.co.kr/2026/06/ai-search-revolution-2026-mastering.html) <br/>
 [2026/06/10 - End of a 14-Year Romance: Summary of the Breakup Reasons and Recent Updates on Jung Kyung-ho and Choi Soo-young](https://ai.trend.dmomo.co.kr/2026/06/end-of-14-year-romance-summary-of.html) <br/>
-[2026/06/10 - Texas High School Track Meet Murder Case: Everything About Carmelo Anthony's Guilty Verdict](https://ai.trend.dmomo.co.kr/2026/06/texas-high-school-track-meet-murder.html) <br/>
-[2026/06/09 - Jung Kyung-ho Filmography Overview: After 14 Years of Relationship and Until the Next Project](https://ai.trend.dmomo.co.kr/2026/06/jung-kyung-ho-filmography-overview.html) <br/>
-[2026/06/09 - Everything About Mother-in-Law Conflicts: Causes, Structure, and Resolution Strategies](https://ai.trend.dmomo.co.kr/2026/06/everything-about-mother-in-law.html) <br/>
-[2026/06/09 - New York Knicks' 53-Year Opportunity! A Comprehensive Summary of the Historic Game 3 in the 2026 NBA Finals](https://ai.trend.dmomo.co.kr/2026/06/new-york-knicks-53-year-opportunity.html) <br/>
