@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/11 - AI 기반 자동 취약점 탐지와 실시간 패치 기술 AutoPatch AI 3.0 분석과 전망](https://blog.ai.dmomo.co.kr/tech/27627) <br/>
-[2026/06/11 - 상장폐지 완전정복: 원인부터 투자자 대응법까지 총정리](https://blog.ai.dmomo.co.kr/trend/27625) <br/>
-[2026/06/11 - 잉글랜드, 폭풍 뚫고 코스타리카 3-0 완파! 월드컵 최종 점검 완료](https://blog.ai.dmomo.co.kr/trend/27623) <br/>
-[2026/06/10 - 투표함 사라진 상자 하나가 흔든 민주주의 신뢰의 민낯](https://blog.ai.dmomo.co.kr/trend/27597) <br/>
-[2026/06/10 - 2026년 AI 검색 혁신! Google Agentic RAG로 복합 질의 완벽 해결법은?](https://blog.ai.dmomo.co.kr/tech/27558) <br/>
+[2026/06/12 - 2024년 최신 WebGPU 완벽 가이드: 웹 게임과 머신러닝을 혁신하는 차세대 GPU API](https://blog.ai.dmomo.co.kr/tech/27690) <br/>
+[2026/06/12 - 2026 FIFA 월드컵 총정리: 48개국·104경기, 역대급 변화 한눈에](https://blog.ai.dmomo.co.kr/trend/27688) <br/>
+[2026/06/12 - 미국이 바라본 멕시코: 정치·이민·무역·마약 완전 분석](https://blog.ai.dmomo.co.kr/trend/27686) <br/>
+[2026/06/11 - 유키스 일라이, 이혼 6년 만에 재혼 선언…SNS에 담긴 진심](https://blog.ai.dmomo.co.kr/trend/27663) <br/>
+[2026/06/11 - 2026 NBA 파이널 Game 4 완전분석: Knicks vs Spurs, 승부의 흐름을 바꿀 결전](https://blog.ai.dmomo.co.kr/trend/27648) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/06/12 - The Ultimate 2024 Guide to WebGPU: Revolutionizing Web Gaming and Machine Learning with Next-Gen GPU API](https://ai.trend.dmomo.co.kr/2026/06/the-ultimate-2024-guide-to-webgpu.html) <br/>
+[2026/06/12 - 2026 FIFA World Cup Overview: 48 Teams, 104 Matches, Major Changes at a Glance](https://ai.trend.dmomo.co.kr/2026/06/2026-fifa-world-cup-overview-48-teams.html) <br/>
+[2026/06/12 - The US Perspective on Mexico: A Comprehensive Analysis of Politics, Immigration, Trade, and Drugs](https://ai.trend.dmomo.co.kr/2026/06/the-us-perspective-on-mexico.html) <br/>
+[2026/06/11 - U-KISS Eli Announces Remarriage After 6 Years of Divorce... The Genuine Feelings Shared on SNS](https://ai.trend.dmomo.co.kr/2026/06/u-kiss-eli-announces-remarriage-after-6.html) <br/>
+[2026/06/11 - 2026 NBA Finals Game 4 Complete Analysis: Knicks vs Spurs, The Showdown That Will Change the Course of the Match](https://ai.trend.dmomo.co.kr/2026/06/2026-nba-finals-game-4-complete.html) <br/>
 [2026/06/11 - Mastering Delisting: Comprehensive Guide from Causes to Investor Responses](https://ai.trend.dmomo.co.kr/2026/06/mastering-delisting-comprehensive-guide.html) <br/>
-[2026/06/11 - AutoPatch AI 3.0: Analyzing and Forecasting AI-Powered Automated Vulnerability Detection and Real-Time Patch Technology](https://ai.trend.dmomo.co.kr/2026/06/autopatch-ai-30-analyzing-and.html) <br/>
-[2026/06/11 - England Dominates Costa Rica 3-0 Through the Storm! Final World Cup Tune-Up Complete](https://ai.trend.dmomo.co.kr/2026/06/england-dominates-costa-rica-3-0.html) <br/>
-[2026/06/10 - The Shocking Truth Behind the Disappearance of a Ballot Box that Shook Trust in Democracy](https://ai.trend.dmomo.co.kr/2026/06/the-shocking-truth-behind-disappearance.html) <br/>
-[2026/06/10 - AI Search Revolution 2026: Mastering Complex Queries with Google Agentic RAG](https://ai.trend.dmomo.co.kr/2026/06/ai-search-revolution-2026-mastering.html) <br/>
-[2026/06/10 - End of a 14-Year Romance: Summary of the Breakup Reasons and Recent Updates on Jung Kyung-ho and Choi Soo-young](https://ai.trend.dmomo.co.kr/2026/06/end-of-14-year-romance-summary-of.html) <br/>
