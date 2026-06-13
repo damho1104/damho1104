@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/06/13 - 2026년 최신 Software Infra 혁신, Infrastructure as Software IaS 완벽 가이드](https://blog.ai.dmomo.co.kr/tech/27753) <br/>
+[2026/06/13 - 추어탕집 아들 오현규, 월드컵 결승골로 역전 드라마 완성](https://blog.ai.dmomo.co.kr/trend/27751) <br/>
+[2026/06/13 - 캐나다 vs 보스니아 1-1 무승부: 홈 월드컵 첫 승점의 의미](https://blog.ai.dmomo.co.kr/trend/27749) <br/>
+[2026/06/12 - 2026 월드컵 한국 vs 체키아: 황인범 결승골로 역전승, 과달라하라의 기적](https://blog.ai.dmomo.co.kr/trend/27711) <br/>
 [2026/06/12 - 2024년 최신 WebGPU 완벽 가이드: 웹 게임과 머신러닝을 혁신하는 차세대 GPU API](https://blog.ai.dmomo.co.kr/tech/27690) <br/>
-[2026/06/12 - 2026 FIFA 월드컵 총정리: 48개국·104경기, 역대급 변화 한눈에](https://blog.ai.dmomo.co.kr/trend/27688) <br/>
-[2026/06/12 - 미국이 바라본 멕시코: 정치·이민·무역·마약 완전 분석](https://blog.ai.dmomo.co.kr/trend/27686) <br/>
-[2026/06/11 - 유키스 일라이, 이혼 6년 만에 재혼 선언…SNS에 담긴 진심](https://blog.ai.dmomo.co.kr/trend/27663) <br/>
-[2026/06/11 - 2026 NBA 파이널 Game 4 완전분석: Knicks vs Spurs, 승부의 흐름을 바꿀 결전](https://blog.ai.dmomo.co.kr/trend/27648) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/06/13 - 2026 Cutting-Edge Software Infrastructure Innovation: The Complete Guide to Infrastructure as Software (IaS)](https://ai.trend.dmomo.co.kr/2026/06/2026-cutting-edge-software.html) <br/>
+[2026/06/13 - Oh Hyun-kyu, Son of Cheonggukjang Restaurant, Completes Comeback Drama with World Cup Winning Goal](https://ai.trend.dmomo.co.kr/2026/06/oh-hyun-kyu-son-of-cheonggukjang.html) <br/>
+[2026/06/13 - Canada vs Bosnia 1-1 Draw: The Significance of Securing Home World Cup Points](https://ai.trend.dmomo.co.kr/2026/06/canada-vs-bosnia-1-1-draw-significance.html) <br/>
+[2026/06/12 - 2026 World Cup Korea vs Czechia: A Comeback Victory with Hwang In-beom's Winning Goal, The Miracle of Guadalajara](https://ai.trend.dmomo.co.kr/2026/06/2026-world-cup-korea-vs-czechia.html) <br/>
 [2026/06/12 - The Ultimate 2024 Guide to WebGPU: Revolutionizing Web Gaming and Machine Learning with Next-Gen GPU API](https://ai.trend.dmomo.co.kr/2026/06/the-ultimate-2024-guide-to-webgpu.html) <br/>
 [2026/06/12 - 2026 FIFA World Cup Overview: 48 Teams, 104 Matches, Major Changes at a Glance](https://ai.trend.dmomo.co.kr/2026/06/2026-fifa-world-cup-overview-48-teams.html) <br/>
-[2026/06/12 - The US Perspective on Mexico: A Comprehensive Analysis of Politics, Immigration, Trade, and Drugs](https://ai.trend.dmomo.co.kr/2026/06/the-us-perspective-on-mexico.html) <br/>
-[2026/06/11 - U-KISS Eli Announces Remarriage After 6 Years of Divorce... The Genuine Feelings Shared on SNS](https://ai.trend.dmomo.co.kr/2026/06/u-kiss-eli-announces-remarriage-after-6.html) <br/>
-[2026/06/11 - 2026 NBA Finals Game 4 Complete Analysis: Knicks vs Spurs, The Showdown That Will Change the Course of the Match](https://ai.trend.dmomo.co.kr/2026/06/2026-nba-finals-game-4-complete.html) <br/>
-[2026/06/11 - Mastering Delisting: Comprehensive Guide from Causes to Investor Responses](https://ai.trend.dmomo.co.kr/2026/06/mastering-delisting-comprehensive-guide.html) <br/>
