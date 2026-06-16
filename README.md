@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/15 - Microsoft Entra Global Secure Access로 구현하는 ID 기반 클라우드 웹 필터링 7단계 가이드](https://blog.ai.dmomo.co.kr/tech/27871) <br/>
-[2026/06/15 - 2026 월드컵 네덜란드 vs 일본, 조 1위 결정전 승자는 누구?](https://blog.ai.dmomo.co.kr/trend/27869) <br/>
-[2026/06/15 - 올리버 트리 브라질 헬기 추락 사망 추정…32세 alt-pop 스타에게 무슨 일이?](https://blog.ai.dmomo.co.kr/trend/27867) <br/>
-[2026/06/14 - 에이전트가 주도하는 차세대 AI 엔터프라이즈 소프트웨어 인프라란 무엇일까?](https://blog.ai.dmomo.co.kr/tech/27817) <br/>
-[2026/06/14 - 최불암 근황: 병상에서도 퇴원하면 술 한 잔 건넨 국민 아버지](https://blog.ai.dmomo.co.kr/trend/27815) <br/>
+[2026/06/16 - Google AI Edge Gallery 최신 업데이트로 본 온디바이스 LLM 에이전트 4대 혁신 포인트](https://blog.ai.dmomo.co.kr/tech/27940) <br/>
+[2026/06/16 - 81세 임현식 근황: 수척해진 모습과 투병 고백, 농약 루머 해명까지](https://blog.ai.dmomo.co.kr/trend/27938) <br/>
+[2026/06/16 - 2026 월드컵 사우디 vs 우루과이: 마이애미서 터진 또 하나의 이변](https://blog.ai.dmomo.co.kr/trend/27936) <br/>
+[2026/06/15 - 기자회견 완벽 가이드: 기획부터 Q&A 전략까지 실무 핵심 정리](https://blog.ai.dmomo.co.kr/trend/27913) <br/>
+[2026/06/15 - 기후위기 시대 집중호우, 왜 더 자주 더 강하게 쏟아질까?](https://blog.ai.dmomo.co.kr/trend/27895) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/06/16 - 4 Major Innovations of On-Device LLM Agents Highlighted in the Latest Google AI Edge Gallery Update](https://ai.trend.dmomo.co.kr/2026/06/4-major-innovations-of-on-device-llm.html) <br/>
+[2026/06/16 - The Latest Update on 81-Year-Old Lim Hyun-sik: Confession of Illness, Emaciated Appearance, and Clarification of Pesticide Rumors](https://ai.trend.dmomo.co.kr/2026/06/the-latest-update-on-81-year-old-lim.html) <br/>
+[2026/06/16 - 2026 World Cup: Saudi Arabia vs Uruguay - Another Upset Unleashed in Miami](https://ai.trend.dmomo.co.kr/2026/06/2026-world-cup-saudi-arabia-vs-uruguay.html) <br/>
+[2026/06/15 - Perfect Guide to Press Conferences: From Planning to Q&A Strategy Essentials](https://ai.trend.dmomo.co.kr/2026/06/perfect-guide-to-press-conferences-from.html) <br/>
+[2026/06/15 - Why Are Intense Heavy Rains More Frequent and Stronger in the Era of Climate Crisis?](https://ai.trend.dmomo.co.kr/2026/06/why-are-intense-heavy-rains-more.html) <br/>
 [2026/06/15 - A 7-Step Guide to Implementing ID-Based Cloud Web Filtering with Microsoft Entra Global Secure Access](https://ai.trend.dmomo.co.kr/2026/06/a-7-step-guide-to-implementing-id-based.html) <br/>
-[2026/06/15 - 2026 World Cup: Netherlands vs Japan - Who Will Claim the Top Spot in the Group?](https://ai.trend.dmomo.co.kr/2026/06/2026-world-cup-netherlands-vs-japan-who.html) <br/>
-[2026/06/15 - Oliver Tree Presumed Dead in Brazil Helicopter Crash... What Happened to the 32-Year-Old Alt-Pop Star?](https://ai.trend.dmomo.co.kr/2026/06/oliver-tree-presumed-dead-in-brazil.html) <br/>
-[2026/06/14 - What Is Next-Generation AI Enterprise Software Infrastructure Driven by Agents?](https://ai.trend.dmomo.co.kr/2026/06/what-is-next-generation-ai-enterprise.html) <br/>
-[2026/06/14 - Choi Bool-am's Recent Update: The National Father Will Raise a Glass Even from His Hospital Bed](https://ai.trend.dmomo.co.kr/2026/06/choi-bool-ams-recent-update-national.html) <br/>
-[2026/06/14 - Why a World Cup Match in Brazil in 2026 Could Paralyze New York City](https://ai.trend.dmomo.co.kr/2026/06/why-world-cup-match-in-brazil-in-2026.html) <br/>
