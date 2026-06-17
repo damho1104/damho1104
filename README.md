@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/16 - Google AI Edge Gallery 최신 업데이트로 본 온디바이스 LLM 에이전트 4대 혁신 포인트](https://blog.ai.dmomo.co.kr/tech/27940) <br/>
-[2026/06/16 - 81세 임현식 근황: 수척해진 모습과 투병 고백, 농약 루머 해명까지](https://blog.ai.dmomo.co.kr/trend/27938) <br/>
-[2026/06/16 - 2026 월드컵 사우디 vs 우루과이: 마이애미서 터진 또 하나의 이변](https://blog.ai.dmomo.co.kr/trend/27936) <br/>
-[2026/06/15 - 기자회견 완벽 가이드: 기획부터 Q&A 전략까지 실무 핵심 정리](https://blog.ai.dmomo.co.kr/trend/27913) <br/>
-[2026/06/15 - 기후위기 시대 집중호우, 왜 더 자주 더 강하게 쏟아질까?](https://blog.ai.dmomo.co.kr/trend/27895) <br/>
+[2026/06/17 - 클라우드 인프라 혁신, Infrastructure as Software(IaS) 7가지 핵심 이유와 도입법](https://blog.ai.dmomo.co.kr/tech/28006) <br/>
+[2026/06/17 - 권은빈 은퇴 선언: 10년 연예계 생활 뒤 일반인 삶을 택한 이유](https://blog.ai.dmomo.co.kr/trend/28004) <br/>
+[2026/06/17 - 홀란드 월드컵 데뷔 멀티골! 이라크의 역습까지, 미국에서 펼쳐진 명승부](https://blog.ai.dmomo.co.kr/trend/28002) <br/>
+[2026/06/16 - 어반자카파 조현아: 담담하지만 깊은 감성 보컬의 모든 것](https://blog.ai.dmomo.co.kr/trend/27985) <br/>
+[2026/06/16 - 에너지·정신건강·AI까지, 한국 바우처 제도 완전 정복 가이드](https://blog.ai.dmomo.co.kr/trend/27967) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/06/16 - 4 Major Innovations of On-Device LLM Agents Highlighted in the Latest Google AI Edge Gallery Update](https://ai.trend.dmomo.co.kr/2026/06/4-major-innovations-of-on-device-llm.html) <br/>
-[2026/06/16 - The Latest Update on 81-Year-Old Lim Hyun-sik: Confession of Illness, Emaciated Appearance, and Clarification of Pesticide Rumors](https://ai.trend.dmomo.co.kr/2026/06/the-latest-update-on-81-year-old-lim.html) <br/>
-[2026/06/16 - 2026 World Cup: Saudi Arabia vs Uruguay - Another Upset Unleashed in Miami](https://ai.trend.dmomo.co.kr/2026/06/2026-world-cup-saudi-arabia-vs-uruguay.html) <br/>
-[2026/06/15 - Perfect Guide to Press Conferences: From Planning to Q&A Strategy Essentials](https://ai.trend.dmomo.co.kr/2026/06/perfect-guide-to-press-conferences-from.html) <br/>
-[2026/06/15 - Why Are Intense Heavy Rains More Frequent and Stronger in the Era of Climate Crisis?](https://ai.trend.dmomo.co.kr/2026/06/why-are-intense-heavy-rains-more.html) <br/>
-[2026/06/15 - A 7-Step Guide to Implementing ID-Based Cloud Web Filtering with Microsoft Entra Global Secure Access](https://ai.trend.dmomo.co.kr/2026/06/a-7-step-guide-to-implementing-id-based.html) <br/>
+[2026/06/17 - Cloud Infrastructure Innovation: 7 Key Reasons to Adopt Infrastructure as Software (IaS) and How to Implement It](https://ai.trend.dmomo.co.kr/2026/06/cloud-infrastructure-innovation-7-key.html) <br/>
+[2026/06/17 - Kwon Eun-bin Announces Retirement: Reasons for Choosing a Normal Life After 10 Years in the Entertainment Industry](https://ai.trend.dmomo.co.kr/2026/06/kwon-eun-bin-announces-retirement.html) <br/>
+[2026/06/17 - Holland's World Cup Debut with a Multi-Goal Performance! A Thrilling Match Against Iraq in the USA](https://ai.trend.dmomo.co.kr/2026/06/hollands-world-cup-debut-with-multi.html) <br/>
+[2026/06/16 - Urban Zakapa's Jo Hyun Ah: Everything About Her Calm Yet Profound Emotional Vocals](https://ai.trend.dmomo.co.kr/2026/06/urban-zakapas-jo-hyun-ah-everything.html) <br/>
+[2026/06/16 - Complete Guide to Understanding Korea's Voucher System: Energy, Mental Health, and AI](https://ai.trend.dmomo.co.kr/2026/06/complete-guide-to-understanding-koreas.html) <br/>
+[2026/06/16 - Jelly Roll's Divorce & 275-Pound Weight Loss: A Dramatic Turnaround in the Country Star's Life](https://ai.trend.dmomo.co.kr/2026/06/jelly-rolls-divorce-275-pound-weight.html) <br/>
