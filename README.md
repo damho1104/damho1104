@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/17 - 클라우드 인프라 혁신, Infrastructure as Software(IaS) 7가지 핵심 이유와 도입법](https://blog.ai.dmomo.co.kr/tech/28006) <br/>
-[2026/06/17 - 권은빈 은퇴 선언: 10년 연예계 생활 뒤 일반인 삶을 택한 이유](https://blog.ai.dmomo.co.kr/trend/28004) <br/>
-[2026/06/17 - 홀란드 월드컵 데뷔 멀티골! 이라크의 역습까지, 미국에서 펼쳐진 명승부](https://blog.ai.dmomo.co.kr/trend/28002) <br/>
-[2026/06/16 - 어반자카파 조현아: 담담하지만 깊은 감성 보컬의 모든 것](https://blog.ai.dmomo.co.kr/trend/27985) <br/>
-[2026/06/16 - 에너지·정신건강·AI까지, 한국 바우처 제도 완전 정복 가이드](https://blog.ai.dmomo.co.kr/trend/27967) <br/>
+[2026/06/18 - 2026년 엣지 IoT 보안 혁명, 블록체인·ML로 침입 회복하는 키 합의 기술?>](https://blog.ai.dmomo.co.kr/tech/28081) <br/>
+[2026/06/18 - 공휴일의 모든 것: 법적 의미부터 스마트 활용법까지](https://blog.ai.dmomo.co.kr/trend/28079) <br/>
+[2026/06/18 - 릴로앤스티치 목소리·링 사마라 배우 Daveigh Chase, 35세 뇌수막염으로 사망](https://blog.ai.dmomo.co.kr/trend/28077) <br/>
+[2026/06/17 - 오세훈 대권 1위 vs 징역 구형, 서울시장의 두 얼굴](https://blog.ai.dmomo.co.kr/trend/28051) <br/>
+[2026/06/17 - 1950년생 B-52 폭격기, 2050년까지 나는 진짜 이유](https://blog.ai.dmomo.co.kr/trend/28033) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/06/17 - Cloud Infrastructure Innovation: 7 Key Reasons to Adopt Infrastructure as Software (IaS) and How to Implement It](https://ai.trend.dmomo.co.kr/2026/06/cloud-infrastructure-innovation-7-key.html) <br/>
-[2026/06/17 - Kwon Eun-bin Announces Retirement: Reasons for Choosing a Normal Life After 10 Years in the Entertainment Industry](https://ai.trend.dmomo.co.kr/2026/06/kwon-eun-bin-announces-retirement.html) <br/>
-[2026/06/17 - Holland's World Cup Debut with a Multi-Goal Performance! A Thrilling Match Against Iraq in the USA](https://ai.trend.dmomo.co.kr/2026/06/hollands-world-cup-debut-with-multi.html) <br/>
-[2026/06/16 - Urban Zakapa's Jo Hyun Ah: Everything About Her Calm Yet Profound Emotional Vocals](https://ai.trend.dmomo.co.kr/2026/06/urban-zakapas-jo-hyun-ah-everything.html) <br/>
-[2026/06/16 - Complete Guide to Understanding Korea's Voucher System: Energy, Mental Health, and AI](https://ai.trend.dmomo.co.kr/2026/06/complete-guide-to-understanding-koreas.html) <br/>
-[2026/06/16 - Jelly Roll's Divorce & 275-Pound Weight Loss: A Dramatic Turnaround in the Country Star's Life](https://ai.trend.dmomo.co.kr/2026/06/jelly-rolls-divorce-275-pound-weight.html) <br/>
+[2026/06/18 - The 2026 Edge IoT Security Revolution: Key Agreement Technology for Intrusion Recovery Using Blockchain and Machine Learning](https://ai.trend.dmomo.co.kr/2026/06/the-2026-edge-iot-security-revolution.html) <br/>
+[2026/06/18 - Everything About Public Holidays: From Legal Significance to Smart Usage Tips](https://ai.trend.dmomo.co.kr/2026/06/everything-about-public-holidays-from.html) <br/>
+[2026/06/18 - Lilo & Stitch Voice Actress Daveigh Chase, 35, Dies from Meningitis](https://ai.trend.dmomo.co.kr/2026/06/lilo-stitch-voice-actress-daveigh-chase.html) <br/>
+[2026/06/17 - Oh Se-hoon's Presidential Bid vs. Imprisonment Sentence Demand: The Two Faces of the Seoul Mayor](https://ai.trend.dmomo.co.kr/2026/06/oh-se-hoons-presidential-bid-vs.html) <br/>
+[2026/06/17 - The Real Reasons Why the B-52 Bomber, Born in 1950, Will Fly Until 2050](https://ai.trend.dmomo.co.kr/2026/06/the-real-reasons-why-b-52-bomber-born.html) <br/>
+[2026/06/17 - Messi Rewrite World Cup History on American Soil: The Legend of 200 Caps and 16 Goals](https://ai.trend.dmomo.co.kr/2026/06/messi-rewrite-world-cup-history-on.html) <br/>
