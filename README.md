@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/06/19 - RAG 한계 극복한 동적 감정기반 메모리 DAM-LLM, 무엇이 바뀌었나?](https://blog.ai.dmomo.co.kr/tech/28144) <br/>
+[2026/06/19 - 우선주 완벽 가이드: 배당·괴리율·투자전략까지 한번에](https://blog.ai.dmomo.co.kr/trend/28142) <br/>
+[2026/06/19 - 캐나다 3-0 카타르, 사상 첫 월드컵 승리의 역사적 순간](https://blog.ai.dmomo.co.kr/trend/28140) <br/>
+[2026/06/18 - 인천 절단된 다리 사건으로 본 의료폐기물 관리의 모든 것](https://blog.ai.dmomo.co.kr/trend/28120) <br/>
 [2026/06/18 - 2026년 엣지 IoT 보안 혁명, 블록체인·ML로 침입 회복하는 키 합의 기술?>](https://blog.ai.dmomo.co.kr/tech/28081) <br/>
-[2026/06/18 - 공휴일의 모든 것: 법적 의미부터 스마트 활용법까지](https://blog.ai.dmomo.co.kr/trend/28079) <br/>
-[2026/06/18 - 릴로앤스티치 목소리·링 사마라 배우 Daveigh Chase, 35세 뇌수막염으로 사망](https://blog.ai.dmomo.co.kr/trend/28077) <br/>
-[2026/06/17 - 오세훈 대권 1위 vs 징역 구형, 서울시장의 두 얼굴](https://blog.ai.dmomo.co.kr/trend/28051) <br/>
-[2026/06/17 - 1950년생 B-52 폭격기, 2050년까지 나는 진짜 이유](https://blog.ai.dmomo.co.kr/trend/28033) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/06/19 - Overcoming RAG Limitations with Dynamic Emotion-Based Memory DAM-LLM: What Has Changed?](https://ai.trend.dmomo.co.kr/2026/06/overcoming-rag-limitations-with-dynamic.html) <br/>
+[2026/06/19 - Perfect Guide to Preferred Stocks: Dividends, Premiums, and Investment Strategies All in One](https://ai.trend.dmomo.co.kr/2026/06/perfect-guide-to-preferred-stocks.html) <br/>
+[2026/06/19 - Canada 3-0 Qatar: A Historic Moment of First World Cup Victory](https://ai.trend.dmomo.co.kr/2026/06/canada-3-0-qatar-historic-moment-of.html) <br/>
+[2026/06/18 - Everything About Medical Waste Management Through the Incheon Severed Limb Incident](https://ai.trend.dmomo.co.kr/2026/06/everything-about-medical-waste.html) <br/>
 [2026/06/18 - The 2026 Edge IoT Security Revolution: Key Agreement Technology for Intrusion Recovery Using Blockchain and Machine Learning](https://ai.trend.dmomo.co.kr/2026/06/the-2026-edge-iot-security-revolution.html) <br/>
 [2026/06/18 - Everything About Public Holidays: From Legal Significance to Smart Usage Tips](https://ai.trend.dmomo.co.kr/2026/06/everything-about-public-holidays-from.html) <br/>
-[2026/06/18 - Lilo & Stitch Voice Actress Daveigh Chase, 35, Dies from Meningitis](https://ai.trend.dmomo.co.kr/2026/06/lilo-stitch-voice-actress-daveigh-chase.html) <br/>
-[2026/06/17 - Oh Se-hoon's Presidential Bid vs. Imprisonment Sentence Demand: The Two Faces of the Seoul Mayor](https://ai.trend.dmomo.co.kr/2026/06/oh-se-hoons-presidential-bid-vs.html) <br/>
-[2026/06/17 - The Real Reasons Why the B-52 Bomber, Born in 1950, Will Fly Until 2050](https://ai.trend.dmomo.co.kr/2026/06/the-real-reasons-why-b-52-bomber-born.html) <br/>
-[2026/06/17 - Messi Rewrite World Cup History on American Soil: The Legend of 200 Caps and 16 Goals](https://ai.trend.dmomo.co.kr/2026/06/messi-rewrite-world-cup-history-on.html) <br/>
