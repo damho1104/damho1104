@@ -87,16 +87,11 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/19 - RAG 한계 극복한 동적 감정기반 메모리 DAM-LLM, 무엇이 바뀌었나?](https://blog.ai.dmomo.co.kr/tech/28144) <br/>
-[2026/06/19 - 우선주 완벽 가이드: 배당·괴리율·투자전략까지 한번에](https://blog.ai.dmomo.co.kr/trend/28142) <br/>
-[2026/06/19 - 캐나다 3-0 카타르, 사상 첫 월드컵 승리의 역사적 순간](https://blog.ai.dmomo.co.kr/trend/28140) <br/>
-[2026/06/18 - 인천 절단된 다리 사건으로 본 의료폐기물 관리의 모든 것](https://blog.ai.dmomo.co.kr/trend/28120) <br/>
-[2026/06/18 - 2026년 엣지 IoT 보안 혁명, 블록체인·ML로 침입 회복하는 키 합의 기술?>](https://blog.ai.dmomo.co.kr/tech/28081) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/06/19 - Mexico vs South Korea: FIFA Ranking Comparison and Actual World Cup Standing?](https://ai.trend.dmomo.co.kr/2026/06/mexico-vs-south-korea-fifa-ranking.html) <br/>
+[2026/06/19 - 2026 World Cup: Korea's 0-1 Loss to Mexico, Mexico's Jinx Repeats... Are We Still in the Game Like in South Africa?](https://ai.trend.dmomo.co.kr/2026/06/2026-world-cup-koreas-0-1-loss-to.html) <br/>
 [2026/06/19 - Overcoming RAG Limitations with Dynamic Emotion-Based Memory DAM-LLM: What Has Changed?](https://ai.trend.dmomo.co.kr/2026/06/overcoming-rag-limitations-with-dynamic.html) <br/>
 [2026/06/19 - Perfect Guide to Preferred Stocks: Dividends, Premiums, and Investment Strategies All in One](https://ai.trend.dmomo.co.kr/2026/06/perfect-guide-to-preferred-stocks.html) <br/>
 [2026/06/19 - Canada 3-0 Qatar: A Historic Moment of First World Cup Victory](https://ai.trend.dmomo.co.kr/2026/06/canada-3-0-qatar-historic-moment-of.html) <br/>
 [2026/06/18 - Everything About Medical Waste Management Through the Incheon Severed Limb Incident](https://ai.trend.dmomo.co.kr/2026/06/everything-about-medical-waste.html) <br/>
-[2026/06/18 - The 2026 Edge IoT Security Revolution: Key Agreement Technology for Intrusion Recovery Using Blockchain and Machine Learning](https://ai.trend.dmomo.co.kr/2026/06/the-2026-edge-iot-security-revolution.html) <br/>
-[2026/06/18 - Everything About Public Holidays: From Legal Significance to Smart Usage Tips](https://ai.trend.dmomo.co.kr/2026/06/everything-about-public-holidays-from.html) <br/>
