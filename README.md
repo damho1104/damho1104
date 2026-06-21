@@ -87,11 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/06/21 - 2026년 서버리스 혁신, Azure Functions Serverless Agents Runtime의 5가지 핵심 변화는?](https://blog.ai.dmomo.co.kr/tech/28234) <br/>
+[2026/06/21 - 2026 월드컵 독일 vs 코트디부아르 2-1 역전승, 운다브의 기적](https://blog.ai.dmomo.co.kr/trend/28232) <br/>
+[2026/06/21 - 채소 완벽 가이드: 다이어트·건강·장수를 위한 영양학적 전략](https://blog.ai.dmomo.co.kr/trend/28230) <br/>
+[2026/06/20 - 52.9세 퇴직 후 20년 공백, 한국형 은퇴 설계 완벽 가이드](https://blog.ai.dmomo.co.kr/trend/28219) <br/>
+[2026/06/20 - 앤 해서웨이 43세 셋째 임신 공개, 유산 딛고 찾아온 세 번째 기적](https://blog.ai.dmomo.co.kr/trend/28217) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/06/21 - 5 Key Innovations in Serverless for 2026: Exploring Azure Functions Serverless Agents Runtime](https://ai.trend.dmomo.co.kr/2026/06/5-key-innovations-in-serverless-for.html) <br/>
+[2026/06/21 - 2026 World Cup: Germany vs Ivory Coast 2-1 Comeback Victory, The Miracle of Undav](https://ai.trend.dmomo.co.kr/2026/06/2026-world-cup-germany-vs-ivory-coast-2.html) <br/>
+[2026/06/21 - The Ultimate Guide to Vegetables: Nutritional Strategies for Diet, Health, and Longevity](https://ai.trend.dmomo.co.kr/2026/06/the-ultimate-guide-to-vegetables.html) <br/>
+[2026/06/20 - Perfect Guide to Korean Retirement Planning: 20-Year Gap After Retirement at Age 52.9](https://ai.trend.dmomo.co.kr/2026/06/perfect-guide-to-korean-retirement.html) <br/>
+[2026/06/20 - Anne Hathaway Announces Third Pregnancy at 43: A Miracle After Miscarriage](https://ai.trend.dmomo.co.kr/2026/06/anne-hathaway-announces-third-pregnancy.html) <br/>
 [2026/06/19 - Mexico vs South Korea: FIFA Ranking Comparison and Actual World Cup Standing?](https://ai.trend.dmomo.co.kr/2026/06/mexico-vs-south-korea-fifa-ranking.html) <br/>
-[2026/06/19 - 2026 World Cup: Korea's 0-1 Loss to Mexico, Mexico's Jinx Repeats... Are We Still in the Game Like in South Africa?](https://ai.trend.dmomo.co.kr/2026/06/2026-world-cup-koreas-0-1-loss-to.html) <br/>
-[2026/06/19 - Overcoming RAG Limitations with Dynamic Emotion-Based Memory DAM-LLM: What Has Changed?](https://ai.trend.dmomo.co.kr/2026/06/overcoming-rag-limitations-with-dynamic.html) <br/>
-[2026/06/19 - Perfect Guide to Preferred Stocks: Dividends, Premiums, and Investment Strategies All in One](https://ai.trend.dmomo.co.kr/2026/06/perfect-guide-to-preferred-stocks.html) <br/>
-[2026/06/19 - Canada 3-0 Qatar: A Historic Moment of First World Cup Victory](https://ai.trend.dmomo.co.kr/2026/06/canada-3-0-qatar-historic-moment-of.html) <br/>
-[2026/06/18 - Everything About Medical Waste Management Through the Incheon Severed Limb Incident](https://ai.trend.dmomo.co.kr/2026/06/everything-about-medical-waste.html) <br/>
