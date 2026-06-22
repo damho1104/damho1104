@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/21 - 2026년 서버리스 혁신, Azure Functions Serverless Agents Runtime의 5가지 핵심 변화는?](https://blog.ai.dmomo.co.kr/tech/28234) <br/>
-[2026/06/21 - 2026 월드컵 독일 vs 코트디부아르 2-1 역전승, 운다브의 기적](https://blog.ai.dmomo.co.kr/trend/28232) <br/>
-[2026/06/21 - 채소 완벽 가이드: 다이어트·건강·장수를 위한 영양학적 전략](https://blog.ai.dmomo.co.kr/trend/28230) <br/>
-[2026/06/20 - 52.9세 퇴직 후 20년 공백, 한국형 은퇴 설계 완벽 가이드](https://blog.ai.dmomo.co.kr/trend/28219) <br/>
-[2026/06/20 - 앤 해서웨이 43세 셋째 임신 공개, 유산 딛고 찾아온 세 번째 기적](https://blog.ai.dmomo.co.kr/trend/28217) <br/>
+[2026/06/22 - 2026년 AI DevOps 혁신 전략: GenAI 기반 플랫폼 4대 핵심 기술과 도입 가이드](https://blog.ai.dmomo.co.kr/tech/28297) <br/>
+[2026/06/22 - 함익병 피부과 전문의 총정리: 건강 철학부터 논란까지](https://blog.ai.dmomo.co.kr/trend/28295) <br/>
+[2026/06/22 - 2026 월드컵 우루과이 vs 카보베르데, 역사적 첫 골의 이변 현장](https://blog.ai.dmomo.co.kr/trend/28293) <br/>
+[2026/06/21 - 일본 4-0 완승! 월드컵 1000번째 경기의 숨겨진 다크호스](https://blog.ai.dmomo.co.kr/trend/28273) <br/>
+[2026/06/21 - 피부과 의사 함익병, 65세 무입원 비결과 건강 철학 완전 분석](https://blog.ai.dmomo.co.kr/trend/28271) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/06/21 - 5 Key Innovations in Serverless for 2026: Exploring Azure Functions Serverless Agents Runtime](https://ai.trend.dmomo.co.kr/2026/06/5-key-innovations-in-serverless-for.html) <br/>
-[2026/06/21 - 2026 World Cup: Germany vs Ivory Coast 2-1 Comeback Victory, The Miracle of Undav](https://ai.trend.dmomo.co.kr/2026/06/2026-world-cup-germany-vs-ivory-coast-2.html) <br/>
-[2026/06/21 - The Ultimate Guide to Vegetables: Nutritional Strategies for Diet, Health, and Longevity](https://ai.trend.dmomo.co.kr/2026/06/the-ultimate-guide-to-vegetables.html) <br/>
-[2026/06/20 - Perfect Guide to Korean Retirement Planning: 20-Year Gap After Retirement at Age 52.9](https://ai.trend.dmomo.co.kr/2026/06/perfect-guide-to-korean-retirement.html) <br/>
-[2026/06/20 - Anne Hathaway Announces Third Pregnancy at 43: A Miracle After Miscarriage](https://ai.trend.dmomo.co.kr/2026/06/anne-hathaway-announces-third-pregnancy.html) <br/>
-[2026/06/19 - Mexico vs South Korea: FIFA Ranking Comparison and Actual World Cup Standing?](https://ai.trend.dmomo.co.kr/2026/06/mexico-vs-south-korea-fifa-ranking.html) <br/>
+[2026/06/22 - 2026 AI DevOps Innovation Strategy: The 4 Core Technologies of GenAI-Based Platforms and Implementation Guide](https://ai.trend.dmomo.co.kr/2026/06/2026-ai-devops-innovation-strategy-4.html) <br/>
+[2026/06/22 - Comprehensive Overview of Dermatologist Ham Ik-Byeong: From Health Philosophy to Controversies](https://ai.trend.dmomo.co.kr/2026/06/comprehensive-overview-of-dermatologist.html) <br/>
+[2026/06/22 - 2026 World Cup: The Historic First Goal of Uruguay vs Cape Verde](https://ai.trend.dmomo.co.kr/2026/06/2026-world-cup-historic-first-goal-of.html) <br/>
+[2026/06/21 - Japan's 4-0 Complete Victory! The Hidden Dark Horse of the 1000th World Cup Match](https://ai.trend.dmomo.co.kr/2026/06/japans-4-0-complete-victory-hidden-dark.html) <br/>
+[2026/06/21 - Dermatologist Ham Ik-byeong: Complete Analysis of His No-Hospitalization Secrets and Health Philosophy at 65](https://ai.trend.dmomo.co.kr/2026/06/dermatologist-ham-ik-byeong-complete.html) <br/>
+[2026/06/21 - 2025 Typhoon Mekhala Path and Impact on the Korean Peninsula Summary](https://ai.trend.dmomo.co.kr/2026/06/2025-typhoon-mekhala-path-and-impact-on.html) <br/>
