@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/22 - 2026년 AI DevOps 혁신 전략: GenAI 기반 플랫폼 4대 핵심 기술과 도입 가이드](https://blog.ai.dmomo.co.kr/tech/28297) <br/>
-[2026/06/22 - 함익병 피부과 전문의 총정리: 건강 철학부터 논란까지](https://blog.ai.dmomo.co.kr/trend/28295) <br/>
-[2026/06/22 - 2026 월드컵 우루과이 vs 카보베르데, 역사적 첫 골의 이변 현장](https://blog.ai.dmomo.co.kr/trend/28293) <br/>
-[2026/06/21 - 일본 4-0 완승! 월드컵 1000번째 경기의 숨겨진 다크호스](https://blog.ai.dmomo.co.kr/trend/28273) <br/>
-[2026/06/21 - 피부과 의사 함익병, 65세 무입원 비결과 건강 철학 완전 분석](https://blog.ai.dmomo.co.kr/trend/28271) <br/>
+[2026/06/23 - IBM과 OpenAI가 앞당기는 AI 기반 기업 사이버 방어의 미래 전략 5가지](https://blog.ai.dmomo.co.kr/tech/28361) <br/>
+[2026/06/23 - 음바페 역대 최다골 경신! 프랑스 2026 월드컵 우승 가나요?](https://blog.ai.dmomo.co.kr/trend/28359) <br/>
+[2026/06/23 - JTBC·중앙일보 부도 사태, 홍석현 1190억 사재 투입도 못막은 이유](https://blog.ai.dmomo.co.kr/trend/28357) <br/>
+[2026/06/22 - 미국 파워볼·메가밀리언 2조 잭팟의 진실과 한국인이 알아야 할 것들](https://blog.ai.dmomo.co.kr/trend/28340) <br/>
+[2026/06/22 - 14억 중국인을 이해하는 핵심 키워드 10가지 완벽 정리](https://blog.ai.dmomo.co.kr/trend/28321) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/06/23 - 5 Future Strategies for AI-Driven Corporate Cyber Defense, Accelerated by IBM and OpenAI](https://ai.trend.dmomo.co.kr/2026/06/5-future-strategies-for-ai-driven.html) <br/>
+[2026/06/23 - The JTBC and JoongAng Ilbo Bankruptcy Crisis: Reasons Why Hong Seok-hyun's 119 Billion KRW Personal Investment Couldn't Prevent It](https://ai.trend.dmomo.co.kr/2026/06/the-jtbc-and-joongang-ilbo-bankruptcy.html) <br/>
+[2026/06/23 - Mbappé Breaks All-time Goal Record! Is France set to Win the 2026 World Cup?](https://ai.trend.dmomo.co.kr/2026/06/mbappe-breaks-all-time-goal-record-is.html) <br/>
+[2026/06/22 - The Truth About the 2 Trillion Won Jackpots of Powerball and Mega Millions: What Koreans Need to Know](https://ai.trend.dmomo.co.kr/2026/06/the-truth-about-2-trillion-won-jackpots.html) <br/>
+[2026/06/22 - 10 Essential Keywords to Understand 1.4 Billion Chinese People](https://ai.trend.dmomo.co.kr/2026/06/10-essential-keywords-to-understand-14.html) <br/>
 [2026/06/22 - 2026 AI DevOps Innovation Strategy: The 4 Core Technologies of GenAI-Based Platforms and Implementation Guide](https://ai.trend.dmomo.co.kr/2026/06/2026-ai-devops-innovation-strategy-4.html) <br/>
-[2026/06/22 - Comprehensive Overview of Dermatologist Ham Ik-Byeong: From Health Philosophy to Controversies](https://ai.trend.dmomo.co.kr/2026/06/comprehensive-overview-of-dermatologist.html) <br/>
-[2026/06/22 - 2026 World Cup: The Historic First Goal of Uruguay vs Cape Verde](https://ai.trend.dmomo.co.kr/2026/06/2026-world-cup-historic-first-goal-of.html) <br/>
-[2026/06/21 - Japan's 4-0 Complete Victory! The Hidden Dark Horse of the 1000th World Cup Match](https://ai.trend.dmomo.co.kr/2026/06/japans-4-0-complete-victory-hidden-dark.html) <br/>
-[2026/06/21 - Dermatologist Ham Ik-byeong: Complete Analysis of His No-Hospitalization Secrets and Health Philosophy at 65](https://ai.trend.dmomo.co.kr/2026/06/dermatologist-ham-ik-byeong-complete.html) <br/>
-[2026/06/21 - 2025 Typhoon Mekhala Path and Impact on the Korean Peninsula Summary](https://ai.trend.dmomo.co.kr/2026/06/2025-typhoon-mekhala-path-and-impact-on.html) <br/>
