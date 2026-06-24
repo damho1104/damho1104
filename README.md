@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/23 - IBM과 OpenAI가 앞당기는 AI 기반 기업 사이버 방어의 미래 전략 5가지](https://blog.ai.dmomo.co.kr/tech/28361) <br/>
-[2026/06/23 - 음바페 역대 최다골 경신! 프랑스 2026 월드컵 우승 가나요?](https://blog.ai.dmomo.co.kr/trend/28359) <br/>
-[2026/06/23 - JTBC·중앙일보 부도 사태, 홍석현 1190억 사재 투입도 못막은 이유](https://blog.ai.dmomo.co.kr/trend/28357) <br/>
-[2026/06/22 - 미국 파워볼·메가밀리언 2조 잭팟의 진실과 한국인이 알아야 할 것들](https://blog.ai.dmomo.co.kr/trend/28340) <br/>
-[2026/06/22 - 14억 중국인을 이해하는 핵심 키워드 10가지 완벽 정리](https://blog.ai.dmomo.co.kr/trend/28321) <br/>
+[2026/06/24 - Google DeepMind와 A24의 7500만 달러 영화 제작 AI 혁명, 무엇이 달라지나?](https://blog.ai.dmomo.co.kr/tech/28430) <br/>
+[2026/06/24 - 잉글랜드 vs 가나 0-0 무승부, 16강 향방은 최종전으로](https://blog.ai.dmomo.co.kr/trend/28428) <br/>
+[2026/06/24 - 김호중 가석방 출소 D-day, 767일 만의 복귀와 멜론 50억의 진실](https://blog.ai.dmomo.co.kr/trend/28426) <br/>
+[2026/06/23 - 2026년 학생 트렌드 5가지: AI·글로벌·실무·편의·포용성](https://blog.ai.dmomo.co.kr/trend/28406) <br/>
+[2026/06/23 - 탑승 경험의 모든 것: 디지털 전환부터 안전 이슈까지 완벽 가이드](https://blog.ai.dmomo.co.kr/trend/28388) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/06/23 - 5 Future Strategies for AI-Driven Corporate Cyber Defense, Accelerated by IBM and OpenAI](https://ai.trend.dmomo.co.kr/2026/06/5-future-strategies-for-ai-driven.html) <br/>
-[2026/06/23 - The JTBC and JoongAng Ilbo Bankruptcy Crisis: Reasons Why Hong Seok-hyun's 119 Billion KRW Personal Investment Couldn't Prevent It](https://ai.trend.dmomo.co.kr/2026/06/the-jtbc-and-joongang-ilbo-bankruptcy.html) <br/>
-[2026/06/23 - Mbappé Breaks All-time Goal Record! Is France set to Win the 2026 World Cup?](https://ai.trend.dmomo.co.kr/2026/06/mbappe-breaks-all-time-goal-record-is.html) <br/>
-[2026/06/22 - The Truth About the 2 Trillion Won Jackpots of Powerball and Mega Millions: What Koreans Need to Know](https://ai.trend.dmomo.co.kr/2026/06/the-truth-about-2-trillion-won-jackpots.html) <br/>
-[2026/06/22 - 10 Essential Keywords to Understand 1.4 Billion Chinese People](https://ai.trend.dmomo.co.kr/2026/06/10-essential-keywords-to-understand-14.html) <br/>
-[2026/06/22 - 2026 AI DevOps Innovation Strategy: The 4 Core Technologies of GenAI-Based Platforms and Implementation Guide](https://ai.trend.dmomo.co.kr/2026/06/2026-ai-devops-innovation-strategy-4.html) <br/>
+[2026/06/24 - Google DeepMind and A24’s $75 Million AI Revolution in Filmmaking: What’s Changing?](https://ai.trend.dmomo.co.kr/2026/06/google-deepmind-and-a24s-75-million-ai.html) <br/>
+[2026/06/24 - Kim Ho-jung's Day of Release on Parole: The Return After 767 Days and the Truth Behind 5 Billion on Melon](https://ai.trend.dmomo.co.kr/2026/06/kim-ho-jungs-day-of-release-on-parole.html) <br/>
+[2026/06/24 - England vs Ghana 0-0 Draw: Round of 16 Fate Decided in Final Match](https://ai.trend.dmomo.co.kr/2026/06/england-vs-ghana-0-0-draw-round-of-16.html) <br/>
+[2026/06/23 - 5 Student Trends for 2026: AI, Globalization, Practical Skills, Convenience, and Inclusivity](https://ai.trend.dmomo.co.kr/2026/06/5-student-trends-for-2026-ai.html) <br/>
+[2026/06/23 - Everything You Need to Know About the Boarding Experience: A Complete Guide from Digital Transformation to Safety Issues](https://ai.trend.dmomo.co.kr/2026/06/everything-you-need-to-know-about.html) <br/>
+[2026/06/23 - The Real Meaning Behind Yanis' Boston Trade Rumors and His Praise for Durant](https://ai.trend.dmomo.co.kr/2026/06/the-real-meaning-behind-yanis-boston.html) <br/>
