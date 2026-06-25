@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/24 - Google DeepMind와 A24의 7500만 달러 영화 제작 AI 혁명, 무엇이 달라지나?](https://blog.ai.dmomo.co.kr/tech/28430) <br/>
-[2026/06/24 - 잉글랜드 vs 가나 0-0 무승부, 16강 향방은 최종전으로](https://blog.ai.dmomo.co.kr/trend/28428) <br/>
-[2026/06/24 - 김호중 가석방 출소 D-day, 767일 만의 복귀와 멜론 50억의 진실](https://blog.ai.dmomo.co.kr/trend/28426) <br/>
-[2026/06/23 - 2026년 학생 트렌드 5가지: AI·글로벌·실무·편의·포용성](https://blog.ai.dmomo.co.kr/trend/28406) <br/>
-[2026/06/23 - 탑승 경험의 모든 것: 디지털 전환부터 안전 이슈까지 완벽 가이드](https://blog.ai.dmomo.co.kr/trend/28388) <br/>
+[2026/06/25 - 2026년 혁신! 기업 업무 자동화하는 Enterprise Autonomous AI Agents 완벽 해부](https://blog.ai.dmomo.co.kr/tech/28505) <br/>
+[2026/06/25 - 2026 월드컵 브라질 vs 스코틀랜드, 비니시우스가 폭발한 C조 결전](https://blog.ai.dmomo.co.kr/trend/28503) <br/>
+[2026/06/25 - 2026 북중미 월드컵 순위 총정리: 한국 16강 가나, 아시아의 반란](https://blog.ai.dmomo.co.kr/trend/28501) <br/>
+[2026/06/24 - 콜롬비아 2연승 32강 확정! 무뇨스 결승골과 콩고 철벽수비의 1-0 승부](https://blog.ai.dmomo.co.kr/trend/28475) <br/>
+[2026/06/24 - 박하나가 요즘 핫한 이유 3가지: 시험관·15억 의리·주식 재테크](https://blog.ai.dmomo.co.kr/trend/28473) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/06/24 - Google DeepMind and A24’s $75 Million AI Revolution in Filmmaking: What’s Changing?](https://ai.trend.dmomo.co.kr/2026/06/google-deepmind-and-a24s-75-million-ai.html) <br/>
-[2026/06/24 - Kim Ho-jung's Day of Release on Parole: The Return After 767 Days and the Truth Behind 5 Billion on Melon](https://ai.trend.dmomo.co.kr/2026/06/kim-ho-jungs-day-of-release-on-parole.html) <br/>
-[2026/06/24 - England vs Ghana 0-0 Draw: Round of 16 Fate Decided in Final Match](https://ai.trend.dmomo.co.kr/2026/06/england-vs-ghana-0-0-draw-round-of-16.html) <br/>
-[2026/06/23 - 5 Student Trends for 2026: AI, Globalization, Practical Skills, Convenience, and Inclusivity](https://ai.trend.dmomo.co.kr/2026/06/5-student-trends-for-2026-ai.html) <br/>
-[2026/06/23 - Everything You Need to Know About the Boarding Experience: A Complete Guide from Digital Transformation to Safety Issues](https://ai.trend.dmomo.co.kr/2026/06/everything-you-need-to-know-about.html) <br/>
-[2026/06/23 - The Real Meaning Behind Yanis' Boston Trade Rumors and His Praise for Durant](https://ai.trend.dmomo.co.kr/2026/06/the-real-meaning-behind-yanis-boston.html) <br/>
+[2026/06/25 - Innovation in 2026! A Comprehensive Guide to Enterprise Autonomous AI Agents Revolutionizing Business Automation](https://ai.trend.dmomo.co.kr/2026/06/innovation-in-2026-comprehensive-guide.html) <br/>
+[2026/06/25 - 2026 North and Central America World Cup Rankings Summary: South Korea's Round of 16, Ghana, and the Asian Uprising](https://ai.trend.dmomo.co.kr/2026/06/2026-north-and-central-america-world.html) <br/>
+[2026/06/25 - 2026 World Cup Brazil vs Scotland: Vinicius Shines in Group C Showdown](https://ai.trend.dmomo.co.kr/2026/06/2026-world-cup-brazil-vs-scotland.html) <br/>
+[2026/06/24 - Colombia Secures Round of 32 with Consecutive Wins! Munoz’s Winning Goal and Congo's Solid Defense Lead to 1-0 Victory](https://ai.trend.dmomo.co.kr/2026/06/colombia-secures-round-of-32-with.html) <br/>
+[2026/06/24 - 3 Reasons Why Park Hana is Hot Right Now: IVF, 1.5 Billion Loyalty, and Stock Investment Strategies](https://ai.trend.dmomo.co.kr/2026/06/3-reasons-why-park-hana-is-hot-right.html) <br/>
+[2026/06/24 - Colombia vs DR Congo: All About Two Countries Through Soccer, Immigration, and Diplomacy](https://ai.trend.dmomo.co.kr/2026/06/colombia-vs-dr-congo-all-about-two.html) <br/>
