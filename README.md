@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/06/26 - 라멜로 볼 미네소타 이적! 앤서니 에드워즈와 조합, 서부 판도 바꿀까?](https://blog.ai.dmomo.co.kr/trend/28565) <br/>
+[2026/06/26 - 2026년 주목할 Software Supply Chain Security 플랫폼과 Gartner Magic Quadrant 핵심 전략 5가지](https://blog.ai.dmomo.co.kr/tech/28563) <br/>
+[2026/06/26 - 차범근이 2026년에도 소환되는 4가지 이유: 레전드는 어떻게 밈이 되는가](https://blog.ai.dmomo.co.kr/trend/28561) <br/>
+[2026/06/25 - 2026 FIFA 월드컵 중간 점검: 미국·멕시코·캐나다 32강 현황과 글로벌 판도](https://blog.ai.dmomo.co.kr/trend/28529) <br/>
 [2026/06/25 - 2026년 혁신! 기업 업무 자동화하는 Enterprise Autonomous AI Agents 완벽 해부](https://blog.ai.dmomo.co.kr/tech/28505) <br/>
-[2026/06/25 - 2026 월드컵 브라질 vs 스코틀랜드, 비니시우스가 폭발한 C조 결전](https://blog.ai.dmomo.co.kr/trend/28503) <br/>
-[2026/06/25 - 2026 북중미 월드컵 순위 총정리: 한국 16강 가나, 아시아의 반란](https://blog.ai.dmomo.co.kr/trend/28501) <br/>
-[2026/06/24 - 콜롬비아 2연승 32강 확정! 무뇨스 결승골과 콩고 철벽수비의 1-0 승부](https://blog.ai.dmomo.co.kr/trend/28475) <br/>
-[2026/06/24 - 박하나가 요즘 핫한 이유 3가지: 시험관·15억 의리·주식 재테크](https://blog.ai.dmomo.co.kr/trend/28473) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/06/26 - Top Software Supply Chain Security Platforms to Watch in 2026 and 5 Key Strategies from Gartner's Magic Quadrant](https://ai.trend.dmomo.co.kr/2026/06/top-software-supply-chain-security.html) <br/>
+[2026/06/26 - LaMelo Ball's Trade to Minnesota! Can He and Anthony Edwards Change the Western Conference Landscape?](https://ai.trend.dmomo.co.kr/2026/06/lamelo-balls-trade-to-minnesota-can-he.html) <br/>
+[2026/06/26 - Four Reasons Cha Bum-kun is Recalled in 2026: How Legends Become Memes](https://ai.trend.dmomo.co.kr/2026/06/four-reasons-cha-bum-kun-is-recalled-in.html) <br/>
+[2026/06/25 - 2026 FIFA World Cup Midterm Review: Status of the 32 Teams from the USA, Mexico, and Canada and the Global Landscape](https://ai.trend.dmomo.co.kr/2026/06/2026-fifa-world-cup-midterm-review.html) <br/>
 [2026/06/25 - Innovation in 2026! A Comprehensive Guide to Enterprise Autonomous AI Agents Revolutionizing Business Automation](https://ai.trend.dmomo.co.kr/2026/06/innovation-in-2026-comprehensive-guide.html) <br/>
 [2026/06/25 - 2026 North and Central America World Cup Rankings Summary: South Korea's Round of 16, Ghana, and the Asian Uprising](https://ai.trend.dmomo.co.kr/2026/06/2026-north-and-central-america-world.html) <br/>
-[2026/06/25 - 2026 World Cup Brazil vs Scotland: Vinicius Shines in Group C Showdown](https://ai.trend.dmomo.co.kr/2026/06/2026-world-cup-brazil-vs-scotland.html) <br/>
-[2026/06/24 - Colombia Secures Round of 32 with Consecutive Wins! Munoz’s Winning Goal and Congo's Solid Defense Lead to 1-0 Victory](https://ai.trend.dmomo.co.kr/2026/06/colombia-secures-round-of-32-with.html) <br/>
-[2026/06/24 - 3 Reasons Why Park Hana is Hot Right Now: IVF, 1.5 Billion Loyalty, and Stock Investment Strategies](https://ai.trend.dmomo.co.kr/2026/06/3-reasons-why-park-hana-is-hot-right.html) <br/>
-[2026/06/24 - Colombia vs DR Congo: All About Two Countries Through Soccer, Immigration, and Diplomacy](https://ai.trend.dmomo.co.kr/2026/06/colombia-vs-dr-congo-all-about-two.html) <br/>
