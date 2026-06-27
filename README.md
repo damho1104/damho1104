@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/06/26 - 김영광 홍명보 나가 발언 논란, 월드컵 감독 책임론 진실은?](https://blog.ai.dmomo.co.kr/trend/28607) <br/>
+[2026/06/26 - 2026 월드컵 F조 일본 vs 스웨덴, 승점 차이가 말해주는 것](https://blog.ai.dmomo.co.kr/trend/28589) <br/>
+[2026/06/26 - 터키 vs 미국 6월 26일 빅매치, 승부 가를 핵심 변수 4가지](https://blog.ai.dmomo.co.kr/trend/28587) <br/>
 [2026/06/26 - 라멜로 볼 미네소타 이적! 앤서니 에드워즈와 조합, 서부 판도 바꿀까?](https://blog.ai.dmomo.co.kr/trend/28565) <br/>
 [2026/06/26 - 2026년 주목할 Software Supply Chain Security 플랫폼과 Gartner Magic Quadrant 핵심 전략 5가지](https://blog.ai.dmomo.co.kr/tech/28563) <br/>
-[2026/06/26 - 차범근이 2026년에도 소환되는 4가지 이유: 레전드는 어떻게 밈이 되는가](https://blog.ai.dmomo.co.kr/trend/28561) <br/>
-[2026/06/25 - 2026 FIFA 월드컵 중간 점검: 미국·멕시코·캐나다 32강 현황과 글로벌 판도](https://blog.ai.dmomo.co.kr/trend/28529) <br/>
-[2026/06/25 - 2026년 혁신! 기업 업무 자동화하는 Enterprise Autonomous AI Agents 완벽 해부](https://blog.ai.dmomo.co.kr/tech/28505) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/06/26 - controversy over Kim Young-kwang and Hong Myung-bo's comments: What is the truth behind the World Cup coach accountability?](https://ai.trend.dmomo.co.kr/2026/06/controversy-over-kim-young-kwang-and.html) <br/>
+[2026/06/26 - 2026 World Cup Group F: What the Point Difference Between Japan and Sweden Tells Us](https://ai.trend.dmomo.co.kr/2026/06/2026-world-cup-group-f-what-point.html) <br/>
+[2026/06/26 - Turkey vs USA June 26 Big Match: 4 Key Factors That Will Decide the Outcome](https://ai.trend.dmomo.co.kr/2026/06/turkey-vs-usa-june-26-big-match-4-key.html) <br/>
 [2026/06/26 - Top Software Supply Chain Security Platforms to Watch in 2026 and 5 Key Strategies from Gartner's Magic Quadrant](https://ai.trend.dmomo.co.kr/2026/06/top-software-supply-chain-security.html) <br/>
 [2026/06/26 - LaMelo Ball's Trade to Minnesota! Can He and Anthony Edwards Change the Western Conference Landscape?](https://ai.trend.dmomo.co.kr/2026/06/lamelo-balls-trade-to-minnesota-can-he.html) <br/>
 [2026/06/26 - Four Reasons Cha Bum-kun is Recalled in 2026: How Legends Become Memes](https://ai.trend.dmomo.co.kr/2026/06/four-reasons-cha-bum-kun-is-recalled-in.html) <br/>
-[2026/06/25 - 2026 FIFA World Cup Midterm Review: Status of the 32 Teams from the USA, Mexico, and Canada and the Global Landscape](https://ai.trend.dmomo.co.kr/2026/06/2026-fifa-world-cup-midterm-review.html) <br/>
-[2026/06/25 - Innovation in 2026! A Comprehensive Guide to Enterprise Autonomous AI Agents Revolutionizing Business Automation](https://ai.trend.dmomo.co.kr/2026/06/innovation-in-2026-comprehensive-guide.html) <br/>
-[2026/06/25 - 2026 North and Central America World Cup Rankings Summary: South Korea's Round of 16, Ghana, and the Asian Uprising](https://ai.trend.dmomo.co.kr/2026/06/2026-north-and-central-america-world.html) <br/>
