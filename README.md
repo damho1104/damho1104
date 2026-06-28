@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/26 - 김영광 홍명보 나가 발언 논란, 월드컵 감독 책임론 진실은?](https://blog.ai.dmomo.co.kr/trend/28607) <br/>
-[2026/06/26 - 2026 월드컵 F조 일본 vs 스웨덴, 승점 차이가 말해주는 것](https://blog.ai.dmomo.co.kr/trend/28589) <br/>
-[2026/06/26 - 터키 vs 미국 6월 26일 빅매치, 승부 가를 핵심 변수 4가지](https://blog.ai.dmomo.co.kr/trend/28587) <br/>
-[2026/06/26 - 라멜로 볼 미네소타 이적! 앤서니 에드워즈와 조합, 서부 판도 바꿀까?](https://blog.ai.dmomo.co.kr/trend/28565) <br/>
-[2026/06/26 - 2026년 주목할 Software Supply Chain Security 플랫폼과 Gartner Magic Quadrant 핵심 전략 5가지](https://blog.ai.dmomo.co.kr/tech/28563) <br/>
+[2026/06/28 - 2026년 구글 Gemini 3.5·Omni가 여는 Agentic AI 혁명 5가지 핵심 포인트](https://blog.ai.dmomo.co.kr/tech/28685) <br/>
+[2026/06/28 - 크로아티아 vs 가나 전반 1-0, 한국 32강 운명 가른다](https://blog.ai.dmomo.co.kr/trend/28683) <br/>
+[2026/06/28 - 손흥민 벤치 논란, 2026 월드컵 한국 탈락의 진짜 이유](https://blog.ai.dmomo.co.kr/trend/28681) <br/>
+[2026/06/27 - 월마트가 바뀌고 있다: 광고·물류·데이터 장악한 플랫폼 공룡의 실체](https://blog.ai.dmomo.co.kr/trend/28667) <br/>
+[2026/06/27 - 이강인, 월드컵 고군분투 끝에 아틀레티코 마드리드 이적 초읽기](https://blog.ai.dmomo.co.kr/trend/28649) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/06/26 - controversy over Kim Young-kwang and Hong Myung-bo's comments: What is the truth behind the World Cup coach accountability?](https://ai.trend.dmomo.co.kr/2026/06/controversy-over-kim-young-kwang-and.html) <br/>
-[2026/06/26 - 2026 World Cup Group F: What the Point Difference Between Japan and Sweden Tells Us](https://ai.trend.dmomo.co.kr/2026/06/2026-world-cup-group-f-what-point.html) <br/>
-[2026/06/26 - Turkey vs USA June 26 Big Match: 4 Key Factors That Will Decide the Outcome](https://ai.trend.dmomo.co.kr/2026/06/turkey-vs-usa-june-26-big-match-4-key.html) <br/>
-[2026/06/26 - Top Software Supply Chain Security Platforms to Watch in 2026 and 5 Key Strategies from Gartner's Magic Quadrant](https://ai.trend.dmomo.co.kr/2026/06/top-software-supply-chain-security.html) <br/>
-[2026/06/26 - LaMelo Ball's Trade to Minnesota! Can He and Anthony Edwards Change the Western Conference Landscape?](https://ai.trend.dmomo.co.kr/2026/06/lamelo-balls-trade-to-minnesota-can-he.html) <br/>
-[2026/06/26 - Four Reasons Cha Bum-kun is Recalled in 2026: How Legends Become Memes](https://ai.trend.dmomo.co.kr/2026/06/four-reasons-cha-bum-kun-is-recalled-in.html) <br/>
+[2026/06/28 - 5 Key Highlights of the Agentic AI Revolution Unveiled by Google Gemini 3.5 and Omni in 2026](https://ai.trend.dmomo.co.kr/2026/06/5-key-highlights-of-agentic-ai.html) <br/>
+[2026/06/28 - Son Heung-min Bench Controversy: The Real Reason Behind Korea's Elimination from the 2026 World Cup](https://ai.trend.dmomo.co.kr/2026/06/son-heung-min-bench-controversy-real.html) <br/>
+[2026/06/28 - Croatia vs Ghana: First Half 1-0, Korea's Fate in the Round of 32 Hangs in the Balance](https://ai.trend.dmomo.co.kr/2026/06/croatia-vs-ghana-first-half-1-0-koreas.html) <br/>
+[2026/06/27 - Walmart is Changing: The Reality of a Platform Giant That Dominates Advertising, Logistics, and Data](https://ai.trend.dmomo.co.kr/2026/06/walmart-is-changing-reality-of-platform.html) <br/>
+[2026/06/27 - Lee Kang-in: On the Verge of Joining Atletico Madrid After World Cup Struggles](https://ai.trend.dmomo.co.kr/2026/06/lee-kang-in-on-verge-of-joining.html) <br/>
+[2026/06/27 - Belgium vs New Zealand 2026 World Cup: Can Belgium Survive Tonight in the Face of Elimination?](https://ai.trend.dmomo.co.kr/2026/06/belgium-vs-new-zealand-2026-world-cup.html) <br/>
