@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/28 - 2026년 구글 Gemini 3.5·Omni가 여는 Agentic AI 혁명 5가지 핵심 포인트](https://blog.ai.dmomo.co.kr/tech/28685) <br/>
-[2026/06/28 - 크로아티아 vs 가나 전반 1-0, 한국 32강 운명 가른다](https://blog.ai.dmomo.co.kr/trend/28683) <br/>
-[2026/06/28 - 손흥민 벤치 논란, 2026 월드컵 한국 탈락의 진짜 이유](https://blog.ai.dmomo.co.kr/trend/28681) <br/>
-[2026/06/27 - 월마트가 바뀌고 있다: 광고·물류·데이터 장악한 플랫폼 공룡의 실체](https://blog.ai.dmomo.co.kr/trend/28667) <br/>
-[2026/06/27 - 이강인, 월드컵 고군분투 끝에 아틀레티코 마드리드 이적 초읽기](https://blog.ai.dmomo.co.kr/trend/28649) <br/>
+[2026/06/29 - 세계 최초 서브 1nm Nanostack 3D 반도체가 AI 인프라를 바꾸는 이유는?](https://blog.ai.dmomo.co.kr/tech/28757) <br/>
+[2026/06/29 - 2026 FIFA 월드컵 브래킷 완전 분석: 48팀 새 포맷과 미국의 전략적 이점](https://blog.ai.dmomo.co.kr/trend/28755) <br/>
+[2026/06/29 - 극장골로 열린 캐나다 첫 16강, 한국 울린 남아공 동화는 여기서 끝](https://blog.ai.dmomo.co.kr/trend/28753) <br/>
+[2026/06/28 - 알제리 vs 오스트리아 3-3, 한국 월드컵 탈락 확정의 결정적 순간](https://blog.ai.dmomo.co.kr/trend/28733) <br/>
+[2026/06/28 - 2024 며느리 트렌드: 역할에서 관계로, 한국 가족의 대변화](https://blog.ai.dmomo.co.kr/trend/28731) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/06/28 - 5 Key Highlights of the Agentic AI Revolution Unveiled by Google Gemini 3.5 and Omni in 2026](https://ai.trend.dmomo.co.kr/2026/06/5-key-highlights-of-agentic-ai.html) <br/>
-[2026/06/28 - Son Heung-min Bench Controversy: The Real Reason Behind Korea's Elimination from the 2026 World Cup](https://ai.trend.dmomo.co.kr/2026/06/son-heung-min-bench-controversy-real.html) <br/>
-[2026/06/28 - Croatia vs Ghana: First Half 1-0, Korea's Fate in the Round of 32 Hangs in the Balance](https://ai.trend.dmomo.co.kr/2026/06/croatia-vs-ghana-first-half-1-0-koreas.html) <br/>
-[2026/06/27 - Walmart is Changing: The Reality of a Platform Giant That Dominates Advertising, Logistics, and Data](https://ai.trend.dmomo.co.kr/2026/06/walmart-is-changing-reality-of-platform.html) <br/>
-[2026/06/27 - Lee Kang-in: On the Verge of Joining Atletico Madrid After World Cup Struggles](https://ai.trend.dmomo.co.kr/2026/06/lee-kang-in-on-verge-of-joining.html) <br/>
-[2026/06/27 - Belgium vs New Zealand 2026 World Cup: Can Belgium Survive Tonight in the Face of Elimination?](https://ai.trend.dmomo.co.kr/2026/06/belgium-vs-new-zealand-2026-world-cup.html) <br/>
+[2026/06/29 - Why the World’s First Sub-1nm Nanostack 3D Semiconductor Is Revolutionizing AI Infrastructure](https://ai.trend.dmomo.co.kr/2026/06/why-worlds-first-sub-1nm-nanostack-3d.html) <br/>
+[2026/06/29 - Complete Analysis of the 2026 FIFA World Cup Bracket: New Format with 48 Teams and America's Strategic Advantages](https://ai.trend.dmomo.co.kr/2026/06/complete-analysis-of-2026-fifa-world.html) <br/>
+[2026/06/29 - Canada's First Round of 16 Opens with a Dramatic Goal, Ending South Africa's Fairytale Against Korea Here](https://ai.trend.dmomo.co.kr/2026/06/canadas-first-round-of-16-opens-with.html) <br/>
+[2026/06/28 - Algeria vs Austria 3-3: The Defining Moment of Korea's World Cup Elimination](https://ai.trend.dmomo.co.kr/2026/06/algeria-vs-austria-3-3-defining-moment.html) <br/>
+[2026/06/28 - 2024 Daughter-in-Law Trends: From Roles to Relationships, A Major Transformation in Korean Families](https://ai.trend.dmomo.co.kr/2026/06/2024-daughter-in-law-trends-from-roles.html) <br/>
+[2026/06/28 - 2026 World Cup: South Korea's Exit in the Round of 32 - A Comprehensive Review of AI Predictions and Marketing Impact](https://ai.trend.dmomo.co.kr/2026/06/2026-world-cup-south-koreas-exit-in.html) <br/>
