@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/06/29 - 세계 최초 서브 1nm Nanostack 3D 반도체가 AI 인프라를 바꾸는 이유는?](https://blog.ai.dmomo.co.kr/tech/28757) <br/>
-[2026/06/29 - 2026 FIFA 월드컵 브래킷 완전 분석: 48팀 새 포맷과 미국의 전략적 이점](https://blog.ai.dmomo.co.kr/trend/28755) <br/>
-[2026/06/29 - 극장골로 열린 캐나다 첫 16강, 한국 울린 남아공 동화는 여기서 끝](https://blog.ai.dmomo.co.kr/trend/28753) <br/>
-[2026/06/28 - 알제리 vs 오스트리아 3-3, 한국 월드컵 탈락 확정의 결정적 순간](https://blog.ai.dmomo.co.kr/trend/28733) <br/>
-[2026/06/28 - 2024 며느리 트렌드: 역할에서 관계로, 한국 가족의 대변화](https://blog.ai.dmomo.co.kr/trend/28731) <br/>
+[2026/06/30 - 2026년 미 국방부 Agent Network AI로 전장 정보와 타격 관리를 혁신하는 방법은?](https://blog.ai.dmomo.co.kr/tech/28817) <br/>
+[2026/06/30 - 파라과이, 승부차기로 독일 격침! 월드컵 2026 역대급 업셋](https://blog.ai.dmomo.co.kr/trend/28815) <br/>
+[2026/06/30 - 브라질 vs 일본 2-1 역전승, 2026 월드컵이 바꾼 축구 판도](https://blog.ai.dmomo.co.kr/trend/28813) <br/>
+[2026/06/29 - 서울지하철 대변혁: 무임승차·킥보드 금지·디지털 전환까지](https://blog.ai.dmomo.co.kr/trend/28796) <br/>
+[2026/06/29 - 한국이 놓친 감독 제시 마치, 캐나다를 사상 첫 월드컵 16강으로 이끌다](https://blog.ai.dmomo.co.kr/trend/28778) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/06/30 - How the U.S. Department of Defense’s Agent Network AI Will Revolutionize Battlefield Intelligence and Strike Management in 2026](https://ai.trend.dmomo.co.kr/2026/06/how-us-department-of-defenses-agent.html) <br/>
+[2026/06/30 - Paraguay Shocks Germany with Penalty Shootout Win! Epic Upset in the 2026 World Cup](https://ai.trend.dmomo.co.kr/2026/06/paraguay-shocks-germany-with-penalty.html) <br/>
+[2026/06/30 - Brazil vs Japan 2-1 Comeback Victory: How the 2026 World Cup Changed the Football Landscape](https://ai.trend.dmomo.co.kr/2026/06/brazil-vs-japan-2-1-comeback-victory.html) <br/>
+[2026/06/29 - Seoul Subway Revolution: Free Rides, E-scooter Ban, and Digital Transformation](https://ai.trend.dmomo.co.kr/2026/06/seoul-subway-revolution-free-rides-e.html) <br/>
+[2026/06/29 - Jessie March, the Coach South Korea Missed, Leads Canada to Their First-Ever World Cup Round of 16](https://ai.trend.dmomo.co.kr/2026/06/jessie-march-coach-south-korea-missed.html) <br/>
 [2026/06/29 - Why the World’s First Sub-1nm Nanostack 3D Semiconductor Is Revolutionizing AI Infrastructure](https://ai.trend.dmomo.co.kr/2026/06/why-worlds-first-sub-1nm-nanostack-3d.html) <br/>
-[2026/06/29 - Complete Analysis of the 2026 FIFA World Cup Bracket: New Format with 48 Teams and America's Strategic Advantages](https://ai.trend.dmomo.co.kr/2026/06/complete-analysis-of-2026-fifa-world.html) <br/>
-[2026/06/29 - Canada's First Round of 16 Opens with a Dramatic Goal, Ending South Africa's Fairytale Against Korea Here](https://ai.trend.dmomo.co.kr/2026/06/canadas-first-round-of-16-opens-with.html) <br/>
-[2026/06/28 - Algeria vs Austria 3-3: The Defining Moment of Korea's World Cup Elimination](https://ai.trend.dmomo.co.kr/2026/06/algeria-vs-austria-3-3-defining-moment.html) <br/>
-[2026/06/28 - 2024 Daughter-in-Law Trends: From Roles to Relationships, A Major Transformation in Korean Families](https://ai.trend.dmomo.co.kr/2026/06/2024-daughter-in-law-trends-from-roles.html) <br/>
-[2026/06/28 - 2026 World Cup: South Korea's Exit in the Round of 32 - A Comprehensive Review of AI Predictions and Marketing Impact](https://ai.trend.dmomo.co.kr/2026/06/2026-world-cup-south-koreas-exit-in.html) <br/>
