@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/07/01 - 2026년 DevOps 혁신, SonarQube Advanced Security로 보안 자동화하는 5단계 방법](https://blog.ai.dmomo.co.kr/tech/28880) <br/>
+[2026/07/01 - 2026 KBO 5강 레이스, KT 위즈 vs 한화 이글스 총정리](https://blog.ai.dmomo.co.kr/trend/28878) <br/>
+[2026/07/01 - 음바페, 뉴저지 MetLife서 월드컵 결선 최다골 역대 신기록 달성](https://blog.ai.dmomo.co.kr/trend/28876) <br/>
 [2026/06/30 - 2026년 미 국방부 Agent Network AI로 전장 정보와 타격 관리를 혁신하는 방법은?](https://blog.ai.dmomo.co.kr/tech/28817) <br/>
 [2026/06/30 - 파라과이, 승부차기로 독일 격침! 월드컵 2026 역대급 업셋](https://blog.ai.dmomo.co.kr/trend/28815) <br/>
-[2026/06/30 - 브라질 vs 일본 2-1 역전승, 2026 월드컵이 바꾼 축구 판도](https://blog.ai.dmomo.co.kr/trend/28813) <br/>
-[2026/06/29 - 서울지하철 대변혁: 무임승차·킥보드 금지·디지털 전환까지](https://blog.ai.dmomo.co.kr/trend/28796) <br/>
-[2026/06/29 - 한국이 놓친 감독 제시 마치, 캐나다를 사상 첫 월드컵 16강으로 이끌다](https://blog.ai.dmomo.co.kr/trend/28778) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/07/01 - Five-Step Guide to Automating Security with SonarQube Advanced Security for DevOps Innovation in 2026](https://ai.trend.dmomo.co.kr/2026/06/five-step-guide-to-automating-security.html) <br/>
+[2026/07/01 - 2026 KBO Top 5 Race: KT Wiz vs Hanwha Eagles Summary](https://ai.trend.dmomo.co.kr/2026/06/2026-kbo-top-5-race-kt-wiz-vs-hanwha.html) <br/>
+[2026/07/01 - Mbappé Sets All-Time Record for Most Goals in World Cup Finals at MetLife Stadium in New Jersey](https://ai.trend.dmomo.co.kr/2026/06/mbappe-sets-all-time-record-for-most.html) <br/>
 [2026/06/30 - How the U.S. Department of Defense’s Agent Network AI Will Revolutionize Battlefield Intelligence and Strike Management in 2026](https://ai.trend.dmomo.co.kr/2026/06/how-us-department-of-defenses-agent.html) <br/>
 [2026/06/30 - Paraguay Shocks Germany with Penalty Shootout Win! Epic Upset in the 2026 World Cup](https://ai.trend.dmomo.co.kr/2026/06/paraguay-shocks-germany-with-penalty.html) <br/>
 [2026/06/30 - Brazil vs Japan 2-1 Comeback Victory: How the 2026 World Cup Changed the Football Landscape](https://ai.trend.dmomo.co.kr/2026/06/brazil-vs-japan-2-1-comeback-victory.html) <br/>
-[2026/06/29 - Seoul Subway Revolution: Free Rides, E-scooter Ban, and Digital Transformation](https://ai.trend.dmomo.co.kr/2026/06/seoul-subway-revolution-free-rides-e.html) <br/>
-[2026/06/29 - Jessie March, the Coach South Korea Missed, Leads Canada to Their First-Ever World Cup Round of 16](https://ai.trend.dmomo.co.kr/2026/06/jessie-march-coach-south-korea-missed.html) <br/>
-[2026/06/29 - Why the World’s First Sub-1nm Nanostack 3D Semiconductor Is Revolutionizing AI Infrastructure](https://ai.trend.dmomo.co.kr/2026/06/why-worlds-first-sub-1nm-nanostack-3d.html) <br/>
