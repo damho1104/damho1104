@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/07/01 - 2026년 DevOps 혁신, SonarQube Advanced Security로 보안 자동화하는 5단계 방법](https://blog.ai.dmomo.co.kr/tech/28880) <br/>
-[2026/07/01 - 2026 KBO 5강 레이스, KT 위즈 vs 한화 이글스 총정리](https://blog.ai.dmomo.co.kr/trend/28878) <br/>
-[2026/07/01 - 음바페, 뉴저지 MetLife서 월드컵 결선 최다골 역대 신기록 달성](https://blog.ai.dmomo.co.kr/trend/28876) <br/>
-[2026/06/30 - 2026년 미 국방부 Agent Network AI로 전장 정보와 타격 관리를 혁신하는 방법은?](https://blog.ai.dmomo.co.kr/tech/28817) <br/>
-[2026/06/30 - 파라과이, 승부차기로 독일 격침! 월드컵 2026 역대급 업셋](https://blog.ai.dmomo.co.kr/trend/28815) <br/>
+[2026/07/02 - 2026년 Meta AI 클라우드 시장 진입, AWS·Google과 어떻게 경쟁하나?](https://blog.ai.dmomo.co.kr/tech/28943) <br/>
+[2026/07/02 - 벨기에 vs 세네갈 2026 월드컵 32강 분석: 미국의 16강 상대는 누가 될까?](https://blog.ai.dmomo.co.kr/trend/28941) <br/>
+[2026/07/02 - 박미선 유방암 극복 후 복귀, 성 바꾼 아들 연극배우 최상엽 공개](https://blog.ai.dmomo.co.kr/trend/28939) <br/>
+[2026/07/01 - 장윤정 모친 투자 사기 의혹, 트로트 여왕의 가족 갈등 10년史](https://blog.ai.dmomo.co.kr/trend/28919) <br/>
+[2026/07/01 - 멕시코 vs 에콰도르: 코파 아메리카 0-0이 바꾼 두 나라의 운명](https://blog.ai.dmomo.co.kr/trend/28906) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/07/01 - Five-Step Guide to Automating Security with SonarQube Advanced Security for DevOps Innovation in 2026](https://ai.trend.dmomo.co.kr/2026/06/five-step-guide-to-automating-security.html) <br/>
-[2026/07/01 - 2026 KBO Top 5 Race: KT Wiz vs Hanwha Eagles Summary](https://ai.trend.dmomo.co.kr/2026/06/2026-kbo-top-5-race-kt-wiz-vs-hanwha.html) <br/>
-[2026/07/01 - Mbappé Sets All-Time Record for Most Goals in World Cup Finals at MetLife Stadium in New Jersey](https://ai.trend.dmomo.co.kr/2026/06/mbappe-sets-all-time-record-for-most.html) <br/>
-[2026/06/30 - How the U.S. Department of Defense’s Agent Network AI Will Revolutionize Battlefield Intelligence and Strike Management in 2026](https://ai.trend.dmomo.co.kr/2026/06/how-us-department-of-defenses-agent.html) <br/>
-[2026/06/30 - Paraguay Shocks Germany with Penalty Shootout Win! Epic Upset in the 2026 World Cup](https://ai.trend.dmomo.co.kr/2026/06/paraguay-shocks-germany-with-penalty.html) <br/>
-[2026/06/30 - Brazil vs Japan 2-1 Comeback Victory: How the 2026 World Cup Changed the Football Landscape](https://ai.trend.dmomo.co.kr/2026/06/brazil-vs-japan-2-1-comeback-victory.html) <br/>
+[2026/07/02 - Meta AI's 2026 Entry into the Cloud Market: How Will It Compete with AWS and Google?](https://ai.trend.dmomo.co.kr/2026/07/meta-ais-2026-entry-into-cloud-market.html) <br/>
+[2026/07/02 - Belgium vs Senegal 2026 World Cup Round of 32 Analysis: Who Will Be the US's Opponent in the Round of 16?](https://ai.trend.dmomo.co.kr/2026/07/belgium-vs-senegal-2026-world-cup-round.html) <br/>
+[2026/07/02 - Park Mi-sun Returns After Overcoming Breast Cancer; Son Choi Sang-yup, Who Changed Genders, Revealed as a Actor](https://ai.trend.dmomo.co.kr/2026/07/park-mi-sun-returns-after-overcoming.html) <br/>
+[2026/07/01 - The Investment Fraud Allegations Against Jang Yoon-jung's Mother: A 10-Year History of Family Conflicts Involving the Queen of Trot](https://ai.trend.dmomo.co.kr/2026/07/the-investment-fraud-allegations.html) <br/>
+[2026/07/01 - Mexico vs Ecuador: How the 0-0 Copa America Match Changed the Fate of Two Nations](https://ai.trend.dmomo.co.kr/2026/06/mexico-vs-ecuador-how-0-0-copa-america.html) <br/>
+[2026/07/01 - Copa America 2024: Mexico vs Ecuador 0-0, The Real Reason for Elimination](https://ai.trend.dmomo.co.kr/2026/06/copa-america-2024-mexico-vs-ecuador-0-0.html) <br/>
