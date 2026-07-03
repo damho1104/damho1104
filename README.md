@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/07/02 - 2026년 Meta AI 클라우드 시장 진입, AWS·Google과 어떻게 경쟁하나?](https://blog.ai.dmomo.co.kr/tech/28943) <br/>
-[2026/07/02 - 벨기에 vs 세네갈 2026 월드컵 32강 분석: 미국의 16강 상대는 누가 될까?](https://blog.ai.dmomo.co.kr/trend/28941) <br/>
-[2026/07/02 - 박미선 유방암 극복 후 복귀, 성 바꾼 아들 연극배우 최상엽 공개](https://blog.ai.dmomo.co.kr/trend/28939) <br/>
-[2026/07/01 - 장윤정 모친 투자 사기 의혹, 트로트 여왕의 가족 갈등 10년史](https://blog.ai.dmomo.co.kr/trend/28919) <br/>
-[2026/07/01 - 멕시코 vs 에콰도르: 코파 아메리카 0-0이 바꾼 두 나라의 운명](https://blog.ai.dmomo.co.kr/trend/28906) <br/>
+[2026/07/03 - 2026년 주목할 보안 엣지 AI, 모빌린트 MLX-A1과 REGULUS 혁신 기술 공개](https://blog.ai.dmomo.co.kr/tech/29009) <br/>
+[2026/07/03 - 호날두 vs 모드리치, 두 레전드의 마지막 월드컵 춤 누가 웃을까?](https://blog.ai.dmomo.co.kr/trend/29007) <br/>
+[2026/07/03 - 이불 속 뱀 발견! 양주 아파트 충격 사건과 도시 뱀 침입 경로의 진실](https://blog.ai.dmomo.co.kr/trend/29005) <br/>
+[2026/07/02 - 폭염부터 패션까지, 2024 뱀 트렌드 완전 분석](https://blog.ai.dmomo.co.kr/trend/28966) <br/>
+[2026/07/02 - 발로군 레드카드 논란, 미국의 에이스는 벨기에전에 뛸 수 있을까?](https://blog.ai.dmomo.co.kr/trend/28965) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/07/03 - Cutting-Edge Security Edge AI to Watch in 2026: Introducing Mobillint MLX-A1 and REGULUS Innovations](https://ai.trend.dmomo.co.kr/2026/07/cutting-edge-security-edge-ai-to-watch.html) <br/>
+[2026/07/03 - Ronaldo vs Modric: Who Will Dance to Victory in Their Last World Cup?](https://ai.trend.dmomo.co.kr/2026/07/ronaldo-vs-modric-who-will-dance-to.html) <br/>
+[2026/07/03 - Snake Found in Bedding! Shocking Incident at Yangju Apartment and the Truth About Urban Snake Invasion Routes](https://ai.trend.dmomo.co.kr/2026/07/snake-found-in-bedding-shocking.html) <br/>
+[2026/07/02 - Complete Analysis of the 2024 Snake Trend: From Heatwaves to Fashion](https://ai.trend.dmomo.co.kr/2026/07/complete-analysis-of-2024-snake-trend.html) <br/>
+[2026/07/02 - The Controversy of a Red Card for Valogun: Will America's Ace Play Against Belgium?](https://ai.trend.dmomo.co.kr/2026/07/the-controversy-of-red-card-for-valogun.html) <br/>
 [2026/07/02 - Meta AI's 2026 Entry into the Cloud Market: How Will It Compete with AWS and Google?](https://ai.trend.dmomo.co.kr/2026/07/meta-ais-2026-entry-into-cloud-market.html) <br/>
-[2026/07/02 - Belgium vs Senegal 2026 World Cup Round of 32 Analysis: Who Will Be the US's Opponent in the Round of 16?](https://ai.trend.dmomo.co.kr/2026/07/belgium-vs-senegal-2026-world-cup-round.html) <br/>
-[2026/07/02 - Park Mi-sun Returns After Overcoming Breast Cancer; Son Choi Sang-yup, Who Changed Genders, Revealed as a Actor](https://ai.trend.dmomo.co.kr/2026/07/park-mi-sun-returns-after-overcoming.html) <br/>
-[2026/07/01 - The Investment Fraud Allegations Against Jang Yoon-jung's Mother: A 10-Year History of Family Conflicts Involving the Queen of Trot](https://ai.trend.dmomo.co.kr/2026/07/the-investment-fraud-allegations.html) <br/>
-[2026/07/01 - Mexico vs Ecuador: How the 0-0 Copa America Match Changed the Fate of Two Nations](https://ai.trend.dmomo.co.kr/2026/06/mexico-vs-ecuador-how-0-0-copa-america.html) <br/>
-[2026/07/01 - Copa America 2024: Mexico vs Ecuador 0-0, The Real Reason for Elimination](https://ai.trend.dmomo.co.kr/2026/06/copa-america-2024-mexico-vs-ecuador-0-0.html) <br/>
