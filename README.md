@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/07/03 - 박서진 불후의 명곡 왕중왕전 출연과 K-브랜드지수 5위의 의미](https://blog.ai.dmomo.co.kr/trend/29054) <br/>
+[2026/07/03 - 국민연금공단 5년 수익률 9.75%와 ESG·지역상생까지 총정리](https://blog.ai.dmomo.co.kr/trend/29036) <br/>
+[2026/07/03 - 미국 독립 250주년, 2026 Fourth of July 역대급 축제 총정리](https://blog.ai.dmomo.co.kr/trend/29034) <br/>
 [2026/07/03 - 2026년 주목할 보안 엣지 AI, 모빌린트 MLX-A1과 REGULUS 혁신 기술 공개](https://blog.ai.dmomo.co.kr/tech/29009) <br/>
 [2026/07/03 - 호날두 vs 모드리치, 두 레전드의 마지막 월드컵 춤 누가 웃을까?](https://blog.ai.dmomo.co.kr/trend/29007) <br/>
-[2026/07/03 - 이불 속 뱀 발견! 양주 아파트 충격 사건과 도시 뱀 침입 경로의 진실](https://blog.ai.dmomo.co.kr/trend/29005) <br/>
-[2026/07/02 - 폭염부터 패션까지, 2024 뱀 트렌드 완전 분석](https://blog.ai.dmomo.co.kr/trend/28966) <br/>
-[2026/07/02 - 발로군 레드카드 논란, 미국의 에이스는 벨기에전에 뛸 수 있을까?](https://blog.ai.dmomo.co.kr/trend/28965) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/07/03 - The Significance of Park Seo-jin's Appearance on Immortal Songs: The King of Kings and Ranking 5th in the K-Brand Index](https://ai.trend.dmomo.co.kr/2026/07/the-significance-of-park-seo-jins.html) <br/>
+[2026/07/03 - Summary of National Pension Service's 5-Year Return Rate of 9.75% Including ESG and Community Development](https://ai.trend.dmomo.co.kr/2026/07/summary-of-national-pension-services-5.html) <br/>
+[2026/07/03 - 2026 Fourth of July: Comprehensive Guide to the Ultimate Celebration of America's 250th Independence Anniversary](https://ai.trend.dmomo.co.kr/2026/07/2026-fourth-of-july-comprehensive-guide.html) <br/>
 [2026/07/03 - Cutting-Edge Security Edge AI to Watch in 2026: Introducing Mobillint MLX-A1 and REGULUS Innovations](https://ai.trend.dmomo.co.kr/2026/07/cutting-edge-security-edge-ai-to-watch.html) <br/>
 [2026/07/03 - Ronaldo vs Modric: Who Will Dance to Victory in Their Last World Cup?](https://ai.trend.dmomo.co.kr/2026/07/ronaldo-vs-modric-who-will-dance-to.html) <br/>
 [2026/07/03 - Snake Found in Bedding! Shocking Incident at Yangju Apartment and the Truth About Urban Snake Invasion Routes](https://ai.trend.dmomo.co.kr/2026/07/snake-found-in-bedding-shocking.html) <br/>
-[2026/07/02 - Complete Analysis of the 2024 Snake Trend: From Heatwaves to Fashion](https://ai.trend.dmomo.co.kr/2026/07/complete-analysis-of-2024-snake-trend.html) <br/>
-[2026/07/02 - The Controversy of a Red Card for Valogun: Will America's Ace Play Against Belgium?](https://ai.trend.dmomo.co.kr/2026/07/the-controversy-of-red-card-for-valogun.html) <br/>
-[2026/07/02 - Meta AI's 2026 Entry into the Cloud Market: How Will It Compete with AWS and Google?](https://ai.trend.dmomo.co.kr/2026/07/meta-ais-2026-entry-into-cloud-market.html) <br/>
