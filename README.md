@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/07/03 - 박서진 불후의 명곡 왕중왕전 출연과 K-브랜드지수 5위의 의미](https://blog.ai.dmomo.co.kr/trend/29054) <br/>
-[2026/07/03 - 국민연금공단 5년 수익률 9.75%와 ESG·지역상생까지 총정리](https://blog.ai.dmomo.co.kr/trend/29036) <br/>
-[2026/07/03 - 미국 독립 250주년, 2026 Fourth of July 역대급 축제 총정리](https://blog.ai.dmomo.co.kr/trend/29034) <br/>
-[2026/07/03 - 2026년 주목할 보안 엣지 AI, 모빌린트 MLX-A1과 REGULUS 혁신 기술 공개](https://blog.ai.dmomo.co.kr/tech/29009) <br/>
-[2026/07/03 - 호날두 vs 모드리치, 두 레전드의 마지막 월드컵 춤 누가 웃을까?](https://blog.ai.dmomo.co.kr/trend/29007) <br/>
+[2026/07/05 - 2026년 AI Agent 혁신: 목표 기반 업무 수행형 초자동화의 비밀 5가지](https://blog.ai.dmomo.co.kr/tech/29139) <br/>
+[2026/07/05 - 모로코 3-0 완승! 아프리카 최초 월드컵 2연속 8강, 캐나다의 꿈은 끝났다](https://blog.ai.dmomo.co.kr/trend/29137) <br/>
+[2026/07/05 - 장동건 근황 논란: 3주 만에 얼굴이 달라진 이유는?](https://blog.ai.dmomo.co.kr/trend/29135) <br/>
+[2026/07/04 - 파키스탄 완전정복: 2억4천만 인구 잠재시장의 리스크와 기회](https://blog.ai.dmomo.co.kr/trend/29118) <br/>
+[2026/07/04 - 탈북민에서 북향민까지, 대한민국 시민이 되는 4가지 변화](https://blog.ai.dmomo.co.kr/trend/29106) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/07/03 - The Significance of Park Seo-jin's Appearance on Immortal Songs: The King of Kings and Ranking 5th in the K-Brand Index](https://ai.trend.dmomo.co.kr/2026/07/the-significance-of-park-seo-jins.html) <br/>
-[2026/07/03 - Summary of National Pension Service's 5-Year Return Rate of 9.75% Including ESG and Community Development](https://ai.trend.dmomo.co.kr/2026/07/summary-of-national-pension-services-5.html) <br/>
-[2026/07/03 - 2026 Fourth of July: Comprehensive Guide to the Ultimate Celebration of America's 250th Independence Anniversary](https://ai.trend.dmomo.co.kr/2026/07/2026-fourth-of-july-comprehensive-guide.html) <br/>
-[2026/07/03 - Cutting-Edge Security Edge AI to Watch in 2026: Introducing Mobillint MLX-A1 and REGULUS Innovations](https://ai.trend.dmomo.co.kr/2026/07/cutting-edge-security-edge-ai-to-watch.html) <br/>
-[2026/07/03 - Ronaldo vs Modric: Who Will Dance to Victory in Their Last World Cup?](https://ai.trend.dmomo.co.kr/2026/07/ronaldo-vs-modric-who-will-dance-to.html) <br/>
-[2026/07/03 - Snake Found in Bedding! Shocking Incident at Yangju Apartment and the Truth About Urban Snake Invasion Routes](https://ai.trend.dmomo.co.kr/2026/07/snake-found-in-bedding-shocking.html) <br/>
+[2026/07/05 - AI Agent Innovation 2026: 5 Secrets to Goal-Driven Hyperautomation](https://ai.trend.dmomo.co.kr/2026/07/ai-agent-innovation-2026-5-secrets-to.html) <br/>
+[2026/07/05 - Morocco Secures 3-0 Victory! Africa's First Consecutive Quarterfinals in World Cup, Canada’s Dreams Come to an End](https://ai.trend.dmomo.co.kr/2026/07/morocco-secures-3-0-victory-africas.html) <br/>
+[2026/07/05 - Jang Dong-gun's Recent Controversy: Why Did His Face Change in Just Three Weeks?](https://ai.trend.dmomo.co.kr/2026/07/jang-dong-guns-recent-controversy-why.html) <br/>
+[2026/07/04 - Conquering Pakistan: Risks and Opportunities in a 240 Million-Person Potential Market](https://ai.trend.dmomo.co.kr/2026/07/conquering-pakistan-risks-and.html) <br/>
+[2026/07/04 - From Defectors to Northward Migrants: Four Transformations to Becoming Citizens of South Korea](https://ai.trend.dmomo.co.kr/2026/07/from-defectors-to-northward-migrants.html) <br/>
+[2026/07/04 - Argentina vs Cabo Verde: A Comparison of Democracy Between a G20 Emerging Economy and an African Small State](https://ai.trend.dmomo.co.kr/2026/07/argentina-vs-cabo-verde-comparison-of.html) <br/>
