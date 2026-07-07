@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/07/06 - 2026년 AI-native AppGen 로우코드가 바꾸는 소프트웨어 개발 혁신 7가지 핵심](https://blog.ai.dmomo.co.kr/tech/29208) <br/>
-[2026/07/06 - 2026 북중미 월드컵 멕시코 vs 잉글랜드, 가장 뜨거운 빅매치가 될 수밖에 없는 이유](https://blog.ai.dmomo.co.kr/trend/29206) <br/>
-[2026/07/06 - 홀란 멀티골로 무너진 브라질, 36년 만의 16강 탈락 충격](https://blog.ai.dmomo.co.kr/trend/29204) <br/>
-[2026/07/05 - 2026 워싱턴 DC 독립기념일 불꽃놀이: 85만 발 사상 최대 쇼의 모든 것](https://blog.ai.dmomo.co.kr/trend/29184) <br/>
-[2026/07/05 - 히딩크가 한국행을 결심한 진짜 이유: 2002 월드컵 4강 신화의 비하인드](https://blog.ai.dmomo.co.kr/trend/29182) <br/>
+[2026/07/07 - 2029년 상용화 목표, Majorana 2 토폴로지컬 큐비트가 바꾸는 양자컴퓨팅 혁명](https://blog.ai.dmomo.co.kr/tech/29277) <br/>
+[2026/07/07 - 메인주 상원 민주당 후보 성폭행 의혹, 당도 등 돌린 Platner 사태 총정리](https://blog.ai.dmomo.co.kr/trend/29275) <br/>
+[2026/07/07 - 호날두의 라스트 댄스가 멈춘 밤, 스페인 메리노 극장골 1-0 승리](https://blog.ai.dmomo.co.kr/trend/29273) <br/>
+[2026/07/06 - 2026 월드컵 16강 멕시코 vs 잉글랜드: 아즈테카 고도와 롤렉스 논란의 빅매치](https://blog.ai.dmomo.co.kr/trend/29235) <br/>
+[2026/07/06 - 2026 월드컵 벨링엄, 10명 잉글랜드를 구한 월드클래스 10번의 모든 것](https://blog.ai.dmomo.co.kr/trend/29233) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/07/07 - Quantum Computing Revolution Transformed by Majorana 2 Topological Qubits, Targeting Commercialization by 2029](https://ai.trend.dmomo.co.kr/2026/07/quantum-computing-revolution.html) <br/>
+[2026/07/07 - Summary of the Platner Case: Allegations of Sexual Assault Against Maine Senate Democratic Candidate, Party Turns Away](https://ai.trend.dmomo.co.kr/2026/07/summary-of-platner-case-allegations-of.html) <br/>
+[2026/07/07 - Ronaldo's Last Dance: A Night of Victory at the Merino Theater with a 1-0 Win](https://ai.trend.dmomo.co.kr/2026/07/ronaldos-last-dance-night-of-victory-at.html) <br/>
+[2026/07/06 - 2026 World Cup Round of 16: Mexico vs England - A Big Match at Azteca Heights and the Rolex Controversy](https://ai.trend.dmomo.co.kr/2026/07/2026-world-cup-round-of-16-mexico-vs.html) <br/>
+[2026/07/06 - All About Bellingham, the World-Class Number 10 Who Saved England with Just 10 Players in the 2026 World Cup](https://ai.trend.dmomo.co.kr/2026/07/all-about-bellingham-world-class-number.html) <br/>
 [2026/07/06 - 7 Key Innovations in Software Development Transformed by AI-Native AppGen Low-Code in 2026](https://ai.trend.dmomo.co.kr/2026/07/7-key-innovations-in-software.html) <br/>
-[2026/07/06 - 2026 North America World Cup: Why Mexico vs. England is Set to be the Hottest Big Match](https://ai.trend.dmomo.co.kr/2026/07/2026-north-america-world-cup-why-mexico.html) <br/>
-[2026/07/06 - Brazil Crashes Out in the Round of 16 After 36 Years, Shocked by Holland's Multi-Goal Blitz](https://ai.trend.dmomo.co.kr/2026/07/brazil-crashes-out-in-round-of-16-after.html) <br/>
-[2026/07/05 - 2026 Washington DC Independence Day Fireworks: Everything About the Record-Breaking 850,000 Shell Show](https://ai.trend.dmomo.co.kr/2026/07/2026-washington-dc-independence-day.html) <br/>
-[2026/07/05 - The Real Reason Hiddink Decided to Come to Korea: The Behind-the-Scenes of the 2002 World Cup Semifinal Miracle](https://ai.trend.dmomo.co.kr/2026/07/the-real-reason-hiddink-decided-to-come.html) <br/>
-[2026/07/05 - Out of 13.5 Trillion Won Spent on Livelihood Coupons, Only 20% Had Actual Impact](https://ai.trend.dmomo.co.kr/2026/07/out-of-135-trillion-won-spent-on.html) <br/>
