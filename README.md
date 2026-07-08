@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/07/07 - 2029년 상용화 목표, Majorana 2 토폴로지컬 큐비트가 바꾸는 양자컴퓨팅 혁명](https://blog.ai.dmomo.co.kr/tech/29277) <br/>
-[2026/07/07 - 메인주 상원 민주당 후보 성폭행 의혹, 당도 등 돌린 Platner 사태 총정리](https://blog.ai.dmomo.co.kr/trend/29275) <br/>
-[2026/07/07 - 호날두의 라스트 댄스가 멈춘 밤, 스페인 메리노 극장골 1-0 승리](https://blog.ai.dmomo.co.kr/trend/29273) <br/>
-[2026/07/06 - 2026 월드컵 16강 멕시코 vs 잉글랜드: 아즈테카 고도와 롤렉스 논란의 빅매치](https://blog.ai.dmomo.co.kr/trend/29235) <br/>
-[2026/07/06 - 2026 월드컵 벨링엄, 10명 잉글랜드를 구한 월드클래스 10번의 모든 것](https://blog.ai.dmomo.co.kr/trend/29233) <br/>
+[2026/07/08 - 2026년 AI-native 로우코드 개발 플랫폼이 바꾸는 개발 생산성 5가지 핵심 변화](https://blog.ai.dmomo.co.kr/tech/29345) <br/>
+[2026/07/08 - 2026 월드컵 16강 스위스 vs 콜롬비아 승부차기 결과와 전술 분석](https://blog.ai.dmomo.co.kr/trend/29344) <br/>
+[2026/07/08 - 메시의 기적! 0-2에서 3-2 대역전, 아르헨티나 이집트전 완벽 분석](https://blog.ai.dmomo.co.kr/trend/29342) <br/>
+[2026/07/07 - 이강인 아틀레티코 이적 확정! 700억 빅딜의 모든 것](https://blog.ai.dmomo.co.kr/trend/29319) <br/>
+[2026/07/07 - 미치 매코널 없는 공화당, 워싱턴 권력 공백의 진짜 의미](https://blog.ai.dmomo.co.kr/trend/29301) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/07/08 - 5 Key Ways AI-Native Low-Code Development Platforms Will Transform Developer Productivity in 2026](https://ai.trend.dmomo.co.kr/2026/07/5-key-ways-ai-native-low-code.html) <br/>
+[2026/07/08 - 2026 World Cup Round of 16: Switzerland vs Colombia Penalty Shootout Results and Tactical Analysis](https://ai.trend.dmomo.co.kr/2026/07/2026-world-cup-round-of-16-switzerland.html) <br/>
+[2026/07/08 - Messi's Miracle! A Perfect Analysis of Argentina's Comeback from 0-2 to 3-2 Against Egypt](https://ai.trend.dmomo.co.kr/2026/07/messis-miracle-perfect-analysis-of.html) <br/>
+[2026/07/07 - Lee Kang-in's Transfer to Atlético Confirmed! All About the 70 Billion Won Big Deal](https://ai.trend.dmomo.co.kr/2026/07/lee-kang-ins-transfer-to-atletico.html) <br/>
+[2026/07/07 - The Republican Party Without Mitch McConnell: The True Meaning of a Power Vacuum in Washington](https://ai.trend.dmomo.co.kr/2026/07/the-republican-party-without-mitch.html) <br/>
 [2026/07/07 - Quantum Computing Revolution Transformed by Majorana 2 Topological Qubits, Targeting Commercialization by 2029](https://ai.trend.dmomo.co.kr/2026/07/quantum-computing-revolution.html) <br/>
-[2026/07/07 - Summary of the Platner Case: Allegations of Sexual Assault Against Maine Senate Democratic Candidate, Party Turns Away](https://ai.trend.dmomo.co.kr/2026/07/summary-of-platner-case-allegations-of.html) <br/>
-[2026/07/07 - Ronaldo's Last Dance: A Night of Victory at the Merino Theater with a 1-0 Win](https://ai.trend.dmomo.co.kr/2026/07/ronaldos-last-dance-night-of-victory-at.html) <br/>
-[2026/07/06 - 2026 World Cup Round of 16: Mexico vs England - A Big Match at Azteca Heights and the Rolex Controversy](https://ai.trend.dmomo.co.kr/2026/07/2026-world-cup-round-of-16-mexico-vs.html) <br/>
-[2026/07/06 - All About Bellingham, the World-Class Number 10 Who Saved England with Just 10 Players in the 2026 World Cup](https://ai.trend.dmomo.co.kr/2026/07/all-about-bellingham-world-class-number.html) <br/>
-[2026/07/06 - 7 Key Innovations in Software Development Transformed by AI-Native AppGen Low-Code in 2026](https://ai.trend.dmomo.co.kr/2026/07/7-key-innovations-in-software.html) <br/>
