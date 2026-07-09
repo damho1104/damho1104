@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/07/08 - 2026년 AI-native 로우코드 개발 플랫폼이 바꾸는 개발 생산성 5가지 핵심 변화](https://blog.ai.dmomo.co.kr/tech/29345) <br/>
-[2026/07/08 - 2026 월드컵 16강 스위스 vs 콜롬비아 승부차기 결과와 전술 분석](https://blog.ai.dmomo.co.kr/trend/29344) <br/>
-[2026/07/08 - 메시의 기적! 0-2에서 3-2 대역전, 아르헨티나 이집트전 완벽 분석](https://blog.ai.dmomo.co.kr/trend/29342) <br/>
-[2026/07/07 - 이강인 아틀레티코 이적 확정! 700억 빅딜의 모든 것](https://blog.ai.dmomo.co.kr/trend/29319) <br/>
-[2026/07/07 - 미치 매코널 없는 공화당, 워싱턴 권력 공백의 진짜 의미](https://blog.ai.dmomo.co.kr/trend/29301) <br/>
+[2026/07/09 - 2026년 Power Apps Copilot으로 자연어만으로 완성 앱 만드는 5단계 비밀](https://blog.ai.dmomo.co.kr/tech/29406) <br/>
+[2026/07/09 - 윤여정 에미상 후보 지명! 오스카 넘어 TV까지 새 역사 쓴다](https://blog.ai.dmomo.co.kr/trend/29404) <br/>
+[2026/07/09 - 문화일보 디지털 전략 완전분석: 보수 일간지의 숏폼·포털 생존법](https://blog.ai.dmomo.co.kr/trend/29402) <br/>
+[2026/07/08 - 전원주가 유튜브에서 공개한 외도 편지와 유서, 그 충격적 진실](https://blog.ai.dmomo.co.kr/trend/29385) <br/>
+[2026/07/08 - 피트니스 유튜버 Connor Murphy 태국 익사 사망설, 현재까지 밝혀진 진실](https://blog.ai.dmomo.co.kr/trend/29370) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/07/08 - 5 Key Ways AI-Native Low-Code Development Platforms Will Transform Developer Productivity in 2026](https://ai.trend.dmomo.co.kr/2026/07/5-key-ways-ai-native-low-code.html) <br/>
-[2026/07/08 - 2026 World Cup Round of 16: Switzerland vs Colombia Penalty Shootout Results and Tactical Analysis](https://ai.trend.dmomo.co.kr/2026/07/2026-world-cup-round-of-16-switzerland.html) <br/>
-[2026/07/08 - Messi's Miracle! A Perfect Analysis of Argentina's Comeback from 0-2 to 3-2 Against Egypt](https://ai.trend.dmomo.co.kr/2026/07/messis-miracle-perfect-analysis-of.html) <br/>
-[2026/07/07 - Lee Kang-in's Transfer to Atlético Confirmed! All About the 70 Billion Won Big Deal](https://ai.trend.dmomo.co.kr/2026/07/lee-kang-ins-transfer-to-atletico.html) <br/>
-[2026/07/07 - The Republican Party Without Mitch McConnell: The True Meaning of a Power Vacuum in Washington](https://ai.trend.dmomo.co.kr/2026/07/the-republican-party-without-mitch.html) <br/>
-[2026/07/07 - Quantum Computing Revolution Transformed by Majorana 2 Topological Qubits, Targeting Commercialization by 2029](https://ai.trend.dmomo.co.kr/2026/07/quantum-computing-revolution.html) <br/>
+[2026/07/09 - 5 Secrets to Building Complete Apps Using Only Natural Language with Power Apps Copilot in 2026](https://ai.trend.dmomo.co.kr/2026/07/5-secrets-to-building-complete-apps.html) <br/>
+[2026/07/09 - Youn Yuh-jung Nominated for Emmy! Making New History Beyond the Oscars in TV](https://ai.trend.dmomo.co.kr/2026/07/youn-yuh-jung-nominated-for-emmy-making.html) <br/>
+[2026/07/09 - Complete Analysis of the Cultural Daily's Digital Strategy: Survival Tactics of a Conservative Daily Newspaper in Short-Form and Portals](https://ai.trend.dmomo.co.kr/2026/07/complete-analysis-of-cultural-dailys.html) <br/>
+[2026/07/08 - The Shocking Truth About Jeon Won-joo's Infidelity Letter and Will Revealed on YouTube](https://ai.trend.dmomo.co.kr/2026/07/the-shocking-truth-about-jeon-won-joos.html) <br/>
+[2026/07/08 - Fitness YouTuber Connor Murphy's Alleged Drowning Death in Thailand: The Truth Revealed So Far](https://ai.trend.dmomo.co.kr/2026/07/fitness-youtuber-connor-murphys-alleged.html) <br/>
+[2026/07/08 - The Crisis of Ma Dong-seok and Ma Seok-do Brands: The Fallout from the Police Drunk Driving Incident Involving the Actual Model](https://ai.trend.dmomo.co.kr/2026/07/the-crisis-of-ma-dong-seok-and-ma-seok.html) <br/>
