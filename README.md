@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/07/09 - 2026년 Power Apps Copilot으로 자연어만으로 완성 앱 만드는 5단계 비밀](https://blog.ai.dmomo.co.kr/tech/29406) <br/>
-[2026/07/09 - 윤여정 에미상 후보 지명! 오스카 넘어 TV까지 새 역사 쓴다](https://blog.ai.dmomo.co.kr/trend/29404) <br/>
-[2026/07/09 - 문화일보 디지털 전략 완전분석: 보수 일간지의 숏폼·포털 생존법](https://blog.ai.dmomo.co.kr/trend/29402) <br/>
-[2026/07/08 - 전원주가 유튜브에서 공개한 외도 편지와 유서, 그 충격적 진실](https://blog.ai.dmomo.co.kr/trend/29385) <br/>
-[2026/07/08 - 피트니스 유튜버 Connor Murphy 태국 익사 사망설, 현재까지 밝혀진 진실](https://blog.ai.dmomo.co.kr/trend/29370) <br/>
+[2026/07/10 - 2024년 주목해야 할 eBPF 기반 OpenTelemetry 프로파일링 핵심 기술과 보안 이슈](https://blog.ai.dmomo.co.kr/tech/29469) <br/>
+[2026/07/10 - 보니 타일러 별세, Total Eclipse of the Heart가 남긴 80년대 전설](https://blog.ai.dmomo.co.kr/trend/29467) <br/>
+[2026/07/10 - 이경실 KTX 소음 사과로 본 중년 셀럽의 SNS 이미지 전략](https://blog.ai.dmomo.co.kr/trend/29465) <br/>
+[2026/07/09 - 케이틀린 클라크 복귀전! Fever vs Sparks 완벽 분석과 관전 포인트](https://blog.ai.dmomo.co.kr/trend/29430) <br/>
+[2026/07/09 - 2024 과일 트렌드 완전 분석: 가격·건강·마케팅 핵심 인사이트 5가지](https://blog.ai.dmomo.co.kr/trend/29428) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/07/10 - Key eBPF-Based OpenTelemetry Profiling Technologies and Security Issues to Watch in 2024](https://ai.trend.dmomo.co.kr/2026/07/key-ebpf-based-opentelemetry-profiling.html) <br/>
+[2026/07/10 - Sound Management Strategies of Middle-Aged Celebrities on Social Media: A Case Study of Lee Kyung-sil's KTX Noise Apology](https://ai.trend.dmomo.co.kr/2026/07/sound-management-strategies-of-middle.html) <br/>
+[2026/07/10 - The Passing of Bonnie Tyler: The Legend of the '80s Left by Total Eclipse of the Heart](https://ai.trend.dmomo.co.kr/2026/07/the-passing-of-bonnie-tyler-legend-of.html) <br/>
+[2026/07/09 - Caitlin Clark's Comeback! Perfect Analysis and Key Highlights of Fever vs Sparks](https://ai.trend.dmomo.co.kr/2026/07/caitlin-clarks-comeback-perfect.html) <br/>
+[2026/07/09 - Complete Analysis of 2024 Fruit Trends: 5 Key Insights on Price, Health, and Marketing](https://ai.trend.dmomo.co.kr/2026/07/complete-analysis-of-2024-fruit-trends.html) <br/>
 [2026/07/09 - 5 Secrets to Building Complete Apps Using Only Natural Language with Power Apps Copilot in 2026](https://ai.trend.dmomo.co.kr/2026/07/5-secrets-to-building-complete-apps.html) <br/>
-[2026/07/09 - Youn Yuh-jung Nominated for Emmy! Making New History Beyond the Oscars in TV](https://ai.trend.dmomo.co.kr/2026/07/youn-yuh-jung-nominated-for-emmy-making.html) <br/>
-[2026/07/09 - Complete Analysis of the Cultural Daily's Digital Strategy: Survival Tactics of a Conservative Daily Newspaper in Short-Form and Portals](https://ai.trend.dmomo.co.kr/2026/07/complete-analysis-of-cultural-dailys.html) <br/>
-[2026/07/08 - The Shocking Truth About Jeon Won-joo's Infidelity Letter and Will Revealed on YouTube](https://ai.trend.dmomo.co.kr/2026/07/the-shocking-truth-about-jeon-won-joos.html) <br/>
-[2026/07/08 - Fitness YouTuber Connor Murphy's Alleged Drowning Death in Thailand: The Truth Revealed So Far](https://ai.trend.dmomo.co.kr/2026/07/fitness-youtuber-connor-murphys-alleged.html) <br/>
-[2026/07/08 - The Crisis of Ma Dong-seok and Ma Seok-do Brands: The Fallout from the Police Drunk Driving Incident Involving the Actual Model](https://ai.trend.dmomo.co.kr/2026/07/the-crisis-of-ma-dong-seok-and-ma-seok.html) <br/>
