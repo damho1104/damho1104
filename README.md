@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/07/10 - 2024년 주목해야 할 eBPF 기반 OpenTelemetry 프로파일링 핵심 기술과 보안 이슈](https://blog.ai.dmomo.co.kr/tech/29469) <br/>
-[2026/07/10 - 보니 타일러 별세, Total Eclipse of the Heart가 남긴 80년대 전설](https://blog.ai.dmomo.co.kr/trend/29467) <br/>
-[2026/07/10 - 이경실 KTX 소음 사과로 본 중년 셀럽의 SNS 이미지 전략](https://blog.ai.dmomo.co.kr/trend/29465) <br/>
-[2026/07/09 - 케이틀린 클라크 복귀전! Fever vs Sparks 완벽 분석과 관전 포인트](https://blog.ai.dmomo.co.kr/trend/29430) <br/>
-[2026/07/09 - 2024 과일 트렌드 완전 분석: 가격·건강·마케팅 핵심 인사이트 5가지](https://blog.ai.dmomo.co.kr/trend/29428) <br/>
+[2026/07/11 - 2026년 주목! Supermicro 쿠버네티스 엣지 AI 턴키 플랫폼의 혁신 5가지](https://blog.ai.dmomo.co.kr/tech/29538) <br/>
+[2026/07/11 - 메리노 결승골로 스페인, 벨기에 2-1 격파! 프랑스와 준결승 확정](https://blog.ai.dmomo.co.kr/trend/29536) <br/>
+[2026/07/11 - FT아일랜드 송승현 득남, 아이돌에서 배우·아빠가 되기까지](https://blog.ai.dmomo.co.kr/trend/29534) <br/>
+[2026/07/10 - 미·이란 충돌·SK하이닉스 IPO·의료 오판까지, 미국 뉴스 총정리](https://blog.ai.dmomo.co.kr/trend/29511) <br/>
+[2026/07/10 - FT아일랜드 송승현 득남! 은퇴 후 미국에서 아빠가 된 근황](https://blog.ai.dmomo.co.kr/trend/29509) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/07/11 - Top 5 Innovations of Supermicro’s Kubernetes Edge AI Turnkey Platform to Watch in 2026](https://ai.trend.dmomo.co.kr/2026/07/top-5-innovations-of-supermicros.html) <br/>
+[2026/07/11 - Spain Secures 2-1 Victory Over Belgium with Merino's Winning Goal! Semifinal Place Confirmed Against France](https://ai.trend.dmomo.co.kr/2026/07/spain-secures-2-1-victory-over-belgium.html) <br/>
+[2026/07/11 - FT Island’s Song Seung-hyun Welcomes a Son: From Idol to Actor and Now a Dad](https://ai.trend.dmomo.co.kr/2026/07/ft-islands-song-seung-hyun-welcomes-son.html) <br/>
+[2026/07/10 - US News Roundup: US-Iran Tensions, SK Hynix IPO, and Medical Misdiagnoses](https://ai.trend.dmomo.co.kr/2026/07/us-news-roundup-us-iran-tensions-sk.html) <br/>
+[2026/07/10 - FT Island's Song Seung-hyun Welcomes Baby Boy! Life as a Dad After Retirement in the U.S.](https://ai.trend.dmomo.co.kr/2026/07/ft-islands-song-seung-hyun-welcomes.html) <br/>
 [2026/07/10 - Key eBPF-Based OpenTelemetry Profiling Technologies and Security Issues to Watch in 2024](https://ai.trend.dmomo.co.kr/2026/07/key-ebpf-based-opentelemetry-profiling.html) <br/>
-[2026/07/10 - Sound Management Strategies of Middle-Aged Celebrities on Social Media: A Case Study of Lee Kyung-sil's KTX Noise Apology](https://ai.trend.dmomo.co.kr/2026/07/sound-management-strategies-of-middle.html) <br/>
-[2026/07/10 - The Passing of Bonnie Tyler: The Legend of the '80s Left by Total Eclipse of the Heart](https://ai.trend.dmomo.co.kr/2026/07/the-passing-of-bonnie-tyler-legend-of.html) <br/>
-[2026/07/09 - Caitlin Clark's Comeback! Perfect Analysis and Key Highlights of Fever vs Sparks](https://ai.trend.dmomo.co.kr/2026/07/caitlin-clarks-comeback-perfect.html) <br/>
-[2026/07/09 - Complete Analysis of 2024 Fruit Trends: 5 Key Insights on Price, Health, and Marketing](https://ai.trend.dmomo.co.kr/2026/07/complete-analysis-of-2024-fruit-trends.html) <br/>
-[2026/07/09 - 5 Secrets to Building Complete Apps Using Only Natural Language with Power Apps Copilot in 2026](https://ai.trend.dmomo.co.kr/2026/07/5-secrets-to-building-complete-apps.html) <br/>
