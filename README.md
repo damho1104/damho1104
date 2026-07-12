@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/07/11 - 2026년 주목! Supermicro 쿠버네티스 엣지 AI 턴키 플랫폼의 혁신 5가지](https://blog.ai.dmomo.co.kr/tech/29538) <br/>
-[2026/07/11 - 메리노 결승골로 스페인, 벨기에 2-1 격파! 프랑스와 준결승 확정](https://blog.ai.dmomo.co.kr/trend/29536) <br/>
-[2026/07/11 - FT아일랜드 송승현 득남, 아이돌에서 배우·아빠가 되기까지](https://blog.ai.dmomo.co.kr/trend/29534) <br/>
-[2026/07/10 - 미·이란 충돌·SK하이닉스 IPO·의료 오판까지, 미국 뉴스 총정리](https://blog.ai.dmomo.co.kr/trend/29511) <br/>
-[2026/07/10 - FT아일랜드 송승현 득남! 은퇴 후 미국에서 아빠가 된 근황](https://blog.ai.dmomo.co.kr/trend/29509) <br/>
+[2026/07/12 - 2026년 클라우드 보안 혁신, GenAI Security 컨텍스트 기반 LLM 기술의 5가지 핵심 전략](https://blog.ai.dmomo.co.kr/tech/29595) <br/>
+[2026/07/12 - 2026 월드컵·NATO·교육까지, 지금 노르웨이에서 무슨 일이?](https://blog.ai.dmomo.co.kr/trend/29593) <br/>
+[2026/07/12 - 홀란드 vs 케인, 2026 월드컵 8강 노르웨이vs잉글랜드 승자는?](https://blog.ai.dmomo.co.kr/trend/29591) <br/>
+[2026/07/11 - 2026년 한국 병사 트렌드 7가지: 월급부터 AI 전쟁까지](https://blog.ai.dmomo.co.kr/trend/29574) <br/>
+[2026/07/11 - 기후변화가 바꾼 태풍의 모든 것: 과학·도시·비즈니스·문화 총정리](https://blog.ai.dmomo.co.kr/trend/29559) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/07/11 - Top 5 Innovations of Supermicro’s Kubernetes Edge AI Turnkey Platform to Watch in 2026](https://ai.trend.dmomo.co.kr/2026/07/top-5-innovations-of-supermicros.html) <br/>
-[2026/07/11 - Spain Secures 2-1 Victory Over Belgium with Merino's Winning Goal! Semifinal Place Confirmed Against France](https://ai.trend.dmomo.co.kr/2026/07/spain-secures-2-1-victory-over-belgium.html) <br/>
-[2026/07/11 - FT Island’s Song Seung-hyun Welcomes a Son: From Idol to Actor and Now a Dad](https://ai.trend.dmomo.co.kr/2026/07/ft-islands-song-seung-hyun-welcomes-son.html) <br/>
-[2026/07/10 - US News Roundup: US-Iran Tensions, SK Hynix IPO, and Medical Misdiagnoses](https://ai.trend.dmomo.co.kr/2026/07/us-news-roundup-us-iran-tensions-sk.html) <br/>
-[2026/07/10 - FT Island's Song Seung-hyun Welcomes Baby Boy! Life as a Dad After Retirement in the U.S.](https://ai.trend.dmomo.co.kr/2026/07/ft-islands-song-seung-hyun-welcomes.html) <br/>
-[2026/07/10 - Key eBPF-Based OpenTelemetry Profiling Technologies and Security Issues to Watch in 2024](https://ai.trend.dmomo.co.kr/2026/07/key-ebpf-based-opentelemetry-profiling.html) <br/>
+[2026/07/12 - Five Key Strategies for Cloud Security Innovation in 2026: Context-Aware LLM Technology with GenAI Security](https://ai.trend.dmomo.co.kr/2026/07/five-key-strategies-for-cloud-security.html) <br/>
+[2026/07/12 - What's Happening in Norway Now? 2026 World Cup, NATO, Education, and More!](https://ai.trend.dmomo.co.kr/2026/07/whats-happening-in-norway-now-2026.html) <br/>
+[2026/07/12 - Haaland vs Kane: Who Will Win the Quarterfinals - Norway vs England in the 2026 World Cup?](https://ai.trend.dmomo.co.kr/2026/07/haaland-vs-kane-who-will-win.html) <br/>
+[2026/07/11 - 7 Trends for Korean Soldiers in 2026: From Salaries to AI Warfare](https://ai.trend.dmomo.co.kr/2026/07/7-trends-for-korean-soldiers-in-2026.html) <br/>
+[2026/07/11 - Everything About Typhoons Changed by Climate Change: A Comprehensive Overview of Science, Cities, Business, and Culture](https://ai.trend.dmomo.co.kr/2026/07/everything-about-typhoons-changed-by.html) <br/>
+[2026/07/11 - Actor Randolph Mantooth Passes Away: The Legacy of Johnny Gage and His Impact on American Emergency Medical Culture](https://ai.trend.dmomo.co.kr/2026/07/actor-randolph-mantooth-passes-away.html) <br/>
