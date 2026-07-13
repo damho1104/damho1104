@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/07/12 - 2026년 클라우드 보안 혁신, GenAI Security 컨텍스트 기반 LLM 기술의 5가지 핵심 전략](https://blog.ai.dmomo.co.kr/tech/29595) <br/>
-[2026/07/12 - 2026 월드컵·NATO·교육까지, 지금 노르웨이에서 무슨 일이?](https://blog.ai.dmomo.co.kr/trend/29593) <br/>
-[2026/07/12 - 홀란드 vs 케인, 2026 월드컵 8강 노르웨이vs잉글랜드 승자는?](https://blog.ai.dmomo.co.kr/trend/29591) <br/>
-[2026/07/11 - 2026년 한국 병사 트렌드 7가지: 월급부터 AI 전쟁까지](https://blog.ai.dmomo.co.kr/trend/29574) <br/>
-[2026/07/11 - 기후변화가 바꾼 태풍의 모든 것: 과학·도시·비즈니스·문화 총정리](https://blog.ai.dmomo.co.kr/trend/29559) <br/>
+[2026/07/13 - 린지 그레이엄 사망, 미국 외교안보 판도와 2026 상원선거 어떻게 바뀌나](https://blog.ai.dmomo.co.kr/trend/29664) <br/>
+[2026/07/13 - 2026년 혁신 AWS Lambda MicroVMs가 서버리스 AI·장기 작업 판도를 바꾸는 5가지 이유](https://blog.ai.dmomo.co.kr/tech/29663) <br/>
+[2026/07/13 - 한국전이 마지막 경기…남아공 애덤스 25세 비극적 사망](https://blog.ai.dmomo.co.kr/trend/29661) <br/>
+[2026/07/12 - 린지 그레이엄 갑작스러운 사망, 미국 외교안보 정책 어디로 가나](https://blog.ai.dmomo.co.kr/trend/29637) <br/>
+[2026/07/12 - 바파나 바파나의 기적과 비극: 월드컵 첫 토너먼트 진출과 25세 스타의 죽음](https://blog.ai.dmomo.co.kr/trend/29635) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/07/12 - Five Key Strategies for Cloud Security Innovation in 2026: Context-Aware LLM Technology with GenAI Security](https://ai.trend.dmomo.co.kr/2026/07/five-key-strategies-for-cloud-security.html) <br/>
-[2026/07/12 - What's Happening in Norway Now? 2026 World Cup, NATO, Education, and More!](https://ai.trend.dmomo.co.kr/2026/07/whats-happening-in-norway-now-2026.html) <br/>
-[2026/07/12 - Haaland vs Kane: Who Will Win the Quarterfinals - Norway vs England in the 2026 World Cup?](https://ai.trend.dmomo.co.kr/2026/07/haaland-vs-kane-who-will-win.html) <br/>
-[2026/07/11 - 7 Trends for Korean Soldiers in 2026: From Salaries to AI Warfare](https://ai.trend.dmomo.co.kr/2026/07/7-trends-for-korean-soldiers-in-2026.html) <br/>
-[2026/07/11 - Everything About Typhoons Changed by Climate Change: A Comprehensive Overview of Science, Cities, Business, and Culture](https://ai.trend.dmomo.co.kr/2026/07/everything-about-typhoons-changed-by.html) <br/>
-[2026/07/11 - Actor Randolph Mantooth Passes Away: The Legacy of Johnny Gage and His Impact on American Emergency Medical Culture](https://ai.trend.dmomo.co.kr/2026/07/actor-randolph-mantooth-passes-away.html) <br/>
+[2026/07/13 - 5 Reasons Why AWS Lambda MicroVMs Will Revolutionize Serverless AI and Long-Running Tasks in 2026](https://ai.trend.dmomo.co.kr/2026/07/5-reasons-why-aws-lambda-microvms-will.html) <br/>
+[2026/07/13 - Lindsey Graham's Death: How Will It Change the U.S. Foreign Policy Landscape and the 2026 Senate Elections?](https://ai.trend.dmomo.co.kr/2026/07/lindsey-grahams-death-how-will-it.html) <br/>
+[2026/07/13 - Korean War's Final Match... Tragic Death of 25-Year-Old Adams from South Africa](https://ai.trend.dmomo.co.kr/2026/07/korean-wars-final-match-tragic-death-of.html) <br/>
+[2026/07/12 - Lindsey Graham's Sudden Death: Where is U.S. Foreign Security Policy Headed?](https://ai.trend.dmomo.co.kr/2026/07/lindsey-grahams-sudden-death-where-is.html) <br/>
+[2026/07/12 - The Miracle and Tragedy of Bafana Bafana: First World Cup Knockout Stage and the Death of a 25-Year-Old Star](https://ai.trend.dmomo.co.kr/2026/07/the-miracle-and-tragedy-of-bafana.html) <br/>
+[2026/07/12 - Argentina vs Switzerland Semifinal: Messi's Return and AI Prediction Winning Chances?](https://ai.trend.dmomo.co.kr/2026/07/argentina-vs-switzerland-semifinal.html) <br/>
