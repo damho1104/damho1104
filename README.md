@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/07/13 - 린지 그레이엄 사망, 미국 외교안보 판도와 2026 상원선거 어떻게 바뀌나](https://blog.ai.dmomo.co.kr/trend/29664) <br/>
-[2026/07/13 - 2026년 혁신 AWS Lambda MicroVMs가 서버리스 AI·장기 작업 판도를 바꾸는 5가지 이유](https://blog.ai.dmomo.co.kr/tech/29663) <br/>
-[2026/07/13 - 한국전이 마지막 경기…남아공 애덤스 25세 비극적 사망](https://blog.ai.dmomo.co.kr/trend/29661) <br/>
-[2026/07/12 - 린지 그레이엄 갑작스러운 사망, 미국 외교안보 정책 어디로 가나](https://blog.ai.dmomo.co.kr/trend/29637) <br/>
-[2026/07/12 - 바파나 바파나의 기적과 비극: 월드컵 첫 토너먼트 진출과 25세 스타의 죽음](https://blog.ai.dmomo.co.kr/trend/29635) <br/>
+[2026/07/14 - 쥬라기 공원의 전설 샘 닐 별세, 78세에 생을 마감한 이유는?](https://blog.ai.dmomo.co.kr/trend/29733) <br/>
+[2026/07/14 - 2026년 주목할 GPT-5.6 특징과 비용 대비 성능 혁신 전략은?](https://blog.ai.dmomo.co.kr/tech/29732) <br/>
+[2026/07/14 - 속초시 민생지원금 20만원 지급 대상·신청 방법 총정리](https://blog.ai.dmomo.co.kr/trend/29730) <br/>
+[2026/07/13 - 2026년 민생지원금 총정리: 내가 받을 수 있는 금액은?](https://blog.ai.dmomo.co.kr/trend/29710) <br/>
+[2026/07/13 - 쥬라기공원 Dr. 그랜트 샘 닐 78세 별세, 혈액암 완치 후 떠난 전설](https://blog.ai.dmomo.co.kr/trend/29708) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/07/13 - 5 Reasons Why AWS Lambda MicroVMs Will Revolutionize Serverless AI and Long-Running Tasks in 2026](https://ai.trend.dmomo.co.kr/2026/07/5-reasons-why-aws-lambda-microvms-will.html) <br/>
-[2026/07/13 - Lindsey Graham's Death: How Will It Change the U.S. Foreign Policy Landscape and the 2026 Senate Elections?](https://ai.trend.dmomo.co.kr/2026/07/lindsey-grahams-death-how-will-it.html) <br/>
-[2026/07/13 - Korean War's Final Match... Tragic Death of 25-Year-Old Adams from South Africa](https://ai.trend.dmomo.co.kr/2026/07/korean-wars-final-match-tragic-death-of.html) <br/>
-[2026/07/12 - Lindsey Graham's Sudden Death: Where is U.S. Foreign Security Policy Headed?](https://ai.trend.dmomo.co.kr/2026/07/lindsey-grahams-sudden-death-where-is.html) <br/>
-[2026/07/12 - The Miracle and Tragedy of Bafana Bafana: First World Cup Knockout Stage and the Death of a 25-Year-Old Star](https://ai.trend.dmomo.co.kr/2026/07/the-miracle-and-tragedy-of-bafana.html) <br/>
-[2026/07/12 - Argentina vs Switzerland Semifinal: Messi's Return and AI Prediction Winning Chances?](https://ai.trend.dmomo.co.kr/2026/07/argentina-vs-switzerland-semifinal.html) <br/>
+[2026/07/14 - Key Features and Cost-Performance Innovation Strategies of GPT-5.6 to Watch in 2026](https://ai.trend.dmomo.co.kr/2026/07/key-features-and-cost-performance.html) <br/>
+[2026/07/14 - Legend of Jurassic Park: Why Sam Neill Passed Away at the Age of 78?](https://ai.trend.dmomo.co.kr/2026/07/legend-of-jurassic-park-why-sam-neill.html) <br/>
+[2026/07/14 - 2023 Sokcho City Living Support Fund: Eligibility and Application Guide](https://ai.trend.dmomo.co.kr/2026/07/2023-sokcho-city-living-support-fund.html) <br/>
+[2026/07/13 - 2026 Comprehensive Guide to Living Support Funds: How Much Can I Receive?](https://ai.trend.dmomo.co.kr/2026/07/2026-comprehensive-guide-to-living.html) <br/>
+[2026/07/13 - Jurassic Park's Dr. Grant Sam Neill Passes Away at 78, Leaves Behind a Legacy After Overcoming Blood Cancer](https://ai.trend.dmomo.co.kr/2026/07/jurassic-parks-dr-grant-sam-neill.html) <br/>
+[2026/07/13 - 6 Parenting Trends for 2026: From AI-Assisted Child Rearing to Gen Z Spending Habits](https://ai.trend.dmomo.co.kr/2026/07/6-parenting-trends-for-2026-from-ai.html) <br/>
