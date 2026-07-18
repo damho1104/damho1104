@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/07/17 - GPT-5.6 시대 도래: AI 접근 제한부터 반도체·에너지 혁명까지 5가지 핵심 변화](https://blog.ai.dmomo.co.kr/tech/29935) <br/>
-[2026/07/17 - 박지성·이영표 저격한 서강일, 한국 축구 기득권의 민낯](https://blog.ai.dmomo.co.kr/trend/29933) <br/>
-[2026/07/17 - 트럼프 대통령 오늘 밤 생중계 연설 시간 및 시청 방법 총정리](https://blog.ai.dmomo.co.kr/trend/29931) <br/>
-[2026/07/16 - 박지성·이영표가 뭘 안다고? 서강일의 충격 발언과 한국 축구 권력 전쟁](https://blog.ai.dmomo.co.kr/trend/29911) <br/>
-[2026/07/16 - 스포츠조선 콘텐츠 전략 완전 분석: 디지털 미디어로 진화한 비결](https://blog.ai.dmomo.co.kr/trend/29893) <br/>
+[2026/07/18 - 2026년 에이전틱 AI 시대를 바꾸는 AI PaaS와 네이티브 인프라 전략 5가지](https://blog.ai.dmomo.co.kr/tech/30007) <br/>
+[2026/07/18 - 하룻밤 3억8천만원 폭발! 정청래 현상이 보여주는 팬덤 정치의 민낯](https://blog.ai.dmomo.co.kr/trend/30005) <br/>
+[2026/07/18 - 다저스 vs 양키스 2026 후반기 개막 빅매치, 왕조의 자존심 대결](https://blog.ai.dmomo.co.kr/trend/30003) <br/>
+[2026/07/17 - 타코벨 양상추 기생충 파동, 미국 7000명 감염 Taylor Farms 사태 총정리](https://blog.ai.dmomo.co.kr/trend/29983) <br/>
+[2026/07/17 - 기초연금 개편의 핵심, 중위소득과 기준 중위소득 차이 총정리](https://blog.ai.dmomo.co.kr/trend/29981) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/07/17 - The Arrival of the GPT-5.6 Era: 5 Key Transformations from AI Access Limits to Semiconductor and Energy Revolutions](https://ai.trend.dmomo.co.kr/2026/07/the-arrival-of-gpt-56-era-5-key.html) <br/>
-[2026/07/17 - Seo Kang-il Criticizes Park Ji-sung and Lee Young-pyo: The Bare Face of Korean Football's Establishment](https://ai.trend.dmomo.co.kr/2026/07/seo-kang-il-criticizes-park-ji-sung-and.html) <br/>
-[2026/07/17 - Summary of President Trump's Live Broadcast Speech Time and Viewing Methods Tonight](https://ai.trend.dmomo.co.kr/2026/07/summary-of-president-trumps-live.html) <br/>
-[2026/07/16 - What Do Park Ji-sung and Lee Young-pyo Know? Seo Gang-il's Shocking Statement and the Power Struggle in Korean Football](https://ai.trend.dmomo.co.kr/2026/07/what-do-park-ji-sung-and-lee-young-pyo.html) <br/>
-[2026/07/16 - Complete Analysis of Sports Chosun's Content Strategy: The Secret to Evolving into Digital Media](https://ai.trend.dmomo.co.kr/2026/07/complete-analysis-of-sports-chosuns.html) <br/>
-[2026/07/16 - Canadian Wildfires Blanket U.S. Skies: A Comprehensive Summary of Eastern Air Quality Crisis](https://ai.trend.dmomo.co.kr/2026/07/canadian-wildfires-blanket-us-skies.html) <br/>
+[2026/07/18 - 5 Game-Changing AI PaaS and Native Infrastructure Strategies Transforming the Agentic AI Era in 2026](https://ai.trend.dmomo.co.kr/2026/07/5-game-changing-ai-paas-and-native.html) <br/>
+[2026/07/18 - 380 Million Won Overnight Explosion! The Reality of Fandom Politics Revealed by Jeong Cheong-rae](https://ai.trend.dmomo.co.kr/2026/07/380-million-won-overnight-explosion.html) <br/>
+[2026/07/18 - Dodgers vs Yankees: The Epic Showdown of Legacy in the Second Half of 2026](https://ai.trend.dmomo.co.kr/2026/07/dodgers-vs-yankees-epic-showdown-of.html) <br/>
+[2026/07/17 - Taco Bell Lettuce Parasite Outbreak: Summary of the Taylor Farms Incident Affecting 7,000 People in the U.S.](https://ai.trend.dmomo.co.kr/2026/07/taco-bell-lettuce-parasite-outbreak.html) <br/>
+[2026/07/17 - Key Aspects of Basic Pension Reform: A Comprehensive Guide to Median Income and the Difference Between Average Median Income](https://ai.trend.dmomo.co.kr/2026/07/key-aspects-of-basic-pension-reform.html) <br/>
+[2026/07/17 - Summary of Trump's Speech to the Nation: Three Key Points on Election Fraud, Chinese Interference, and Election Law Reform](https://ai.trend.dmomo.co.kr/2026/07/summary-of-trumps-speech-to-nation.html) <br/>
