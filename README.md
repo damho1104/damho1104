@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/07/19 - 2026년 LLM 혁신, Anthropic 글로벌 워크스페이스가 바꾸는 AI 신뢰도 경쟁법](https://blog.ai.dmomo.co.kr/tech/30055) <br/>
+[2026/07/19 - 사카 해트트릭·음바페 신기록이 터진 2026 월드컵 최고의 10골 난타전](https://blog.ai.dmomo.co.kr/trend/30053) <br/>
+[2026/07/19 - 잉글랜드 6-4 프랑스, 10골 난타전과 음바페 월드컵 최다 득점 신기록](https://blog.ai.dmomo.co.kr/trend/30051) <br/>
+[2026/07/18 - 김종국 극비 결혼 후 좋은 소식 예고, 테스토스테론 9.96 헬스 새신랑의 진화](https://blog.ai.dmomo.co.kr/trend/30025) <br/>
 [2026/07/18 - 2026년 에이전틱 AI 시대를 바꾸는 AI PaaS와 네이티브 인프라 전략 5가지](https://blog.ai.dmomo.co.kr/tech/30007) <br/>
-[2026/07/18 - 하룻밤 3억8천만원 폭발! 정청래 현상이 보여주는 팬덤 정치의 민낯](https://blog.ai.dmomo.co.kr/trend/30005) <br/>
-[2026/07/18 - 다저스 vs 양키스 2026 후반기 개막 빅매치, 왕조의 자존심 대결](https://blog.ai.dmomo.co.kr/trend/30003) <br/>
-[2026/07/17 - 타코벨 양상추 기생충 파동, 미국 7000명 감염 Taylor Farms 사태 총정리](https://blog.ai.dmomo.co.kr/trend/29983) <br/>
-[2026/07/17 - 기초연금 개편의 핵심, 중위소득과 기준 중위소득 차이 총정리](https://blog.ai.dmomo.co.kr/trend/29981) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/07/19 - 2026 LLM Innovations: How Anthropic's Global Workspace is Redefining AI Trustworthiness Competition](https://ai.trend.dmomo.co.kr/2026/07/2026-llm-innovations-how-anthropics.html) <br/>
+[2026/07/19 - Top 10 Goal Frenzy of the 2026 World Cup: Sakai's Hat-trick and Mbappe's Record-Breaking Feats](https://ai.trend.dmomo.co.kr/2026/07/top-10-goal-frenzy-of-2026-world-cup.html) <br/>
+[2026/07/19 - England 6-4 France: A Goal-Fest and Mbappé's Record-Breaking World Cup Performance](https://ai.trend.dmomo.co.kr/2026/07/england-6-4-france-goal-fest-and.html) <br/>
+[2026/07/18 - Kim Jong-kook's Secret Marriage and Good News Announcement: The Evolving Health of the New Groom with a Testosterone Level of 9.96](https://ai.trend.dmomo.co.kr/2026/07/kim-jong-kooks-secret-marriage-and-good.html) <br/>
 [2026/07/18 - 5 Game-Changing AI PaaS and Native Infrastructure Strategies Transforming the Agentic AI Era in 2026](https://ai.trend.dmomo.co.kr/2026/07/5-game-changing-ai-paas-and-native.html) <br/>
 [2026/07/18 - 380 Million Won Overnight Explosion! The Reality of Fandom Politics Revealed by Jeong Cheong-rae](https://ai.trend.dmomo.co.kr/2026/07/380-million-won-overnight-explosion.html) <br/>
-[2026/07/18 - Dodgers vs Yankees: The Epic Showdown of Legacy in the Second Half of 2026](https://ai.trend.dmomo.co.kr/2026/07/dodgers-vs-yankees-epic-showdown-of.html) <br/>
-[2026/07/17 - Taco Bell Lettuce Parasite Outbreak: Summary of the Taylor Farms Incident Affecting 7,000 People in the U.S.](https://ai.trend.dmomo.co.kr/2026/07/taco-bell-lettuce-parasite-outbreak.html) <br/>
-[2026/07/17 - Key Aspects of Basic Pension Reform: A Comprehensive Guide to Median Income and the Difference Between Average Median Income](https://ai.trend.dmomo.co.kr/2026/07/key-aspects-of-basic-pension-reform.html) <br/>
-[2026/07/17 - Summary of Trump's Speech to the Nation: Three Key Points on Election Fraud, Chinese Interference, and Election Law Reform](https://ai.trend.dmomo.co.kr/2026/07/summary-of-trumps-speech-to-nation.html) <br/>
