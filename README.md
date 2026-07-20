@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/07/19 - 2026년 LLM 혁신, Anthropic 글로벌 워크스페이스가 바꾸는 AI 신뢰도 경쟁법](https://blog.ai.dmomo.co.kr/tech/30055) <br/>
-[2026/07/19 - 사카 해트트릭·음바페 신기록이 터진 2026 월드컵 최고의 10골 난타전](https://blog.ai.dmomo.co.kr/trend/30053) <br/>
-[2026/07/19 - 잉글랜드 6-4 프랑스, 10골 난타전과 음바페 월드컵 최다 득점 신기록](https://blog.ai.dmomo.co.kr/trend/30051) <br/>
-[2026/07/18 - 김종국 극비 결혼 후 좋은 소식 예고, 테스토스테론 9.96 헬스 새신랑의 진화](https://blog.ai.dmomo.co.kr/trend/30025) <br/>
-[2026/07/18 - 2026년 에이전틱 AI 시대를 바꾸는 AI PaaS와 네이티브 인프라 전략 5가지](https://blog.ai.dmomo.co.kr/tech/30007) <br/>
+[2026/07/20 - AWS Sustainability 워크로드별 물 사용량 데이터로 환경 메트릭 혁신하기 5단계 전략](https://blog.ai.dmomo.co.kr/tech/30127) <br/>
+[2026/07/20 - 메시의 라스트 댄스 완전 정복: 결승 패배부터 정치 논란까지](https://blog.ai.dmomo.co.kr/trend/30125) <br/>
+[2026/07/20 - 맞벌이가 생존 전략이 된 시대, 한국 부부의 돈·육아·현실 완전 분석](https://blog.ai.dmomo.co.kr/trend/30123) <br/>
+[2026/07/19 - 앤드루 테이트 마이애미 체포: 강간·인신매매 42개 혐의와 영국 송환의 전말](https://blog.ai.dmomo.co.kr/trend/30103) <br/>
+[2026/07/19 - 넷플릭스 동궁 완벽 분석: 글로벌 8위 K-오컬트 사극의 호불호 이유](https://blog.ai.dmomo.co.kr/trend/30100) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/07/19 - 2026 LLM Innovations: How Anthropic's Global Workspace is Redefining AI Trustworthiness Competition](https://ai.trend.dmomo.co.kr/2026/07/2026-llm-innovations-how-anthropics.html) <br/>
-[2026/07/19 - Top 10 Goal Frenzy of the 2026 World Cup: Sakai's Hat-trick and Mbappe's Record-Breaking Feats](https://ai.trend.dmomo.co.kr/2026/07/top-10-goal-frenzy-of-2026-world-cup.html) <br/>
-[2026/07/19 - England 6-4 France: A Goal-Fest and Mbappé's Record-Breaking World Cup Performance](https://ai.trend.dmomo.co.kr/2026/07/england-6-4-france-goal-fest-and.html) <br/>
-[2026/07/18 - Kim Jong-kook's Secret Marriage and Good News Announcement: The Evolving Health of the New Groom with a Testosterone Level of 9.96](https://ai.trend.dmomo.co.kr/2026/07/kim-jong-kooks-secret-marriage-and-good.html) <br/>
-[2026/07/18 - 5 Game-Changing AI PaaS and Native Infrastructure Strategies Transforming the Agentic AI Era in 2026](https://ai.trend.dmomo.co.kr/2026/07/5-game-changing-ai-paas-and-native.html) <br/>
-[2026/07/18 - 380 Million Won Overnight Explosion! The Reality of Fandom Politics Revealed by Jeong Cheong-rae](https://ai.trend.dmomo.co.kr/2026/07/380-million-won-overnight-explosion.html) <br/>
+[2026/07/20 - Innovating Environmental Metrics with AWS Sustainability: A 5-Step Strategy Using Workload Water Usage Data](https://ai.trend.dmomo.co.kr/2026/07/innovating-environmental-metrics-with.html) <br/>
+[2026/07/20 - Conquering Messi's Last Dance: From Final Defeat to Political Controversies](https://ai.trend.dmomo.co.kr/2026/07/conquering-messis-last-dance-from-final.html) <br/>
+[2026/07/20 - The Era Where Dual-Income is a Survival Strategy: A Complete Analysis of Money, Parenting, and Reality for Korean Couples](https://ai.trend.dmomo.co.kr/2026/07/the-era-where-dual-income-is-survival.html) <br/>
+[2026/07/19 - Andrew Tate's Miami Arrest: The Saga of 42 Charges Including Rape and Human Trafficking, and His Extradition to the UK](https://ai.trend.dmomo.co.kr/2026/07/andrew-tates-miami-arrest-saga-of-42.html) <br/>
+[2026/07/19 - A Comprehensive Analysis of Netflix's Donggoong: The Reasons Behind the Mixed Reception of the Global 8th Ranked K-Occult Historical Drama](https://ai.trend.dmomo.co.kr/2026/07/a-comprehensive-analysis-of-netflixs.html) <br/>
+[2026/07/19 - Actress Jo Yoon-hee: The Quiet Force Captivating the OTT Era with Graceful Living Performances](https://ai.trend.dmomo.co.kr/2026/07/actress-jo-yoon-hee-quiet-force.html) <br/>
