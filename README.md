@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/07/20 - AWS Sustainability 워크로드별 물 사용량 데이터로 환경 메트릭 혁신하기 5단계 전략](https://blog.ai.dmomo.co.kr/tech/30127) <br/>
-[2026/07/20 - 메시의 라스트 댄스 완전 정복: 결승 패배부터 정치 논란까지](https://blog.ai.dmomo.co.kr/trend/30125) <br/>
-[2026/07/20 - 맞벌이가 생존 전략이 된 시대, 한국 부부의 돈·육아·현실 완전 분석](https://blog.ai.dmomo.co.kr/trend/30123) <br/>
-[2026/07/19 - 앤드루 테이트 마이애미 체포: 강간·인신매매 42개 혐의와 영국 송환의 전말](https://blog.ai.dmomo.co.kr/trend/30103) <br/>
-[2026/07/19 - 넷플릭스 동궁 완벽 분석: 글로벌 8위 K-오컬트 사극의 호불호 이유](https://blog.ai.dmomo.co.kr/trend/30100) <br/>
+[2026/07/21 - 2026년 MLOps 혁신: 모델이 아닌 에이전트 중심 운영으로 전환하는 이유와 핵심 전략](https://blog.ai.dmomo.co.kr/tech/30196) <br/>
+[2026/07/21 - 월드컵 결승전 날 NORAD F-16이 뉴저지 하늘을 가른 이유](https://blog.ai.dmomo.co.kr/trend/30194) <br/>
+[2026/07/21 - 여론조사 완전 정복: 지지율 숫자 뒤에 숨은 진실과 AI 분석까지](https://blog.ai.dmomo.co.kr/trend/30192) <br/>
+[2026/07/20 - 2026 여론조사 트렌드: AI·빅데이터로 진화한 민심 읽기](https://blog.ai.dmomo.co.kr/trend/30172) <br/>
+[2026/07/20 - 알래스카항공 787-9 엔진 진동 비상회항, 대서양에서 무슨 일이?](https://blog.ai.dmomo.co.kr/trend/30170) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/07/20 - Innovating Environmental Metrics with AWS Sustainability: A 5-Step Strategy Using Workload Water Usage Data](https://ai.trend.dmomo.co.kr/2026/07/innovating-environmental-metrics-with.html) <br/>
-[2026/07/20 - Conquering Messi's Last Dance: From Final Defeat to Political Controversies](https://ai.trend.dmomo.co.kr/2026/07/conquering-messis-last-dance-from-final.html) <br/>
-[2026/07/20 - The Era Where Dual-Income is a Survival Strategy: A Complete Analysis of Money, Parenting, and Reality for Korean Couples](https://ai.trend.dmomo.co.kr/2026/07/the-era-where-dual-income-is-survival.html) <br/>
-[2026/07/19 - Andrew Tate's Miami Arrest: The Saga of 42 Charges Including Rape and Human Trafficking, and His Extradition to the UK](https://ai.trend.dmomo.co.kr/2026/07/andrew-tates-miami-arrest-saga-of-42.html) <br/>
-[2026/07/19 - A Comprehensive Analysis of Netflix's Donggoong: The Reasons Behind the Mixed Reception of the Global 8th Ranked K-Occult Historical Drama](https://ai.trend.dmomo.co.kr/2026/07/a-comprehensive-analysis-of-netflixs.html) <br/>
-[2026/07/19 - Actress Jo Yoon-hee: The Quiet Force Captivating the OTT Era with Graceful Living Performances](https://ai.trend.dmomo.co.kr/2026/07/actress-jo-yoon-hee-quiet-force.html) <br/>
+[2026/07/21 - 2026 MLOps Revolution: Why the Shift to Agent-Centric Operations Over Models Matters and Key Strategies](https://ai.trend.dmomo.co.kr/2026/07/2026-mlops-revolution-why-shift-to.html) <br/>
+[2026/07/21 - The Reason NORAD F-16s Soared Through New Jersey Skies on World Cup Final Day](https://ai.trend.dmomo.co.kr/2026/07/the-reason-norad-f-16s-soared-through.html) <br/>
+[2026/07/21 - Mastering Polls: Uncovering the Truth Behind Approval Ratings and AI Analysis](https://ai.trend.dmomo.co.kr/2026/07/mastering-polls-uncovering-truth-behind.html) <br/>
+[2026/07/20 - 2026 Polling Trends: Understanding Public Sentiment Evolving with AI and Big Data](https://ai.trend.dmomo.co.kr/2026/07/2026-polling-trends-understanding.html) <br/>
+[2026/07/20 - Alaska Airlines 787-9 Engine Vibration Emergency Landing: What Happened Over the Atlantic?](https://ai.trend.dmomo.co.kr/2026/07/alaska-airlines-787-9-engine-vibration.html) <br/>
+[2026/07/20 - Shakira Takes Over 2026 World Cup Final Halftime Show… The Legend at 49](https://ai.trend.dmomo.co.kr/2026/07/shakira-takes-over-2026-world-cup-final.html) <br/>
