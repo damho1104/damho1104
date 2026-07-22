@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/07/21 - ESPN, 생방송 중 NFL 해설가 Ryan Clark 해고한 충격적 사건의 전말](https://blog.ai.dmomo.co.kr/trend/30241) <br/>
+[2026/07/21 - 한화 vs KIA 3연전 전망: 강백호 없는 한화, 4위 KIA 넘을 수 있을까?](https://blog.ai.dmomo.co.kr/trend/30239) <br/>
+[2026/07/21 - 압록강 완벽 가이드: 역사·지정학·환경까지 한번에 읽는 경계의 강](https://blog.ai.dmomo.co.kr/trend/30223) <br/>
+[2026/07/21 - Avengers Doomsday 완벽 정리: RDJ 빌런 복귀부터 개봉일까지](https://blog.ai.dmomo.co.kr/trend/30221) <br/>
 [2026/07/21 - 2026년 MLOps 혁신: 모델이 아닌 에이전트 중심 운영으로 전환하는 이유와 핵심 전략](https://blog.ai.dmomo.co.kr/tech/30196) <br/>
-[2026/07/21 - 월드컵 결승전 날 NORAD F-16이 뉴저지 하늘을 가른 이유](https://blog.ai.dmomo.co.kr/trend/30194) <br/>
-[2026/07/21 - 여론조사 완전 정복: 지지율 숫자 뒤에 숨은 진실과 AI 분석까지](https://blog.ai.dmomo.co.kr/trend/30192) <br/>
-[2026/07/20 - 2026 여론조사 트렌드: AI·빅데이터로 진화한 민심 읽기](https://blog.ai.dmomo.co.kr/trend/30172) <br/>
-[2026/07/20 - 알래스카항공 787-9 엔진 진동 비상회항, 대서양에서 무슨 일이?](https://blog.ai.dmomo.co.kr/trend/30170) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/07/21 - The Shocking Details Behind ESPN's Firing of NFL Commentator Ryan Clark During Live Broadcast](https://ai.trend.dmomo.co.kr/2026/07/the-shocking-details-behind-espns.html) <br/>
+[2026/07/21 - Hanwha vs KIA Three-Game Series Preview: Can Hanwha Surpass 4th Place KIA Without Kang Baek-ho?](https://ai.trend.dmomo.co.kr/2026/07/hanwha-vs-kia-three-game-series-preview.html) <br/>
+[2026/07/21 - The Ultimate Guide to the Yalu River: Exploring History, Geopolitics, and Environment of the Border River](https://ai.trend.dmomo.co.kr/2026/07/the-ultimate-guide-to-yalu-river.html) <br/>
+[2026/07/21 - Complete Guide to Avengers Doomsday: From RDJ's Villain Return to Release Date](https://ai.trend.dmomo.co.kr/2026/07/complete-guide-to-avengers-doomsday.html) <br/>
 [2026/07/21 - 2026 MLOps Revolution: Why the Shift to Agent-Centric Operations Over Models Matters and Key Strategies](https://ai.trend.dmomo.co.kr/2026/07/2026-mlops-revolution-why-shift-to.html) <br/>
 [2026/07/21 - The Reason NORAD F-16s Soared Through New Jersey Skies on World Cup Final Day](https://ai.trend.dmomo.co.kr/2026/07/the-reason-norad-f-16s-soared-through.html) <br/>
-[2026/07/21 - Mastering Polls: Uncovering the Truth Behind Approval Ratings and AI Analysis](https://ai.trend.dmomo.co.kr/2026/07/mastering-polls-uncovering-truth-behind.html) <br/>
-[2026/07/20 - 2026 Polling Trends: Understanding Public Sentiment Evolving with AI and Big Data](https://ai.trend.dmomo.co.kr/2026/07/2026-polling-trends-understanding.html) <br/>
-[2026/07/20 - Alaska Airlines 787-9 Engine Vibration Emergency Landing: What Happened Over the Atlantic?](https://ai.trend.dmomo.co.kr/2026/07/alaska-airlines-787-9-engine-vibration.html) <br/>
-[2026/07/20 - Shakira Takes Over 2026 World Cup Final Halftime Show… The Legend at 49](https://ai.trend.dmomo.co.kr/2026/07/shakira-takes-over-2026-world-cup-final.html) <br/>
