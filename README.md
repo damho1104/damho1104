@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/07/26 - 2026년 핵심 기술 Edge AI 플랫폼이 산업 현장을 혁신하는 5가지 이유](https://blog.ai.dmomo.co.kr/tech/30338) <br/>
-[2026/07/26 - 나이라(NGN) 지금 안전한가? 미국 투자자가 꼭 알아야 할 3가지 리스크](https://blog.ai.dmomo.co.kr/trend/30336) <br/>
-[2026/07/26 - 조선 수표부터 기후위기까지, 청계천이 말하는 서울의 민낯](https://blog.ai.dmomo.co.kr/trend/30334) <br/>
-[2026/07/25 - 토니 로모 음주운전 체포, CBS 해설 커리어 위기 맞나?](https://blog.ai.dmomo.co.kr/trend/30317) <br/>
-[2026/07/25 - 정성호 법무장관 사의 표명, 검찰개혁의 균열인가 레임덕 신호탄인가](https://blog.ai.dmomo.co.kr/trend/30315) <br/>
+[2026/07/27 - 손흥민 3경기 연속골! LAFC 4-0 완승으로 서부 2위 도약](https://blog.ai.dmomo.co.kr/trend/30407) <br/>
+[2026/07/27 - 데이비드 존슨, 새 블랙 팬서로 낙점된 이유와 MCU의 미래](https://blog.ai.dmomo.co.kr/trend/30405) <br/>
+[2026/07/27 - 2026년 최신 양자컴퓨터 핵심기술: 수천 큐비트와 오류정정의 현재와 미래는?](https://blog.ai.dmomo.co.kr/tech/30403) <br/>
+[2026/07/26 - 새 블랙팬서 데이비드 존슨, T’Challa II로 MCU를 이어받다](https://blog.ai.dmomo.co.kr/trend/30365) <br/>
+[2026/07/26 - 손흥민 선제골! LAFC 전반 3-0 리드, 3경기 연속골 달성할까](https://blog.ai.dmomo.co.kr/trend/30363) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/07/27 - Son Heung-min Scores in Three Consecutive Matches! LAFC Rises to Second Place in the West with a 4-0 Victory](https://ai.trend.dmomo.co.kr/2026/07/son-heung-min-scores-in-three.html) <br/>
+[2026/07/27 - David Johnson: Reasons for His Selection as the New Black Panther and the Future of the MCU](https://ai.trend.dmomo.co.kr/2026/07/david-johnson-reasons-for-his-selection.html) <br/>
+[2026/07/27 - Cutting-Edge Quantum Computing Technologies in 2026: The Present and Future of Thousands of Qubits and Error Correction](https://ai.trend.dmomo.co.kr/2026/07/cutting-edge-quantum-computing.html) <br/>
+[2026/07/26 - New Black Panther David Johnson Takes Up the Mantle of T'Challa II in the MCU](https://ai.trend.dmomo.co.kr/2026/07/new-black-panther-david-johnson-takes.html) <br/>
+[2026/07/26 - Son Heung-min's Opening Goal! LAFC Leads 3-0 in the First Half, Will He Score in Three Consecutive Matches?](https://ai.trend.dmomo.co.kr/2026/07/son-heung-mins-opening-goal-lafc-leads.html) <br/>
 [2026/07/26 - 5 Reasons Why Edge AI Platforms Will Revolutionize Industrial Sites in 2026](https://ai.trend.dmomo.co.kr/2026/07/5-reasons-why-edge-ai-platforms-will.html) <br/>
-[2026/07/26 - Is Naira (NGN) Safe Right Now? 3 Risks Every U.S. Investor Should Know](https://ai.trend.dmomo.co.kr/2026/07/is-naira-ngn-safe-right-now-3-risks.html) <br/>
-[2026/07/26 - The Untold Story of Seoul: From Joseon Paper Money to Climate Crisis at Cheonggyecheon](https://ai.trend.dmomo.co.kr/2026/07/the-untold-story-of-seoul-from-joseon.html) <br/>
-[2026/07/25 - Tony Romo's DUI Arrest: Is His CBS Commentary Career in Jeopardy?](https://ai.trend.dmomo.co.kr/2026/07/tony-romos-dui-arrest-is-his-cbs.html) <br/>
-[2026/07/25 - Resignation of Minister of Justice Jeong Seong-ho: A Sign of Division in Prosecutor Reform or a Signal of Lame Duck Status?](https://ai.trend.dmomo.co.kr/2026/07/resignation-of-minister-of-justice.html) <br/>
-[2026/07/25 - Summary of the Court Ruling on Choi Tae-won and No So-young's Divorce: Everything About the 944 Billion Won Asset Division](https://ai.trend.dmomo.co.kr/2026/07/summary-of-court-ruling-on-choi-tae-won.html) <br/>
