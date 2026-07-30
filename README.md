@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/07/29 - 양자 증명 QMA란 무엇이고 왜 양자 컴퓨팅의 미래를 좌우하는가?](https://blog.ai.dmomo.co.kr/tech/30566) <br/>
-[2026/07/29 - Madison Beer 약혼 발표! NFL 스타 허버트와 팝스타의 완벽한 러브스토리](https://blog.ai.dmomo.co.kr/trend/30564) <br/>
-[2026/07/29 - 시청률 44.4% 레전드 소문난 칠공주, 2026년 다시 돌아온 이유](https://blog.ai.dmomo.co.kr/trend/30562) <br/>
-[2026/07/28 - KIA vs 삼성 2026 KBO 최강 타선 맞대결, 천적 구도의 비밀](https://blog.ai.dmomo.co.kr/trend/30539) <br/>
-[2026/07/28 - T-Mobile 전국 통신 대란, 6만 건 신고 폭발…원인은 여전히 미스터리](https://blog.ai.dmomo.co.kr/trend/30500) <br/>
+[2026/07/30 - 2024년 주목해야 할 LLM·AI 기반 DevOps 자동화 핵심 전략 6가지](https://blog.ai.dmomo.co.kr/tech/30632) <br/>
+[2026/07/30 - 글렌 핸사드 사망: 버스커에서 오스카까지, 56년의 음악 인생](https://blog.ai.dmomo.co.kr/trend/30630) <br/>
+[2026/07/30 - 토트넘 vs 시드니 FC 승부차기 승리, Tel 프리킥 골과 데 제르비 리빌드 총정리](https://blog.ai.dmomo.co.kr/trend/30628) <br/>
+[2026/07/29 - 오타니 432ft 홈런! Dodgers vs Mariners 인터리그 빅매치 완전분석](https://blog.ai.dmomo.co.kr/trend/30589) <br/>
+[2026/07/29 - 서울·부산 강서구 완전 비교: 재개발·복지·여행까지 한눈에](https://blog.ai.dmomo.co.kr/trend/30588) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/07/30 - 6 Key LLM and AI-Powered DevOps Automation Strategies to Watch in 2024](https://ai.trend.dmomo.co.kr/2026/07/6-key-llm-and-ai-powered-devops.html) <br/>
+[2026/07/30 - Glen Hansard's Passing: A 56-Year Musical Journey from Busker to Oscar Winner](https://ai.trend.dmomo.co.kr/2026/07/glen-hansards-passing-56-year-musical.html) <br/>
+[2026/07/30 - Tottenham vs Sydney FC Penalty Shootout Victory: A Summary of Tel's Free Kick Goal and De Zerbi's Rebuild](https://ai.trend.dmomo.co.kr/2026/07/tottenham-vs-sydney-fc-penalty-shootout.html) <br/>
+[2026/07/29 - Complete Comparison of Gangseo Districts in Seoul and Busan: Redevelopment, Welfare, and Travel at a Glance](https://ai.trend.dmomo.co.kr/2026/07/complete-comparison-of-gangseo.html) <br/>
+[2026/07/29 - Ohtani's 432ft Home Run! Complete Analysis of the Dodgers vs Mariners Interleague Clash](https://ai.trend.dmomo.co.kr/2026/07/ohtanis-432ft-home-run-complete.html) <br/>
 [2026/07/29 - What is Quantum Proof QMA and Why Does It Determine the Future of Quantum Computing?](https://ai.trend.dmomo.co.kr/2026/07/what-is-quantum-proof-qma-and-why-does.html) <br/>
-[2026/07/29 - Madison Beer Engagement Announcement! The Perfect Love Story Between NFL Star Herbert and Pop Sensation](https://ai.trend.dmomo.co.kr/2026/07/madison-beer-engagement-announcement.html) <br/>
-[2026/07/29 - Legendary Seven Princesses with 44.4% Ratings: Why It's Making a Comeback in 2026](https://ai.trend.dmomo.co.kr/2026/07/legendary-seven-princesses-with-444.html) <br/>
-[2026/07/28 - KIA vs Samsung: The 2026 KBO Showdown of Power Hitters and Secrets of Their Rivalry](https://ai.trend.dmomo.co.kr/2026/07/kia-vs-samsung-2026-kbo-showdown-of.html) <br/>
-[2026/07/28 - T-Mobile Nationwide Communication Crisis: 60,000 Reports Surge... The Cause Remains a Mystery](https://ai.trend.dmomo.co.kr/2026/07/t-mobile-nationwide-communication.html) <br/>
-[2026/07/28 - 5 Key Industry Transformations Driven by NAVER Cloud’s Specialized Financial Cloud in Korea](https://ai.trend.dmomo.co.kr/2026/07/5-key-industry-transformations-driven.html) <br/>
