@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/07/30 - 2024년 주목해야 할 LLM·AI 기반 DevOps 자동화 핵심 전략 6가지](https://blog.ai.dmomo.co.kr/tech/30632) <br/>
-[2026/07/30 - 글렌 핸사드 사망: 버스커에서 오스카까지, 56년의 음악 인생](https://blog.ai.dmomo.co.kr/trend/30630) <br/>
-[2026/07/30 - 토트넘 vs 시드니 FC 승부차기 승리, Tel 프리킥 골과 데 제르비 리빌드 총정리](https://blog.ai.dmomo.co.kr/trend/30628) <br/>
-[2026/07/29 - 오타니 432ft 홈런! Dodgers vs Mariners 인터리그 빅매치 완전분석](https://blog.ai.dmomo.co.kr/trend/30589) <br/>
-[2026/07/29 - 서울·부산 강서구 완전 비교: 재개발·복지·여행까지 한눈에](https://blog.ai.dmomo.co.kr/trend/30588) <br/>
+[2026/07/31 - 2026년 최신 에이전트 기술, OpenAI Agents SDK가 주목받는 7가지 이유](https://blog.ai.dmomo.co.kr/tech/30707) <br/>
+[2026/07/31 - 36세 Travis Kelce, Buzzcut·몸매 변신으로 팬들 갈라진 이유](https://blog.ai.dmomo.co.kr/trend/30705) <br/>
+[2026/07/31 - 초강력 태풍 돌핀, 한반도 40도 폭염 키울 열풍기 될까?](https://blog.ai.dmomo.co.kr/trend/30703) <br/>
+[2026/07/30 - 파우치 청문회 총정리: 수정헌법 5조 100번 행사의 진실](https://blog.ai.dmomo.co.kr/trend/30671) <br/>
+[2026/07/30 - 2025년 남편의 민낯: 디지털 불륜부터 가정폭력까지 5가지 충격 트렌드](https://blog.ai.dmomo.co.kr/trend/30669) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/07/31 - 7 Reasons OpenAI Agents SDK Is Making Waves in 2026’s Latest Agent Technology](https://ai.trend.dmomo.co.kr/2026/07/7-reasons-openai-agents-sdk-is-making.html) <br/>
+[2026/07/31 - 36-Year-Old Travis Kelce’s Buzz Cut and Body Transformation Have Fans Divided](https://ai.trend.dmomo.co.kr/2026/07/36-year-old-travis-kelces-buzz-cut-and.html) <br/>
+[2026/07/31 - Super Typhoon Dolphin: Will it Become a Heatwave Fan Raising Temperatures to 40 Degrees in the Korean Peninsula?](https://ai.trend.dmomo.co.kr/2026/07/super-typhoon-dolphin-will-it-become.html) <br/>
+[2026/07/30 - Pouch Hearing Summary: The Truth Behind the 100th Application of the 5th Amendment](https://ai.trend.dmomo.co.kr/2026/07/pouch-hearing-summary-truth-behind.html) <br/>
+[2026/07/30 - Husband's True Face in 2025: 5 Shocking Trends from Digital Infidelity to Domestic Violence](https://ai.trend.dmomo.co.kr/2026/07/husbands-true-face-in-2025-5-shocking.html) <br/>
 [2026/07/30 - 6 Key LLM and AI-Powered DevOps Automation Strategies to Watch in 2024](https://ai.trend.dmomo.co.kr/2026/07/6-key-llm-and-ai-powered-devops.html) <br/>
-[2026/07/30 - Glen Hansard's Passing: A 56-Year Musical Journey from Busker to Oscar Winner](https://ai.trend.dmomo.co.kr/2026/07/glen-hansards-passing-56-year-musical.html) <br/>
-[2026/07/30 - Tottenham vs Sydney FC Penalty Shootout Victory: A Summary of Tel's Free Kick Goal and De Zerbi's Rebuild](https://ai.trend.dmomo.co.kr/2026/07/tottenham-vs-sydney-fc-penalty-shootout.html) <br/>
-[2026/07/29 - Complete Comparison of Gangseo Districts in Seoul and Busan: Redevelopment, Welfare, and Travel at a Glance](https://ai.trend.dmomo.co.kr/2026/07/complete-comparison-of-gangseo.html) <br/>
-[2026/07/29 - Ohtani's 432ft Home Run! Complete Analysis of the Dodgers vs Mariners Interleague Clash](https://ai.trend.dmomo.co.kr/2026/07/ohtanis-432ft-home-run-complete.html) <br/>
-[2026/07/29 - What is Quantum Proof QMA and Why Does It Determine the Future of Quantum Computing?](https://ai.trend.dmomo.co.kr/2026/07/what-is-quantum-proof-qma-and-why-does.html) <br/>
