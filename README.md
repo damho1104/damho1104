@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/08/01 - 2026 폴더블 스마트폰 트렌드 완벽 분석: Galaxy Z Fold8부터 애플까지](https://blog.ai.dmomo.co.kr/trend/30800) <br/>
+[2026/08/01 - 박성재 전 법무장관 징역 25년, 두 특검 충돌과 윤 대통령 증언의 향방](https://blog.ai.dmomo.co.kr/trend/30788) <br/>
 [2026/08/01 - Confidential Computing이 바꾸는 클라우드 보안, AI 데이터까지 지키는 7가지 핵심 기술](https://blog.ai.dmomo.co.kr/tech/30773) <br/>
 [2026/08/01 - 버밍엄 vs 바르셀로나 2-2 무승부, 승부차기 반전 드라마 총정리](https://blog.ai.dmomo.co.kr/trend/30771) <br/>
 [2026/08/01 - 이동건 이혼숙려캠프 합류, 논란 딛고 진정성으로 통했나?](https://blog.ai.dmomo.co.kr/trend/30769) <br/>
-[2026/07/31 - 이동건 이혼숙려캠프 합류: 돌싱 배우가 이혼 조언 가능한가?](https://blog.ai.dmomo.co.kr/trend/30746) <br/>
-[2026/07/31 - 아프리카 속 유럽 땅 세우타, 수천 명이 헤엄쳐 넘어온 이유](https://blog.ai.dmomo.co.kr/trend/30728) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/08/01 - 2026 Foldable Smartphone Trends: A Complete Analysis from the Galaxy Z Fold8 to Apple’s Foldable iPhone](https://ai.trend.dmomo.co.kr/2026/08/2026-foldable-smartphone-trends.html) <br/>
 [2026/08/01 - How Confidential Computing Is Transforming Cloud Security: 7 Key Technologies Protecting Even AI Data](https://ai.trend.dmomo.co.kr/2026/07/how-confidential-computing-is.html) <br/>
 [2026/08/01 - Birmingham vs. Barcelona Ends 2-2: A Full Recap of the Dramatic Penalty Shootout Twist](https://ai.trend.dmomo.co.kr/2026/07/birmingham-vs-barcelona-ends-2-2-full.html) <br/>
 [2026/08/01 - Lee Dong-gun Joins ‘Divorce Camp’—Has His Sincerity Helped Him Move Past the Controversy?](https://ai.trend.dmomo.co.kr/2026/07/lee-dong-gun-joins-divorce-camphas-his.html) <br/>
 [2026/07/31 - Lee Dong-gun Joins *Divorce Deliberation Camp*: Can a Divorced Actor Really Give Advice on Marriage and Divorce?](https://ai.trend.dmomo.co.kr/2026/07/lee-dong-gun-joins-divorce-deliberation.html) <br/>
 [2026/07/31 - Ceuta: Europe’s Enclave in Africa—Why Thousands Swam Across to Reach It](https://ai.trend.dmomo.co.kr/2026/07/ceuta-europes-enclave-in-africawhy.html) <br/>
-[2026/07/31 - Kim Jae-joong on *Fun-Staurant*: How Home, Marriage, and Mukbang Complete His Branding Strategy](https://ai.trend.dmomo.co.kr/2026/07/kim-jae-joong-on-fun-staurant-how-home.html) <br/>
