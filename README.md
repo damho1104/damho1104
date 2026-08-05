@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/04 - LLM 최신 핵심 기술 RAG란? 기업용 AI를 바꾸는 7가지 이유](https://blog.ai.dmomo.co.kr/tech/30951) <br/>
-[2026/08/04 - 해병대 총기사고·빈총 경계·시민구조, 지금 무슨 일이?](https://blog.ai.dmomo.co.kr/trend/30949) <br/>
-[2026/08/04 - 2026년 Walgreens 폐점 현황: 내 동네 약국은 안전할까?](https://blog.ai.dmomo.co.kr/trend/30947) <br/>
-[2026/08/03 - Fever vs Lynx 108-100 완벽 분석: Caitlin Clark을 압도한 루키의 정체는?](https://blog.ai.dmomo.co.kr/trend/30921) <br/>
-[2026/08/03 - 2026년 배당투자 완벽 가이드: 고배당주·ETF·세금 전략 총정리](https://blog.ai.dmomo.co.kr/trend/30903) <br/>
+[2026/08/05 - NPU 기반 AI PC가 바꾸는 Edge AI의 미래, 온디바이스 LLM이 주목받는 7가지 이유](https://blog.ai.dmomo.co.kr/tech/31020) <br/>
+[2026/08/05 - 비단뱀 완벽 가이드: 종류·사육법·침입종 논란까지 총정리](https://blog.ai.dmomo.co.kr/trend/31018) <br/>
+[2026/08/05 - 2026 미시간 프라이머리 완전분석: 민주당의 미래를 결정할 진보 vs 중도 대결](https://blog.ai.dmomo.co.kr/trend/31016) <br/>
+[2026/08/04 - 7m 비단뱀이 사람을 삼킨다? 공포와 생태계 사이의 진실](https://blog.ai.dmomo.co.kr/trend/30978) <br/>
+[2026/08/04 - 다저스 vs 컵스, 트레이드 데드라인 후 첫 격돌! Skubal·Gausman의 전쟁](https://blog.ai.dmomo.co.kr/trend/30976) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/08/05 - How NPU-Powered AI PCs Are Shaping the Future of Edge AI: 7 Reasons On-Device LLMs Are Gaining Attention](https://ai.trend.dmomo.co.kr/2026/08/how-npu-powered-ai-pcs-are-shaping.html) <br/>
+[2026/08/05 - The Ultimate Guide to Pythons: Species, Care, and the Invasive Species Debate](https://ai.trend.dmomo.co.kr/2026/08/the-ultimate-guide-to-pythons-species.html) <br/>
+[2026/08/05 - 2026 Michigan Primary Deep Dive: Progressives vs. Centrists in a Battle to Shape the Democratic Party’s Future](https://ai.trend.dmomo.co.kr/2026/08/2026-michigan-primary-deep-dive.html) <br/>
+[2026/08/04 - Can a 7-Meter Python Really Swallow a Person? The Truth Behind the Fear and the Ecosystem](https://ai.trend.dmomo.co.kr/2026/08/can-7-meter-python-really-swallow.html) <br/>
+[2026/08/04 - Dodgers vs. Cubs: First Clash Since the Trade Deadline! Skubal and Gausman Face Off](https://ai.trend.dmomo.co.kr/2026/08/dodgers-vs-cubs-first-clash-since-trade.html) <br/>
 [2026/08/04 - What Is RAG? 7 Reasons This Cutting-Edge LLM Technology Is Transforming Enterprise AI](https://ai.trend.dmomo.co.kr/2026/08/what-is-rag-7-reasons-this-cutting-edge.html) <br/>
-[2026/08/04 - South Korea’s Marine Corps Gun Accident, Unloaded-Rifle Watch, and Civilian Rescue: What’s Going On?](https://ai.trend.dmomo.co.kr/2026/08/south-koreas-marine-corps-gun-accident.html) <br/>
-[2026/08/04 - 2026 Walgreens Closures: Is Your Local Pharmacy Safe?](https://ai.trend.dmomo.co.kr/2026/08/2026-walgreens-closures-is-your-local.html) <br/>
-[2026/08/03 - Fever vs. Lynx 108–100 Breakdown: Who Is the Rookie Who Outplayed Caitlin Clark?](https://ai.trend.dmomo.co.kr/2026/08/fever-vs-lynx-108100-breakdown-who-is.html) <br/>
-[2026/08/03 - The Ultimate Guide to Dividend Investing in 2026: High-Yield Stocks, ETFs, and Tax Strategies Explained](https://ai.trend.dmomo.co.kr/2026/08/the-ultimate-guide-to-dividend.html) <br/>
-[2026/08/03 - The 2026 Quantum Computing Revolution: Achieving Proven Quantum Advantage Beyond Classical Simulation](https://ai.trend.dmomo.co.kr/2026/08/the-2026-quantum-computing-revolution.html) <br/>
