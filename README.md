@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/05 - NPU 기반 AI PC가 바꾸는 Edge AI의 미래, 온디바이스 LLM이 주목받는 7가지 이유](https://blog.ai.dmomo.co.kr/tech/31020) <br/>
-[2026/08/05 - 비단뱀 완벽 가이드: 종류·사육법·침입종 논란까지 총정리](https://blog.ai.dmomo.co.kr/trend/31018) <br/>
-[2026/08/05 - 2026 미시간 프라이머리 완전분석: 민주당의 미래를 결정할 진보 vs 중도 대결](https://blog.ai.dmomo.co.kr/trend/31016) <br/>
-[2026/08/04 - 7m 비단뱀이 사람을 삼킨다? 공포와 생태계 사이의 진실](https://blog.ai.dmomo.co.kr/trend/30978) <br/>
-[2026/08/04 - 다저스 vs 컵스, 트레이드 데드라인 후 첫 격돌! Skubal·Gausman의 전쟁](https://blog.ai.dmomo.co.kr/trend/30976) <br/>
+[2026/08/06 - 2026년 최신 Edge AI 기술, EU EdgeAI 프로젝트가 바꿀 미래 5가지](https://blog.ai.dmomo.co.kr/tech/31083) <br/>
+[2026/08/06 - 2026 추석 민생지원금 총정리: 내 지역은 얼마 받나?](https://blog.ai.dmomo.co.kr/trend/31081) <br/>
+[2026/08/06 - Perez Hilton TikTok 자해 생방송 사건, 플랫폼과 정신건강의 충격적 민낯](https://blog.ai.dmomo.co.kr/trend/31079) <br/>
+[2026/08/05 - 이지한을 기억하는 방법: 이태원 참사가 바꾼 한국의 애도 문화](https://blog.ai.dmomo.co.kr/trend/31065) <br/>
+[2026/08/05 - 장동건 볼 빵빵 논란, 고소영 유튜브가 밝힌 진실](https://blog.ai.dmomo.co.kr/trend/31047) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/08/05 - How NPU-Powered AI PCs Are Shaping the Future of Edge AI: 7 Reasons On-Device LLMs Are Gaining Attention](https://ai.trend.dmomo.co.kr/2026/08/how-npu-powered-ai-pcs-are-shaping.html) <br/>
-[2026/08/05 - The Ultimate Guide to Pythons: Species, Care, and the Invasive Species Debate](https://ai.trend.dmomo.co.kr/2026/08/the-ultimate-guide-to-pythons-species.html) <br/>
-[2026/08/05 - 2026 Michigan Primary Deep Dive: Progressives vs. Centrists in a Battle to Shape the Democratic Party’s Future](https://ai.trend.dmomo.co.kr/2026/08/2026-michigan-primary-deep-dive.html) <br/>
-[2026/08/04 - Can a 7-Meter Python Really Swallow a Person? The Truth Behind the Fear and the Ecosystem](https://ai.trend.dmomo.co.kr/2026/08/can-7-meter-python-really-swallow.html) <br/>
-[2026/08/04 - Dodgers vs. Cubs: First Clash Since the Trade Deadline! Skubal and Gausman Face Off](https://ai.trend.dmomo.co.kr/2026/08/dodgers-vs-cubs-first-clash-since-trade.html) <br/>
-[2026/08/04 - What Is RAG? 7 Reasons This Cutting-Edge LLM Technology Is Transforming Enterprise AI](https://ai.trend.dmomo.co.kr/2026/08/what-is-rag-7-reasons-this-cutting-edge.html) <br/>
+[2026/08/06 - 5 Ways the EU EdgeAI Project Will Shape the Future with the Latest 2026 Edge AI Innovations](https://ai.trend.dmomo.co.kr/2026/08/5-ways-eu-edgeai-project-will-shape.html) <br/>
+[2026/08/06 - 2026 Chuseok Relief Payment Guide: How Much Can You Get in Your Area?](https://ai.trend.dmomo.co.kr/2026/08/2026-chuseok-relief-payment-guide-how.html) <br/>
+[2026/08/06 - The Perez Hilton TikTok Self-Harm Livestream: The Shocking Reality of Social Media and Mental Health](https://ai.trend.dmomo.co.kr/2026/08/the-perez-hilton-tiktok-self-harm.html) <br/>
+[2026/08/05 - Remembering Lee Ji-han: How the Itaewon Tragedy Changed South Korea’s Culture of Mourning](https://ai.trend.dmomo.co.kr/2026/08/remembering-lee-ji-han-how-itaewon.html) <br/>
+[2026/08/05 - The Truth Behind Jang Dong-gun’s Puffy Cheeks Controversy, Revealed on Ko So-young’s YouTube Channel](https://ai.trend.dmomo.co.kr/2026/08/the-truth-behind-jang-dong-guns-puffy.html) <br/>
+[2026/08/05 - Perez Hilton’s TikTok Live Self-Harm Incident: SWAT Responds and He’s Taken to the Hospital](https://ai.trend.dmomo.co.kr/2026/08/perez-hiltons-tiktok-live-self-harm.html) <br/>
