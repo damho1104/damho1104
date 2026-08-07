@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/06 - 2026년 최신 Edge AI 기술, EU EdgeAI 프로젝트가 바꿀 미래 5가지](https://blog.ai.dmomo.co.kr/tech/31083) <br/>
-[2026/08/06 - 2026 추석 민생지원금 총정리: 내 지역은 얼마 받나?](https://blog.ai.dmomo.co.kr/trend/31081) <br/>
-[2026/08/06 - Perez Hilton TikTok 자해 생방송 사건, 플랫폼과 정신건강의 충격적 민낯](https://blog.ai.dmomo.co.kr/trend/31079) <br/>
-[2026/08/05 - 이지한을 기억하는 방법: 이태원 참사가 바꾼 한국의 애도 문화](https://blog.ai.dmomo.co.kr/trend/31065) <br/>
-[2026/08/05 - 장동건 볼 빵빵 논란, 고소영 유튜브가 밝힌 진실](https://blog.ai.dmomo.co.kr/trend/31047) <br/>
+[2026/08/07 - 양자컴퓨팅 상용화의 열쇠, 표면 코드와 논리 큐비트는 어디까지 왔나?](https://blog.ai.dmomo.co.kr/tech/31149) <br/>
+[2026/08/07 - 아침 됩니다 간판의 비밀: 레트로 감성부터 브랜딩 전략까지](https://blog.ai.dmomo.co.kr/trend/31147) <br/>
+[2026/08/06 - 미국 레스토랑 체인 대격변: 파산·AI·액티비스트가 바꾸는 외식 산업](https://blog.ai.dmomo.co.kr/trend/31128) <br/>
+[2026/08/06 - 기부 트렌드 2025: 소액·세제혜택·ESG까지 한눈에 보기](https://blog.ai.dmomo.co.kr/trend/31126) <br/>
+[2026/08/06 - 손흥민 LAFC vs 과달라하라 1-1 라이브 중계 및 분석 총정리](https://blog.ai.dmomo.co.kr/trend/31107) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/08/07 - The Key to Commercial Quantum Computing: How Far Have Surface Codes and Logical Qubits Come?](https://ai.trend.dmomo.co.kr/2026/08/the-key-to-commercial-quantum-computing.html) <br/>
+[2026/08/07 - The Secret Behind “Breakfast Is Served” Signs: From Retro Charm to Branding Strategy](https://ai.trend.dmomo.co.kr/2026/08/the-secret-behind-breakfast-is-served.html) <br/>
+[2026/08/06 - The Great Shake-Up in America’s Restaurant Chains: How Bankruptcy, AI, and Activist Investors Are Reshaping the Dining Industry](https://ai.trend.dmomo.co.kr/2026/08/the-great-shake-up-in-americas.html) <br/>
+[2026/08/06 - Donation Trends 2025: Small Gifts, Tax Benefits, ESG, and More at a Glance](https://ai.trend.dmomo.co.kr/2026/08/donation-trends-2025-small-gifts-tax.html) <br/>
+[2026/08/06 - Son Heung-min: LAFC vs. Guadalajara 1-1 Live Coverage and Full Match Analysis](https://ai.trend.dmomo.co.kr/2026/08/son-heung-min-lafc-vs-guadalajara-1-1.html) <br/>
 [2026/08/06 - 5 Ways the EU EdgeAI Project Will Shape the Future with the Latest 2026 Edge AI Innovations](https://ai.trend.dmomo.co.kr/2026/08/5-ways-eu-edgeai-project-will-shape.html) <br/>
-[2026/08/06 - 2026 Chuseok Relief Payment Guide: How Much Can You Get in Your Area?](https://ai.trend.dmomo.co.kr/2026/08/2026-chuseok-relief-payment-guide-how.html) <br/>
-[2026/08/06 - The Perez Hilton TikTok Self-Harm Livestream: The Shocking Reality of Social Media and Mental Health](https://ai.trend.dmomo.co.kr/2026/08/the-perez-hilton-tiktok-self-harm.html) <br/>
-[2026/08/05 - Remembering Lee Ji-han: How the Itaewon Tragedy Changed South Korea’s Culture of Mourning](https://ai.trend.dmomo.co.kr/2026/08/remembering-lee-ji-han-how-itaewon.html) <br/>
-[2026/08/05 - The Truth Behind Jang Dong-gun’s Puffy Cheeks Controversy, Revealed on Ko So-young’s YouTube Channel](https://ai.trend.dmomo.co.kr/2026/08/the-truth-behind-jang-dong-guns-puffy.html) <br/>
-[2026/08/05 - Perez Hilton’s TikTok Live Self-Harm Incident: SWAT Responds and He’s Taken to the Hospital](https://ai.trend.dmomo.co.kr/2026/08/perez-hiltons-tiktok-live-self-harm.html) <br/>
