@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/07 - 양자컴퓨팅 상용화의 열쇠, 표면 코드와 논리 큐비트는 어디까지 왔나?](https://blog.ai.dmomo.co.kr/tech/31149) <br/>
-[2026/08/07 - 아침 됩니다 간판의 비밀: 레트로 감성부터 브랜딩 전략까지](https://blog.ai.dmomo.co.kr/trend/31147) <br/>
-[2026/08/06 - 미국 레스토랑 체인 대격변: 파산·AI·액티비스트가 바꾸는 외식 산업](https://blog.ai.dmomo.co.kr/trend/31128) <br/>
-[2026/08/06 - 기부 트렌드 2025: 소액·세제혜택·ESG까지 한눈에 보기](https://blog.ai.dmomo.co.kr/trend/31126) <br/>
-[2026/08/06 - 손흥민 LAFC vs 과달라하라 1-1 라이브 중계 및 분석 총정리](https://blog.ai.dmomo.co.kr/trend/31107) <br/>
+[2026/08/08 - 엣지투클라우드란? AWS·Azure·GCP가 주목하는 분산 클라우드의 미래](https://blog.ai.dmomo.co.kr/tech/31224) <br/>
+[2026/08/08 - 2026년 한국 날씨 트렌드: 40℃ 폭염과 국지성 호우의 공존](https://blog.ai.dmomo.co.kr/trend/31222) <br/>
+[2026/08/08 - 텍사스 컨트리의 숨은 설계자 Tommy Detamore, 70세로 별세](https://blog.ai.dmomo.co.kr/trend/31220) <br/>
+[2026/08/07 - 차인표 근황: 동생 구강암 사망 후 방송 하차한 진짜 이유](https://blog.ai.dmomo.co.kr/trend/31194) <br/>
+[2026/08/07 - 드래프트 미지명 QB가 NFL 첫 경기에서 역전 결승 터치다운을 터뜨린 이유](https://blog.ai.dmomo.co.kr/trend/31176) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/08/07 - The Key to Commercial Quantum Computing: How Far Have Surface Codes and Logical Qubits Come?](https://ai.trend.dmomo.co.kr/2026/08/the-key-to-commercial-quantum-computing.html) <br/>
-[2026/08/07 - The Secret Behind “Breakfast Is Served” Signs: From Retro Charm to Branding Strategy](https://ai.trend.dmomo.co.kr/2026/08/the-secret-behind-breakfast-is-served.html) <br/>
-[2026/08/06 - The Great Shake-Up in America’s Restaurant Chains: How Bankruptcy, AI, and Activist Investors Are Reshaping the Dining Industry](https://ai.trend.dmomo.co.kr/2026/08/the-great-shake-up-in-americas.html) <br/>
-[2026/08/06 - Donation Trends 2025: Small Gifts, Tax Benefits, ESG, and More at a Glance](https://ai.trend.dmomo.co.kr/2026/08/donation-trends-2025-small-gifts-tax.html) <br/>
-[2026/08/06 - Son Heung-min: LAFC vs. Guadalajara 1-1 Live Coverage and Full Match Analysis](https://ai.trend.dmomo.co.kr/2026/08/son-heung-min-lafc-vs-guadalajara-1-1.html) <br/>
-[2026/08/06 - 5 Ways the EU EdgeAI Project Will Shape the Future with the Latest 2026 Edge AI Innovations](https://ai.trend.dmomo.co.kr/2026/08/5-ways-eu-edgeai-project-will-shape.html) <br/>
+[2026/08/08 - What Is Edge-to-Cloud? The Future of Distributed Cloud Computing That AWS, Azure, and GCP Are Watching Closely](https://ai.trend.dmomo.co.kr/2026/08/what-is-edge-to-cloud-future-of.html) <br/>
+[2026/08/08 - South Korea’s 2026 Weather Trends: 40°C Heatwaves and Torrential Downpours Side by Side](https://ai.trend.dmomo.co.kr/2026/08/south-koreas-2026-weather-trends-40c.html) <br/>
+[2026/08/08 - Tommy Detamore, the Hidden Architect of Texas Country, Dies at 70](https://ai.trend.dmomo.co.kr/2026/08/tommy-detamore-hidden-architect-of.html) <br/>
+[2026/08/07 - Cha In-pyo’s Life Update: The Real Reason He Quit TV After His Younger Brother Died of Oral Cancer](https://ai.trend.dmomo.co.kr/2026/08/cha-in-pyos-life-update-real-reason-he.html) <br/>
+[2026/08/07 - Why an Undrafted QB Scored the Game-Winning Touchdown in His NFL Debut](https://ai.trend.dmomo.co.kr/2026/08/why-undrafted-qb-scored-game-winning.html) <br/>
+[2026/08/07 - Why Yoo Se-yoon Is Still Korea’s Top Variety Star: A Comedian’s Survival Strategy of Taking Risks](https://ai.trend.dmomo.co.kr/2026/08/why-yoo-se-yoon-is-still-koreas-top.html) <br/>
