@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/08 - 엣지투클라우드란? AWS·Azure·GCP가 주목하는 분산 클라우드의 미래](https://blog.ai.dmomo.co.kr/tech/31224) <br/>
-[2026/08/08 - 2026년 한국 날씨 트렌드: 40℃ 폭염과 국지성 호우의 공존](https://blog.ai.dmomo.co.kr/trend/31222) <br/>
-[2026/08/08 - 텍사스 컨트리의 숨은 설계자 Tommy Detamore, 70세로 별세](https://blog.ai.dmomo.co.kr/trend/31220) <br/>
-[2026/08/07 - 차인표 근황: 동생 구강암 사망 후 방송 하차한 진짜 이유](https://blog.ai.dmomo.co.kr/trend/31194) <br/>
-[2026/08/07 - 드래프트 미지명 QB가 NFL 첫 경기에서 역전 결승 터치다운을 터뜨린 이유](https://blog.ai.dmomo.co.kr/trend/31176) <br/>
+[2026/08/09 - 2026 최신 Edge AI 기술, EU EdgeAI 프로젝트가 만드는 인텔리전트 엣지의 미래](https://blog.ai.dmomo.co.kr/tech/31275) <br/>
+[2026/08/09 - 2026 추석 민생지원금 최대 50만원, 내 지역은 얼마?](https://blog.ai.dmomo.co.kr/trend/31273) <br/>
+[2026/08/09 - 살 파먹는 박테리아, 루이지애나 해변에 등장…올해 사망자 5명](https://blog.ai.dmomo.co.kr/trend/31271) <br/>
+[2026/08/08 - 김희애 59세의 비밀: 주름도 품격이 되는 럭셔리 에이징](https://blog.ai.dmomo.co.kr/trend/31257) <br/>
+[2026/08/08 - 17억 빚 갚고 재혼한 김구라, 막말 MC에서 가장으로 변신한 비결](https://blog.ai.dmomo.co.kr/trend/31245) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/08/09 - 2026’s Latest Edge AI Technologies: The Future of the Intelligent Edge Powered by the EU EdgeAI Project](https://ai.trend.dmomo.co.kr/2026/08/2026s-latest-edge-ai-technologies.html) <br/>
+[2026/08/09 - 2026 Chuseok Relief Payments: Up to ₩500,000—How Much Can You Get in Your Area?](https://ai.trend.dmomo.co.kr/2026/08/2026-chuseok-relief-payments-up-to.html) <br/>
+[2026/08/09 - Flesh-Eating Bacteria Hits Louisiana Beaches—Five Deaths Reported This Year](https://ai.trend.dmomo.co.kr/2026/08/flesh-eating-bacteria-hits-louisiana.html) <br/>
+[2026/08/08 - Kim Hee-ae at 59: The Secret to Luxury Aging—When Even Wrinkles Become a Mark of Elegance](https://ai.trend.dmomo.co.kr/2026/08/kim-hee-ae-at-59-secret-to-luxury.html) <br/>
+[2026/08/08 - How Kim Gu-ra Went from a Controversial TV Host to a Family Man After Paying Off 1.7 Billion Won in Debt and Remarrying](https://ai.trend.dmomo.co.kr/2026/08/how-kim-gu-ra-went-from-controversial.html) <br/>
 [2026/08/08 - What Is Edge-to-Cloud? The Future of Distributed Cloud Computing That AWS, Azure, and GCP Are Watching Closely](https://ai.trend.dmomo.co.kr/2026/08/what-is-edge-to-cloud-future-of.html) <br/>
-[2026/08/08 - South Korea’s 2026 Weather Trends: 40°C Heatwaves and Torrential Downpours Side by Side](https://ai.trend.dmomo.co.kr/2026/08/south-koreas-2026-weather-trends-40c.html) <br/>
-[2026/08/08 - Tommy Detamore, the Hidden Architect of Texas Country, Dies at 70](https://ai.trend.dmomo.co.kr/2026/08/tommy-detamore-hidden-architect-of.html) <br/>
-[2026/08/07 - Cha In-pyo’s Life Update: The Real Reason He Quit TV After His Younger Brother Died of Oral Cancer](https://ai.trend.dmomo.co.kr/2026/08/cha-in-pyos-life-update-real-reason-he.html) <br/>
-[2026/08/07 - Why an Undrafted QB Scored the Game-Winning Touchdown in His NFL Debut](https://ai.trend.dmomo.co.kr/2026/08/why-undrafted-qb-scored-game-winning.html) <br/>
-[2026/08/07 - Why Yoo Se-yoon Is Still Korea’s Top Variety Star: A Comedian’s Survival Strategy of Taking Risks](https://ai.trend.dmomo.co.kr/2026/08/why-yoo-se-yoon-is-still-koreas-top.html) <br/>
