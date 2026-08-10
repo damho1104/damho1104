@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/09 - 2026 최신 Edge AI 기술, EU EdgeAI 프로젝트가 만드는 인텔리전트 엣지의 미래](https://blog.ai.dmomo.co.kr/tech/31275) <br/>
-[2026/08/09 - 2026 추석 민생지원금 최대 50만원, 내 지역은 얼마?](https://blog.ai.dmomo.co.kr/trend/31273) <br/>
-[2026/08/09 - 살 파먹는 박테리아, 루이지애나 해변에 등장…올해 사망자 5명](https://blog.ai.dmomo.co.kr/trend/31271) <br/>
-[2026/08/08 - 김희애 59세의 비밀: 주름도 품격이 되는 럭셔리 에이징](https://blog.ai.dmomo.co.kr/trend/31257) <br/>
-[2026/08/08 - 17억 빚 갚고 재혼한 김구라, 막말 MC에서 가장으로 변신한 비결](https://blog.ai.dmomo.co.kr/trend/31245) <br/>
+[2026/08/10 - AI 시대 소프트웨어 보안의 핵심, Agentic AST와 프롬프트 인젝션 방어란?](https://blog.ai.dmomo.co.kr/tech/31341) <br/>
+[2026/08/10 - 택배기사의 미래를 바꾸는 4가지 변화: 법·안전·갑질·AI](https://blog.ai.dmomo.co.kr/trend/31339) <br/>
+[2026/08/10 - Dalton Rosta·Knecht부터 Sako까지, 미국 스포츠와 법의 민낯](https://blog.ai.dmomo.co.kr/trend/31337) <br/>
+[2026/08/09 - 택배기사의 현실: 하루 12시간 노동과 AI가 바꾸는 배송의 미래](https://blog.ai.dmomo.co.kr/trend/31314) <br/>
+[2026/08/09 - 2026 미국 하원 현역 9명 탈락, 1970년 이후 최대 세대교체 왜?](https://blog.ai.dmomo.co.kr/trend/31312) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/08/09 - 2026’s Latest Edge AI Technologies: The Future of the Intelligent Edge Powered by the EU EdgeAI Project](https://ai.trend.dmomo.co.kr/2026/08/2026s-latest-edge-ai-technologies.html) <br/>
-[2026/08/09 - 2026 Chuseok Relief Payments: Up to ₩500,000—How Much Can You Get in Your Area?](https://ai.trend.dmomo.co.kr/2026/08/2026-chuseok-relief-payments-up-to.html) <br/>
-[2026/08/09 - Flesh-Eating Bacteria Hits Louisiana Beaches—Five Deaths Reported This Year](https://ai.trend.dmomo.co.kr/2026/08/flesh-eating-bacteria-hits-louisiana.html) <br/>
-[2026/08/08 - Kim Hee-ae at 59: The Secret to Luxury Aging—When Even Wrinkles Become a Mark of Elegance](https://ai.trend.dmomo.co.kr/2026/08/kim-hee-ae-at-59-secret-to-luxury.html) <br/>
-[2026/08/08 - How Kim Gu-ra Went from a Controversial TV Host to a Family Man After Paying Off 1.7 Billion Won in Debt and Remarrying](https://ai.trend.dmomo.co.kr/2026/08/how-kim-gu-ra-went-from-controversial.html) <br/>
-[2026/08/08 - What Is Edge-to-Cloud? The Future of Distributed Cloud Computing That AWS, Azure, and GCP Are Watching Closely](https://ai.trend.dmomo.co.kr/2026/08/what-is-edge-to-cloud-future-of.html) <br/>
+[2026/08/10 - The Key to Software Security in the AI Era: Understanding Agentic AST and Prompt Injection Defense](https://ai.trend.dmomo.co.kr/2026/08/the-key-to-software-security-in-ai-era.html) <br/>
+[2026/08/10 - 4 Changes Reshaping the Future of Delivery Drivers: Labor Laws, Safety, Workplace Abuse, and AI](https://ai.trend.dmomo.co.kr/2026/08/4-changes-reshaping-future-of-delivery.html) <br/>
+[2026/08/10 - From Dalton Rosta and Knecht to Sako: The Unvarnished Truth About American Sports and the Law](https://ai.trend.dmomo.co.kr/2026/08/from-dalton-rosta-and-knecht-to-sako.html) <br/>
+[2026/08/09 - The Reality of Delivery Drivers: 12-Hour Workdays and How AI Is Reshaping the Future of Delivery](https://ai.trend.dmomo.co.kr/2026/08/the-reality-of-delivery-drivers-12-hour.html) <br/>
+[2026/08/09 - Why Were 9 Incumbent U.S. House Members Ousted in 2026—the Biggest Generational Turnover Since 1970?](https://ai.trend.dmomo.co.kr/2026/08/why-were-9-incumbent-us-house-members.html) <br/>
+[2026/08/09 - LAFC vs. Toluca: 0-0 at Halftime in the Same Stadium After the 8-0 Humiliation](https://ai.trend.dmomo.co.kr/2026/08/lafc-vs-toluca-0-0-at-halftime-in-same.html) <br/>
