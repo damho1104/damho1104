@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/10 - AI 시대 소프트웨어 보안의 핵심, Agentic AST와 프롬프트 인젝션 방어란?](https://blog.ai.dmomo.co.kr/tech/31341) <br/>
-[2026/08/10 - 택배기사의 미래를 바꾸는 4가지 변화: 법·안전·갑질·AI](https://blog.ai.dmomo.co.kr/trend/31339) <br/>
-[2026/08/10 - Dalton Rosta·Knecht부터 Sako까지, 미국 스포츠와 법의 민낯](https://blog.ai.dmomo.co.kr/trend/31337) <br/>
-[2026/08/09 - 택배기사의 현실: 하루 12시간 노동과 AI가 바꾸는 배송의 미래](https://blog.ai.dmomo.co.kr/trend/31314) <br/>
-[2026/08/09 - 2026 미국 하원 현역 9명 탈락, 1970년 이후 최대 세대교체 왜?](https://blog.ai.dmomo.co.kr/trend/31312) <br/>
+[2026/08/11 - EIP-4844가 바꾼 이더리움 L2 롤업, 수수료는 어떻게 초저가가 됐나?](https://blog.ai.dmomo.co.kr/tech/31410) <br/>
+[2026/08/11 - 2024년 며느리 담론 5가지 키워드: 시댁 갈등부터 성적 자율성까지](https://blog.ai.dmomo.co.kr/trend/31408) <br/>
+[2026/08/11 - 콜롬비아 규모 7.4 강진, 사망자 111명·커피 산지 직격…미국도 안전한가?](https://blog.ai.dmomo.co.kr/trend/31406) <br/>
+[2026/08/10 - 쿠터에서 의회까지, 전설의 배우 Ben Jones 84세 별세](https://blog.ai.dmomo.co.kr/trend/31386) <br/>
+[2026/08/10 - 거북이의 두 얼굴: 멸종위기 아이콘에서 생태계 교란종까지](https://blog.ai.dmomo.co.kr/trend/31384) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/08/10 - The Key to Software Security in the AI Era: Understanding Agentic AST and Prompt Injection Defense](https://ai.trend.dmomo.co.kr/2026/08/the-key-to-software-security-in-ai-era.html) <br/>
-[2026/08/10 - 4 Changes Reshaping the Future of Delivery Drivers: Labor Laws, Safety, Workplace Abuse, and AI](https://ai.trend.dmomo.co.kr/2026/08/4-changes-reshaping-future-of-delivery.html) <br/>
-[2026/08/10 - From Dalton Rosta and Knecht to Sako: The Unvarnished Truth About American Sports and the Law](https://ai.trend.dmomo.co.kr/2026/08/from-dalton-rosta-and-knecht-to-sako.html) <br/>
-[2026/08/09 - The Reality of Delivery Drivers: 12-Hour Workdays and How AI Is Reshaping the Future of Delivery](https://ai.trend.dmomo.co.kr/2026/08/the-reality-of-delivery-drivers-12-hour.html) <br/>
-[2026/08/09 - Why Were 9 Incumbent U.S. House Members Ousted in 2026—the Biggest Generational Turnover Since 1970?](https://ai.trend.dmomo.co.kr/2026/08/why-were-9-incumbent-us-house-members.html) <br/>
-[2026/08/09 - LAFC vs. Toluca: 0-0 at Halftime in the Same Stadium After the 8-0 Humiliation](https://ai.trend.dmomo.co.kr/2026/08/lafc-vs-toluca-0-0-at-halftime-in-same.html) <br/>
+[2026/08/11 - How EIP-4844 Transformed Ethereum L2 Rollups—and Made Fees Ultra-Low](https://ai.trend.dmomo.co.kr/2026/08/how-eip-4844-transformed-ethereum-l2.html) <br/>
+[2026/08/11 - Colombia Hit by Powerful 7.4-Magnitude Earthquake: 111 Dead, Coffee-Growing Region Devastated—Is the U.S. Safe?](https://ai.trend.dmomo.co.kr/2026/08/colombia-hit-by-powerful-74-magnitude.html) <br/>
+[2026/08/10 - From Cooter to Congress: Legendary Actor Ben Jones Dies at 84](https://ai.trend.dmomo.co.kr/2026/08/from-cooter-to-congress-legendary-actor.html) <br/>
+[2026/08/10 - The Two Faces of Turtles: From Endangered Icons to Ecosystem Invaders](https://ai.trend.dmomo.co.kr/2026/08/the-two-faces-of-turtles-from.html) <br/>
+[2026/08/10 - Oh Yoon-ah: Remarriage, Tokyo Travels, and a Model’s Physique—Inside the Life of a 40-Something Working-Mom Icon](https://ai.trend.dmomo.co.kr/2026/08/oh-yoon-ah-remarriage-tokyo-travels-and.html) <br/>
+[2026/08/10 - Leagues Cup 2026: Club América Cruise to a 3-1 Away Win in Portland—How Big Is the Gap Between MLS and Liga MX?](https://ai.trend.dmomo.co.kr/2026/08/leagues-cup-2026-club-america-cruise-to.html) <br/>
