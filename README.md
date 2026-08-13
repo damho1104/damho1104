@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/12 - 전소민 동생 전욱민 배달 알바 고백, 유명 누나 돈은 내 돈이 아니다](https://blog.ai.dmomo.co.kr/trend/31479) <br/>
-[2026/08/11 - EIP-4844가 바꾼 이더리움 L2 롤업, 수수료는 어떻게 초저가가 됐나?](https://blog.ai.dmomo.co.kr/tech/31410) <br/>
-[2026/08/11 - 2024년 며느리 담론 5가지 키워드: 시댁 갈등부터 성적 자율성까지](https://blog.ai.dmomo.co.kr/trend/31408) <br/>
-[2026/08/11 - 콜롬비아 규모 7.4 강진, 사망자 111명·커피 산지 직격…미국도 안전한가?](https://blog.ai.dmomo.co.kr/trend/31406) <br/>
-[2026/08/10 - 쿠터에서 의회까지, 전설의 배우 Ben Jones 84세 별세](https://blog.ai.dmomo.co.kr/trend/31386) <br/>
+[2026/08/13 - Quantinuum Helios·OCI 통합, 양자 컴퓨팅이 바꾸는 하이브리드 AI 클라우드 인프라](https://blog.ai.dmomo.co.kr/tech/31542) <br/>
+[2026/08/13 - Josh Kushner, LA Lakers 125억 달러 인수의 주인공은 누구인가?](https://blog.ai.dmomo.co.kr/trend/31540) <br/>
+[2026/08/13 - 강경준=강승호? 두산 1루수의 이름 변화와 2025 진짜 성적](https://blog.ai.dmomo.co.kr/trend/31538) <br/>
+[2026/08/12 - 갤럭시 Z 폴드8 총정리: 4:3 여권형 폴더블의 가격·스펙·출시일은?](https://blog.ai.dmomo.co.kr/tech/31518) <br/>
+[2026/08/12 - 함소원 교통사고 골반 골절 후 일장춘몽…싱글맘의 기적 회복기](https://blog.ai.dmomo.co.kr/trend/31515) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/08/12 - Jeon So-min’s Younger Brother Jeon Wook-min Opens Up About His Delivery Job: “My Famous Sister’s Money Isn’t Mine”](https://ai.trend.dmomo.co.kr/2026/08/jeon-so-mins-younger-brother-jeon-wook.html) <br/>
-[2026/08/11 - Five Key Themes in the 2024 Conversation About Daughters-in-Law: From In-Law Conflicts to Sexual Autonomy](https://ai.trend.dmomo.co.kr/2026/08/five-key-themes-in-2024-conversation.html) <br/>
-[2026/08/11 - How EIP-4844 Transformed Ethereum L2 Rollups—and Made Fees Ultra-Low](https://ai.trend.dmomo.co.kr/2026/08/how-eip-4844-transformed-ethereum-l2.html) <br/>
-[2026/08/11 - Colombia Hit by Powerful 7.4-Magnitude Earthquake: 111 Dead, Coffee-Growing Region Devastated—Is the U.S. Safe?](https://ai.trend.dmomo.co.kr/2026/08/colombia-hit-by-powerful-74-magnitude.html) <br/>
-[2026/08/10 - From Cooter to Congress: Legendary Actor Ben Jones Dies at 84](https://ai.trend.dmomo.co.kr/2026/08/from-cooter-to-congress-legendary-actor.html) <br/>
-[2026/08/10 - The Two Faces of Turtles: From Endangered Icons to Ecosystem Invaders](https://ai.trend.dmomo.co.kr/2026/08/the-two-faces-of-turtles-from.html) <br/>
+[2026/08/13 - Quantinuum Helios and OCI Integration: How Quantum Computing Is Transforming Hybrid AI Cloud Infrastructure](https://ai.trend.dmomo.co.kr/2026/08/quantinuum-helios-and-oci-integration.html) <br/>
+[2026/08/13 - Who Is Josh Kushner, the Man Behind the $12.5 Billion Acquisition of the LA Lakers?](https://ai.trend.dmomo.co.kr/2026/08/who-is-josh-kushner-man-behind-125.html) <br/>
+[2026/08/13 - Kang Kyung-jun or Kang Seung-ho? The Doosan First Baseman’s Name Change and His True 2025 Stats](https://ai.trend.dmomo.co.kr/2026/08/kang-kyung-jun-or-kang-seung-ho-doosan.html) <br/>
+[2026/08/12 - Galaxy Z Fold8 Complete Guide: Price, Specs, and Release Date of the 4:3 Passport-Style Foldable](https://ai.trend.dmomo.co.kr/2026/08/galaxy-z-fold8-complete-guide-price.html) <br/>
+[2026/08/12 - Ham So-won’s Pelvic Fracture After a Car Accident: A Single Mom’s Miraculous Road to Recovery After a Shattered Dream](https://ai.trend.dmomo.co.kr/2026/08/ham-so-wons-pelvic-fracture-after-car.html) <br/>
+[2026/08/12 - Could Wisconsin Elect America’s First Korean American Governor? Primary Race Too Close to Call](https://ai.trend.dmomo.co.kr/2026/08/could-wisconsin-elect-americas-first.html) <br/>
