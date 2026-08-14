@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/13 - Quantinuum Helios·OCI 통합, 양자 컴퓨팅이 바꾸는 하이브리드 AI 클라우드 인프라](https://blog.ai.dmomo.co.kr/tech/31542) <br/>
-[2026/08/13 - Josh Kushner, LA Lakers 125억 달러 인수의 주인공은 누구인가?](https://blog.ai.dmomo.co.kr/trend/31540) <br/>
-[2026/08/13 - 강경준=강승호? 두산 1루수의 이름 변화와 2025 진짜 성적](https://blog.ai.dmomo.co.kr/trend/31538) <br/>
-[2026/08/12 - 갤럭시 Z 폴드8 총정리: 4:3 여권형 폴더블의 가격·스펙·출시일은?](https://blog.ai.dmomo.co.kr/tech/31518) <br/>
-[2026/08/12 - 함소원 교통사고 골반 골절 후 일장춘몽…싱글맘의 기적 회복기](https://blog.ai.dmomo.co.kr/trend/31515) <br/>
+[2026/08/14 - 삼성·SK하이닉스 zHBM·HBF, AI 메모리 병목을 풀 차세대 기술의 모든 것](https://blog.ai.dmomo.co.kr/tech/31608) <br/>
+[2026/08/14 - 손흥민 승부차기 골! LAFC 리그스컵 MLS 3위, 8강 티켓 잡을까?](https://blog.ai.dmomo.co.kr/trend/31606) <br/>
+[2026/08/14 - 무패 복서 프리차드 콜론, 래빗 펀치 한 방에 11년 식물인간 후 사망](https://blog.ai.dmomo.co.kr/trend/31604) <br/>
+[2026/08/13 - LAFC vs 케레타로 리그스컵 순위 비교: 승점 7점 vs 1점의 격차](https://blog.ai.dmomo.co.kr/trend/31581) <br/>
+[2026/08/13 - LAFC vs 케레타로 Leagues Cup: 언더독의 반란, 0-1 충격 리드](https://blog.ai.dmomo.co.kr/trend/31569) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/08/13 - Quantinuum Helios and OCI Integration: How Quantum Computing Is Transforming Hybrid AI Cloud Infrastructure](https://ai.trend.dmomo.co.kr/2026/08/quantinuum-helios-and-oci-integration.html) <br/>
-[2026/08/13 - Who Is Josh Kushner, the Man Behind the $12.5 Billion Acquisition of the LA Lakers?](https://ai.trend.dmomo.co.kr/2026/08/who-is-josh-kushner-man-behind-125.html) <br/>
-[2026/08/13 - Kang Kyung-jun or Kang Seung-ho? The Doosan First Baseman’s Name Change and His True 2025 Stats](https://ai.trend.dmomo.co.kr/2026/08/kang-kyung-jun-or-kang-seung-ho-doosan.html) <br/>
-[2026/08/12 - Galaxy Z Fold8 Complete Guide: Price, Specs, and Release Date of the 4:3 Passport-Style Foldable](https://ai.trend.dmomo.co.kr/2026/08/galaxy-z-fold8-complete-guide-price.html) <br/>
-[2026/08/12 - Ham So-won’s Pelvic Fracture After a Car Accident: A Single Mom’s Miraculous Road to Recovery After a Shattered Dream](https://ai.trend.dmomo.co.kr/2026/08/ham-so-wons-pelvic-fracture-after-car.html) <br/>
-[2026/08/12 - Could Wisconsin Elect America’s First Korean American Governor? Primary Race Too Close to Call](https://ai.trend.dmomo.co.kr/2026/08/could-wisconsin-elect-americas-first.html) <br/>
+[2026/08/14 - Samsung and SK hynix’s zHBM and HBF: Everything You Need to Know About the Next-Generation Technologies Tackling AI Memory Bottlenecks](https://ai.trend.dmomo.co.kr/2026/08/samsung-and-sk-hynixs-zhbm-and-hbf.html) <br/>
+[2026/08/14 - Son Heung-min Scores in the Shootout! Can MLS’s Third-Place LAFC Book a Leagues Cup Quarterfinal Spot?](https://ai.trend.dmomo.co.kr/2026/08/son-heung-min-scores-in-shootout-can.html) <br/>
+[2026/08/14 - Undefeated Boxer Prichard Colón Dies After Spending 11 Years in a Vegetative State Following a Single Rabbit Punch](https://ai.trend.dmomo.co.kr/2026/08/undefeated-boxer-prichard-colon-dies.html) <br/>
+[2026/08/13 - LAFC vs Querétaro in the Leagues Cup Standings: A Six-Point Gap, 7 Points to 1](https://ai.trend.dmomo.co.kr/2026/08/lafc-vs-queretaro-in-leagues-cup_0720920092.html) <br/>
+[2026/08/13 - LAFC vs. Querétaro in the Leagues Cup: Underdogs Stage an Upset with a Stunning 1–0 Lead](https://ai.trend.dmomo.co.kr/2026/08/lafc-vs-queretaro-in-leagues-cup.html) <br/>
+[2026/08/13 - GPT-5.6 Luna Price Cut by 80%: 4 Real Reasons It’s Suddenly So Affordable](https://ai.trend.dmomo.co.kr/2026/08/gpt-56-luna-price-cut-by-80-4-real.html) <br/>
