@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/08/14 - 두산 vs KIA 광주 3연전, 4·5위 운명을 가를 빅매치 분석](https://blog.ai.dmomo.co.kr/trend/31647) <br/>
+[2026/08/14 - 한국 부동산 거품, 시한폭탄 터지기 전에 알아야 할 7가지](https://blog.ai.dmomo.co.kr/trend/31632) <br/>
+[2026/08/14 - 2026 캐나다 대격변: 관세전쟁부터 LNG·K-POP까지 5대 트렌드 완전분석](https://blog.ai.dmomo.co.kr/trend/31626) <br/>
 [2026/08/14 - 삼성·SK하이닉스 zHBM·HBF, AI 메모리 병목을 풀 차세대 기술의 모든 것](https://blog.ai.dmomo.co.kr/tech/31608) <br/>
 [2026/08/14 - 손흥민 승부차기 골! LAFC 리그스컵 MLS 3위, 8강 티켓 잡을까?](https://blog.ai.dmomo.co.kr/trend/31606) <br/>
-[2026/08/14 - 무패 복서 프리차드 콜론, 래빗 펀치 한 방에 11년 식물인간 후 사망](https://blog.ai.dmomo.co.kr/trend/31604) <br/>
-[2026/08/13 - LAFC vs 케레타로 리그스컵 순위 비교: 승점 7점 vs 1점의 격차](https://blog.ai.dmomo.co.kr/trend/31581) <br/>
-[2026/08/13 - LAFC vs 케레타로 Leagues Cup: 언더독의 반란, 0-1 충격 리드](https://blog.ai.dmomo.co.kr/trend/31569) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/08/14 - Doosan vs. KIA: A Big Three-Game Series in Gwangju That Could Decide 4th and 5th Place](https://ai.trend.dmomo.co.kr/2026/08/doosan-vs-kia-big-three-game-series-in.html) <br/>
+[2026/08/14 - 7 Things You Need to Know Before South Korea’s Real Estate Bubble Becomes a Ticking Time Bomb](https://ai.trend.dmomo.co.kr/2026/08/7-things-you-need-to-know-before-south.html) <br/>
+[2026/08/14 - Canada’s Seismic Shift in 2026: A Deep Dive into Five Major Trends, from the Tariff War to LNG and K-Pop](https://ai.trend.dmomo.co.kr/2026/08/canadas-seismic-shift-in-2026-deep-dive.html) <br/>
 [2026/08/14 - Samsung and SK hynix’s zHBM and HBF: Everything You Need to Know About the Next-Generation Technologies Tackling AI Memory Bottlenecks](https://ai.trend.dmomo.co.kr/2026/08/samsung-and-sk-hynixs-zhbm-and-hbf.html) <br/>
 [2026/08/14 - Son Heung-min Scores in the Shootout! Can MLS’s Third-Place LAFC Book a Leagues Cup Quarterfinal Spot?](https://ai.trend.dmomo.co.kr/2026/08/son-heung-min-scores-in-shootout-can.html) <br/>
 [2026/08/14 - Undefeated Boxer Prichard Colón Dies After Spending 11 Years in a Vegetative State Following a Single Rabbit Punch](https://ai.trend.dmomo.co.kr/2026/08/undefeated-boxer-prichard-colon-dies.html) <br/>
-[2026/08/13 - LAFC vs Querétaro in the Leagues Cup Standings: A Six-Point Gap, 7 Points to 1](https://ai.trend.dmomo.co.kr/2026/08/lafc-vs-queretaro-in-leagues-cup_0720920092.html) <br/>
-[2026/08/13 - LAFC vs. Querétaro in the Leagues Cup: Underdogs Stage an Upset with a Stunning 1–0 Lead](https://ai.trend.dmomo.co.kr/2026/08/lafc-vs-queretaro-in-leagues-cup.html) <br/>
-[2026/08/13 - GPT-5.6 Luna Price Cut by 80%: 4 Real Reasons It’s Suddenly So Affordable](https://ai.trend.dmomo.co.kr/2026/08/gpt-56-luna-price-cut-by-80-4-real.html) <br/>
