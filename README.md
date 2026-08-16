@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/14 - 두산 vs KIA 광주 3연전, 4·5위 운명을 가를 빅매치 분석](https://blog.ai.dmomo.co.kr/trend/31647) <br/>
-[2026/08/14 - 한국 부동산 거품, 시한폭탄 터지기 전에 알아야 할 7가지](https://blog.ai.dmomo.co.kr/trend/31632) <br/>
-[2026/08/14 - 2026 캐나다 대격변: 관세전쟁부터 LNG·K-POP까지 5대 트렌드 완전분석](https://blog.ai.dmomo.co.kr/trend/31626) <br/>
-[2026/08/14 - 삼성·SK하이닉스 zHBM·HBF, AI 메모리 병목을 풀 차세대 기술의 모든 것](https://blog.ai.dmomo.co.kr/tech/31608) <br/>
-[2026/08/14 - 손흥민 승부차기 골! LAFC 리그스컵 MLS 3위, 8강 티켓 잡을까?](https://blog.ai.dmomo.co.kr/trend/31606) <br/>
+[2026/08/15 - 브로드웨이 신인 마야 보이드, MCU X-Men에서 Storm 캐스팅된 이유](https://blog.ai.dmomo.co.kr/trend/31705) <br/>
+[2026/08/15 - 케임브리지 최연소 흑인 교수의 비극: DEI·표절 논란이 남긴 질문들](https://blog.ai.dmomo.co.kr/trend/31690) <br/>
+[2026/08/15 - 광복절 81주년 완벽 정리: 뜻·유래·2026 핵심 키워드까지](https://blog.ai.dmomo.co.kr/trend/31688) <br/>
+[2026/08/15 - 한국 여름이 달라졌다: 폭우·폭염·열대야 동시에 오는 이유](https://blog.ai.dmomo.co.kr/trend/31669) <br/>
+[2026/08/15 - Caitlin Clark vs Paige Bueckers, WNBA 최대 빅매치 완벽 분석](https://blog.ai.dmomo.co.kr/trend/31667) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/08/15 - Why Broadway Rising Star Maya Boyd Was Cast as Storm in the MCU’s X-Men](https://ai.trend.dmomo.co.kr/2026/08/why-broadway-rising-star-maya-boyd-was.html) <br/>
+[2026/08/15 - The Tragedy of Cambridge’s Youngest Black Professor: Questions Raised by the DEI and Plagiarism Controversies](https://ai.trend.dmomo.co.kr/2026/08/the-tragedy-of-cambridges-youngest.html) <br/>
+[2026/08/15 - Korean Liberation Day: Everything You Need to Know About Its Meaning, History, and Key 2026 Themes on the 81st Anniversary](https://ai.trend.dmomo.co.kr/2026/08/korean-liberation-day-everything-you.html) <br/>
+[2026/08/15 - Korean Summers Are Changing: Why Torrential Rains, Heat Waves, and Tropical Nights Are Happening All at Once](https://ai.trend.dmomo.co.kr/2026/08/korean-summers-are-changing-why.html) <br/>
+[2026/08/15 - Caitlin Clark vs. Paige Bueckers: A Complete Breakdown of the WNBA’s Biggest Showdown](https://ai.trend.dmomo.co.kr/2026/08/caitlin-clark-vs-paige-bueckers.html) <br/>
 [2026/08/14 - Doosan vs. KIA: A Big Three-Game Series in Gwangju That Could Decide 4th and 5th Place](https://ai.trend.dmomo.co.kr/2026/08/doosan-vs-kia-big-three-game-series-in.html) <br/>
-[2026/08/14 - 7 Things You Need to Know Before South Korea’s Real Estate Bubble Becomes a Ticking Time Bomb](https://ai.trend.dmomo.co.kr/2026/08/7-things-you-need-to-know-before-south.html) <br/>
-[2026/08/14 - Canada’s Seismic Shift in 2026: A Deep Dive into Five Major Trends, from the Tariff War to LNG and K-Pop](https://ai.trend.dmomo.co.kr/2026/08/canadas-seismic-shift-in-2026-deep-dive.html) <br/>
-[2026/08/14 - Samsung and SK hynix’s zHBM and HBF: Everything You Need to Know About the Next-Generation Technologies Tackling AI Memory Bottlenecks](https://ai.trend.dmomo.co.kr/2026/08/samsung-and-sk-hynixs-zhbm-and-hbf.html) <br/>
-[2026/08/14 - Son Heung-min Scores in the Shootout! Can MLS’s Third-Place LAFC Book a Leagues Cup Quarterfinal Spot?](https://ai.trend.dmomo.co.kr/2026/08/son-heung-min-scores-in-shootout-can.html) <br/>
-[2026/08/14 - Undefeated Boxer Prichard Colón Dies After Spending 11 Years in a Vegetative State Following a Single Rabbit Punch](https://ai.trend.dmomo.co.kr/2026/08/undefeated-boxer-prichard-colon-dies.html) <br/>
