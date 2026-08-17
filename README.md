@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/15 - 브로드웨이 신인 마야 보이드, MCU X-Men에서 Storm 캐스팅된 이유](https://blog.ai.dmomo.co.kr/trend/31705) <br/>
-[2026/08/15 - 케임브리지 최연소 흑인 교수의 비극: DEI·표절 논란이 남긴 질문들](https://blog.ai.dmomo.co.kr/trend/31690) <br/>
-[2026/08/15 - 광복절 81주년 완벽 정리: 뜻·유래·2026 핵심 키워드까지](https://blog.ai.dmomo.co.kr/trend/31688) <br/>
-[2026/08/15 - 한국 여름이 달라졌다: 폭우·폭염·열대야 동시에 오는 이유](https://blog.ai.dmomo.co.kr/trend/31669) <br/>
-[2026/08/15 - Caitlin Clark vs Paige Bueckers, WNBA 최대 빅매치 완벽 분석](https://blog.ai.dmomo.co.kr/trend/31667) <br/>
+[2026/08/16 - 아이스크림 포장 베꼈다가 238억 날린 Rebel Creamery 파산 전말](https://blog.ai.dmomo.co.kr/trend/31771) <br/>
+[2026/08/16 - LAFC vs 샌디에이고 FC, 징크스 깰까? SoCal 더비 완벽 분석](https://blog.ai.dmomo.co.kr/trend/31753) <br/>
+[2026/08/16 - UFC 330 완벽 분석: Makhachev 더블 타이틀 방어와 희귀 서브미션의 밤](https://blog.ai.dmomo.co.kr/trend/31751) <br/>
+[2026/08/16 - LLM으로 어려운 개념 마스터하는 법: 개발자 823명이 열광한 학습법](https://blog.ai.dmomo.co.kr/ai/31732) <br/>
+[2026/08/16 - Qwen3.8-Max 공개 임박, 2.4조 파라미터·100만 토큰 AI가 판도를 바꿀까?](https://blog.ai.dmomo.co.kr/tech/31726) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/08/15 - Why Broadway Rising Star Maya Boyd Was Cast as Storm in the MCU’s X-Men](https://ai.trend.dmomo.co.kr/2026/08/why-broadway-rising-star-maya-boyd-was.html) <br/>
-[2026/08/15 - The Tragedy of Cambridge’s Youngest Black Professor: Questions Raised by the DEI and Plagiarism Controversies](https://ai.trend.dmomo.co.kr/2026/08/the-tragedy-of-cambridges-youngest.html) <br/>
-[2026/08/15 - Korean Liberation Day: Everything You Need to Know About Its Meaning, History, and Key 2026 Themes on the 81st Anniversary](https://ai.trend.dmomo.co.kr/2026/08/korean-liberation-day-everything-you.html) <br/>
-[2026/08/15 - Korean Summers Are Changing: Why Torrential Rains, Heat Waves, and Tropical Nights Are Happening All at Once](https://ai.trend.dmomo.co.kr/2026/08/korean-summers-are-changing-why.html) <br/>
-[2026/08/15 - Caitlin Clark vs. Paige Bueckers: A Complete Breakdown of the WNBA’s Biggest Showdown](https://ai.trend.dmomo.co.kr/2026/08/caitlin-clark-vs-paige-bueckers.html) <br/>
-[2026/08/14 - Doosan vs. KIA: A Big Three-Game Series in Gwangju That Could Decide 4th and 5th Place](https://ai.trend.dmomo.co.kr/2026/08/doosan-vs-kia-big-three-game-series-in.html) <br/>
+[2026/08/16 - How Rebel Creamery Went Bankrupt After Copying an Ice Cream Package—and Losing ₩23.8 Billion](https://ai.trend.dmomo.co.kr/2026/08/how-rebel-creamery-went-bankrupt-after.html) <br/>
+[2026/08/16 - LAFC vs. San Diego FC: Can They Break the Jinx? A Complete SoCal Derby Breakdown](https://ai.trend.dmomo.co.kr/2026/08/lafc-vs-san-diego-fc-can-they-break.html) <br/>
+[2026/08/16 - UFC 330 Breakdown: Makhachev’s Double Title Defense and a Night of Rare Submissions](https://ai.trend.dmomo.co.kr/2026/08/ufc-330-breakdown-makhachevs-double.html) <br/>
+[2026/08/16 - Qwen3.8-Max Set for Imminent Release: Will Its 2.4 Trillion Parameters and 1 Million-Token Context Window Change the AI Game?](https://ai.trend.dmomo.co.kr/2026/08/qwen38-max-set-for-imminent-release.html) <br/>
+[2026/08/16 - 500 Villain Roles: The Life and Death of Ma Do-sik, a Legend of Korean Cinema’s Supporting Cast](https://ai.trend.dmomo.co.kr/2026/08/500-villain-roles-life-and-death-of-ma.html) <br/>
+[2026/08/16 - Broadway Rising Star Maya Boyd: Why She Was Cast as Storm in the MCU’s *X-Men*](https://ai.trend.dmomo.co.kr/2026/08/broadway-rising-star-maya-boyd-why-she.html) <br/>
