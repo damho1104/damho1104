@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/16 - 아이스크림 포장 베꼈다가 238억 날린 Rebel Creamery 파산 전말](https://blog.ai.dmomo.co.kr/trend/31771) <br/>
-[2026/08/16 - LAFC vs 샌디에이고 FC, 징크스 깰까? SoCal 더비 완벽 분석](https://blog.ai.dmomo.co.kr/trend/31753) <br/>
-[2026/08/16 - UFC 330 완벽 분석: Makhachev 더블 타이틀 방어와 희귀 서브미션의 밤](https://blog.ai.dmomo.co.kr/trend/31751) <br/>
-[2026/08/16 - LLM으로 어려운 개념 마스터하는 법: 개발자 823명이 열광한 학습법](https://blog.ai.dmomo.co.kr/ai/31732) <br/>
-[2026/08/16 - Qwen3.8-Max 공개 임박, 2.4조 파라미터·100만 토큰 AI가 판도를 바꿀까?](https://blog.ai.dmomo.co.kr/tech/31726) <br/>
+[2026/08/17 - 헤이든 파네티에르 36세 사망: Heroes 치어리더의 비극적 마지막](https://blog.ai.dmomo.co.kr/trend/31819) <br/>
+[2026/08/17 - 제니 서머소닉 2026 완벽 분석: 헤드라이너부터 AI 딥페이크 논란까지](https://blog.ai.dmomo.co.kr/trend/31816) <br/>
+[2026/08/17 - RAG의 다음 혁명, RING은 어떻게 외부 검색기를 없앨까?](https://blog.ai.dmomo.co.kr/tech/31795) <br/>
+[2026/08/17 - 손흥민 침묵 속 LAFC 0-1 패배, 샌디에이고에 남가주 라이벌 완패](https://blog.ai.dmomo.co.kr/trend/31793) <br/>
+[2026/08/17 - Caitlin Clark 26점 활약! Fever, Dream 연장 혈투 끝 95-91 승리](https://blog.ai.dmomo.co.kr/trend/31791) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/08/17 - Hayden Panettiere Dies at 36: The Tragic Final Chapter of the *Heroes* Cheerleader](https://ai.trend.dmomo.co.kr/2026/08/hayden-panettiere-dies-at-36-tragic.html) <br/>
+[2026/08/17 - JENNIE at Summer Sonic 2026: The Complete Breakdown—From Headliner Status to the AI Deepfake Controversy](https://ai.trend.dmomo.co.kr/2026/08/jennie-at-summer-sonic-2026-complete.html) <br/>
+[2026/08/17 - RAG’s Next Revolution: How RING Could Eliminate External Retrievers](https://ai.trend.dmomo.co.kr/2026/08/rags-next-revolution-how-ring-could.html) <br/>
+[2026/08/17 - Son Heung-min Held Scoreless as LAFC Fall 1-0 to Southern California Rivals San Diego FC](https://ai.trend.dmomo.co.kr/2026/08/son-heung-min-held-scoreless-as-lafc.html) <br/>
+[2026/08/17 - Caitlin Clark Drops 26 as Fever Edge Dream 95–91 in Overtime Thriller](https://ai.trend.dmomo.co.kr/2026/08/caitlin-clark-drops-26-as-fever-edge.html) <br/>
 [2026/08/16 - How Rebel Creamery Went Bankrupt After Copying an Ice Cream Package—and Losing ₩23.8 Billion](https://ai.trend.dmomo.co.kr/2026/08/how-rebel-creamery-went-bankrupt-after.html) <br/>
-[2026/08/16 - LAFC vs. San Diego FC: Can They Break the Jinx? A Complete SoCal Derby Breakdown](https://ai.trend.dmomo.co.kr/2026/08/lafc-vs-san-diego-fc-can-they-break.html) <br/>
-[2026/08/16 - UFC 330 Breakdown: Makhachev’s Double Title Defense and a Night of Rare Submissions](https://ai.trend.dmomo.co.kr/2026/08/ufc-330-breakdown-makhachevs-double.html) <br/>
-[2026/08/16 - Qwen3.8-Max Set for Imminent Release: Will Its 2.4 Trillion Parameters and 1 Million-Token Context Window Change the AI Game?](https://ai.trend.dmomo.co.kr/2026/08/qwen38-max-set-for-imminent-release.html) <br/>
-[2026/08/16 - 500 Villain Roles: The Life and Death of Ma Do-sik, a Legend of Korean Cinema’s Supporting Cast](https://ai.trend.dmomo.co.kr/2026/08/500-villain-roles-life-and-death-of-ma.html) <br/>
-[2026/08/16 - Broadway Rising Star Maya Boyd: Why She Was Cast as Storm in the MCU’s *X-Men*](https://ai.trend.dmomo.co.kr/2026/08/broadway-rising-star-maya-boyd-why-she.html) <br/>
