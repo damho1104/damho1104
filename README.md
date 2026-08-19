@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/17 - 헤이든 파네티에르 36세 사망: Heroes 치어리더의 비극적 마지막](https://blog.ai.dmomo.co.kr/trend/31819) <br/>
-[2026/08/17 - 제니 서머소닉 2026 완벽 분석: 헤드라이너부터 AI 딥페이크 논란까지](https://blog.ai.dmomo.co.kr/trend/31816) <br/>
-[2026/08/17 - RAG의 다음 혁명, RING은 어떻게 외부 검색기를 없앨까?](https://blog.ai.dmomo.co.kr/tech/31795) <br/>
-[2026/08/17 - 손흥민 침묵 속 LAFC 0-1 패배, 샌디에이고에 남가주 라이벌 완패](https://blog.ai.dmomo.co.kr/trend/31793) <br/>
-[2026/08/17 - Caitlin Clark 26점 활약! Fever, Dream 연장 혈투 끝 95-91 승리](https://blog.ai.dmomo.co.kr/trend/31791) <br/>
+[2026/08/18 - AI 시대 현금의 진화: 국가 배당부터 CBDC까지 완벽 정리](https://blog.ai.dmomo.co.kr/trend/31895) <br/>
+[2026/08/18 - 투손 사막서 발견된 정체불명 인골, Nancy Guthrie 실종 사건과 연관성은?](https://blog.ai.dmomo.co.kr/trend/31876) <br/>
+[2026/08/18 - 우리 집 뒷산이 무너진다: 극한호우 시대 도시 산사태의 모든 것](https://blog.ai.dmomo.co.kr/trend/31864) <br/>
+[2026/08/18 - 2026 로우코드 트렌드, Vibe Coding이 개발 방식을 바꾸는 5가지 변화](https://blog.ai.dmomo.co.kr/tech/31852) <br/>
+[2026/08/18 - 김부선 2억 대여금 소송, 옥수동 아파트 가압류까지 된 이유](https://blog.ai.dmomo.co.kr/trend/31850) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/08/17 - Hayden Panettiere Dies at 36: The Tragic Final Chapter of the *Heroes* Cheerleader](https://ai.trend.dmomo.co.kr/2026/08/hayden-panettiere-dies-at-36-tragic.html) <br/>
-[2026/08/17 - JENNIE at Summer Sonic 2026: The Complete Breakdown—From Headliner Status to the AI Deepfake Controversy](https://ai.trend.dmomo.co.kr/2026/08/jennie-at-summer-sonic-2026-complete.html) <br/>
-[2026/08/17 - RAG’s Next Revolution: How RING Could Eliminate External Retrievers](https://ai.trend.dmomo.co.kr/2026/08/rags-next-revolution-how-ring-could.html) <br/>
-[2026/08/17 - Son Heung-min Held Scoreless as LAFC Fall 1-0 to Southern California Rivals San Diego FC](https://ai.trend.dmomo.co.kr/2026/08/son-heung-min-held-scoreless-as-lafc.html) <br/>
-[2026/08/17 - Caitlin Clark Drops 26 as Fever Edge Dream 95–91 in Overtime Thriller](https://ai.trend.dmomo.co.kr/2026/08/caitlin-clark-drops-26-as-fever-edge.html) <br/>
-[2026/08/16 - How Rebel Creamery Went Bankrupt After Copying an Ice Cream Package—and Losing ₩23.8 Billion](https://ai.trend.dmomo.co.kr/2026/08/how-rebel-creamery-went-bankrupt-after.html) <br/>
+[2026/08/18 - The Evolution of Cash in the AI Era: From National Dividends to CBDCs, Explained](https://ai.trend.dmomo.co.kr/2026/08/the-evolution-of-cash-in-ai-era-from.html) <br/>
+[2026/08/18 - Unidentified Human Remains Found in the Tucson Desert: Could They Be Linked to Nancy Guthrie’s Disappearance?](https://ai.trend.dmomo.co.kr/2026/08/unidentified-human-remains-found-in.html) <br/>
+[2026/08/18 - The Hillside Behind Our Home Is Giving Way: Everything You Need to Know About Urban Landslides in an Era of Extreme Rainfall](https://ai.trend.dmomo.co.kr/2026/08/the-hillside-behind-our-home-is-giving.html) <br/>
+[2026/08/18 - 2026 Low-Code Trends: 5 Ways Vibe Coding Is Changing How We Build Software](https://ai.trend.dmomo.co.kr/2026/08/2026-low-code-trends-5-ways-vibe-coding.html) <br/>
+[2026/08/18 - Why Kim Bu-seon Faces a ₩200 Million Loan Lawsuit—and How Her Oksu-dong Apartment Was Seized Temporarily](https://ai.trend.dmomo.co.kr/2026/08/why-kim-bu-seon-faces-200-million-loan.html) <br/>
+[2026/08/18 - Hayden Panettiere’s Sudden Death at 36: The Light and Shadow of the *Heroes* Star](https://ai.trend.dmomo.co.kr/2026/08/hayden-panettieres-sudden-death-at-36.html) <br/>
