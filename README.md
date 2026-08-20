@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/18 - AI 시대 현금의 진화: 국가 배당부터 CBDC까지 완벽 정리](https://blog.ai.dmomo.co.kr/trend/31895) <br/>
-[2026/08/18 - 투손 사막서 발견된 정체불명 인골, Nancy Guthrie 실종 사건과 연관성은?](https://blog.ai.dmomo.co.kr/trend/31876) <br/>
-[2026/08/18 - 우리 집 뒷산이 무너진다: 극한호우 시대 도시 산사태의 모든 것](https://blog.ai.dmomo.co.kr/trend/31864) <br/>
-[2026/08/18 - 2026 로우코드 트렌드, Vibe Coding이 개발 방식을 바꾸는 5가지 변화](https://blog.ai.dmomo.co.kr/tech/31852) <br/>
-[2026/08/18 - 김부선 2억 대여금 소송, 옥수동 아파트 가압류까지 된 이유](https://blog.ai.dmomo.co.kr/trend/31850) <br/>
+[2026/08/19 - 이호선 상담소: 엄마와 3년 연락 끊어라, 충격 처방의 이유](https://blog.ai.dmomo.co.kr/trend/31958) <br/>
+[2026/08/19 - MLB 역사적 22-0 대첩! 브루어스 vs 매리너스 재대결 전망과 베팅 분석](https://blog.ai.dmomo.co.kr/trend/31943) <br/>
+[2026/08/19 - 왜 최신 Edge AI는 알고리즘과 시스템을 함께 재설계할까?](https://blog.ai.dmomo.co.kr/tech/31922) <br/>
+[2026/08/19 - 현금의 재발견: 정부·기업·가계가 현금을 전략 무기로 쓰는 법](https://blog.ai.dmomo.co.kr/trend/31920) <br/>
+[2026/08/19 - ZZ Top 드러머 Frank Beard 77세 별세, 55년 레거시의 끝](https://blog.ai.dmomo.co.kr/trend/31918) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/08/19 - Lee Ho-sun Counseling Center: “Cut Off Contact with Your Mother for Three Years”—The Reason Behind This Shocking Advice](https://ai.trend.dmomo.co.kr/2026/08/lee-ho-sun-counseling-center-cut-off.html) <br/>
+[2026/08/19 - MLB’s Historic 22–0 Blowout! Brewers vs. Mariners Rematch Preview and Betting Analysis](https://ai.trend.dmomo.co.kr/2026/08/mlbs-historic-220-blowout-brewers-vs.html) <br/>
+[2026/08/19 - Why Does Modern Edge AI Require Rethinking Both Algorithms and Systems?](https://ai.trend.dmomo.co.kr/2026/08/why-does-modern-edge-ai-require.html) <br/>
+[2026/08/19 - Cash, Reimagined: How Governments, Businesses, and Households Can Turn It into a Strategic Weapon](https://ai.trend.dmomo.co.kr/2026/08/cash-reimagined-how-governments.html) <br/>
+[2026/08/19 - ZZ Top Drummer Frank Beard Dies at 77, Bringing a 55-Year Legacy to an End](https://ai.trend.dmomo.co.kr/2026/08/zz-top-drummer-frank-beard-dies-at-77.html) <br/>
 [2026/08/18 - The Evolution of Cash in the AI Era: From National Dividends to CBDCs, Explained](https://ai.trend.dmomo.co.kr/2026/08/the-evolution-of-cash-in-ai-era-from.html) <br/>
-[2026/08/18 - Unidentified Human Remains Found in the Tucson Desert: Could They Be Linked to Nancy Guthrie’s Disappearance?](https://ai.trend.dmomo.co.kr/2026/08/unidentified-human-remains-found-in.html) <br/>
-[2026/08/18 - The Hillside Behind Our Home Is Giving Way: Everything You Need to Know About Urban Landslides in an Era of Extreme Rainfall](https://ai.trend.dmomo.co.kr/2026/08/the-hillside-behind-our-home-is-giving.html) <br/>
-[2026/08/18 - 2026 Low-Code Trends: 5 Ways Vibe Coding Is Changing How We Build Software](https://ai.trend.dmomo.co.kr/2026/08/2026-low-code-trends-5-ways-vibe-coding.html) <br/>
-[2026/08/18 - Why Kim Bu-seon Faces a ₩200 Million Loan Lawsuit—and How Her Oksu-dong Apartment Was Seized Temporarily](https://ai.trend.dmomo.co.kr/2026/08/why-kim-bu-seon-faces-200-million-loan.html) <br/>
-[2026/08/18 - Hayden Panettiere’s Sudden Death at 36: The Light and Shadow of the *Heroes* Star](https://ai.trend.dmomo.co.kr/2026/08/hayden-panettieres-sudden-death-at-36.html) <br/>
