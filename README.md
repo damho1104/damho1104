@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/20 - 18호 태풍 사우델, 태풍 길이 열렸다…한반도 영향받을까?](https://blog.ai.dmomo.co.kr/trend/32026) <br/>
-[2026/08/20 - 미국 조종사 부족·사고·전기항공까지, aircraft pilot 트렌드 총정리](https://blog.ai.dmomo.co.kr/trend/32025) <br/>
-[2026/08/20 - 손흥민 5경기 연속 무득점, 1600m 고지대 원정서 또 침묵](https://blog.ai.dmomo.co.kr/trend/32009) <br/>
-[2026/08/20 - 2026년 로우코드 최신 기술, 프롬프트로 만드는 AI 네이티브 내부 업무툴과 에이전트](https://blog.ai.dmomo.co.kr/tech/31985) <br/>
-[2026/08/20 - 이강인 아틀레티코 데뷔전 결승골 MOM, 유망주에서 완성형 플레이메이커로](https://blog.ai.dmomo.co.kr/trend/31983) <br/>
+[2026/08/21 - 배우 이재용 8년 우울증 고백 vs 삼성 이재용 주식 60조, 두 얼굴의 한국](https://blog.ai.dmomo.co.kr/trend/32093) <br/>
+[2026/08/21 - 박소윤 누구? 예능 스타부터 194cm 배구 유망주까지 완벽 정리](https://blog.ai.dmomo.co.kr/trend/32075) <br/>
+[2026/08/21 - 2026년 최신 RAG 기술 총정리: 하이퍼그래프·멀티모달·Incremental Refinement의 결합](https://blog.ai.dmomo.co.kr/tech/32051) <br/>
+[2026/08/21 - 18호 태풍 사우델 경로 총정리: 한반도 상륙 가능성은?](https://blog.ai.dmomo.co.kr/trend/32049) <br/>
+[2026/08/21 - Caitlin Clark vs Paige Bueckers 3차전: Fever vs Wings 승자는?](https://blog.ai.dmomo.co.kr/trend/32047) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/08/21 - Actor Lee Jae-yong’s 8-Year Battle with Depression vs. Samsung Heir Lee Jae-yong’s ₩60 Trillion in Stocks: Two Faces of Korea](https://ai.trend.dmomo.co.kr/2026/08/actor-lee-jae-yongs-8-year-battle-with.html) <br/>
+[2026/08/21 - Who Is Park So-yoon? Everything You Need to Know—From Variety Show Star to 194 cm Volleyball Prospect](https://ai.trend.dmomo.co.kr/2026/08/who-is-park-so-yoon-everything-you-need.html) <br/>
+[2026/08/21 - 2026 Guide to the Latest RAG Technologies: Combining Hypergraphs, Multimodality, and Incremental Refinement](https://ai.trend.dmomo.co.kr/2026/08/2026-guide-to-latest-rag-technologies.html) <br/>
+[2026/08/21 - Typhoon Saudel No. 18: Full Track Update and Could It Hit the Korean Peninsula?](https://ai.trend.dmomo.co.kr/2026/08/typhoon-saudel-no-18-full-track-update.html) <br/>
+[2026/08/21 - Caitlin Clark vs. Paige Bueckers, Game 3: Who Will Win—The Fever or the Wings?](https://ai.trend.dmomo.co.kr/2026/08/caitlin-clark-vs-paige-bueckers-game-3.html) <br/>
 [2026/08/20 - Typhoon Saudel, the Season’s 18th Storm, Has a Clear Path Ahead—Could It Affect the Korean Peninsula?](https://ai.trend.dmomo.co.kr/2026/08/typhoon-saudel-seasons-18th-storm-has.html) <br/>
-[2026/08/20 - Aircraft Pilot Trends Explained: U.S. Pilot Shortages, Accidents, Electric Aviation, and More](https://ai.trend.dmomo.co.kr/2026/08/aircraft-pilot-trends-explained-us.html) <br/>
-[2026/08/20 - Son Heung-min Goes Scoreless for Fifth Straight Game, Silenced Again in 1,600m-High Away Match](https://ai.trend.dmomo.co.kr/2026/08/son-heung-min-goes-scoreless-for-fifth.html) <br/>
-[2026/08/20 - 2026’s Latest Low-Code Technology: Build AI-Native Internal Tools and Agents with Prompts](https://ai.trend.dmomo.co.kr/2026/08/2026s-latest-low-code-technology-build.html) <br/>
-[2026/08/20 - Lee Kang-in Scores the Winner on His Atlético Madrid Debut and Earns Man of the Match Honors: From Rising Prospect to Complete Playmaker](https://ai.trend.dmomo.co.kr/2026/08/lee-kang-in-scores-winner-on-his.html) <br/>
-[2026/08/20 - Moderna Stock Soars 177% in a Single Day! The Real Significance of Its Successful Phase 3 mRNA Cancer Vaccine Trial](https://ai.trend.dmomo.co.kr/2026/08/moderna-stock-soars-177-in-single-day.html) <br/>
