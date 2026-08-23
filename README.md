@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/21 - 배우 이재용 8년 우울증 고백 vs 삼성 이재용 주식 60조, 두 얼굴의 한국](https://blog.ai.dmomo.co.kr/trend/32093) <br/>
-[2026/08/21 - 박소윤 누구? 예능 스타부터 194cm 배구 유망주까지 완벽 정리](https://blog.ai.dmomo.co.kr/trend/32075) <br/>
-[2026/08/21 - 2026년 최신 RAG 기술 총정리: 하이퍼그래프·멀티모달·Incremental Refinement의 결합](https://blog.ai.dmomo.co.kr/tech/32051) <br/>
-[2026/08/21 - 18호 태풍 사우델 경로 총정리: 한반도 상륙 가능성은?](https://blog.ai.dmomo.co.kr/trend/32049) <br/>
-[2026/08/21 - Caitlin Clark vs Paige Bueckers 3차전: Fever vs Wings 승자는?](https://blog.ai.dmomo.co.kr/trend/32047) <br/>
+[2026/08/23 - ChatGPT 전세계 장애 사태, AI가 핵심 인프라가 된 시대의 위험성](https://blog.ai.dmomo.co.kr/ai/32168) <br/>
+[2026/08/22 - 배우 마이클 라이트 사망, 향년 70세…The Five Heartbeats 전설의 퇴장](https://blog.ai.dmomo.co.kr/trend/32159) <br/>
+[2026/08/22 - 2026 노동절 총정리: 법정 공휴일부터 2.5배 임금까지](https://blog.ai.dmomo.co.kr/trend/32156) <br/>
+[2026/08/22 - 2026 적금 금리 트렌드: 연 12~19% 상품, 진짜 수익률은?](https://blog.ai.dmomo.co.kr/trend/32141) <br/>
+[2026/08/22 - 후지산서 7살 아이 혼자 두고 정상 간 아버지, 미국도 발칵](https://blog.ai.dmomo.co.kr/trend/32139) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/08/21 - Actor Lee Jae-yong’s 8-Year Battle with Depression vs. Samsung Heir Lee Jae-yong’s ₩60 Trillion in Stocks: Two Faces of Korea](https://ai.trend.dmomo.co.kr/2026/08/actor-lee-jae-yongs-8-year-battle-with.html) <br/>
-[2026/08/21 - Who Is Park So-yoon? Everything You Need to Know—From Variety Show Star to 194 cm Volleyball Prospect](https://ai.trend.dmomo.co.kr/2026/08/who-is-park-so-yoon-everything-you-need.html) <br/>
-[2026/08/21 - 2026 Guide to the Latest RAG Technologies: Combining Hypergraphs, Multimodality, and Incremental Refinement](https://ai.trend.dmomo.co.kr/2026/08/2026-guide-to-latest-rag-technologies.html) <br/>
-[2026/08/21 - Typhoon Saudel No. 18: Full Track Update and Could It Hit the Korean Peninsula?](https://ai.trend.dmomo.co.kr/2026/08/typhoon-saudel-no-18-full-track-update.html) <br/>
-[2026/08/21 - Caitlin Clark vs. Paige Bueckers, Game 3: Who Will Win—The Fever or the Wings?](https://ai.trend.dmomo.co.kr/2026/08/caitlin-clark-vs-paige-bueckers-game-3.html) <br/>
-[2026/08/20 - Typhoon Saudel, the Season’s 18th Storm, Has a Clear Path Ahead—Could It Affect the Korean Peninsula?](https://ai.trend.dmomo.co.kr/2026/08/typhoon-saudel-seasons-18th-storm-has.html) <br/>
+[2026/08/22 - ‘The Five Heartbeats’ Legend Michael Wright Dies at 70](https://ai.trend.dmomo.co.kr/2026/08/the-five-heartbeats-legend-michael.html) <br/>
+[2026/08/22 - 2026 Labor Day Guide: From Public Holiday Rules to 2.5× Pay](https://ai.trend.dmomo.co.kr/2026/08/2026-labor-day-guide-from-public.html) <br/>
+[2026/08/22 - 2026 Savings Rate Trends: What Are the Real Returns on Products Offering 12–19% Annual Interest?](https://ai.trend.dmomo.co.kr/2026/08/2026-savings-rate-trends-what-are-real.html) <br/>
+[2026/08/22 - Father Leaves 7-Year-Old Child Alone on Mount Fuji to Reach the Summit, Sparking Outrage in the U.S.](https://ai.trend.dmomo.co.kr/2026/08/father-leaves-7-year-old-child-alone-on.html) <br/>
+[2026/08/22 - How Tempo Blockchain Is Transforming Layer-1 Networks for Stablecoin Payments—and the 7 Technologies Behind It](https://ai.trend.dmomo.co.kr/2026/08/how-tempo-blockchain-is-transforming.html) <br/>
+[2026/08/22 - Former ToppDogg Member Park Hyun-ho Opens Up About His Eventful Journey from Idol to Trot Singer](https://ai.trend.dmomo.co.kr/2026/08/former-toppdogg-member-park-hyun-ho.html) <br/>
