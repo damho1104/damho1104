@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/23 - ChatGPT 전세계 장애 사태, AI가 핵심 인프라가 된 시대의 위험성](https://blog.ai.dmomo.co.kr/ai/32168) <br/>
-[2026/08/22 - 배우 마이클 라이트 사망, 향년 70세…The Five Heartbeats 전설의 퇴장](https://blog.ai.dmomo.co.kr/trend/32159) <br/>
-[2026/08/22 - 2026 노동절 총정리: 법정 공휴일부터 2.5배 임금까지](https://blog.ai.dmomo.co.kr/trend/32156) <br/>
-[2026/08/22 - 2026 적금 금리 트렌드: 연 12~19% 상품, 진짜 수익률은?](https://blog.ai.dmomo.co.kr/trend/32141) <br/>
-[2026/08/22 - 후지산서 7살 아이 혼자 두고 정상 간 아버지, 미국도 발칵](https://blog.ai.dmomo.co.kr/trend/32139) <br/>
+[2026/08/23 - Fromm·Oma’s Pride 동시 리콜, 우리 강아지 사료 괜찮을까?](https://blog.ai.dmomo.co.kr/trend/32222) <br/>
+[2026/08/23 - 손흥민 6경기 침묵, LAFC vs 포틀랜드 1-1 무승부 총정리](https://blog.ai.dmomo.co.kr/trend/32204) <br/>
+[2026/08/23 - Chivas 5-2 Tijuana: Liga MX 대승의 숨겨진 데이터와 미국 팬덤의 시각](https://blog.ai.dmomo.co.kr/trend/32202) <br/>
+[2026/08/23 - 우지원 딸 우서윤, 미스코리아 진 등극한 9등신 아트 큐레이터 지망생](https://blog.ai.dmomo.co.kr/trend/32179) <br/>
+[2026/08/23 - Cloudflare Kitesurf란? AI 에이전트 브라우저 런타임의 3가지 혁신세션](https://blog.ai.dmomo.co.kr/tech/32178) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/08/22 - ‘The Five Heartbeats’ Legend Michael Wright Dies at 70](https://ai.trend.dmomo.co.kr/2026/08/the-five-heartbeats-legend-michael.html) <br/>
-[2026/08/22 - 2026 Labor Day Guide: From Public Holiday Rules to 2.5× Pay](https://ai.trend.dmomo.co.kr/2026/08/2026-labor-day-guide-from-public.html) <br/>
-[2026/08/22 - 2026 Savings Rate Trends: What Are the Real Returns on Products Offering 12–19% Annual Interest?](https://ai.trend.dmomo.co.kr/2026/08/2026-savings-rate-trends-what-are-real.html) <br/>
-[2026/08/22 - Father Leaves 7-Year-Old Child Alone on Mount Fuji to Reach the Summit, Sparking Outrage in the U.S.](https://ai.trend.dmomo.co.kr/2026/08/father-leaves-7-year-old-child-alone-on.html) <br/>
-[2026/08/22 - How Tempo Blockchain Is Transforming Layer-1 Networks for Stablecoin Payments—and the 7 Technologies Behind It](https://ai.trend.dmomo.co.kr/2026/08/how-tempo-blockchain-is-transforming.html) <br/>
-[2026/08/22 - Former ToppDogg Member Park Hyun-ho Opens Up About His Eventful Journey from Idol to Trot Singer](https://ai.trend.dmomo.co.kr/2026/08/former-toppdogg-member-park-hyun-ho.html) <br/>
+[2026/08/23 - Fromm and Oma’s Pride Issue Simultaneous Recalls—Is Your Dog’s Food Safe?](https://ai.trend.dmomo.co.kr/2026/08/fromm-and-omas-pride-issue-simultaneous.html) <br/>
+[2026/08/23 - Son Heung-min’s Six-Game Scoring Drought Continues as LAFC Draw 1-1 with Portland: Full Recap](https://ai.trend.dmomo.co.kr/2026/08/son-heung-mins-six-game-scoring-drought.html) <br/>
+[2026/08/23 - Chivas 5–2 Tijuana: The Hidden Data Behind a Liga MX Rout and the U.S. Fan Perspective](https://ai.trend.dmomo.co.kr/2026/08/chivas-52-tijuana-hidden-data-behind.html) <br/>
+[2026/08/23 - What Is Cloudflare Kitesurf? Three Breakthroughs in the AI Agent Browser Runtime](https://ai.trend.dmomo.co.kr/2026/08/what-is-cloudflare-kitesurf-three.html) <br/>
+[2026/08/23 - Woo Ji-won’s Daughter Woo Seo-yoon Crowned Miss Korea Winner—A Striking, Model-Proportioned Aspiring Art Curator](https://ai.trend.dmomo.co.kr/2026/08/woo-ji-wons-daughter-woo-seo-yoon.html) <br/>
+[2026/08/23 - Fever vs. Liberty WNBA Showdown: Caitlin Clark Invades Brooklyn](https://ai.trend.dmomo.co.kr/2026/08/fever-vs-liberty-wnba-showdown-caitlin.html) <br/>
