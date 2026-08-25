@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/23 - Fromm·Oma’s Pride 동시 리콜, 우리 강아지 사료 괜찮을까?](https://blog.ai.dmomo.co.kr/trend/32222) <br/>
-[2026/08/23 - 손흥민 6경기 침묵, LAFC vs 포틀랜드 1-1 무승부 총정리](https://blog.ai.dmomo.co.kr/trend/32204) <br/>
-[2026/08/23 - Chivas 5-2 Tijuana: Liga MX 대승의 숨겨진 데이터와 미국 팬덤의 시각](https://blog.ai.dmomo.co.kr/trend/32202) <br/>
-[2026/08/23 - 우지원 딸 우서윤, 미스코리아 진 등극한 9등신 아트 큐레이터 지망생](https://blog.ai.dmomo.co.kr/trend/32179) <br/>
-[2026/08/23 - Cloudflare Kitesurf란? AI 에이전트 브라우저 런타임의 3가지 혁신세션](https://blog.ai.dmomo.co.kr/tech/32178) <br/>
+[2026/08/24 - 번개 이름 달고 소멸? 21호 태풍 앗사니의 진짜 정체와 한국 영향](https://blog.ai.dmomo.co.kr/trend/32294) <br/>
+[2026/08/24 - 셜리 페브라스 별세, Johnny Angel부터 Coach까지 미국 TV 아이콘의 82년 삶](https://blog.ai.dmomo.co.kr/trend/32292) <br/>
+[2026/08/24 - Ashton Jeanty 부상 진실: ACL 파열 루머 vs 발목 염좌 반전, 무엇이 맞나?](https://blog.ai.dmomo.co.kr/trend/32273) <br/>
+[2026/08/24 - 폭우로 전면 침수된 거제 섬꽃 축제, 제20회는 왜 취소됐나?](https://blog.ai.dmomo.co.kr/trend/32271) <br/>
+[2026/08/24 - 2026년 MLOps 표준은 왜 MLflow 중심 스택으로 굳어지고 있을까?](https://blog.ai.dmomo.co.kr/tech/32246) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/08/23 - Fromm and Oma’s Pride Issue Simultaneous Recalls—Is Your Dog’s Food Safe?](https://ai.trend.dmomo.co.kr/2026/08/fromm-and-omas-pride-issue-simultaneous.html) <br/>
-[2026/08/23 - Son Heung-min’s Six-Game Scoring Drought Continues as LAFC Draw 1-1 with Portland: Full Recap](https://ai.trend.dmomo.co.kr/2026/08/son-heung-mins-six-game-scoring-drought.html) <br/>
-[2026/08/23 - Chivas 5–2 Tijuana: The Hidden Data Behind a Liga MX Rout and the U.S. Fan Perspective](https://ai.trend.dmomo.co.kr/2026/08/chivas-52-tijuana-hidden-data-behind.html) <br/>
-[2026/08/23 - What Is Cloudflare Kitesurf? Three Breakthroughs in the AI Agent Browser Runtime](https://ai.trend.dmomo.co.kr/2026/08/what-is-cloudflare-kitesurf-three.html) <br/>
-[2026/08/23 - Woo Ji-won’s Daughter Woo Seo-yoon Crowned Miss Korea Winner—A Striking, Model-Proportioned Aspiring Art Curator](https://ai.trend.dmomo.co.kr/2026/08/woo-ji-wons-daughter-woo-seo-yoon.html) <br/>
-[2026/08/23 - Fever vs. Liberty WNBA Showdown: Caitlin Clark Invades Brooklyn](https://ai.trend.dmomo.co.kr/2026/08/fever-vs-liberty-wnba-showdown-caitlin.html) <br/>
+[2026/08/24 - Typhoon No. 21 Atsani: Named After Lightning, but Fading Away? Its True Identity and Impact on South Korea](https://ai.trend.dmomo.co.kr/2026/08/typhoon-no-21-atsani-named-after.html) <br/>
+[2026/08/24 - Shirley Fabares Dies at 82: The Life of an American TV Icon, from “Johnny Angel” to “Coach”](https://ai.trend.dmomo.co.kr/2026/08/shirley-fabares-dies-at-82-life-of.html) <br/>
+[2026/08/24 - The Truth About Ashton Jeanty’s Injury: ACL Tear Rumors vs. the Ankle Sprain Twist—What Really Happened?](https://ai.trend.dmomo.co.kr/2026/08/the-truth-about-ashton-jeantys-injury.html) <br/>
+[2026/08/24 - Why Was Geoje’s Island Flower Festival Canceled After Torrential Rain Flooded the Entire Venue?](https://ai.trend.dmomo.co.kr/2026/08/why-was-geojes-island-flower-festival.html) <br/>
+[2026/08/24 - Why Is the 2026 MLOps Standard Converging on an MLflow-Centered Stack?](https://ai.trend.dmomo.co.kr/2026/08/why-is-2026-mlops-standard-converging.html) <br/>
+[2026/08/24 - Barcelona’s Crushing 5-0 Victory! Raphinha Leads a Perfect Start to Their La Liga Title Defense](https://ai.trend.dmomo.co.kr/2026/08/barcelonas-crushing-5-0-victory.html) <br/>
