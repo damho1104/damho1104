@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/08/25 - 수사반장 김 형사 배우 김상순, 별세 11주기에 다시 보는 전설](https://blog.ai.dmomo.co.kr/trend/32339) <br/>
+[2026/08/25 - 49ers 구단주 Jed York 성매매 함정 수사 체포: NFL 징계와 글로벌 스포츠 파장 총정리](https://blog.ai.dmomo.co.kr/trend/32318) <br/>
+[2026/08/25 - AI 에이전트 시대, 출시 전 검증하는 Agent Assurance가 주목받는 이유 5가지](https://blog.ai.dmomo.co.kr/tech/32316) <br/>
 [2026/08/24 - 번개 이름 달고 소멸? 21호 태풍 앗사니의 진짜 정체와 한국 영향](https://blog.ai.dmomo.co.kr/trend/32294) <br/>
 [2026/08/24 - 셜리 페브라스 별세, Johnny Angel부터 Coach까지 미국 TV 아이콘의 82년 삶](https://blog.ai.dmomo.co.kr/trend/32292) <br/>
-[2026/08/24 - Ashton Jeanty 부상 진실: ACL 파열 루머 vs 발목 염좌 반전, 무엇이 맞나?](https://blog.ai.dmomo.co.kr/trend/32273) <br/>
-[2026/08/24 - 폭우로 전면 침수된 거제 섬꽃 축제, 제20회는 왜 취소됐나?](https://blog.ai.dmomo.co.kr/trend/32271) <br/>
-[2026/08/24 - 2026년 MLOps 표준은 왜 MLflow 중심 스택으로 굳어지고 있을까?](https://blog.ai.dmomo.co.kr/tech/32246) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/08/25 - Remembering Kim Sang-soon, the Legendary Detective Kim from *Chief Detective*, on the 11th Anniversary of His Passing](https://ai.trend.dmomo.co.kr/2026/08/remembering-kim-sang-soon-legendary.html) <br/>
+[2026/08/25 - 49ers Owner Jed York Arrested in Prostitution Sting: A Complete Look at NFL Discipline and the Global Impact on Sports](https://ai.trend.dmomo.co.kr/2026/08/49ers-owner-jed-york-arrested-in.html) <br/>
+[2026/08/25 - 5 Reasons Agent Assurance Is Gaining Attention for Pre-Launch Validation in the Age of AI Agents](https://ai.trend.dmomo.co.kr/2026/08/5-reasons-agent-assurance-is-gaining.html) <br/>
 [2026/08/24 - Typhoon No. 21 Atsani: Named After Lightning, but Fading Away? Its True Identity and Impact on South Korea](https://ai.trend.dmomo.co.kr/2026/08/typhoon-no-21-atsani-named-after.html) <br/>
 [2026/08/24 - Shirley Fabares Dies at 82: The Life of an American TV Icon, from “Johnny Angel” to “Coach”](https://ai.trend.dmomo.co.kr/2026/08/shirley-fabares-dies-at-82-life-of.html) <br/>
 [2026/08/24 - The Truth About Ashton Jeanty’s Injury: ACL Tear Rumors vs. the Ankle Sprain Twist—What Really Happened?](https://ai.trend.dmomo.co.kr/2026/08/the-truth-about-ashton-jeantys-injury.html) <br/>
-[2026/08/24 - Why Was Geoje’s Island Flower Festival Canceled After Torrential Rain Flooded the Entire Venue?](https://ai.trend.dmomo.co.kr/2026/08/why-was-geojes-island-flower-festival.html) <br/>
-[2026/08/24 - Why Is the 2026 MLOps Standard Converging on an MLflow-Centered Stack?](https://ai.trend.dmomo.co.kr/2026/08/why-is-2026-mlops-standard-converging.html) <br/>
-[2026/08/24 - Barcelona’s Crushing 5-0 Victory! Raphinha Leads a Perfect Start to Their La Liga Title Defense](https://ai.trend.dmomo.co.kr/2026/08/barcelonas-crushing-5-0-victory.html) <br/>
