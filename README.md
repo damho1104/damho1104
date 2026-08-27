@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/25 - 수사반장 김 형사 배우 김상순, 별세 11주기에 다시 보는 전설](https://blog.ai.dmomo.co.kr/trend/32339) <br/>
-[2026/08/25 - 49ers 구단주 Jed York 성매매 함정 수사 체포: NFL 징계와 글로벌 스포츠 파장 총정리](https://blog.ai.dmomo.co.kr/trend/32318) <br/>
-[2026/08/25 - AI 에이전트 시대, 출시 전 검증하는 Agent Assurance가 주목받는 이유 5가지](https://blog.ai.dmomo.co.kr/tech/32316) <br/>
-[2026/08/24 - 번개 이름 달고 소멸? 21호 태풍 앗사니의 진짜 정체와 한국 영향](https://blog.ai.dmomo.co.kr/trend/32294) <br/>
-[2026/08/24 - 셜리 페브라스 별세, Johnny Angel부터 Coach까지 미국 TV 아이콘의 82년 삶](https://blog.ai.dmomo.co.kr/trend/32292) <br/>
+[2026/08/27 - 컬트 아이콘 팀 커리 향년 80세 별세, Rocky Horror부터 Pennywise까지](https://blog.ai.dmomo.co.kr/trend/32441) <br/>
+[2026/08/27 - 2026년 MLOps 핵심 트렌드, AI Agents로 실시간 이탈 예측부터 리텐션까지 자동화하는 법](https://blog.ai.dmomo.co.kr/tech/32439) <br/>
+[2026/08/27 - 토트넘 5-1 대승! 사비우 데뷔골로 데 제르비 시대 본격 개막](https://blog.ai.dmomo.co.kr/trend/32437) <br/>
+[2026/08/26 - 2026년 과태료 완전정복: 교통·기업·생활 속 핵심 트렌드 5가지](https://blog.ai.dmomo.co.kr/trend/32405) <br/>
+[2026/08/26 - 송하예 결혼 발표 총정리: 100만 유튜버 조매력과 연내 결혼](https://blog.ai.dmomo.co.kr/trend/32381) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/08/25 - Remembering Kim Sang-soon, the Legendary Detective Kim from *Chief Detective*, on the 11th Anniversary of His Passing](https://ai.trend.dmomo.co.kr/2026/08/remembering-kim-sang-soon-legendary.html) <br/>
-[2026/08/25 - 49ers Owner Jed York Arrested in Prostitution Sting: A Complete Look at NFL Discipline and the Global Impact on Sports](https://ai.trend.dmomo.co.kr/2026/08/49ers-owner-jed-york-arrested-in.html) <br/>
-[2026/08/25 - 5 Reasons Agent Assurance Is Gaining Attention for Pre-Launch Validation in the Age of AI Agents](https://ai.trend.dmomo.co.kr/2026/08/5-reasons-agent-assurance-is-gaining.html) <br/>
-[2026/08/24 - Typhoon No. 21 Atsani: Named After Lightning, but Fading Away? Its True Identity and Impact on South Korea](https://ai.trend.dmomo.co.kr/2026/08/typhoon-no-21-atsani-named-after.html) <br/>
-[2026/08/24 - Shirley Fabares Dies at 82: The Life of an American TV Icon, from “Johnny Angel” to “Coach”](https://ai.trend.dmomo.co.kr/2026/08/shirley-fabares-dies-at-82-life-of.html) <br/>
-[2026/08/24 - The Truth About Ashton Jeanty’s Injury: ACL Tear Rumors vs. the Ankle Sprain Twist—What Really Happened?](https://ai.trend.dmomo.co.kr/2026/08/the-truth-about-ashton-jeantys-injury.html) <br/>
+[2026/08/27 - Cult Icon Tim Curry Dies at 80: From *The Rocky Horror Picture Show* to Pennywise](https://ai.trend.dmomo.co.kr/2026/08/cult-icon-tim-curry-dies-at-80-from.html) <br/>
+[2026/08/27 - Key MLOps Trends for 2026: How AI Agents Automate Everything from Real-Time Churn Prediction to Retention](https://ai.trend.dmomo.co.kr/2026/08/key-mlops-trends-for-2026-how-ai-agents.html) <br/>
+[2026/08/27 - Tottenham Thrash Their Opponents 5-1! Savio’s Debut Goal Heralds the Start of the De Zerbi Era](https://ai.trend.dmomo.co.kr/2026/08/tottenham-thrash-their-opponents-5-1.html) <br/>
+[2026/08/26 - 2026 Guide to Administrative Fines: 5 Key Trends in Traffic, Business, and Everyday Life](https://ai.trend.dmomo.co.kr/2026/08/2026-guide-to-administrative-fines-5.html) <br/>
+[2026/08/26 - Song Ha-ye Announces Her Marriage: Everything You Need to Know About Her Wedding Later This Year to Million-Subscriber YouTuber Jo Maeryeok](https://ai.trend.dmomo.co.kr/2026/08/song-ha-ye-announces-her-marriage.html) <br/>
+[2026/08/26 - The Age of AI Agents: How Agentic AI and LAMs Are Changing the Game](https://ai.trend.dmomo.co.kr/2026/08/the-age-of-ai-agents-how-agentic-ai-and.html) <br/>
