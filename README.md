@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/08/28 - 손예진 24년 만의 사극 복귀, 넷플릭스 스캔들 파격 변신 총정리](https://blog.ai.dmomo.co.kr/trend/32492) <br/>
+[2026/08/28 - 뮌헨 연구팀, Dynamic Lattice Surgery로 작은 양자 칩 성능 86% 높인 비결은?](https://blog.ai.dmomo.co.kr/tech/32489) <br/>
+[2026/08/28 - 옵티머스 프라임의 목소리 피터 컬렌 별세, 40년 팝컬처의 전설이 지다](https://blog.ai.dmomo.co.kr/trend/32488) <br/>
 [2026/08/27 - 컬트 아이콘 팀 커리 향년 80세 별세, Rocky Horror부터 Pennywise까지](https://blog.ai.dmomo.co.kr/trend/32441) <br/>
 [2026/08/27 - 2026년 MLOps 핵심 트렌드, AI Agents로 실시간 이탈 예측부터 리텐션까지 자동화하는 법](https://blog.ai.dmomo.co.kr/tech/32439) <br/>
-[2026/08/27 - 토트넘 5-1 대승! 사비우 데뷔골로 데 제르비 시대 본격 개막](https://blog.ai.dmomo.co.kr/trend/32437) <br/>
-[2026/08/26 - 2026년 과태료 완전정복: 교통·기업·생활 속 핵심 트렌드 5가지](https://blog.ai.dmomo.co.kr/trend/32405) <br/>
-[2026/08/26 - 송하예 결혼 발표 총정리: 100만 유튜버 조매력과 연내 결혼](https://blog.ai.dmomo.co.kr/trend/32381) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/08/28 - Son Ye-jin Returns to Historical Drama After 24 Years: Her Bold Transformation in Netflix’s *Scandal* Explained](https://ai.trend.dmomo.co.kr/2026/08/son-ye-jin-returns-to-historical-drama.html) <br/>
+[2026/08/28 - How a Munich Research Team Boosted a Small Quantum Chip’s Performance by 86% with Dynamic Lattice Surgery](https://ai.trend.dmomo.co.kr/2026/08/how-munich-research-team-boosted-small.html) <br/>
+[2026/08/28 - Peter Cullen, the Voice of Optimus Prime, Dies—The End of a 40-Year Pop Culture Legacy](https://ai.trend.dmomo.co.kr/2026/08/peter-cullen-voice-of-optimus-prime.html) <br/>
 [2026/08/27 - Cult Icon Tim Curry Dies at 80: From *The Rocky Horror Picture Show* to Pennywise](https://ai.trend.dmomo.co.kr/2026/08/cult-icon-tim-curry-dies-at-80-from.html) <br/>
 [2026/08/27 - Key MLOps Trends for 2026: How AI Agents Automate Everything from Real-Time Churn Prediction to Retention](https://ai.trend.dmomo.co.kr/2026/08/key-mlops-trends-for-2026-how-ai-agents.html) <br/>
 [2026/08/27 - Tottenham Thrash Their Opponents 5-1! Savio’s Debut Goal Heralds the Start of the De Zerbi Era](https://ai.trend.dmomo.co.kr/2026/08/tottenham-thrash-their-opponents-5-1.html) <br/>
-[2026/08/26 - 2026 Guide to Administrative Fines: 5 Key Trends in Traffic, Business, and Everyday Life](https://ai.trend.dmomo.co.kr/2026/08/2026-guide-to-administrative-fines-5.html) <br/>
-[2026/08/26 - Song Ha-ye Announces Her Marriage: Everything You Need to Know About Her Wedding Later This Year to Million-Subscriber YouTuber Jo Maeryeok](https://ai.trend.dmomo.co.kr/2026/08/song-ha-ye-announces-her-marriage.html) <br/>
-[2026/08/26 - The Age of AI Agents: How Agentic AI and LAMs Are Changing the Game](https://ai.trend.dmomo.co.kr/2026/08/the-age-of-ai-agents-how-agentic-ai-and.html) <br/>
