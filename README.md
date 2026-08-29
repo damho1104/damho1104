@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/08/28 - 옵티머스 프라임의 목소리 피터 컬런 별세, 40년 전설이 남긴 것](https://blog.ai.dmomo.co.kr/trend/32531) <br/>
+[2026/08/28 - 어딜 감히 정경호랑 결혼을? 74세 박정수 시어머니 발언 화제](https://blog.ai.dmomo.co.kr/trend/32513) <br/>
 [2026/08/28 - 손예진 24년 만의 사극 복귀, 넷플릭스 스캔들 파격 변신 총정리](https://blog.ai.dmomo.co.kr/trend/32492) <br/>
 [2026/08/28 - 뮌헨 연구팀, Dynamic Lattice Surgery로 작은 양자 칩 성능 86% 높인 비결은?](https://blog.ai.dmomo.co.kr/tech/32489) <br/>
 [2026/08/28 - 옵티머스 프라임의 목소리 피터 컬렌 별세, 40년 팝컬처의 전설이 지다](https://blog.ai.dmomo.co.kr/trend/32488) <br/>
-[2026/08/27 - 컬트 아이콘 팀 커리 향년 80세 별세, Rocky Horror부터 Pennywise까지](https://blog.ai.dmomo.co.kr/trend/32441) <br/>
-[2026/08/27 - 2026년 MLOps 핵심 트렌드, AI Agents로 실시간 이탈 예측부터 리텐션까지 자동화하는 법](https://blog.ai.dmomo.co.kr/tech/32439) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/08/28 - Peter Cullen, the Voice of Optimus Prime, Dies — Remembering a 40-Year Legend](https://ai.trend.dmomo.co.kr/2026/08/peter-cullen-voice-of-optimus-prime_01975702918.html) <br/>
+[2026/08/28 - “How Dare You Marry Jung Kyung-ho?” 74-Year-Old Park Jung-soo’s Blunt Mother-in-Law Remark Goes Viral](https://ai.trend.dmomo.co.kr/2026/08/how-dare-you-marry-jung-kyung-ho-74.html) <br/>
 [2026/08/28 - Son Ye-jin Returns to Historical Drama After 24 Years: Her Bold Transformation in Netflix’s *Scandal* Explained](https://ai.trend.dmomo.co.kr/2026/08/son-ye-jin-returns-to-historical-drama.html) <br/>
 [2026/08/28 - How a Munich Research Team Boosted a Small Quantum Chip’s Performance by 86% with Dynamic Lattice Surgery](https://ai.trend.dmomo.co.kr/2026/08/how-munich-research-team-boosted-small.html) <br/>
 [2026/08/28 - Peter Cullen, the Voice of Optimus Prime, Dies—The End of a 40-Year Pop Culture Legacy](https://ai.trend.dmomo.co.kr/2026/08/peter-cullen-voice-of-optimus-prime.html) <br/>
 [2026/08/27 - Cult Icon Tim Curry Dies at 80: From *The Rocky Horror Picture Show* to Pennywise](https://ai.trend.dmomo.co.kr/2026/08/cult-icon-tim-curry-dies-at-80-from.html) <br/>
-[2026/08/27 - Key MLOps Trends for 2026: How AI Agents Automate Everything from Real-Time Churn Prediction to Retention](https://ai.trend.dmomo.co.kr/2026/08/key-mlops-trends-for-2026-how-ai-agents.html) <br/>
-[2026/08/27 - Tottenham Thrash Their Opponents 5-1! Savio’s Debut Goal Heralds the Start of the De Zerbi Era](https://ai.trend.dmomo.co.kr/2026/08/tottenham-thrash-their-opponents-5-1.html) <br/>
