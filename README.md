@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/28 - 옵티머스 프라임의 목소리 피터 컬런 별세, 40년 전설이 남긴 것](https://blog.ai.dmomo.co.kr/trend/32531) <br/>
-[2026/08/28 - 어딜 감히 정경호랑 결혼을? 74세 박정수 시어머니 발언 화제](https://blog.ai.dmomo.co.kr/trend/32513) <br/>
-[2026/08/28 - 손예진 24년 만의 사극 복귀, 넷플릭스 스캔들 파격 변신 총정리](https://blog.ai.dmomo.co.kr/trend/32492) <br/>
-[2026/08/28 - 뮌헨 연구팀, Dynamic Lattice Surgery로 작은 양자 칩 성능 86% 높인 비결은?](https://blog.ai.dmomo.co.kr/tech/32489) <br/>
-[2026/08/28 - 옵티머스 프라임의 목소리 피터 컬렌 별세, 40년 팝컬처의 전설이 지다](https://blog.ai.dmomo.co.kr/trend/32488) <br/>
+[2026/08/30 - Claude가 멍청해졌다? 장기 구독자들이 폭로한 AI 품질 퇴보 논란](https://blog.ai.dmomo.co.kr/ai/32613) <br/>
+[2026/08/29 - 2026 태풍 시즌 총정리: 괴물 태풍 사우델과 쌍태풍의 시대](https://blog.ai.dmomo.co.kr/trend/32604) <br/>
+[2026/08/29 - Clark·Mitchell 각 34점! 페버, WNBA 역사를 바꾼 68점 듀오의 밤](https://blog.ai.dmomo.co.kr/trend/32602) <br/>
+[2026/08/29 - 백화점 르네상스 2026: 팝업·체험·페어링으로 진화하는 쇼핑의 미래](https://blog.ai.dmomo.co.kr/trend/32585) <br/>
+[2026/08/29 - 극우 이민강경론자 Milo Yiannopoulos, ICE에 체포되어 추방 위기](https://blog.ai.dmomo.co.kr/trend/32583) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/08/28 - Peter Cullen, the Voice of Optimus Prime, Dies — Remembering a 40-Year Legend](https://ai.trend.dmomo.co.kr/2026/08/peter-cullen-voice-of-optimus-prime_01975702918.html) <br/>
-[2026/08/28 - “How Dare You Marry Jung Kyung-ho?” 74-Year-Old Park Jung-soo’s Blunt Mother-in-Law Remark Goes Viral](https://ai.trend.dmomo.co.kr/2026/08/how-dare-you-marry-jung-kyung-ho-74.html) <br/>
-[2026/08/28 - Son Ye-jin Returns to Historical Drama After 24 Years: Her Bold Transformation in Netflix’s *Scandal* Explained](https://ai.trend.dmomo.co.kr/2026/08/son-ye-jin-returns-to-historical-drama.html) <br/>
-[2026/08/28 - How a Munich Research Team Boosted a Small Quantum Chip’s Performance by 86% with Dynamic Lattice Surgery](https://ai.trend.dmomo.co.kr/2026/08/how-munich-research-team-boosted-small.html) <br/>
-[2026/08/28 - Peter Cullen, the Voice of Optimus Prime, Dies—The End of a 40-Year Pop Culture Legacy](https://ai.trend.dmomo.co.kr/2026/08/peter-cullen-voice-of-optimus-prime.html) <br/>
-[2026/08/27 - Cult Icon Tim Curry Dies at 80: From *The Rocky Horror Picture Show* to Pennywise](https://ai.trend.dmomo.co.kr/2026/08/cult-icon-tim-curry-dies-at-80-from.html) <br/>
+[2026/08/29 - 2026 Typhoon Season Roundup: Monster Typhoon Saudel and the Age of Twin Typhoons](https://ai.trend.dmomo.co.kr/2026/08/2026-typhoon-season-roundup-monster.html) <br/>
+[2026/08/29 - Clark and Mitchell Score 34 Each: The Fever’s Historic 68-Point Duo That Changed WNBA History](https://ai.trend.dmomo.co.kr/2026/08/clark-and-mitchell-score-34-each-fevers.html) <br/>
+[2026/08/29 - Department Store Renaissance 2026: The Future of Shopping, Reimagined Through Pop-Ups, Experiences, and Curated Pairings](https://ai.trend.dmomo.co.kr/2026/08/department-store-renaissance-2026.html) <br/>
+[2026/08/29 - Far-Right Immigration Hardliner Milo Yiannopoulos Arrested by ICE, Faces Deportation](https://ai.trend.dmomo.co.kr/2026/08/far-right-immigration-hardliner-milo.html) <br/>
+[2026/08/29 - USD/KRW Exchange Rate Plunges to the 1,370 Won Range in 2026: Is Now the Time to Buy Dollars?](https://ai.trend.dmomo.co.kr/2026/08/usdkrw-exchange-rate-plunges-to-1370.html) <br/>
+[2026/08/29 - What Are AWS Lambda MicroVMs? How Stateful Computing and VM-Level Isolation Are Shaping the Future of Serverless](https://ai.trend.dmomo.co.kr/2026/08/what-are-aws-lambda-microvms-how.html) <br/>
