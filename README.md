@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/08/30 - UNLV vs Memphis 2026 개막전: Jackson Arnold 데뷔 38야드 TD와 베팅 라인 완벽 분석](https://blog.ai.dmomo.co.kr/trend/32646) <br/>
+[2026/08/30 - 2026년 AI 혁명, Agentic AI와 LAM이 업무 자동화를 바꾸는 7가지 이유](https://blog.ai.dmomo.co.kr/tech/32625) <br/>
+[2026/08/30 - Pachuca vs Chivas 2026: 미국에서 보는 법과 H2H 완벽 분석](https://blog.ai.dmomo.co.kr/trend/32623) <br/>
+[2026/08/30 - 푸른거탑 신병 이용주 배우, 향년 44세 심장마비로 별세](https://blog.ai.dmomo.co.kr/trend/32621) <br/>
 [2026/08/30 - Claude가 멍청해졌다? 장기 구독자들이 폭로한 AI 품질 퇴보 논란](https://blog.ai.dmomo.co.kr/ai/32613) <br/>
-[2026/08/29 - 2026 태풍 시즌 총정리: 괴물 태풍 사우델과 쌍태풍의 시대](https://blog.ai.dmomo.co.kr/trend/32604) <br/>
-[2026/08/29 - Clark·Mitchell 각 34점! 페버, WNBA 역사를 바꾼 68점 듀오의 밤](https://blog.ai.dmomo.co.kr/trend/32602) <br/>
-[2026/08/29 - 백화점 르네상스 2026: 팝업·체험·페어링으로 진화하는 쇼핑의 미래](https://blog.ai.dmomo.co.kr/trend/32585) <br/>
-[2026/08/29 - 극우 이민강경론자 Milo Yiannopoulos, ICE에 체포되어 추방 위기](https://blog.ai.dmomo.co.kr/trend/32583) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/08/30 - UNLV vs. Memphis 2026 Season Opener: Jackson Arnold’s 38-Yard TD Debut and a Complete Betting Line Breakdown](https://ai.trend.dmomo.co.kr/2026/08/unlv-vs-memphis-2026-season-opener.html) <br/>
+[2026/08/30 - The 2026 AI Revolution: 7 Reasons Agentic AI and LAM Are Transforming Workplace Automation](https://ai.trend.dmomo.co.kr/2026/08/the-2026-ai-revolution-7-reasons.html) <br/>
+[2026/08/30 - Pachuca vs. Chivas 2026: How to Watch in the U.S. and Complete Head-to-Head Analysis](https://ai.trend.dmomo.co.kr/2026/08/pachuca-vs-chivas-2026-how-to-watch-in.html) <br/>
+[2026/08/30 - Actor Lee Yong-joo, Known for Playing the New Recruit in *Blue Tower*, Dies of a Heart Attack at 44](https://ai.trend.dmomo.co.kr/2026/08/actor-lee-yong-joo-known-for-playing.html) <br/>
 [2026/08/29 - 2026 Typhoon Season Roundup: Monster Typhoon Saudel and the Age of Twin Typhoons](https://ai.trend.dmomo.co.kr/2026/08/2026-typhoon-season-roundup-monster.html) <br/>
 [2026/08/29 - Clark and Mitchell Score 34 Each: The Fever’s Historic 68-Point Duo That Changed WNBA History](https://ai.trend.dmomo.co.kr/2026/08/clark-and-mitchell-score-34-each-fevers.html) <br/>
-[2026/08/29 - Department Store Renaissance 2026: The Future of Shopping, Reimagined Through Pop-Ups, Experiences, and Curated Pairings](https://ai.trend.dmomo.co.kr/2026/08/department-store-renaissance-2026.html) <br/>
-[2026/08/29 - Far-Right Immigration Hardliner Milo Yiannopoulos Arrested by ICE, Faces Deportation](https://ai.trend.dmomo.co.kr/2026/08/far-right-immigration-hardliner-milo.html) <br/>
-[2026/08/29 - USD/KRW Exchange Rate Plunges to the 1,370 Won Range in 2026: Is Now the Time to Buy Dollars?](https://ai.trend.dmomo.co.kr/2026/08/usdkrw-exchange-rate-plunges-to-1370.html) <br/>
-[2026/08/29 - What Are AWS Lambda MicroVMs? How Stateful Computing and VM-Level Isolation Are Shaping the Future of Serverless](https://ai.trend.dmomo.co.kr/2026/08/what-are-aws-lambda-microvms-how.html) <br/>
