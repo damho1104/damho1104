@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/08/30 - UNLV vs Memphis 2026 개막전: Jackson Arnold 데뷔 38야드 TD와 베팅 라인 완벽 분석](https://blog.ai.dmomo.co.kr/trend/32646) <br/>
-[2026/08/30 - 2026년 AI 혁명, Agentic AI와 LAM이 업무 자동화를 바꾸는 7가지 이유](https://blog.ai.dmomo.co.kr/tech/32625) <br/>
-[2026/08/30 - Pachuca vs Chivas 2026: 미국에서 보는 법과 H2H 완벽 분석](https://blog.ai.dmomo.co.kr/trend/32623) <br/>
-[2026/08/30 - 푸른거탑 신병 이용주 배우, 향년 44세 심장마비로 별세](https://blog.ai.dmomo.co.kr/trend/32621) <br/>
-[2026/08/30 - Claude가 멍청해졌다? 장기 구독자들이 폭로한 AI 품질 퇴보 논란](https://blog.ai.dmomo.co.kr/ai/32613) <br/>
+[2026/09/01 - 가수 지나(G.NA), 성매매 벌금형 10년 만에 컴백…복귀의 의미는?](https://blog.ai.dmomo.co.kr/trend/32767) <br/>
+[2026/09/01 - 바르셀로나 5-2 라요, 야말 최연소 50골로 라리가 선두 등극](https://blog.ai.dmomo.co.kr/trend/32765) <br/>
+[2026/08/31 - 황운하, 중수청 초대 청장 제안 거절한 진짜 이유는?](https://blog.ai.dmomo.co.kr/trend/32736) <br/>
+[2026/08/31 - 조코비치 US Open 1라운드 충격 탈락, 20년 만에 무슨 일이?](https://blog.ai.dmomo.co.kr/trend/32734) <br/>
+[2026/08/31 - 2024 한국 남편 트렌드: 가부장에서 동반자로 재정의되는 남편의 모든 것](https://blog.ai.dmomo.co.kr/trend/32715) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/08/30 - UNLV vs. Memphis 2026 Season Opener: Jackson Arnold’s 38-Yard TD Debut and a Complete Betting Line Breakdown](https://ai.trend.dmomo.co.kr/2026/08/unlv-vs-memphis-2026-season-opener.html) <br/>
-[2026/08/30 - The 2026 AI Revolution: 7 Reasons Agentic AI and LAM Are Transforming Workplace Automation](https://ai.trend.dmomo.co.kr/2026/08/the-2026-ai-revolution-7-reasons.html) <br/>
-[2026/08/30 - Pachuca vs. Chivas 2026: How to Watch in the U.S. and Complete Head-to-Head Analysis](https://ai.trend.dmomo.co.kr/2026/08/pachuca-vs-chivas-2026-how-to-watch-in.html) <br/>
-[2026/08/30 - Actor Lee Yong-joo, Known for Playing the New Recruit in *Blue Tower*, Dies of a Heart Attack at 44](https://ai.trend.dmomo.co.kr/2026/08/actor-lee-yong-joo-known-for-playing.html) <br/>
-[2026/08/29 - 2026 Typhoon Season Roundup: Monster Typhoon Saudel and the Age of Twin Typhoons](https://ai.trend.dmomo.co.kr/2026/08/2026-typhoon-season-roundup-monster.html) <br/>
-[2026/08/29 - Clark and Mitchell Score 34 Each: The Fever’s Historic 68-Point Duo That Changed WNBA History](https://ai.trend.dmomo.co.kr/2026/08/clark-and-mitchell-score-34-each-fevers.html) <br/>
+[2026/08/31 - Why Did Hwang Un-ha Really Turn Down the Offer to Become the First Chief of the Serious Crimes Investigation Agency?](https://ai.trend.dmomo.co.kr/2026/08/why-did-hwang-un-ha-really-turn-down.html) <br/>
+[2026/08/31 - Novak Djokovic’s Shocking First-Round US Open Exit: What Happened After 20 Years?](https://ai.trend.dmomo.co.kr/2026/08/novak-djokovics-shocking-first-round-us.html) <br/>
+[2026/08/31 - 2024 Korean Husband Trends: From Patriarchs to Partners—How Husbands Are Being Redefined](https://ai.trend.dmomo.co.kr/2026/08/2024-korean-husband-trends-from.html) <br/>
+[2026/08/31 - Novak Djokovic Stunned in First-Round Exit! A Complete Recap of the 2026 US Open Opening Day](https://ai.trend.dmomo.co.kr/2026/08/novak-djokovic-stunned-in-first-round.html) <br/>
+[2026/08/31 - Bruno’s Hat-Trick and Assist Power Man United to a Stunning 5–2 Comeback—Carrick-Ball Is Back!](https://ai.trend.dmomo.co.kr/2026/08/brunos-hat-trick-and-assist-power-man.html) <br/>
+[2026/08/31 - Key Low-Code Trends Shaping 2026: AI Agents and n8n Orchestration Strategies](https://ai.trend.dmomo.co.kr/2026/08/key-low-code-trends-shaping-2026-ai.html) <br/>
