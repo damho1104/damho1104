@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/09/01 - 신민아 15년간 37억 조용한 기부, 선한 영향력의 진짜 의미](https://blog.ai.dmomo.co.kr/trend/32811) <br/>
+[2026/09/01 - 두부값 폭등부터 난치병 치료까지, 2026 콩 트렌드 완전정복](https://blog.ai.dmomo.co.kr/trend/32793) <br/>
+[2026/09/01 - 라이오넬 리치 77세 공연 중 ICU 입원, 탈수가 원인?](https://blog.ai.dmomo.co.kr/trend/32791) <br/>
+[2026/09/01 - 2026년 주목할 최신 기술, Low-code ML 플랫폼이 AI 상용화를 앞당기는 이유 5가지](https://blog.ai.dmomo.co.kr/tech/32769) <br/>
 [2026/09/01 - 가수 지나(G.NA), 성매매 벌금형 10년 만에 컴백…복귀의 의미는?](https://blog.ai.dmomo.co.kr/trend/32767) <br/>
-[2026/09/01 - 바르셀로나 5-2 라요, 야말 최연소 50골로 라리가 선두 등극](https://blog.ai.dmomo.co.kr/trend/32765) <br/>
-[2026/08/31 - 황운하, 중수청 초대 청장 제안 거절한 진짜 이유는?](https://blog.ai.dmomo.co.kr/trend/32736) <br/>
-[2026/08/31 - 조코비치 US Open 1라운드 충격 탈락, 20년 만에 무슨 일이?](https://blog.ai.dmomo.co.kr/trend/32734) <br/>
-[2026/08/31 - 2024 한국 남편 트렌드: 가부장에서 동반자로 재정의되는 남편의 모든 것](https://blog.ai.dmomo.co.kr/trend/32715) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/08/31 - Why Did Hwang Un-ha Really Turn Down the Offer to Become the First Chief of the Serious Crimes Investigation Agency?](https://ai.trend.dmomo.co.kr/2026/08/why-did-hwang-un-ha-really-turn-down.html) <br/>
-[2026/08/31 - Novak Djokovic’s Shocking First-Round US Open Exit: What Happened After 20 Years?](https://ai.trend.dmomo.co.kr/2026/08/novak-djokovics-shocking-first-round-us.html) <br/>
-[2026/08/31 - 2024 Korean Husband Trends: From Patriarchs to Partners—How Husbands Are Being Redefined](https://ai.trend.dmomo.co.kr/2026/08/2024-korean-husband-trends-from.html) <br/>
-[2026/08/31 - Novak Djokovic Stunned in First-Round Exit! A Complete Recap of the 2026 US Open Opening Day](https://ai.trend.dmomo.co.kr/2026/08/novak-djokovic-stunned-in-first-round.html) <br/>
-[2026/08/31 - Bruno’s Hat-Trick and Assist Power Man United to a Stunning 5–2 Comeback—Carrick-Ball Is Back!](https://ai.trend.dmomo.co.kr/2026/08/brunos-hat-trick-and-assist-power-man.html) <br/>
-[2026/08/31 - Key Low-Code Trends Shaping 2026: AI Agents and n8n Orchestration Strategies](https://ai.trend.dmomo.co.kr/2026/08/key-low-code-trends-shaping-2026-ai.html) <br/>
+[2026/09/01 - Shin Min-a’s Quiet 15-Year, 3.7 Billion Won Donation Journey: The True Meaning of Positive Influence](https://ai.trend.dmomo.co.kr/2026/09/shin-min-as-quiet-15-year-37-billion.html) <br/>
+[2026/09/01 - From Skyrocketing Tofu Prices to Breakthrough Treatments for Hard-to-Treat Diseases: The Ultimate Guide to 2026 Soy Trends](https://ai.trend.dmomo.co.kr/2026/08/from-skyrocketing-tofu-prices-to.html) <br/>
+[2026/09/01 - Lionel Richie, 77, Hospitalized in the ICU During a Performance—Was Dehydration to Blame?](https://ai.trend.dmomo.co.kr/2026/08/lionel-richie-77-hospitalized-in-icu.html) <br/>
+[2026/09/01 - 5 Reasons Low-Code ML Platforms Are Accelerating AI Commercialization in 2026](https://ai.trend.dmomo.co.kr/2026/08/5-reasons-low-code-ml-platforms-are.html) <br/>
+[2026/09/01 - Singer G.NA Returns 10 Years After Being Fined for Prostitution—What Does Her Comeback Mean?](https://ai.trend.dmomo.co.kr/2026/08/singer-gna-returns-10-years-after-being.html) <br/>
+[2026/09/01 - Barcelona Rout Rayo 5-2 as Yamal Becomes Youngest-Ever to Reach 50 Goals and Move Top of La Liga](https://ai.trend.dmomo.co.kr/2026/08/barcelona-rout-rayo-5-2-as-yamal.html) <br/>
