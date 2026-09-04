@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/09/03 - IBM 70개 논리 큐비트로 15분 만에 입증한 진짜 양자 우위, 무엇이 달라졌나?](https://blog.ai.dmomo.co.kr/tech/32889) <br/>
+[2026/09/03 - 디즈니 좀비 Bree 역 칼라 제프리, 33세 갑작스러운 사망](https://blog.ai.dmomo.co.kr/trend/32887) <br/>
+[2026/09/03 - 악뮤 이수현 30kg 감량 비결과 공복 유산소 운동 진실](https://blog.ai.dmomo.co.kr/trend/32885) <br/>
 [2026/09/02 - 전원합의체란 무엇인가? 김건희 사건으로 본 대법원 최고 심판기구의 실체](https://blog.ai.dmomo.co.kr/trend/32865) <br/>
 [2026/09/02 - 실업급여 대개편 총정리: 월 22만원 삭감, 보험료 인상, 알바 함정까지](https://blog.ai.dmomo.co.kr/trend/32847) <br/>
-[2026/09/02 - 타임스퀘어 흉기 난동, Bank of America 부사장 에린 피아첸티 사망](https://blog.ai.dmomo.co.kr/trend/32845) <br/>
-[2026/09/02 - 2026년 핵심 기술, Low-code Integration Platform의 장점과 한계 총정리](https://blog.ai.dmomo.co.kr/tech/32826) <br/>
-[2026/09/01 - 신민아 15년간 37억 조용한 기부, 선한 영향력의 진짜 의미](https://blog.ai.dmomo.co.kr/trend/32811) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/09/03 - IBM Proves Real Quantum Advantage with 70 Logical Qubits in Just 15 Minutes—What’s Different This Time?](https://ai.trend.dmomo.co.kr/2026/09/ibm-proves-real-quantum-advantage-with.html) <br/>
+[2026/09/03 - Carla Jeffery, Who Played Bree in Disney’s *Zombies*, Dies Suddenly at 33](https://ai.trend.dmomo.co.kr/2026/09/carla-jeffery-who-played-bree-in.html) <br/>
+[2026/09/03 - AKMU’s Lee Su-hyun: The Secret Behind Her 30kg Weight Loss and the Truth About Fasted Cardio](https://ai.trend.dmomo.co.kr/2026/09/akmus-lee-su-hyun-secret-behind-her.html) <br/>
 [2026/09/02 - What Is a Grand Bench? A Look Inside the Supreme Court’s Highest Judicial Panel Through the Kim Keon-hee Case](https://ai.trend.dmomo.co.kr/2026/09/what-is-grand-bench-look-inside-supreme.html) <br/>
 [2026/09/02 - The Big Unemployment Benefit Overhaul: ₩220,000 Less per Month, Higher Premiums, and the Part-Time Job Trap](https://ai.trend.dmomo.co.kr/2026/09/the-big-unemployment-benefit-overhaul.html) <br/>
 [2026/09/02 - Bank of America Vice President Erin Piacenti Killed in Times Square Knife Attack](https://ai.trend.dmomo.co.kr/2026/09/bank-of-america-vice-president-erin.html) <br/>
-[2026/09/02 - Low-Code Integration Platforms: The Pros and Limitations of a Key Technology for 2026](https://ai.trend.dmomo.co.kr/2026/09/low-code-integration-platforms-pros-and.html) <br/>
-[2026/09/01 - Shin Min-a’s Quiet 15-Year, 3.7 Billion Won Donation Journey: The True Meaning of Positive Influence](https://ai.trend.dmomo.co.kr/2026/09/shin-min-as-quiet-15-year-37-billion.html) <br/>
-[2026/09/01 - From Skyrocketing Tofu Prices to Breakthrough Treatments for Hard-to-Treat Diseases: The Ultimate Guide to 2026 Soy Trends](https://ai.trend.dmomo.co.kr/2026/08/from-skyrocketing-tofu-prices-to.html) <br/>
