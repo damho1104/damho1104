@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/09/06 - Clemson vs LSU 2026 개막전: ACC vs SEC 타이거 전쟁의 모든 것](https://blog.ai.dmomo.co.kr/trend/33069) <br/>
-[2026/09/06 - RSL vs LAFC 전술 분석: 고지대 조직력과 스타 파워의 충돌](https://blog.ai.dmomo.co.kr/trend/33067) <br/>
-[2026/09/06 - 2026년 주목할 오픈소스 로우코드 플랫폼, 왜 기업들이 선택할까?](https://blog.ai.dmomo.co.kr/tech/33051) <br/>
-[2026/09/06 - 환희란 무엇인가? 심리학·철학·뇌과학으로 보는 진짜 기쁨의 비밀](https://blog.ai.dmomo.co.kr/trend/33049) <br/>
-[2026/09/06 - Oregon Ducks, Big Ten 시대의 새로운 강자로 떠오르다](https://blog.ai.dmomo.co.kr/trend/33047) <br/>
+[2026/09/07 - 신화 이민우 재혼·입양·둘째 출산으로 완성된 네 식구 패밀리 라이프](https://blog.ai.dmomo.co.kr/trend/33141) <br/>
+[2026/09/07 - 2026 미국 Labor Day 완벽 가이드: 날짜·날씨·행사·치안까지 총정리](https://blog.ai.dmomo.co.kr/trend/33126) <br/>
+[2026/09/07 - 피터팬 아빠 전경철, 시한부에도 아들 위해 전국 1000곳을 찾아다닌 아버지](https://blog.ai.dmomo.co.kr/trend/33124) <br/>
+[2026/09/07 - AWS DevOps Agent란? 인시던트 대응부터 자율 운영까지 핵심 변화 7가지](https://blog.ai.dmomo.co.kr/tech/33105) <br/>
+[2026/09/07 - 손흥민 1골 1도움 하드캐리, LAFC 수비 붕괴로 2-2 무승부](https://blog.ai.dmomo.co.kr/trend/33103) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/09/06 - Clemson vs. LSU 2026 Season Opener: Everything You Need to Know About the ACC–SEC Tiger Showdown](https://ai.trend.dmomo.co.kr/2026/09/clemson-vs-lsu-2026-season-opener.html) <br/>
-[2026/09/06 - RSL vs. LAFC Tactical Analysis: High-Altitude Cohesion vs. Star Power](https://ai.trend.dmomo.co.kr/2026/09/rsl-vs-lafc-tactical-analysis-high.html) <br/>
-[2026/09/06 - Open-Source Low-Code Platforms to Watch in 2026: Why Are Businesses Choosing Them?](https://ai.trend.dmomo.co.kr/2026/09/open-source-low-code-platforms-to-watch.html) <br/>
-[2026/09/06 - What Is Joy? The Secret Behind True Happiness Through Psychology, Philosophy, and Neuroscience](https://ai.trend.dmomo.co.kr/2026/09/what-is-joy-secret-behind-true.html) <br/>
-[2026/09/06 - The Oregon Ducks Emerge as the Big Ten’s New Powerhouse](https://ai.trend.dmomo.co.kr/2026/09/the-oregon-ducks-emerge-as-big-tens-new.html) <br/>
-[2026/09/05 - International Marriage Trends 2024: How Laws, Apps, and Prenuptial Agreements Are Reshaping Global Relationships](https://ai.trend.dmomo.co.kr/2026/09/international-marriage-trends-2024-how.html) <br/>
+[2026/09/07 - Shinhwa’s Lee Min-woo Embraces Life as a Family of Four After Remarriage, Adoption, and Welcoming a Second Child](https://ai.trend.dmomo.co.kr/2026/09/shinhwas-lee-min-woo-embraces-life-as.html) <br/>
+[2026/09/07 - Labor Day 2026 in the U.S.: The Complete Guide to Dates, Weather, Events, Safety & More](https://ai.trend.dmomo.co.kr/2026/09/labor-day-2026-in-us-complete-guide-to.html) <br/>
+[2026/09/07 - Jeon Gyeong-cheol, the “Peter Pan Dad” Who Traveled to 1,000 Places Across Korea for His Son Despite His Terminal Illness](https://ai.trend.dmomo.co.kr/2026/09/jeon-gyeong-cheol-peter-pan-dad-who.html) <br/>
+[2026/09/07 - What Is the AWS DevOps Agent? 7 Key Changes, from Incident Response to Autonomous Operations](https://ai.trend.dmomo.co.kr/2026/09/what-is-aws-devops-agent-7-key-changes.html) <br/>
+[2026/09/07 - Son Heung-min’s Goal and Assist Nearly Carry LAFC, but Defensive Collapse Ends in 2-2 Draw](https://ai.trend.dmomo.co.kr/2026/09/son-heung-mins-goal-and-assist-nearly.html) <br/>
+[2026/09/07 - Gabby Mooney, Dan + Shay Member’s Younger Sister: The True Story of Her Miraculous Return from the Brink of Death](https://ai.trend.dmomo.co.kr/2026/09/gabby-mooney-dan-shay-members-younger.html) <br/>
