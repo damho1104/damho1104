@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/09/08 - 정전으로 멈춘 경기장! SMU vs FSU 2026 ACC 개막전 완전 분석](https://blog.ai.dmomo.co.kr/trend/33189) <br/>
+[2026/09/08 - 2026 MLOps 트렌드, 클라우드 엔지니어링으로 완성하는 프로덕션 플랫폼 5가지 핵심 요소](https://blog.ai.dmomo.co.kr/tech/33168) <br/>
+[2026/09/08 - 미국 노동절 완벽 가이드: 역사부터 2026년 기록적 가스값과 할인 전쟁까지](https://blog.ai.dmomo.co.kr/trend/33166) <br/>
+[2026/09/08 - 윤종훈, 10살 연하 배우 한은서와 11월 결혼 발표 & 근황 총정리](https://blog.ai.dmomo.co.kr/trend/33164) <br/>
 [2026/09/07 - 신화 이민우 재혼·입양·둘째 출산으로 완성된 네 식구 패밀리 라이프](https://blog.ai.dmomo.co.kr/trend/33141) <br/>
-[2026/09/07 - 2026 미국 Labor Day 완벽 가이드: 날짜·날씨·행사·치안까지 총정리](https://blog.ai.dmomo.co.kr/trend/33126) <br/>
-[2026/09/07 - 피터팬 아빠 전경철, 시한부에도 아들 위해 전국 1000곳을 찾아다닌 아버지](https://blog.ai.dmomo.co.kr/trend/33124) <br/>
-[2026/09/07 - AWS DevOps Agent란? 인시던트 대응부터 자율 운영까지 핵심 변화 7가지](https://blog.ai.dmomo.co.kr/tech/33105) <br/>
-[2026/09/07 - 손흥민 1골 1도움 하드캐리, LAFC 수비 붕괴로 2-2 무승부](https://blog.ai.dmomo.co.kr/trend/33103) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/09/08 - Power Outage Halts the Game! Complete Breakdown of SMU vs. FSU in the 2026 ACC Opener](https://ai.trend.dmomo.co.kr/2026/09/power-outage-halts-game-complete.html) <br/>
+[2026/09/08 - 2026 MLOps Trends: 5 Essential Elements of a Production-Ready Platform Built with Cloud Engineering](https://ai.trend.dmomo.co.kr/2026/09/2026-mlops-trends-5-essential-elements.html) <br/>
+[2026/09/08 - The Ultimate Guide to U.S. Labor Day: From Its History to 2026’s Record-High Gas Prices and Retail Discount Battle](https://ai.trend.dmomo.co.kr/2026/09/the-ultimate-guide-to-us-labor-day-from.html) <br/>
+[2026/09/08 - Yoon Jong-hoon Announces November Wedding to Actress Han Eun-seo, 10 Years His Junior—Plus the Latest Updates](https://ai.trend.dmomo.co.kr/2026/09/yoon-jong-hoon-announces-november.html) <br/>
 [2026/09/07 - Shinhwa’s Lee Min-woo Embraces Life as a Family of Four After Remarriage, Adoption, and Welcoming a Second Child](https://ai.trend.dmomo.co.kr/2026/09/shinhwas-lee-min-woo-embraces-life-as.html) <br/>
 [2026/09/07 - Labor Day 2026 in the U.S.: The Complete Guide to Dates, Weather, Events, Safety & More](https://ai.trend.dmomo.co.kr/2026/09/labor-day-2026-in-us-complete-guide-to.html) <br/>
-[2026/09/07 - Jeon Gyeong-cheol, the “Peter Pan Dad” Who Traveled to 1,000 Places Across Korea for His Son Despite His Terminal Illness](https://ai.trend.dmomo.co.kr/2026/09/jeon-gyeong-cheol-peter-pan-dad-who.html) <br/>
-[2026/09/07 - What Is the AWS DevOps Agent? 7 Key Changes, from Incident Response to Autonomous Operations](https://ai.trend.dmomo.co.kr/2026/09/what-is-aws-devops-agent-7-key-changes.html) <br/>
-[2026/09/07 - Son Heung-min’s Goal and Assist Nearly Carry LAFC, but Defensive Collapse Ends in 2-2 Draw](https://ai.trend.dmomo.co.kr/2026/09/son-heung-mins-goal-and-assist-nearly.html) <br/>
-[2026/09/07 - Gabby Mooney, Dan + Shay Member’s Younger Sister: The True Story of Her Miraculous Return from the Brink of Death](https://ai.trend.dmomo.co.kr/2026/09/gabby-mooney-dan-shay-members-younger.html) <br/>
