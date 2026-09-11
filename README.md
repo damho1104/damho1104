@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/09/09 - 새벽 3시 33분 기적! Ben Shelton이 Alcaraz를 꺾고 미국 테니스를 깨운 밤](https://blog.ai.dmomo.co.kr/trend/33265) <br/>
-[2026/09/09 - 2026년 인플루언서 트렌드: 마이크로 크리에이터·시딩 전략·윤리 이슈 총정리](https://blog.ai.dmomo.co.kr/trend/33263) <br/>
-[2026/09/09 - 알카라즈 vs 셸튼 US Open 2026 준준결승 분석과 중계 정보](https://blog.ai.dmomo.co.kr/trend/33247) <br/>
-[2026/09/09 - RTX Spark가 여는 2026 온디바이스 AI 인프라 혁명, 클라우드는 어떻게 바뀌나?](https://blog.ai.dmomo.co.kr/tech/33223) <br/>
-[2026/09/09 - 무리뉴의 레알, 옛 클럽 인테르를 2-1로 꺾고 챔스 첫 발 내딛다](https://blog.ai.dmomo.co.kr/trend/33221) <br/>
+[2026/09/10 - 고금리 시대 자산 완전정복: 종류별 전략부터 세금·불평등까지](https://blog.ai.dmomo.co.kr/trend/33326) <br/>
+[2026/09/10 - 샘 다널드 엉덩이 부상, 시호크스 슈퍼볼 연패 꿈 무너지나](https://blog.ai.dmomo.co.kr/trend/33324) <br/>
+[2026/09/10 - 아이폰 듀오 완벽 정리: 스펙·가격·출시일부터 삼성 폴더블과 비교까지](https://blog.ai.dmomo.co.kr/trend/33308) <br/>
+[2026/09/10 - Edge AI의 다음 혁명, OT·IT 융합으로 진화하는 자율형 네트워크 5가지 변화](https://blog.ai.dmomo.co.kr/tech/33286) <br/>
+[2026/09/10 - 아이폰 최초 폴더블 iPhone Duo, 300만원대 가격과 스펙 총정리](https://blog.ai.dmomo.co.kr/trend/33284) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/09/09 - The 3:33 A.M. Miracle: The Night Ben Shelton Defeated Alcaraz and Awakened American Tennis](https://ai.trend.dmomo.co.kr/2026/09/the-333-am-miracle-night-ben-shelton.html) <br/>
-[2026/09/09 - 2026 Influencer Trends: A Complete Guide to Micro-Creators, Product Seeding Strategies, and Ethical Issues](https://ai.trend.dmomo.co.kr/2026/09/2026-influencer-trends-complete-guide.html) <br/>
-[2026/09/09 - Alcaraz vs. Shelton: US Open 2026 Quarterfinal Preview and How to Watch](https://ai.trend.dmomo.co.kr/2026/09/alcaraz-vs-shelton-us-open-2026.html) <br/>
-[2026/09/09 - RTX Spark and the 2026 On-Device AI Infrastructure Revolution: How Will It Transform the Cloud?](https://ai.trend.dmomo.co.kr/2026/09/rtx-spark-and-2026-on-device-ai.html) <br/>
-[2026/09/09 - Mourinho’s Real Madrid Beat Former Club Inter 2–1 to Make a Winning Start in the Champions League](https://ai.trend.dmomo.co.kr/2026/09/mourinhos-real-madrid-beat-former-club.html) <br/>
-[2026/09/09 - Kim Young-ok’s “Foolish Grandma” Twist: What Was the Founder’s Hidden Strategy?](https://ai.trend.dmomo.co.kr/2026/09/kim-young-oks-foolish-grandma-twist.html) <br/>
+[2026/09/10 - Mastering Wealth in the High-Interest-Rate Era: Asset-Class Strategies, Taxes, and Inequality](https://ai.trend.dmomo.co.kr/2026/09/mastering-wealth-in-high-interest-rate.html) <br/>
+[2026/09/10 - Sam Darnold’s Buttock Injury: Could the Seahawks’ Dream of Back-to-Back Super Bowl Titles Be Over?](https://ai.trend.dmomo.co.kr/2026/09/sam-darnolds-buttock-injury-could.html) <br/>
+[2026/09/10 - iPhone Duo Explained: Specs, Price, Release Date, and How It Compares to Samsung’s Foldables](https://ai.trend.dmomo.co.kr/2026/09/iphone-duo-explained-specs-price.html) <br/>
+[2026/09/10 - The Next Revolution in Edge AI: 5 Ways OT–IT Convergence Is Transforming Autonomous Networks](https://ai.trend.dmomo.co.kr/2026/09/the-next-revolution-in-edge-ai-5-ways.html) <br/>
+[2026/09/10 - Apple’s First Foldable iPhone Duo: Full Specs and Its ₩1.99 Million Price Tag Revealed](https://ai.trend.dmomo.co.kr/2026/09/apples-first-foldable-iphone-duo-full.html) <br/>
+[2026/09/10 - Liverpool 2-1 Atlético: Lee Kang-in’s Champions League Debut Meets the Fortress of Anfield](https://ai.trend.dmomo.co.kr/2026/09/liverpool-2-1-atletico-lee-kang-ins.html) <br/>
