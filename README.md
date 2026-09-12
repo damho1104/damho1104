@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/09/10 - 고금리 시대 자산 완전정복: 종류별 전략부터 세금·불평등까지](https://blog.ai.dmomo.co.kr/trend/33326) <br/>
-[2026/09/10 - 샘 다널드 엉덩이 부상, 시호크스 슈퍼볼 연패 꿈 무너지나](https://blog.ai.dmomo.co.kr/trend/33324) <br/>
-[2026/09/10 - 아이폰 듀오 완벽 정리: 스펙·가격·출시일부터 삼성 폴더블과 비교까지](https://blog.ai.dmomo.co.kr/trend/33308) <br/>
-[2026/09/10 - Edge AI의 다음 혁명, OT·IT 융합으로 진화하는 자율형 네트워크 5가지 변화](https://blog.ai.dmomo.co.kr/tech/33286) <br/>
-[2026/09/10 - 아이폰 최초 폴더블 iPhone Duo, 300만원대 가격과 스펙 총정리](https://blog.ai.dmomo.co.kr/trend/33284) <br/>
+[2026/09/11 - 이동건 제주 카페 폐업 논란: 2억 대출 오아시스80의 진실](https://blog.ai.dmomo.co.kr/trend/33383) <br/>
+[2026/09/11 - 신애라 30년 전 사진 공개, 방부제 미모와 가족 서사의 비밀](https://blog.ai.dmomo.co.kr/trend/33368) <br/>
+[2026/09/11 - LA Rams, 호주 원정 27-7 대패…슈퍼팀의 민낯이 드러났다](https://blog.ai.dmomo.co.kr/trend/33366) <br/>
+[2026/09/11 - DeepSeek-V4.1-Flash, 2026년 최신 AI 모델이 바꿀 5가지 경쟁 구도](https://blog.ai.dmomo.co.kr/tech/33346) <br/>
+[2026/09/11 - 한국 자산 트렌드 2026: AUM 2777조 시대, 승자는 누구인가](https://blog.ai.dmomo.co.kr/trend/33345) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/09/10 - Mastering Wealth in the High-Interest-Rate Era: Asset-Class Strategies, Taxes, and Inequality](https://ai.trend.dmomo.co.kr/2026/09/mastering-wealth-in-high-interest-rate.html) <br/>
-[2026/09/10 - Sam Darnold’s Buttock Injury: Could the Seahawks’ Dream of Back-to-Back Super Bowl Titles Be Over?](https://ai.trend.dmomo.co.kr/2026/09/sam-darnolds-buttock-injury-could.html) <br/>
-[2026/09/10 - iPhone Duo Explained: Specs, Price, Release Date, and How It Compares to Samsung’s Foldables](https://ai.trend.dmomo.co.kr/2026/09/iphone-duo-explained-specs-price.html) <br/>
-[2026/09/10 - The Next Revolution in Edge AI: 5 Ways OT–IT Convergence Is Transforming Autonomous Networks](https://ai.trend.dmomo.co.kr/2026/09/the-next-revolution-in-edge-ai-5-ways.html) <br/>
-[2026/09/10 - Apple’s First Foldable iPhone Duo: Full Specs and Its ₩1.99 Million Price Tag Revealed](https://ai.trend.dmomo.co.kr/2026/09/apples-first-foldable-iphone-duo-full.html) <br/>
-[2026/09/10 - Liverpool 2-1 Atlético: Lee Kang-in’s Champions League Debut Meets the Fortress of Anfield](https://ai.trend.dmomo.co.kr/2026/09/liverpool-2-1-atletico-lee-kang-ins.html) <br/>
+[2026/09/11 - Lee Dong-gun’s Jeju Café Closure Controversy: The Truth About Oasis 80’s 200 Million Won Loan](https://ai.trend.dmomo.co.kr/2026/09/lee-dong-guns-jeju-cafe-closure.html) <br/>
+[2026/09/11 - Shin Ae-ra’s 30-Year-Old Photos Reveal the Secret Behind Her Timeless Beauty—and Her Family Story](https://ai.trend.dmomo.co.kr/2026/09/shin-ae-ras-30-year-old-photos-reveal.html) <br/>
+[2026/09/11 - LA Rams Blown Out 27–7 in Australia—The Superteam’s True Colors Revealed](https://ai.trend.dmomo.co.kr/2026/09/la-rams-blown-out-277-in-australiathe.html) <br/>
+[2026/09/11 - South Korea’s Asset Management Outlook for 2026: With AUM Reaching KRW 2,777 Trillion, Who Will Come Out on Top?](https://ai.trend.dmomo.co.kr/2026/09/south-koreas-asset-management-outlook.html) <br/>
+[2026/09/11 - DeepSeek-V4.1-Flash: 5 Ways 2026’s Latest AI Model Will Reshape the Competitive Landscape](https://ai.trend.dmomo.co.kr/2026/09/deepseek-v41-flash-5-ways-2026s-latest.html) <br/>
+[2026/09/11 - Country Singer Brian “Nashville” Duckworth Dies at 56, West Virginia Loses a Beloved Voice](https://ai.trend.dmomo.co.kr/2026/09/country-singer-brian-nashville.html) <br/>
