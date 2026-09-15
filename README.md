@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/09/13 - 김도영 40-100-100 역대 최연소 달성! 한화 vs KIA 천적 대결 완벽 분석](https://blog.ai.dmomo.co.kr/trend/33497) <br/>
-[2026/09/13 - 1위 오하이오 스테이트, 23-3 리드에서 역전패…라이언 데이 위기론](https://blog.ai.dmomo.co.kr/trend/33482) <br/>
-[2026/09/13 - 손흥민 12호 도움도 빛바랜 LAFC, 서부 꼴찌에 1-3 완패](https://blog.ai.dmomo.co.kr/trend/33480) <br/>
-[2026/09/13 - 2026년 로컬 LLM 1위 후보 GLM-5.2, 에이전트·코딩에 최적인 이유는?](https://blog.ai.dmomo.co.kr/tech/33458) <br/>
-[2026/09/13 - 욘사마 배용준 지금 어디서 뭐하나? 백발 투자자의 하와이 생활](https://blog.ai.dmomo.co.kr/trend/33456) <br/>
+[2026/09/14 - 구혜선, 눈썹칼 셀프 숏컷부터 KAIST 발명가 CEO까지 완벽 정리](https://blog.ai.dmomo.co.kr/trend/33563) <br/>
+[2026/09/14 - 달라스 카우보이스 2026 시즌 총정리: 부상·QB루머·토니 로모 논란까지](https://blog.ai.dmomo.co.kr/trend/33548) <br/>
+[2026/09/14 - 2026 대한민국 대변화: ISDS 승소·국채 ETF·디지털 정부 총정리](https://blog.ai.dmomo.co.kr/trend/33546) <br/>
+[2026/09/14 - CaaS란 무엇일까? 2026년 클라우드 네이티브 핵심 기술과 Kubernetes](https://blog.ai.dmomo.co.kr/tech/33524) <br/>
+[2026/09/14 - Eagles vs Commanders 2026 Week1 완벽 분석: 베팅 라인·예측 스코어·중계 정보 총정리](https://blog.ai.dmomo.co.kr/trend/33522) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/09/13 - Kim Do-yeong Becomes the Youngest Player Ever to Reach 40 Home Runs, 100 RBIs, and 100 Runs! A Complete Analysis of the Hanwha–KIA Rivalry](https://ai.trend.dmomo.co.kr/2026/09/kim-do-yeong-becomes-youngest-player.html) <br/>
-[2026/09/13 - No. 1 Ohio State Blows a 23–3 Lead in Stunning Loss, Putting Ryan Day Under Fire](https://ai.trend.dmomo.co.kr/2026/09/no-1-ohio-state-blows-233-lead-in.html) <br/>
-[2026/09/13 - Son Heung-min’s 12th Assist Goes to Waste as LAFC Suffer 3-1 Loss, Drop to Bottom of the Western Conference](https://ai.trend.dmomo.co.kr/2026/09/son-heung-mins-12th-assist-goes-to.html) <br/>
-[2026/09/13 - Why GLM-5.2 Is a Top Contender for the Best Local LLM of 2026—and Why It Excels at Agents and Coding](https://ai.trend.dmomo.co.kr/2026/09/why-glm-52-is-top-contender-for-best.html) <br/>
-[2026/09/13 - Where Is Yon-sama Bae Yong-joon Now? Inside the Silver-Haired Investor’s Life in Hawaii](https://ai.trend.dmomo.co.kr/2026/09/where-is-yon-sama-bae-yong-joon-now.html) <br/>
-[2026/09/13 - Alabama 45–17 Kentucky: From an Upset Scare to a 32–0 Second-Half Blowout](https://ai.trend.dmomo.co.kr/2026/09/alabama-4517-kentucky-from-upset-scare.html) <br/>
+[2026/09/14 - Goo Hye-sun: From Cutting Her Own Short Hair with an Eyebrow Razor to Becoming a KAIST Inventor-CEO — Everything You Need to Know](https://ai.trend.dmomo.co.kr/2026/09/goo-hye-sun-from-cutting-her-own-short.html) <br/>
+[2026/09/14 - Dallas Cowboys 2026 Season Roundup: Injuries, QB Rumors, and the Tony Romo Controversy](https://ai.trend.dmomo.co.kr/2026/09/dallas-cowboys-2026-season-roundup.html) <br/>
+[2026/09/14 - South Korea’s 2026 Transformation: An ISDS Victory, Government Bond ETFs, and the Digital Government Revolution](https://ai.trend.dmomo.co.kr/2026/09/south-koreas-2026-transformation-isds.html) <br/>
+[2026/09/14 - What Is CaaS? Understanding Kubernetes and a Core Cloud-Native Technology for 2026](https://ai.trend.dmomo.co.kr/2026/09/what-is-caas-understanding-kubernetes.html) <br/>
+[2026/09/14 - Eagles vs. Commanders 2026 Week 1 Preview: Betting Lines, Score Prediction & How to Watch](https://ai.trend.dmomo.co.kr/2026/09/eagles-vs-commanders-2026-week-1.html) <br/>
+[2026/09/14 - Seong Hyun-joo: A Comedian’s Journey to Becoming an Essayist After Losing Her Son — A Chronicle of Grief](https://ai.trend.dmomo.co.kr/2026/09/seong-hyun-joo-comedians-journey-to.html) <br/>
