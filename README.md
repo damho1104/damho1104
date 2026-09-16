@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/09/14 - 구혜선, 눈썹칼 셀프 숏컷부터 KAIST 발명가 CEO까지 완벽 정리](https://blog.ai.dmomo.co.kr/trend/33563) <br/>
-[2026/09/14 - 달라스 카우보이스 2026 시즌 총정리: 부상·QB루머·토니 로모 논란까지](https://blog.ai.dmomo.co.kr/trend/33548) <br/>
-[2026/09/14 - 2026 대한민국 대변화: ISDS 승소·국채 ETF·디지털 정부 총정리](https://blog.ai.dmomo.co.kr/trend/33546) <br/>
-[2026/09/14 - CaaS란 무엇일까? 2026년 클라우드 네이티브 핵심 기술과 Kubernetes](https://blog.ai.dmomo.co.kr/tech/33524) <br/>
-[2026/09/14 - Eagles vs Commanders 2026 Week1 완벽 분석: 베팅 라인·예측 스코어·중계 정보 총정리](https://blog.ai.dmomo.co.kr/trend/33522) <br/>
+[2026/09/15 - 2026 추석 민생지원금 총정리: 내 지역은 얼마 받나?](https://blog.ai.dmomo.co.kr/trend/33629) <br/>
+[2026/09/15 - Apple TV+ ‘위도우스 베이’, 에미 14관왕으로 코미디 역사 다시 쓴 호러-코미디의 기적](https://blog.ai.dmomo.co.kr/trend/33627) <br/>
+[2026/09/15 - 덴버 브롱코스, 리그 최강 수비도 막지 못한 Chiefs 참패의 진짜 이유](https://blog.ai.dmomo.co.kr/trend/33611) <br/>
+[2026/09/15 - 2026년 주목할 Low-code ML 플랫폼 7가지, 비전문가도 AI 모델을 만든다](https://blog.ai.dmomo.co.kr/tech/33590) <br/>
+[2026/09/15 - 스팽글의 술탄 Bob Mackie 별세: 87년의 쇼비즈 글래머가 남긴 것](https://blog.ai.dmomo.co.kr/trend/33588) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/09/14 - Goo Hye-sun: From Cutting Her Own Short Hair with an Eyebrow Razor to Becoming a KAIST Inventor-CEO — Everything You Need to Know](https://ai.trend.dmomo.co.kr/2026/09/goo-hye-sun-from-cutting-her-own-short.html) <br/>
-[2026/09/14 - Dallas Cowboys 2026 Season Roundup: Injuries, QB Rumors, and the Tony Romo Controversy](https://ai.trend.dmomo.co.kr/2026/09/dallas-cowboys-2026-season-roundup.html) <br/>
-[2026/09/14 - South Korea’s 2026 Transformation: An ISDS Victory, Government Bond ETFs, and the Digital Government Revolution](https://ai.trend.dmomo.co.kr/2026/09/south-koreas-2026-transformation-isds.html) <br/>
-[2026/09/14 - What Is CaaS? Understanding Kubernetes and a Core Cloud-Native Technology for 2026](https://ai.trend.dmomo.co.kr/2026/09/what-is-caas-understanding-kubernetes.html) <br/>
-[2026/09/14 - Eagles vs. Commanders 2026 Week 1 Preview: Betting Lines, Score Prediction & How to Watch](https://ai.trend.dmomo.co.kr/2026/09/eagles-vs-commanders-2026-week-1.html) <br/>
-[2026/09/14 - Seong Hyun-joo: A Comedian’s Journey to Becoming an Essayist After Losing Her Son — A Chronicle of Grief](https://ai.trend.dmomo.co.kr/2026/09/seong-hyun-joo-comedians-journey-to.html) <br/>
+[2026/09/15 - 2026 Chuseok Relief Payments: How Much Can You Receive in Your Area?](https://ai.trend.dmomo.co.kr/2026/09/2026-chuseok-relief-payments-how-much.html) <br/>
+[2026/09/15 - Apple TV+’s *Widows Bay*: The Horror-Comedy Miracle That Made Emmy History with 14 Wins](https://ai.trend.dmomo.co.kr/2026/09/apple-tvs-widows-bay-horror-comedy.html) <br/>
+[2026/09/15 - Denver Broncos: The Real Reason Behind the Chiefs’ Crushing Defeat—Even the League’s Best Defense Couldn’t Save Them](https://ai.trend.dmomo.co.kr/2026/09/denver-broncos-real-reason-behind.html) <br/>
+[2026/09/15 - 7 Low-Code ML Platforms to Watch in 2026: Build AI Models Without Technical Expertise](https://ai.trend.dmomo.co.kr/2026/09/7-low-code-ml-platforms-to-watch-in.html) <br/>
+[2026/09/15 - Won Hyun-jun Finds His Turning Point in *Mole Cricket* and Marries Actress Lee Soo-jin](https://ai.trend.dmomo.co.kr/2026/09/won-hyun-jun-finds-his-turning-point-in.html) <br/>
+[2026/09/15 - Bob Mackie, the Sultan of Sequins, Dies at 87: The Legacy of a Life in Showbiz Glamour](https://ai.trend.dmomo.co.kr/2026/09/bob-mackie-sultan-of-sequins-dies-at-87.html) <br/>
