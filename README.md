@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/09/15 - 2026 추석 민생지원금 총정리: 내 지역은 얼마 받나?](https://blog.ai.dmomo.co.kr/trend/33629) <br/>
-[2026/09/15 - Apple TV+ ‘위도우스 베이’, 에미 14관왕으로 코미디 역사 다시 쓴 호러-코미디의 기적](https://blog.ai.dmomo.co.kr/trend/33627) <br/>
-[2026/09/15 - 덴버 브롱코스, 리그 최강 수비도 막지 못한 Chiefs 참패의 진짜 이유](https://blog.ai.dmomo.co.kr/trend/33611) <br/>
-[2026/09/15 - 2026년 주목할 Low-code ML 플랫폼 7가지, 비전문가도 AI 모델을 만든다](https://blog.ai.dmomo.co.kr/tech/33590) <br/>
-[2026/09/15 - 스팽글의 술탄 Bob Mackie 별세: 87년의 쇼비즈 글래머가 남긴 것](https://blog.ai.dmomo.co.kr/trend/33588) <br/>
+[2026/09/16 - 박원숙 충격 고백: 전 남편 빚·아들 사망 후 손녀에 오피스텔까지](https://blog.ai.dmomo.co.kr/trend/33698) <br/>
+[2026/09/16 - Dancing with the Stars 시즌35 첫날부터 충격 탈락, 의상 논란까지](https://blog.ai.dmomo.co.kr/trend/33680) <br/>
+[2026/09/16 - Telit Cinterion Edge AI SDK, 셀룰러 모듈이 AI 컴퓨터로 진화한 이유 5가지](https://blog.ai.dmomo.co.kr/tech/33656) <br/>
+[2026/09/16 - 미국 투표 등록 완벽 가이드: 주별 방법·마감일·체크리스트](https://blog.ai.dmomo.co.kr/trend/33654) <br/>
+[2026/09/16 - 2026 추석 민생지원금 최대 50만원! 우리 지역 신청 방법은?](https://blog.ai.dmomo.co.kr/trend/33652) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/09/16 - Park Won-sook’s Shocking Confession: Her Ex-Husband’s Debts, Her Son’s Death—and Even an Apartment for Her Granddaughter](https://ai.trend.dmomo.co.kr/2026/09/park-won-sooks-shocking-confession-her.html) <br/>
+[2026/09/16 - Dancing with the Stars Season 35: A Shocking First-Night Elimination and a Costume Controversy](https://ai.trend.dmomo.co.kr/2026/09/dancing-with-stars-season-35-shocking.html) <br/>
+[2026/09/16 - 5 Reasons Telit Cinterion’s Edge AI SDK Turns Cellular Modules into AI Computers](https://ai.trend.dmomo.co.kr/2026/09/5-reasons-telit-cinterions-edge-ai-sdk.html) <br/>
+[2026/09/16 - The Ultimate Guide to Registering to Vote in the U.S.: State-by-State Instructions, Deadlines & Checklist](https://ai.trend.dmomo.co.kr/2026/09/the-ultimate-guide-to-registering-to.html) <br/>
+[2026/09/16 - 2026 Chuseok Relief Payment: Up to 500,000 Won! How to Apply in Your Area](https://ai.trend.dmomo.co.kr/2026/09/2026-chuseok-relief-payment-up-to.html) <br/>
 [2026/09/15 - 2026 Chuseok Relief Payments: How Much Can You Receive in Your Area?](https://ai.trend.dmomo.co.kr/2026/09/2026-chuseok-relief-payments-how-much.html) <br/>
-[2026/09/15 - Apple TV+’s *Widows Bay*: The Horror-Comedy Miracle That Made Emmy History with 14 Wins](https://ai.trend.dmomo.co.kr/2026/09/apple-tvs-widows-bay-horror-comedy.html) <br/>
-[2026/09/15 - Denver Broncos: The Real Reason Behind the Chiefs’ Crushing Defeat—Even the League’s Best Defense Couldn’t Save Them](https://ai.trend.dmomo.co.kr/2026/09/denver-broncos-real-reason-behind.html) <br/>
-[2026/09/15 - 7 Low-Code ML Platforms to Watch in 2026: Build AI Models Without Technical Expertise](https://ai.trend.dmomo.co.kr/2026/09/7-low-code-ml-platforms-to-watch-in.html) <br/>
-[2026/09/15 - Won Hyun-jun Finds His Turning Point in *Mole Cricket* and Marries Actress Lee Soo-jin](https://ai.trend.dmomo.co.kr/2026/09/won-hyun-jun-finds-his-turning-point-in.html) <br/>
-[2026/09/15 - Bob Mackie, the Sultan of Sequins, Dies at 87: The Legacy of a Life in Showbiz Glamour](https://ai.trend.dmomo.co.kr/2026/09/bob-mackie-sultan-of-sequins-dies-at-87.html) <br/>
