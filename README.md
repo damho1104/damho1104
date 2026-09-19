@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/09/18 - 폐기물이 돈이 된다? 자원순환부터 AI e-waste까지 2024 폐기물 트렌드 완전 정복](https://blog.ai.dmomo.co.kr/trend/33838) <br/>
 [2026/09/17 - 안우진 등판! KIA vs 키움 오늘 경기 승자는 누구?](https://blog.ai.dmomo.co.kr/trend/33761) <br/>
 [2026/09/17 - 메시 통산 100골! 인터 마이애미, 2026 Campeones Cup 완벽 우승](https://blog.ai.dmomo.co.kr/trend/33759) <br/>
 [2026/09/17 - 2026년 AI-native Low-code 플랫폼이 로우코드의 미래인 이유 5가지](https://blog.ai.dmomo.co.kr/tech/33725) <br/>
 [2026/09/17 - 바르셀로나 7-2 대승! Raphinha 해트트릭과 6연승 라리가 선두 독주](https://blog.ai.dmomo.co.kr/trend/33723) <br/>
-[2026/09/17 - 트와이스 지효, 워터밤 청바지 선택이 바꾼 K-pop 아이돌의 새로운 기준](https://blog.ai.dmomo.co.kr/trend/33721) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/09/18 - Can Waste Really Make Money? A Complete Guide to 2024’s Biggest Waste Trends, from the Circular Economy to AI E-Waste](https://ai.trend.dmomo.co.kr/2026/09/can-waste-really-make-money-complete.html) <br/>
 [2026/09/17 - Ahn Woo-jin Takes the Mound! Who Will Win Today’s KIA vs. Kiwoom Showdown?](https://ai.trend.dmomo.co.kr/2026/09/ahn-woo-jin-takes-mound-who-will-win.html) <br/>
 [2026/09/17 - Messi Hits 100 Career Goals as Inter Miami Complete a Perfect 2026 Campeones Cup Triumph](https://ai.trend.dmomo.co.kr/2026/09/messi-hits-100-career-goals-as-inter.html) <br/>
 [2026/09/17 - 5 Reasons AI-Native Low-Code Platforms Are the Future of Low-Code in 2026](https://ai.trend.dmomo.co.kr/2026/09/5-reasons-ai-native-low-code-platforms.html) <br/>
 [2026/09/17 - Barcelona Thrash Opponents 7–2! Raphinha Hat-Trick Fuels Six Straight Wins as They Race Clear at the Top of La Liga](https://ai.trend.dmomo.co.kr/2026/09/barcelona-thrash-opponents-72-raphinha.html) <br/>
 [2026/09/17 - How TWICE’s Jihyo and Her Waterbomb Jeans Redefined the K-pop Idol Standard](https://ai.trend.dmomo.co.kr/2026/09/how-twices-jihyo-and-her-waterbomb.html) <br/>
-[2026/09/16 - Park Won-sook’s Shocking Confession: Her Ex-Husband’s Debts, Her Son’s Death—and Even an Apartment for Her Granddaughter](https://ai.trend.dmomo.co.kr/2026/09/park-won-sooks-shocking-confession-her.html) <br/>
