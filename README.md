@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/09/18 - 폐기물이 돈이 된다? 자원순환부터 AI e-waste까지 2024 폐기물 트렌드 완전 정복](https://blog.ai.dmomo.co.kr/trend/33838) <br/>
-[2026/09/17 - 안우진 등판! KIA vs 키움 오늘 경기 승자는 누구?](https://blog.ai.dmomo.co.kr/trend/33761) <br/>
-[2026/09/17 - 메시 통산 100골! 인터 마이애미, 2026 Campeones Cup 완벽 우승](https://blog.ai.dmomo.co.kr/trend/33759) <br/>
-[2026/09/17 - 2026년 AI-native Low-code 플랫폼이 로우코드의 미래인 이유 5가지](https://blog.ai.dmomo.co.kr/tech/33725) <br/>
-[2026/09/17 - 바르셀로나 7-2 대승! Raphinha 해트트릭과 6연승 라리가 선두 독주](https://blog.ai.dmomo.co.kr/trend/33723) <br/>
+[2026/09/20 - 7년간 모은 KiCad 오픈소스 하드웨어 보드 74개 큐레이션 리스트 공개](https://blog.ai.dmomo.co.kr/ai/33904) <br/>
+[2026/09/19 - 팬심의 두 얼굴: 비즈니스 황금알 vs 스토킹 범죄의 경계](https://blog.ai.dmomo.co.kr/trend/33895) <br/>
+[2026/09/19 - 아마존 FTC 합의 환불 최대 $200로 확대! 나도 받을 수 있을까?](https://blog.ai.dmomo.co.kr/trend/33893) <br/>
+[2026/09/19 - 마이애미 5위 원정 승리의 비결: Mensah ACC 기록과 부상 위기](https://blog.ai.dmomo.co.kr/trend/33877) <br/>
+[2026/09/19 - 한 글자 ‘무’가 만드는 트렌드: 무속인·천무·무사·무신사 총정리](https://blog.ai.dmomo.co.kr/trend/33875) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/09/18 - Can Waste Really Make Money? A Complete Guide to 2024’s Biggest Waste Trends, from the Circular Economy to AI E-Waste](https://ai.trend.dmomo.co.kr/2026/09/can-waste-really-make-money-complete.html) <br/>
-[2026/09/17 - Ahn Woo-jin Takes the Mound! Who Will Win Today’s KIA vs. Kiwoom Showdown?](https://ai.trend.dmomo.co.kr/2026/09/ahn-woo-jin-takes-mound-who-will-win.html) <br/>
-[2026/09/17 - Messi Hits 100 Career Goals as Inter Miami Complete a Perfect 2026 Campeones Cup Triumph](https://ai.trend.dmomo.co.kr/2026/09/messi-hits-100-career-goals-as-inter.html) <br/>
-[2026/09/17 - 5 Reasons AI-Native Low-Code Platforms Are the Future of Low-Code in 2026](https://ai.trend.dmomo.co.kr/2026/09/5-reasons-ai-native-low-code-platforms.html) <br/>
-[2026/09/17 - Barcelona Thrash Opponents 7–2! Raphinha Hat-Trick Fuels Six Straight Wins as They Race Clear at the Top of La Liga](https://ai.trend.dmomo.co.kr/2026/09/barcelona-thrash-opponents-72-raphinha.html) <br/>
-[2026/09/17 - How TWICE’s Jihyo and Her Waterbomb Jeans Redefined the K-pop Idol Standard](https://ai.trend.dmomo.co.kr/2026/09/how-twices-jihyo-and-her-waterbomb.html) <br/>
+[2026/09/19 - The Two Faces of Fandom: A Golden Goose for Business—or the Thin Line Between Passion and Stalking](https://ai.trend.dmomo.co.kr/2026/09/the-two-faces-of-fandom-golden-goose.html) <br/>
+[2026/09/19 - Amazon FTC Settlement Refund Increased to Up to $200—Am I Eligible Too?](https://ai.trend.dmomo.co.kr/2026/09/amazon-ftc-settlement-refund-increased.html) <br/>
+[2026/09/19 - The Trend Behind One Korean Syllable, “Mu”: Shamans, Cheonmu, Warriors, and Musinsa Explained](https://ai.trend.dmomo.co.kr/2026/09/the-trend-behind-one-korean-syllable-mu.html) <br/>
+[2026/09/19 - How Miami Pulled Off a Road Win at No. 5: Mensah’s ACC Record and an Injury Crisis](https://ai.trend.dmomo.co.kr/2026/09/how-miami-pulled-off-road-win-at-no-5.html) <br/>
+[2026/09/19 - 2024 Waste Trends: When Trash Becomes Resources, Data, and Rights](https://ai.trend.dmomo.co.kr/2026/09/2024-waste-trends-when-trash-becomes.html) <br/>
+[2026/09/19 - Could Cycode’s AI Agent Attack Path Analysis Become the Key to Next-Generation AppSec?](https://ai.trend.dmomo.co.kr/2026/09/could-cycodes-ai-agent-attack-path.html) <br/>
