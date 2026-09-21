@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/09/20 - 7년간 모은 KiCad 오픈소스 하드웨어 보드 74개 큐레이션 리스트 공개](https://blog.ai.dmomo.co.kr/ai/33904) <br/>
-[2026/09/19 - 팬심의 두 얼굴: 비즈니스 황금알 vs 스토킹 범죄의 경계](https://blog.ai.dmomo.co.kr/trend/33895) <br/>
-[2026/09/19 - 아마존 FTC 합의 환불 최대 $200로 확대! 나도 받을 수 있을까?](https://blog.ai.dmomo.co.kr/trend/33893) <br/>
-[2026/09/19 - 마이애미 5위 원정 승리의 비결: Mensah ACC 기록과 부상 위기](https://blog.ai.dmomo.co.kr/trend/33877) <br/>
-[2026/09/19 - 한 글자 ‘무’가 만드는 트렌드: 무속인·천무·무사·무신사 총정리](https://blog.ai.dmomo.co.kr/trend/33875) <br/>
+[2026/09/20 - 2026 나고야 아시안게임 총정리: 한국 금메달·빈 관중석·신종목 트렌드까지](https://blog.ai.dmomo.co.kr/trend/33949) <br/>
+[2026/09/20 - Lane Kiffin의 귀환, Ole Miss에 무릎 꿇은 LSU의 플레이오프 위기](https://blog.ai.dmomo.co.kr/trend/33934) <br/>
+[2026/09/20 - Alabama vs FSU 리턴 매치, 번개 지연 속 대형 업셋 터지나?](https://blog.ai.dmomo.co.kr/trend/33915) <br/>
+[2026/09/20 - 왜 Runtime SBOM인가? 실행 중 소프트웨어 공급망을 지키는 5가지 핵심](https://blog.ai.dmomo.co.kr/tech/33913) <br/>
+[2026/09/20 - UFC 331 완전분석: 스트리밍 시대 최두호·판토자 복수전까지](https://blog.ai.dmomo.co.kr/trend/33912) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/09/20 - 2026 Nagoya Asian Games: A Complete Overview of South Korea’s Gold Medals, Empty Stands, and Emerging Sports Trends](https://ai.trend.dmomo.co.kr/2026/09/2026-nagoya-asian-games-complete.html) <br/>
+[2026/09/20 - Lane Kiffin Returns as LSU’s Playoff Hopes Collapse Against Ole Miss](https://ai.trend.dmomo.co.kr/2026/09/lane-kiffin-returns-as-lsus-playoff.html) <br/>
+[2026/09/20 - Why Runtime SBOMs? 5 Keys to Securing Your Software Supply Chain at Runtime](https://ai.trend.dmomo.co.kr/2026/09/why-runtime-sboms-5-keys-to-securing.html) <br/>
+[2026/09/20 - UFC 331 Full Breakdown: Dooho Choi, Pantoja’s Revenge Rematch, and the Streaming Era](https://ai.trend.dmomo.co.kr/2026/09/ufc-331-full-breakdown-dooho-choi.html) <br/>
+[2026/09/20 - Alabama vs. FSU Rematch: Is a Major Upset Brewing Amid a Lightning Delay?](https://ai.trend.dmomo.co.kr/2026/09/alabama-vs-fsu-rematch-is-major-upset.html) <br/>
 [2026/09/19 - The Two Faces of Fandom: A Golden Goose for Business—or the Thin Line Between Passion and Stalking](https://ai.trend.dmomo.co.kr/2026/09/the-two-faces-of-fandom-golden-goose.html) <br/>
-[2026/09/19 - Amazon FTC Settlement Refund Increased to Up to $200—Am I Eligible Too?](https://ai.trend.dmomo.co.kr/2026/09/amazon-ftc-settlement-refund-increased.html) <br/>
-[2026/09/19 - The Trend Behind One Korean Syllable, “Mu”: Shamans, Cheonmu, Warriors, and Musinsa Explained](https://ai.trend.dmomo.co.kr/2026/09/the-trend-behind-one-korean-syllable-mu.html) <br/>
-[2026/09/19 - How Miami Pulled Off a Road Win at No. 5: Mensah’s ACC Record and an Injury Crisis](https://ai.trend.dmomo.co.kr/2026/09/how-miami-pulled-off-road-win-at-no-5.html) <br/>
-[2026/09/19 - 2024 Waste Trends: When Trash Becomes Resources, Data, and Rights](https://ai.trend.dmomo.co.kr/2026/09/2024-waste-trends-when-trash-becomes.html) <br/>
-[2026/09/19 - Could Cycode’s AI Agent Attack Path Analysis Become the Key to Next-Generation AppSec?](https://ai.trend.dmomo.co.kr/2026/09/could-cycodes-ai-agent-attack-path.html) <br/>
