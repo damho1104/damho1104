@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/09/20 - 2026 나고야 아시안게임 총정리: 한국 금메달·빈 관중석·신종목 트렌드까지](https://blog.ai.dmomo.co.kr/trend/33949) <br/>
-[2026/09/20 - Lane Kiffin의 귀환, Ole Miss에 무릎 꿇은 LSU의 플레이오프 위기](https://blog.ai.dmomo.co.kr/trend/33934) <br/>
-[2026/09/20 - Alabama vs FSU 리턴 매치, 번개 지연 속 대형 업셋 터지나?](https://blog.ai.dmomo.co.kr/trend/33915) <br/>
-[2026/09/20 - 왜 Runtime SBOM인가? 실행 중 소프트웨어 공급망을 지키는 5가지 핵심](https://blog.ai.dmomo.co.kr/tech/33913) <br/>
-[2026/09/20 - UFC 331 완전분석: 스트리밍 시대 최두호·판토자 복수전까지](https://blog.ai.dmomo.co.kr/trend/33912) <br/>
+[2026/09/21 - 육군 25사단 DMZ 지뢰 폭발 사고, 서부전선은 지금 어떻게 변하고 있나](https://blog.ai.dmomo.co.kr/trend/34018) <br/>
+[2026/09/21 - 신디 크로포드 아들 프레슬리 거버, 27세에 재활시설서 사망한 이유](https://blog.ai.dmomo.co.kr/trend/34016) <br/>
+[2026/09/21 - 2026 Chiefs 2연승의 비밀: Mahomes·Walker·Butker 삼각편대의 귀환](https://blog.ai.dmomo.co.kr/trend/33997) <br/>
+[2026/09/21 - 이현중 NBA 도전기: 모자 금메달부터 포틀랜드 계약까지](https://blog.ai.dmomo.co.kr/trend/33973) <br/>
+[2026/09/21 - Elastic Serverless 벡터 DB와 Cross-Project Search, AI 검색의 판도를 바꿀까?](https://blog.ai.dmomo.co.kr/tech/33970) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/09/20 - 2026 Nagoya Asian Games: A Complete Overview of South Korea’s Gold Medals, Empty Stands, and Emerging Sports Trends](https://ai.trend.dmomo.co.kr/2026/09/2026-nagoya-asian-games-complete.html) <br/>
-[2026/09/20 - Lane Kiffin Returns as LSU’s Playoff Hopes Collapse Against Ole Miss](https://ai.trend.dmomo.co.kr/2026/09/lane-kiffin-returns-as-lsus-playoff.html) <br/>
-[2026/09/20 - Why Runtime SBOMs? 5 Keys to Securing Your Software Supply Chain at Runtime](https://ai.trend.dmomo.co.kr/2026/09/why-runtime-sboms-5-keys-to-securing.html) <br/>
-[2026/09/20 - UFC 331 Full Breakdown: Dooho Choi, Pantoja’s Revenge Rematch, and the Streaming Era](https://ai.trend.dmomo.co.kr/2026/09/ufc-331-full-breakdown-dooho-choi.html) <br/>
-[2026/09/20 - Alabama vs. FSU Rematch: Is a Major Upset Brewing Amid a Lightning Delay?](https://ai.trend.dmomo.co.kr/2026/09/alabama-vs-fsu-rematch-is-major-upset.html) <br/>
-[2026/09/19 - The Two Faces of Fandom: A Golden Goose for Business—or the Thin Line Between Passion and Stalking](https://ai.trend.dmomo.co.kr/2026/09/the-two-faces-of-fandom-golden-goose.html) <br/>
+[2026/09/21 - DMZ Landmine Explosion in South Korea’s 25th Infantry Division: How Is the Western Front Changing?](https://ai.trend.dmomo.co.kr/2026/09/dmz-landmine-explosion-in-south-koreas.html) <br/>
+[2026/09/21 - Why Cindy Crawford’s Son Presley Gerber Died at 27 in a Rehab Facility](https://ai.trend.dmomo.co.kr/2026/09/why-cindy-crawfords-son-presley-gerber.html) <br/>
+[2026/09/21 - The Secret Behind the Chiefs’ 2026 Two-Game Winning Streak: The Return of the Mahomes–Walker–Butker Trio](https://ai.trend.dmomo.co.kr/2026/09/the-secret-behind-chiefs-2026-two-game.html) <br/>
+[2026/09/21 - Lee Hyun-jung’s NBA Journey: From Gold Medals to a Contract with Portland](https://ai.trend.dmomo.co.kr/2026/09/lee-hyun-jungs-nba-journey-from-gold.html) <br/>
+[2026/09/21 - Could Elastic’s Serverless Vector DB and Cross-Project Search Change the Game for AI Search?](https://ai.trend.dmomo.co.kr/2026/09/could-elastics-serverless-vector-db-and.html) <br/>
+[2026/09/21 - NFL Week 2 Sunday Recap: The Return of Defense and a Day Full of Comeback Dramas](https://ai.trend.dmomo.co.kr/2026/09/nfl-week-2-sunday-recap-return-of.html) <br/>
