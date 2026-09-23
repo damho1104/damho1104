@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/09/21 - 육군 25사단 DMZ 지뢰 폭발 사고, 서부전선은 지금 어떻게 변하고 있나](https://blog.ai.dmomo.co.kr/trend/34018) <br/>
-[2026/09/21 - 신디 크로포드 아들 프레슬리 거버, 27세에 재활시설서 사망한 이유](https://blog.ai.dmomo.co.kr/trend/34016) <br/>
-[2026/09/21 - 2026 Chiefs 2연승의 비밀: Mahomes·Walker·Butker 삼각편대의 귀환](https://blog.ai.dmomo.co.kr/trend/33997) <br/>
-[2026/09/21 - 이현중 NBA 도전기: 모자 금메달부터 포틀랜드 계약까지](https://blog.ai.dmomo.co.kr/trend/33973) <br/>
-[2026/09/21 - Elastic Serverless 벡터 DB와 Cross-Project Search, AI 검색의 판도를 바꿀까?](https://blog.ai.dmomo.co.kr/tech/33970) <br/>
+[2026/09/22 - 류현진 10승 도전! 한화 vs 롯데 7연패 탈출 승부 분석](https://blog.ai.dmomo.co.kr/trend/34087) <br/>
+[2026/09/22 - Jaxson Dart 무릎 부상 총정리: MCL 염좌 확인, ACL은 피했다](https://blog.ai.dmomo.co.kr/trend/34069) <br/>
+[2026/09/22 - 2026 한국 게임 트렌드 총정리: IP·플랫폼·장르가 동시에 바뀐다](https://blog.ai.dmomo.co.kr/trend/34067) <br/>
+[2026/09/22 - Cindy Crawford 아들 Presley Gerber 27세 사망, 재활시설서 약물 과다복용 의심](https://blog.ai.dmomo.co.kr/trend/34042) <br/>
+[2026/09/22 - 심수봉에게 공개 저격당한 17세 트로트 스타 김다현, 그 후](https://blog.ai.dmomo.co.kr/trend/34039) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/09/21 - DMZ Landmine Explosion in South Korea’s 25th Infantry Division: How Is the Western Front Changing?](https://ai.trend.dmomo.co.kr/2026/09/dmz-landmine-explosion-in-south-koreas.html) <br/>
-[2026/09/21 - Why Cindy Crawford’s Son Presley Gerber Died at 27 in a Rehab Facility](https://ai.trend.dmomo.co.kr/2026/09/why-cindy-crawfords-son-presley-gerber.html) <br/>
-[2026/09/21 - The Secret Behind the Chiefs’ 2026 Two-Game Winning Streak: The Return of the Mahomes–Walker–Butker Trio](https://ai.trend.dmomo.co.kr/2026/09/the-secret-behind-chiefs-2026-two-game.html) <br/>
-[2026/09/21 - Lee Hyun-jung’s NBA Journey: From Gold Medals to a Contract with Portland](https://ai.trend.dmomo.co.kr/2026/09/lee-hyun-jungs-nba-journey-from-gold.html) <br/>
-[2026/09/21 - Could Elastic’s Serverless Vector DB and Cross-Project Search Change the Game for AI Search?](https://ai.trend.dmomo.co.kr/2026/09/could-elastics-serverless-vector-db-and.html) <br/>
-[2026/09/21 - NFL Week 2 Sunday Recap: The Return of Defense and a Day Full of Comeback Dramas](https://ai.trend.dmomo.co.kr/2026/09/nfl-week-2-sunday-recap-return-of.html) <br/>
+[2026/09/22 - Ryu Hyun-jin Goes for Win No. 10! Hanwha vs. Lotte: A Battle to End a Seven-Game Losing Streak](https://ai.trend.dmomo.co.kr/2026/09/ryu-hyun-jin-goes-for-win-no-10-hanwha.html) <br/>
+[2026/09/22 - Jaxson Dart Knee Injury Update: MCL Sprain Confirmed, ACL Injury Ruled Out](https://ai.trend.dmomo.co.kr/2026/09/jaxson-dart-knee-injury-update-mcl.html) <br/>
+[2026/09/22 - 2026 Korean Gaming Trends: IPs, Platforms, and Genres Are All Shifting at Once](https://ai.trend.dmomo.co.kr/2026/09/2026-korean-gaming-trends-ips-platforms.html) <br/>
+[2026/09/22 - What Happened to 17-Year-Old Trot Star Kim Da-hyun After Shim Su-bong Publicly Called Her Out?](https://ai.trend.dmomo.co.kr/2026/09/what-happened-to-17-year-old-trot-star.html) <br/>
+[2026/09/22 - Cindy Crawford’s Son Presley Gerber, 27, Dies in Suspected Drug Overdose at Rehab Facility](https://ai.trend.dmomo.co.kr/2026/09/cindy-crawfords-son-presley-gerber-27.html) <br/>
+[2026/09/22 - The Secret Behind 1,000× Faster Quantum Computing: How Thousands of Control Operations Were Reduced to a Single Step](https://ai.trend.dmomo.co.kr/2026/09/the-secret-behind-1000-faster-quantum.html) <br/>
