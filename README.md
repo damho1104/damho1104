@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/09/22 - 류현진 10승 도전! 한화 vs 롯데 7연패 탈출 승부 분석](https://blog.ai.dmomo.co.kr/trend/34087) <br/>
-[2026/09/22 - Jaxson Dart 무릎 부상 총정리: MCL 염좌 확인, ACL은 피했다](https://blog.ai.dmomo.co.kr/trend/34069) <br/>
-[2026/09/22 - 2026 한국 게임 트렌드 총정리: IP·플랫폼·장르가 동시에 바뀐다](https://blog.ai.dmomo.co.kr/trend/34067) <br/>
-[2026/09/22 - Cindy Crawford 아들 Presley Gerber 27세 사망, 재활시설서 약물 과다복용 의심](https://blog.ai.dmomo.co.kr/trend/34042) <br/>
-[2026/09/22 - 심수봉에게 공개 저격당한 17세 트로트 스타 김다현, 그 후](https://blog.ai.dmomo.co.kr/trend/34039) <br/>
+[2026/09/23 - 미국 홍역 대유행 경고: 45개 주 3,200건, 지금 당신의 아이는 안전한가?](https://blog.ai.dmomo.co.kr/trend/34177) <br/>
+[2026/09/23 - 김지민 임신 19주차 D라인 공개! 시험관 성공한 41세 예비맘의 모든 것](https://blog.ai.dmomo.co.kr/trend/34175) <br/>
+[2026/09/23 - 망내 탈퇴로 드러난 버튜버 계약의 민낯, MCN 생태계 무엇이 문제인가](https://blog.ai.dmomo.co.kr/trend/34156) <br/>
+[2026/09/23 - 패드리스 vs 다저스 2026 시리즈 완벽 분석: 포스트시즌 향한 NL West 빅매치](https://blog.ai.dmomo.co.kr/trend/34150) <br/>
+[2026/09/23 - 악마의 재능 쇼트트랙 김건우, 은퇴 3개월 만에 28세로 별세](https://blog.ai.dmomo.co.kr/trend/34148) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/09/22 - Ryu Hyun-jin Goes for Win No. 10! Hanwha vs. Lotte: A Battle to End a Seven-Game Losing Streak](https://ai.trend.dmomo.co.kr/2026/09/ryu-hyun-jin-goes-for-win-no-10-hanwha.html) <br/>
-[2026/09/22 - Jaxson Dart Knee Injury Update: MCL Sprain Confirmed, ACL Injury Ruled Out](https://ai.trend.dmomo.co.kr/2026/09/jaxson-dart-knee-injury-update-mcl.html) <br/>
-[2026/09/22 - 2026 Korean Gaming Trends: IPs, Platforms, and Genres Are All Shifting at Once](https://ai.trend.dmomo.co.kr/2026/09/2026-korean-gaming-trends-ips-platforms.html) <br/>
-[2026/09/22 - What Happened to 17-Year-Old Trot Star Kim Da-hyun After Shim Su-bong Publicly Called Her Out?](https://ai.trend.dmomo.co.kr/2026/09/what-happened-to-17-year-old-trot-star.html) <br/>
-[2026/09/22 - Cindy Crawford’s Son Presley Gerber, 27, Dies in Suspected Drug Overdose at Rehab Facility](https://ai.trend.dmomo.co.kr/2026/09/cindy-crawfords-son-presley-gerber-27.html) <br/>
-[2026/09/22 - The Secret Behind 1,000× Faster Quantum Computing: How Thousands of Control Operations Were Reduced to a Single Step](https://ai.trend.dmomo.co.kr/2026/09/the-secret-behind-1000-faster-quantum.html) <br/>
+[2026/09/23 - U.S. Measles Outbreak Alert: 3,200 Cases Across 45 States—Is Your Child Safe?](https://ai.trend.dmomo.co.kr/2026/09/us-measles-outbreak-alert-3200-cases.html) <br/>
+[2026/09/23 - Kim Ji-min Reveals Her 19-Week Baby Bump! Everything About the 41-Year-Old Mom-to-Be Who Conceived Through IVF](https://ai.trend.dmomo.co.kr/2026/09/kim-ji-min-reveals-her-19-week-baby.html) <br/>
+[2026/09/23 - Mangnae’s Departure Exposes the Reality of VTuber Contracts: What’s Wrong with the MCN Ecosystem?](https://ai.trend.dmomo.co.kr/2026/09/mangnaes-departure-exposes-reality-of.html) <br/>
+[2026/09/23 - Padres vs. Dodgers: Complete Breakdown of the 2026 NL West Showdown with Postseason Implications](https://ai.trend.dmomo.co.kr/2026/09/padres-vs-dodgers-complete-breakdown-of.html) <br/>
+[2026/09/23 - Devilishly Talented Short-Track Skater Kim Geon-woo Dies at 28, Just Three Months After Retiring](https://ai.trend.dmomo.co.kr/2026/09/devilishly-talented-short-track-skater.html) <br/>
+[2026/09/23 - Android Security State Libraries: 5 Key Changes That Let Apps Directly Assess Device Security](https://ai.trend.dmomo.co.kr/2026/09/android-security-state-libraries-5-key.html) <br/>
