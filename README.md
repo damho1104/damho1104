@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/09/27 - 외로운 부모가 ChatGPT에 빠진다면? AI 정서 의존의 명암](https://blog.ai.dmomo.co.kr/ai/34381) <br/>
-[2026/09/26 - 재산 관리 완전정복: 순자산부터 상속·휴면예금까지 핵심 전략 6가지](https://blog.ai.dmomo.co.kr/trend/34372) <br/>
-[2026/09/26 - 2026 과일 트렌드 총정리: 혈당 관리부터 세척법·물가까지](https://blog.ai.dmomo.co.kr/trend/34354) <br/>
-[2026/09/26 - 디펜딩 챔피언 인디애나, 북서턴에 29-23 아찔한 접전 승리의 진실](https://blog.ai.dmomo.co.kr/trend/34352) <br/>
-[2026/09/26 - 비트코인 양자내성 전환, Falcon-1024가 유력 후보로 떠오른 이유는?](https://blog.ai.dmomo.co.kr/tech/34327) <br/>
+[2026/09/27 - 왕즈이 1일 2경기 논란, 선수 혹사인가 공정성 문제인가?](https://blog.ai.dmomo.co.kr/trend/34422) <br/>
+[2026/09/27 - Dante Moore 앰뷸런스 후송 충격, dirty hit로 헤이즈먼 컨텐더가 쓰러졌다](https://blog.ai.dmomo.co.kr/trend/34421) <br/>
+[2026/09/27 - MLOps의 다음 단계, AI Operating Layer가 GenAI·에이전트 거버넌스를 바꾸는 이유](https://blog.ai.dmomo.co.kr/tech/34399) <br/>
+[2026/09/27 - 2026 에어컨 완벽 가이드: AI·절전·건강까지 한번에](https://blog.ai.dmomo.co.kr/trend/34396) <br/>
+[2026/09/27 - Iowa vs Michigan 2026 빅텐 개막전 완벽 분석: 수비전 예고된 빅매치](https://blog.ai.dmomo.co.kr/trend/34395) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/09/27 - Wang Zhiyi’s Two-Match Day Sparks Debate: Player Overwork or a Fairness Issue?](https://ai.trend.dmomo.co.kr/2026/09/wang-zhiyis-two-match-day-sparks-debate.html) <br/>
+[2026/09/27 - Dante Moore Taken Away in an Ambulance After Dirty Hit, Heisman Contender Goes Down](https://ai.trend.dmomo.co.kr/2026/09/dante-moore-taken-away-in-ambulance.html) <br/>
+[2026/09/27 - The Next Step in MLOps: Why the AI Operating Layer Is Transforming GenAI and Agent Governance](https://ai.trend.dmomo.co.kr/2026/09/the-next-step-in-mlops-why-ai-operating.html) <br/>
+[2026/09/27 - 2026 Complete Air Conditioner Guide: AI, Energy Savings, and Health—all in One](https://ai.trend.dmomo.co.kr/2026/09/2026-complete-air-conditioner-guide-ai.html) <br/>
+[2026/09/27 - Iowa vs. Michigan: A Complete Preview of the 2026 Big Ten Opener and the Defensive Showdown Ahead](https://ai.trend.dmomo.co.kr/2026/09/iowa-vs-michigan-complete-preview-of.html) <br/>
 [2026/09/26 - Mastering Wealth Management: 6 Essential Strategies, from Net Worth to Inheritance and Dormant Accounts](https://ai.trend.dmomo.co.kr/2026/09/mastering-wealth-management-6-essential.html) <br/>
-[2026/09/26 - 2026 Fruit Trends, Explained: Blood Sugar Management, Washing Tips, and Rising Prices](https://ai.trend.dmomo.co.kr/2026/09/2026-fruit-trends-explained-blood-sugar.html) <br/>
-[2026/09/26 - The Truth Behind Defending Champion Indiana’s Nail-Biting 29–23 Win Over Northwestern](https://ai.trend.dmomo.co.kr/2026/09/the-truth-behind-defending-champion.html) <br/>
-[2026/09/26 - Bitcoin’s Shift to Quantum Resistance: Why Is Falcon-1024 Emerging as a Leading Contender?](https://ai.trend.dmomo.co.kr/2026/09/bitcoins-shift-to-quantum-resistance.html) <br/>
-[2026/09/26 - 5 Weather Trends in the AI Era: How Hyper-Personalized Forecasts Are Changing Everyday Life](https://ai.trend.dmomo.co.kr/2026/09/5-weather-trends-in-ai-era-how-hyper.html) <br/>
-[2026/09/26 - The Storm That Changed the Cubs–Red Sox Series—and Shook Up the Wild-Card Race](https://ai.trend.dmomo.co.kr/2026/09/the-storm-that-changed-cubsred-sox.html) <br/>
