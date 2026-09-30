@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/09/29 - Jev AI란? 말하지 않는 결정 전용 AI가 LLM보다 200배 빠른 이유](https://blog.ai.dmomo.co.kr/tech/34517) <br/>
-[2026/09/28 - 홍준표 경고: 국민의힘, 연말 정당 해산 위기 현실화되나?](https://blog.ai.dmomo.co.kr/trend/34501) <br/>
-[2026/09/28 - 삼전 닉스 완벽 분석: 역대 최대 실적에도 주가가 흔들리는 이유](https://blog.ai.dmomo.co.kr/trend/34483) <br/>
-[2026/09/28 - Rams vs Broncos SNF 리뷰: 16-0에서 29-26 역전까지 Mile High 대역전극](https://blog.ai.dmomo.co.kr/trend/34481) <br/>
-[2026/09/28 - Edge AI 최적화의 새 표준, Qualcomm이 1661개 모델 분석으로 찾은 5가지 원칙](https://blog.ai.dmomo.co.kr/tech/34456) <br/>
+[2026/09/29 - 닛몰캐쉬 논란 총정리: BTS 백댄서 출신 인플루언서의 데이트 폭력 폭로와 업계 파장](https://blog.ai.dmomo.co.kr/trend/34577) <br/>
+[2026/09/29 - 이글스 Week 3 충격패! 3번 QB에 27-7 완패, 컨텐더의 민낯](https://blog.ai.dmomo.co.kr/trend/34559) <br/>
+[2026/09/29 - 부울경 해양 IoT 시범망, 어업인의 안전과 조업을 바꿀 스마트오션의 시작일까?](https://blog.ai.dmomo.co.kr/tech/34535) <br/>
+[2026/09/29 - 미국 혈압약 리콜 충격: 25,000병 용출 불합격, 내 약은 안전한가?](https://blog.ai.dmomo.co.kr/trend/34533) <br/>
+[2026/09/29 - 손흥민 58골 대기록 vs 1-4 대패, 한국 우루과이전 완전 분석](https://blog.ai.dmomo.co.kr/trend/34531) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/09/29 - The Nitmolcash Controversy, Explained: Dating Abuse Allegations Against the Former BTS Backup Dancer Turned Influencer and Their Fallout Across the Industry](https://ai.trend.dmomo.co.kr/2026/09/the-nitmolcash-controversy-explained.html) <br/>
+[2026/09/29 - Eagles Suffer Shocking Week 3 Loss, Crushed 27–7 by a Team Led by a Third-String QB: A Contender Exposed](https://ai.trend.dmomo.co.kr/2026/09/eagles-suffer-shocking-week-3-loss.html) <br/>
+[2026/09/29 - Could the Busan–Ulsan–Gyeongnam Marine IoT Pilot Network Usher in a Smart Ocean That Transforms Fishermen’s Safety and Work at Sea?](https://ai.trend.dmomo.co.kr/2026/09/could-busanulsangyeongnam-marine-iot.html) <br/>
+[2026/09/29 - U.S. Blood Pressure Medication Recall Shocker: 25,000 Bottles Fail Dissolution Tests—Is Your Medication Safe?](https://ai.trend.dmomo.co.kr/2026/09/us-blood-pressure-medication-recall.html) <br/>
+[2026/09/29 - Son Heung-min’s Historic 58th Goal vs. a 1–4 Rout: South Korea vs. Uruguay Fully Analyzed](https://ai.trend.dmomo.co.kr/2026/09/son-heung-mins-historic-58th-goal-vs-14.html) <br/>
 [2026/09/29 - What Is Jev AI? Why an AI That Makes Decisions Without Speaking Is 200x Faster Than LLMs](https://ai.trend.dmomo.co.kr/2026/09/what-is-jev-ai-why-ai-that-makes.html) <br/>
-[2026/09/28 - Hong Joon-pyo Warns: Is the People Power Party Really Facing Dissolution by Year-End?](https://ai.trend.dmomo.co.kr/2026/09/hong-joon-pyo-warns-is-people-power.html) <br/>
-[2026/09/28 - Samsung and SK hynix: Why Their Stocks Are Wobbling Despite Record-Breaking Earnings](https://ai.trend.dmomo.co.kr/2026/09/samsung-and-sk-hynix-why-their-stocks.html) <br/>
-[2026/09/28 - Rams vs. Broncos SNF Review: Denver’s Mile High Miracle—Rallying from 16–0 Down to Win 29–26](https://ai.trend.dmomo.co.kr/2026/09/rams-vs-broncos-snf-review-denvers-mile.html) <br/>
-[2026/09/28 - A New Standard for Edge AI Optimization: 5 Principles Qualcomm Uncovered by Analyzing 1,661 Models](https://ai.trend.dmomo.co.kr/2026/09/a-new-standard-for-edge-ai-optimization.html) <br/>
-[2026/09/28 - The NFL’s First-Ever Game in South America: A Full Breakdown of Lamar Jackson vs. Dak Prescott in Rio](https://ai.trend.dmomo.co.kr/2026/09/the-nfls-first-ever-game-in-south.html) <br/>
