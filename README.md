@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/09/30 - 서버리스와 AI 에이전트 오케스트레이션, Saddle Command Center 1.3의 핵심 변화 5가지](https://blog.ai.dmomo.co.kr/tech/34604) <br/>
+[2026/09/30 - 2026 WNBA 플레이오프 완벽 분석: 업셋·탈락 위기·중계 총정리](https://blog.ai.dmomo.co.kr/trend/34602) <br/>
+[2026/09/30 - 2026 강남구 완전분석: 상권·재건축·축제·부동산 세제 총정리](https://blog.ai.dmomo.co.kr/trend/34600) <br/>
 [2026/09/29 - 닛몰캐쉬 논란 총정리: BTS 백댄서 출신 인플루언서의 데이트 폭력 폭로와 업계 파장](https://blog.ai.dmomo.co.kr/trend/34577) <br/>
 [2026/09/29 - 이글스 Week 3 충격패! 3번 QB에 27-7 완패, 컨텐더의 민낯](https://blog.ai.dmomo.co.kr/trend/34559) <br/>
-[2026/09/29 - 부울경 해양 IoT 시범망, 어업인의 안전과 조업을 바꿀 스마트오션의 시작일까?](https://blog.ai.dmomo.co.kr/tech/34535) <br/>
-[2026/09/29 - 미국 혈압약 리콜 충격: 25,000병 용출 불합격, 내 약은 안전한가?](https://blog.ai.dmomo.co.kr/trend/34533) <br/>
-[2026/09/29 - 손흥민 58골 대기록 vs 1-4 대패, 한국 우루과이전 완전 분석](https://blog.ai.dmomo.co.kr/trend/34531) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/09/30 - Serverless & AI Agent Orchestration: 5 Key Changes in Saddle Command Center 1.3](https://ai.trend.dmomo.co.kr/2026/09/serverless-ai-agent-orchestration-5-key.html) <br/>
+[2026/09/30 - The Complete Guide to the 2026 WNBA Playoffs: Upsets, Elimination Drama & How to Watch](https://ai.trend.dmomo.co.kr/2026/09/the-complete-guide-to-2026-wnba.html) <br/>
+[2026/09/30 - Gangnam-gu 2026: A Complete Guide to Business Districts, Redevelopment, Festivals, and Real Estate Taxes](https://ai.trend.dmomo.co.kr/2026/09/gangnam-gu-2026-complete-guide-to.html) <br/>
 [2026/09/29 - The Nitmolcash Controversy, Explained: Dating Abuse Allegations Against the Former BTS Backup Dancer Turned Influencer and Their Fallout Across the Industry](https://ai.trend.dmomo.co.kr/2026/09/the-nitmolcash-controversy-explained.html) <br/>
 [2026/09/29 - Eagles Suffer Shocking Week 3 Loss, Crushed 27–7 by a Team Led by a Third-String QB: A Contender Exposed](https://ai.trend.dmomo.co.kr/2026/09/eagles-suffer-shocking-week-3-loss.html) <br/>
 [2026/09/29 - Could the Busan–Ulsan–Gyeongnam Marine IoT Pilot Network Usher in a Smart Ocean That Transforms Fishermen’s Safety and Work at Sea?](https://ai.trend.dmomo.co.kr/2026/09/could-busanulsangyeongnam-marine-iot.html) <br/>
-[2026/09/29 - U.S. Blood Pressure Medication Recall Shocker: 25,000 Bottles Fail Dissolution Tests—Is Your Medication Safe?](https://ai.trend.dmomo.co.kr/2026/09/us-blood-pressure-medication-recall.html) <br/>
-[2026/09/29 - Son Heung-min’s Historic 58th Goal vs. a 1–4 Rout: South Korea vs. Uruguay Fully Analyzed](https://ai.trend.dmomo.co.kr/2026/09/son-heung-mins-historic-58th-goal-vs-14.html) <br/>
-[2026/09/29 - What Is Jev AI? Why an AI That Makes Decisions Without Speaking Is 200x Faster Than LLMs](https://ai.trend.dmomo.co.kr/2026/09/what-is-jev-ai-why-ai-that-makes.html) <br/>
