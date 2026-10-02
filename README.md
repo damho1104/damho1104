@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/10/01 - 박나래 전 매니저 공갈 재판, 방송 중단까지 부른 법정 공방 전말](https://blog.ai.dmomo.co.kr/trend/34703) <br/>
+[2026/10/01 - 아르헨티나 vs 볼리비아 역대 전적과 4-0 완승 핵심 정리](https://blog.ai.dmomo.co.kr/trend/34685) <br/>
+[2026/10/01 - Gemini 4 Argon이란? 100만 토큰 출력과 핵심 기능, 출시·접근성 정리](https://blog.ai.dmomo.co.kr/tech/34661) <br/>
+[2026/10/01 - 아이유가 직접 밝힌 프로모션 축소와 스타일링 논란의 진짜 이유](https://blog.ai.dmomo.co.kr/trend/34659) <br/>
 [2026/09/30 - 서버리스와 AI 에이전트 오케스트레이션, Saddle Command Center 1.3의 핵심 변화 5가지](https://blog.ai.dmomo.co.kr/tech/34604) <br/>
-[2026/09/30 - 2026 WNBA 플레이오프 완벽 분석: 업셋·탈락 위기·중계 총정리](https://blog.ai.dmomo.co.kr/trend/34602) <br/>
-[2026/09/30 - 2026 강남구 완전분석: 상권·재건축·축제·부동산 세제 총정리](https://blog.ai.dmomo.co.kr/trend/34600) <br/>
-[2026/09/29 - 닛몰캐쉬 논란 총정리: BTS 백댄서 출신 인플루언서의 데이트 폭력 폭로와 업계 파장](https://blog.ai.dmomo.co.kr/trend/34577) <br/>
-[2026/09/29 - 이글스 Week 3 충격패! 3번 QB에 27-7 완패, 컨텐더의 민낯](https://blog.ai.dmomo.co.kr/trend/34559) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/10/01 - Inside the Extortion Trial Involving Park Na-rae’s Former Manager—and the Courtroom Battle That Took Her Off the Air](https://ai.trend.dmomo.co.kr/2026/10/inside-extortion-trial-involving-park.html) <br/>
+[2026/10/01 - Argentina vs. Bolivia: Head-to-Head Record and Key Takeaways from Argentina’s 4-0 Rout](https://ai.trend.dmomo.co.kr/2026/09/argentina-vs-bolivia-head-to-head.html) <br/>
+[2026/10/01 - What Is Gemini 4 Argon? A Look at Its 1-Million-Token Output, Key Features, Release, and Availability](https://ai.trend.dmomo.co.kr/2026/09/what-is-gemini-4-argon-look-at-its-1.html) <br/>
+[2026/10/01 - IU Reveals the Real Reasons Behind Her Reduced Promotions and the Styling Controversy](https://ai.trend.dmomo.co.kr/2026/09/iu-reveals-real-reasons-behind-her.html) <br/>
 [2026/09/30 - Serverless & AI Agent Orchestration: 5 Key Changes in Saddle Command Center 1.3](https://ai.trend.dmomo.co.kr/2026/09/serverless-ai-agent-orchestration-5-key.html) <br/>
 [2026/09/30 - The Complete Guide to the 2026 WNBA Playoffs: Upsets, Elimination Drama & How to Watch](https://ai.trend.dmomo.co.kr/2026/09/the-complete-guide-to-2026-wnba.html) <br/>
-[2026/09/30 - Gangnam-gu 2026: A Complete Guide to Business Districts, Redevelopment, Festivals, and Real Estate Taxes](https://ai.trend.dmomo.co.kr/2026/09/gangnam-gu-2026-complete-guide-to.html) <br/>
-[2026/09/29 - The Nitmolcash Controversy, Explained: Dating Abuse Allegations Against the Former BTS Backup Dancer Turned Influencer and Their Fallout Across the Industry](https://ai.trend.dmomo.co.kr/2026/09/the-nitmolcash-controversy-explained.html) <br/>
-[2026/09/29 - Eagles Suffer Shocking Week 3 Loss, Crushed 27–7 by a Team Led by a Third-String QB: A Contender Exposed](https://ai.trend.dmomo.co.kr/2026/09/eagles-suffer-shocking-week-3-loss.html) <br/>
-[2026/09/29 - Could the Busan–Ulsan–Gyeongnam Marine IoT Pilot Network Usher in a Smart Ocean That Transforms Fishermen’s Safety and Work at Sea?](https://ai.trend.dmomo.co.kr/2026/09/could-busanulsangyeongnam-marine-iot.html) <br/>
