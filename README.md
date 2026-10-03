@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/01 - 박나래 전 매니저 공갈 재판, 방송 중단까지 부른 법정 공방 전말](https://blog.ai.dmomo.co.kr/trend/34703) <br/>
-[2026/10/01 - 아르헨티나 vs 볼리비아 역대 전적과 4-0 완승 핵심 정리](https://blog.ai.dmomo.co.kr/trend/34685) <br/>
-[2026/10/01 - Gemini 4 Argon이란? 100만 토큰 출력과 핵심 기능, 출시·접근성 정리](https://blog.ai.dmomo.co.kr/tech/34661) <br/>
-[2026/10/01 - 아이유가 직접 밝힌 프로모션 축소와 스타일링 논란의 진짜 이유](https://blog.ai.dmomo.co.kr/trend/34659) <br/>
-[2026/09/30 - 서버리스와 AI 에이전트 오케스트레이션, Saddle Command Center 1.3의 핵심 변화 5가지](https://blog.ai.dmomo.co.kr/tech/34604) <br/>
+[2026/10/02 - Gypsy Rose 전 약혼자 Ken Urker 생일날 사망, 사인은 미스터리](https://blog.ai.dmomo.co.kr/trend/34784) <br/>
+[2026/10/02 - 탑♥나나 열애 인정! MV 촬영에서 시작된 실제 커플 된 사연](https://blog.ai.dmomo.co.kr/trend/34782) <br/>
+[2026/10/02 - 2026년 수학여행 트렌드: 관광형에서 체험·안전형으로 바뀐 이유](https://blog.ai.dmomo.co.kr/trend/34751) <br/>
+[2026/10/02 - 최신 MLOps 기술 트렌드, vLLM과 LLMOps 인프라가 바꾸는 AI 운영의 미래](https://blog.ai.dmomo.co.kr/tech/34727) <br/>
+[2026/10/02 - 눈꺼풀 처짐이 자가면역질환 신호? 미용부터 건강까지 총정리](https://blog.ai.dmomo.co.kr/trend/34725) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/10/01 - Inside the Extortion Trial Involving Park Na-rae’s Former Manager—and the Courtroom Battle That Took Her Off the Air](https://ai.trend.dmomo.co.kr/2026/10/inside-extortion-trial-involving-park.html) <br/>
-[2026/10/01 - Argentina vs. Bolivia: Head-to-Head Record and Key Takeaways from Argentina’s 4-0 Rout](https://ai.trend.dmomo.co.kr/2026/09/argentina-vs-bolivia-head-to-head.html) <br/>
-[2026/10/01 - What Is Gemini 4 Argon? A Look at Its 1-Million-Token Output, Key Features, Release, and Availability](https://ai.trend.dmomo.co.kr/2026/09/what-is-gemini-4-argon-look-at-its-1.html) <br/>
-[2026/10/01 - IU Reveals the Real Reasons Behind Her Reduced Promotions and the Styling Controversy](https://ai.trend.dmomo.co.kr/2026/09/iu-reveals-real-reasons-behind-her.html) <br/>
-[2026/09/30 - Serverless & AI Agent Orchestration: 5 Key Changes in Saddle Command Center 1.3](https://ai.trend.dmomo.co.kr/2026/09/serverless-ai-agent-orchestration-5-key.html) <br/>
-[2026/09/30 - The Complete Guide to the 2026 WNBA Playoffs: Upsets, Elimination Drama & How to Watch](https://ai.trend.dmomo.co.kr/2026/09/the-complete-guide-to-2026-wnba.html) <br/>
+[2026/10/02 - Gypsy Rose’s Ex-Fiancé Ken Urker Dies on His Birthday; Cause of Death Remains a Mystery](https://ai.trend.dmomo.co.kr/2026/10/gypsy-roses-ex-fiance-ken-urker-dies-on.html) <br/>
+[2026/10/02 - T.O.P and Nana Confirm Their Romance! How a Music Video Shoot Brought Them Together in Real Life](https://ai.trend.dmomo.co.kr/2026/10/top-and-nana-confirm-their-romance-how.html) <br/>
+[2026/10/02 - 2026 School Trip Trends: Why the Focus Is Shifting from Sightseeing to Hands-On Experiences and Safety](https://ai.trend.dmomo.co.kr/2026/10/2026-school-trip-trends-why-focus-is.html) <br/>
+[2026/10/02 - The Latest MLOps Trends: How vLLM and LLMOps Infrastructure Are Shaping the Future of AI Operations](https://ai.trend.dmomo.co.kr/2026/10/the-latest-mlops-trends-how-vllm-and.html) <br/>
+[2026/10/02 - Could Drooping Eyelids Be a Sign of Autoimmune Disease? A Complete Guide to Cosmetic and Health Concerns](https://ai.trend.dmomo.co.kr/2026/10/could-drooping-eyelids-be-sign-of.html) <br/>
+[2026/10/02 - Steelers vs. Browns: The Ultimate 2026 Week 4 TNF Preview—Who Will Claim the AFC North Crown?](https://ai.trend.dmomo.co.kr/2026/10/steelers-vs-browns-ultimate-2026-week-4.html) <br/>
