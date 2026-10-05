@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/10/04 - 아들 키워드 트렌드 분석: 육아부터 채용 특혜까지 사회 의제로 확장되다](https://blog.ai.dmomo.co.kr/trend/34925) <br/>
+[2026/10/04 - 아르헨티나, 부르키나파소에 7-0 대승…전반에만 5골 폭격](https://blog.ai.dmomo.co.kr/trend/34923) <br/>
+[2026/10/04 - 조세호 요요 논란과 방송 복귀, 지금 그는 어떻게 변했나](https://blog.ai.dmomo.co.kr/trend/34904) <br/>
+[2026/10/04 - 2026 NLDS 1차전 파드리스 vs 브루어스 선발 투수·라인업 완벽 분석](https://blog.ai.dmomo.co.kr/trend/34902) <br/>
 [2026/10/04 - JFrog Zero-Touch Remediation이 바꾸는 공급망 보안: 취약점 탐지부터 자동 패치까지_TITLE](https://blog.ai.dmomo.co.kr/tech/34883) <br/>
-[2026/10/04 - Ohio State vs Iowa 31-14 완전 분석: Jeremiah Smith가 Iowa 철벽 수비를 무너뜨린 방법](https://blog.ai.dmomo.co.kr/trend/34881) <br/>
-[2026/10/04 - 한일 축구 아시안게임 4연패 비결: 결정력과 대회 철학의 차이](https://blog.ai.dmomo.co.kr/trend/34879) <br/>
-[2026/10/04 - Gemini 4 Argon, 왜 IT 커뮤니티를 뒤흔들었나? 1688점의 비밀](https://blog.ai.dmomo.co.kr/ai/34868) <br/>
-[2026/10/03 - 10억으로 월 352만원 버는 법, 예금 vs 배당주 현금흐름 비교](https://blog.ai.dmomo.co.kr/trend/34856) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/10/04 - The “Son” Trend: From Parenting to Hiring Favoritism, a Growing Social Issue](https://ai.trend.dmomo.co.kr/2026/10/the-son-trend-from-parenting-to-hiring.html) <br/>
+[2026/10/04 - Argentina Thrash Burkina Faso 7-0, Scoring Five in the First Half](https://ai.trend.dmomo.co.kr/2026/10/argentina-thrash-burkina-faso-7-0.html) <br/>
+[2026/10/04 - Jo Se-ho’s Weight-Yo-Yo Controversy and TV Comeback: How Has He Changed?](https://ai.trend.dmomo.co.kr/2026/10/jo-se-hos-weight-yo-yo-controversy-and.html) <br/>
+[2026/10/04 - 2026 NLDS Game 1: A Complete Breakdown of Padres vs. Brewers Starting Pitchers and Lineups](https://ai.trend.dmomo.co.kr/2026/10/2026-nlds-game-1-complete-breakdown-of.html) <br/>
 [2026/10/04 - How JFrog Zero-Touch Remediation Is Transforming Supply Chain Security—from Vulnerability Detection to Automated Patching](https://ai.trend.dmomo.co.kr/2026/10/how-jfrog-zero-touch-remediation-is.html) <br/>
 [2026/10/04 - Ohio State vs. Iowa, 31–14: How Jeremiah Smith Cracked Iowa’s Brick-Wall Defense](https://ai.trend.dmomo.co.kr/2026/10/ohio-state-vs-iowa-3114-how-jeremiah.html) <br/>
-[2026/10/04 - Korea vs. Japan at the Asian Games: The Secret Behind Four Straight Football Titles—Clinical Finishing and a Different Tournament Philosophy](https://ai.trend.dmomo.co.kr/2026/10/korea-vs-japan-at-asian-games-secret.html) <br/>
-[2026/10/03 - How to Generate ₩3.52 Million a Month from ₩1 Billion: Bank Deposits vs. Dividend Stocks for Cash Flow](https://ai.trend.dmomo.co.kr/2026/10/how-to-generate-352-million-month-from.html) <br/>
-[2026/10/03 - 2026 Travel Trends: 3 Reasons Local Getaways and Micro-Trips Are Taking Off](https://ai.trend.dmomo.co.kr/2026/10/2026-travel-trends-3-reasons-local.html) <br/>
-[2026/10/03 - Northwestern 24, Penn State 7: A Stunning Third-Quarter Comeback! Full Game Recap](https://ai.trend.dmomo.co.kr/2026/10/northwestern-24-penn-state-7-stunning.html) <br/>
