@@ -87,16 +87,11 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/04 - 아들 키워드 트렌드 분석: 육아부터 채용 특혜까지 사회 의제로 확장되다](https://blog.ai.dmomo.co.kr/trend/34925) <br/>
-[2026/10/04 - 아르헨티나, 부르키나파소에 7-0 대승…전반에만 5골 폭격](https://blog.ai.dmomo.co.kr/trend/34923) <br/>
-[2026/10/04 - 조세호 요요 논란과 방송 복귀, 지금 그는 어떻게 변했나](https://blog.ai.dmomo.co.kr/trend/34904) <br/>
-[2026/10/04 - 2026 NLDS 1차전 파드리스 vs 브루어스 선발 투수·라인업 완벽 분석](https://blog.ai.dmomo.co.kr/trend/34902) <br/>
-[2026/10/04 - JFrog Zero-Touch Remediation이 바꾸는 공급망 보안: 취약점 탐지부터 자동 패치까지_TITLE](https://blog.ai.dmomo.co.kr/tech/34883) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/10/04 - The “Son” Trend: From Parenting to Hiring Favoritism, a Growing Social Issue](https://ai.trend.dmomo.co.kr/2026/10/the-son-trend-from-parenting-to-hiring.html) <br/>
-[2026/10/04 - Argentina Thrash Burkina Faso 7-0, Scoring Five in the First Half](https://ai.trend.dmomo.co.kr/2026/10/argentina-thrash-burkina-faso-7-0.html) <br/>
-[2026/10/04 - Jo Se-ho’s Weight-Yo-Yo Controversy and TV Comeback: How Has He Changed?](https://ai.trend.dmomo.co.kr/2026/10/jo-se-hos-weight-yo-yo-controversy-and.html) <br/>
-[2026/10/04 - 2026 NLDS Game 1: A Complete Breakdown of Padres vs. Brewers Starting Pitchers and Lineups](https://ai.trend.dmomo.co.kr/2026/10/2026-nlds-game-1-complete-breakdown-of.html) <br/>
-[2026/10/04 - How JFrog Zero-Touch Remediation Is Transforming Supply Chain Security—from Vulnerability Detection to Automated Patching](https://ai.trend.dmomo.co.kr/2026/10/how-jfrog-zero-touch-remediation-is.html) <br/>
-[2026/10/04 - Ohio State vs. Iowa, 31–14: How Jeremiah Smith Cracked Iowa’s Brick-Wall Defense](https://ai.trend.dmomo.co.kr/2026/10/ohio-state-vs-iowa-3114-how-jeremiah.html) <br/>
+[2026/10/05 - Insubong Rock Climbing in Bukhansan: The Hidden Dangers Behind Its Beauty](https://ai.trend.dmomo.co.kr/2026/10/insubong-rock-climbing-in-bukhansan.html) <br/>
+[2026/10/05 - Is Now a Good Time to Visit Saipan? The Truth Behind the 85% Drop in Korean Visitors](https://ai.trend.dmomo.co.kr/2026/10/is-now-good-time-to-visit-saipan-truth.html) <br/>
+[2026/10/05 - Panthers Pull Off a Miracle! How the Bryce Young–McMillan Connection Took Down the Lions, 32–26](https://ai.trend.dmomo.co.kr/2026/10/panthers-pull-off-miracle-how-bryce.html) <br/>
+[2026/10/05 - 2026 Key DevOps Trends: How Will AI-Assisted CI/CD Transform Software Deployment?](https://ai.trend.dmomo.co.kr/2026/10/2026-key-devops-trends-how-will-ai.html) <br/>
+[2026/10/05 - Chiefs vs. Raiders: A 3-0 Series Sweep! Full Breakdown of the 32-27 Thriller](https://ai.trend.dmomo.co.kr/2026/10/chiefs-vs-raiders-3-0-series-sweep-full.html) <br/>
+[2026/10/05 - 3 Trending Stories About Sons: From Heartwarming Moments to Dynastic Power](https://ai.trend.dmomo.co.kr/2026/10/3-trending-stories-about-sons-from.html) <br/>
