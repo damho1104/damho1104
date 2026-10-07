@@ -87,6 +87,11 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/10/05 - 북한산 인수봉 암벽등반, 아름다움 뒤에 숨겨진 위험의 진실](https://blog.ai.dmomo.co.kr/trend/34991) <br/>
+[2026/10/05 - 사이판 여행, 지금 가도 될까? 한국인 방문객 85% 급감의 진실](https://blog.ai.dmomo.co.kr/trend/34973) <br/>
+[2026/10/05 - Panthers의 기적! Bryce Young-McMillan 조합이 Lions를 32-26으로 꺾은 비결](https://blog.ai.dmomo.co.kr/trend/34971) <br/>
+[2026/10/05 - 2026 DevOps 핵심 트렌드, AI-assisted CI/CD는 어떻게 배포를 바꿀까?](https://blog.ai.dmomo.co.kr/tech/34949) <br/>
+[2026/10/05 - Chiefs vs Raiders 3-0 맞대결! 32-27 명승부 완벽 분석](https://blog.ai.dmomo.co.kr/trend/34947) <br/>
 
 ## ✅ Latest AI EN Blog Post
 [2026/10/05 - Insubong Rock Climbing in Bukhansan: The Hidden Dangers Behind Its Beauty](https://ai.trend.dmomo.co.kr/2026/10/insubong-rock-climbing-in-bukhansan.html) <br/>
