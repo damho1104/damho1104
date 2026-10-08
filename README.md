@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/10/07 - KIA vs 롯데 10월 7일 프리뷰: 양현종이 3위 수성 열쇠를 쥔 이유](https://blog.ai.dmomo.co.kr/trend/35057) <br/>
+[2026/10/07 - 손흥민 최다골 기록, 한국 2-0 승리의 빛과 그림자](https://blog.ai.dmomo.co.kr/trend/35018) <br/>
+[2026/10/07 - Agentic RAG란? 고전적 RAG와 다른 핵심 기술·프레임워크·활용 사례 총정리](https://blog.ai.dmomo.co.kr/tech/35015) <br/>
+[2026/10/07 - R&B 레전드 Freddie Jackson 70세로 별세, Rock Me Tonight의 주인공을 추모하며](https://blog.ai.dmomo.co.kr/trend/35013) <br/>
 [2026/10/05 - 북한산 인수봉 암벽등반, 아름다움 뒤에 숨겨진 위험의 진실](https://blog.ai.dmomo.co.kr/trend/34991) <br/>
-[2026/10/05 - 사이판 여행, 지금 가도 될까? 한국인 방문객 85% 급감의 진실](https://blog.ai.dmomo.co.kr/trend/34973) <br/>
-[2026/10/05 - Panthers의 기적! Bryce Young-McMillan 조합이 Lions를 32-26으로 꺾은 비결](https://blog.ai.dmomo.co.kr/trend/34971) <br/>
-[2026/10/05 - 2026 DevOps 핵심 트렌드, AI-assisted CI/CD는 어떻게 배포를 바꿀까?](https://blog.ai.dmomo.co.kr/tech/34949) <br/>
-[2026/10/05 - Chiefs vs Raiders 3-0 맞대결! 32-27 명승부 완벽 분석](https://blog.ai.dmomo.co.kr/trend/34947) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/10/07 - KIA vs. Lotte, October 7 Preview: Why Yang Hyeon-jong Is Key to KIA Holding on to Third Place](https://ai.trend.dmomo.co.kr/2026/10/kia-vs-lotte-october-7-preview-why-yang.html) <br/>
+[2026/10/07 - Son Heung-min’s Goal-Scoring Record: The Highs and Lows of South Korea’s 2–0 Win](https://ai.trend.dmomo.co.kr/2026/10/son-heung-mins-goal-scoring-record.html) <br/>
+[2026/10/07 - Agentic RAG Explained: Key Technologies, Frameworks, and Use Cases—and How It Differs from Traditional RAG](https://ai.trend.dmomo.co.kr/2026/10/agentic-rag-explained-key-technologies.html) <br/>
+[2026/10/07 - R&B Legend Freddie Jackson Dies at 70: Remembering the Voice Behind “Rock Me Tonight”](https://ai.trend.dmomo.co.kr/2026/10/r-legend-freddie-jackson-dies-at-70.html) <br/>
 [2026/10/05 - Insubong Rock Climbing in Bukhansan: The Hidden Dangers Behind Its Beauty](https://ai.trend.dmomo.co.kr/2026/10/insubong-rock-climbing-in-bukhansan.html) <br/>
 [2026/10/05 - Is Now a Good Time to Visit Saipan? The Truth Behind the 85% Drop in Korean Visitors](https://ai.trend.dmomo.co.kr/2026/10/is-now-good-time-to-visit-saipan-truth.html) <br/>
-[2026/10/05 - Panthers Pull Off a Miracle! How the Bryce Young–McMillan Connection Took Down the Lions, 32–26](https://ai.trend.dmomo.co.kr/2026/10/panthers-pull-off-miracle-how-bryce.html) <br/>
-[2026/10/05 - 2026 Key DevOps Trends: How Will AI-Assisted CI/CD Transform Software Deployment?](https://ai.trend.dmomo.co.kr/2026/10/2026-key-devops-trends-how-will-ai.html) <br/>
-[2026/10/05 - Chiefs vs. Raiders: A 3-0 Series Sweep! Full Breakdown of the 32-27 Thriller](https://ai.trend.dmomo.co.kr/2026/10/chiefs-vs-raiders-3-0-series-sweep-full.html) <br/>
-[2026/10/05 - 3 Trending Stories About Sons: From Heartwarming Moments to Dynastic Power](https://ai.trend.dmomo.co.kr/2026/10/3-trending-stories-about-sons-from.html) <br/>
