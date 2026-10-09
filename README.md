@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/07 - KIA vs 롯데 10월 7일 프리뷰: 양현종이 3위 수성 열쇠를 쥔 이유](https://blog.ai.dmomo.co.kr/trend/35057) <br/>
-[2026/10/07 - 손흥민 최다골 기록, 한국 2-0 승리의 빛과 그림자](https://blog.ai.dmomo.co.kr/trend/35018) <br/>
-[2026/10/07 - Agentic RAG란? 고전적 RAG와 다른 핵심 기술·프레임워크·활용 사례 총정리](https://blog.ai.dmomo.co.kr/tech/35015) <br/>
-[2026/10/07 - R&B 레전드 Freddie Jackson 70세로 별세, Rock Me Tonight의 주인공을 추모하며](https://blog.ai.dmomo.co.kr/trend/35013) <br/>
-[2026/10/05 - 북한산 인수봉 암벽등반, 아름다움 뒤에 숨겨진 위험의 진실](https://blog.ai.dmomo.co.kr/trend/34991) <br/>
+[2026/10/08 - 2025 육아 트렌드 7가지, 부모 혼자 감당하지 않아도 되는 이유](https://blog.ai.dmomo.co.kr/trend/35126) <br/>
+[2026/10/08 - 임세주 누구? 유승호 열애설로 재조명된 멀티 아티스트의 모든 것](https://blog.ai.dmomo.co.kr/trend/35108) <br/>
+[2026/10/08 - Susan Dell 논란의 진실: 62억 달러 아동투자 vs 외모 조롱](https://blog.ai.dmomo.co.kr/trend/35106) <br/>
+[2026/10/08 - 전용 AI 칩 없이 가능할까? MCU 기반 엣지 AI와 얼굴 인식의 진화](https://blog.ai.dmomo.co.kr/tech/35081) <br/>
+[2026/10/08 - 시카고 화이트삭스, 21년 만의 ALCS 진출 눈앞…ALDS 2연승의 비결](https://blog.ai.dmomo.co.kr/trend/35079) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/10/07 - KIA vs. Lotte, October 7 Preview: Why Yang Hyeon-jong Is Key to KIA Holding on to Third Place](https://ai.trend.dmomo.co.kr/2026/10/kia-vs-lotte-october-7-preview-why-yang.html) <br/>
-[2026/10/07 - Son Heung-min’s Goal-Scoring Record: The Highs and Lows of South Korea’s 2–0 Win](https://ai.trend.dmomo.co.kr/2026/10/son-heung-mins-goal-scoring-record.html) <br/>
-[2026/10/07 - Agentic RAG Explained: Key Technologies, Frameworks, and Use Cases—and How It Differs from Traditional RAG](https://ai.trend.dmomo.co.kr/2026/10/agentic-rag-explained-key-technologies.html) <br/>
-[2026/10/07 - R&B Legend Freddie Jackson Dies at 70: Remembering the Voice Behind “Rock Me Tonight”](https://ai.trend.dmomo.co.kr/2026/10/r-legend-freddie-jackson-dies-at-70.html) <br/>
-[2026/10/05 - Insubong Rock Climbing in Bukhansan: The Hidden Dangers Behind Its Beauty](https://ai.trend.dmomo.co.kr/2026/10/insubong-rock-climbing-in-bukhansan.html) <br/>
-[2026/10/05 - Is Now a Good Time to Visit Saipan? The Truth Behind the 85% Drop in Korean Visitors](https://ai.trend.dmomo.co.kr/2026/10/is-now-good-time-to-visit-saipan-truth.html) <br/>
+[2026/10/08 - 7 Parenting Trends in 2025—and Why You Don’t Have to Do It All Alone](https://ai.trend.dmomo.co.kr/2026/10/7-parenting-trends-in-2025and-why-you.html) <br/>
+[2026/10/08 - Who Is Lim Se-joo? Everything to Know About the Multitalented Artist Back in the Spotlight Amid Dating Rumors with Yoo Seung-ho](https://ai.trend.dmomo.co.kr/2026/10/who-is-lim-se-joo-everything-to-know.html) <br/>
+[2026/10/08 - The Truth Behind the Susan Dell Controversy: $6.2 Billion Invested in Children vs. Mockery of Her Appearance](https://ai.trend.dmomo.co.kr/2026/10/the-truth-behind-susan-dell-controversy.html) <br/>
+[2026/10/08 - Can It Be Done Without a Dedicated AI Chip? The Evolution of MCU-Based Edge AI and Facial Recognition](https://ai.trend.dmomo.co.kr/2026/10/can-it-be-done-without-dedicated-ai.html) <br/>
+[2026/10/08 - Chicago White Sox on the Verge of Their First ALCS Appearance in 21 Years—What’s Behind Their Back-to-Back ALDS Wins?](https://ai.trend.dmomo.co.kr/2026/10/chicago-white-sox-on-verge-of-their.html) <br/>
+[2026/10/08 - The Complete Guide to Organ Donation: Everything You Need to Know, from Common Myths to How to Register](https://ai.trend.dmomo.co.kr/2026/10/the-complete-guide-to-organ-donation.html) <br/>
