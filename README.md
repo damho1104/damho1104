@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/08 - 2025 육아 트렌드 7가지, 부모 혼자 감당하지 않아도 되는 이유](https://blog.ai.dmomo.co.kr/trend/35126) <br/>
-[2026/10/08 - 임세주 누구? 유승호 열애설로 재조명된 멀티 아티스트의 모든 것](https://blog.ai.dmomo.co.kr/trend/35108) <br/>
-[2026/10/08 - Susan Dell 논란의 진실: 62억 달러 아동투자 vs 외모 조롱](https://blog.ai.dmomo.co.kr/trend/35106) <br/>
-[2026/10/08 - 전용 AI 칩 없이 가능할까? MCU 기반 엣지 AI와 얼굴 인식의 진화](https://blog.ai.dmomo.co.kr/tech/35081) <br/>
-[2026/10/08 - 시카고 화이트삭스, 21년 만의 ALCS 진출 눈앞…ALDS 2연승의 비결](https://blog.ai.dmomo.co.kr/trend/35079) <br/>
+[2026/10/09 - 한남뉴타운 5개 구역 현황과 투자 전 반드시 확인할 체크리스트](https://blog.ai.dmomo.co.kr/trend/35186) <br/>
+[2026/10/09 - Dallas Cowboys 홈 충격패, 수비 붕괴가 플레이오프를 위협한다](https://blog.ai.dmomo.co.kr/trend/35184) <br/>
+[2026/10/09 - AI 코딩 에이전트가 서버리스를 직접 운영한다? Serverless Framework v4.43.0의 변화_TITLE](https://blog.ai.dmomo.co.kr/tech/35150) <br/>
+[2026/10/09 - Cowboys 36-20 완승! Buccaneers 0승 5패 추락, 시즌 향방은?](https://blog.ai.dmomo.co.kr/trend/35148) <br/>
+[2026/10/09 - 2026 육아 트렌드 6가지: 독박육아에서 공동돌봄 사회로](https://blog.ai.dmomo.co.kr/trend/35146) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/10/09 - Hannam New Town: A Guide to All Five Districts and What to Check Before Investing](https://ai.trend.dmomo.co.kr/2026/10/hannam-new-town-guide-to-all-five.html) <br/>
+[2026/10/09 - Dallas Cowboys’ Shocking Home Loss: Defensive Collapse Puts Playoff Hopes in Jeopardy](https://ai.trend.dmomo.co.kr/2026/10/dallas-cowboys-shocking-home-loss.html) <br/>
+[2026/10/09 - Can AI Coding Agents Manage Serverless Deployments on Their Own? What’s New in Serverless Framework v4.43.0](https://ai.trend.dmomo.co.kr/2026/10/can-ai-coding-agents-manage-serverless.html) <br/>
+[2026/10/09 - Cowboys Cruise to a 36–20 Win as the Buccaneers Fall to 0–5: What’s Next for Their Season?](https://ai.trend.dmomo.co.kr/2026/10/cowboys-cruise-to-3620-win-as.html) <br/>
+[2026/10/09 - 6 Parenting Trends for 2026: From Going It Alone to a Culture of Shared Care](https://ai.trend.dmomo.co.kr/2026/10/6-parenting-trends-for-2026-from-going.html) <br/>
 [2026/10/08 - 7 Parenting Trends in 2025—and Why You Don’t Have to Do It All Alone](https://ai.trend.dmomo.co.kr/2026/10/7-parenting-trends-in-2025and-why-you.html) <br/>
-[2026/10/08 - Who Is Lim Se-joo? Everything to Know About the Multitalented Artist Back in the Spotlight Amid Dating Rumors with Yoo Seung-ho](https://ai.trend.dmomo.co.kr/2026/10/who-is-lim-se-joo-everything-to-know.html) <br/>
-[2026/10/08 - The Truth Behind the Susan Dell Controversy: $6.2 Billion Invested in Children vs. Mockery of Her Appearance](https://ai.trend.dmomo.co.kr/2026/10/the-truth-behind-susan-dell-controversy.html) <br/>
-[2026/10/08 - Can It Be Done Without a Dedicated AI Chip? The Evolution of MCU-Based Edge AI and Facial Recognition](https://ai.trend.dmomo.co.kr/2026/10/can-it-be-done-without-dedicated-ai.html) <br/>
-[2026/10/08 - Chicago White Sox on the Verge of Their First ALCS Appearance in 21 Years—What’s Behind Their Back-to-Back ALDS Wins?](https://ai.trend.dmomo.co.kr/2026/10/chicago-white-sox-on-verge-of-their.html) <br/>
-[2026/10/08 - The Complete Guide to Organ Donation: Everything You Need to Know, from Common Myths to How to Register](https://ai.trend.dmomo.co.kr/2026/10/the-complete-guide-to-organ-donation.html) <br/>
