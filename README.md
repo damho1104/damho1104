@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/09 - 한남뉴타운 5개 구역 현황과 투자 전 반드시 확인할 체크리스트](https://blog.ai.dmomo.co.kr/trend/35186) <br/>
-[2026/10/09 - Dallas Cowboys 홈 충격패, 수비 붕괴가 플레이오프를 위협한다](https://blog.ai.dmomo.co.kr/trend/35184) <br/>
-[2026/10/09 - AI 코딩 에이전트가 서버리스를 직접 운영한다? Serverless Framework v4.43.0의 변화_TITLE](https://blog.ai.dmomo.co.kr/tech/35150) <br/>
-[2026/10/09 - Cowboys 36-20 완승! Buccaneers 0승 5패 추락, 시즌 향방은?](https://blog.ai.dmomo.co.kr/trend/35148) <br/>
-[2026/10/09 - 2026 육아 트렌드 6가지: 독박육아에서 공동돌봄 사회로](https://blog.ai.dmomo.co.kr/trend/35146) <br/>
+[2026/10/11 - AI가 오픈소스를 망치고 있다? 유지보수 위기의 실체](https://blog.ai.dmomo.co.kr/ai/35249) <br/>
+[2026/10/10 - KIA vs SSG 시즌 마지막 승부, 3위 경쟁의 운명은?](https://blog.ai.dmomo.co.kr/trend/35240) <br/>
+[2026/10/10 - 검색창은 끝났다? 풀무원·월마트가 바꾸는 AI 쇼핑 검색의 미래](https://blog.ai.dmomo.co.kr/tech/35210) <br/>
+[2026/10/10 - NFL 전설 Mike Ditka 별세, Da Coach가 바꾼 미식축구 역사](https://blog.ai.dmomo.co.kr/trend/35208) <br/>
+[2026/10/10 - 한남뉴타운 2026 최신 현황: 착공·분양 일정과 투자 핵심 체크리스트](https://blog.ai.dmomo.co.kr/trend/35206) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/10/10 - KIA vs. SSG: The Season’s Final Showdown—Who Will Win the Race for Third Place?](https://ai.trend.dmomo.co.kr/2026/10/kia-vs-ssg-seasons-final-showdownwho.html) <br/>
+[2026/10/10 - Are Search Bars on Their Way Out? How Pulmuone and Walmart Are Shaping the Future of AI Shopping](https://ai.trend.dmomo.co.kr/2026/10/are-search-bars-on-their-way-out-how.html) <br/>
+[2026/10/10 - Hannam New Town in 2026: Latest Updates on Construction, Sales Timelines, and Key Investment Considerations](https://ai.trend.dmomo.co.kr/2026/10/hannam-new-town-in-2026-latest-updates.html) <br/>
+[2026/10/10 - NFL Legend Mike Ditka Dies: How “Da Coach” Changed the Game of Football](https://ai.trend.dmomo.co.kr/2026/10/nfl-legend-mike-ditka-dies-how-da-coach.html) <br/>
 [2026/10/09 - Hannam New Town: A Guide to All Five Districts and What to Check Before Investing](https://ai.trend.dmomo.co.kr/2026/10/hannam-new-town-guide-to-all-five.html) <br/>
 [2026/10/09 - Dallas Cowboys’ Shocking Home Loss: Defensive Collapse Puts Playoff Hopes in Jeopardy](https://ai.trend.dmomo.co.kr/2026/10/dallas-cowboys-shocking-home-loss.html) <br/>
-[2026/10/09 - Can AI Coding Agents Manage Serverless Deployments on Their Own? What’s New in Serverless Framework v4.43.0](https://ai.trend.dmomo.co.kr/2026/10/can-ai-coding-agents-manage-serverless.html) <br/>
-[2026/10/09 - Cowboys Cruise to a 36–20 Win as the Buccaneers Fall to 0–5: What’s Next for Their Season?](https://ai.trend.dmomo.co.kr/2026/10/cowboys-cruise-to-3620-win-as.html) <br/>
-[2026/10/09 - 6 Parenting Trends for 2026: From Going It Alone to a Culture of Shared Care](https://ai.trend.dmomo.co.kr/2026/10/6-parenting-trends-for-2026-from-going.html) <br/>
-[2026/10/08 - 7 Parenting Trends in 2025—and Why You Don’t Have to Do It All Alone](https://ai.trend.dmomo.co.kr/2026/10/7-parenting-trends-in-2025and-why-you.html) <br/>
