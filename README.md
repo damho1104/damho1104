@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/11 - AI가 오픈소스를 망치고 있다? 유지보수 위기의 실체](https://blog.ai.dmomo.co.kr/ai/35249) <br/>
-[2026/10/10 - KIA vs SSG 시즌 마지막 승부, 3위 경쟁의 운명은?](https://blog.ai.dmomo.co.kr/trend/35240) <br/>
-[2026/10/10 - 검색창은 끝났다? 풀무원·월마트가 바꾸는 AI 쇼핑 검색의 미래](https://blog.ai.dmomo.co.kr/tech/35210) <br/>
-[2026/10/10 - NFL 전설 Mike Ditka 별세, Da Coach가 바꾼 미식축구 역사](https://blog.ai.dmomo.co.kr/trend/35208) <br/>
-[2026/10/10 - 한남뉴타운 2026 최신 현황: 착공·분양 일정과 투자 핵심 체크리스트](https://blog.ai.dmomo.co.kr/trend/35206) <br/>
+[2026/10/11 - Kentucky가 10위 LSU를 연장전 2점 전환 성공으로 꺾은 2026 SEC 최대 이변](https://blog.ai.dmomo.co.kr/trend/35306) <br/>
+[2026/10/11 - 민도희 캐나다 어학연수 도전, 카페 알바 공백기 솔직 고백까지](https://blog.ai.dmomo.co.kr/trend/35288) <br/>
+[2026/10/11 - Marvin Harrison Jr. 트레이드 임박, 유력 후보 Texans행 성사될까?](https://blog.ai.dmomo.co.kr/trend/35286) <br/>
+[2026/10/11 - Agentic RAG란? AI 에이전트가 검색·검증을 반복하는 차세대 RAG의 핵심 트렌드](https://blog.ai.dmomo.co.kr/tech/35264) <br/>
+[2026/10/11 - 전국 1위 Texas vs Oklahoma, Red River Rivalry의 모든 것](https://blog.ai.dmomo.co.kr/trend/35262) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/10/10 - KIA vs. SSG: The Season’s Final Showdown—Who Will Win the Race for Third Place?](https://ai.trend.dmomo.co.kr/2026/10/kia-vs-ssg-seasons-final-showdownwho.html) <br/>
-[2026/10/10 - Are Search Bars on Their Way Out? How Pulmuone and Walmart Are Shaping the Future of AI Shopping](https://ai.trend.dmomo.co.kr/2026/10/are-search-bars-on-their-way-out-how.html) <br/>
-[2026/10/10 - Hannam New Town in 2026: Latest Updates on Construction, Sales Timelines, and Key Investment Considerations](https://ai.trend.dmomo.co.kr/2026/10/hannam-new-town-in-2026-latest-updates.html) <br/>
-[2026/10/10 - NFL Legend Mike Ditka Dies: How “Da Coach” Changed the Game of Football](https://ai.trend.dmomo.co.kr/2026/10/nfl-legend-mike-ditka-dies-how-da-coach.html) <br/>
-[2026/10/09 - Hannam New Town: A Guide to All Five Districts and What to Check Before Investing](https://ai.trend.dmomo.co.kr/2026/10/hannam-new-town-guide-to-all-five.html) <br/>
-[2026/10/09 - Dallas Cowboys’ Shocking Home Loss: Defensive Collapse Puts Playoff Hopes in Jeopardy](https://ai.trend.dmomo.co.kr/2026/10/dallas-cowboys-shocking-home-loss.html) <br/>
+[2026/10/11 - Kentucky Pulls Off the SEC’s Biggest Upset of 2026, Stuns No. 10 LSU in OT on a Two-Point Conversion](https://ai.trend.dmomo.co.kr/2026/10/kentucky-pulls-off-secs-biggest-upset.html) <br/>
+[2026/10/11 - Min Do-hee Takes on English Studies in Canada and Opens Up About Her Break from Café Work](https://ai.trend.dmomo.co.kr/2026/10/min-do-hee-takes-on-english-studies-in.html) <br/>
+[2026/10/11 - Marvin Harrison Jr. Trade on the Horizon? Could He Land with the Texans, the Front-Runners?](https://ai.trend.dmomo.co.kr/2026/10/marvin-harrison-jr-trade-on-horizon.html) <br/>
+[2026/10/11 - What Is Agentic RAG? The Next Big Thing in RAG, Where AI Agents Search and Verify as They Go](https://ai.trend.dmomo.co.kr/2026/10/what-is-agentic-rag-next-big-thing-in.html) <br/>
+[2026/10/11 - Texas vs. Oklahoma: Everything You Need to Know About the Red River Rivalry, the Nation’s No. 1 Showdown](https://ai.trend.dmomo.co.kr/2026/10/texas-vs-oklahoma-everything-you-need.html) <br/>
+[2026/10/11 - Man United 1-1 Tottenham: United’s Shocking Failure to Capitalize on Their Numerical Advantage](https://ai.trend.dmomo.co.kr/2026/10/man-united-1-1-tottenham-uniteds.html) <br/>
