@@ -87,6 +87,11 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/10/12 - 고 김현이 배우 누구? 드라마 추모 자막으로 알려진 스턴트 액션 배우의 삶](https://blog.ai.dmomo.co.kr/trend/35378) <br/>
+[2026/10/12 - 2026 NLCS 1차전: 브루어스가 다저스를 2-1로 꺾은 결정적 이유](https://blog.ai.dmomo.co.kr/trend/35360) <br/>
+[2026/10/12 - 라마 잭슨 결장에도 23-23 동점! Ravens vs Falcons 2026 Week 5 분석](https://blog.ai.dmomo.co.kr/trend/35358) <br/>
+[2026/10/12 - Citrix NetScaler RCE 취약점 3종, 인증 없이 뚫리는 제로데이 대응법은?](https://blog.ai.dmomo.co.kr/tech/35333) <br/>
+[2026/10/12 - Detroit Lions 45-21 대승, 수비 반등이 만든 진짜 반전](https://blog.ai.dmomo.co.kr/trend/35331) <br/>
 
 ## ✅ Latest AI EN Blog Post
 [2026/10/12 - Who Was the Late Kim Hyun-i? The Life of the Stunt Actor Remembered in a Drama’s Tribute Caption](https://ai.trend.dmomo.co.kr/2026/10/who-was-late-kim-hyun-i-life-of-stunt.html) <br/>
