@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/12 - 고 김현이 배우 누구? 드라마 추모 자막으로 알려진 스턴트 액션 배우의 삶](https://blog.ai.dmomo.co.kr/trend/35378) <br/>
-[2026/10/12 - 2026 NLCS 1차전: 브루어스가 다저스를 2-1로 꺾은 결정적 이유](https://blog.ai.dmomo.co.kr/trend/35360) <br/>
-[2026/10/12 - 라마 잭슨 결장에도 23-23 동점! Ravens vs Falcons 2026 Week 5 분석](https://blog.ai.dmomo.co.kr/trend/35358) <br/>
-[2026/10/12 - Citrix NetScaler RCE 취약점 3종, 인증 없이 뚫리는 제로데이 대응법은?](https://blog.ai.dmomo.co.kr/tech/35333) <br/>
-[2026/10/12 - Detroit Lions 45-21 대승, 수비 반등이 만든 진짜 반전](https://blog.ai.dmomo.co.kr/trend/35331) <br/>
+[2026/10/14 - 트럼프 새 대변인 케이티 자카리아, 14분 브리핑으로 첫날부터 논란](https://blog.ai.dmomo.co.kr/trend/35480) <br/>
+[2026/10/14 - 하정우 결혼 발표! 차정원과 6년 연애 끝 2026년 12월 비공개 결혼](https://blog.ai.dmomo.co.kr/trend/35478) <br/>
+[2026/10/14 - 2026년 상속 트렌드 7가지: 가상자산부터 공동상속 분쟁까지](https://blog.ai.dmomo.co.kr/trend/35459) <br/>
+[2026/10/14 - HCLTech·Anthropic 제휴, 기업용 Agentic AI 클라우드의 판을 바꿀까?](https://blog.ai.dmomo.co.kr/tech/35435) <br/>
+[2026/10/14 - 이강인 도움 51초 선제골! 아틀레티코, 맨유를 2-0으로 완파한 이유](https://blog.ai.dmomo.co.kr/trend/35433) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/10/12 - Who Was the Late Kim Hyun-i? The Life of the Stunt Actor Remembered in a Drama’s Tribute Caption](https://ai.trend.dmomo.co.kr/2026/10/who-was-late-kim-hyun-i-life-of-stunt.html) <br/>
-[2026/10/12 - 2026 NLCS Game 1: What Made the Difference in the Brewers’ 2–1 Win Over the Dodgers](https://ai.trend.dmomo.co.kr/2026/10/2026-nlcs-game-1-what-made-difference.html) <br/>
-[2026/10/12 - Ravens vs. Falcons: Tied at 23–23 Even Without Lamar Jackson! | 2026 Week 5 Analysis](https://ai.trend.dmomo.co.kr/2026/10/ravens-vs-falcons-tied-at-2323-even.html) <br/>
-[2026/10/12 - Three Citrix NetScaler RCE Flaws: How to Mitigate Zero-Days Exploitable Without Authentication?](https://ai.trend.dmomo.co.kr/2026/10/three-citrix-netscaler-rce-flaws-how-to.html) <br/>
-[2026/10/12 - Detroit Lions Dominate 45–21 as the Defense Delivers the Real Turnaround](https://ai.trend.dmomo.co.kr/2026/10/detroit-lions-dominate-4521-as-defense.html) <br/>
-[2026/10/12 - Son Heung-min Gets an Opponent Sent Off, but LAFC Settle for a 1-1 Draw: What Does It Mean for the MLS Playoff Race?](https://ai.trend.dmomo.co.kr/2026/10/son-heung-min-gets-opponent-sent-off.html) <br/>
+[2026/10/14 - Trump’s New Spokesperson Katie Zacharia Sparks Controversy on Day One With 14-Minute Briefing](https://ai.trend.dmomo.co.kr/2026/10/trumps-new-spokesperson-katie-zacharia.html) <br/>
+[2026/10/14 - Ha Jung-woo Announces Marriage! After 6 Years Together, He’ll Wed Cha Jung-won in a Private Ceremony in December 2026](https://ai.trend.dmomo.co.kr/2026/10/ha-jung-woo-announces-marriage-after-6.html) <br/>
+[2026/10/14 - 7 Inheritance Trends to Watch in 2026: From Crypto Assets to Disputes Among Co-Heirs](https://ai.trend.dmomo.co.kr/2026/10/7-inheritance-trends-to-watch-in-2026.html) <br/>
+[2026/10/14 - HCLTech and Anthropic Team Up: Could They Reshape the Enterprise Agentic AI Cloud?](https://ai.trend.dmomo.co.kr/2026/10/hcltech-and-anthropic-team-up-could.html) <br/>
+[2026/10/14 - Lee Kang-in Sets Up a Goal Just 51 Seconds In! How Atlético Routed Manchester United 2–0](https://ai.trend.dmomo.co.kr/2026/10/lee-kang-in-sets-up-goal-just-51.html) <br/>
+[2026/10/14 - Galatasaray vs. Barcelona 4–1: The Secret Behind Barcelona’s Dominant Champions League Away Win](https://ai.trend.dmomo.co.kr/2026/10/galatasaray-vs-barcelona-41-secret.html) <br/>
