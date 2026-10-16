@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/10/15 - Google Gemini agent란? 2026년 기업 업무를 바꿀 자율형 AI 에이전트](https://blog.ai.dmomo.co.kr/tech/35504) <br/>
+[2026/10/15 - 2026 민생지원금 총정리: 지역별 지급액·신청방법·사용기한 한눈에](https://blog.ai.dmomo.co.kr/trend/35502) <br/>
+[2026/10/15 - 로마 3-1 리드도 무너뜨린 레알의 7분 대역전극, 무리뉴의 눈물](https://blog.ai.dmomo.co.kr/trend/35499) <br/>
 [2026/10/14 - 트럼프 새 대변인 케이티 자카리아, 14분 브리핑으로 첫날부터 논란](https://blog.ai.dmomo.co.kr/trend/35480) <br/>
 [2026/10/14 - 하정우 결혼 발표! 차정원과 6년 연애 끝 2026년 12월 비공개 결혼](https://blog.ai.dmomo.co.kr/trend/35478) <br/>
-[2026/10/14 - 2026년 상속 트렌드 7가지: 가상자산부터 공동상속 분쟁까지](https://blog.ai.dmomo.co.kr/trend/35459) <br/>
-[2026/10/14 - HCLTech·Anthropic 제휴, 기업용 Agentic AI 클라우드의 판을 바꿀까?](https://blog.ai.dmomo.co.kr/tech/35435) <br/>
-[2026/10/14 - 이강인 도움 51초 선제골! 아틀레티코, 맨유를 2-0으로 완파한 이유](https://blog.ai.dmomo.co.kr/trend/35433) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/10/15 - What Is a Google Gemini Agent? The Autonomous AI Set to Transform Enterprise Work in 2026](https://ai.trend.dmomo.co.kr/2026/10/what-is-google-gemini-agent-autonomous.html) <br/>
+[2026/10/15 - 2026 Cost-of-Living Support Payments: Amounts by Region, How to Apply, and Spending Deadlines at a Glance](https://ai.trend.dmomo.co.kr/2026/10/2026-cost-of-living-support-payments.html) <br/>
+[2026/10/15 - Real Madrid’s 7-Minute Comeback Erases Roma’s 3-1 Lead—and Leaves Mourinho in Tears](https://ai.trend.dmomo.co.kr/2026/10/real-madrids-7-minute-comeback-erases.html) <br/>
 [2026/10/14 - Trump’s New Spokesperson Katie Zacharia Sparks Controversy on Day One With 14-Minute Briefing](https://ai.trend.dmomo.co.kr/2026/10/trumps-new-spokesperson-katie-zacharia.html) <br/>
 [2026/10/14 - Ha Jung-woo Announces Marriage! After 6 Years Together, He’ll Wed Cha Jung-won in a Private Ceremony in December 2026](https://ai.trend.dmomo.co.kr/2026/10/ha-jung-woo-announces-marriage-after-6.html) <br/>
 [2026/10/14 - 7 Inheritance Trends to Watch in 2026: From Crypto Assets to Disputes Among Co-Heirs](https://ai.trend.dmomo.co.kr/2026/10/7-inheritance-trends-to-watch-in-2026.html) <br/>
-[2026/10/14 - HCLTech and Anthropic Team Up: Could They Reshape the Enterprise Agentic AI Cloud?](https://ai.trend.dmomo.co.kr/2026/10/hcltech-and-anthropic-team-up-could.html) <br/>
-[2026/10/14 - Lee Kang-in Sets Up a Goal Just 51 Seconds In! How Atlético Routed Manchester United 2–0](https://ai.trend.dmomo.co.kr/2026/10/lee-kang-in-sets-up-goal-just-51.html) <br/>
-[2026/10/14 - Galatasaray vs. Barcelona 4–1: The Secret Behind Barcelona’s Dominant Champions League Away Win](https://ai.trend.dmomo.co.kr/2026/10/galatasaray-vs-barcelona-41-secret.html) <br/>
