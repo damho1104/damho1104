@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/15 - Google Gemini agent란? 2026년 기업 업무를 바꿀 자율형 AI 에이전트](https://blog.ai.dmomo.co.kr/tech/35504) <br/>
-[2026/10/15 - 2026 민생지원금 총정리: 지역별 지급액·신청방법·사용기한 한눈에](https://blog.ai.dmomo.co.kr/trend/35502) <br/>
-[2026/10/15 - 로마 3-1 리드도 무너뜨린 레알의 7분 대역전극, 무리뉴의 눈물](https://blog.ai.dmomo.co.kr/trend/35499) <br/>
-[2026/10/14 - 트럼프 새 대변인 케이티 자카리아, 14분 브리핑으로 첫날부터 논란](https://blog.ai.dmomo.co.kr/trend/35480) <br/>
-[2026/10/14 - 하정우 결혼 발표! 차정원과 6년 연애 끝 2026년 12월 비공개 결혼](https://blog.ai.dmomo.co.kr/trend/35478) <br/>
+[2026/10/16 - 오리건 초등학교 총격 참사, 어린이 3명·교사 1명 사망…16세 용의자는?](https://blog.ai.dmomo.co.kr/trend/35609) <br/>
+[2026/10/16 - 테슬라 로드스터 0.81초의 충격, 공중 부양 전기차 2028년 현실될까](https://blog.ai.dmomo.co.kr/trend/35591) <br/>
+[2026/10/16 - 오리건 초등학교 총격 사건: 어린이 포함 사상자 발생, 지금까지 밝혀진 사실은?](https://blog.ai.dmomo.co.kr/trend/35567) <br/>
+[2026/10/16 - Google Gemini agent란? 챗봇을 넘어 자율적으로 업무를 완성하는 AI의 등장](https://blog.ai.dmomo.co.kr/tech/35564) <br/>
+[2026/10/16 - 손흥민 1골 2도움 맹활약! LAFC 3-1 완승으로 5경기 만에 승리](https://blog.ai.dmomo.co.kr/trend/35561) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/10/16 - Oregon Elementary School Shooting Leaves 3 Children and 1 Teacher Dead—Who Is the 16-Year-Old Suspect?](https://ai.trend.dmomo.co.kr/2026/10/oregon-elementary-school-shooting_01512285675.html) <br/>
+[2026/10/16 - Tesla Roadster’s Jaw-Dropping 0.81-Second Feat: Could Hovering Electric Cars Become Reality by 2028?](https://ai.trend.dmomo.co.kr/2026/10/tesla-roadsters-jaw-dropping-081-second.html) <br/>
+[2026/10/16 - Oregon Elementary School Shooting: Children Among the Victims—What We Know So Far?](https://ai.trend.dmomo.co.kr/2026/10/oregon-elementary-school-shooting.html) <br/>
+[2026/10/16 - What Is a Google Gemini Agent? The Rise of AI That Goes Beyond Chatbots to Complete Tasks Autonomously](https://ai.trend.dmomo.co.kr/2026/10/what-is-google-gemini-agent-rise-of-ai.html) <br/>
+[2026/10/16 - Son Heung-min Shines with a Goal and Two Assists as LAFC Snap Their Five-Game Winless Streak with a 3-1 Victory](https://ai.trend.dmomo.co.kr/2026/10/son-heung-min-shines-with-goal-and-two.html) <br/>
 [2026/10/15 - What Is a Google Gemini Agent? The Autonomous AI Set to Transform Enterprise Work in 2026](https://ai.trend.dmomo.co.kr/2026/10/what-is-google-gemini-agent-autonomous.html) <br/>
-[2026/10/15 - 2026 Cost-of-Living Support Payments: Amounts by Region, How to Apply, and Spending Deadlines at a Glance](https://ai.trend.dmomo.co.kr/2026/10/2026-cost-of-living-support-payments.html) <br/>
-[2026/10/15 - Real Madrid’s 7-Minute Comeback Erases Roma’s 3-1 Lead—and Leaves Mourinho in Tears](https://ai.trend.dmomo.co.kr/2026/10/real-madrids-7-minute-comeback-erases.html) <br/>
-[2026/10/14 - Trump’s New Spokesperson Katie Zacharia Sparks Controversy on Day One With 14-Minute Briefing](https://ai.trend.dmomo.co.kr/2026/10/trumps-new-spokesperson-katie-zacharia.html) <br/>
-[2026/10/14 - Ha Jung-woo Announces Marriage! After 6 Years Together, He’ll Wed Cha Jung-won in a Private Ceremony in December 2026](https://ai.trend.dmomo.co.kr/2026/10/ha-jung-woo-announces-marriage-after-6.html) <br/>
-[2026/10/14 - 7 Inheritance Trends to Watch in 2026: From Crypto Assets to Disputes Among Co-Heirs](https://ai.trend.dmomo.co.kr/2026/10/7-inheritance-trends-to-watch-in-2026.html) <br/>
