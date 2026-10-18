@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/16 - 오리건 초등학교 총격 참사, 어린이 3명·교사 1명 사망…16세 용의자는?](https://blog.ai.dmomo.co.kr/trend/35609) <br/>
-[2026/10/16 - 테슬라 로드스터 0.81초의 충격, 공중 부양 전기차 2028년 현실될까](https://blog.ai.dmomo.co.kr/trend/35591) <br/>
-[2026/10/16 - 오리건 초등학교 총격 사건: 어린이 포함 사상자 발생, 지금까지 밝혀진 사실은?](https://blog.ai.dmomo.co.kr/trend/35567) <br/>
-[2026/10/16 - Google Gemini agent란? 챗봇을 넘어 자율적으로 업무를 완성하는 AI의 등장](https://blog.ai.dmomo.co.kr/tech/35564) <br/>
-[2026/10/16 - 손흥민 1골 2도움 맹활약! LAFC 3-1 완승으로 5경기 만에 승리](https://blog.ai.dmomo.co.kr/trend/35561) <br/>
+[2026/10/18 - Reddit 오픈소스 커뮤니티 핫글 분석이 어려운 이유와 해결책](https://blog.ai.dmomo.co.kr/ai/35675) <br/>
+[2026/10/17 - 트럼프 백악관 공보비서관 5일 만에 해임, 변호사 자격 논란 전말](https://blog.ai.dmomo.co.kr/trend/35669) <br/>
+[2026/10/17 - 캘리포니아 Norte Fire 확산 총정리: 16,000명 대피 명령의 모든 것](https://blog.ai.dmomo.co.kr/trend/35651) <br/>
+[2026/10/17 - 뱀, 이제는 공포 넘어 생태·반려문화로 바라볼 때](https://blog.ai.dmomo.co.kr/trend/35649) <br/>
+[2026/10/17 - 2026 여행 트렌드 7가지: 덜 이동하고 더 깊이 머무는 여행법](https://blog.ai.dmomo.co.kr/trend/35630) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/10/16 - Oregon Elementary School Shooting Leaves 3 Children and 1 Teacher Dead—Who Is the 16-Year-Old Suspect?](https://ai.trend.dmomo.co.kr/2026/10/oregon-elementary-school-shooting_01512285675.html) <br/>
-[2026/10/16 - Tesla Roadster’s Jaw-Dropping 0.81-Second Feat: Could Hovering Electric Cars Become Reality by 2028?](https://ai.trend.dmomo.co.kr/2026/10/tesla-roadsters-jaw-dropping-081-second.html) <br/>
-[2026/10/16 - Oregon Elementary School Shooting: Children Among the Victims—What We Know So Far?](https://ai.trend.dmomo.co.kr/2026/10/oregon-elementary-school-shooting.html) <br/>
-[2026/10/16 - What Is a Google Gemini Agent? The Rise of AI That Goes Beyond Chatbots to Complete Tasks Autonomously](https://ai.trend.dmomo.co.kr/2026/10/what-is-google-gemini-agent-rise-of-ai.html) <br/>
-[2026/10/16 - Son Heung-min Shines with a Goal and Two Assists as LAFC Snap Their Five-Game Winless Streak with a 3-1 Victory](https://ai.trend.dmomo.co.kr/2026/10/son-heung-min-shines-with-goal-and-two.html) <br/>
-[2026/10/15 - What Is a Google Gemini Agent? The Autonomous AI Set to Transform Enterprise Work in 2026](https://ai.trend.dmomo.co.kr/2026/10/what-is-google-gemini-agent-autonomous.html) <br/>
+[2026/10/17 - Trump White House Press Secretary Fired After Just Five Days: The Full Story Behind the Legal Credentials Controversy](https://ai.trend.dmomo.co.kr/2026/10/trump-white-house-press-secretary-fired.html) <br/>
+[2026/10/17 - California’s Norte Fire: Everything You Need to Know About the Spreading Blaze and Evacuation Orders for 16,000 People](https://ai.trend.dmomo.co.kr/2026/10/californias-norte-fire-everything-you.html) <br/>
+[2026/10/17 - Snakes: It’s Time to Look Beyond Fear and Explore Their Role in Nature and Pet Culture](https://ai.trend.dmomo.co.kr/2026/10/snakes-its-time-to-look-beyond-fear-and.html) <br/>
+[2026/10/17 - Google and Synaptics Set to Unveil Astra M2: What Can 6mW Ultra-Low-Power Edge AI Do?](https://ai.trend.dmomo.co.kr/2026/10/google-and-synaptics-set-to-unveil.html) <br/>
+[2026/10/17 - 7 Travel Trends for 2026: Move Less, Immerse Yourself More](https://ai.trend.dmomo.co.kr/2026/10/7-travel-trends-for-2026-move-less.html) <br/>
+[2026/10/17 - The Truth About Tesla’s Flying Car: Does It Really Fly, or Is It Just a Sports Car That Can Jump?](https://ai.trend.dmomo.co.kr/2026/10/the-truth-about-teslas-flying-car-does.html) <br/>
