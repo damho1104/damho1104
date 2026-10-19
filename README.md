@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/18 - Reddit 오픈소스 커뮤니티 핫글 분석이 어려운 이유와 해결책](https://blog.ai.dmomo.co.kr/ai/35675) <br/>
-[2026/10/17 - 트럼프 백악관 공보비서관 5일 만에 해임, 변호사 자격 논란 전말](https://blog.ai.dmomo.co.kr/trend/35669) <br/>
-[2026/10/17 - 캘리포니아 Norte Fire 확산 총정리: 16,000명 대피 명령의 모든 것](https://blog.ai.dmomo.co.kr/trend/35651) <br/>
-[2026/10/17 - 뱀, 이제는 공포 넘어 생태·반려문화로 바라볼 때](https://blog.ai.dmomo.co.kr/trend/35649) <br/>
-[2026/10/17 - 2026 여행 트렌드 7가지: 덜 이동하고 더 깊이 머무는 여행법](https://blog.ai.dmomo.co.kr/trend/35630) <br/>
+[2026/10/18 - 사위가 장모에게 120만원 주면 육아 지시해도 될까?](https://blog.ai.dmomo.co.kr/trend/35732) <br/>
+[2026/10/18 - BYU, 2위 노터데임 28-24 격파…2026 최대 이변의 모든 것](https://blog.ai.dmomo.co.kr/trend/35714) <br/>
+[2026/10/18 - 한지민 협박·스토킹 사건, 악플이 형사범죄가 된 이유](https://blog.ai.dmomo.co.kr/trend/35712) <br/>
+[2026/10/18 - 블록체인 양자내성 암호 전환, Quantum Alliance가 바꿀 4가지 표준은?](https://blog.ai.dmomo.co.kr/tech/35690) <br/>
+[2026/10/18 - 2026 WNBA Finals 1차전 결과: 발키리스 vs 드림, 승자는?](https://blog.ai.dmomo.co.kr/trend/35688) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/10/17 - Trump White House Press Secretary Fired After Just Five Days: The Full Story Behind the Legal Credentials Controversy](https://ai.trend.dmomo.co.kr/2026/10/trump-white-house-press-secretary-fired.html) <br/>
-[2026/10/17 - California’s Norte Fire: Everything You Need to Know About the Spreading Blaze and Evacuation Orders for 16,000 People](https://ai.trend.dmomo.co.kr/2026/10/californias-norte-fire-everything-you.html) <br/>
-[2026/10/17 - Snakes: It’s Time to Look Beyond Fear and Explore Their Role in Nature and Pet Culture](https://ai.trend.dmomo.co.kr/2026/10/snakes-its-time-to-look-beyond-fear-and.html) <br/>
-[2026/10/17 - Google and Synaptics Set to Unveil Astra M2: What Can 6mW Ultra-Low-Power Edge AI Do?](https://ai.trend.dmomo.co.kr/2026/10/google-and-synaptics-set-to-unveil.html) <br/>
-[2026/10/17 - 7 Travel Trends for 2026: Move Less, Immerse Yourself More](https://ai.trend.dmomo.co.kr/2026/10/7-travel-trends-for-2026-move-less.html) <br/>
-[2026/10/17 - The Truth About Tesla’s Flying Car: Does It Really Fly, or Is It Just a Sports Car That Can Jump?](https://ai.trend.dmomo.co.kr/2026/10/the-truth-about-teslas-flying-car-does.html) <br/>
+[2026/10/18 - If a Son-in-Law Pays His Mother-in-Law ₩1.2 Million, Does He Get to Call the Shots on Childcare?](https://ai.trend.dmomo.co.kr/2026/10/if-son-in-law-pays-his-mother-in-law-12.html) <br/>
+[2026/10/18 - BYU Stuns No. 2 Notre Dame 28–24: Everything You Need to Know About 2026’s Biggest Upset](https://ai.trend.dmomo.co.kr/2026/10/byu-stuns-no-2-notre-dame-2824.html) <br/>
+[2026/10/18 - The Han Ji-min Threats and Stalking Case: Why Online Hate Comments Became a Crime](https://ai.trend.dmomo.co.kr/2026/10/the-han-ji-min-threats-and-stalking.html) <br/>
+[2026/10/18 - Blockchain’s Shift to Post-Quantum Cryptography: Which Four Standards Could the Quantum Alliance Change?](https://ai.trend.dmomo.co.kr/2026/10/blockchains-shift-to-post-quantum.html) <br/>
+[2026/10/18 - 2026 WNBA Finals Game 1 Results: Valkyries vs. Dream — Who Won?](https://ai.trend.dmomo.co.kr/2026/10/2026-wnba-finals-game-1-results.html) <br/>
+[2026/10/18 - October Fall Weather Alert: How to Prepare for Heavy Rain, Strong Winds, and Sudden Temperature Drops](https://ai.trend.dmomo.co.kr/2026/10/october-fall-weather-alert-how-to.html) <br/>
