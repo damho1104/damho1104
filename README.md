@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/19 - Chiefs 5-0 완벽 질주! Mahomes 100승의 비결과 Chargers 0-6 위기의 진실](https://blog.ai.dmomo.co.kr/trend/35790) <br/>
-[2026/10/19 - 신세계백화점 강남점 팝업 열풍과 출차 대란, 무엇이 문제였나](https://blog.ai.dmomo.co.kr/trend/35760) <br/>
-[2026/10/19 - Meta Muse Wonder란? 장기 기억 AI 에이전트의 핵심 기술과 한계](https://blog.ai.dmomo.co.kr/tech/35758) <br/>
-[2026/10/19 - Bills 24-20 완승! Josh Allen이 Raiders를 무너뜨린 결정적 이유](https://blog.ai.dmomo.co.kr/trend/35756) <br/>
-[2026/10/18 - 사위가 장모에게 120만원 주면 육아 지시해도 될까?](https://blog.ai.dmomo.co.kr/trend/35732) <br/>
+[2026/10/20 - KIA 2연승 vs LG 벼랑끝, 준PO 3차전 승부처는 어디?](https://blog.ai.dmomo.co.kr/trend/35862) <br/>
+[2026/10/20 - 49ers 6연승의 이면: 부상 악재 속 버텨낸 승리의 진짜 의미](https://blog.ai.dmomo.co.kr/trend/35844) <br/>
+[2026/10/20 - 미쓰비시 중공업, 잠든 조선소 깨운다…일본 방산 수출의 야망](https://blog.ai.dmomo.co.kr/trend/35842) <br/>
+[2026/10/20 - Kubernetes AI 오토스케일링의 진화: DRA와 Kueue가 바꾸는 GPU 인프라 운영](https://blog.ai.dmomo.co.kr/tech/35817) <br/>
+[2026/10/20 - 49ers vs Commanders Week 6 완벽 분석: 5-0 강팀 꺾을 수 있을까?](https://blog.ai.dmomo.co.kr/trend/35814) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/10/19 - Chiefs’ Perfect 5-0 Start! The Secret to Mahomes’ 100 Wins and the Truth Behind the Chargers’ 0-6 Crisis](https://ai.trend.dmomo.co.kr/2026/10/chiefs-perfect-5-0-start-secret-to.html) <br/>
-[2026/10/19 - The Pop-Up Craze and Parking Exit Chaos at Shinsegae Department Store’s Gangnam Branch: What Went Wrong?](https://ai.trend.dmomo.co.kr/2026/10/the-pop-up-craze-and-parking-exit-chaos.html) <br/>
-[2026/10/19 - What Is Meta Muse Wonder? The Key Technology Behind Long-Term Memory AI Agents—and Its Limitations](https://ai.trend.dmomo.co.kr/2026/10/what-is-meta-muse-wonder-key-technology.html) <br/>
-[2026/10/19 - Bills Win 24-20! The Key Reason Josh Allen Took Down the Raiders](https://ai.trend.dmomo.co.kr/2026/10/bills-win-24-20-key-reason-josh-allen.html) <br/>
-[2026/10/18 - If a Son-in-Law Pays His Mother-in-Law ₩1.2 Million, Does He Get to Call the Shots on Childcare?](https://ai.trend.dmomo.co.kr/2026/10/if-son-in-law-pays-his-mother-in-law-12.html) <br/>
-[2026/10/18 - BYU Stuns No. 2 Notre Dame 28–24: Everything You Need to Know About 2026’s Biggest Upset](https://ai.trend.dmomo.co.kr/2026/10/byu-stuns-no-2-notre-dame-2824.html) <br/>
+[2026/10/20 - KIA Riding a Two-Game Win Streak, LG on the Brink: Where Will Game 3 of the Semi-Playoffs Be Won or Lost?](https://ai.trend.dmomo.co.kr/2026/10/kia-riding-two-game-win-streak-lg-on.html) <br/>
+[2026/10/20 - Behind the 49ers’ Six-Game Winning Streak: The True Significance of a Gritty Win Amid Injury Woes](https://ai.trend.dmomo.co.kr/2026/10/behind-49ers-six-game-winning-streak.html) <br/>
+[2026/10/20 - Mitsubishi Heavy Industries Wakes a Sleeping Shipyard… Japan’s Ambitions for Defense Exports](https://ai.trend.dmomo.co.kr/2026/10/mitsubishi-heavy-industries-wakes.html) <br/>
+[2026/10/20 - The Evolution of AI Autoscaling on Kubernetes: How DRA and Kueue Are Transforming GPU Infrastructure Operations](https://ai.trend.dmomo.co.kr/2026/10/the-evolution-of-ai-autoscaling-on.html) <br/>
+[2026/10/20 - 49ers vs. Commanders Week 6 Breakdown: Can Washington Take Down the 5-0 Powerhouse?](https://ai.trend.dmomo.co.kr/2026/10/49ers-vs-commanders-week-6-breakdown.html) <br/>
+[2026/10/20 - Who Is Park Hye-yeon from *My Little Old Boy*? Meet the 15-Year Veteran Announcer Chosen by Kim Seung-soo](https://ai.trend.dmomo.co.kr/2026/10/who-is-park-hye-yeon-from-my-little-old.html) <br/>
