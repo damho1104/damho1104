@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/10/21 - 2026년 아들의 의미가 바뀌고 있다: AI·자립·상실·정신건강까지](https://blog.ai.dmomo.co.kr/trend/35916) <br/>
+[2026/10/21 - llm-d 1.0이 바꾸는 Kubernetes LLM 추론 인프라, 핵심 기술과 성능은?](https://blog.ai.dmomo.co.kr/tech/35892) <br/>
+[2026/10/21 - KIA, LG 준PO 3연승 완파! 김도영 만루홈런이 가른 결정적 차이](https://blog.ai.dmomo.co.kr/trend/35890) <br/>
+[2026/10/21 - 르브론 합류한 76ers vs 디펜딩 챔피언 닉스, NBA 개막전 승자는?](https://blog.ai.dmomo.co.kr/trend/35888) <br/>
 [2026/10/20 - KIA 2연승 vs LG 벼랑끝, 준PO 3차전 승부처는 어디?](https://blog.ai.dmomo.co.kr/trend/35862) <br/>
-[2026/10/20 - 49ers 6연승의 이면: 부상 악재 속 버텨낸 승리의 진짜 의미](https://blog.ai.dmomo.co.kr/trend/35844) <br/>
-[2026/10/20 - 미쓰비시 중공업, 잠든 조선소 깨운다…일본 방산 수출의 야망](https://blog.ai.dmomo.co.kr/trend/35842) <br/>
-[2026/10/20 - Kubernetes AI 오토스케일링의 진화: DRA와 Kueue가 바꾸는 GPU 인프라 운영](https://blog.ai.dmomo.co.kr/tech/35817) <br/>
-[2026/10/20 - 49ers vs Commanders Week 6 완벽 분석: 5-0 강팀 꺾을 수 있을까?](https://blog.ai.dmomo.co.kr/trend/35814) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/10/21 - What It Means to Be a Son Is Changing in 2026: AI, Independence, Loss, and Mental Health](https://ai.trend.dmomo.co.kr/2026/10/what-it-means-to-be-son-is-changing-in.html) <br/>
+[2026/10/21 - How LLM-D 1.0 Is Transforming Kubernetes LLM Inference Infrastructure: Key Technologies and Performance](https://ai.trend.dmomo.co.kr/2026/10/how-llm-d-10-is-transforming-kubernetes.html) <br/>
+[2026/10/21 - KIA Sweeps LG in the Semi-Playoffs! Kim Do-young’s Grand Slam Makes the Difference](https://ai.trend.dmomo.co.kr/2026/10/kia-sweeps-lg-in-semi-playoffs-kim-do.html) <br/>
+[2026/10/21 - LeBron’s 76ers vs. the Defending Champion Knicks: Who Wins the NBA Opener?](https://ai.trend.dmomo.co.kr/2026/10/lebrons-76ers-vs-defending-champion.html) <br/>
 [2026/10/20 - KIA Riding a Two-Game Win Streak, LG on the Brink: Where Will Game 3 of the Semi-Playoffs Be Won or Lost?](https://ai.trend.dmomo.co.kr/2026/10/kia-riding-two-game-win-streak-lg-on.html) <br/>
 [2026/10/20 - Behind the 49ers’ Six-Game Winning Streak: The True Significance of a Gritty Win Amid Injury Woes](https://ai.trend.dmomo.co.kr/2026/10/behind-49ers-six-game-winning-streak.html) <br/>
-[2026/10/20 - Mitsubishi Heavy Industries Wakes a Sleeping Shipyard… Japan’s Ambitions for Defense Exports](https://ai.trend.dmomo.co.kr/2026/10/mitsubishi-heavy-industries-wakes.html) <br/>
-[2026/10/20 - The Evolution of AI Autoscaling on Kubernetes: How DRA and Kueue Are Transforming GPU Infrastructure Operations](https://ai.trend.dmomo.co.kr/2026/10/the-evolution-of-ai-autoscaling-on.html) <br/>
-[2026/10/20 - 49ers vs. Commanders Week 6 Breakdown: Can Washington Take Down the 5-0 Powerhouse?](https://ai.trend.dmomo.co.kr/2026/10/49ers-vs-commanders-week-6-breakdown.html) <br/>
-[2026/10/20 - Who Is Park Hye-yeon from *My Little Old Boy*? Meet the 15-Year Veteran Announcer Chosen by Kim Seung-soo](https://ai.trend.dmomo.co.kr/2026/10/who-is-park-hye-yeon-from-my-little-old.html) <br/>
