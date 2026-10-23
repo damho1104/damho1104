@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/21 - 2026년 아들의 의미가 바뀌고 있다: AI·자립·상실·정신건강까지](https://blog.ai.dmomo.co.kr/trend/35916) <br/>
-[2026/10/21 - llm-d 1.0이 바꾸는 Kubernetes LLM 추론 인프라, 핵심 기술과 성능은?](https://blog.ai.dmomo.co.kr/tech/35892) <br/>
-[2026/10/21 - KIA, LG 준PO 3연승 완파! 김도영 만루홈런이 가른 결정적 차이](https://blog.ai.dmomo.co.kr/trend/35890) <br/>
-[2026/10/21 - 르브론 합류한 76ers vs 디펜딩 챔피언 닉스, NBA 개막전 승자는?](https://blog.ai.dmomo.co.kr/trend/35888) <br/>
-[2026/10/20 - KIA 2연승 vs LG 벼랑끝, 준PO 3차전 승부처는 어디?](https://blog.ai.dmomo.co.kr/trend/35862) <br/>
+[2026/10/22 - 프랑스 사회 대폭발: 교육 시위가 국가 위기로 번진 진짜 이유](https://blog.ai.dmomo.co.kr/trend/36003) <br/>
+[2026/10/22 - 컨트리 음악의 전설 존 앤더슨 별세, 71세로 생을 마감](https://blog.ai.dmomo.co.kr/trend/35997) <br/>
+[2026/10/22 - 손예진 2026: 사극 도전·집밥 공개·SNS 논란 3가지 트렌드](https://blog.ai.dmomo.co.kr/trend/35995) <br/>
+[2026/10/22 - Lakers vs Warriors 개막전, Dončić vs Curry 세대교체 승자는?](https://blog.ai.dmomo.co.kr/trend/35976) <br/>
+[2026/10/22 - 2026 김밥 트렌드, 지역축제·K-Food 콘텐츠로 진화하는 이유](https://blog.ai.dmomo.co.kr/trend/35974) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/10/21 - What It Means to Be a Son Is Changing in 2026: AI, Independence, Loss, and Mental Health](https://ai.trend.dmomo.co.kr/2026/10/what-it-means-to-be-son-is-changing-in.html) <br/>
-[2026/10/21 - How LLM-D 1.0 Is Transforming Kubernetes LLM Inference Infrastructure: Key Technologies and Performance](https://ai.trend.dmomo.co.kr/2026/10/how-llm-d-10-is-transforming-kubernetes.html) <br/>
-[2026/10/21 - KIA Sweeps LG in the Semi-Playoffs! Kim Do-young’s Grand Slam Makes the Difference](https://ai.trend.dmomo.co.kr/2026/10/kia-sweeps-lg-in-semi-playoffs-kim-do.html) <br/>
-[2026/10/21 - LeBron’s 76ers vs. the Defending Champion Knicks: Who Wins the NBA Opener?](https://ai.trend.dmomo.co.kr/2026/10/lebrons-76ers-vs-defending-champion.html) <br/>
-[2026/10/20 - KIA Riding a Two-Game Win Streak, LG on the Brink: Where Will Game 3 of the Semi-Playoffs Be Won or Lost?](https://ai.trend.dmomo.co.kr/2026/10/kia-riding-two-game-win-streak-lg-on.html) <br/>
-[2026/10/20 - Behind the 49ers’ Six-Game Winning Streak: The True Significance of a Gritty Win Amid Injury Woes](https://ai.trend.dmomo.co.kr/2026/10/behind-49ers-six-game-winning-streak.html) <br/>
+[2026/10/22 - France on the Brink: How Education Protests Spiraled into a National Crisis](https://ai.trend.dmomo.co.kr/2026/10/france-on-brink-how-education-protests.html) <br/>
+[2026/10/22 - Country Music Legend John Anderson Dies at 71](https://ai.trend.dmomo.co.kr/2026/10/country-music-legend-john-anderson-dies.html) <br/>
+[2026/10/22 - Son Ye-jin in 2026: 3 Hot Topics—Taking on a Historical Drama, Sharing Home-Cooked Meals, and a Social Media Controversy](https://ai.trend.dmomo.co.kr/2026/10/son-ye-jin-in-2026-3-hot-topicstaking.html) <br/>
+[2026/10/22 - Lakers vs. Warriors Season Opener: Dončić vs. Curry in a Changing-of-the-Guard Showdown—Who Comes Out on Top?](https://ai.trend.dmomo.co.kr/2026/10/lakers-vs-warriors-season-opener-doncic.html) <br/>
+[2026/10/22 - 2026 Gimbap Trends: Why It’s Becoming a Festival Favorite and a K-Food Content Star](https://ai.trend.dmomo.co.kr/2026/10/2026-gimbap-trends-why-its-becoming.html) <br/>
+[2026/10/22 - Is Retrieval the Bottleneck in RAG? EBG Reveals the Evidence Gaps—and How to Fix Them](https://ai.trend.dmomo.co.kr/2026/10/is-retrieval-bottleneck-in-rag-ebg.html) <br/>
