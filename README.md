@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/10/23 - 이혜영 미국 친정집 공개, 대저택보다 빛난 가족 사랑의 민낯](https://blog.ai.dmomo.co.kr/trend/36063) <br/>
+[2026/10/23 - 톰 스커릿 별세, Alien·Top Gun·Picket Fences를 관통한 93년의 삶](https://blog.ai.dmomo.co.kr/trend/36024) <br/>
+[2026/10/23 - 최동환 KT 방출, 16년 베테랑 불펜의 현역 연장 가능성은?](https://blog.ai.dmomo.co.kr/trend/36022) <br/>
 [2026/10/22 - 프랑스 사회 대폭발: 교육 시위가 국가 위기로 번진 진짜 이유](https://blog.ai.dmomo.co.kr/trend/36003) <br/>
 [2026/10/22 - 컨트리 음악의 전설 존 앤더슨 별세, 71세로 생을 마감](https://blog.ai.dmomo.co.kr/trend/35997) <br/>
-[2026/10/22 - 손예진 2026: 사극 도전·집밥 공개·SNS 논란 3가지 트렌드](https://blog.ai.dmomo.co.kr/trend/35995) <br/>
-[2026/10/22 - Lakers vs Warriors 개막전, Dončić vs Curry 세대교체 승자는?](https://blog.ai.dmomo.co.kr/trend/35976) <br/>
-[2026/10/22 - 2026 김밥 트렌드, 지역축제·K-Food 콘텐츠로 진화하는 이유](https://blog.ai.dmomo.co.kr/trend/35974) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/10/23 - Lee Hye-young Gives a Tour of Her Parents’ Home in the U.S.—But Family Love Steals the Show](https://ai.trend.dmomo.co.kr/2026/10/lee-hye-young-gives-tour-of-her-parents.html) <br/>
+[2026/10/23 - Tom Skerritt Dies: A 93-Year Life Spanning *Alien*, *Top Gun*, and *Picket Fences*](https://ai.trend.dmomo.co.kr/2026/10/tom-skerritt-dies-93-year-life-spanning.html) <br/>
+[2026/10/23 - KT Releases Choi Dong-hwan: Can the 16-Year Veteran Reliever Extend His Career?](https://ai.trend.dmomo.co.kr/2026/10/kt-releases-choi-dong-hwan-can-16-year.html) <br/>
 [2026/10/22 - France on the Brink: How Education Protests Spiraled into a National Crisis](https://ai.trend.dmomo.co.kr/2026/10/france-on-brink-how-education-protests.html) <br/>
 [2026/10/22 - Country Music Legend John Anderson Dies at 71](https://ai.trend.dmomo.co.kr/2026/10/country-music-legend-john-anderson-dies.html) <br/>
 [2026/10/22 - Son Ye-jin in 2026: 3 Hot Topics—Taking on a Historical Drama, Sharing Home-Cooked Meals, and a Social Media Controversy](https://ai.trend.dmomo.co.kr/2026/10/son-ye-jin-in-2026-3-hot-topicstaking.html) <br/>
-[2026/10/22 - Lakers vs. Warriors Season Opener: Dončić vs. Curry in a Changing-of-the-Guard Showdown—Who Comes Out on Top?](https://ai.trend.dmomo.co.kr/2026/10/lakers-vs-warriors-season-opener-doncic.html) <br/>
-[2026/10/22 - 2026 Gimbap Trends: Why It’s Becoming a Festival Favorite and a K-Food Content Star](https://ai.trend.dmomo.co.kr/2026/10/2026-gimbap-trends-why-its-becoming.html) <br/>
-[2026/10/22 - Is Retrieval the Bottleneck in RAG? EBG Reveals the Evidence Gaps—and How to Fix Them](https://ai.trend.dmomo.co.kr/2026/10/is-retrieval-bottleneck-in-rag-ebg.html) <br/>
