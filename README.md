@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/23 - 이혜영 미국 친정집 공개, 대저택보다 빛난 가족 사랑의 민낯](https://blog.ai.dmomo.co.kr/trend/36063) <br/>
-[2026/10/23 - 톰 스커릿 별세, Alien·Top Gun·Picket Fences를 관통한 93년의 삶](https://blog.ai.dmomo.co.kr/trend/36024) <br/>
-[2026/10/23 - 최동환 KT 방출, 16년 베테랑 불펜의 현역 연장 가능성은?](https://blog.ai.dmomo.co.kr/trend/36022) <br/>
-[2026/10/22 - 프랑스 사회 대폭발: 교육 시위가 국가 위기로 번진 진짜 이유](https://blog.ai.dmomo.co.kr/trend/36003) <br/>
-[2026/10/22 - 컨트리 음악의 전설 존 앤더슨 별세, 71세로 생을 마감](https://blog.ai.dmomo.co.kr/trend/35997) <br/>
+[2026/10/25 - LLM이 소프트웨어 검증을 바꾼다? IT 커뮤니티 화제의 핵심 정리](https://blog.ai.dmomo.co.kr/ai/36135) <br/>
+[2026/10/24 - 차인표 가족의 변화 아들 결혼부터 유튜브 일상 공개까지](https://blog.ai.dmomo.co.kr/trend/36126) <br/>
+[2026/10/24 - Durant vs Wembanyama, 텍사스 NBA 라이벌전 승부처 완전 분석](https://blog.ai.dmomo.co.kr/trend/36111) <br/>
+[2026/10/24 - 양홍원 결혼 닷새 만에 터진 사생활 의혹, 진실은?](https://blog.ai.dmomo.co.kr/trend/36109) <br/>
+[2026/10/24 - 유전체 데이터 복제 없이 1.52초 검색, CSIRO 서버리스 Beacon의 핵심 기술은?](https://blog.ai.dmomo.co.kr/tech/36087) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/10/23 - Lee Hye-young Gives a Tour of Her Parents’ Home in the U.S.—But Family Love Steals the Show](https://ai.trend.dmomo.co.kr/2026/10/lee-hye-young-gives-tour-of-her-parents.html) <br/>
-[2026/10/23 - Tom Skerritt Dies: A 93-Year Life Spanning *Alien*, *Top Gun*, and *Picket Fences*](https://ai.trend.dmomo.co.kr/2026/10/tom-skerritt-dies-93-year-life-spanning.html) <br/>
-[2026/10/23 - KT Releases Choi Dong-hwan: Can the 16-Year Veteran Reliever Extend His Career?](https://ai.trend.dmomo.co.kr/2026/10/kt-releases-choi-dong-hwan-can-16-year.html) <br/>
-[2026/10/22 - France on the Brink: How Education Protests Spiraled into a National Crisis](https://ai.trend.dmomo.co.kr/2026/10/france-on-brink-how-education-protests.html) <br/>
-[2026/10/22 - Country Music Legend John Anderson Dies at 71](https://ai.trend.dmomo.co.kr/2026/10/country-music-legend-john-anderson-dies.html) <br/>
-[2026/10/22 - Son Ye-jin in 2026: 3 Hot Topics—Taking on a Historical Drama, Sharing Home-Cooked Meals, and a Social Media Controversy](https://ai.trend.dmomo.co.kr/2026/10/son-ye-jin-in-2026-3-hot-topicstaking.html) <br/>
+[2026/10/24 - A New Chapter for Cha In-pyo’s Family: From His Son’s Wedding to Sharing Their Daily Life on YouTube](https://ai.trend.dmomo.co.kr/2026/10/a-new-chapter-for-cha-in-pyos-family.html) <br/>
+[2026/10/24 - Durant vs. Wembanyama: Breaking Down the Key Moments in Texas’s NBA Rivalry Showdown](https://ai.trend.dmomo.co.kr/2026/10/durant-vs-wembanyama-breaking-down-key.html) <br/>
+[2026/10/24 - Private-Life Allegations Rock Yang Hong-won Just Five Days After His Wedding—What’s the Truth?](https://ai.trend.dmomo.co.kr/2026/10/private-life-allegations-rock-yang-hong.html) <br/>
+[2026/10/24 - How CSIRO’s Serverless Beacon Searches Genomic Data in 1.52 Seconds—Without Duplicating It](https://ai.trend.dmomo.co.kr/2026/10/how-csiros-serverless-beacon-searches.html) <br/>
+[2026/10/24 - Knicks vs. Celtics: Analyzing the East’s Biggest Showdown in the 2026–27 Second Round](https://ai.trend.dmomo.co.kr/2026/10/knicks-vs-celtics-analyzing-easts.html) <br/>
+[2026/10/24 - Lee Hye-young Gives a Peek Inside Her Family Home in the U.S.—And the Story Behind It Steals the Spotlight from Her Three-Story Mansion](https://ai.trend.dmomo.co.kr/2026/10/lee-hye-young-gives-peek-inside-her.html) <br/>
