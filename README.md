@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/25 - LLM이 소프트웨어 검증을 바꾼다? IT 커뮤니티 화제의 핵심 정리](https://blog.ai.dmomo.co.kr/ai/36135) <br/>
-[2026/10/24 - 차인표 가족의 변화 아들 결혼부터 유튜브 일상 공개까지](https://blog.ai.dmomo.co.kr/trend/36126) <br/>
-[2026/10/24 - Durant vs Wembanyama, 텍사스 NBA 라이벌전 승부처 완전 분석](https://blog.ai.dmomo.co.kr/trend/36111) <br/>
-[2026/10/24 - 양홍원 결혼 닷새 만에 터진 사생활 의혹, 진실은?](https://blog.ai.dmomo.co.kr/trend/36109) <br/>
-[2026/10/24 - 유전체 데이터 복제 없이 1.52초 검색, CSIRO 서버리스 Beacon의 핵심 기술은?](https://blog.ai.dmomo.co.kr/tech/36087) <br/>
+[2026/10/25 - Alabama, 4쿼터 대역전승! Texas A&M의 upset 꿈 31-20으로 무너지다](https://blog.ai.dmomo.co.kr/trend/36189) <br/>
+[2026/10/25 - 2026년 배당 투자 전략: 고배당률보다 현금흐름이 답이다](https://blog.ai.dmomo.co.kr/trend/36187) <br/>
+[2026/10/25 - Texas 34-27 Ole Miss: Arch Manning 결승 터치다운으로 2연패 탈출](https://blog.ai.dmomo.co.kr/trend/36168) <br/>
+[2026/10/25 - AI 코딩 에이전트 보안 감사, 실패에서 배우는 SKILL-SIF란?](https://blog.ai.dmomo.co.kr/tech/36147) <br/>
+[2026/10/25 - 토트넘, 8년 만에 스탬퍼드 브리지 원정 승리! 첼시 2-0 격파](https://blog.ai.dmomo.co.kr/trend/36145) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/10/24 - A New Chapter for Cha In-pyo’s Family: From His Son’s Wedding to Sharing Their Daily Life on YouTube](https://ai.trend.dmomo.co.kr/2026/10/a-new-chapter-for-cha-in-pyos-family.html) <br/>
-[2026/10/24 - Durant vs. Wembanyama: Breaking Down the Key Moments in Texas’s NBA Rivalry Showdown](https://ai.trend.dmomo.co.kr/2026/10/durant-vs-wembanyama-breaking-down-key.html) <br/>
-[2026/10/24 - Private-Life Allegations Rock Yang Hong-won Just Five Days After His Wedding—What’s the Truth?](https://ai.trend.dmomo.co.kr/2026/10/private-life-allegations-rock-yang-hong.html) <br/>
-[2026/10/24 - How CSIRO’s Serverless Beacon Searches Genomic Data in 1.52 Seconds—Without Duplicating It](https://ai.trend.dmomo.co.kr/2026/10/how-csiros-serverless-beacon-searches.html) <br/>
-[2026/10/24 - Knicks vs. Celtics: Analyzing the East’s Biggest Showdown in the 2026–27 Second Round](https://ai.trend.dmomo.co.kr/2026/10/knicks-vs-celtics-analyzing-easts.html) <br/>
-[2026/10/24 - Lee Hye-young Gives a Peek Inside Her Family Home in the U.S.—And the Story Behind It Steals the Spotlight from Her Three-Story Mansion](https://ai.trend.dmomo.co.kr/2026/10/lee-hye-young-gives-peek-inside-her.html) <br/>
+[2026/10/25 - 2026 Dividend Investing Strategy: Why Cash Flow Matters More Than High Yields](https://ai.trend.dmomo.co.kr/2026/10/2026-dividend-investing-strategy-why.html) <br/>
+[2026/10/25 - Alabama Storms Back in the Fourth to Crush Texas A&M’s Upset Hopes, 31–20](https://ai.trend.dmomo.co.kr/2026/10/alabama-storms-back-in-fourth-to-crush.html) <br/>
+[2026/10/25 - Texas 34, Ole Miss 27: Arch Manning’s Game-Winning Touchdown Snaps Longhorns’ Two-Game Skid](https://ai.trend.dmomo.co.kr/2026/10/texas-34-ole-miss-27-arch-mannings-game.html) <br/>
+[2026/10/25 - AI Coding Agent Security Audits: What Is SKILL-SIF, and What Can We Learn from Its Failures?](https://ai.trend.dmomo.co.kr/2026/10/ai-coding-agent-security-audits-what-is.html) <br/>
+[2026/10/25 - Tottenham End 8-Year Wait for Stamford Bridge Win with 2-0 Victory over Chelsea](https://ai.trend.dmomo.co.kr/2026/10/tottenham-end-8-year-wait-for-stamford.html) <br/>
+[2026/10/25 - BYU vs. UCF: Big 12 Showdown—Can No. 2 BYU Avoid a Road Trap, or Will UCF Pull Off the Upset?](https://ai.trend.dmomo.co.kr/2026/10/byu-vs-ucf-big-12-showdowncan-no-2-byu.html) <br/>
