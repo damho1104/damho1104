@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/25 - Alabama, 4쿼터 대역전승! Texas A&M의 upset 꿈 31-20으로 무너지다](https://blog.ai.dmomo.co.kr/trend/36189) <br/>
-[2026/10/25 - 2026년 배당 투자 전략: 고배당률보다 현금흐름이 답이다](https://blog.ai.dmomo.co.kr/trend/36187) <br/>
-[2026/10/25 - Texas 34-27 Ole Miss: Arch Manning 결승 터치다운으로 2연패 탈출](https://blog.ai.dmomo.co.kr/trend/36168) <br/>
-[2026/10/25 - AI 코딩 에이전트 보안 감사, 실패에서 배우는 SKILL-SIF란?](https://blog.ai.dmomo.co.kr/tech/36147) <br/>
-[2026/10/25 - 토트넘, 8년 만에 스탬퍼드 브리지 원정 승리! 첼시 2-0 격파](https://blog.ai.dmomo.co.kr/trend/36145) <br/>
+[2026/10/26 - 트로이 에이크먼이 추모한 전 NFL 스타 매커천, 76세로 별세](https://blog.ai.dmomo.co.kr/trend/36258) <br/>
+[2026/10/26 - 시호크스 20-3 완승! 마홈스와 치프스를 완벽히 봉쇄한 비결](https://blog.ai.dmomo.co.kr/trend/36240) <br/>
+[2026/10/26 - 손흥민 골 취소 논란! 엘 트라피코 2-2 무승부 완벽 분석](https://blog.ai.dmomo.co.kr/trend/36238) <br/>
+[2026/10/26 - 로봇 AI의 판을 바꿀까? Harvest Praxis Hyper AI Brain, 인식부터 동작 제어까지 한 칩에 통합](https://blog.ai.dmomo.co.kr/tech/36213) <br/>
+[2026/10/26 - 2026 KIA vs 삼성 플레이오프 1차전 승부의 핵심 변수는?](https://blog.ai.dmomo.co.kr/trend/36211) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/10/25 - 2026 Dividend Investing Strategy: Why Cash Flow Matters More Than High Yields](https://ai.trend.dmomo.co.kr/2026/10/2026-dividend-investing-strategy-why.html) <br/>
-[2026/10/25 - Alabama Storms Back in the Fourth to Crush Texas A&M’s Upset Hopes, 31–20](https://ai.trend.dmomo.co.kr/2026/10/alabama-storms-back-in-fourth-to-crush.html) <br/>
-[2026/10/25 - Texas 34, Ole Miss 27: Arch Manning’s Game-Winning Touchdown Snaps Longhorns’ Two-Game Skid](https://ai.trend.dmomo.co.kr/2026/10/texas-34-ole-miss-27-arch-mannings-game.html) <br/>
-[2026/10/25 - AI Coding Agent Security Audits: What Is SKILL-SIF, and What Can We Learn from Its Failures?](https://ai.trend.dmomo.co.kr/2026/10/ai-coding-agent-security-audits-what-is.html) <br/>
-[2026/10/25 - Tottenham End 8-Year Wait for Stamford Bridge Win with 2-0 Victory over Chelsea](https://ai.trend.dmomo.co.kr/2026/10/tottenham-end-8-year-wait-for-stamford.html) <br/>
-[2026/10/25 - BYU vs. UCF: Big 12 Showdown—Can No. 2 BYU Avoid a Road Trap, or Will UCF Pull Off the Upset?](https://ai.trend.dmomo.co.kr/2026/10/byu-vs-ucf-big-12-showdowncan-no-2-byu.html) <br/>
+[2026/10/26 - Former NFL Star McCutcheon, Remembered by Troy Aikman, Dies at 76](https://ai.trend.dmomo.co.kr/2026/10/former-nfl-star-mccutcheon-remembered.html) <br/>
+[2026/10/26 - Seahawks Dominate 20–3: How They Completely Shut Down Mahomes and the Chiefs](https://ai.trend.dmomo.co.kr/2026/10/seahawks-dominate-203-how-they.html) <br/>
+[2026/10/26 - Son Heung-min Goal Controversy! A Full Breakdown of El Tráfico’s 2–2 Draw](https://ai.trend.dmomo.co.kr/2026/10/son-heung-min-goal-controversy-full.html) <br/>
+[2026/10/26 - Could It Change the Game for Robotics AI? Harvest Praxis Hyper AI Brain Integrates Everything from Perception to Motion Control on a Single Chip](https://ai.trend.dmomo.co.kr/2026/10/could-it-change-game-for-robotics-ai.html) <br/>
+[2026/10/26 - What Will Decide Game 1 of the 2026 KIA Tigers–Samsung Lions Playoffs?](https://ai.trend.dmomo.co.kr/2026/10/what-will-decide-game-1-of-2026-kia.html) <br/>
+[2026/10/26 - Detroit Lions Beat the Packers 20–17 in a Game-Changing NFC North Showdown](https://ai.trend.dmomo.co.kr/2026/10/detroit-lions-beat-packers-2017-in-game.html) <br/>
