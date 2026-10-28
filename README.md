@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/26 - 트로이 에이크먼이 추모한 전 NFL 스타 매커천, 76세로 별세](https://blog.ai.dmomo.co.kr/trend/36258) <br/>
-[2026/10/26 - 시호크스 20-3 완승! 마홈스와 치프스를 완벽히 봉쇄한 비결](https://blog.ai.dmomo.co.kr/trend/36240) <br/>
-[2026/10/26 - 손흥민 골 취소 논란! 엘 트라피코 2-2 무승부 완벽 분석](https://blog.ai.dmomo.co.kr/trend/36238) <br/>
-[2026/10/26 - 로봇 AI의 판을 바꿀까? Harvest Praxis Hyper AI Brain, 인식부터 동작 제어까지 한 칩에 통합](https://blog.ai.dmomo.co.kr/tech/36213) <br/>
-[2026/10/26 - 2026 KIA vs 삼성 플레이오프 1차전 승부의 핵심 변수는?](https://blog.ai.dmomo.co.kr/trend/36211) <br/>
+[2026/10/27 - Eagles 5연패 추락, Hurts 부재와 수비 붕괴가 부른 시즌 위기](https://blog.ai.dmomo.co.kr/trend/36333) <br/>
+[2026/10/27 - 2026년 가을 꽃게 가격 92% 폭등, 지금 사도 될까?](https://blog.ai.dmomo.co.kr/trend/36331) <br/>
+[2026/10/27 - 커리 복귀해도 될까? 워리어스 vs 너기츠 승부 전망 완벽 분석](https://blog.ai.dmomo.co.kr/trend/36312) <br/>
+[2026/10/27 - 2026년 주가 핵심 트렌드: AI·반도체부터 거래대금까지 완벽 분석](https://blog.ai.dmomo.co.kr/trend/36310) <br/>
+[2026/10/27 - GitHub Package Firewall이 바꾸는 DevOps 보안: AI 에이전트와 CI의 npm 설치를 지키는 법](https://blog.ai.dmomo.co.kr/tech/36285) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/10/26 - Former NFL Star McCutcheon, Remembered by Troy Aikman, Dies at 76](https://ai.trend.dmomo.co.kr/2026/10/former-nfl-star-mccutcheon-remembered.html) <br/>
-[2026/10/26 - Seahawks Dominate 20–3: How They Completely Shut Down Mahomes and the Chiefs](https://ai.trend.dmomo.co.kr/2026/10/seahawks-dominate-203-how-they.html) <br/>
-[2026/10/26 - Son Heung-min Goal Controversy! A Full Breakdown of El Tráfico’s 2–2 Draw](https://ai.trend.dmomo.co.kr/2026/10/son-heung-min-goal-controversy-full.html) <br/>
-[2026/10/26 - Could It Change the Game for Robotics AI? Harvest Praxis Hyper AI Brain Integrates Everything from Perception to Motion Control on a Single Chip](https://ai.trend.dmomo.co.kr/2026/10/could-it-change-game-for-robotics-ai.html) <br/>
-[2026/10/26 - What Will Decide Game 1 of the 2026 KIA Tigers–Samsung Lions Playoffs?](https://ai.trend.dmomo.co.kr/2026/10/what-will-decide-game-1-of-2026-kia.html) <br/>
-[2026/10/26 - Detroit Lions Beat the Packers 20–17 in a Game-Changing NFC North Showdown](https://ai.trend.dmomo.co.kr/2026/10/detroit-lions-beat-packers-2017-in-game.html) <br/>
+[2026/10/27 - Eagles’ Season in Crisis After Fifth Straight Loss, as Hurts’ Absence and Defensive Collapse Take Their Toll](https://ai.trend.dmomo.co.kr/2026/10/eagles-season-in-crisis-after-fifth.html) <br/>
+[2026/10/27 - Fall 2026 Blue Crab Prices Soar 92%—Should You Buy Now?](https://ai.trend.dmomo.co.kr/2026/10/fall-2026-blue-crab-prices-soar.html) <br/>
+[2026/10/27 - Key Stock Market Trends for 2026: A Deep Dive into AI, Semiconductors, Trading Volume, and More](https://ai.trend.dmomo.co.kr/2026/10/key-stock-market-trends-for-2026-deep.html) <br/>
+[2026/10/27 - Will Curry Return? A Complete Warriors vs. Nuggets Matchup Breakdown and Prediction](https://ai.trend.dmomo.co.kr/2026/10/will-curry-return-complete-warriors-vs.html) <br/>
+[2026/10/27 - How GitHub Package Firewall Is Changing DevOps Security: Securing npm Installs for AI Agents and CI](https://ai.trend.dmomo.co.kr/2026/10/how-github-package-firewall-is-changing.html) <br/>
+[2026/10/27 - Harry Kane Wins His First Ballon d’Or in 2026! How Did He Beat Mbappé and Yamal?](https://ai.trend.dmomo.co.kr/2026/10/harry-kane-wins-his-first-ballon-dor-in.html) <br/>
