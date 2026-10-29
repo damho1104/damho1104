@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/27 - Eagles 5연패 추락, Hurts 부재와 수비 붕괴가 부른 시즌 위기](https://blog.ai.dmomo.co.kr/trend/36333) <br/>
-[2026/10/27 - 2026년 가을 꽃게 가격 92% 폭등, 지금 사도 될까?](https://blog.ai.dmomo.co.kr/trend/36331) <br/>
-[2026/10/27 - 커리 복귀해도 될까? 워리어스 vs 너기츠 승부 전망 완벽 분석](https://blog.ai.dmomo.co.kr/trend/36312) <br/>
-[2026/10/27 - 2026년 주가 핵심 트렌드: AI·반도체부터 거래대금까지 완벽 분석](https://blog.ai.dmomo.co.kr/trend/36310) <br/>
-[2026/10/27 - GitHub Package Firewall이 바꾸는 DevOps 보안: AI 에이전트와 CI의 npm 설치를 지키는 법](https://blog.ai.dmomo.co.kr/tech/36285) <br/>
+[2026/10/28 - 승리 혼인신고 완료, 아내 임신 중…혼전임신설은 부인](https://blog.ai.dmomo.co.kr/trend/36402) <br/>
+[2026/10/28 - 밀워키 브루어스 3연승! 소규모 시장 팀의 첫 월드시리즈 우승 눈앞](https://blog.ai.dmomo.co.kr/trend/36384) <br/>
+[2026/10/28 - 승리 결혼·출산 소식, 왜 대중은 아직 차갑게 반응할까?](https://blog.ai.dmomo.co.kr/trend/36382) <br/>
+[2026/10/28 - 이더리움 EIP-7999 다차원 수수료란? 실행 처리량 최대 34% 높이는 차세대 가스 모델](https://blog.ai.dmomo.co.kr/tech/36356) <br/>
+[2026/10/28 - AI 진단부터 유전자 치료까지, 2026 암 치료 트렌드 총정리](https://blog.ai.dmomo.co.kr/trend/36355) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/10/27 - Eagles’ Season in Crisis After Fifth Straight Loss, as Hurts’ Absence and Defensive Collapse Take Their Toll](https://ai.trend.dmomo.co.kr/2026/10/eagles-season-in-crisis-after-fifth.html) <br/>
-[2026/10/27 - Fall 2026 Blue Crab Prices Soar 92%—Should You Buy Now?](https://ai.trend.dmomo.co.kr/2026/10/fall-2026-blue-crab-prices-soar.html) <br/>
-[2026/10/27 - Key Stock Market Trends for 2026: A Deep Dive into AI, Semiconductors, Trading Volume, and More](https://ai.trend.dmomo.co.kr/2026/10/key-stock-market-trends-for-2026-deep.html) <br/>
-[2026/10/27 - Will Curry Return? A Complete Warriors vs. Nuggets Matchup Breakdown and Prediction](https://ai.trend.dmomo.co.kr/2026/10/will-curry-return-complete-warriors-vs.html) <br/>
-[2026/10/27 - How GitHub Package Firewall Is Changing DevOps Security: Securing npm Installs for AI Agents and CI](https://ai.trend.dmomo.co.kr/2026/10/how-github-package-firewall-is-changing.html) <br/>
-[2026/10/27 - Harry Kane Wins His First Ballon d’Or in 2026! How Did He Beat Mbappé and Yamal?](https://ai.trend.dmomo.co.kr/2026/10/harry-kane-wins-his-first-ballon-dor-in.html) <br/>
+[2026/10/28 - Seungri Registers His Marriage as Wife Is Pregnant… Denies Premarital Pregnancy Rumors](https://ai.trend.dmomo.co.kr/2026/10/seungri-registers-his-marriage-as-wife.html) <br/>
+[2026/10/28 - Milwaukee Brewers Win Three Straight, Closing In on a Historic First World Series Title for a Small-Market Team](https://ai.trend.dmomo.co.kr/2026/10/milwaukee-brewers-win-three-straight.html) <br/>
+[2026/10/28 - Seungri’s Marriage and Baby News: Why Is the Public Still So Cold?](https://ai.trend.dmomo.co.kr/2026/10/seungris-marriage-and-baby-news-why-is.html) <br/>
+[2026/10/28 - What Is Ethereum’s EIP-7999 Multidimensional Fee Model? A Next-Generation Gas Model That Boosts Execution Throughput by Up to 34%](https://ai.trend.dmomo.co.kr/2026/10/what-is-ethereums-eip-7999.html) <br/>
+[2026/10/28 - 2026 Cancer Treatment Trends: From AI-Powered Diagnosis to Gene Therapy](https://ai.trend.dmomo.co.kr/2026/10/2026-cancer-treatment-trends-from-ai.html) <br/>
+[2026/10/28 - Susan Saint James Dies at 80, Leaving a Legacy from the Golden Age of American Television](https://ai.trend.dmomo.co.kr/2026/10/susan-saint-james-dies-at-80-leaving.html) <br/>
