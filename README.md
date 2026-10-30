@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/28 - 승리 혼인신고 완료, 아내 임신 중…혼전임신설은 부인](https://blog.ai.dmomo.co.kr/trend/36402) <br/>
-[2026/10/28 - 밀워키 브루어스 3연승! 소규모 시장 팀의 첫 월드시리즈 우승 눈앞](https://blog.ai.dmomo.co.kr/trend/36384) <br/>
-[2026/10/28 - 승리 결혼·출산 소식, 왜 대중은 아직 차갑게 반응할까?](https://blog.ai.dmomo.co.kr/trend/36382) <br/>
-[2026/10/28 - 이더리움 EIP-7999 다차원 수수료란? 실행 처리량 최대 34% 높이는 차세대 가스 모델](https://blog.ai.dmomo.co.kr/tech/36356) <br/>
-[2026/10/28 - AI 진단부터 유전자 치료까지, 2026 암 치료 트렌드 총정리](https://blog.ai.dmomo.co.kr/trend/36355) <br/>
+[2026/10/29 - 닉스, 19점 차 뒤집고 역전승…브런슨 38득점의 기적](https://blog.ai.dmomo.co.kr/trend/36478) <br/>
+[2026/10/29 - KIA vs 삼성 플레이오프 3차전, 홈 강세 vs 장타력 승자는?](https://blog.ai.dmomo.co.kr/trend/36476) <br/>
+[2026/10/29 - 웸반야마 36득점 폭발! 스퍼스, 연장 접전 끝에 재즈 꺾고 3연승](https://blog.ai.dmomo.co.kr/trend/36457) <br/>
+[2026/10/29 - 김혜수 56세 건강 비결: 수중 코어 운동부터 남산 산책까지](https://blog.ai.dmomo.co.kr/trend/36455) <br/>
+[2026/10/29 - Oracle OCI에 Cerebras AI 추론 탑재, GPU보다 빨라질까? 2027년 출시 전망](https://blog.ai.dmomo.co.kr/tech/36430) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/10/28 - Seungri Registers His Marriage as Wife Is Pregnant… Denies Premarital Pregnancy Rumors](https://ai.trend.dmomo.co.kr/2026/10/seungri-registers-his-marriage-as-wife.html) <br/>
-[2026/10/28 - Milwaukee Brewers Win Three Straight, Closing In on a Historic First World Series Title for a Small-Market Team](https://ai.trend.dmomo.co.kr/2026/10/milwaukee-brewers-win-three-straight.html) <br/>
-[2026/10/28 - Seungri’s Marriage and Baby News: Why Is the Public Still So Cold?](https://ai.trend.dmomo.co.kr/2026/10/seungris-marriage-and-baby-news-why-is.html) <br/>
-[2026/10/28 - What Is Ethereum’s EIP-7999 Multidimensional Fee Model? A Next-Generation Gas Model That Boosts Execution Throughput by Up to 34%](https://ai.trend.dmomo.co.kr/2026/10/what-is-ethereums-eip-7999.html) <br/>
-[2026/10/28 - 2026 Cancer Treatment Trends: From AI-Powered Diagnosis to Gene Therapy](https://ai.trend.dmomo.co.kr/2026/10/2026-cancer-treatment-trends-from-ai.html) <br/>
-[2026/10/28 - Susan Saint James Dies at 80, Leaving a Legacy from the Golden Age of American Television](https://ai.trend.dmomo.co.kr/2026/10/susan-saint-james-dies-at-80-leaving.html) <br/>
+[2026/10/29 - Knicks Erase 19-Point Deficit for Comeback Win in Brunson’s 38-Point Miracle](https://ai.trend.dmomo.co.kr/2026/10/knicks-erase-19-point-deficit-for.html) <br/>
+[2026/10/29 - KIA vs. Samsung: Game 3 of the Playoffs—Will Home-Field Advantage or Power Hitting Prevail?](https://ai.trend.dmomo.co.kr/2026/10/kia-vs-samsung-game-3-of-playoffswill.html) <br/>
+[2026/10/29 - Wembanyama Erupts for 36 as Spurs Outlast Jazz in OT for Third Straight Win](https://ai.trend.dmomo.co.kr/2026/10/wembanyama-erupts-for-36-as-spurs.html) <br/>
+[2026/10/29 - Kim Hye-soo’s Secrets to Staying Healthy at 56: From Water-Based Core Workouts to Walks on Namsan Hill](https://ai.trend.dmomo.co.kr/2026/10/kim-hye-soos-secrets-to-staying-healthy.html) <br/>
+[2026/10/29 - Oracle OCI to Integrate Cerebras AI Inference: Could It Be Faster Than GPUs? Launch Expected in 2027](https://ai.trend.dmomo.co.kr/2026/10/oracle-oci-to-integrate-cerebras-ai.html) <br/>
+[2026/10/29 - Liverpool vs. Chelsea: Who Will Win the Carabao Cup Shootout? Quarter-Final Decider Analysis](https://ai.trend.dmomo.co.kr/2026/10/liverpool-vs-chelsea-who-will-win.html) <br/>
