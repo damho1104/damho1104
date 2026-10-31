@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/10/30 - Solana Alpenglow란? 12초 최종성을 150ms로 줄이는 합의 프로토콜의 핵심 기술과 과제](https://blog.ai.dmomo.co.kr/tech/36505) <br/>
+[2026/10/30 - 국민 아버지 최불암 별세, 67년 연기 인생이 남긴 유산](https://blog.ai.dmomo.co.kr/trend/36503) <br/>
+[2026/10/30 - 패트릭 스튜어트 별세, 피카드 선장과 프로페서 X가 남긴 위대한 유산](https://blog.ai.dmomo.co.kr/trend/36501) <br/>
 [2026/10/29 - 닉스, 19점 차 뒤집고 역전승…브런슨 38득점의 기적](https://blog.ai.dmomo.co.kr/trend/36478) <br/>
 [2026/10/29 - KIA vs 삼성 플레이오프 3차전, 홈 강세 vs 장타력 승자는?](https://blog.ai.dmomo.co.kr/trend/36476) <br/>
-[2026/10/29 - 웸반야마 36득점 폭발! 스퍼스, 연장 접전 끝에 재즈 꺾고 3연승](https://blog.ai.dmomo.co.kr/trend/36457) <br/>
-[2026/10/29 - 김혜수 56세 건강 비결: 수중 코어 운동부터 남산 산책까지](https://blog.ai.dmomo.co.kr/trend/36455) <br/>
-[2026/10/29 - Oracle OCI에 Cerebras AI 추론 탑재, GPU보다 빨라질까? 2027년 출시 전망](https://blog.ai.dmomo.co.kr/tech/36430) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/10/30 - What Is Solana Alpenglow? The Key Technologies and Challenges Behind a Consensus Protocol That Cuts Finality from 12 Seconds to 150 Milliseconds](https://ai.trend.dmomo.co.kr/2026/10/what-is-solana-alpenglow-key.html) <br/>
+[2026/10/30 - Korea’s Beloved Father Figure Choi Bool-am Dies, Leaving Behind a 67-Year Acting Legacy](https://ai.trend.dmomo.co.kr/2026/10/koreas-beloved-father-figure-choi-bool.html) <br/>
+[2026/10/30 - Patrick Stewart’s Passing: The Enduring Legacy of Captain Picard and Professor X](https://ai.trend.dmomo.co.kr/2026/10/patrick-stewarts-passing-enduring.html) <br/>
 [2026/10/29 - Knicks Erase 19-Point Deficit for Comeback Win in Brunson’s 38-Point Miracle](https://ai.trend.dmomo.co.kr/2026/10/knicks-erase-19-point-deficit-for.html) <br/>
 [2026/10/29 - KIA vs. Samsung: Game 3 of the Playoffs—Will Home-Field Advantage or Power Hitting Prevail?](https://ai.trend.dmomo.co.kr/2026/10/kia-vs-samsung-game-3-of-playoffswill.html) <br/>
 [2026/10/29 - Wembanyama Erupts for 36 as Spurs Outlast Jazz in OT for Third Straight Win](https://ai.trend.dmomo.co.kr/2026/10/wembanyama-erupts-for-36-as-spurs.html) <br/>
-[2026/10/29 - Kim Hye-soo’s Secrets to Staying Healthy at 56: From Water-Based Core Workouts to Walks on Namsan Hill](https://ai.trend.dmomo.co.kr/2026/10/kim-hye-soos-secrets-to-staying-healthy.html) <br/>
-[2026/10/29 - Oracle OCI to Integrate Cerebras AI Inference: Could It Be Faster Than GPUs? Launch Expected in 2027](https://ai.trend.dmomo.co.kr/2026/10/oracle-oci-to-integrate-cerebras-ai.html) <br/>
-[2026/10/29 - Liverpool vs. Chelsea: Who Will Win the Carabao Cup Shootout? Quarter-Final Decider Analysis](https://ai.trend.dmomo.co.kr/2026/10/liverpool-vs-chelsea-who-will-win.html) <br/>
