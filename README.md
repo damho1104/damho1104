@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/10/30 - Solana Alpenglow란? 12초 최종성을 150ms로 줄이는 합의 프로토콜의 핵심 기술과 과제](https://blog.ai.dmomo.co.kr/tech/36505) <br/>
-[2026/10/30 - 국민 아버지 최불암 별세, 67년 연기 인생이 남긴 유산](https://blog.ai.dmomo.co.kr/trend/36503) <br/>
-[2026/10/30 - 패트릭 스튜어트 별세, 피카드 선장과 프로페서 X가 남긴 위대한 유산](https://blog.ai.dmomo.co.kr/trend/36501) <br/>
-[2026/10/29 - 닉스, 19점 차 뒤집고 역전승…브런슨 38득점의 기적](https://blog.ai.dmomo.co.kr/trend/36478) <br/>
-[2026/10/29 - KIA vs 삼성 플레이오프 3차전, 홈 강세 vs 장타력 승자는?](https://blog.ai.dmomo.co.kr/trend/36476) <br/>
+[2026/11/01 - AI 코딩 도구의 배신: 개발자들이 확장 프로그램 백도어에 분노한 이유](https://blog.ai.dmomo.co.kr/ai/36607) <br/>
+[2026/10/31 - 2026년 10월 주식시장 핵심 전략: AI·레버리지ETF·분산투자 완벽 정리](https://blog.ai.dmomo.co.kr/trend/36598) <br/>
+[2026/10/31 - Lakers vs Warriors NBA Cup 2026: 루카 vs 커리, 누가 웃었나?](https://blog.ai.dmomo.co.kr/trend/36580) <br/>
+[2026/10/31 - 2026 전기차 시장 대변화: 수익성·자율주행·하이브리드 경쟁의 모든 것](https://blog.ai.dmomo.co.kr/trend/36555) <br/>
+[2026/10/31 - Mistral Large 4 공개, 1조 파라미터 오픈 웨이트 AI의 코딩·보안 성능은?](https://blog.ai.dmomo.co.kr/tech/36554) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/10/31 - October 2026 Stock Market Playbook: A Complete Guide to AI, Leveraged ETFs, and Diversification](https://ai.trend.dmomo.co.kr/2026/10/october-2026-stock-market-playbook.html) <br/>
+[2026/10/31 - Lakers vs. Warriors in the 2026 NBA Cup: Luka vs. Curry—Who Came Out on Top?](https://ai.trend.dmomo.co.kr/2026/10/lakers-vs-warriors-in-2026-nba-cup-luka.html) <br/>
+[2026/10/31 - The 2026 EV Market Shake-Up: Profitability, Self-Driving, and the Hybrid Showdown](https://ai.trend.dmomo.co.kr/2026/10/the-2026-ev-market-shake-up.html) <br/>
+[2026/10/31 - Mistral Large 4 Unveiled: How Does the 1-Trillion-Parameter Open-Weight AI Stack Up in Coding and Security?](https://ai.trend.dmomo.co.kr/2026/10/mistral-large-4-unveiled-how-does-1.html) <br/>
+[2026/10/31 - Knicks vs. 76ers: NBA Cup Showdown and How Brown’s Absence Could Shift the Balance of Power](https://ai.trend.dmomo.co.kr/2026/10/knicks-vs-76ers-nba-cup-showdown-and.html) <br/>
 [2026/10/30 - What Is Solana Alpenglow? The Key Technologies and Challenges Behind a Consensus Protocol That Cuts Finality from 12 Seconds to 150 Milliseconds](https://ai.trend.dmomo.co.kr/2026/10/what-is-solana-alpenglow-key.html) <br/>
-[2026/10/30 - Korea’s Beloved Father Figure Choi Bool-am Dies, Leaving Behind a 67-Year Acting Legacy](https://ai.trend.dmomo.co.kr/2026/10/koreas-beloved-father-figure-choi-bool.html) <br/>
-[2026/10/30 - Patrick Stewart’s Passing: The Enduring Legacy of Captain Picard and Professor X](https://ai.trend.dmomo.co.kr/2026/10/patrick-stewarts-passing-enduring.html) <br/>
-[2026/10/29 - Knicks Erase 19-Point Deficit for Comeback Win in Brunson’s 38-Point Miracle](https://ai.trend.dmomo.co.kr/2026/10/knicks-erase-19-point-deficit-for.html) <br/>
-[2026/10/29 - KIA vs. Samsung: Game 3 of the Playoffs—Will Home-Field Advantage or Power Hitting Prevail?](https://ai.trend.dmomo.co.kr/2026/10/kia-vs-samsung-game-3-of-playoffswill.html) <br/>
-[2026/10/29 - Wembanyama Erupts for 36 as Spurs Outlast Jazz in OT for Third Straight Win](https://ai.trend.dmomo.co.kr/2026/10/wembanyama-erupts-for-36-as-spurs.html) <br/>
