@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/01 - AI 코딩 도구의 배신: 개발자들이 확장 프로그램 백도어에 분노한 이유](https://blog.ai.dmomo.co.kr/ai/36607) <br/>
-[2026/10/31 - 2026년 10월 주식시장 핵심 전략: AI·레버리지ETF·분산투자 완벽 정리](https://blog.ai.dmomo.co.kr/trend/36598) <br/>
-[2026/10/31 - Lakers vs Warriors NBA Cup 2026: 루카 vs 커리, 누가 웃었나?](https://blog.ai.dmomo.co.kr/trend/36580) <br/>
-[2026/10/31 - 2026 전기차 시장 대변화: 수익성·자율주행·하이브리드 경쟁의 모든 것](https://blog.ai.dmomo.co.kr/trend/36555) <br/>
-[2026/10/31 - Mistral Large 4 공개, 1조 파라미터 오픈 웨이트 AI의 코딩·보안 성능은?](https://blog.ai.dmomo.co.kr/tech/36554) <br/>
+[2026/11/01 - 2026년 미국 썸머타임 종료 완벽 정리: 건강·경제 영향과 폐지 논란](https://blog.ai.dmomo.co.kr/trend/36661) <br/>
+[2026/11/01 - USC가 No.2 오하이오 주립을 30-18로 꺾은 2026시즌 최대 이변](https://blog.ai.dmomo.co.kr/trend/36646) <br/>
+[2026/11/01 - 김용건이 최불암 빈소에 못 간 진짜 이유, 전원일기 22년 부자의 사연](https://blog.ai.dmomo.co.kr/trend/36644) <br/>
+[2026/11/01 - 2026년 최신 Serverless 기술 SPES-Ext, 콜드 스타트 80% 줄이는 스케줄러란?](https://blog.ai.dmomo.co.kr/tech/36619) <br/>
+[2026/11/01 - 11월 첫날 전국 비 소식과 초겨울 추위 대비법 총정리](https://blog.ai.dmomo.co.kr/trend/36617) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/10/31 - October 2026 Stock Market Playbook: A Complete Guide to AI, Leveraged ETFs, and Diversification](https://ai.trend.dmomo.co.kr/2026/10/october-2026-stock-market-playbook.html) <br/>
-[2026/10/31 - Lakers vs. Warriors in the 2026 NBA Cup: Luka vs. Curry—Who Came Out on Top?](https://ai.trend.dmomo.co.kr/2026/10/lakers-vs-warriors-in-2026-nba-cup-luka.html) <br/>
-[2026/10/31 - The 2026 EV Market Shake-Up: Profitability, Self-Driving, and the Hybrid Showdown](https://ai.trend.dmomo.co.kr/2026/10/the-2026-ev-market-shake-up.html) <br/>
-[2026/10/31 - Mistral Large 4 Unveiled: How Does the 1-Trillion-Parameter Open-Weight AI Stack Up in Coding and Security?](https://ai.trend.dmomo.co.kr/2026/10/mistral-large-4-unveiled-how-does-1.html) <br/>
-[2026/10/31 - Knicks vs. 76ers: NBA Cup Showdown and How Brown’s Absence Could Shift the Balance of Power](https://ai.trend.dmomo.co.kr/2026/10/knicks-vs-76ers-nba-cup-showdown-and.html) <br/>
-[2026/10/30 - What Is Solana Alpenglow? The Key Technologies and Challenges Behind a Consensus Protocol That Cuts Finality from 12 Seconds to 150 Milliseconds](https://ai.trend.dmomo.co.kr/2026/10/what-is-solana-alpenglow-key.html) <br/>
+[2026/11/01 - The 2026 End of Daylight Saving Time in the U.S.: Health and Economic Impacts—and the Debate Over Ending It](https://ai.trend.dmomo.co.kr/2026/11/the-2026-end-of-daylight-saving-time-in.html) <br/>
+[2026/11/01 - USC Stuns No. 2 Ohio State 30–18 in the Biggest Upset of the 2026 Season](https://ai.trend.dmomo.co.kr/2026/10/usc-stuns-no-2-ohio-state-3018-in.html) <br/>
+[2026/11/01 - The Real Reason Kim Yong-geon Couldn’t Attend Choi Bul-am’s Funeral — The 22-Year Father-Son Story Behind *Country Diaries*](https://ai.trend.dmomo.co.kr/2026/10/the-real-reason-kim-yong-geon-couldnt.html) <br/>
+[2026/11/01 - 2026’s Latest Serverless Technology: What Is SPES-Ext, the Scheduler That Cuts Cold Starts by 80%?](https://ai.trend.dmomo.co.kr/2026/10/2026s-latest-serverless-technology-what.html) <br/>
+[2026/11/01 - Rain Across Korea on November 1: How to Prepare for the Early-Winter Chill](https://ai.trend.dmomo.co.kr/2026/10/rain-across-korea-on-november-1-how-to.html) <br/>
+[2026/11/01 - 2026 Florida vs. Georgia in Atlanta: Rivalry Game Results and What a Six-Game Winning Streak Means](https://ai.trend.dmomo.co.kr/2026/10/2026-florida-vs-georgia-in-atlanta.html) <br/>
