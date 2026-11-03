@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/01 - 2026년 미국 썸머타임 종료 완벽 정리: 건강·경제 영향과 폐지 논란](https://blog.ai.dmomo.co.kr/trend/36661) <br/>
-[2026/11/01 - USC가 No.2 오하이오 주립을 30-18로 꺾은 2026시즌 최대 이변](https://blog.ai.dmomo.co.kr/trend/36646) <br/>
-[2026/11/01 - 김용건이 최불암 빈소에 못 간 진짜 이유, 전원일기 22년 부자의 사연](https://blog.ai.dmomo.co.kr/trend/36644) <br/>
-[2026/11/01 - 2026년 최신 Serverless 기술 SPES-Ext, 콜드 스타트 80% 줄이는 스케줄러란?](https://blog.ai.dmomo.co.kr/tech/36619) <br/>
-[2026/11/01 - 11월 첫날 전국 비 소식과 초겨울 추위 대비법 총정리](https://blog.ai.dmomo.co.kr/trend/36617) <br/>
+[2026/11/02 - 2026년 한국 중산층 붕괴 경고, 소득 감소 38.9%의 충격](https://blog.ai.dmomo.co.kr/trend/36727) <br/>
+[2026/11/02 - 디트로이트 라이언스 잭 캠벨, 목 부상으로 들것 이송…복귀 불투명](https://blog.ai.dmomo.co.kr/trend/36712) <br/>
+[2026/11/02 - LAFC vs 미네소타, 3-1 충격패…MLS 플레이오프 판도는?](https://blog.ai.dmomo.co.kr/trend/36710) <br/>
+[2026/11/02 - 2026 미국 원주민 유산의 달, 단순 기념을 넘어 주권·현대 정체성을 말하다](https://blog.ai.dmomo.co.kr/trend/36685) <br/>
+[2026/11/02 - HiRAG란? 기업용 RAG 검색 정확도 14.5%p 향상·지연시간 28% 단축 비결](https://blog.ai.dmomo.co.kr/tech/36683) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/11/01 - The 2026 End of Daylight Saving Time in the U.S.: Health and Economic Impacts—and the Debate Over Ending It](https://ai.trend.dmomo.co.kr/2026/11/the-2026-end-of-daylight-saving-time-in.html) <br/>
-[2026/11/01 - USC Stuns No. 2 Ohio State 30–18 in the Biggest Upset of the 2026 Season](https://ai.trend.dmomo.co.kr/2026/10/usc-stuns-no-2-ohio-state-3018-in.html) <br/>
-[2026/11/01 - The Real Reason Kim Yong-geon Couldn’t Attend Choi Bul-am’s Funeral — The 22-Year Father-Son Story Behind *Country Diaries*](https://ai.trend.dmomo.co.kr/2026/10/the-real-reason-kim-yong-geon-couldnt.html) <br/>
-[2026/11/01 - 2026’s Latest Serverless Technology: What Is SPES-Ext, the Scheduler That Cuts Cold Starts by 80%?](https://ai.trend.dmomo.co.kr/2026/10/2026s-latest-serverless-technology-what.html) <br/>
-[2026/11/01 - Rain Across Korea on November 1: How to Prepare for the Early-Winter Chill](https://ai.trend.dmomo.co.kr/2026/10/rain-across-korea-on-november-1-how-to.html) <br/>
-[2026/11/01 - 2026 Florida vs. Georgia in Atlanta: Rivalry Game Results and What a Six-Game Winning Streak Means](https://ai.trend.dmomo.co.kr/2026/10/2026-florida-vs-georgia-in-atlanta.html) <br/>
+[2026/11/02 - 2026 Warning: Korea’s Middle Class Is Crumbling as Incomes Plunge by 38.9%](https://ai.trend.dmomo.co.kr/2026/11/2026-warning-koreas-middle-class-is.html) <br/>
+[2026/11/02 - LAFC Suffer Shock 3-1 Loss to Minnesota: What It Means for the MLS Playoff Picture](https://ai.trend.dmomo.co.kr/2026/11/lafc-suffer-shock-3-1-loss-to-minnesota.html) <br/>
+[2026/11/02 - Detroit Lions’ Jack Campbell Stretchered Off With Neck Injury; Return Status Uncertain](https://ai.trend.dmomo.co.kr/2026/11/detroit-lions-jack-campbell-stretchered.html) <br/>
+[2026/11/02 - 2026 Native American Heritage Month: Beyond Celebration, Exploring Sovereignty and Contemporary Identity](https://ai.trend.dmomo.co.kr/2026/11/2026-native-american-heritage-month.html) <br/>
+[2026/11/02 - What Is HiRAG? How It Improves Enterprise RAG Search Accuracy by 14.5 Percentage Points and Cuts Latency by 28%](https://ai.trend.dmomo.co.kr/2026/11/what-is-hirag-how-it-improves.html) <br/>
+[2026/11/02 - Why Kim Yong-gun Missed Choi Bul-am’s Funeral as Ha Jung-woo’s Wedding Approached](https://ai.trend.dmomo.co.kr/2026/11/why-kim-yong-gun-missed-choi-bul-ams.html) <br/>
