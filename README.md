@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/02 - 2026년 한국 중산층 붕괴 경고, 소득 감소 38.9%의 충격](https://blog.ai.dmomo.co.kr/trend/36727) <br/>
-[2026/11/02 - 디트로이트 라이언스 잭 캠벨, 목 부상으로 들것 이송…복귀 불투명](https://blog.ai.dmomo.co.kr/trend/36712) <br/>
-[2026/11/02 - LAFC vs 미네소타, 3-1 충격패…MLS 플레이오프 판도는?](https://blog.ai.dmomo.co.kr/trend/36710) <br/>
-[2026/11/02 - 2026 미국 원주민 유산의 달, 단순 기념을 넘어 주권·현대 정체성을 말하다](https://blog.ai.dmomo.co.kr/trend/36685) <br/>
-[2026/11/02 - HiRAG란? 기업용 RAG 검색 정확도 14.5%p 향상·지연시간 28% 단축 비결](https://blog.ai.dmomo.co.kr/tech/36683) <br/>
+[2026/11/03 - 2026 한국시리즈 삼성 vs KT, 승부를 가를 3가지 핵심 변수](https://blog.ai.dmomo.co.kr/trend/36796) <br/>
+[2026/11/03 - 시애틀 시호크스의 위기: JSN 의존도와 수비 불안이 부른 경고](https://blog.ai.dmomo.co.kr/trend/36778) <br/>
+[2026/11/03 - 플로리다 Learjet 추락 사고, 스타트업 CEO Adam Robinson 일가족 4명 사망](https://blog.ai.dmomo.co.kr/trend/36753) <br/>
+[2026/11/03 - MLOps-Bench란? AI 에이전트의 프로덕션 ML 운영 능력, 아직 31.2%만 완수한 이유](https://blog.ai.dmomo.co.kr/tech/36752) <br/>
+[2026/11/03 - 배우 vs 인플루언서 김지영, 조문 패션 논란과 출산 복귀 총정리](https://blog.ai.dmomo.co.kr/trend/36750) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/11/03 - 2026 Korean Series: Samsung vs. KT — 3 Key Factors That Could Decide the Championship](https://ai.trend.dmomo.co.kr/2026/11/2026-korean-series-samsung-vs-kt-3-key.html) <br/>
+[2026/11/03 - Seattle Seahawks in Crisis: Overreliance on JSN and Defensive Woes Raise Red Flags](https://ai.trend.dmomo.co.kr/2026/11/seattle-seahawks-in-crisis-overreliance.html) <br/>
+[2026/11/03 - What Is MLOps-Bench? Why AI Agents Have Completed Only 31.2% of Production MLOps Tasks](https://ai.trend.dmomo.co.kr/2026/11/what-is-mlops-bench-why-ai-agents-have.html) <br/>
+[2026/11/03 - Kim Ji-young: Actress or Influencer? The Funeral Outfit Controversy and Her Return After Giving Birth, Explained](https://ai.trend.dmomo.co.kr/2026/11/kim-ji-young-actress-or-influencer.html) <br/>
+[2026/11/03 - Florida Learjet Crash Kills Startup CEO Adam Robinson and Three Family Members](https://ai.trend.dmomo.co.kr/2026/11/florida-learjet-crash-kills-startup-ceo.html) <br/>
 [2026/11/02 - 2026 Warning: Korea’s Middle Class Is Crumbling as Incomes Plunge by 38.9%](https://ai.trend.dmomo.co.kr/2026/11/2026-warning-koreas-middle-class-is.html) <br/>
-[2026/11/02 - LAFC Suffer Shock 3-1 Loss to Minnesota: What It Means for the MLS Playoff Picture](https://ai.trend.dmomo.co.kr/2026/11/lafc-suffer-shock-3-1-loss-to-minnesota.html) <br/>
-[2026/11/02 - Detroit Lions’ Jack Campbell Stretchered Off With Neck Injury; Return Status Uncertain](https://ai.trend.dmomo.co.kr/2026/11/detroit-lions-jack-campbell-stretchered.html) <br/>
-[2026/11/02 - 2026 Native American Heritage Month: Beyond Celebration, Exploring Sovereignty and Contemporary Identity](https://ai.trend.dmomo.co.kr/2026/11/2026-native-american-heritage-month.html) <br/>
-[2026/11/02 - What Is HiRAG? How It Improves Enterprise RAG Search Accuracy by 14.5 Percentage Points and Cuts Latency by 28%](https://ai.trend.dmomo.co.kr/2026/11/what-is-hirag-how-it-improves.html) <br/>
-[2026/11/02 - Why Kim Yong-gun Missed Choi Bul-am’s Funeral as Ha Jung-woo’s Wedding Approached](https://ai.trend.dmomo.co.kr/2026/11/why-kim-yong-gun-missed-choi-bul-ams.html) <br/>
