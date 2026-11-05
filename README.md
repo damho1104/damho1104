@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/11/04 - 송중기, 가족 나들이부터 러브 클라우드까지 달라진 그의 모습](https://blog.ai.dmomo.co.kr/trend/36829) <br/>
+[2026/11/04 - Kubernetes 비용과 장애를 함께 줄이는 groundcover 자율 인프라, 무엇이 달라졌나?](https://blog.ai.dmomo.co.kr/tech/36805) <br/>
+[2026/11/04 - 2026년 미국 중간선거 결과, 트럼프 운명은 의회 장악에 달렸다](https://blog.ai.dmomo.co.kr/trend/36803) <br/>
+[2026/11/04 - BYD 비야디 PHEV, 전기차보다 현실적인 선택일까?](https://blog.ai.dmomo.co.kr/trend/36801) <br/>
 [2026/11/03 - 2026 한국시리즈 삼성 vs KT, 승부를 가를 3가지 핵심 변수](https://blog.ai.dmomo.co.kr/trend/36796) <br/>
-[2026/11/03 - 시애틀 시호크스의 위기: JSN 의존도와 수비 불안이 부른 경고](https://blog.ai.dmomo.co.kr/trend/36778) <br/>
-[2026/11/03 - 플로리다 Learjet 추락 사고, 스타트업 CEO Adam Robinson 일가족 4명 사망](https://blog.ai.dmomo.co.kr/trend/36753) <br/>
-[2026/11/03 - MLOps-Bench란? AI 에이전트의 프로덕션 ML 운영 능력, 아직 31.2%만 완수한 이유](https://blog.ai.dmomo.co.kr/tech/36752) <br/>
-[2026/11/03 - 배우 vs 인플루언서 김지영, 조문 패션 논란과 출산 복귀 총정리](https://blog.ai.dmomo.co.kr/trend/36750) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/11/04 - Song Joong-ki’s New Side: From Family Outings to “Love Cloud”](https://ai.trend.dmomo.co.kr/2026/11/song-joong-kis-new-side-from-family.html) <br/>
+[2026/11/04 - What’s Changed in groundcover’s Autonomous Infrastructure for Cutting Kubernetes Costs and Preventing Incidents?](https://ai.trend.dmomo.co.kr/2026/11/whats-changed-in-groundcovers.html) <br/>
+[2026/11/04 - 2026 U.S. Midterm Elections: Trump’s Fate Hinges on Who Controls Congress](https://ai.trend.dmomo.co.kr/2026/11/2026-us-midterm-elections-trumps-fate.html) <br/>
+[2026/11/04 - Are BYD Plug-In Hybrids a More Practical Choice Than EVs?](https://ai.trend.dmomo.co.kr/2026/11/are-byd-plug-in-hybrids-more-practical.html) <br/>
 [2026/11/03 - 2026 Korean Series: Samsung vs. KT — 3 Key Factors That Could Decide the Championship](https://ai.trend.dmomo.co.kr/2026/11/2026-korean-series-samsung-vs-kt-3-key.html) <br/>
 [2026/11/03 - Seattle Seahawks in Crisis: Overreliance on JSN and Defensive Woes Raise Red Flags](https://ai.trend.dmomo.co.kr/2026/11/seattle-seahawks-in-crisis-overreliance.html) <br/>
-[2026/11/03 - What Is MLOps-Bench? Why AI Agents Have Completed Only 31.2% of Production MLOps Tasks](https://ai.trend.dmomo.co.kr/2026/11/what-is-mlops-bench-why-ai-agents-have.html) <br/>
-[2026/11/03 - Kim Ji-young: Actress or Influencer? The Funeral Outfit Controversy and Her Return After Giving Birth, Explained](https://ai.trend.dmomo.co.kr/2026/11/kim-ji-young-actress-or-influencer.html) <br/>
-[2026/11/03 - Florida Learjet Crash Kills Startup CEO Adam Robinson and Three Family Members](https://ai.trend.dmomo.co.kr/2026/11/florida-learjet-crash-kills-startup-ceo.html) <br/>
-[2026/11/02 - 2026 Warning: Korea’s Middle Class Is Crumbling as Incomes Plunge by 38.9%](https://ai.trend.dmomo.co.kr/2026/11/2026-warning-koreas-middle-class-is.html) <br/>
