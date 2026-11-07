@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/11/06 - AI 에이전트 보안의 새 기준, ModelOp·NVIDIA OpenShell이 MLOps를 바꾸는 4가지 정책 통제층](https://blog.ai.dmomo.co.kr/tech/36922) <br/>
 [2026/11/05 - Habibi 뜻과 의미: 단순한 사랑 표현이 아닌 맥락의 언어](https://blog.ai.dmomo.co.kr/trend/36889) <br/>
 [2026/11/05 - 미시시피 상원 초접전, 65표 차이로 승자 미확정…결과는?](https://blog.ai.dmomo.co.kr/trend/36865) <br/>
 [2026/11/05 - AI 과학 에이전트, 실험을 스스로 설계할까? 성공률 67%의 의미](https://blog.ai.dmomo.co.kr/tech/36862) <br/>
 [2026/11/05 - 72시간 비상식량 준비법: 사재기 말고 이렇게 하세요](https://blog.ai.dmomo.co.kr/trend/36859) <br/>
-[2026/11/04 - 송중기, 가족 나들이부터 러브 클라우드까지 달라진 그의 모습](https://blog.ai.dmomo.co.kr/trend/36829) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/11/06 - How ModelOp and NVIDIA OpenShell Are Reshaping MLOps: 4 Policy Control Layers Setting a New Standard for AI Agent Security](https://ai.trend.dmomo.co.kr/2026/11/how-modelop-and-nvidia-openshell-are.html) <br/>
 [2026/11/05 - Habibi: What It Means and Why It’s More Than Just a Term of Endearment—it’s All About Context](https://ai.trend.dmomo.co.kr/2026/11/habibi-what-it-means-and-why-its-more.html) <br/>
 [2026/11/05 - Mississippi Senate Race Too Close to Call, With Just 65 Votes Separating the Candidates—Who Won?](https://ai.trend.dmomo.co.kr/2026/11/mississippi-senate-race-too-close-to.html) <br/>
 [2026/11/05 - Can AI Science Agents Design Their Own Experiments? What a 67% Success Rate Really Means](https://ai.trend.dmomo.co.kr/2026/11/can-ai-science-agents-design-their-own.html) <br/>
 [2026/11/05 - How to Build a 72-Hour Emergency Food Supply—Without Panic Buying](https://ai.trend.dmomo.co.kr/2026/11/how-to-build-72-hour-emergency-food.html) <br/>
 [2026/11/04 - Song Joong-ki’s New Side: From Family Outings to “Love Cloud”](https://ai.trend.dmomo.co.kr/2026/11/song-joong-kis-new-side-from-family.html) <br/>
-[2026/11/04 - What’s Changed in groundcover’s Autonomous Infrastructure for Cutting Kubernetes Costs and Preventing Incidents?](https://ai.trend.dmomo.co.kr/2026/11/whats-changed-in-groundcovers.html) <br/>
