@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/06 - AI 에이전트 보안의 새 기준, ModelOp·NVIDIA OpenShell이 MLOps를 바꾸는 4가지 정책 통제층](https://blog.ai.dmomo.co.kr/tech/36922) <br/>
-[2026/11/05 - Habibi 뜻과 의미: 단순한 사랑 표현이 아닌 맥락의 언어](https://blog.ai.dmomo.co.kr/trend/36889) <br/>
-[2026/11/05 - 미시시피 상원 초접전, 65표 차이로 승자 미확정…결과는?](https://blog.ai.dmomo.co.kr/trend/36865) <br/>
-[2026/11/05 - AI 과학 에이전트, 실험을 스스로 설계할까? 성공률 67%의 의미](https://blog.ai.dmomo.co.kr/tech/36862) <br/>
-[2026/11/05 - 72시간 비상식량 준비법: 사재기 말고 이렇게 하세요](https://blog.ai.dmomo.co.kr/trend/36859) <br/>
+[2026/11/08 - GPT-6 Astra, 안전성 연구에서 실제로 믿을 수 있을까?](https://blog.ai.dmomo.co.kr/ai/37022) <br/>
+[2026/11/07 - 심현섭 재기의 비밀: 15억 빚 딛고 늦깎이 결혼까지](https://blog.ai.dmomo.co.kr/trend/37013) <br/>
+[2026/11/07 - IoT 이상탐지 최신 기술, 적응형 자기지도학습으로 오경보 줄일 수 있을까?](https://blog.ai.dmomo.co.kr/tech/36979) <br/>
+[2026/11/07 - 중간선거 패배 후 트럼프가 스티븐 밀러를 비서실장에 앉힌 이유](https://blog.ai.dmomo.co.kr/trend/36977) <br/>
+[2026/11/07 - 2026 KBO 한국시리즈 4차전 승부 가를 3가지 핵심 변수](https://blog.ai.dmomo.co.kr/trend/36975) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/11/07 - Shim Hyun-seob’s Comeback: From ₩1.5 Billion in Debt to Marriage Later in Life](https://ai.trend.dmomo.co.kr/2026/11/shim-hyun-seobs-comeback-from-15.html) <br/>
+[2026/11/07 - The Latest in IoT Anomaly Detection: Can Adaptive Self-Supervised Learning Reduce False Alarms?](https://ai.trend.dmomo.co.kr/2026/11/the-latest-in-iot-anomaly-detection-can.html) <br/>
+[2026/11/07 - Why Trump Made Stephen Miller His Chief of Staff After Losing the Midterms](https://ai.trend.dmomo.co.kr/2026/11/why-trump-made-stephen-miller-his-chief.html) <br/>
+[2026/11/07 - 3 Key Factors That Could Decide Game 4 of the 2026 KBO Korean Series](https://ai.trend.dmomo.co.kr/2026/11/3-key-factors-that-could-decide-game-4.html) <br/>
 [2026/11/06 - How ModelOp and NVIDIA OpenShell Are Reshaping MLOps: 4 Policy Control Layers Setting a New Standard for AI Agent Security](https://ai.trend.dmomo.co.kr/2026/11/how-modelop-and-nvidia-openshell-are.html) <br/>
 [2026/11/05 - Habibi: What It Means and Why It’s More Than Just a Term of Endearment—it’s All About Context](https://ai.trend.dmomo.co.kr/2026/11/habibi-what-it-means-and-why-its-more.html) <br/>
-[2026/11/05 - Mississippi Senate Race Too Close to Call, With Just 65 Votes Separating the Candidates—Who Won?](https://ai.trend.dmomo.co.kr/2026/11/mississippi-senate-race-too-close-to.html) <br/>
-[2026/11/05 - Can AI Science Agents Design Their Own Experiments? What a 67% Success Rate Really Means](https://ai.trend.dmomo.co.kr/2026/11/can-ai-science-agents-design-their-own.html) <br/>
-[2026/11/05 - How to Build a 72-Hour Emergency Food Supply—Without Panic Buying](https://ai.trend.dmomo.co.kr/2026/11/how-to-build-72-hour-emergency-food.html) <br/>
-[2026/11/04 - Song Joong-ki’s New Side: From Family Outings to “Love Cloud”](https://ai.trend.dmomo.co.kr/2026/11/song-joong-kis-new-side-from-family.html) <br/>
