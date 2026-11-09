@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/08 - GPT-6 Astra, 안전성 연구에서 실제로 믿을 수 있을까?](https://blog.ai.dmomo.co.kr/ai/37022) <br/>
-[2026/11/07 - 심현섭 재기의 비밀: 15억 빚 딛고 늦깎이 결혼까지](https://blog.ai.dmomo.co.kr/trend/37013) <br/>
-[2026/11/07 - IoT 이상탐지 최신 기술, 적응형 자기지도학습으로 오경보 줄일 수 있을까?](https://blog.ai.dmomo.co.kr/tech/36979) <br/>
-[2026/11/07 - 중간선거 패배 후 트럼프가 스티븐 밀러를 비서실장에 앉힌 이유](https://blog.ai.dmomo.co.kr/trend/36977) <br/>
-[2026/11/07 - 2026 KBO 한국시리즈 4차전 승부 가를 3가지 핵심 변수](https://blog.ai.dmomo.co.kr/trend/36975) <br/>
+[2026/11/08 - 트럼프, UFC CEO Dana White에게 백악관 대변인직 제안…수락할까?](https://blog.ai.dmomo.co.kr/trend/37076) <br/>
+[2026/11/08 - SK하이닉스 2026년 전망: HBM 독주와 주가 변동성의 진실](https://blog.ai.dmomo.co.kr/trend/37074) <br/>
+[2026/11/08 - 노틀담, 1위 마이애미 31-24 격파…CFP 판도 뒤집은 대이변](https://blog.ai.dmomo.co.kr/trend/37055) <br/>
+[2026/11/08 - 시애틀 사운더스, LAFC 2-1 꺾고 극적 플레이오프 진출 확정](https://blog.ai.dmomo.co.kr/trend/37053) <br/>
+[2026/11/08 - Matter 1.5 카메라가 바꾸는 스마트홈, 제조사 앱 없이 영상·자동화까지 가능할까?](https://blog.ai.dmomo.co.kr/tech/37034) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/11/07 - Shim Hyun-seob’s Comeback: From ₩1.5 Billion in Debt to Marriage Later in Life](https://ai.trend.dmomo.co.kr/2026/11/shim-hyun-seobs-comeback-from-15.html) <br/>
-[2026/11/07 - The Latest in IoT Anomaly Detection: Can Adaptive Self-Supervised Learning Reduce False Alarms?](https://ai.trend.dmomo.co.kr/2026/11/the-latest-in-iot-anomaly-detection-can.html) <br/>
-[2026/11/07 - Why Trump Made Stephen Miller His Chief of Staff After Losing the Midterms](https://ai.trend.dmomo.co.kr/2026/11/why-trump-made-stephen-miller-his-chief.html) <br/>
-[2026/11/07 - 3 Key Factors That Could Decide Game 4 of the 2026 KBO Korean Series](https://ai.trend.dmomo.co.kr/2026/11/3-key-factors-that-could-decide-game-4.html) <br/>
-[2026/11/06 - How ModelOp and NVIDIA OpenShell Are Reshaping MLOps: 4 Policy Control Layers Setting a New Standard for AI Agent Security](https://ai.trend.dmomo.co.kr/2026/11/how-modelop-and-nvidia-openshell-are.html) <br/>
-[2026/11/05 - Habibi: What It Means and Why It’s More Than Just a Term of Endearment—it’s All About Context](https://ai.trend.dmomo.co.kr/2026/11/habibi-what-it-means-and-why-its-more.html) <br/>
+[2026/11/08 - SK hynix in 2026: The Truth Behind Its HBM Dominance and Stock Volatility](https://ai.trend.dmomo.co.kr/2026/11/sk-hynix-in-2026-truth-behind-its-hbm.html) <br/>
+[2026/11/08 - Trump Offers UFC CEO Dana White the White House Press Secretary Role—Will He Accept?](https://ai.trend.dmomo.co.kr/2026/11/trump-offers-ufc-ceo-dana-white-white.html) <br/>
+[2026/11/08 - Notre Dame Stuns No. 1 Miami, 31–24, in CFP-Shaking Upset](https://ai.trend.dmomo.co.kr/2026/11/notre-dame-stuns-no-1-miami-3124-in-cfp.html) <br/>
+[2026/11/08 - Seattle Sounders Edge LAFC 2-1 to Dramatically Clinch Playoff Berth](https://ai.trend.dmomo.co.kr/2026/11/seattle-sounders-edge-lafc-2-1-to.html) <br/>
+[2026/11/08 - How Matter 1.5 Cameras Could Transform the Smart Home: Can They Stream Video and Run Automations Without Manufacturer Apps?](https://ai.trend.dmomo.co.kr/2026/11/how-matter-15-cameras-could-transform.html) <br/>
+[2026/11/08 - Leeds Halt Tottenham’s Three-Game Winning Streak as Super-Sub Okafor Nets the Winner](https://ai.trend.dmomo.co.kr/2026/11/leeds-halt-tottenhams-three-game.html) <br/>
