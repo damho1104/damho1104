@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/08 - 트럼프, UFC CEO Dana White에게 백악관 대변인직 제안…수락할까?](https://blog.ai.dmomo.co.kr/trend/37076) <br/>
-[2026/11/08 - SK하이닉스 2026년 전망: HBM 독주와 주가 변동성의 진실](https://blog.ai.dmomo.co.kr/trend/37074) <br/>
-[2026/11/08 - 노틀담, 1위 마이애미 31-24 격파…CFP 판도 뒤집은 대이변](https://blog.ai.dmomo.co.kr/trend/37055) <br/>
-[2026/11/08 - 시애틀 사운더스, LAFC 2-1 꺾고 극적 플레이오프 진출 확정](https://blog.ai.dmomo.co.kr/trend/37053) <br/>
-[2026/11/08 - Matter 1.5 카메라가 바꾸는 스마트홈, 제조사 앱 없이 영상·자동화까지 가능할까?](https://blog.ai.dmomo.co.kr/tech/37034) <br/>
+[2026/11/09 - 이준호 175억 강남 건물주에서 검증된 배우까지, 그의 모든 것](https://blog.ai.dmomo.co.kr/trend/37139) <br/>
+[2026/11/09 - Buccaneers vs Bears 2026 Week 9 완벽 분석: 승부를 가른 결정적 장면](https://blog.ai.dmomo.co.kr/trend/37121) <br/>
+[2026/11/09 - Google Agentic Data Cloud란? 멀티클라우드 AI 에이전트의 핵심 기술과 한계 살펴보기](https://blog.ai.dmomo.co.kr/tech/37097) <br/>
+[2026/11/09 - 서동주가 말하는 상실과 소비 철학, 변호사에서 크리에이터로 진화한 이유](https://blog.ai.dmomo.co.kr/trend/37095) <br/>
+[2026/11/09 - Cowboys 27-23 역전승! Caleb Downs 첫 인터셉트로 Colts 5연패 확정](https://blog.ai.dmomo.co.kr/trend/37092) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/11/09 - Lee Junho: From ₩17.5 Billion Gangnam Building Owner to Acclaimed Actor—Everything You Need to Know About Him](https://ai.trend.dmomo.co.kr/2026/11/lee-junho-from-175-billion-gangnam.html) <br/>
+[2026/11/09 - Buccaneers vs. Bears, 2026 Week 9: A Complete Breakdown of the Moment That Decided the Game](https://ai.trend.dmomo.co.kr/2026/11/buccaneers-vs-bears-2026-week-9.html) <br/>
+[2026/11/09 - What Is Google Agentic Data Cloud? Exploring the Core Technology and Limitations of Multicloud AI Agents](https://ai.trend.dmomo.co.kr/2026/11/what-is-google-agentic-data-cloud.html) <br/>
+[2026/11/09 - Seo Dong-ju on Loss, the Philosophy of Consumption, and Why She Evolved from Lawyer to Creator](https://ai.trend.dmomo.co.kr/2026/11/seo-dong-ju-on-loss-philosophy-of.html) <br/>
+[2026/11/09 - Cowboys Rally to a 27–23 Win as Caleb Downs’ First Interception Sends Colts to Fifth Straight Loss](https://ai.trend.dmomo.co.kr/2026/11/cowboys-rally-to-2723-win-as-caleb.html) <br/>
 [2026/11/08 - SK hynix in 2026: The Truth Behind Its HBM Dominance and Stock Volatility](https://ai.trend.dmomo.co.kr/2026/11/sk-hynix-in-2026-truth-behind-its-hbm.html) <br/>
-[2026/11/08 - Trump Offers UFC CEO Dana White the White House Press Secretary Role—Will He Accept?](https://ai.trend.dmomo.co.kr/2026/11/trump-offers-ufc-ceo-dana-white-white.html) <br/>
-[2026/11/08 - Notre Dame Stuns No. 1 Miami, 31–24, in CFP-Shaking Upset](https://ai.trend.dmomo.co.kr/2026/11/notre-dame-stuns-no-1-miami-3124-in-cfp.html) <br/>
-[2026/11/08 - Seattle Sounders Edge LAFC 2-1 to Dramatically Clinch Playoff Berth](https://ai.trend.dmomo.co.kr/2026/11/seattle-sounders-edge-lafc-2-1-to.html) <br/>
-[2026/11/08 - How Matter 1.5 Cameras Could Transform the Smart Home: Can They Stream Video and Run Automations Without Manufacturer Apps?](https://ai.trend.dmomo.co.kr/2026/11/how-matter-15-cameras-could-transform.html) <br/>
-[2026/11/08 - Leeds Halt Tottenham’s Three-Game Winning Streak as Super-Sub Okafor Nets the Winner](https://ai.trend.dmomo.co.kr/2026/11/leeds-halt-tottenhams-three-game.html) <br/>
