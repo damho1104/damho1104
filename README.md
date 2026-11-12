@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/10 - 비단뱀에 공격받은 새끼 코알라 구조로 본 야생동물 보호의 현실](https://blog.ai.dmomo.co.kr/trend/37211) <br/>
-[2026/11/10 - Buffalo Bills 7승 1패 돌풍과 미국 주요 입법 전쟁, 지금 무슨 일이?](https://blog.ai.dmomo.co.kr/trend/37193) <br/>
-[2026/11/10 - 박진만 감독, 12년 만의 삼성 우승…왕조 재건 가능할까?](https://blog.ai.dmomo.co.kr/trend/37191) <br/>
-[2026/11/10 - AtomicFaaS란? Serverless 함수 실패의 외부 부작용을 자동 보상하는 최신 기술](https://blog.ai.dmomo.co.kr/tech/37166) <br/>
-[2026/11/10 - 김부선 2억 소송 사실상 완승? 1심 판결의 진실과 법적 쟁점](https://blog.ai.dmomo.co.kr/trend/37164) <br/>
+[2026/11/11 - ‘Mike Hammer’ 스타 Stacy Keach 별세…85세로 파란만장한 삶 마감](https://blog.ai.dmomo.co.kr/trend/37289) <br/>
+[2026/11/11 - 이형범, 한화 불펜 믿을 카드 될 수 있을까? 2027 반등 도전](https://blog.ai.dmomo.co.kr/trend/37287) <br/>
+[2026/11/11 - 폴 조지 36점 폭발! 셀틱스, 브라운의 76ers를 123-101 완파](https://blog.ai.dmomo.co.kr/trend/37268) <br/>
+[2026/11/11 - 2026년 달라진 신랑의 조건, 파트너형 남편이 뜨는 이유](https://blog.ai.dmomo.co.kr/trend/37266) <br/>
+[2026/11/11 - Modern Web Guidance 1.0이 바꾸는 AI 웹 개발, 접근성·성능을 높이는 방법은?](https://blog.ai.dmomo.co.kr/tech/37241) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/11/10 - What Rescuing a Baby Koala from a Python Attack Reveals About Wildlife Conservation](https://ai.trend.dmomo.co.kr/2026/11/what-rescuing-baby-koala-from-python.html) <br/>
-[2026/11/10 - The Buffalo Bills’ 7–1 Surge and America’s Major Legislative Battles: What’s Going On?](https://ai.trend.dmomo.co.kr/2026/11/the-buffalo-bills-71-surge-and-americas.html) <br/>
-[2026/11/10 - Samsung’s First Championship in 12 Years: Can Manager Park Jin-man Rebuild the Dynasty?](https://ai.trend.dmomo.co.kr/2026/11/samsungs-first-championship-in-12-years.html) <br/>
-[2026/11/10 - What Is AtomicFaaS? A New Technology That Automatically Compensates for External Side Effects When Serverless Functions Fail](https://ai.trend.dmomo.co.kr/2026/11/what-is-atomicfaas-new-technology-that.html) <br/>
-[2026/11/10 - Kim Boo-sun’s ₩200 Million Lawsuit: Did She Essentially Win? The Truth Behind the First-Instance Ruling and Key Legal Issues](https://ai.trend.dmomo.co.kr/2026/11/kim-boo-suns-200-million-lawsuit-did.html) <br/>
-[2026/11/10 - Philadelphia Disco Legend Rochelle Fleming Dies—Why Her Voice Has Endured for More Than 50 Years](https://ai.trend.dmomo.co.kr/2026/11/philadelphia-disco-legend-rochelle.html) <br/>
+[2026/11/11 - Stacy Keach, Star of ‘Mike Hammer,’ Dies at 85 After a Storied Life](https://ai.trend.dmomo.co.kr/2026/11/stacy-keach-star-of-mike-hammer-dies-at.html) <br/>
+[2026/11/11 - Can Lee Hyung-beom Become a Reliable Option in Hanwha’s Bullpen? His 2027 Comeback Bid](https://ai.trend.dmomo.co.kr/2026/11/can-lee-hyung-beom-become-reliable.html) <br/>
+[2026/11/11 - What Women Want in a Husband in 2026—and Why the Equal-Partner Husband Is Trending](https://ai.trend.dmomo.co.kr/2026/11/what-women-want-in-husband-in-2026and.html) <br/>
+[2026/11/11 - Paul George Erupts for 36, but the Celtics Crush Brown’s 76ers, 123–101](https://ai.trend.dmomo.co.kr/2026/11/paul-george-erupts-for-36-but-celtics.html) <br/>
+[2026/11/11 - How Modern Web Guidance 1.0 Is Transforming AI Web Development—and Boosting Accessibility and Performance](https://ai.trend.dmomo.co.kr/2026/11/how-modern-web-guidance-10-is.html) <br/>
+[2026/11/11 - Kirk Cousins Is Back with the Vikings! Everything to Know About the Trade for a 3rd-Round Pick](https://ai.trend.dmomo.co.kr/2026/11/kirk-cousins-is-back-with-vikings.html) <br/>
