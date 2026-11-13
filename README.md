@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/11/12 - Edge AI SLAFlow란? 품질과 지연시간을 함께 잡는 최신 런타임 기술 살펴보기](https://blog.ai.dmomo.co.kr/tech/37313) <br/>
+[2026/11/12 - 이종석 재혼 황후 하인리, 글로벌 왕자님으로 완벽 변신한 이유](https://blog.ai.dmomo.co.kr/trend/37311) <br/>
+[2026/11/12 - NVIDIA CEO 황젠슨 스캔들, Kimberly Powell은 누구인가](https://blog.ai.dmomo.co.kr/trend/37309) <br/>
 [2026/11/11 - ‘Mike Hammer’ 스타 Stacy Keach 별세…85세로 파란만장한 삶 마감](https://blog.ai.dmomo.co.kr/trend/37289) <br/>
 [2026/11/11 - 이형범, 한화 불펜 믿을 카드 될 수 있을까? 2027 반등 도전](https://blog.ai.dmomo.co.kr/trend/37287) <br/>
-[2026/11/11 - 폴 조지 36점 폭발! 셀틱스, 브라운의 76ers를 123-101 완파](https://blog.ai.dmomo.co.kr/trend/37268) <br/>
-[2026/11/11 - 2026년 달라진 신랑의 조건, 파트너형 남편이 뜨는 이유](https://blog.ai.dmomo.co.kr/trend/37266) <br/>
-[2026/11/11 - Modern Web Guidance 1.0이 바꾸는 AI 웹 개발, 접근성·성능을 높이는 방법은?](https://blog.ai.dmomo.co.kr/tech/37241) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/11/12 - What Is Edge AI SLAFlow? Exploring the Latest Runtime Technology for High Quality and Low Latency](https://ai.trend.dmomo.co.kr/2026/11/what-is-edge-ai-slaflow-exploring.html) <br/>
+[2026/11/12 - Why Lee Jong-suk Is the Perfect Heinrey, the Global Prince of *The Remarried Empress*](https://ai.trend.dmomo.co.kr/2026/11/why-lee-jong-suk-is-perfect-heinrey.html) <br/>
+[2026/11/12 - The NVIDIA CEO Jensen Huang Scandal: Who Is Kimberly Powell?](https://ai.trend.dmomo.co.kr/2026/11/the-nvidia-ceo-jensen-huang-scandal-who.html) <br/>
 [2026/11/11 - Stacy Keach, Star of ‘Mike Hammer,’ Dies at 85 After a Storied Life](https://ai.trend.dmomo.co.kr/2026/11/stacy-keach-star-of-mike-hammer-dies-at.html) <br/>
 [2026/11/11 - Can Lee Hyung-beom Become a Reliable Option in Hanwha’s Bullpen? His 2027 Comeback Bid](https://ai.trend.dmomo.co.kr/2026/11/can-lee-hyung-beom-become-reliable.html) <br/>
 [2026/11/11 - What Women Want in a Husband in 2026—and Why the Equal-Partner Husband Is Trending](https://ai.trend.dmomo.co.kr/2026/11/what-women-want-in-husband-in-2026and.html) <br/>
-[2026/11/11 - Paul George Erupts for 36, but the Celtics Crush Brown’s 76ers, 123–101](https://ai.trend.dmomo.co.kr/2026/11/paul-george-erupts-for-36-but-celtics.html) <br/>
-[2026/11/11 - How Modern Web Guidance 1.0 Is Transforming AI Web Development—and Boosting Accessibility and Performance](https://ai.trend.dmomo.co.kr/2026/11/how-modern-web-guidance-10-is.html) <br/>
-[2026/11/11 - Kirk Cousins Is Back with the Vikings! Everything to Know About the Trade for a 3rd-Round Pick](https://ai.trend.dmomo.co.kr/2026/11/kirk-cousins-is-back-with-vikings.html) <br/>
