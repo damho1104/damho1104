@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/11/13 - 2026년 시청률의 진짜 의미: 숫자 하나로 판단하면 안 되는 이유](https://blog.ai.dmomo.co.kr/trend/37412) <br/>
+[2026/11/13 - Claude Fable 5.2·Mythos 5.2 공개, 100만 토큰 AI 에이전트의 달라진 점 5가지](https://blog.ai.dmomo.co.kr/tech/37376) <br/>
+[2026/11/13 - 김승우 2200만원 절도 혐의 피소, 사건의 진실은?](https://blog.ai.dmomo.co.kr/trend/37374) <br/>
+[2026/11/13 - 2026년 Microsoft 대규모 장애, Outlook·Teams·AI까지 멈춘 진짜 원인](https://blog.ai.dmomo.co.kr/trend/37372) <br/>
 [2026/11/12 - Edge AI SLAFlow란? 품질과 지연시간을 함께 잡는 최신 런타임 기술 살펴보기](https://blog.ai.dmomo.co.kr/tech/37313) <br/>
-[2026/11/12 - 이종석 재혼 황후 하인리, 글로벌 왕자님으로 완벽 변신한 이유](https://blog.ai.dmomo.co.kr/trend/37311) <br/>
-[2026/11/12 - NVIDIA CEO 황젠슨 스캔들, Kimberly Powell은 누구인가](https://blog.ai.dmomo.co.kr/trend/37309) <br/>
-[2026/11/11 - ‘Mike Hammer’ 스타 Stacy Keach 별세…85세로 파란만장한 삶 마감](https://blog.ai.dmomo.co.kr/trend/37289) <br/>
-[2026/11/11 - 이형범, 한화 불펜 믿을 카드 될 수 있을까? 2027 반등 도전](https://blog.ai.dmomo.co.kr/trend/37287) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/11/13 - What 2026 Ratings Really Mean: Why One Number Doesn’t Tell the Whole Story](https://ai.trend.dmomo.co.kr/2026/11/what-2026-ratings-really-mean-why-one.html) <br/>
+[2026/11/13 - Claude Fable 5.2 and Mythos 5.2 Are Here: 5 Big Changes to 1M-Token AI Agents](https://ai.trend.dmomo.co.kr/2026/11/claude-fable-52-and-mythos-52-are-here.html) <br/>
+[2026/11/13 - Kim Seung-woo Faces Lawsuit Over Alleged ₩22 Million Theft: What Really Happened?](https://ai.trend.dmomo.co.kr/2026/11/kim-seung-woo-faces-lawsuit-over.html) <br/>
+[2026/11/13 - The Real Cause Behind Microsoft’s 2026 Outage That Took Down Outlook, Teams, and AI](https://ai.trend.dmomo.co.kr/2026/11/the-real-cause-behind-microsofts-2026.html) <br/>
 [2026/11/12 - What Is Edge AI SLAFlow? Exploring the Latest Runtime Technology for High Quality and Low Latency](https://ai.trend.dmomo.co.kr/2026/11/what-is-edge-ai-slaflow-exploring.html) <br/>
 [2026/11/12 - Why Lee Jong-suk Is the Perfect Heinrey, the Global Prince of *The Remarried Empress*](https://ai.trend.dmomo.co.kr/2026/11/why-lee-jong-suk-is-perfect-heinrey.html) <br/>
-[2026/11/12 - The NVIDIA CEO Jensen Huang Scandal: Who Is Kimberly Powell?](https://ai.trend.dmomo.co.kr/2026/11/the-nvidia-ceo-jensen-huang-scandal-who.html) <br/>
-[2026/11/11 - Stacy Keach, Star of ‘Mike Hammer,’ Dies at 85 After a Storied Life](https://ai.trend.dmomo.co.kr/2026/11/stacy-keach-star-of-mike-hammer-dies-at.html) <br/>
-[2026/11/11 - Can Lee Hyung-beom Become a Reliable Option in Hanwha’s Bullpen? His 2027 Comeback Bid](https://ai.trend.dmomo.co.kr/2026/11/can-lee-hyung-beom-become-reliable.html) <br/>
-[2026/11/11 - What Women Want in a Husband in 2026—and Why the Equal-Partner Husband Is Trending](https://ai.trend.dmomo.co.kr/2026/11/what-women-want-in-husband-in-2026and.html) <br/>
