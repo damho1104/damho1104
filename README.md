@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/13 - 2026년 시청률의 진짜 의미: 숫자 하나로 판단하면 안 되는 이유](https://blog.ai.dmomo.co.kr/trend/37412) <br/>
-[2026/11/13 - Claude Fable 5.2·Mythos 5.2 공개, 100만 토큰 AI 에이전트의 달라진 점 5가지](https://blog.ai.dmomo.co.kr/tech/37376) <br/>
-[2026/11/13 - 김승우 2200만원 절도 혐의 피소, 사건의 진실은?](https://blog.ai.dmomo.co.kr/trend/37374) <br/>
-[2026/11/13 - 2026년 Microsoft 대규모 장애, Outlook·Teams·AI까지 멈춘 진짜 원인](https://blog.ai.dmomo.co.kr/trend/37372) <br/>
-[2026/11/12 - Edge AI SLAFlow란? 품질과 지연시간을 함께 잡는 최신 런타임 기술 살펴보기](https://blog.ai.dmomo.co.kr/tech/37313) <br/>
+[2026/11/15 - Claude Code 개인정보 유출 논란, AI 코딩 에이전트 신뢰할 수 있나?](https://blog.ai.dmomo.co.kr/ai/37481) <br/>
+[2026/11/14 - 고경표 음주운전 사고, 교통안전 홍보대사 출신 배우에게 무슨 일이?](https://blog.ai.dmomo.co.kr/trend/37460) <br/>
+[2026/11/14 - AI가 90시간 만에 IoT 취약점 99개 발견? 임베디드 보안의 변화 񟿿](https://blog.ai.dmomo.co.kr/tech/37439) <br/>
+[2026/11/14 - 2026년 11월 날씨 트렌드 4가지: 포근한 늦가을 뒤에 숨은 위험 신호](https://blog.ai.dmomo.co.kr/trend/37437) <br/>
+[2026/11/14 - 2026년 미국 전역 항공편 멈춘 이유, FAA ground stop 총정리](https://blog.ai.dmomo.co.kr/trend/37435) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/11/14 - Go Kyung-pyo’s Drunk-Driving Accident: What Happened to the Actor Who Once Served as a Road Safety Ambassador?](https://ai.trend.dmomo.co.kr/2026/11/go-kyung-pyos-drunk-driving-accident.html) <br/>
+[2026/11/14 - AI Finds 99 IoT Vulnerabilities in Just 90 Hours? A New Era for Embedded Security](https://ai.trend.dmomo.co.kr/2026/11/ai-finds-99-iot-vulnerabilities-in-just.html) <br/>
+[2026/11/14 - 4 Weather Trends to Watch in November 2026: The Hidden Risks Behind an Unseasonably Mild Late Autumn](https://ai.trend.dmomo.co.kr/2026/11/4-weather-trends-to-watch-in-november.html) <br/>
+[2026/11/14 - Why Flights Across the U.S. Came to a Halt in 2026: A Complete Guide to FAA Ground Stops](https://ai.trend.dmomo.co.kr/2026/11/why-flights-across-us-came-to-halt-in.html) <br/>
 [2026/11/13 - What 2026 Ratings Really Mean: Why One Number Doesn’t Tell the Whole Story](https://ai.trend.dmomo.co.kr/2026/11/what-2026-ratings-really-mean-why-one.html) <br/>
 [2026/11/13 - Claude Fable 5.2 and Mythos 5.2 Are Here: 5 Big Changes to 1M-Token AI Agents](https://ai.trend.dmomo.co.kr/2026/11/claude-fable-52-and-mythos-52-are-here.html) <br/>
-[2026/11/13 - Kim Seung-woo Faces Lawsuit Over Alleged ₩22 Million Theft: What Really Happened?](https://ai.trend.dmomo.co.kr/2026/11/kim-seung-woo-faces-lawsuit-over.html) <br/>
-[2026/11/13 - The Real Cause Behind Microsoft’s 2026 Outage That Took Down Outlook, Teams, and AI](https://ai.trend.dmomo.co.kr/2026/11/the-real-cause-behind-microsofts-2026.html) <br/>
-[2026/11/12 - What Is Edge AI SLAFlow? Exploring the Latest Runtime Technology for High Quality and Low Latency](https://ai.trend.dmomo.co.kr/2026/11/what-is-edge-ai-slaflow-exploring.html) <br/>
-[2026/11/12 - Why Lee Jong-suk Is the Perfect Heinrey, the Global Prince of *The Remarried Empress*](https://ai.trend.dmomo.co.kr/2026/11/why-lee-jong-suk-is-perfect-heinrey.html) <br/>
