@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/15 - Claude Code 개인정보 유출 논란, AI 코딩 에이전트 신뢰할 수 있나?](https://blog.ai.dmomo.co.kr/ai/37481) <br/>
-[2026/11/14 - 고경표 음주운전 사고, 교통안전 홍보대사 출신 배우에게 무슨 일이?](https://blog.ai.dmomo.co.kr/trend/37460) <br/>
-[2026/11/14 - AI가 90시간 만에 IoT 취약점 99개 발견? 임베디드 보안의 변화 񟿿](https://blog.ai.dmomo.co.kr/tech/37439) <br/>
-[2026/11/14 - 2026년 11월 날씨 트렌드 4가지: 포근한 늦가을 뒤에 숨은 위험 신호](https://blog.ai.dmomo.co.kr/trend/37437) <br/>
-[2026/11/14 - 2026년 미국 전역 항공편 멈춘 이유, FAA ground stop 총정리](https://blog.ai.dmomo.co.kr/trend/37435) <br/>
+[2026/11/15 - 2026년 조세 대변화, 부동산·가상자산·상속세 어떻게 바뀌나](https://blog.ai.dmomo.co.kr/trend/37538) <br/>
+[2026/11/15 - 월급날 먼저 빼두는 습관, 2026 저축 트렌드 7가지 전략](https://blog.ai.dmomo.co.kr/trend/37519) <br/>
+[2026/11/15 - UFC 334 결과부터 Dana White 정치 행보까지, 미국 UFC 판도 총정리](https://blog.ai.dmomo.co.kr/trend/37518) <br/>
+[2026/11/15 - 구글 Gemini 4 Hydrogen, 100만 토큰·AI 에이전트의 판을 바꿀까?](https://blog.ai.dmomo.co.kr/tech/37496) <br/>
+[2026/11/15 - 고경표 음주운전 사고, 혈중알코올 0.150%의 충격적 진실](https://blog.ai.dmomo.co.kr/trend/37494) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/11/14 - Go Kyung-pyo’s Drunk-Driving Accident: What Happened to the Actor Who Once Served as a Road Safety Ambassador?](https://ai.trend.dmomo.co.kr/2026/11/go-kyung-pyos-drunk-driving-accident.html) <br/>
-[2026/11/14 - AI Finds 99 IoT Vulnerabilities in Just 90 Hours? A New Era for Embedded Security](https://ai.trend.dmomo.co.kr/2026/11/ai-finds-99-iot-vulnerabilities-in-just.html) <br/>
-[2026/11/14 - 4 Weather Trends to Watch in November 2026: The Hidden Risks Behind an Unseasonably Mild Late Autumn](https://ai.trend.dmomo.co.kr/2026/11/4-weather-trends-to-watch-in-november.html) <br/>
-[2026/11/14 - Why Flights Across the U.S. Came to a Halt in 2026: A Complete Guide to FAA Ground Stops](https://ai.trend.dmomo.co.kr/2026/11/why-flights-across-us-came-to-halt-in.html) <br/>
-[2026/11/13 - What 2026 Ratings Really Mean: Why One Number Doesn’t Tell the Whole Story](https://ai.trend.dmomo.co.kr/2026/11/what-2026-ratings-really-mean-why-one.html) <br/>
-[2026/11/13 - Claude Fable 5.2 and Mythos 5.2 Are Here: 5 Big Changes to 1M-Token AI Agents](https://ai.trend.dmomo.co.kr/2026/11/claude-fable-52-and-mythos-52-are-here.html) <br/>
+[2026/11/15 - The 2026 Tax Shake-Up: What’s Changing for Real Estate, Crypto, and Inheritance Taxes?](https://ai.trend.dmomo.co.kr/2026/11/the-2026-tax-shake-up-whats-changing.html) <br/>
+[2026/11/15 - Pay Yourself First on Payday: 7 Smart Saving Strategies for 2026](https://ai.trend.dmomo.co.kr/2026/11/pay-yourself-first-on-payday-7-smart.html) <br/>
+[2026/11/15 - From UFC 334 Results to Dana White’s Political Moves: The State of the UFC in America](https://ai.trend.dmomo.co.kr/2026/11/from-ufc-334-results-to-dana-whites.html) <br/>
+[2026/11/15 - Google Gemini 4 Hydrogen: Could 1 Million Tokens and AI Agents Change the Game?](https://ai.trend.dmomo.co.kr/2026/11/google-gemini-4-hydrogen-could-1.html) <br/>
+[2026/11/15 - Ko Kyung-pyo’s DUI Crash: The Shocking Truth Behind His 0.150% Blood Alcohol Level](https://ai.trend.dmomo.co.kr/2026/11/ko-kyung-pyos-dui-crash-shocking-truth.html) <br/>
+[2026/11/15 - USA Crush Haiti 6-0 for Perfect Send-Off in Pochettino’s Final Match](https://ai.trend.dmomo.co.kr/2026/11/usa-crush-haiti-6-0-for-perfect-send.html) <br/>
