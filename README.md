@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/15 - 2026년 조세 대변화, 부동산·가상자산·상속세 어떻게 바뀌나](https://blog.ai.dmomo.co.kr/trend/37538) <br/>
-[2026/11/15 - 월급날 먼저 빼두는 습관, 2026 저축 트렌드 7가지 전략](https://blog.ai.dmomo.co.kr/trend/37519) <br/>
-[2026/11/15 - UFC 334 결과부터 Dana White 정치 행보까지, 미국 UFC 판도 총정리](https://blog.ai.dmomo.co.kr/trend/37518) <br/>
-[2026/11/15 - 구글 Gemini 4 Hydrogen, 100만 토큰·AI 에이전트의 판을 바꿀까?](https://blog.ai.dmomo.co.kr/tech/37496) <br/>
-[2026/11/15 - 고경표 음주운전 사고, 혈중알코올 0.150%의 충격적 진실](https://blog.ai.dmomo.co.kr/trend/37494) <br/>
+[2026/11/16 - 서수남 17억 빚·큰딸 사망 고백…1세대 컨트리 가수의 굴곡진 인생](https://blog.ai.dmomo.co.kr/trend/37605) <br/>
+[2026/11/16 - 스틸러스 vs 벵갈스 AFC 북 1위 결정전, 승부를 가를 4가지 핵심 변수](https://blog.ai.dmomo.co.kr/trend/37587) <br/>
+[2026/11/16 - MemryX MX3+란? 1 POPS 목표로 큰 AI 모델을 엣지에서 실행하는 기술](https://blog.ai.dmomo.co.kr/tech/37562) <br/>
+[2026/11/16 - 2026 한국 세금 대변화: 부동산·상속·체납관리 핵심 트렌드 5가지](https://blog.ai.dmomo.co.kr/trend/37560) <br/>
+[2026/11/16 - Seahawks vs Raiders, 신인 1순위 QB 데뷔와 디펜딩 챔피언의 충돌](https://blog.ai.dmomo.co.kr/trend/37558) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/11/16 - Seo Soo-nam Opens Up About ₩1.7 Billion in Debt and the Death of His Eldest Daughter: A Pioneer Country Singer’s Tumultuous Life](https://ai.trend.dmomo.co.kr/2026/11/seo-soo-nam-opens-up-about-17-billion.html) <br/>
+[2026/11/16 - Steelers vs. Bengals: 4 Key Factors That Could Decide the AFC North Showdown for First Place](https://ai.trend.dmomo.co.kr/2026/11/steelers-vs-bengals-4-key-factors-that.html) <br/>
+[2026/11/16 - What Is MemryX MX3+? The Technology Aiming to Run Large AI Models at the Edge at 1 POPS](https://ai.trend.dmomo.co.kr/2026/11/what-is-memryx-mx3-technology-aiming-to.html) <br/>
+[2026/11/16 - 2026 Tax Shake-Up in South Korea: 5 Key Trends in Real Estate, Inheritance, and Tax Arrears Enforcement](https://ai.trend.dmomo.co.kr/2026/11/2026-tax-shake-up-in-south-korea-5-key.html) <br/>
+[2026/11/16 - Seahawks vs. Raiders: No. 1 Pick QB Debuts Against the Defending Champions](https://ai.trend.dmomo.co.kr/2026/11/seahawks-vs-raiders-no-1-pick-qb-debuts.html) <br/>
 [2026/11/15 - The 2026 Tax Shake-Up: What’s Changing for Real Estate, Crypto, and Inheritance Taxes?](https://ai.trend.dmomo.co.kr/2026/11/the-2026-tax-shake-up-whats-changing.html) <br/>
-[2026/11/15 - Pay Yourself First on Payday: 7 Smart Saving Strategies for 2026](https://ai.trend.dmomo.co.kr/2026/11/pay-yourself-first-on-payday-7-smart.html) <br/>
-[2026/11/15 - From UFC 334 Results to Dana White’s Political Moves: The State of the UFC in America](https://ai.trend.dmomo.co.kr/2026/11/from-ufc-334-results-to-dana-whites.html) <br/>
-[2026/11/15 - Google Gemini 4 Hydrogen: Could 1 Million Tokens and AI Agents Change the Game?](https://ai.trend.dmomo.co.kr/2026/11/google-gemini-4-hydrogen-could-1.html) <br/>
-[2026/11/15 - Ko Kyung-pyo’s DUI Crash: The Shocking Truth Behind His 0.150% Blood Alcohol Level](https://ai.trend.dmomo.co.kr/2026/11/ko-kyung-pyos-dui-crash-shocking-truth.html) <br/>
-[2026/11/15 - USA Crush Haiti 6-0 for Perfect Send-Off in Pochettino’s Final Match](https://ai.trend.dmomo.co.kr/2026/11/usa-crush-haiti-6-0-for-perfect-send.html) <br/>
