@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/16 - 서수남 17억 빚·큰딸 사망 고백…1세대 컨트리 가수의 굴곡진 인생](https://blog.ai.dmomo.co.kr/trend/37605) <br/>
-[2026/11/16 - 스틸러스 vs 벵갈스 AFC 북 1위 결정전, 승부를 가를 4가지 핵심 변수](https://blog.ai.dmomo.co.kr/trend/37587) <br/>
-[2026/11/16 - MemryX MX3+란? 1 POPS 목표로 큰 AI 모델을 엣지에서 실행하는 기술](https://blog.ai.dmomo.co.kr/tech/37562) <br/>
-[2026/11/16 - 2026 한국 세금 대변화: 부동산·상속·체납관리 핵심 트렌드 5가지](https://blog.ai.dmomo.co.kr/trend/37560) <br/>
-[2026/11/16 - Seahawks vs Raiders, 신인 1순위 QB 데뷔와 디펜딩 챔피언의 충돌](https://blog.ai.dmomo.co.kr/trend/37558) <br/>
+[2026/11/17 - 싱가포르 vs 브라질 친선전, 안첼로티 체제의 진짜 시험대](https://blog.ai.dmomo.co.kr/trend/37674) <br/>
+[2026/11/17 - 삼성SDI 2026 전략: 전기차 넘어 ESS·전고체로 성장축 대전환](https://blog.ai.dmomo.co.kr/trend/37656) <br/>
+[2026/11/17 - Gemini 4 Hydrogen, 에이전트 AI의 실행 방식을 바꿀 3가지 핵심 기술](https://blog.ai.dmomo.co.kr/tech/37632) <br/>
+[2026/11/17 - 2026년 K드라마 트렌드 7가지: 장르 혼합부터 글로벌 전략까지](https://blog.ai.dmomo.co.kr/trend/37630) <br/>
+[2026/11/17 - 로버트 패틴슨, 차기 007 확정! 뱀파이어에서 제임스 본드까지](https://blog.ai.dmomo.co.kr/trend/37628) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/11/17 - Singapore vs. Brazil: A Friendly Match That Will Be the Real Test of Ancelotti’s Era](https://ai.trend.dmomo.co.kr/2026/11/singapore-vs-brazil-friendly-match-that.html) <br/>
+[2026/11/17 - Samsung SDI’s 2026 Strategy: Shifting Beyond EVs to ESS and Solid-State Batteries](https://ai.trend.dmomo.co.kr/2026/11/samsung-sdis-2026-strategy-shifting.html) <br/>
+[2026/11/17 - Gemini 4 Hydrogen: Three Key Technologies That Will Transform How Agentic AI Works](https://ai.trend.dmomo.co.kr/2026/11/gemini-4-hydrogen-three-key.html) <br/>
+[2026/11/17 - 7 K-Drama Trends to Watch in 2026: From Genre-Blending to Global Strategy](https://ai.trend.dmomo.co.kr/2026/11/7-k-drama-trends-to-watch-in-2026-from.html) <br/>
+[2026/11/17 - Robert Pattinson Confirmed as the Next 007! From Vampire to James Bond](https://ai.trend.dmomo.co.kr/2026/11/robert-pattinson-confirmed-as-next-007.html) <br/>
 [2026/11/16 - Seo Soo-nam Opens Up About ₩1.7 Billion in Debt and the Death of His Eldest Daughter: A Pioneer Country Singer’s Tumultuous Life](https://ai.trend.dmomo.co.kr/2026/11/seo-soo-nam-opens-up-about-17-billion.html) <br/>
-[2026/11/16 - Steelers vs. Bengals: 4 Key Factors That Could Decide the AFC North Showdown for First Place](https://ai.trend.dmomo.co.kr/2026/11/steelers-vs-bengals-4-key-factors-that.html) <br/>
-[2026/11/16 - What Is MemryX MX3+? The Technology Aiming to Run Large AI Models at the Edge at 1 POPS](https://ai.trend.dmomo.co.kr/2026/11/what-is-memryx-mx3-technology-aiming-to.html) <br/>
-[2026/11/16 - 2026 Tax Shake-Up in South Korea: 5 Key Trends in Real Estate, Inheritance, and Tax Arrears Enforcement](https://ai.trend.dmomo.co.kr/2026/11/2026-tax-shake-up-in-south-korea-5-key.html) <br/>
-[2026/11/16 - Seahawks vs. Raiders: No. 1 Pick QB Debuts Against the Defending Champions](https://ai.trend.dmomo.co.kr/2026/11/seahawks-vs-raiders-no-1-pick-qb-debuts.html) <br/>
-[2026/11/15 - The 2026 Tax Shake-Up: What’s Changing for Real Estate, Crypto, and Inheritance Taxes?](https://ai.trend.dmomo.co.kr/2026/11/the-2026-tax-shake-up-whats-changing.html) <br/>
