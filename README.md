@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/11/18 - 멕시코 vs 자메이카, 합산 스코어 뒤집을 수 있을까? CONCACAF 8강 승부 분석](https://blog.ai.dmomo.co.kr/trend/37725) <br/>
+[2026/11/18 - GRACE-AI란? 고위험 AI를 위한 차세대 MLOps와 규제·위험관리 혁신](https://blog.ai.dmomo.co.kr/tech/37701) <br/>
+[2026/11/18 - 오세훈 결승 헤더로 카타르 잡은 한국, 남은 과제는?](https://blog.ai.dmomo.co.kr/trend/37699) <br/>
+[2026/11/18 - 메시 없는 아르헨티나, 코스타리카 1-0 제압…니코 파스가 답했다](https://blog.ai.dmomo.co.kr/trend/37697) <br/>
 [2026/11/17 - 싱가포르 vs 브라질 친선전, 안첼로티 체제의 진짜 시험대](https://blog.ai.dmomo.co.kr/trend/37674) <br/>
-[2026/11/17 - 삼성SDI 2026 전략: 전기차 넘어 ESS·전고체로 성장축 대전환](https://blog.ai.dmomo.co.kr/trend/37656) <br/>
-[2026/11/17 - Gemini 4 Hydrogen, 에이전트 AI의 실행 방식을 바꿀 3가지 핵심 기술](https://blog.ai.dmomo.co.kr/tech/37632) <br/>
-[2026/11/17 - 2026년 K드라마 트렌드 7가지: 장르 혼합부터 글로벌 전략까지](https://blog.ai.dmomo.co.kr/trend/37630) <br/>
-[2026/11/17 - 로버트 패틴슨, 차기 007 확정! 뱀파이어에서 제임스 본드까지](https://blog.ai.dmomo.co.kr/trend/37628) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/11/18 - Mexico vs. Jamaica: Can Either Side Overturn the Aggregate Score? CONCACAF Quarterfinal Preview](https://ai.trend.dmomo.co.kr/2026/11/mexico-vs-jamaica-can-either-side.html) <br/>
+[2026/11/18 - What Is GRACE-AI? Next-Generation MLOps and a New Approach to Compliance and Risk Management for High-Risk AI](https://ai.trend.dmomo.co.kr/2026/11/what-is-grace-ai-next-generation-mlops.html) <br/>
+[2026/11/18 - Korea Edge Qatar on Oh Se-hun’s Winning Header—What Challenges Lie Ahead?](https://ai.trend.dmomo.co.kr/2026/11/korea-edge-qatar-on-oh-se-huns-winning.html) <br/>
+[2026/11/18 - Messi-less Argentina Edge Costa Rica 1-0 as Nico Paz Answers the Call](https://ai.trend.dmomo.co.kr/2026/11/messi-less-argentina-edge-costa-rica-1.html) <br/>
 [2026/11/17 - Singapore vs. Brazil: A Friendly Match That Will Be the Real Test of Ancelotti’s Era](https://ai.trend.dmomo.co.kr/2026/11/singapore-vs-brazil-friendly-match-that.html) <br/>
 [2026/11/17 - Samsung SDI’s 2026 Strategy: Shifting Beyond EVs to ESS and Solid-State Batteries](https://ai.trend.dmomo.co.kr/2026/11/samsung-sdis-2026-strategy-shifting.html) <br/>
-[2026/11/17 - Gemini 4 Hydrogen: Three Key Technologies That Will Transform How Agentic AI Works](https://ai.trend.dmomo.co.kr/2026/11/gemini-4-hydrogen-three-key.html) <br/>
-[2026/11/17 - 7 K-Drama Trends to Watch in 2026: From Genre-Blending to Global Strategy](https://ai.trend.dmomo.co.kr/2026/11/7-k-drama-trends-to-watch-in-2026-from.html) <br/>
-[2026/11/17 - Robert Pattinson Confirmed as the Next 007! From Vampire to James Bond](https://ai.trend.dmomo.co.kr/2026/11/robert-pattinson-confirmed-as-next-007.html) <br/>
-[2026/11/16 - Seo Soo-nam Opens Up About ₩1.7 Billion in Debt and the Death of His Eldest Daughter: A Pioneer Country Singer’s Tumultuous Life](https://ai.trend.dmomo.co.kr/2026/11/seo-soo-nam-opens-up-about-17-billion.html) <br/>
