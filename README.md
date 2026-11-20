@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/18 - 멕시코 vs 자메이카, 합산 스코어 뒤집을 수 있을까? CONCACAF 8강 승부 분석](https://blog.ai.dmomo.co.kr/trend/37725) <br/>
-[2026/11/18 - GRACE-AI란? 고위험 AI를 위한 차세대 MLOps와 규제·위험관리 혁신](https://blog.ai.dmomo.co.kr/tech/37701) <br/>
-[2026/11/18 - 오세훈 결승 헤더로 카타르 잡은 한국, 남은 과제는?](https://blog.ai.dmomo.co.kr/trend/37699) <br/>
-[2026/11/18 - 메시 없는 아르헨티나, 코스타리카 1-0 제압…니코 파스가 답했다](https://blog.ai.dmomo.co.kr/trend/37697) <br/>
-[2026/11/17 - 싱가포르 vs 브라질 친선전, 안첼로티 체제의 진짜 시험대](https://blog.ai.dmomo.co.kr/trend/37674) <br/>
+[2026/11/19 - 꼴찌가 1위를 잡았다! 유타 재즈, 레이커스 9연승 저지한 NBA 최대 이변](https://blog.ai.dmomo.co.kr/trend/37812) <br/>
+[2026/11/19 - LEET 만점자 천호동 사건, AI 부정행위 의혹부터 심정지 발견까지](https://blog.ai.dmomo.co.kr/trend/37810) <br/>
+[2026/11/19 - 마린 르펜 2027 대선 전략: 연금 60세 공약과 집권 가능성 분석](https://blog.ai.dmomo.co.kr/trend/37791) <br/>
+[2026/11/19 - 부산의 도시 전략 대전환: 러닝·해양환경·소상공인 보호까지](https://blog.ai.dmomo.co.kr/trend/37767) <br/>
+[2026/11/19 - DBS·J.P.모건, 은행 예금을 블록체인으로 연결…24시간 국경 간 결제 시대 열까?](https://blog.ai.dmomo.co.kr/tech/37765) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/11/18 - Mexico vs. Jamaica: Can Either Side Overturn the Aggregate Score? CONCACAF Quarterfinal Preview](https://ai.trend.dmomo.co.kr/2026/11/mexico-vs-jamaica-can-either-side.html) <br/>
-[2026/11/18 - What Is GRACE-AI? Next-Generation MLOps and a New Approach to Compliance and Risk Management for High-Risk AI](https://ai.trend.dmomo.co.kr/2026/11/what-is-grace-ai-next-generation-mlops.html) <br/>
-[2026/11/18 - Korea Edge Qatar on Oh Se-hun’s Winning Header—What Challenges Lie Ahead?](https://ai.trend.dmomo.co.kr/2026/11/korea-edge-qatar-on-oh-se-huns-winning.html) <br/>
-[2026/11/18 - Messi-less Argentina Edge Costa Rica 1-0 as Nico Paz Answers the Call](https://ai.trend.dmomo.co.kr/2026/11/messi-less-argentina-edge-costa-rica-1.html) <br/>
-[2026/11/17 - Singapore vs. Brazil: A Friendly Match That Will Be the Real Test of Ancelotti’s Era](https://ai.trend.dmomo.co.kr/2026/11/singapore-vs-brazil-friendly-match-that.html) <br/>
-[2026/11/17 - Samsung SDI’s 2026 Strategy: Shifting Beyond EVs to ESS and Solid-State Batteries](https://ai.trend.dmomo.co.kr/2026/11/samsung-sdis-2026-strategy-shifting.html) <br/>
+[2026/11/19 - Last-Place Utah Jazz Stun the NBA, Snapping the Lakers’ Nine-Game Winning Streak in a Massive Upset!](https://ai.trend.dmomo.co.kr/2026/11/last-place-utah-jazz-stun-nba-snapping.html) <br/>
+[2026/11/19 - The Cheonho-dong Incident: From AI Cheating Allegations Against a Perfect-Scoring LEET Taker to Being Found in Cardiac Arrest](https://ai.trend.dmomo.co.kr/2026/11/the-cheonho-dong-incident-from-ai.html) <br/>
+[2026/11/19 - Marine Le Pen’s 2027 Election Strategy: Her Pledge to Lower the Retirement Age to 60 and Her Chances of Winning Power](https://ai.trend.dmomo.co.kr/2026/11/marine-le-pens-2027-election-strategy.html) <br/>
+[2026/11/19 - A Major Shift in Busan’s Urban Strategy: Running, Marine Conservation, and Protecting Small Businesses](https://ai.trend.dmomo.co.kr/2026/11/a-major-shift-in-busans-urban-strategy.html) <br/>
+[2026/11/19 - DBS and J.P. Morgan Link Bank Deposits on the Blockchain—Could This Usher In 24/7 Cross-Border Payments?](https://ai.trend.dmomo.co.kr/2026/11/dbs-and-jp-morgan-link-bank-deposits-on.html) <br/>
+[2026/11/19 - GTA 6 Release Date Confirmed! When You Can Play in Each U.S. Time Zone](https://ai.trend.dmomo.co.kr/2026/11/gta-6-release-date-confirmed-when-you.html) <br/>
