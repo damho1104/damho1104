@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/19 - 꼴찌가 1위를 잡았다! 유타 재즈, 레이커스 9연승 저지한 NBA 최대 이변](https://blog.ai.dmomo.co.kr/trend/37812) <br/>
-[2026/11/19 - LEET 만점자 천호동 사건, AI 부정행위 의혹부터 심정지 발견까지](https://blog.ai.dmomo.co.kr/trend/37810) <br/>
-[2026/11/19 - 마린 르펜 2027 대선 전략: 연금 60세 공약과 집권 가능성 분석](https://blog.ai.dmomo.co.kr/trend/37791) <br/>
-[2026/11/19 - 부산의 도시 전략 대전환: 러닝·해양환경·소상공인 보호까지](https://blog.ai.dmomo.co.kr/trend/37767) <br/>
-[2026/11/19 - DBS·J.P.모건, 은행 예금을 블록체인으로 연결…24시간 국경 간 결제 시대 열까?](https://blog.ai.dmomo.co.kr/tech/37765) <br/>
+[2026/11/20 - 닉스, 19점 리드 흔들렸지만 팀버울브스 꺾고 3연승 달성](https://blog.ai.dmomo.co.kr/trend/37884) <br/>
+[2026/11/20 - 이부진, K-관광 아이콘으로 변신…패션·경영·문화의 3중 전략](https://blog.ai.dmomo.co.kr/trend/37882) <br/>
+[2026/11/20 - 2027 수능 등급컷 예상: 국어·수학 1등급 기준과 지원 전략](https://blog.ai.dmomo.co.kr/trend/37862) <br/>
+[2026/11/20 - 콜츠 3점 완패, 텍산스 Stroud의 역습으로 AFC South 판도 뒤흔들다](https://blog.ai.dmomo.co.kr/trend/37861) <br/>
+[2026/11/20 - AI 텍스트 탐지의 새 해법, TTA로 우회 문장 탐지율 93% 넘긴다?](https://blog.ai.dmomo.co.kr/tech/37839) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/11/19 - Last-Place Utah Jazz Stun the NBA, Snapping the Lakers’ Nine-Game Winning Streak in a Massive Upset!](https://ai.trend.dmomo.co.kr/2026/11/last-place-utah-jazz-stun-nba-snapping.html) <br/>
-[2026/11/19 - The Cheonho-dong Incident: From AI Cheating Allegations Against a Perfect-Scoring LEET Taker to Being Found in Cardiac Arrest](https://ai.trend.dmomo.co.kr/2026/11/the-cheonho-dong-incident-from-ai.html) <br/>
-[2026/11/19 - Marine Le Pen’s 2027 Election Strategy: Her Pledge to Lower the Retirement Age to 60 and Her Chances of Winning Power](https://ai.trend.dmomo.co.kr/2026/11/marine-le-pens-2027-election-strategy.html) <br/>
-[2026/11/19 - A Major Shift in Busan’s Urban Strategy: Running, Marine Conservation, and Protecting Small Businesses](https://ai.trend.dmomo.co.kr/2026/11/a-major-shift-in-busans-urban-strategy.html) <br/>
-[2026/11/19 - DBS and J.P. Morgan Link Bank Deposits on the Blockchain—Could This Usher In 24/7 Cross-Border Payments?](https://ai.trend.dmomo.co.kr/2026/11/dbs-and-jp-morgan-link-bank-deposits-on.html) <br/>
-[2026/11/19 - GTA 6 Release Date Confirmed! When You Can Play in Each U.S. Time Zone](https://ai.trend.dmomo.co.kr/2026/11/gta-6-release-date-confirmed-when-you.html) <br/>
+[2026/11/20 - Lee Boo-jin Emerges as a K-Tourism Icon with a Three-Pronged Strategy: Fashion, Business, and Culture](https://ai.trend.dmomo.co.kr/2026/11/lee-boo-jin-emerges-as-k-tourism-icon.html) <br/>
+[2026/11/20 - Knicks Hold Off Timberwolves After Nearly Blowing 19-Point Lead, Extend Win Streak to Three](https://ai.trend.dmomo.co.kr/2026/11/knicks-hold-off-timberwolves-after.html) <br/>
+[2026/11/20 - 2027 CSAT Grade Cutoff Predictions: Grade 1 Benchmarks for Korean and Math, Plus Application Strategies](https://ai.trend.dmomo.co.kr/2026/11/2027-csat-grade-cutoff-predictions.html) <br/>
+[2026/11/20 - Colts Fall by 3 as Stroud’s Texans Strike Back and Shake Up the AFC South](https://ai.trend.dmomo.co.kr/2026/11/colts-fall-by-3-as-strouds-texans.html) <br/>
+[2026/11/20 - A New Approach to AI Text Detection: Can TTA Catch Evasive Text with Over 93% Accuracy?](https://ai.trend.dmomo.co.kr/2026/11/a-new-approach-to-ai-text-detection-can.html) <br/>
+[2026/11/20 - The Season 2 Success Formula: Building a Global IP Platform, Not Just a Sequel](https://ai.trend.dmomo.co.kr/2026/11/the-season-2-success-formula-building.html) <br/>
