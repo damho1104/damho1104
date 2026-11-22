@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/20 - 닉스, 19점 리드 흔들렸지만 팀버울브스 꺾고 3연승 달성](https://blog.ai.dmomo.co.kr/trend/37884) <br/>
-[2026/11/20 - 이부진, K-관광 아이콘으로 변신…패션·경영·문화의 3중 전략](https://blog.ai.dmomo.co.kr/trend/37882) <br/>
-[2026/11/20 - 2027 수능 등급컷 예상: 국어·수학 1등급 기준과 지원 전략](https://blog.ai.dmomo.co.kr/trend/37862) <br/>
-[2026/11/20 - 콜츠 3점 완패, 텍산스 Stroud의 역습으로 AFC South 판도 뒤흔들다](https://blog.ai.dmomo.co.kr/trend/37861) <br/>
-[2026/11/20 - AI 텍스트 탐지의 새 해법, TTA로 우회 문장 탐지율 93% 넘긴다?](https://blog.ai.dmomo.co.kr/tech/37839) <br/>
+[2026/11/22 - AI는 거품인가 대세인가? 레딧 커뮤니티가 내린 충격적 결론](https://blog.ai.dmomo.co.kr/ai/37956) <br/>
+[2026/11/21 - AI가 167년 난제 풀었나? 리만 가설 증명 주장의 진실](https://blog.ai.dmomo.co.kr/trend/37947) <br/>
+[2026/11/21 - AI가 리만가설을 증명했다? 167년 난제의 진실](https://blog.ai.dmomo.co.kr/trend/37945) <br/>
+[2026/11/21 - Oregon 45-7 대승! CFP 진출 향한 Ducks의 압도적 질주](https://blog.ai.dmomo.co.kr/trend/37929) <br/>
+[2026/11/21 - Ethereum Glamsterdam 업그레이드, 왜 2027년으로 미뤄질까? 핵심 기술과 호환성 리스크 분석](https://blog.ai.dmomo.co.kr/tech/37908) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/11/20 - Lee Boo-jin Emerges as a K-Tourism Icon with a Three-Pronged Strategy: Fashion, Business, and Culture](https://ai.trend.dmomo.co.kr/2026/11/lee-boo-jin-emerges-as-k-tourism-icon.html) <br/>
-[2026/11/20 - Knicks Hold Off Timberwolves After Nearly Blowing 19-Point Lead, Extend Win Streak to Three](https://ai.trend.dmomo.co.kr/2026/11/knicks-hold-off-timberwolves-after.html) <br/>
-[2026/11/20 - 2027 CSAT Grade Cutoff Predictions: Grade 1 Benchmarks for Korean and Math, Plus Application Strategies](https://ai.trend.dmomo.co.kr/2026/11/2027-csat-grade-cutoff-predictions.html) <br/>
-[2026/11/20 - Colts Fall by 3 as Stroud’s Texans Strike Back and Shake Up the AFC South](https://ai.trend.dmomo.co.kr/2026/11/colts-fall-by-3-as-strouds-texans.html) <br/>
-[2026/11/20 - A New Approach to AI Text Detection: Can TTA Catch Evasive Text with Over 93% Accuracy?](https://ai.trend.dmomo.co.kr/2026/11/a-new-approach-to-ai-text-detection-can.html) <br/>
-[2026/11/20 - The Season 2 Success Formula: Building a Global IP Platform, Not Just a Sequel](https://ai.trend.dmomo.co.kr/2026/11/the-season-2-success-formula-building.html) <br/>
+[2026/11/21 - Did AI Solve a 167-Year-Old Problem? The Truth Behind the Claimed Proof of the Riemann Hypothesis](https://ai.trend.dmomo.co.kr/2026/11/did-ai-solve-167-year-old-problem-truth.html) <br/>
+[2026/11/21 - Did AI Prove the Riemann Hypothesis? The Truth Behind a 167-Year-Old Mystery](https://ai.trend.dmomo.co.kr/2026/11/did-ai-prove-riemann-hypothesis-truth.html) <br/>
+[2026/11/21 - Oregon Rolls to a 45-7 Blowout as the Ducks Charge Toward the CFP](https://ai.trend.dmomo.co.kr/2026/11/oregon-rolls-to-45-7-blowout-as-ducks.html) <br/>
+[2026/11/21 - Ethereum’s Glamsterdam Upgrade: Why Is It Being Delayed Until 2027? Key Technologies and Compatibility Risks Explained](https://ai.trend.dmomo.co.kr/2026/11/ethereums-glamsterdam-upgrade-why-is-it.html) <br/>
+[2026/11/21 - Lee Boo-jin: From Hotel CEO to a Leader Shaping Korea’s Tourism and Cultural Brands](https://ai.trend.dmomo.co.kr/2026/11/lee-boo-jin-from-hotel-ceo-to-leader.html) <br/>
+[2026/11/21 - The Hidden “Garter” in NYT Connections: The Secret Behind “Stuttgarter”](https://ai.trend.dmomo.co.kr/2026/11/the-hidden-garter-in-nyt-connections.html) <br/>
