@@ -87,16 +87,11 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/22 - AI는 거품인가 대세인가? 레딧 커뮤니티가 내린 충격적 결론](https://blog.ai.dmomo.co.kr/ai/37956) <br/>
-[2026/11/21 - AI가 167년 난제 풀었나? 리만 가설 증명 주장의 진실](https://blog.ai.dmomo.co.kr/trend/37947) <br/>
-[2026/11/21 - AI가 리만가설을 증명했다? 167년 난제의 진실](https://blog.ai.dmomo.co.kr/trend/37945) <br/>
-[2026/11/21 - Oregon 45-7 대승! CFP 진출 향한 Ducks의 압도적 질주](https://blog.ai.dmomo.co.kr/trend/37929) <br/>
-[2026/11/21 - Ethereum Glamsterdam 업그레이드, 왜 2027년으로 미뤄질까? 핵심 기술과 호환성 리스크 분석](https://blog.ai.dmomo.co.kr/tech/37908) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/11/22 - Ace Your 2026 Midterms: Subject-by-Subject Strategies for Success in the AI Era](https://ai.trend.dmomo.co.kr/2026/11/ace-your-2026-midterms-subject-by.html) <br/>
+[2026/11/22 - Georgia’s 34–6 Rout: How a Dominant Second Half Sealed the SEC Championship](https://ai.trend.dmomo.co.kr/2026/11/georgias-346-rout-how-dominant-second.html) <br/>
+[2026/11/22 - What Is GeneXus for Agents? How to Modernize Legacy Systems with AI Agents](https://ai.trend.dmomo.co.kr/2026/11/what-is-genexus-for-agents-how-to.html) <br/>
+[2026/11/22 - Tottenham Cruise to 2-0 Win as 18-Year-Old Williams-Barnett Shines with a Goal and Assist on His First Start](https://ai.trend.dmomo.co.kr/2026/11/tottenham-cruise-to-2-0-win-as-18-year.html) <br/>
+[2026/11/22 - Nebraska Stuns Ohio State for the First Time in 10 Years, Ends 31-Game Losing Streak in Historic Comeback](https://ai.trend.dmomo.co.kr/2026/11/nebraska-stuns-ohio-state-for-first.html) <br/>
 [2026/11/21 - Did AI Solve a 167-Year-Old Problem? The Truth Behind the Claimed Proof of the Riemann Hypothesis](https://ai.trend.dmomo.co.kr/2026/11/did-ai-solve-167-year-old-problem-truth.html) <br/>
-[2026/11/21 - Did AI Prove the Riemann Hypothesis? The Truth Behind a 167-Year-Old Mystery](https://ai.trend.dmomo.co.kr/2026/11/did-ai-prove-riemann-hypothesis-truth.html) <br/>
-[2026/11/21 - Oregon Rolls to a 45-7 Blowout as the Ducks Charge Toward the CFP](https://ai.trend.dmomo.co.kr/2026/11/oregon-rolls-to-45-7-blowout-as-ducks.html) <br/>
-[2026/11/21 - Ethereum’s Glamsterdam Upgrade: Why Is It Being Delayed Until 2027? Key Technologies and Compatibility Risks Explained](https://ai.trend.dmomo.co.kr/2026/11/ethereums-glamsterdam-upgrade-why-is-it.html) <br/>
-[2026/11/21 - Lee Boo-jin: From Hotel CEO to a Leader Shaping Korea’s Tourism and Cultural Brands](https://ai.trend.dmomo.co.kr/2026/11/lee-boo-jin-from-hotel-ceo-to-leader.html) <br/>
-[2026/11/21 - The Hidden “Garter” in NYT Connections: The Secret Behind “Stuttgarter”](https://ai.trend.dmomo.co.kr/2026/11/the-hidden-garter-in-nyt-connections.html) <br/>
