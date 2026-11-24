@@ -87,11 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
+[2026/11/23 - 한덕수 내란 파기환송심, 계엄 전후 행위 어떻게 판단되나](https://blog.ai.dmomo.co.kr/trend/38070) <br/>
+[2026/11/23 - 데뷔 61년 남진이 지금도 현역인 이유, 레거시 콘텐츠의 비밀](https://blog.ai.dmomo.co.kr/trend/38052) <br/>
+[2026/11/23 - ESPN 전설 톰 잭슨 별세, Orange Crush와 NFL 방송을 바꾼 75년 생애](https://blog.ai.dmomo.co.kr/trend/38050) <br/>
+[2026/11/22 - 2026 중간고사 완벽 대비: AI 시대 과목별 합격 전략 총정리](https://blog.ai.dmomo.co.kr/trend/38010) <br/>
+[2026/11/22 - Georgia 34-6 완승! SEC 챔피언십 굳힌 후반 압도의 비결](https://blog.ai.dmomo.co.kr/trend/37992) <br/>
 
 ## ✅ Latest AI EN Blog Post
+[2026/11/23 - Han Duck-soo’s Insurrection Case Returns to Court: How Will His Actions Before and After Martial Law Be Judged?](https://ai.trend.dmomo.co.kr/2026/11/han-duck-soos-insurrection-case-returns.html) <br/>
+[2026/11/23 - Why Nam Jin Is Still Going Strong 61 Years After His Debut: The Secret Behind Legacy Content](https://ai.trend.dmomo.co.kr/2026/11/why-nam-jin-is-still-going-strong-61.html) <br/>
+[2026/11/23 - ESPN Legend Tom Jackson Dies at 75, After Shaping the Orange Crush and NFL Broadcasting](https://ai.trend.dmomo.co.kr/2026/11/espn-legend-tom-jackson-dies-at-75.html) <br/>
 [2026/11/22 - Ace Your 2026 Midterms: Subject-by-Subject Strategies for Success in the AI Era](https://ai.trend.dmomo.co.kr/2026/11/ace-your-2026-midterms-subject-by.html) <br/>
 [2026/11/22 - Georgia’s 34–6 Rout: How a Dominant Second Half Sealed the SEC Championship](https://ai.trend.dmomo.co.kr/2026/11/georgias-346-rout-how-dominant-second.html) <br/>
 [2026/11/22 - What Is GeneXus for Agents? How to Modernize Legacy Systems with AI Agents](https://ai.trend.dmomo.co.kr/2026/11/what-is-genexus-for-agents-how-to.html) <br/>
-[2026/11/22 - Tottenham Cruise to 2-0 Win as 18-Year-Old Williams-Barnett Shines with a Goal and Assist on His First Start](https://ai.trend.dmomo.co.kr/2026/11/tottenham-cruise-to-2-0-win-as-18-year.html) <br/>
-[2026/11/22 - Nebraska Stuns Ohio State for the First Time in 10 Years, Ends 31-Game Losing Streak in Historic Comeback](https://ai.trend.dmomo.co.kr/2026/11/nebraska-stuns-ohio-state-for-first.html) <br/>
-[2026/11/21 - Did AI Solve a 167-Year-Old Problem? The Truth Behind the Claimed Proof of the Riemann Hypothesis](https://ai.trend.dmomo.co.kr/2026/11/did-ai-solve-167-year-old-problem-truth.html) <br/>
