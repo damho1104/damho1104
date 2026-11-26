@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/24 - 2026 IPO 시장 완전 분석: 기술특례상장부터 공모주 투자 전략까지](https://blog.ai.dmomo.co.kr/trend/38142) <br/>
-[2026/11/24 - 벵골스 충격 역전패, 마지막 39초가 드러낸 3가지 치명적 약점](https://blog.ai.dmomo.co.kr/trend/38124) <br/>
-[2026/11/24 - 정상빈 골 포함 세인트루이스, MLS 플레이오프 1차전 LAFC 3-2 격파](https://blog.ai.dmomo.co.kr/trend/38122) <br/>
-[2026/11/24 - WebAssembly Web API 2.0이 바꾸는 웹 성능: 스트리밍 컴파일과 Worker 활용법](https://blog.ai.dmomo.co.kr/tech/38097) <br/>
-[2026/11/24 - 설악산 여행의 모든 것: K-트레킹부터 케이블카 논쟁까지](https://blog.ai.dmomo.co.kr/trend/38095) <br/>
+[2026/11/25 - 2026년 반도체 대전환: HBM4·AI 패키징이 바꾸는 한국의 기회와 위기](https://blog.ai.dmomo.co.kr/trend/38205) <br/>
+[2026/11/25 - 2026 미국 Thanksgiving, 물가·AI가 바꾼 식탁의 현실](https://blog.ai.dmomo.co.kr/trend/38203) <br/>
+[2026/11/25 - 2026 한국 연금개혁 완전 분석: 보험료 13%·수급연령·세대갈등](https://blog.ai.dmomo.co.kr/trend/38184) <br/>
+[2026/11/25 - 패럴림픽 선수 Ezra Frech, DWTS 시즌35 우승…의족 벗은 감동 무대](https://blog.ai.dmomo.co.kr/trend/38182) <br/>
+[2026/11/25 - Opera WebAI란? 브라우저에서 AI를 실행하는 최신 웹 표준의 가능성과 한계](https://blog.ai.dmomo.co.kr/tech/38160) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/11/24 - The 2026 IPO Market: A Complete Guide to Tech Special Listings and IPO Investment Strategies](https://ai.trend.dmomo.co.kr/2026/11/the-2026-ipo-market-complete-guide-to.html) <br/>
-[2026/11/24 - Bengals’ Stunning Collapse: 3 Fatal Flaws Exposed in the Final 39 Seconds](https://ai.trend.dmomo.co.kr/2026/11/bengals-stunning-collapse-3-fatal-flaws.html) <br/>
-[2026/11/24 - St. Louis Beat LAFC 3-2 in MLS Playoff Opener, with Sang-bin Jeong on the Scoresheet](https://ai.trend.dmomo.co.kr/2026/11/st-louis-beat-lafc-3-2-in-mls-playoff.html) <br/>
-[2026/11/24 - How WebAssembly Web API 2.0 Is Transforming Web Performance: Streaming Compilation and Web Workers](https://ai.trend.dmomo.co.kr/2026/11/how-webassembly-web-api-20-is.html) <br/>
-[2026/11/24 - Everything You Need to Know About Seoraksan: From K-Hiking to the Cable Car Controversy](https://ai.trend.dmomo.co.kr/2026/11/everything-you-need-to-know-about.html) <br/>
-[2026/11/24 - Why Did Fluffy Iglesias Collapse During a Show—and How Is He Doing Now?](https://ai.trend.dmomo.co.kr/2026/11/why-did-fluffy-iglesias-collapse-during.html) <br/>
+[2026/11/25 - 2026: The Great Semiconductor Shift—How HBM4 and AI Packaging Are Reshaping South Korea’s Opportunities and Risks](https://ai.trend.dmomo.co.kr/2026/11/2026-great-semiconductor-shifthow-hbm4.html) <br/>
+[2026/11/25 - Thanksgiving 2026 in America: How Rising Prices and AI Are Changing the Dinner Table](https://ai.trend.dmomo.co.kr/2026/11/thanksgiving-2026-in-america-how-rising.html) <br/>
+[2026/11/25 - South Korea’s 2026 Pension Reform, Explained: 13% Contributions, Eligibility Age, and Generational Tensions](https://ai.trend.dmomo.co.kr/2026/11/south-koreas-2026-pension-reform.html) <br/>
+[2026/11/25 - Paralympian Ezra Frech Wins DWTS Season 35 with a Moving Performance Without His Prosthetic Leg](https://ai.trend.dmomo.co.kr/2026/11/paralympian-ezra-frech-wins-dwts-season.html) <br/>
+[2026/11/25 - What Is Opera WebAI? The Promise and Limits of Running AI in Your Browser with a New Web Standard](https://ai.trend.dmomo.co.kr/2026/11/what-is-opera-webai-promise-and-limits.html) <br/>
+[2026/11/25 - Sang-bin Jeong Scores and Assists as St. Louis Wins Its First-Ever MLS Playoff Game](https://ai.trend.dmomo.co.kr/2026/11/sang-bin-jeong-scores-and-assists-as-st.html) <br/>
