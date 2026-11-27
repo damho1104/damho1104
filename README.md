@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/25 - 2026년 반도체 대전환: HBM4·AI 패키징이 바꾸는 한국의 기회와 위기](https://blog.ai.dmomo.co.kr/trend/38205) <br/>
-[2026/11/25 - 2026 미국 Thanksgiving, 물가·AI가 바꾼 식탁의 현실](https://blog.ai.dmomo.co.kr/trend/38203) <br/>
-[2026/11/25 - 2026 한국 연금개혁 완전 분석: 보험료 13%·수급연령·세대갈등](https://blog.ai.dmomo.co.kr/trend/38184) <br/>
-[2026/11/25 - 패럴림픽 선수 Ezra Frech, DWTS 시즌35 우승…의족 벗은 감동 무대](https://blog.ai.dmomo.co.kr/trend/38182) <br/>
-[2026/11/25 - Opera WebAI란? 브라우저에서 AI를 실행하는 최신 웹 표준의 가능성과 한계](https://blog.ai.dmomo.co.kr/tech/38160) <br/>
+[2026/11/26 - 조별리그 완전 정복: 한국 U-17이 증명한 골득실 전략의 비밀](https://blog.ai.dmomo.co.kr/trend/38277) <br/>
+[2026/11/26 - 2026년 Target 추수감사절 영업시간 총정리: Black Friday 개장은 몇 시?](https://blog.ai.dmomo.co.kr/trend/38275) <br/>
+[2026/11/26 - 군 하사의 역할과 심리적 부담, 조직문화 개선이 시급한 이유](https://blog.ai.dmomo.co.kr/trend/38256) <br/>
+[2026/11/26 - AWS Lambda GPU 지원, 서버리스 AI 추론의 판도를 바꿀 7가지 핵심 포인트](https://blog.ai.dmomo.co.kr/tech/38235) <br/>
+[2026/11/26 - 2026 반도체 산업 대전환: HBM을 넘어 AI 인프라 전쟁이 시작됐다](https://blog.ai.dmomo.co.kr/trend/38233) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/11/25 - 2026: The Great Semiconductor Shift—How HBM4 and AI Packaging Are Reshaping South Korea’s Opportunities and Risks](https://ai.trend.dmomo.co.kr/2026/11/2026-great-semiconductor-shifthow-hbm4.html) <br/>
-[2026/11/25 - Thanksgiving 2026 in America: How Rising Prices and AI Are Changing the Dinner Table](https://ai.trend.dmomo.co.kr/2026/11/thanksgiving-2026-in-america-how-rising.html) <br/>
-[2026/11/25 - South Korea’s 2026 Pension Reform, Explained: 13% Contributions, Eligibility Age, and Generational Tensions](https://ai.trend.dmomo.co.kr/2026/11/south-koreas-2026-pension-reform.html) <br/>
-[2026/11/25 - Paralympian Ezra Frech Wins DWTS Season 35 with a Moving Performance Without His Prosthetic Leg](https://ai.trend.dmomo.co.kr/2026/11/paralympian-ezra-frech-wins-dwts-season.html) <br/>
-[2026/11/25 - What Is Opera WebAI? The Promise and Limits of Running AI in Your Browser with a New Web Standard](https://ai.trend.dmomo.co.kr/2026/11/what-is-opera-webai-promise-and-limits.html) <br/>
-[2026/11/25 - Sang-bin Jeong Scores and Assists as St. Louis Wins Its First-Ever MLS Playoff Game](https://ai.trend.dmomo.co.kr/2026/11/sang-bin-jeong-scores-and-assists-as-st.html) <br/>
+[2026/11/26 - How South Korea’s U-17s Mastered the Group Stage: The Goal-Difference Strategy Behind Their Success](https://ai.trend.dmomo.co.kr/2026/11/how-south-koreas-u-17s-mastered-group.html) <br/>
+[2026/11/26 - Target Thanksgiving 2026 Hours: What Time Does It Open on Black Friday?](https://ai.trend.dmomo.co.kr/2026/11/target-thanksgiving-2026-hours-what.html) <br/>
+[2026/11/26 - The Role of a Military Sergeant, the Psychological Strain They Face, and Why Organizational Culture Must Change—Now](https://ai.trend.dmomo.co.kr/2026/11/the-role-of-military-sergeant.html) <br/>
+[2026/11/26 - AWS Lambda GPU Support: 7 Key Ways It Could Change the Game for Serverless AI Inference](https://ai.trend.dmomo.co.kr/2026/11/aws-lambda-gpu-support-7-key-ways-it.html) <br/>
+[2026/11/26 - 2026: The Semiconductor Industry’s Great Shift—Beyond HBM, the Battle for AI Infrastructure Begins](https://ai.trend.dmomo.co.kr/2026/11/2026-semiconductor-industrys-great.html) <br/>
+[2026/11/26 - Thanksgiving 2026: Dates, Travel Crowds, and Store Hours—Everything You Need to Know](https://ai.trend.dmomo.co.kr/2026/11/thanksgiving-2026-dates-travel-crowds.html) <br/>
