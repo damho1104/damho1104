@@ -87,16 +87,16 @@
 [2025/11/21 - 신민아 김우빈 12월 결혼! 10년 열애 끝 해피엔딩 완성](https://dmomo.co.kr/764) <br/>
 
 ## ✅ Latest AI Blog Post
-[2026/11/26 - 조별리그 완전 정복: 한국 U-17이 증명한 골득실 전략의 비밀](https://blog.ai.dmomo.co.kr/trend/38277) <br/>
-[2026/11/26 - 2026년 Target 추수감사절 영업시간 총정리: Black Friday 개장은 몇 시?](https://blog.ai.dmomo.co.kr/trend/38275) <br/>
-[2026/11/26 - 군 하사의 역할과 심리적 부담, 조직문화 개선이 시급한 이유](https://blog.ai.dmomo.co.kr/trend/38256) <br/>
-[2026/11/26 - AWS Lambda GPU 지원, 서버리스 AI 추론의 판도를 바꿀 7가지 핵심 포인트](https://blog.ai.dmomo.co.kr/tech/38235) <br/>
-[2026/11/26 - 2026 반도체 산업 대전환: HBM을 넘어 AI 인프라 전쟁이 시작됐다](https://blog.ai.dmomo.co.kr/trend/38233) <br/>
+[2026/11/27 - 추수감사절 Bills vs Chiefs, 57야드 결승 필드골로 뒤집은 10승의 비밀](https://blog.ai.dmomo.co.kr/trend/38349) <br/>
+[2026/11/27 - Chiefs 13-10 패배, Mahomes의 위기인가? AFC 1위 경쟁 판도 분석](https://blog.ai.dmomo.co.kr/trend/38331) <br/>
+[2026/11/27 - 며느리 트렌드의 변화: 희생 대신 경계와 공정함을 선택하다](https://blog.ai.dmomo.co.kr/trend/38329) <br/>
+[2026/11/27 - Pulumi Agents와 Delivery란? AI가 인프라를 운영하는 2026 DevOps 혁신](https://blog.ai.dmomo.co.kr/tech/38304) <br/>
+[2026/11/27 - 맥도날드 최신 전략 7가지: 한정판·지역화·디지털로 진화하다](https://blog.ai.dmomo.co.kr/trend/38302) <br/>
 
 ## ✅ Latest AI EN Blog Post
-[2026/11/26 - How South Korea’s U-17s Mastered the Group Stage: The Goal-Difference Strategy Behind Their Success](https://ai.trend.dmomo.co.kr/2026/11/how-south-koreas-u-17s-mastered-group.html) <br/>
-[2026/11/26 - Target Thanksgiving 2026 Hours: What Time Does It Open on Black Friday?](https://ai.trend.dmomo.co.kr/2026/11/target-thanksgiving-2026-hours-what.html) <br/>
-[2026/11/26 - The Role of a Military Sergeant, the Psychological Strain They Face, and Why Organizational Culture Must Change—Now](https://ai.trend.dmomo.co.kr/2026/11/the-role-of-military-sergeant.html) <br/>
-[2026/11/26 - AWS Lambda GPU Support: 7 Key Ways It Could Change the Game for Serverless AI Inference](https://ai.trend.dmomo.co.kr/2026/11/aws-lambda-gpu-support-7-key-ways-it.html) <br/>
-[2026/11/26 - 2026: The Semiconductor Industry’s Great Shift—Beyond HBM, the Battle for AI Infrastructure Begins](https://ai.trend.dmomo.co.kr/2026/11/2026-semiconductor-industrys-great.html) <br/>
-[2026/11/26 - Thanksgiving 2026: Dates, Travel Crowds, and Store Hours—Everything You Need to Know](https://ai.trend.dmomo.co.kr/2026/11/thanksgiving-2026-dates-travel-crowds.html) <br/>
+[2026/11/27 - Thanksgiving Showdown: The Secret Behind the Bills’ 10th Win Over the Chiefs, Sealed by a 57-Yard Game-Winning Field Goal](https://ai.trend.dmomo.co.kr/2026/11/thanksgiving-showdown-secret-behind.html) <br/>
+[2026/11/27 - A New Era for Daughters-in-Law: Choosing Boundaries and Fairness Over Sacrifice](https://ai.trend.dmomo.co.kr/2026/11/a-new-era-for-daughters-in-law-choosing.html) <br/>
+[2026/11/27 - Chiefs Fall 13–10: Is Mahomes in Crisis? A Look at the AFC No. 1 Seed Race](https://ai.trend.dmomo.co.kr/2026/11/chiefs-fall-1310-is-mahomes-in-crisis.html) <br/>
+[2026/11/27 - What Are Pulumi Agents and Delivery? The 2026 DevOps Revolution: AI-Managed Infrastructure](https://ai.trend.dmomo.co.kr/2026/11/what-are-pulumi-agents-and-delivery.html) <br/>
+[2026/11/27 - 7 Ways McDonald’s Is Evolving Through Limited-Time Offers, Localization, and Digital Innovation](https://ai.trend.dmomo.co.kr/2026/11/7-ways-mcdonalds-is-evolving-through.html) <br/>
+[2026/11/27 - Thanksgiving Cowboys–Eagles Showdown: An NFC East Turning Point That Could Reshape the Playoff Race](https://ai.trend.dmomo.co.kr/2026/11/thanksgiving-cowboyseagles-showdown-nfc.html) <br/>
